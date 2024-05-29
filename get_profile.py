@@ -2,9 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-def get_scholar_profile_id(name):
+
+def get_scholar_profile_id(query):
+    """Search Google Scholar profiles using the provided query 
+        and return the ID of the most relevant profile.
+    """
     search_url = "https://scholar.google.com/citations"
-    params = {"mauthors": name, "hl": "en", "view_op": "search_authors"}
+    params = {"mauthors": query, "hl": "en", "view_op": "search_authors"}
 
     headers = {'User-Agent': 'Mozilla/5.0'}
     response = requests.get(search_url, params=params, headers=headers)
@@ -21,10 +25,12 @@ def get_scholar_profile_id(name):
     
     return None
 
-# Example usage
-faculty_names = ["Matthew Wright rit.edu"]
-faculty_profiles = {name: get_scholar_profile_id(name) for name in faculty_names}
 
-for name, profile_id in faculty_profiles.items():
-    print(f"Name: {name}, Profile ID: {profile_id}")
+if __name__ == "__main__":
+    # Example usage
+    faculty_names = ["Matthew Wright"]
+    faculty_profiles = {name: get_scholar_profile_id(f'{name} rit.edu') for name in faculty_names}
+
+    for name, profile_id in faculty_profiles.items():
+        print(f"Name: {name}, Profile ID: {profile_id}")
 

@@ -2,20 +2,22 @@ import requests
 from bs4 import BeautifulSoup
 import datetime
 
-def fetch_recent_faculty_publications(faculty_name, year=2023):
 
+def fetch_recent_faculty_publications(query, year=None):
+    """Run a query through Google Scholar and return basic information 
+        on retrieved articles, with optional filtering by year.
+    """
     # Encode the faculty name to insert into the URL
-    query = '+'.join(faculty_name.split())
+    query = '+'.join(query.split())
     url = f'https://scholar.google.com/scholar'
-    params = {'as_ylo': year, 'hl': 'en', 'q': query}
+    params = {'hl': 'en', 'q': query}
+    if year is not None:
+        params['as_ylo'] = year
 
     # Send a request to Google Scholar
     headers = {'User-Agent': 'Mozilla/5.0'}
     response = requests.get(url, headers=headers, params=params)
-
-    if response.status_code != 200:
-        print('Failed to retrieve data')
-        return []
+    response.raise_for_status()
 
     # Parse the page with BeautifulSoup
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -27,12 +29,16 @@ def fetch_recent_faculty_publications(faculty_name, year=2023):
         link = entry.h3.a['href'] if entry.h3 and entry.h3.a else 'No link available'
         year = entry.find('div', class_='gs_a').text
 
-        publications.append((title, link, year))
+        publications.append({'title': title, 
+                             'link': link, 
+                             'year': year})
 
     return publications
 
-# Example usage
-faculty_name = "Matthew Wright Rochester Institute of Technology RIT"
-publications = fetch_recent_faculty_publications(faculty_name)
-for title, link, year in publications:
-    print(title, link, year)
+
+if __name__ == "__main__":
+    # Example usage
+    faculty_name = "Matthew Wright Rochester Institute of Technology RIT"
+    publications = fetch_recent_faculty_publications(faculty_name, year=2023)
+    for info in publications:
+        print(info)
