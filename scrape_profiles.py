@@ -40,14 +40,14 @@ def get_profile_page_selenium(profile_id):
     # Click the "Show More" button until it disappears
     while True:
         try:
-            print("Clicking \"Show More\" button...")
+            #print("Clicking \"Show More\" button...")
             show_more_button = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.ID, "gsc_bpf_more"))
             )
             show_more_button.click()
             time.sleep(2)  # Wait for the page to load new content
         except Exception as e:
-            print(f"No more 'Show More' button found: {e}")
+            #print(f"No more 'Show More' button found: {e}")
             break
 
     page_source = driver.page_source
@@ -59,7 +59,7 @@ def get_profile_page(profile_id):
     """Use the standard requests library to capture a google profile page.
         Lacks webpage interaction, so only the most recent 20 articles can be captured.
     """
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'}
     base_url = f"https://scholar.google.com/citations"
     params = {'user': profile_id, 'hl': 'en', 'sortby': 'pubdate'}
 
@@ -97,9 +97,13 @@ def get_scholar_profile_papers(profile_id, use_selenium=USE_SELENIUM):
             "title": title,
             "id": article_id,
             "authors": author_list,
-            "venue": venue,
-            "year": year
+            "pub_source": venue,
+            "pub_date": year
         })
+        
+    # No papers and using selenium? Try using a basic requests call as a backup.
+    if not papers and use_selenium:
+        papers = get_scholar_profile_papers(profile_id, False)
 
     return papers
 
@@ -128,9 +132,45 @@ def parse_article_id(article_url):
 
 
 if __name__ == "__main__":
-    # Example usage
-    profile_id = "icDo19sAAAAJ"
-    papers = get_scholar_profile_papers(profile_id)
+    from argparse import ArgumentParser
+    parser = ArgumentParser()
+    parser.add_argument('--infile', default='./profiles.json')
+    parser.add_argument('--outdir', default='./profiles')
+    args = parser.parse_args()
+    
+    import os
+    if not os.path.exists(args.outdir):
+        os.makedirs(args.outdir)
+        
+    import json
+    with open('profiles.json', 'r') as fi:
+        profiles = json.load(fi)
 
-    for paper in papers:
-        pprint(paper)
+    from scrape_article import fetch_publication_info
+    for name,profile_id in profiles.items():
+        if profile_id:
+
+            print(f'Scraping articles from {name}\'s Google Scholar profile...')
+            try:
+                # Scrape articles off the profile page
+                papers = get_scholar_profile_papers(profile_id)
+                for paper in papers:
+                    # Scrape better article information from the article's page
+                    better_info = fetch_publication_info(paper['id'])
+                    paper.update(better_info)
+
+                    # Construct and print the article url
+                    params = {'hl': 'en', 
+                              'view_op': 'view_citation', 
+                              'citation_for_view': paper['id']}
+                    params_str = '&'.join(f'{key}={value}' for key,value in params.items())
+                    print(f"\thttps://scholar.google.com/citations?{params_str}")
+
+                with open(f'{os.path.join(args.outdir, name)}.json', 'w') as fi:
+                    json.dump(papers, fi, indent=4)
+
+            except KeyboardInterrupt:
+                import sys
+                sys.exit()
+            except:
+                logging.exception(f"Encountered error when scraping {name}!")

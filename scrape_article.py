@@ -13,7 +13,7 @@ def fetch_publication_info(article_ID):
               'citation_for_view': article_ID}
 
     # Send a request to Google Scholar
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'}
     response = requests.get(url, headers=headers, params=params)
     response.raise_for_status()
 
