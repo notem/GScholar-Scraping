@@ -38,7 +38,18 @@ def fetch_recent_faculty_publications(query, year=None):
 
 if __name__ == "__main__":
     # Example usage
-    faculty_name = "Matthew Wright Rochester Institute of Technology RIT"
-    publications = fetch_recent_faculty_publications(faculty_name, year=2023)
+    from argparse import ArgumentParser
+    parser = ArgumentParser("Scrape Google Scholar article search results using a query.")
+    parser.add_argument('--query', 
+                        required=True,
+                        help="")
+    parser.add_argument('--year',
+                        required=False,
+                        default=None,
+                        help="(Optional) Publication year by which to filter the query results.", 
+                        type=int)
+    args = parser.parse_args()
+    
+    publications = fetch_recent_faculty_publications(args.query, year=args.year)
     for info in publications:
         print(info)

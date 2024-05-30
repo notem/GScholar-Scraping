@@ -29,10 +29,18 @@ def get_scholar_profile_id(query):
 if __name__ == "__main__":
     from argparse import ArgumentParser
     
-    parser = ArgumentParser()
-    parser.add_argument('--faculty_list', required=True)
-    parser.add_argument('--search_terms', required=False, default='rit.edu')
-    parser.add_argument('--outfile', default='profiles.json')
+    parser = ArgumentParser('Use Google Scholar profile search to find profile pages for research faculty.')
+    parser.add_argument('--faculty_list', 
+                        required=True,
+                        help="A new-line separated plaintext file containing faculty names to query.")
+    parser.add_argument('--search_terms', 
+                        required=False, 
+                        default='rit.edu',
+                        help="Additional search terms to restrict the profile search. "
+                        "Using your institution's email domain is recommend.")
+    parser.add_argument('--outfile', 
+                        default='profiles.json',
+                        help='The JSON file to which profile IDs should be saved.')
     args = parser.parse_args()
     
     with open(args.faculty_list, 'r') as fi:

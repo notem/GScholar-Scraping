@@ -35,7 +35,7 @@ def fetch_publication_info(article_ID):
         field_value = field.find('div', class_='gsc_oci_value').text.strip()
         
         if field_name == "Authors":
-            proc = lambda text: text.split(',')
+            proc = lambda text: [author.strip() for author in text.split(',')]
             article_info['authors'] = proc(field_value)
             
         elif field_name in ("Conference", "Journal", "Book"):
@@ -62,7 +62,12 @@ def fetch_publication_info(article_ID):
 
 
 if __name__ == "__main__":
-    # Example usage
-    article_id = "icDo19sAAAAJ:u5HHmVD_uO8C"
-    info = fetch_publication_info(article_id)
+    from argparse import ArgumentParser
+    parser = ArgumentParser("Scrape a Google Scholar article page for information related to that article.")
+    parser.add_argument('--article_id', 
+                        required=True, 
+                        default="icDo19sAAAAJ:u5HHmVD_uO8C")
+    args = parser.parse_args()
+    
+    info = fetch_publication_info(args.article_id)
     pprint(info)

@@ -3,7 +3,6 @@ import requests
 import time
 import re
 import logging
-from pprint import pprint
 
 try:
     from selenium import webdriver
@@ -40,14 +39,12 @@ def get_profile_page_selenium(profile_id):
     # Click the "Show More" button until it disappears
     while True:
         try:
-            #print("Clicking \"Show More\" button...")
             show_more_button = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.ID, "gsc_bpf_more"))
             )
             show_more_button.click()
             time.sleep(2)  # Wait for the page to load new content
         except Exception as e:
-            #print(f"No more 'Show More' button found: {e}")
             break
 
     page_source = driver.page_source
@@ -133,9 +130,16 @@ def parse_article_id(article_url):
 
 if __name__ == "__main__":
     from argparse import ArgumentParser
-    parser = ArgumentParser()
-    parser.add_argument('--infile', default='./profiles.json')
-    parser.add_argument('--outdir', default='./profiles')
+    parser = ArgumentParser('Scrape Google Scholar profile and article pages for information on '
+                            'articles published by research faculty. Selenium is optionally required '
+                            'for full profile scraping.')
+    parser.add_argument('--infile', 
+                        default='./profiles.json',
+                        help="A JSON file containing user profile IDs to use for scraping. "
+                        "The `get_profiles.py` script may be used to produce this file.")
+    parser.add_argument('--outdir', 
+                        default='./articles',
+                        help="The directory name in which profile article JSON files should be saved.")
     args = parser.parse_args()
     
     import os
@@ -145,7 +149,12 @@ if __name__ == "__main__":
     import json
     with open('profiles.json', 'r') as fi:
         profiles = json.load(fi)
+        
+    # randomized sleep function to help avoid bot detection
+    import random
+    sleep = lambda: time.sleep(random.randint(10,20))
 
+    # scrape article information 
     from scrape_article import fetch_publication_info
     for name,profile_id in profiles.items():
         if profile_id:
@@ -155,6 +164,8 @@ if __name__ == "__main__":
                 # Scrape articles off the profile page
                 papers = get_scholar_profile_papers(profile_id)
                 for paper in papers:
+                    sleep()
+                    
                     # Scrape better article information from the article's page
                     better_info = fetch_publication_info(paper['id'])
                     paper.update(better_info)
@@ -164,7 +175,7 @@ if __name__ == "__main__":
                               'view_op': 'view_citation', 
                               'citation_for_view': paper['id']}
                     params_str = '&'.join(f'{key}={value}' for key,value in params.items())
-                    print(f"\thttps://scholar.google.com/citations?{params_str}")
+                    print(f" - https://scholar.google.com/citations?{params_str}")
 
                 with open(f'{os.path.join(args.outdir, name)}.json', 'w') as fi:
                     json.dump(papers, fi, indent=4)
@@ -174,3 +185,4 @@ if __name__ == "__main__":
                 sys.exit()
             except:
                 logging.exception(f"Encountered error when scraping {name}!")
+            sleep()
