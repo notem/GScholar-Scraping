@@ -10,13 +10,15 @@ try:
     from selenium.webdriver.common.keys import Keys
     from selenium.webdriver.support.ui import WebDriverWait
     from selenium.webdriver.support import expected_conditions as EC
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless')  # Run in headless mode
-    driver = webdriver.Chrome(options=options)
+    #options = webdriver.ChromeOptions()
+    #options.add_argument('--headless')  # Run in headless mode
+    #driver = webdriver.Chrome(options=options)
+    import undetected_chromedriver as uc
+    driver = uc.Chrome(headless=True, use_subprocess=False)
     driver.quit()
     USE_SELENIUM = True
 except:
-    logging.warning("Selenium ChromeDriver is not available.")
+    logging.exception("Selenium ChromeDriver is not available.")
     USE_SELENIUM = False
 
 
@@ -25,9 +27,11 @@ def get_profile_page_selenium(profile_id):
         the "Show More" button (when necessary) to capture a complete HTML page.
         Requires that the host has chromium installed for the Chrome webdriver to work.
     """
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless')  # Run in headless mode
-    driver = webdriver.Chrome(options=options)
+    import undetected_chromedriver as uc
+    driver = uc.Chrome(headless=True, use_subprocess=False)
+    #options = webdriver.ChromeOptions()
+    #options.add_argument('--headless')  # Run in headless mode
+    #driver = webdriver.Chrome(options=options)
     
     params = {'user': profile_id, 
               'hl': 'en', 
@@ -56,7 +60,9 @@ def get_profile_page(profile_id):
     """Use the standard requests library to capture a google profile page.
         Lacks webpage interaction, so only the most recent 20 articles can be captured.
     """
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'}
+    #headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'}
+    user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14'
+    headers = {'User-Agent': user_agent,'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
     base_url = f"https://scholar.google.com/citations"
     params = {'user': profile_id, 'hl': 'en', 'sortby': 'pubdate'}
 
