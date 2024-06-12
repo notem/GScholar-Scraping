@@ -20,6 +20,16 @@ except:
     USE_SELENIUM = False
 
 
+def build_article_uri(article_id):
+    """Build url for direct access of Scholar information for an article ID
+    """
+    params = {'hl': 'en', 
+              'view_op': 'view_citation', 
+              'citation_for_view': article_id}
+    params_str = '&'.join(f'{key}={value}' for key,value in params.items())
+    return f"https://scholar.google.com/citations?{params_str}"
+
+
 def get_profile_page_selenium(profile_id):
     """Use Selenium to visit a google profile page, and interact with 
         the "Show More" button (when necessary) to capture a complete HTML page.
@@ -93,7 +103,8 @@ def get_scholar_profile_papers(profile_id, use_selenium=USE_SELENIUM):
         papers.append({
             "title": title,
             "id": article_id,
-            "authors": author_list,
+            "url": build_article_uri(article_id),
+            "authors": [author.strip() for author in author_list.split(',')],
             "pub_source": venue,
             "pub_date": year
         })
@@ -152,30 +163,20 @@ if __name__ == "__main__":
         
     # randomized sleep function to help avoid bot detection
     import random
-    sleep = lambda: time.sleep(random.randint(10,20))
+    sleep = lambda x=0: time.sleep((2**x) * random.randint(10,20))
 
     # scrape article information 
     from scrape_article import fetch_publication_info
+    profile_papers = {}
     for name,profile_id in profiles.items():
         if profile_id:
-
-            print(f'Scraping articles from {name}\'s Google Scholar profile...')
+            print(f'Scraping basic info of articles from {name}\'s Google Scholar profile...')
             try:
                 # Scrape articles off the profile page
                 papers = get_scholar_profile_papers(profile_id)
-                for paper in papers:
-                    sleep()
-                    
-                    # Scrape better article information from the article's page
-                    better_info = fetch_publication_info(paper['id'])
-                    paper.update(better_info)
-
-                    # Construct and print the article url
-                    params = {'hl': 'en', 
-                              'view_op': 'view_citation', 
-                              'citation_for_view': paper['id']}
-                    params_str = '&'.join(f'{key}={value}' for key,value in params.items())
-                    print(f" - https://scholar.google.com/citations?{params_str}")
+                profile_papers[name] = papers
+                
+                print(f' - Found {len(papers)} articles')
 
                 with open(f'{os.path.join(args.outdir, name)}.json', 'w') as fi:
                     json.dump(papers, fi, indent=4)
@@ -184,5 +185,37 @@ if __name__ == "__main__":
                 import sys
                 sys.exit()
             except:
-                logging.exception(f"Encountered error when scraping {name}!")
+                logging.warning(f"Encountered error when scraping {name}!")
             sleep()
+
+    print(f'Updating article information with direct queries...')
+    tot_paper_num = sum(len(papers) for name,papers in profile_papers.items())
+    cur_paper_num = 0
+    for name,papers in profile_papers.items():
+        for paper in papers:
+            # Print the current article url
+            print(f"[{cur_paper_num}/{tot_paper_num}] {paper['url']}")
+            better_info = {}
+            
+            # make scraping requests for article information
+            # retry on failures with increasing sleep interval
+            # give up after 14 attempts
+            i = 0   # sleep delay is multiplied by 2**i
+            while i < 14:
+                try:
+                    # Scrape better article information from the article's page
+                    sleep(i)
+                    better_info = fetch_publication_info(paper['id'])
+                    break  # quit loop
+                except KeyboardInterrupt:
+                    import sys
+                    sys.exit()
+                except:
+                    logging.warning(f"Encountered error when scraping {name}!")
+                    i += 1
+                    
+            paper.update(better_info)
+            cur_paper_num += 1
+
+        with open(f'{os.path.join(args.outdir, name)}.json', 'w') as fi:
+            json.dump(papers, fi, indent=4)
