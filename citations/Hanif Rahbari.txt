@@ -1,0 +1,98 @@
+"When Cryptography Needs a Hand: Practical Post-Quantum Authentication for V2V Communications"
+G Twardokus, N Bindel, H Rahbari, S McCarthy - NDSS, 2024
+
+"Demo: An Open-Source Hardware-in-the-Loop Testbed for Post-Quantum V2V Security Research"
+G Twardokus, H Rahbari - VehicleSec, 2024
+
+"Circumventing the Defense against Modulation Classification Attacks"
+N Hoque, H Rahbari - 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2023
+
+"Countering Relay and Spoofing Attacks in the Connection Establishment Phase of Wi-Fi Systems"
+N Hoque, H Rahbari - 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2023
+
+"Towards Protecting 5G Sidelink Scheduling in C-V2X Against Intelligent DoS Attacks"
+G Twardokus, H Rahbari - IEEE Transactions on Wireless Communications, 2023
+
+"Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Malicious Agents"
+H Peng, H Rahbari, SJ Yang, L Wang - IEEE Global Communications Conference (GLOBECOM), 2022
+
+"Implicit Channel Coordination to Tackle Starvation Attacks in 5G and Wi-Fi Coexistence Systems"
+S Dongre, H Rahbari - IEEE Global Communications Conference (GLOBECOM), 2022
+
+"Systematically Analyzing Vulnerabilities in the Connection Establishment Phase of Wi-Fi Systems"
+N Hoque, H Rahbari, C Rezendes - IEEE Conference on Communications and Network Security (CNS), 2022
+
+"Vehicle-to-Nothing? Securing C-V2X Against Protocol-Aware DoS Attacks"
+G Twardokus, H Rahbari - IEEE Conference on Computer Communications (INFOCOM), 2022
+
+"Drive (Quantum) Safe!–Towards Post-Quantum Security for V2V Communications"
+N Bindel, S McCarthy, G Twardokus, H Rahbari - Cryptology ePrint Archive, 2022
+
+"POSTER: A Tough Nut to Crack: Attempting to Break Modulation Obfuscation"
+N Hoque, H Rahbari - ACM SIGSAC Conference on Computer and Communications Security (CCS), 2021
+
+"Adaptive preamble embedding with MIMO to support user-defined functionalities in WLANs"
+Z Zhang, H Rahbari, M Krunz - IEEE Transactions on Mobile Computing, 2021
+
+"Message Sieving to Mitigate Smart Gridlock Attacks in V2V"
+S Dongre, H Rahbari - Security and Privacy in Wireless and Mobile Networks (ACM WiSec), 2021
+
+"Suitability of 3rd round signature candidates for vehicle-to-vehicle communication"
+N Bindel, S McCarthy, H Rahbari, G Twardokus - Third NIST PQC Standardization Conference, 2021
+
+"Targeted Discreditation Attack against Trust Management in Connected Vehicles"
+G Twardokus, J Ponicki, S Baker, P Carenzo, H Rahbari, S Mishra - IEEE ICC 2021, 2021
+
+"Evaluating V2V Security on an SDR Testbed"
+G Twardokus, H Rahbari - IEEE INFOCOM 2021 Workshops (INFOCOM WKSHPS), 2021
+
+"Expanding the Role of Preambles to Support User-defined Functionality in MIMO-based WLANs"
+Z Zhang, H Rahbari, M Krunz - IEEE INFOCOM 2020 (IEEE Conference on Computer Communications), 2020
+
+"Lightweight Machine Learning for Efficient Frequency-Offset-Aware Demodulation"
+P Siyari, H Rahbari, M Krunz - IEEE Journal on Selected Areas in Communications, 2019
+
+"SecureMatch: Scalable Authentication and Key Relegation for IoT Using Physical-Layer Techniques"
+H Rahbari, J Liu, JJ Park - IEEE Conference on Communications and Network Security (CNS), 2018
+
+"Adaptive Demodulation for Wireless Systems in the Presence of Frequency-Offset Estimation Errors"
+H Rahbari, P Siyari, M Krunz, JJ Park - IEEE INFOCOM 2018 (IEEE Conference on Computer Communications), 2018
+
+"Exploiting Frame Preamble Waveforms to Support New Physical-Layer Functions in OFDM-Based 802.11 Systems"
+H Rahbari, M Krunz - IEEE Transactions on Wireless Communications, 2017
+
+"Obfuscation of Transmission Fingerprints for Secure Wireless Communications"
+H Rahbari - The University of Arizona, 2016
+
+"Swift Jamming Attack on Frequency Offset Estimation: The Achilles Heel of OFDM Systems"
+H Rahbari, M Krunz, L Lazos - IEEE Transactions on Mobile Computing, 2016
+
+"Rolling Preambles: Mitigating Stealthy FO Estimation Attacks in OFDM-based 802.11 Systems"
+H Rahbari, M Krunz - Communications and Network Security (CNS), 2016
+
+"Full Frame Encryption and Modulation Obfuscation Using Channel-independent Preamble Identifier"
+H Rahbari, M Krunz - IEEE Transactions on Information Forensics and Security, 2016
+
+"Secrecy beyond encryption: obfuscating transmission signatures in wireless communications"
+H Rahbari, M Krunz - IEEE Communications Magazine, 2015
+
+"Multicast Rendezvous in Fast-varying DSA Networks"
+MJ Abdel-Rahman, H Rahbari, M Krunz - IEEE Transactions on Mobile Computing, 2015
+
+"Supporting PHY-layer Security in Multi-link Wireless Networks Using Friendly Jamming"
+R Eletreby, H Rahbari, M Krunz - GLOBECOM'15, 2015
+
+"Friendly CryptoJam: A Mechanism for Securing Physical-Layer Attributes"
+H Rahbari, M Krunz - Security and Privacy in Wireless and Mobile Networks (WiSec'14), 2014
+
+"Security Vulnerability and Countermeasures of Frequency Offset Correction in 802.11a Systems"
+H Rahbari, M Krunz, L Lazos - INFOCOM'14, 2014
+
+"Rendezvous in dynamic spectrum wireless networks"
+MJ Abdel-Rahman, H Rahbari, M Krunz - University of Arizona, Tech. Rep. TR-UA-ECE-2013-2, 2013
+
+"Fast and secure rendezvous protocols for mitigating control channel DoS attacks"
+MJ Abdel-Rahman, H Rahbari, M Krunz, P Nain - 2013 Proceedings IEEE INFOCOM, 2013
+
+"Adaptive frequency hopping algorithms for multicast rendezvous in DSA networks"
+MJ Abdel-Rahman, H Rahbari, M Krunz - 2012 IEEE International Symposium on Dynamic Spectrum Access Networks, 2012

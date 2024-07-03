@@ -1,0 +1,428 @@
+[
+    {
+        "title": "ISR: Invertible Symbolic Regression",
+        "id": "x8LRtKUAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Tony Tohme*",
+            "Mohammad Javad Khojasteh*",
+            "Mohsen Sadr",
+            "Florian Meyer",
+            "Kamal Youcef-Toumi"
+        ],
+        "pub_source": "arXiv preprint arXiv:2405.06848",
+        "pub_date": "2024/5/10",
+        "description": "We introduce an Invertible Symbolic Regression (ISR) method. It is a machine learning technique that generates analytical relationships between inputs and outputs of a given dataset via invertible maps (or architectures). The proposed ISR method naturally combines the principles of Invertible Neural Networks (INNs) and Equation Learner (EQL), a neural network-based symbolic architecture for function learning. In particular, we transform the affine coupling blocks of INNs into a symbolic framework, resulting in an end-to-end differentiable symbolic invertible architecture that allows for efficient gradient-based learning. The proposed ISR framework also relies on sparsity promoting regularization, allowing the discovery of concise and interpretable invertible expressions. We show that ISR can serve as a (symbolic) normalizing flow for density estimation tasks. Furthermore, we highlight its practical applicability in solving inverse problems, including a benchmark inverse kinematics problem, and notably, a geoacoustic inversion problem in oceanography aimed at inferring posterior distributions of underlying seabed parameters from acoustic signals."
+    },
+    {
+        "title": "The Many Facets of Information in Networked Estimation and Control",
+        "id": "x8LRtKUAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Massimo Franceschetti",
+            "Mohammad Javad Khojasteh",
+            "Moe Z. Win"
+        ],
+        "pub_source": "Annual Review of Control, Robotics, and Autonomous Systems",
+        "pub_date": "2023",
+        "description": "Networked control systems, where feedback loops are closed over communication networks, arise in several domains, including smart energy grids, autonomous driving, unmanned aerial vehicles, and many industrial and robotic systems active in service, production, agriculture, and smart homes and cities. In these settings, the two main layers of the system, control and communication, strongly affect each other's performance, and they also reveal the interaction between a cyber-system component, represented by information-based computing and communication technologies, and a physical-system component, represented by the environment that needs to be controlled. The information access and distribution constraints required to achieve reliable state estimation and stabilization in networked control systems have been intensively studied over the course of roughly two decades. This article reviews some of the\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Information Flow in Event-Based Stabilization of Cyber-Physical Systems",
+        "id": "x8LRtKUAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Massimo Franceschetti",
+            "Mohammad Javad Khojasteh",
+            "Moe Z Win"
+        ],
+        "pub_source": "Computation-Aware Algorithmic Design for Cyber-Physical Systems",
+        "pub_date": "2023",
+        "description": "The information flow required for remote stabilization of dynamical systems has been investigated extensively in the last two decades, and basic results that are cornerstones for the theory of cyber-physical systems (CPS) have been derived. This chapter reviews these developments with a particular emphasis on recent advancements obtained in the context of event-triggering control. In this framework, a basic realization is that, in the same way that subsequent pauses in spoken language are used to convey information, it is possible to transmit information in CPS not only by message content but also with its timing. Exploiting this possibility, event-triggering control techniques encode information in the timing of the triggering events and can achieve system stabilization at dramatically low data rates."
+    },
+    {
+        "title": "Model-Predictive Quantum Control via Hamiltonian Learning",
+        "id": "x8LRtKUAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Maison Clouatre",
+            "Mohammad Javad Khojasteh",
+            "Moe Z. Win"
+        ],
+        "pub_source": "IEEE Transactions on Quantum Engineering",
+        "pub_date": "2022/5/1",
+        "description": "This article proposes an end-to-end framework for the learning-enabled control of closed quantum systems. The proposed learning technique is the first of its kind to utilize a hierarchical design, which layers probing control, quantum state tomography, quantum process tomography, and Hamiltonian learning to identify both the internal and control Hamiltonians. Within this context, a novel quantum process tomography algorithm is presented, which involves optimization on the unitary group, i.e., the space of unitary operators, to ensure physically meaningful predictions. Our scalable Hamiltonian learning algorithms have low memory requirements and tunable computational complexity. Once the Hamiltonians are learned, we formalize data-driven model-predictive quantum control (MPQC). This technique utilizes the learned model to compute quantum control parameters in a closed-loop simulation. Then, the\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Location Secrecy Enhancement in Adversarial Networks via Trajectory Control",
+        "id": "x8LRtKUAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Augustin A. Saucan",
+            "Zhenyu Liu",
+            "Andrea Conti",
+            "Moe Z. Win"
+        ],
+        "pub_source": "IEEE Control Systems Letters",
+        "pub_date": "2022",
+        "description": "In networked environments, adversaries may exploit location information to perform carefully crafted attacks on cyber-physical systems (CPS). To prevent such security breaches, this letter develops a network localization and navigation (NLN) paradigm that accounts for network secrecy in the control of mobile agents. We consider a scenario in which a mobile agent is tasked with maneuvering through an adversarial network, based on a nominal control policy, and we aim to reduce the ability of the adversarial network to infer the mobile agent\u2019s position. Specifically, the Fisher information of the agent\u2019s position obtained by the adversarial network is adopted as a secrecy metric. We propose a new control policy that results from an optimization problem and achieves a compromise between maximizing location secrecy and minimizing the deviation from the nominal control policy. Results show that the proposed\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Node Deployment under Position Uncertainty for Network Localization",
+        "id": "x8LRtKUAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Augustin A Saucan",
+            "Zhenyu Liu",
+            "Andrea Conti",
+            "Moe Z Win"
+        ],
+        "pub_source": "IEEE International Conference on Communications",
+        "pub_date": "2022",
+        "description": "Network localization performance depends on the network geometry and, therefore, node deployment methods are critical for high-accuracy localization. Optimal node deployment is challenging in practical problems due to various uncertainties present in the position knowledge of the deployed nodes. In this paper, we propose a node-deployment method for network localization that accounts for such uncertainties. We develop a framework for the optimal deployment of location-aware networks under bounded disturbances in the positions of the sensing nodes. More specifically, by considering bounded discrepancies in the network geometry, we characterize the optimal deployment according to the D-optimality criterion and assert its implications for the A-optimality and E-optimality criteria. Results show that the proposed optimization-based design achieves a significative improvement according to the D-optimality\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Control barriers in bayesian learning of system dynamics",
+        "id": "x8LRtKUAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Vikas Dhiman*",
+            "Mohammad Javad Khojasteh*",
+            "Massimo Franceschetti",
+            "Nikolay Atanasov"
+        ],
+        "pub_source": "IEEE Transactions on Automatic Control",
+        "pub_date": "2021/12/21",
+        "description": "This article focuses on learning a model of system dynamics online, while satisfying safety constraints. Our objective is to avoid offline system identification or hand-specified models and allow a system to safely and autonomously estimate and adapt its own model during operation. Given streaming observations of the system state, we use Bayesian learning to obtain a distribution over the system dynamics. Specifically, we propose a new matrix variate Gaussian process (MVGP) regression approach with an efficient covariance factorization to learn the drift and input gain terms of a nonlinear control-affine system. The MVGP distribution is then used to optimize the system behavior and ensure safety with high probability, by specifying control Lyapunov function (CLF) and control barrier function (CBF) chance constraints. We show that a safe control policy can be synthesized for systems with arbitrary relative degree\u00a0\u2026",
+        "citations": 63
+    },
+    {
+        "title": "Uncertain-aware safe exploratory planning using Gaussian process and neural control contraction metric",
+        "id": "x8LRtKUAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Dawei Sun",
+            "Mohammad Javad Khojasteh",
+            "Shubhanshu Shekhar",
+            "Chuchu Fan"
+        ],
+        "pub_source": "Learning for Dynamics and Control",
+        "pub_date": "2021/5/29",
+        "description": "Robots operating in unstructured, complex, and changing real-world environments should navigate and maintain safety while collecting data about its environment and updating its model dynamics. In this paper, we consider the problem of using a robot to explore an environment with an unknown, state-dependent disturbance to the dynamics and forbidden areas. The goal of the robot is to safely collect observations on the disturbance and construct an accurate estimate of the underlying function. We use Gaussian process to get an estimate of the disturbance from data with a high-confidence bound on the regression error. Furthermore, we use neural contraction metrics to derive a tracking controller and the corresponding high-confidence uncertainty tube around the nominal trajectory planned for the robot, based on the estimate of the disturbance. From the robustness of the Contraction Metric, error bound can be pre-computed and used by the motion planner such that the actual trajectory is guaranteed to be safe.",
+        "citations": 11
+    },
+    {
+        "title": "Learning-based attacks in Cyber-Physical Systems: Exploration, Detection, and Control Cost trade-offs",
+        "id": "x8LRtKUAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Anshuka Rangi",
+            "Mohammad Javad Khojasteh",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "Learning for Dynamics and Control",
+        "pub_date": "2021",
+        "description": "We study the problem of learning-based attacks in linear systems, where the communication channel between the controller and the plant can be hijacked by a malicious attacker. We assume the attacker learns the dynamics of the system from observations, then overrides the controller\u2019s actuation signal, while mimicking legitimate operation by providing fictitious sensor readings to the controller. On the other hand, the controller is on a lookout to detect the presence of the attacker and tries to enhance the detection performance by carefully crafting its control signals. We study the trade-offs between the information acquired by the attacker from observations, the detection capabilities of the controller, and the control cost. Specifically, we provide tight upper and lower bounds on the expected -deception time, namely the time required by the controller to make a decision regarding the presence of an attacker with confidence at least . We then show a probabilistic lower bound on the time that must be spent by the attacker learning the system, in order for the controller to have a given expected -deception time. We show that this bound is also order optimal, in the sense that if the attacker satisfies it, then there exists a learning algorithm with the given order expected deception time. Finally, we show a lower bound on the expected energy expenditure required to guarantee detection with confidence at least .",
+        "citations": 9
+    },
+    {
+        "title": "Safe Multi-Agent Interaction through Robust Control Barrier Functions with Learned Uncertainties",
+        "id": "x8LRtKUAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Richard Cheng",
+            "Mohammad Javad Khojasteh",
+            "Aaron D Ames",
+            "Joel W Burdick"
+        ],
+        "pub_source": "2020 IEEE 59th Annual Conference on Decision and Control (CDC)",
+        "pub_date": "2020",
+        "description": "Robots operating in real world settings must navigate and maintain safety while interacting with many heterogeneous agents and obstacles. Multi-Agent Control Barrier Functions (CBF) have emerged as a computationally efficient tool to guarantee safety in multi-agent environments, but they assume perfect knowledge of both the robot dynamics and other agents' dynamics. While knowledge of the robot's dynamics might be reasonably well known, the heterogeneity of agents in real-world environments means there will always be considerable uncertainty in our prediction of other agents' dynamics. This work aims to learn high-confidence bounds for these dynamic uncertainties using Matrix-Variate Gaussian Process models, and incorporates them into a robust multi-agent CBF framework. We transform the resulting min-max robust CBF into a quadratic program, which can be efficiently solved in real time. We verify\u00a0\u2026",
+        "citations": 89
+    },
+    {
+        "title": "Exploiting timing information in event-triggered stabilization of linear systems with disturbances",
+        "id": "x8LRtKUAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Mojtaba Hedayatpour",
+            "Jorge Cort\u00e9s",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "IEEE Transactions on Control of Network Systems",
+        "pub_date": "2020",
+        "description": "Similar to the way pauses are used in spoken language to convey information, it is also possible to transmit information in communication networks not only by message content, but also with its timing. This article presents an event-triggering strategy that utilizes timing information by transmitting in a state-dependent fashion. We consider the stabilization of a continuous-time, time-invariant, linear plant over a digital communication channel with bounded delay and subject to bounded plant disturbances, and establish two main results. On the one hand, we design an encoding-decoding scheme that guarantees a sufficient information transmission rate for stabilization. On the other hand, we determine a lower bound on the information transmission rate necessary for stabilization by any control policy.",
+        "citations": 12
+    },
+    {
+        "title": "Learning-based attacks in cyber-physical systems",
+        "id": "x8LRtKUAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Anatoly Khina",
+            "Massimo Franceschetti",
+            "Tara Javidi"
+        ],
+        "pub_source": "IEEE Transactions on Control of Network Systems",
+        "pub_date": "2020",
+        "description": "We introduce the problem of learning-based attacks in a simple abstraction of cyber-physical systems\u2014 the case of a discrete-time, linear, time-invariant plant that may be subject to an attack that overrides sensor readings and controller actions. The attacker attempts to learn the dynamics of the plant and subsequently overrides the controller's actuation signal to destroy the plant without being detected. The attacker can feed fictitious sensor readings to the controller using its estimate of the plant dynamics and mimic the legitimate plant operation. The controller, in contrast, is constantly on the lookout for an attack; once the controller detects an attack, it immediately shuts the plant off. In the case of scalar plants, we derive an upper bound on the attacker's deception probability for any measurable control policy when the attacker uses an arbitrary learning algorithm to estimate the system dynamics. We then derive lower\u00a0\u2026",
+        "citations": 32
+    },
+    {
+        "title": "Probabilistic Safety Constraints for Learned High Relative Degree System Dynamics",
+        "id": "x8LRtKUAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Vikas Dhiman",
+            "Massimo Franceschetti",
+            "Nikolay Atanasov"
+        ],
+        "pub_source": "Learning for Dynamics and Control",
+        "pub_date": "2020",
+        "description": "This paper focuses on learning a model of system dynamics online while satisfying safety constraints. Our motivation is to avoid offline system identification or hand-specified dynamics models and allow a system to safely and autonomously estimate and adapt its own model during online operation. Given streaming observations of the system state, we use Bayesian learning to obtain a distribution over the system dynamics. In turn, the distribution is used to optimize the system behavior and ensure safety with high probability, by specifying a chance constraint over a control barrier function.",
+        "citations": 90
+    },
+    {
+        "title": "The Value of Timing Information in Event-Triggered Control",
+        "id": "x8LRtKUAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Pavankumar Tallapragada",
+            "Jorge Cortes",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "IEEE Transactions on Automatic Control",
+        "pub_date": "2020",
+        "description": "We study event-triggered control for stabilization of unstable linear plants over rate-limited communication channels subject to unknown bounded delay. On one hand, the timing of event triggering carries implicit information about the state of the plant. On the other hand, the delay in the communication channel causes information loss, as it makes the state information available at the controller out of date. Combining these two effects, we show a phase transition behavior in the transmission rate required for stabilization using a given event-triggering strategy. For small values of the delay, the timing information carried by the triggering events is substantial, and the system can be stabilized with any positive rate. When the delay exceeds a critical threshold, the timing information alone is not enough to achieve stabilization, and the required rate grows. When the delay equals the inverse of the entropy rate of the plant\u00a0\u2026",
+        "citations": 54
+    },
+    {
+        "title": "Stabilizing a linear system using phone calls",
+        "id": "x8LRtKUAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Massimo Franceschetti",
+            "Gireeja Ranade"
+        ],
+        "pub_source": "2019 18th European Control Conference (ECC)",
+        "pub_date": "2019/6/25",
+        "description": "We consider the problem of stabilizing an undisturbed, scalar, linear system over a \u201ctiming\u201d channel, namely a channel where information is communicated through the timestamps of the transmitted symbols. Each transmitted symbol is received at the controller subject to some to random delay. The sensor can encode messages in the holding times between successive transmissions and the controller must decode them from the inter-reception times of successive symbols. This set-up is analogous to a telephone system where a transmitter signals a phone call to the receiver through a \u201cring\u201d and, after a random time required to establish the connection, is aware of the \u201cring\u201d being received. We show that for the state to converge to zero in probability, the timing capacity of the channel should be at least as large as the entropy rate of the system. In the case the symbol delays are exponentially distributed, we show a tight\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Communication and security in cyber-physical systems",
+        "id": "x8LRtKUAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Mohammad Javad Khojasteh"
+        ],
+        "pub_source": "University of California, San Diego",
+        "pub_date": "2019",
+        "description": "Recent technological advances in networking, communication, and computation technologies have enabled the development of cyber-physical systems and cloud robotics, where computing, communication, and control are tightly coupled and integrated into a single distributed platform. These systems open the door to a myriad of new and exciting applications in transportation, health care, agriculture, energy, and many others. The need for the tight integration of different components, requirements, and time scales means that the modeling, analysis, and design of these systems present new challenges. We focus on two aspects of emerging systems architecture. Firstly, we investigate the presence of finite-rate, digital communication channels with delays in the feedback loop. In this context, we study event-triggering strategies that utilize timing information by transmitting in a state-dependent fashion. The proposed\u00a0\u2026"
+    },
+    {
+        "title": "Theory and implementation of event-triggered stabilization over digital channels",
+        "id": "x8LRtKUAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Mojtaba Hedayatpour",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "2019 IEEE 58th Annual Conference on Decision and Control (CDC)",
+        "pub_date": "2019",
+        "description": "In the context of event-triggered control, the timing of the triggering events carries information about the state of the system that can be used for stabilization. At each triggering event, not only can information be transmitted by the message content (data payload) but also by its timing. We demonstrate this in the context of stabilization of a laboratory-scale inverted pendulum around its equilibrium point over a digital communication channel with bounded unknown delay. Our event-triggering control strategy encodes timing information by transmitting in a state-dependent fashion and can achieve stabilization using a data payload transmission rate smaller than what the data-rate theorem prescribes for classical periodic control policies that do not exploit timing information. Through experimental results, we show that as the delay in the communication channel increases, a higher data payload transmission rate is required\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Authentication of cyber-physical systems under learning-based attacks",
+        "id": "x8LRtKUAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Anatoly Khina",
+            "Massimo Franceschetti",
+            "Tara Javidi"
+        ],
+        "pub_source": "IFAC-PapersOnLine",
+        "pub_date": "2019",
+        "description": "We study the problem of learning-based attacks in a simple abstraction of cyber-physical systems\u2014the case of a scalar, discrete-time, linear, time-invariant plant that may be subject to an attack that overrides the sensor readings and the controller actions. The attacker attempts to learn the dynamics of the plant and subsequently override the controller\u2019s actuation signal, to destroy the plant without being detected. The attacker can feed fictitious sensor readings to the controller using its estimate of the plant dynamics and mimicking the legitimate plant operation. The controller, on the other hand, is constantly on the lookout for an attack, and immediately shuts the plant off if an attack is detected. We study the performance of a specific authentication test and, by utilizing tools from information theory and statistics, we bound the asymptotic detection and deception probabilities for any measurable control policy when the\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Stabilizing a linear system using phone calls: when time is information",
+        "id": "x8LRtKUAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Massimo Franceschetti",
+            "Gireeja Ranade"
+        ],
+        "pub_source": "arXiv preprint arXiv:1804.00351",
+        "pub_date": "2018",
+        "description": "We consider the problem of stabilizing an undisturbed, scalar, linear system over a \"timing\" channel, namely a channel where information is communicated through the timestamps of the transmitted symbols. Each symbol transmitted from a sensor to a controller in a closed-loop system is received subject to some to random delay. The sensor can encode messages in the waiting times between successive transmissions and the controller must decode them from the inter-reception times of successive symbols. This set-up is analogous to a telephone system where a transmitter signals a phone call to a receiver through a \"ring\" and, after the random delay required to establish the connection; the receiver is aware of the \"ring\" being received. Since there is no data payload exchange between the sensor and the controller, this set-up provides an abstraction for performing event-triggering control with zero-payload rate. We show the following requirement for stabilization: for the state of the system to converge to zero in probability, the timing capacity of the channel should be, essentially, at least as large as the entropy rate of the system. Conversely, in the case the symbol delays are exponentially distributed, we show an \"almost\" tight sufficient condition using a coding strategy that refines the estimate of the decoded message every time a new symbol is received. Our results generalize previous zero-payload event-triggering control strategies, revealing a fundamental limit in using timing information for stabilization, independent of any transmission strategy.",
+        "citations": 1
+    },
+    {
+        "title": "Estimating a linear process using phone calls",
+        "id": "x8LRtKUAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Massimo Franceschetti",
+            "Gireeja Ranade"
+        ],
+        "pub_source": "2018 IEEE 57th Annual Conference on Decision and Control (CDC)",
+        "pub_date": "2018",
+        "description": "We consider the problem of estimating an undisturbed, scalar, linear process over a \u201ctiming\u201d channel, namely a channel where information is communicated through the timestamps of the transmitted symbols. Each transmitted symbol is received at the decoder subject to a random delay. The encoder can encode messages in the holding times between successive transmissions and the decoder must decode the message from the inter-reception times of successive symbols. This set-up is analogous to a telephone system where a transmitter signals a phone call to the receiver through a \u201cring\u201d and, after the random time required to establish the connection, is aware of the \u201cring\u201d being received. We show that for the estimation error to converge to zero in probability, the timing capacity of the channel should be at least as large as the entropy rate of the process. In the case the symbol delays are exponentially distributed\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Event-triggering stabilization of complex linear systems with disturbances over digital channels",
+        "id": "x8LRtKUAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Mojtaba Hedayatpour",
+            "Jorge Cort\u00e9s",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "2018 IEEE 57th Annual Conference on Decision and Control (CDC)",
+        "pub_date": "2018",
+        "description": "As stops and pauses for separating parts of a sentence in language help to convey information, it is also possible to communicate information in communication systems not only by data payload, but also with its timing. We consider an event-triggering strategy that exploits timing information by transmitting in a state-dependent fashion to stabilize a continuous-time, complex, time-invariant, linear system over a digital communication channel with bounded delay and in the presence of bounded system disturbance. For small values of the delay, we show that by exploiting timing information, one can stabilize the system with any positive transmission rate. However, for delay values larger than a critical threshold, the timing information is not enough for stabilization and the sensor needs to increase the transmission rate. Compared to previous work, our results provide a novel encoding-decoding scheme for complex\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Event-triggered stabilization of disturbed linear systems over digital channels",
+        "id": "x8LRtKUAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Mojtaba Hedayatpour",
+            "Jorge Cortes",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "2018 52nd Annual Conference on Information Sciences and Systems (CISS)",
+        "pub_date": "2018",
+        "description": "We present an event-triggered control strategy for stabilizing a scalar, continuous-time, time-invariant, linear system over a digital communication channel having bounded delay, and in the presence of bounded system disturbance. We propose an encoding-decoding scheme, and determine lower bounds on the packet size and on the information transmission rate which are sufficient for stabilization. We show that for small values of the delay, the timing information implicit in the triggering events is enough to stabilize the system with any positive rate. In contrast, when the delay increases beyond a critical threshold, the timing information alone is not enough to stabilize the system and the transmission rate begins to increase. Finally, large values of the delay require transmission rates higher than what prescribed by the classic data-rate theorem. The results are numerically validated using a linearized model of an\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Time-triggering versus event-triggering control over communication channels",
+        "id": "x8LRtKUAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Pavankumar Tallapragada",
+            "Jorge Cort\u00e9s",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "2017 IEEE 56th Annual Conference on Decision and Control (CDC)",
+        "pub_date": "2017",
+        "description": "Time-triggered and event-triggered control strategies for stabilization of an unstable plant over a rate-limited communication channel subject to unknown, bounded delay are studied and compared. Event triggering carries implicit information, revealing the state of the plant. However, the delay in the communication channel causes information loss, as it makes the state information out of date. There is a critical delay value, when the loss of information due to the communication delay perfectly compensates the implicit information carried by the triggering events. This occurs when the maximum delay equals the inverse of the entropy rate of the plant. In this context, extensions of our previous results for event triggering strategies are presented for vector systems and are compared with the data-rate theorem for time-triggered control, that is extended here to a setting with unknown delay.",
+        "citations": 26
+    },
+    {
+        "title": "The value of timing information in event-triggered control: The scalar case",
+        "id": "x8LRtKUAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Mohammad Javad Khojasteh",
+            "Pavankumar Tallapragada",
+            "Jorge Cort\u00e9s",
+            "Massimo Franceschetti"
+        ],
+        "pub_source": "2016 54th Annual Allerton Conference on Communication, Control, and Computing (Allerton)",
+        "pub_date": "2016/9/27",
+        "description": "The problem of event-triggered control with rate-limited communication is considered. For continuous-time scalar systems without disturbances, a phase transition behavior of the transmission rate required for stabilization as a function of the communication delay is revealed. It is shown that for low values of the delay the timing information carried by the triggering events is large and the system can be stabilized with any positive rate. On the other hand, when the delay exceeds a certain threshold that depends on the given triggering strategy, the timing information alone is not enough to achieve stabilization and the rate must begin to grow, eventually becoming larger than what required by the classic data-rate theorem. The critical point where the transmission rate equals the one imposed by the data-rate theorem occurs when the delay equals the inverse of the entropy rate of the plant, representing the intrinsic rate at\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Circulant matrix representation of PN-sequences with ideal autocorrelation property",
+        "id": "x8LRtKUAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Mohammad J Khojasteh",
+            "Morteza H Shoreh",
+            "Jawad A Salehi"
+        ],
+        "pub_source": "2015 Iran Workshop on Communication and Information Theory (IWCIT)",
+        "pub_date": "2015/5/6",
+        "description": "In this paper, we investigate PN-sequences with ideal autocorrelation property and the consequences of this property on the number of +1s and -1s and run structure of sequences. We begin by discussing and surveying about the length of PN-sequences with ideal autocorrelation property. From our discussion and survey we introduce circulant matrix representation of PN-sequence. Through circulant matrix representation we obtain system of non-linear equations that lead to ideal autocorrelation property. Rewriting PN-sequence and its autocorrelation property in {0,1} leads to a definition based on Hamming weight and Hamming distance and hence we can easily prove some results on the PN-sequences with ideal autocorrelation property.",
+        "citations": 2
+    },
+    {
+        "title": "Cognitive-engined spectrum-fragmented synchronous MC-CDMA based on generalized hadamard codes",
+        "id": "x8LRtKUAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Morteza H Shoreh",
+            "Mohammad J Khojasteh",
+            "Omid Poursaeed",
+            "Jawad A Salehi"
+        ],
+        "pub_source": "2015 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)",
+        "pub_date": "2015/3/9",
+        "description": "In Cognitive Radio (CR), in order to avoid interference in the Primary Users (PU), some subcarriers need to be deactivated. In systems based on Multicarrier Code Division Multiple Access (MC-CDMA), this causes losing orthogonality among different spreading codes, leading to poor Bit Error Rate (BER) performance. The performance of such system can be improved by using Generalized Hadamard Codes (GHC) instead of conventional Hadamard codes which avoids the loss of orthogonality. This is due to the fact that unlike conventional Hadamard codes, GHC are conjectured to exist for any arbitrary length. In this paper, we propose using a novel spreading code, namely, GHC for synchronous MC-CDMA in CR networks. The new spreading codes help the CR systems maintaining the data rate while improving the performance by eliminating the orthogonality loss. Finally, the performance of the MCCDMA system\u00a0\u2026"
+    },
+    {
+        "title": "DC Power Grids With Constant-Power Loads\u2014Part I: A Full Characterization of Power Flow Feasibility, Long-Term Voltage Stability, and Their Correspondence\u00a0\u2026",
+        "id": "x8LRtKUAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=x8LRtKUAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "J Lu",
+            "DE Quevedo",
+            "V Gupta",
+            "S Dey",
+            "D Li",
+            "T Li",
+            "S Fattahi",
+            "C Josz",
+            "Y Ding",
+            "R Mohammadi",
+            "J Lavaei",
+            "S Sojoudi",
+            "LN Bikas",
+            "GA Rovithakis",
+            "J Wang",
+            "SX Tang",
+            "M Krstic",
+            "G Belgioioso",
+            "S Grammatico",
+            "M Arcak",
+            "M Maghenem",
+            "RG Sanfelice",
+            "D Deplano",
+            "M Franceschelli",
+            "A Giua",
+            "V Dhiman",
+            "MJ Khojasteh",
+            "M Franceschetti",
+            "N Atanasov",
+            "W Feng",
+            "S Zhao",
+            "D Milutinovic",
+            "DW Casbeer",
+            "A Von Moll",
+            "M Pachter",
+            "E Garcia",
+            "P Borja",
+            "JMA Scherpen",
+            "K Fujimoto"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Presents the table of contents for this issue of the publication."
+    }
+]

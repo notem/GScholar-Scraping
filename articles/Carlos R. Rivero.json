@@ -1,0 +1,878 @@
+[
+    {
+        "title": "Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs",
+        "id": "oLEES1QAAAAJ:p2g8aNsByqUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:p2g8aNsByqUC",
+        "authors": [
+            "Aishwarya Rao",
+            "Narayanan Asuri Krishnan",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the ACM on Web Conference 2024",
+        "pub_date": "2024/5/13",
+        "description": "Link prediction models assign scores to predict new, plausible edges to complete knowledge graphs. In link prediction evaluation, the score of an existing edge (positive) is ranked w.r.t. the scores of its synthetically corrupted counterparts (negatives). An accurate model ranks positives higher than negatives, assuming ascending order. Since the number of negatives are typically large for a single positive, link prediction evaluation is computationally expensive. As far as we know, only one approach has proposed to replace rank aggregations by a distance between sample positives and negatives. Unfortunately, the distance does not consider individual ranks, so edges in isolation cannot be assessed. In this paper, we propose an alternative protocol based on posterior probabilities of positives rather than ranks. A calibration function assigns posterior probabilities to edges that measure their plausibility. We propose\u00a0\u2026"
+    },
+    {
+        "title": "A Method for Assessing Inference Patterns Captured by Embedding Models in Knowledge Graphs",
+        "id": "oLEES1QAAAAJ:OU6Ihb5iCvQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:OU6Ihb5iCvQC",
+        "authors": [
+            "Narayanan Asuri Krishnan",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the ACM on Web Conference 2024",
+        "pub_date": "2024/5/13",
+        "description": "Various methods embed knowledge graphs with the goal of predicting missing edges. Inference patterns are the logical relationships that occur in a graph. To make proper predictions, models trained by embedding methods must capture inference patterns. There are several theoretical analyses studying pattern-capturing capabilities. Unfortunately, these analyses are challenging and many embedding methods remain unstudied. Also, they do not quantify how accurately a pattern is captured in real-world datasets. Existing empirical studies have studied a small subset of simple inference patterns, and the analysis methods used have varied depending on the models evaluated. In this paper, we present a model-agnostic method to empirically quantify how patterns are captured by trained embedding models. We collect the most plausible predictions to form a new graph, and use it to globally assess pattern-capturing\u00a0\u2026"
+    },
+    {
+        "title": "Flexible control flow graph alignment for delivering data-driven feedback to novice programming learners",
+        "id": "oLEES1QAAAAJ:dshw04ExmUIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:dshw04ExmUIC",
+        "authors": [
+            "Md Towhidul Absar Chowdhury",
+            "Maheen Riaz Contractor",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Journal of Systems and Software",
+        "pub_date": "2024/4/1",
+        "description": "Supporting learners in introductory programming assignments at scale is a necessity. This support includes automated feedback on what learners did incorrectly. Existing approaches cast the problem as automatically repairing learners\u2019 incorrect programs extrapolating the data from an existing correct program from other learners. However, such approaches are limited because they only compare programs with similar control flow and order of statements. A potentially valuable set of repair feedback from flexible comparisons is thus missing. In this paper, we present several modifications to CLARA, a data-driven automated repair approach that is open source, to deal with real-world introductory programs. We extend CLARA\u2019s abstract syntax tree processor to handle common introductory programming constructs. Additionally, we propose a flexible alignment algorithm over control flow graphs where we enrich nodes\u00a0\u2026"
+    },
+    {
+        "title": "Flexible Control Flow Graph Alignment for Delivering Data-Driven Feedback to Novice Programming Learners",
+        "id": "oLEES1QAAAAJ:UxriW0iASnsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:UxriW0iASnsC",
+        "authors": [
+            "Md Towhidul Absar Chowdhury",
+            "Maheen Riaz Contractor",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2024/1",
+        "description": "Supporting learners in introductory programming assignments at scale is a necessity. This support includes automated feedback on what learners did incorrectly. Existing approaches cast the problem as automatically repairing learners' incorrect programs extrapolating the data from an existing correct program from other learners. However, such approaches are limited because they only compare programs with similar control flow and order of statements. A potentially valuable set of repair feedback from flexible comparisons is thus missing. In this paper, we present several modifications to CLARA, a data-driven automated repair approach that is open source, to deal with real-world introductory programs. We extend CLARA's abstract syntax tree processor to handle common introductory programming constructs. Additionally, we propose a flexible alignment algorithm over control flow graphs where we enrich nodes\u00a0\u2026"
+    },
+    {
+        "title": "A Model-Agnostic Method to Interpret Link Prediction Evaluation of Knowledge Graph Embeddings",
+        "id": "oLEES1QAAAAJ:KxtntwgDAa4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:KxtntwgDAa4C",
+        "authors": [
+            "Narayanan Asuri Krishnan",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 32nd ACM International Conference on Information and Knowledge Management",
+        "pub_date": "2023/10/21",
+        "description": "In link prediction evaluation, an embedding model assigns plausibility scores to unseen triples in a knowledge graph using an input partial triple. Performance metrics like mean rank are useful to compare models side by side, but do not shed light on their behavior. Interpreting link prediction evaluation and comparing models based on such interpretation are appealing. Current interpretation methods have mainly focused on single predictions or other tasks different from link prediction. Since knowledge graph embedding methods are diverse, interpretation methods that are applicable only to certain machine learning approaches cannot be used. In this paper, we propose a model-agnostic method for interpreting link prediction evaluation as a whole. The interpretation consists of Horn rules mined from the knowledge graph containing the triples a model deems plausible. We combine precision and recall\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "AYNEXT-tools for streamlining the evaluation of link prediction techniques",
+        "id": "oLEES1QAAAAJ:nb7KW1ujOQ8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:nb7KW1ujOQ8C",
+        "authors": [
+            "Fernando Sola",
+            "Daniel Ayala",
+            "Rafael Ayala",
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz"
+        ],
+        "pub_source": "SoftwareX",
+        "pub_date": "2023/7/1",
+        "description": "AYNEXT is an open source Python suite aimed towards researchers in the field of link prediction in Knowledge Graphs. Link prediction consists of predicting missing edges in a Knowledge Graph, which usually involves the application of different techniques to generate negative examples (false triples) to fit a model, and splitting edges into training, testing and validation sets. Setting up a correct evaluation setup or testing new negatives-generation strategies becomes more challenging as more complex strategies and considerations (e.g., removal of inverse relations) develop. AYNEXT makes it easy to configure and customize the creation of evaluation datasets and the computation of evaluation metrics and statistical significance tests for each pair of link prediction techniques. AYNEXT has been designed to be simple to use, but modular enough to enable customization of the main steps in the evaluation process\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Improving program matching to automatically repair introductory programs",
+        "id": "oLEES1QAAAAJ:CHSYGLWDkRkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:CHSYGLWDkRkC",
+        "authors": [
+            "Maheen Riaz Contractor",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "International Conference on Intelligent Tutoring Systems",
+        "pub_date": "2022/6/24",
+        "description": "Automated program repair is a promising approach to deliver feedback to novice learners at scale. CLARA is an effective repairer that uses a correct program to fix an incorrect program. CLARA suffers from two main issues: rigid matching and lack of support for typical constructs and tasks in introductory programming assignments. We present several modifications to CLARA to overcome these problems. We propose approximate graph matching based on semantic and topological information of the programs compared, and modify CLARA\u2019s abstract syntax tree processor and interpreter to support new constructs and tasks like reading from/writing to console. Our experiments show that, thanks to our modifications, we can apply CLARA to real-world programs. Also, our approximate graph matching allows us to repair many incorrect programs that are not repaired using rigid program matching.",
+        "citations": 4
+    },
+    {
+        "title": "CAFE: Knowledge graph completion using neighborhood-aware features",
+        "id": "oLEES1QAAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "Agust\u00edn Borrego",
+            "Daniel Ayala",
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz"
+        ],
+        "pub_source": "Engineering Applications of Artificial Intelligence",
+        "pub_date": "2021/8/1",
+        "description": "Knowledge Graphs (KGs) currently contain a vast amount of structured information in the form of entities and relations. Because KGs are often constructed automatically by means of information extraction processes, they may miss information that was either not present in the original source or not successfully extracted. As a result, KGs might lack useful and valuable information. Current approaches that aim to complete missing information in KGs have two main drawbacks. First, some have a dependence on embedded representations, which impose a very expensive preprocessing step and need to be recomputed again as the KG grows. Second, others are based on long random paths that may not cover all relevant information, whereas exhaustively analyzing all possible paths between entities is very time-consuming. In this paper, we present an approach to complete KGs based on evaluating candidate triples\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "Revisiting the evaluation protocol of knowledge graph completion methods for link prediction",
+        "id": "oLEES1QAAAAJ:EUQCXRtRnyEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:EUQCXRtRnyEC",
+        "authors": [
+            "Sudhanshu Tiwari",
+            "Iti Bansal",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the Web Conference 2021",
+        "pub_date": "2021/4/19",
+        "description": "Completion methods learn models to infer missing (subject, predicate, object) triples in knowledge graphs, a task known as link prediction. The training phase is based on samples of positive triples and their negative counterparts. The test phase consists of ranking each positive triple with respect to its negative counterparts based on the scores obtained by a learned model. The best model ranks all positive triples first. Metrics like mean rank, mean reciprocal rank and hits at k are used to assess accuracy. Under this generic evaluation protocol, we observe several shortcomings:\u00a01)\u00a0Current metrics assume that each measurement is upper bounded by the same constant value and, therefore, are oblivious to the fact that, in link prediction, each positive triple may have a different number of negative counterparts, which alters the difficulty of ranking positive triples.\u00a02)\u00a0Benchmarking datasets contain anomalies (unrealistic\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Learning to recognize semantically similar program statements in introductory programming assignments",
+        "id": "oLEES1QAAAAJ:f2IySw72cVMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:f2IySw72cVMC",
+        "authors": [
+            "Mayur Sunil Jawalkar",
+            "Hadi Hosseini",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 52nd ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2021/3/3",
+        "description": "With the continuously increasing population of students enrolling in introductory programming courses, instructors are facing challenges to provide timely and qualitative feedback. Automated systems are appealing to address scalability issues and provide personalized feedback to students. Many of the current approaches fail to handle flexible grading schemes and low-level feedback regarding (a set of) program statements. The combination of program static analysis in the form of program dependence graphs and approximate graph comparisons is promising to address the previous shortcomings. Current techniques require pairwise comparisons of student programs that does not scale in practice. We explore techniques to learn models that are able to recognize whether an unseen program statement belong to a semantically-similar set of program statements. Our initial results on a publicly-available introductory\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Flexible program alignment to deliver data-driven feedback to novice programmers",
+        "id": "oLEES1QAAAAJ:abG-DnoFyZgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:abG-DnoFyZgC",
+        "authors": [
+            "Victor J Marin",
+            "Maheen Riaz Contractor",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Intelligent Tutoring Systems: 17th International Conference, ITS 2021, Virtual Event, June 7\u201311, 2021, Proceedings 17",
+        "pub_date": "2021",
+        "description": "Supporting novice programming learners at scale has become a necessity. Such a support generally consists of delivering automated feedback on what and why learners did incorrectly. Existing approaches cast the problem as automatically repairing learners\u2019 incorrect programs; specifically, data-driven approaches assume there exists a correct program provided by other learner that can be extrapolated to repair an incorrect program. Unfortunately, their repair potential, i.e., their capability of providing feedback, is hindered by how they compare programs. In this paper, we propose a flexible program alignment based on program dependence graphs, which we enrich with semantic information extracted from the programs, i.e., operations and calls. Having a correct and an incorrect graphs, we exploit approximate graph alignment to find correspondences at the statement level between them. Each\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "The impact of negative triple generation strategies and anomalies on knowledge graph completion",
+        "id": "oLEES1QAAAAJ:dfsIfKJdRG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:dfsIfKJdRG4C",
+        "authors": [
+            "Iti Bansal",
+            "Sudhanshu Tiwari",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 29th ACM international conference on information & knowledge management",
+        "pub_date": "2020/10/19",
+        "description": "Even though knowledge graphs have proven very useful for several tasks, they are marked by incompleteness. Completion algorithms aim to extend knowledge graphs by predicting missing (subject, predicate, object) triples, usually by training a model to discern between correct (positive) and incorrect (negative) triples. However, under the open-world assumption in which a missing triple is not negative but unknown, negative triple generation is challenging. Although negative triples are known to drive the accuracy of completion models, its impact has not been thoroughly examined yet. To evaluate accuracy, test triples are considered positive and negative triples are derived from them. The evaluation protocol is thus impacted by the generation of negative triples, which remains to be analyzed. Another issue is that the knowledge graphs available for evaluation contain anomalies like severe redundancy, and it is\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "Towards summarizing program statements in source code search",
+        "id": "oLEES1QAAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Victor J Marin",
+            "Iti Bansal",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 35th Annual ACM Symposium on Applied Computing",
+        "pub_date": "2020/3/30",
+        "description": "A common practice among programmers is to find pieces of source code using search engines. Programs retrieved by these engines are typically semantically but not necessarily syntactically similar. As a result, ranking methods are exploited to present relevant programs to users. However, due to implementation variability, users need to understand such programs. In this paper, we propose a method to group statements into clusters from a set of programs retrieved by a source code search engine. Each cluster comprises a number of program statements that have similar but not exact semantics and are pervasive. Our hypothesis is that such clusters help understand at a glance a set of semantically-related programs. We use approximate graph alignment to find correspondences among statements in two program dependence graphs that are similar with respect to their control and data flows, as well as operations\u00a0\u2026"
+    },
+    {
+        "title": "Selecting suitable configurations for automated link discovery",
+        "id": "oLEES1QAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Carlos R Rivero",
+            "David Ruiz"
+        ],
+        "pub_source": "Proceedings of the 35th Annual ACM Symposium on Applied Computing",
+        "pub_date": "2020/3/30",
+        "description": "Linking individuals in one dataset to other same individuals in existing datasets is a major problem known as link discovery. Existing automated link discovery techniques make users responsible for selecting suitable properties, distances and transformations, a.k.a. configurations, which is challenging for both researchers and practitioners. Furthermore, failing to provide suitable configurations dramatically increases the complexity of link discovery since many configurations need to be evaluated. Current approaches to help users select proper configurations assume datasets are not heterogeneous or require the existence of a schema or ontology, making them less appealing in the context of Linked Data. In this paper, we present an approach to help users select suitable configurations solely based on data, i.e., no schema or ontology is required. We rely on the concepts of universality and uniqueness, i.e\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Clustering recurrent and semantically cohesive program statements in introductory programming assignments",
+        "id": "oLEES1QAAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "Victor J Marin",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 28th ACM International Conference on Information and Knowledge Management",
+        "pub_date": "2019/11/3",
+        "description": "Students taking introductory programming courses are typically required to complete assignments and expect timely feedback to advance their learning. With the current popularity of these courses in both traditional and online versions, graders are seeing themselves overwhelmed by the sheer amount of student programs they have to handle, and the quality of the educational experience provided is often compromised for promptness. Thus, there is a need for automated approaches to effectively increase grading productivity. Existing approaches in this context fail to support flexible grading schemes and customization based on the assignment at hand. This paper presents a data-driven approach for clustering recurrent program statements performing similar but not exact semantics across student programs, which we refer to as core statements. We rely on structural graph clustering over the program dependence\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Generating rules to filter candidate triples for their correctness checking by knowledge graph completion techniques",
+        "id": "oLEES1QAAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "Agust\u00edn Borrego",
+            "Daniel Ayala",
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz"
+        ],
+        "pub_source": "Proceedings of the 10th International Conference on Knowledge Capture",
+        "pub_date": "2019/9/23",
+        "description": "Knowledge Graphs (KGs) contain large amounts of structured information. Due to their inherent incompleteness, a process known as KG completion is often carried out to find the missing triples in a KG, usually by training a fact checking model that is able to discern between correct and incorrect knowledge. After the fact checking model has been trained and evaluated, it has to be applied to a set of candidate triples, and those that are considered correct are added to the KG as new knowledge. However, this process needs a set of candidate triples of a reasonable size that represents possible new knowledge, in order to be evaluated by the fact checking task and, if considered to be correct, added to the KG, enriching it. Current approaches for selecting candidate triples for their correctness checking either use the full set possible missing candidate triples (and thus provide no filtering) or apply very basic rules to filter\u00a0\u2026",
+        "citations": 23
+    },
+    {
+        "title": "Deep Web crawling: a survey",
+        "id": "oLEES1QAAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz"
+        ],
+        "pub_source": "World Wide Web",
+        "pub_date": "2019/7/15",
+        "description": "Deep Web crawling refers to the problem of traversing the collection of pages in a deep Web site, which are dynamically generated in response to a particular query that is submitted using a search form. To achieve this, crawlers need to be endowed with some features that go beyond merely following links, such as the ability to automatically discover search forms that are entry points to the deep Web, fill in such forms, and follow certain paths to reach the deep Web pages with relevant information. Current surveys that analyse the state of the art in deep Web crawling do not provide a framework that allows comparing the most up-to-date proposals regarding all the different aspects involved in the deep Web crawling process. In this article, we propose a framework that analyses the main features of existing deep Web crawling-related techniques, including the most recent proposals, and provides an overall\u00a0\u2026",
+        "citations": 45
+    },
+    {
+        "title": "AYNEC: All you need for evaluating completion techniques in knowledge graphs",
+        "id": "oLEES1QAAAAJ:uWQEDVKXjbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:uWQEDVKXjbEC",
+        "authors": [
+            "Daniel Ayala Hern\u00e1ndez",
+            "Agust\u00edn Borrego D\u00edaz",
+            "Inmaculada Concepci\u00f3n Hern\u00e1ndez Salmer\u00f3n",
+            "Carlos R Rivero",
+            "David Ruiz Cort\u00e9s"
+        ],
+        "pub_source": "ESWC 2019: 16th International Conference (2019), p 397-411",
+        "pub_date": "2019/5/25",
+        "description": "The popularity of knowledge graphs has led to the development of techniques to refine them and increase their quality. One of the main refinement tasks is completion (also known as link prediction for knowledge graphs), which seeks to add missing triples to the graph, usually by classifying potential ones as true or false. While there is a wide variety of graph completion techniques, there is no standard evaluation setup, so each proposal is evaluated using different datasets and metrics. In this paper we present AYNEC, a suite for the evaluation of knowledge graph completion techniques that covers the entire evaluation workflow. It includes a customisable tool for the generation of datasets with multiple variation points related to the preprocessing of graphs, the splitting into training and testing examples, and the generation of negative examples. AYNEC also provides a visual summary of the graph and the optional exportation of the datasets in an open format for their visualisation. We use AYNEC to generate a library of datasets ready to use for evaluation purposes based on several popular knowledge graphs. Finally, it includes a tool that computes relevant metrics and uses significance tests to compare each pair of techniques. These open source tools, along with the datasets, are freely available to the research community and will be maintained.",
+        "citations": 1
+    },
+    {
+        "title": "Deep Web crawling: a survey",
+        "id": "oLEES1QAAAAJ:a0OBvERweLwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:a0OBvERweLwC",
+        "authors": [
+            "Inmaculada Concepci\u00f3n Hern\u00e1ndez Salmer\u00f3n",
+            "Carlos R Rivero",
+            "David Ruiz Cort\u00e9s"
+        ],
+        "pub_source": "World Wide Web, 22, 1577-1610.",
+        "pub_date": "2019",
+        "description": "Deep Web crawling refers to the problem of traversing the collection of pages in a deep Web site, which are dynamically generated in response to a particular query that is submitted using a search form. To achieve this, crawlers need to be endowed with some features that go beyond merely following links, such as the ability to automatically discover search forms that are entry points to the deep Web, fill in such forms, and follow certain paths to reach the deep Web pages with relevant information. Current surveys that analyse the state of the art in deep Web crawling do not provide a framework that allows comparing the most up-to-date proposals regarding all the different aspects involved in the deep Web crawling process. In this article, we propose a framework that analyses the main features of existing deep Web crawling-related techniques, including the most recent proposals, and provides an overall picture regarding deep Web crawling, including novel features that to the present day had not been analysed by previous surveys. Our main conclusion is that crawler evaluation is an immature research area due to the lack of a standard set of performance measures, or a benchmark or publicly available dataset to evaluate the crawlers. In addition, we conclude that the future work in this area should be focused on devising crawlers to deal with ever-evolving Web technologies and improving the crawling efficiency and scalability, in order to create effective crawlers that can operate in real-world contexts."
+    },
+    {
+        "title": "AYNEC: all you need for evaluating completion techniques in knowledge graphs",
+        "id": "oLEES1QAAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "Daniel Ayala",
+            "Agust\u00edn Borrego",
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz"
+        ],
+        "pub_source": "The Semantic Web: 16th International Conference, ESWC 2019, Portoro\u017e, Slovenia, June 2\u20136, 2019, Proceedings 16",
+        "pub_date": "2019",
+        "description": "The popularity of knowledge graphs has led to the development of techniques to refine them and increase their quality. One of the main refinement tasks is completion (also known as link prediction for knowledge graphs), which seeks to add missing triples to the graph, usually by classifying potential ones as true or false. While there is a wide variety of graph completion techniques, there is no standard evaluation setup, so each proposal is evaluated using different datasets and metrics. In this paper we present AYNEC, a suite for the evaluation of knowledge graph completion techniques that covers the entire evaluation workflow. It includes a customisable tool for the generation of datasets with multiple variation points related to the preprocessing of graphs, the splitting into training and testing examples, and the generation of negative examples. AYNEC also provides a visual summary of the graph and the\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Towards a framework for generating program dependence graphs from source code",
+        "id": "oLEES1QAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Victor J Marin",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 4th ACM SIGSOFT International Workshop on Software Analytics",
+        "pub_date": "2018/11/5",
+        "description": "Originally conceived for compiler optimization, the program dependence graph has become a widely used internal representation for tools in many software engineering tasks. The currently available frameworks for building program dependence graphs rely on compiled source code, which requires resolving dependencies. As a result, these frameworks cannot be applied for analyzing legacy codebases whose dependencies cannot be automatically resolved, or for large codebases in which resolving dependencies can be infeasible. In this paper, we present a framework for generating program dependence graphs from source code based on transition rules, and we describe lessons learned when implementing two different versions of the framework based on a grammar interpreter and an abstract syntax tree iterator, respectively.",
+        "citations": 7
+    },
+    {
+        "title": "ARCC: Assistant for repetitive code comprehension",
+        "id": "oLEES1QAAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Wilberto Z Nunez",
+            "Victor J Marin",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+        "pub_date": "2017/8/21",
+        "description": "As software projects evolve, carefully understanding the behavior of a program is mandatory before making any change. Repetitive code snippets also tend to appear throughout the codebase, and developers have to understand similar semantics multiple times. Building on this observation, we present Arcc: an Assistant for Repetitive Code Comprehension. The tool, implemented as an Eclipse plugin, assists developers in leveraging knowledge of a program to understand other programs containing a subset of the semantics in the former. Arcc differs from existing approaches in that it uses an extensible knowledge base of recurrent semantic code snippets, instead of heuristics or salient features, to summarize the behavior of a program. Given a program, we detect the occurrences of such snippets. Developers can create strategies as combinations of the snippets found and search for strategy occurrences in their\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "A novel model for distributed big data service composition using stratified functional graph matching",
+        "id": "oLEES1QAAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "Hasan M Jamil",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Proceedings of the 7th International Conference on Web Intelligence, Mining and Semantics",
+        "pub_date": "2017/6/19",
+        "description": "A significant number of current industrial applications rely on web services. A cornerstone task in these applications is discovering a suitable service that meets the threshold of some user needs. Then, those services can be composed to perform specific functionalities. We argue that the prevailing approach to compose services based on the \"all or nothing\" paradigm is limiting and leads to exceedingly high rejection of potentially suitable services. Furthermore, contemporary models do not allow \"mix and match\" composition from atomic services of different composite services when binary matching is not possible or desired. In this paper, we propose a new model for service composition based on \"stratified graph summarization\" and \"service stitching\". We discuss the limitations of existing approaches with a motivating example, present our approach to overcome these limitations, and outline a possible architecture\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Annotating Java Programs to Provide Feedback to CS1 Student",
+        "id": "oLEES1QAAAAJ:SP6oXDckpogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:SP6oXDckpogC",
+        "authors": [
+            "Krish Godiawala",
+            "Carlos Rivero"
+        ],
+        "pub_source": "",
+        "pub_date": "2017/5/11",
+        "description": "When students start with CS-101 classes there are certain mistakes they are likely to make as they begin to program for example, forgetting to increment for loops, forgetting semicolons, missing out on closing braces to name a few. With most graded assignments all students have is textual feedback as to what is wrong with their code, what a lot of students miss is actual working code because often they struggle to incorporate comments from the grader or professor. It can be helpful for graders and professors if they have at hand a set of know error\u2019s to\" annotate\" the program with and also provide actual code which can replace the students incorrect code. We provide a tool where graders can not only easily provide feedback to assignments but also provide substitute code, using which the application could generate a new program with the substituted code that students can use as reference."
+    },
+    {
+        "title": "Automated personalized feedback in introductory Java programming MOOCs",
+        "id": "oLEES1QAAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Victor J Marin",
+            "Tobin Pereira",
+            "Srinivas Sridharan",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "Data Engineering (ICDE), 2017 IEEE 33rd International Conference on",
+        "pub_date": "2017/4/19",
+        "description": "Currently, there is a \"boom\" in introductory programming courses to help students develop their computational thinking skills. Providing timely, personalized feedback that makes students reflect about what and why they did correctly or incorrectly is critical in such courses. However, the limited number of instructors and the great volume of submissions instructors need to assess, especially in Massive Open Online Courses (MOOCs), prove this task a challenge. One solution is to hire graders or create peer discussions among students, however, feedback may be too general, incomplete or even incorrect. Automatic techniques focus on: a) Functional testing, in which feedback usually does not sufficiently guide novices, b) Software verification to find code bugs, which may confuse novices since these tools usually skip true errors or produce false errors, and c) Comparing using reference solutions, in which a large\u00a0\u2026",
+        "citations": 76
+    },
+    {
+        "title": "Efficient and scalable labeled subgraph matching using SGMatch",
+        "id": "oLEES1QAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Carlos R Rivero",
+            "Hasan M Jamil"
+        ],
+        "pub_source": "Knowledge and Information Systems",
+        "pub_date": "2017/4",
+        "description": "Graphs are natural candidates for modeling application domains, such as social networks, pattern recognition, citation networks, or protein\u2013protein interactions. One of the most challenging tasks in managing graphs is subgraph matching over data graphs, which attempts to find one-to-one correspondences, called solutions, among the query and data nodes. To compute solutions, most contemporary techniques use backtracking and recursion. An open research question is whether graphs can be matched based on parts and local solutions can be combined to reach a global matching. In this paper, we present an approach based on graph decomposition called SGMatch to match graphs. We represent graphs in smaller units called graphlets and develop a matching technique to leverage this representation. Pruning strategies use a new notion of edge covering called minimum hub cover and metadata\u00a0\u2026",
+        "citations": 46
+    },
+    {
+        "title": "CALA: ClAssifying Links Automatically based on their URL",
+        "id": "oLEES1QAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Journal of Systems and Software",
+        "pub_date": "2016/5/1",
+        "description": "Web page classification refers to the problem of automatically assigning a web page to one or more classes after analysing its features. Automated web page classifiers have many applications, and many researchers have proposed techniques and tools to perform web page classification. Unfortunately, the existing tools have a number of drawbacks that makes them unappealing for real-world scenarios, namely: they require a previous extensive crawling, they are supervised, they need to download a page before classifying it, or they are site-, language-, or domain-dependent. In this article, we propose CALA, a tool for URL-based web page classification. The strongest features of our tool are that it does not require a previous extensive crawling to achieve good classification results, it is unsupervised, it is based exclusively on URL features, which means that pages can be classified without downloading them, and\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "PLOMaR: An ontology framework for context modeling and reasoning on crowd-sensing platform",
+        "id": "oLEES1QAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Yogesh Jagadeesan",
+            "Peizhao Hu",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops)",
+        "pub_date": "2016/3/14",
+        "description": "Crowd-sensing is a popular way to sense and collect data using smartphones that reveals user behaviors and their correlations with device performance. PhoneLab is one of the largest crowd-sensing platform based on the Android system. Through experimental instrumentations and system modifications, researchers can tap into a sea of insightful information that can be further processed to reveal valuable context information about the device, user and the environment. However, the PhoneLab data is in JSON format. The process of inferring reasons from data in this format is not straightforward. In this paper, we introduce PLOMaR - an ontology framework that uses SPARQL rules to help researchers access information and derive new information without complex data processing. The goals are to (i) make the measurement data more accessible, (ii) increase interoperability and reusability of data gathered from\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Mapping RDF knowledge bases using exchange samples",
+        "id": "oLEES1QAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Knowledge-Based Systems",
+        "pub_date": "2016/2/1",
+        "description": "Nowadays, the Web of Data is in its earliest stages; it is currently organised into a variety of linked knowledge bases that have been developed independently by different organisations. RDF is one of the most popular languages to represent data in this context, which motivates the need to perform complex integration tasks amongst RDF knowledge bases. These tasks are performed using schema mappings, which are declarative specifications of the relationships amongst a source and a target knowledge base. Generating schema mappings automatically is appealing because this relieves users from the burden of handcrafting them. In the literature, the vast majority of proposals are based on the data models of the knowledge bases to be integrated, that is, on classes, properties, and constraints. In the Web of Data, there exist many data models that comprise very few constraints or no constraints at all, which has\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Improving Link Specifications using Context-Aware Information",
+        "id": "oLEES1QAAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Andrea Jes\u00fas Cimmino Arriaga",
+            "Carlos R Rivero",
+            "David Ruiz Cort\u00e9s"
+        ],
+        "pub_source": "LDOW 2016: WWW2016 Workshop on Linked Data on the Web (2016),",
+        "pub_date": "2016",
+        "description": "There is an increasing interest in publishing data using the Linked Open Data philosophy. To link the RDF datasets, a link discovery task is performed to generate owl:sameAs links. There are two ways to perform this task: by means of a classi er or a link speci cation; we focus in the latter approach. Current link speci cation techniques only use the data properties of the instances that they are linking, and they do not take the context information into account. In this paper, we present a proposal that aims to generate context-aware link speci cations to improve the regular link speci cations, increasing the e ectiveness of the results in several real-world scenarios where the context is crucial. Our context-aware link speci cations are independent from similarity functions, transformations or aggregations. We have evaluated our proposal using two real-world scenarios in which we improve precision and recall with respect to regular link speci cations in 23% and 58%, respectively.",
+        "citations": 5
+    },
+    {
+        "title": "Discovering and analysing ontological models from big RDF data",
+        "id": "oLEES1QAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Cochuelo"
+        ],
+        "pub_source": "Journal of Database Management (JDM)",
+        "pub_date": "2015/4/1",
+        "description": "We are witnessing an increasing popularity of the Web of Data, which exposes a large variety of web sources that provide their data using RDF. Ontological models are used as the schema to organize this data. These models are usually shared by several communities and, to devise them, there is usually an agreement amongst those communities. As a result, it is common to have more than one ontological model to understand some RDF data; therefore, there might be a gap between the ontological models and the RDF data, which is not negligible in practice. In this article, the authors present a technique to automatically discover ontological models from raw RDF data. It is based on the intensive usage of a set of SPARQL 1.1 structural queries that are generic and independent from the RDF data. The final result of the authors' technique is an ontological model that is derived from the RDF data, and includes types\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "MostoDEx: A tool to exchange RDF data using exchange samples",
+        "id": "oLEES1QAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Journal of Systems and Software",
+        "pub_date": "2015/2/1",
+        "description": "The Web is evolving into a Web of Data in which RDF data are becoming pervasive, and it is organised into datasets that share a common purpose but have been developed in isolation. This motivates the need to devise complex integration tasks, which are usually performed using schema mappings; generating them automatically is appealing to relieve users from the burden of handcrafting them. Many tools are based on the data models to be integrated: classes, properties, and constraints. Unfortunately, many data models in the Web of Data comprise very few or no constraints at all, so relying on constraints to generate schema mappings is not appealing. Other tools rely on handcrafting the schema mappings, which is not appealing at all. A few other tools rely on exchange samples but require user intervention, or are hybrid and require constraints to be available. In this article, we present MostoDEx, a tool to\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Towards a novel model for distributed big data service composition using functional graph matching",
+        "id": "oLEES1QAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Carlos R Rivero",
+            "Hasan M Jamil"
+        ],
+        "pub_source": "2014 IEEE International Congress on Big Data",
+        "pub_date": "2014/6/27",
+        "description": "A significant number of current industrial applications rely on web services. A cornerstone task in these applications is discovering a suitable service that meets the threshold of some user needs. Then, those services can be composed to perform specific functionalities. We argue that the prevailing approaches to service composition based on the \"all or nothing\" paradigm is limiting and leads to exceedingly high rejection of potentially suitable services. Furthermore, contemporary models do not allow \"mix and match\" composition of atomic services into composite services when binary matching is not possible or desired. In this paper, we introduce a new approach for service composition based on \"stratified graph summarization\" and \"service stitching that help remove these limitations as a work in progress.",
+        "citations": 1
+    },
+    {
+        "title": "On isomorphic matching of large disk-resident graphs using an XQuery engine",
+        "id": "oLEES1QAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Carlos R Rivero",
+            "Hasan M Jamil"
+        ],
+        "pub_source": "2014 IEEE 30th International Conference on Data Engineering Workshops",
+        "pub_date": "2014/3/31",
+        "description": "There exists an increasing interest in using graphs to model data, and managing them is a challenging research field. One of the major hurdles in large graph management and processing is our ability to store graphs on disk, and develop techniques that can process the data in their native representation on the disk. Currently, many powerful processing techniques only ensure efficient processing while the graphs reside fully in volatile memory, which limits their applications. In this paper, we present a disk representation of unit graphs, called graphlets, that is amenable to leveraging both XML and relational storage structures, and associated query engines such as XQuery and SQL3. Specifically, we focus on XML and XQuery to implement a graph decomposition-based isomorphic subgraph matching technique, called NetQL, that exploits the graphlet representation. Furthermore, we present a new covering concept\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "CALA: An unsupervised URL-based web page classification system",
+        "id": "oLEES1QAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Knowledge-Based Systems",
+        "pub_date": "2014/2/1",
+        "description": "Unsupervised web page classification refers to the problem of clustering the pages in a web site so that each cluster includes a set of web pages that can be classified using a unique class. The existing proposals to perform web page classification do not fulfill a number of requirements that would make them suitable for enterprise web information integration, namely: to be based on a lightweight crawling, so as to avoid interfering with the normal operation of the web site, to be unsupervised, which avoids the need for a training set of pre-classified pages, or to use features from outside the page to be classified, which avoids having to download it. In this article, we propose CALA, a new automated proposal to generate URL-based web page classifiers. Our proposal builds a number of URL patterns that represent the different classes of pages in a web site, so further pages can be classified by matching their URLs to\u00a0\u2026",
+        "citations": 40
+    },
+    {
+        "title": "Exchanging data amongst linked data applications",
+        "id": "oLEES1QAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Knowledge and information systems",
+        "pub_date": "2013/12",
+        "description": "The goal of data exchange is to populate the data model of a target application using data that come from one or more source applications. It is common to address data exchange building on correspondences that are transformed into executable mappings. The problem that we address in this article is how to generate executable mappings in the context of Linked Data applications, that is, applications whose data models are semantic-web ontologies. In the literature, there are many proposals to generate executable mappings. Most of them focus on relational or nested-relational data models, which cannot be applied to our context; unfortunately, the few proposals that focus on ontologies have important drawbacks, namely: they solely work on a subset of taxonomies, they require the target data model to be pre-populated or they interpret correspondences in isolation, not to mention the proposals that\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Anatomy of Graph Matching based on an XQuery and RDF Implementation",
+        "id": "oLEES1QAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Carlos R Rivero",
+            "Hasan M Jamil"
+        ],
+        "pub_source": "arXiv preprint arXiv:1311.2342",
+        "pub_date": "2013/11/11",
+        "description": "Graphs are becoming one of the most popular data modeling paradigms since they are able to model complex relationships that cannot be easily captured using traditional data models. One of the major tasks of graph management is graph matching, which aims to find all of the subgraphs in a data graph that match a query graph. In the literature, proposals in this context are classified into two different categories: graph-at-a-time, which process the whole query graph at the same time, and vertex-at-a-time, which process a single vertex of the query graph at the same time. In this paper, we propose a new vertex-at-a-time proposal that is based on graphlets, each of which comprises a vertex of a graph, all of the immediate neighbors of that vertex, and all of the edges that relate those neighbors. Furthermore, we also use the concept of minimum hub covers, each of which comprises a subset of vertices in the query graph that account for all of the edges in that graph. We present the algorithms of our proposal and describe an implementation based on XQuery and RDF. Our evaluation results show that our proposal is appealing to perform graph matching.",
+        "citations": 2
+    },
+    {
+        "title": "MostoDE: A tool to exchange data amongst semantic-web ontologies",
+        "id": "oLEES1QAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Journal of Systems and Software",
+        "pub_date": "2013/6/1",
+        "description": "A semantic-web ontology, simply known as ontology, comprises a data model and data that should comply with it. Due to their distributed nature, there exist a large amount of heterogeneous ontologies, and a strong need for exchanging data amongst them, i.e., populating a target ontology using data that come from one or more source ontologies. Data exchange may be implemented using correspondences that are later transformed into executable mappings; however, exchanging data amongst ontologies is not a trivial task, so tools that help software engineers to exchange data amongst ontologies are a must. In the literature, there are a number of tools to automatically generate executable mappings; unfortunately, they have some drawbacks, namely: (1) they were designed to work with nested-relational data models, which prevents them to be applied to ontologies; (2) they require their users to handcraft and\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Towards discovering conceptual models behind web sites",
+        "id": "oLEES1QAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "International Conference on Conceptual Modeling",
+        "pub_date": "2012/10/15",
+        "description": "Deep Web sites expose data from a database, whose conceptual model remains hidden. Having access to that model is mandatory to perform several tasks, such as integrating different web sites; extracting information from the web unsupervisedly; or creating ontologies. In this paper, we propose a technique to discover the conceptual model behind a web site in the Deep Web, using a statistical approach to discover relationships between entities. Our proposal is unsupervised, not requiring the user to have expert knowledge; and it does not focus on a single view on the database, instead it integrates all views containing entities and relationships that are exposed in the web site.",
+        "citations": 9
+    },
+    {
+        "title": "Benchmarking data exchange among semantic-web ontologies",
+        "id": "oLEES1QAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "IEEE Transactions on Knowledge and Data Engineering",
+        "pub_date": "2012/9/5",
+        "description": "The increasing popularity of the Web of Data is motivating the need to integrate semantic-web ontologies. Data exchange is one integration approach that aims to populate a target ontology using data that come from one or more source ontologies. Currently, there exist a variety of systems that are suitable to perform data exchange among these ontologies; unfortunately, they have uneven performance, which makes it appealing assessing and ranking them from an empirical point of view. In the bibliography, there exist a number of benchmarks, but they cannot be applied to this context because they are not suitable for testing semantic-web ontologies or they do not focus on data exchange problems. In this paper, we present MostoBM, a benchmark for testing data exchange systems in the context of such ontologies. It provides a catalogue of three real-world and seven synthetic data exchange patterns, which can be\u00a0\u2026",
+        "citations": 28
+    },
+    {
+        "title": "An architecture for efficient web crawling",
+        "id": "oLEES1QAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "International Conference on Advanced Information Systems Engineering",
+        "pub_date": "2012/6/25",
+        "description": "Virtual Integration systems require a crawling tool able to navigate and reach relevant pages in the Deep Web in an efficient way. Existing proposals in the crawling area fulfill some of these requirements, but most of them need to download pages in order to classify them as relevant or not. We propose a crawler supported by a web page classifier that uses solely a page URL to determine page relevance. Such a crawler is able to choose in each step only the URLs that lead to relevant pages, and therefore reduces the number of unnecessary pages downloaded, minimising bandwidth and making it efficient and suitable for virtual integration systems.",
+        "citations": 8
+    },
+    {
+        "title": "A statistical approach to URL-based web page clustering",
+        "id": "oLEES1QAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Proceedings of the 21st International Conference on World Wide Web",
+        "pub_date": "2012/4/16",
+        "description": "Most web page classifiers use features from the page content, which means that it has to be downloaded to be classified. We propose a technique to cluster web pages by means of their URL exclusively. In contrast to other proposals, we analyze features that are outside the page, hence, we do not need to download a page to classify it. Also, it is non-supervised, requiring little intervention from the user. Furthermore, we do not need to crawl extensively a site to build a classifier for that site, but only a small subset of pages. We have performed an experiment over 21 highly visited websites to evaluate the performance of our classifier, obtaining good precision and recall results.",
+        "citations": 34
+    },
+    {
+        "title": "EXCHANGING DATA AMONGST SEMANTIC-WEB ONTOLOGIES",
+        "id": "oLEES1QAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "CARLOS R RIVERO"
+        ],
+        "pub_source": "",
+        "pub_date": "2012/4",
+        "description": "1.1 Research context........................................... 4 1.2 Research rationale......................................... 5 1.2. 1 Hypothesis......................................... 5 1.2. 2 Thesis.............................................. 6 1.3 Summary of contributions.................................. 6 1.4 Collaborations............................................ 7 1.5 Structure of this dissertation................................ 8"
+    },
+    {
+        "title": "Exchanging data amongst semantic-web ontologies= Intercambio de datos entre web sem\u00e1ntica ontolog\u00edas: On generating mappings and benchmarking data exchange systems= En\u00a0\u2026",
+        "id": "oLEES1QAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Carlos Rafael Rivero Osuna"
+        ],
+        "pub_source": "Universidad de Sevilla",
+        "pub_date": "2012",
+        "description": "El objetivo del intercambio de datos es cargar un modelo de datos de destino usando datos procedentes de uno o m\u00e1s modelos de datos fuente. Es com\u00fan que el intercambio de datos sea tratado haciendo uso de correspondencias que son transformadas en mappings ejecutables. El problema tratado en esta tesis doctoral es c\u00f3mo generar mappings ejecutables en el contexto de las ontolog\u00edas, que son modelos de datos compartidos de laWeb Sem\u00e1ntica. En la bibliograf\u00eda existen numerosas propuestas que generan mappings ejecutables. Muchas de estas propuestas se centran en los modelos de datos relacional y relacional-anidado, que no pueden ser aplicadas a nuestro contexto. Por desgracia, las pocas propuestas que se centran en ontolog\u00edas tienen inconvenientes importantes, a saber: s\u00f3lo trabajan con un subconjunto de las taxonom\u00edas, requieren que el modelo de datos de destino est\u00e9 previamente\u00a0\u2026"
+    },
+    {
+        "title": "Towards discovering ontological models from big RDF data",
+        "id": "oLEES1QAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Advances in Conceptual Modeling: ER 2012 Workshops CMS, ECDM-NoCoDA, MoDIC, MORE-BI, RIGiM, SeCoGIS, WISM, Florence, Italy, October 15-18, 2012. Proceedings 31",
+        "pub_date": "2012",
+        "description": "The Web of Data, which comprises web sources that provide their data in RDF, is gaining popularity day after day. Ontological models over RDF data are shared and developed with the consensus of one or more communities. In this context, there usually exist more than one ontological model to understand RDF data, therefore, there might be a gap between the models and the data, which is not negligible in practice. In this paper, we present a technique to automatically discover ontological models from raw RDF data. It relies on a set of SPARQL 1.1 structural queries that are generic and independent from the RDF data. The output of our technique is a model that is derived from these data and includes the types and properties, subtypes, domains and ranges of properties, and minimum cardinalities of these properties. Our technique is suitable to deal with Big RDF Data since our experiments focus on\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Benchmarking the performance of linked data translation systems",
+        "id": "oLEES1QAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Carlos R. Rivero",
+            "Andreas Schultz",
+            "Christian Bizer",
+            "David Ruiz"
+        ],
+        "pub_source": "LDOW (WWW Workshops)",
+        "pub_date": "2012",
+        "description": "Linked Data sources on the Web use a wide range of different vocabularies to represent data describing the same type of entity. For some types of entities, like people or bibliographic record, common vocabularies have emerged that are used by multiple data sources. But even for representing data of these common types, different user communities use different competing common vocabularies. Linked Data applications that want to understand as much data from the Web as possible, thus need to overcome vocabulary heterogeneity and translate the original data into a single target vocabulary. To support application developers with this integration task, several Linked Data translation systems have been developed. These systems provide languages to express declarative mappings that are used to translate heterogeneous Web data into a single target vocabulary. In this paper, we present a benchmark for comparing the expressivity as well as the runtime performance of data translation systems. Based on a set of examples from the LOD Cloud, we developed a catalog of fifteen data translation patterns and survey how often these patterns occur in the example set. Based on these statistics, we designed the LODIB (Linked Open Data Integration Benchmark) that aims to reflect the real-world heterogeneities that exist on the Web of Data. We apply the benchmark to test the performance of two data translation systems, Mosto and LDIF, and compare the performance of the systems with the SPARQL 1.1 CONSTRUCT query performance of the Jena TDB RDF store.",
+        "citations": 35
+    },
+    {
+        "title": "An experiment to test URL features for web page classification",
+        "id": "oLEES1QAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Jos\u00e9 Luis Arjona"
+        ],
+        "pub_source": "Trends in Practical Applications of Agents and Multiagent Systems: 10th\u00a0\u2026",
+        "pub_date": "2012",
+        "description": "Web page classification has been extensively researched, using different types of features that are extracted either from the page content, the page structure or from other pages that link to that page. Using features from the page itself implies having to download it before its classification. We present an experiment to proof that URL tokens contain information enough to extract features to classify web pages. A classifier based on these features is able to classify a web page without having to download it previously, avoiding unnecessary downloads.",
+        "citations": 10
+    },
+    {
+        "title": "A tool for link-based web page classification",
+        "id": "oLEES1QAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Inma Hern\u00e1ndez",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Conference of the Spanish Association for Artificial Intelligence",
+        "pub_date": "2011/11/7",
+        "description": "Virtual integration systems require a crawler to navigate through web sites automatically, looking for relevant information. This process is online, so whilst the system is looking for the required information, the user is waiting for a response. Therefore, downloading a minimum number of irrelevant pages is mandatory to improve the crawler efficiency. Most crawlers need to download a page to determine its relevance, which results in a high number of irrelevant pages downloaded. In this paper, we propose a classifier that helps crawlers to efficiently navigate through web sites. This classifier is able to determine if a web page is relevant by analysing exclusively its URL, minimising the number of irrelevant pages downloaded, improving crawling efficiency and reducing used bandwidth, making it suitable for virtual integration systems.",
+        "citations": 12
+    },
+    {
+        "title": "Generating SPARQL executable mappings to integrate ontologies",
+        "id": "oLEES1QAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "International Conference on Conceptual Modeling",
+        "pub_date": "2011/10/31",
+        "description": "Data translation is an integration task that aims at populating a target model with data of a source model by means of mappings. Generating them automatically is appealing insofar it may reduce integration costs. Matching techniques automatically generate uninterpreted mappings, a.k.a. correspondences, that must be interpreted to perform the data translation task. Other techniques automatically generate executable mappings, which encode an interpretation of these correspondences in a given query language. Unfortunately, current techniques to automatically generate executable mappings are based on instance examples of the target model, which usually contains no data, or based on nested relational models, which cannot be straightforwardly applied to semantic-web ontologies. In this paper, we present a technique to automatically generate SPARQL executable mappings between OWL ontologies\u00a0\u2026",
+        "citations": 44
+    },
+    {
+        "title": "On a proposal to integrate web sources using semantic-web technologies",
+        "id": "oLEES1QAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Hassan A Sleiman",
+            "Carlos R Rivero",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "2011 7th International Conference on Next Generation Web Services Practices",
+        "pub_date": "2011/10/19",
+        "description": "Companies comprise a variety of software applications to carry out their business activities. A recurrent challenge is how to make them interoperate with each other which is usually handcrafted, which is a tedious task that increases integration costs. Enterprise Service Buses range amongst the most popular solution to reduce these costs, and they allow to implement integration solutions by means of one or more layers between software applications and business processes. In this paper, we present a framework for information extraction that allow to wrap information from different web sources and to generate linked data. Furthermore, we survey a number of approaches in the bibliography to build Enterprise Service Buses in the context of semantic-web technologies, which comprise RDF, RDFS, OWL, and SPARQL languages. Finally, we conclude that, thanks to linked data, we may integrate software applications\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A reference architecture for building semantic-web mediators",
+        "id": "oLEES1QAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "International Conference on Advanced Information Systems Engineering",
+        "pub_date": "2011/6/20",
+        "description": "The Semantic Web comprises a large amount of distributed and heterogeneous ontologies, which have been developed by different communities, and there exists a need to integrate them. Mediators are pieces of software that help to perform this integration, which have been widely studied in the context of nested relational models. Unfortunately, mediators for databases that are modelled using ontologies have not been so widely studied. In this paper, we present a reference architecture for building semantic-web mediators. To the best of our knowledge, this is the first reference architecture in the bibliography that solves the integration problem as a whole, contrarily to existing approaches that focus on specific problems. Furthermore, we describe a case study that is contextualised in the digital libraries domain in which we realise the benefits of our reference architecture. Finally, we identify a number of best\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Mosto: Generating SPARQL Executable Mappings between Ontologies",
+        "id": "oLEES1QAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Carlos Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "Conceptual Modeling\u2013ER 2011",
+        "pub_date": "2011",
+        "description": "Data translation is an integration task that aims at populating a target model with data of a source model, which is usually performed by means of mappings. To reduce costs, there are some techniques to automatically generate executable mappings in a given query language, which are executed using a query engine to perform the data translation task. Unfortunately, current approaches to automatically generate executable mappings are based on nested relational models, which cannot be straightforwardly applied to semantic-web ontologies due to some differences between both models. In this paper, we present Mosto, a tool to perform the data translation using automatically generated SPARQL executable mappings. In this demo, ER attendees will have an opportunity to test this automatic generation when performing the data translation task between two different versions of the DBpedia ontology.",
+        "citations": 10
+    },
+    {
+        "title": "On using high-level structured queries for integrating deep-web information sources",
+        "id": "oLEES1QAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "SERP",
+        "pub_date": "2011",
+        "description": "The actual value of the Deep Web comes from integrating the data its applications provide. Such applications offer human-oriented search forms as their entry points, and there exists a number of tools that are used to fill them in and retrieve the resulting pages programmatically. Solution that rely on these tools are usually costly, which motivated a number of researchers to work on virtual integration, also known as metasearch. Virtual integration abstracts away from actual search forms by providing a unified search form, i.e., a programmer fills it in and the virtual integration system translates it into the application search forms. We argue that virtual integration costs might be reduced further if another abstraction level is provided by issuing structured queries in high-level languages such as SQL, XQuery or SPARQL; this helps abstract away from search forms. As far as we know, there is not a proposal in the literature that addresses this problem. In this paper, we propose a reference framework called IntegraWeb to solve the problems of using high-level structured queries to perform deep-web data integration. Furthermore, we provide a comprehensive report on existing proposals from the database integration and the Deep Web research fields, which can be used in combination to address our problem within the previous reference framework.",
+        "citations": 3
+    },
+    {
+        "title": "Monitoring Errors in Integration Workflows",
+        "id": "oLEES1QAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Rafael Z Frantz",
+            "Rafael Corchuelo",
+            "Carlos R Rivero",
+            "Carlos Molina-Jim\u00e9nez"
+        ],
+        "pub_source": "SERP",
+        "pub_date": "2011",
+        "description": "Enterprise Application Integration (EAI) is a field of Software Engineering. Its focus is on helping software engineers integrate existing applications at a sensible costs, so that they can support new business processes or optimise existing ones. EAI solutions are distributed in nature, which makes them inherently prone to failures. In this paper, we report on a proposal to address error detection in EAI solutions. The main contribution is that it runs in linear time, it deals with both choreographies and orchestrations, and that it is independent from the execution model used.",
+        "citations": 3
+    },
+    {
+        "title": "On using database techniques for generating ontology mappings",
+        "id": "oLEES1QAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "SWWS 2011: proceedings of the 2011 international conference on semantic web & web services (Las Vegas NV, July 18-21, 2011)",
+        "pub_date": "2011",
+        "description": "In the Semantic Web, there are a variety of ontologies, which motivates the need for integrating them. Integration tasks rely on the use of relationships amongst the integrated ontologies, known as mappings. The literature reports on a number of techniques to automatically generate such mappings, unfortunately, the results are not suitable to perform integration tasks since they can produce incoherent data. The database community has devised techniques that automatically generate integration-enabling mappings, however, these techniques are not directly applicable to the semantic web context due to the inherent differences between ontologies and database models. In this paper, we present the differences between semantic web ontologies (RDF, RDFS and OWL) and nested relational schemata, which argue to develop new techniques to generate integrationenabling mappings. Furthermore, we analise the requirements to generate integration-enabling mappings in the context of the Semantic Web.",
+        "citations": 3
+    },
+    {
+        "title": "On benchmarking data translation systems for semantic-web ontologies",
+        "id": "oLEES1QAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Carlos R Rivero",
+            "Inma Hern\u00e1ndez",
+            "David Ruiz",
+            "Rafael Corchuelo"
+        ],
+        "pub_source": "20th ACM International Conference on Information and Knowledge Management",
+        "pub_date": "2011",
+        "description": "Data translation, also known as data exchange, is an integration task that aims at populating a target model using data from a source model. This task is gaining importance in the context of semantic-web ontologies due to the increasing interest in graph databases and semantic-web agents. Currently, there are a variety of semantic-web technologies that can be used to implement data translation systems. This makes it difficult to assess them from an empirical point of view. In this paper, we present a benchmark that provides a catalogue of seven data translation patterns that can be instantiated by means of seven parameters. This allows us to create a variety of synthetic, domain-independent scenarios one can use to test existing data translation systems. We also illustrate how to analyse three such systems using our benchmark. The main benefit of our benchmark is that it allows to compare data translation systems\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Integrating deep-web information sources",
+        "id": "oLEES1QAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "I\u00f1aki Fern\u00e1ndez de Viana",
+            "Inma Hernandez",
+            "Patricia Jim\u00e9nez",
+            "Carlos R Rivero",
+            "Hassan A Sleiman"
+        ],
+        "pub_source": "Trends in Practical Applications of Agents and Multiagent Systems: 8th\u00a0\u2026",
+        "pub_date": "2010/4/16",
+        "description": "Deep-web information sources are difficult to integrate into automated business processes if they only provide a search form. A wrapping agent is a piece of software that allows a developer to query such information sources without worrying about the details of interacting with such forms. Our goal is to help software engineers construct wrapping agents that interpret queries written in high-level structured languages.We think that this shall definitely help reduce integration costs because this shall relieve developers from the burden of transforming their queries into low-level interactions in an ad-hoc manner. In this paper, we report on our reference framework, delve into the related work, and highlight current research challenges. This is intended to help guide future research efforts in this area.",
+        "citations": 17
+    },
+    {
+        "title": "Integrating Deep-Web Information Sources",
+        "id": "oLEES1QAAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "I\u00f1aki Fern\u00e1ndez de Viana",
+            "Inmaculada Concepci\u00f3n Hern\u00e1ndez Salmer\u00f3n",
+            "Patricia Jim\u00e9nez Aguirre",
+            "Carlos R Rivero",
+            "Hassan A Sleiman"
+        ],
+        "pub_source": "PAAMS 2010: 8th International Conference on Practical Applications of Agents and Multi-Agent Systems (2010), pp. 311-320.",
+        "pub_date": "2010",
+        "description": "Deep-web information sources are difficult to integrate into automated business processes if they only provide a search form. A wrapping agent is a piece of software that allows a developer to query such information sources without worrying about the details of interacting with such forms. Our goal is to help soft ware engineers construct wrapping agents that interpret queries written in high-level structured languages. We think that this shall definitely help reduce integration costs because this shall relieve developers from the burden of transforming their queries into low-level interactions in an ad-hoc manner. In this paper, we report on our reference framework, delve into the related work, and highlight current research challenges. This is intended to help guide future research efforts in this area."
+    },
+    {
+        "title": "On Using Semantic Web Query Languages for Semantic Web Services Provisioning.",
+        "id": "oLEES1QAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Jos\u00e9 Mar\u00eda Garc\u00eda",
+            "Carlos R Rivero",
+            "David Ruiz",
+            "Antonio Ruiz Cort\u00e9s"
+        ],
+        "pub_source": "SWWS",
+        "pub_date": "2009",
+        "description": "Although there are several approaches to discover Semantic Web Services based on Description Logics reasoning, the use of standard Semantic Web query languages for this task is not so widely spread, partly because service discovery involves some issues that these languages do not usually deal with, such as complex matching, results ranking or interoperability. In this work we analyze the suitability of existing query languages to perform provisioning tasks (namely discovery, ranking and selection) within a Semantic Web Services scenario. Additionally, the requirements a Semantic Web query language has to fulfill in order to be used within a provisioning scenario are enumerated, giving some insights into how to extend current query languages to do so. Furthermore, an analysis of current provisioning proposals achievement of those requirements is presented.",
+        "citations": 9
+    },
+    {
+        "title": "From queries to search forms: an implementation",
+        "id": "oLEES1QAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Carlos Rivero"
+        ],
+        "pub_source": "International journal of computer applications in technology",
+        "pub_date": "2008/1/1",
+        "description": "According to several reports, the deep web contains very specific and high quality information, and it increases day by day. Recently, some internet companies like Google or Yahoo have shown an interest in this topic. There are various techniques for accessing the deep web using crawling and metasearch. From an integration point of view, the most interesting proposals are based on SQL-like languages. In this paper, we focus on a particular framework which is able to query search forms in a SQL-like way. As a proof of concepts, we propose an implementation and comment on its main drawbacks.",
+        "citations": 5
+    },
+    {
+        "title": "An advanced query capability description framework implementation",
+        "id": "oLEES1QAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Carlos Rivero",
+            "David Ruiz"
+        ],
+        "pub_source": "Zoco/JISBD",
+        "pub_date": "2007",
+        "citations": 4
+    },
+    {
+        "title": "Customizing Feedback for Introductory Programming Courses using Semantic Clusters",
+        "id": "oLEES1QAAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=oLEES1QAAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "Victor J Marin",
+            "Hadi Hosseini",
+            "Carlos R Rivero"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "citations": 1
+    }
+]

@@ -1,0 +1,957 @@
+[
+    {
+        "title": "Analysis of digital technology-based building safety and sustainable development",
+        "id": "SHJ98SkAAAAJ:tS2w5q8j5-wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:tS2w5q8j5-wC",
+        "authors": [
+            "Qin Yan",
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the 2023 5th Asia Pacific Information Technology Conference",
+        "pub_date": "2023/2/9",
+        "description": "There are new technical means of building safety and sustainability with the rapid development of digital technology. This paper analyzes the connotation of building safety and sustainable development, and sorts out the problems in the whole life cycle of buildings, as well as the impact of buildings on safety and ecological environment. It focuses on the role played by digital technology in the process of the whole life cycle of buildings, from the three stages of planning and design, production and construction, using and operation. This study explores the application of technologies such as Big Data, IoT, BIM, CIM, VR and digital twin technology in building safety and sustainability. The results of the study provide ideas for better use of digital technology in the whole life cycle of buildings to achieve sustainable development and smart management of buildings."
+    },
+    {
+        "title": "A Novel Frame Forwarding Algorithm for Switched Networks",
+        "id": "SHJ98SkAAAAJ:vRqMK49ujn8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:vRqMK49ujn8C",
+        "authors": [
+            "Peter Willis",
+            "Nirmala Shenoy",
+            "Yin Pan",
+            "John Hamilton"
+        ],
+        "pub_source": "2022 IEEE 47th Conference on Local Computer Networks (LCN)",
+        "pub_date": "2022/9/26",
+        "description": "Switched networks use meshed topologies for path redundancy; loop-free frame forwarding paths are established by protocols that use either the spanning or Dijkstra tree algorithms. When a network link or device fails, the tree must be repaired, leading to high convergence latencies impacting both broadcast and unicast traffic. Unicast frames are constrained to use the tree paths, which may not be the shortest path and links are not utilized uniformly. We propose a new meshed tree algorithm and meshed tree protocol (MTP) to provide non-looping paths (with backup) for broadcast frames. We also propose a new scheme for unicast frames to use shortest paths (provisioned with backup) between end devices. A novel virtual ID technique to construct the trees makes the protocol robust and provides fast failure recovery. In this article, we present implementation details of MTP on the GENI testbed and compare its\u00a0\u2026"
+    },
+    {
+        "title": "Smart design for evacuation signage layout for exhibition halls in exhibition buildings based on visibility",
+        "id": "SHJ98SkAAAAJ:08ZZubdj9fEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:08ZZubdj9fEC",
+        "authors": [
+            "Zhanzhi Wan",
+            "Tiejun Zhou",
+            "Zhili Tang",
+            "Yin Pan",
+            "Lingfei Zhang"
+        ],
+        "pub_source": "ISPRS International Journal of Geo-Information",
+        "pub_date": "2021/11/30",
+        "description": "The reasonable placement of evacuation signage is an important means to improve the efficiency of evacuation in the exhibition halls of exhibition buildings. The booths in exhibition halls are arranged and changed frequently for different exhibitions, which means that the evacuation paths are not fixed. Most people are also unfamiliar with the exhibition hall environment. In case of fire, earthquake, or other emergencies, people need to quickly escape to the safety exit, adhering to the guidance of evacuation signage. Existing evacuation signs are located according to the standards and the experience of the designers, and the locations of the signs are fixed and do not change with the changes in the booth layout, which means that the signage can be easily obscured by the booths, affecting the signage identification. Based on the visibility of evacuation signage, a smart design method of evacuation signage layout is proposed in this paper that can be adapted to different forms of booth arrangements in exhibition halls. This method establishes a key goal of achieving the full coverage of the visibility range of evacuation passages with the minimum number of evacuation signs. In the context of the actual visibility range of evacuation signage being blocked by booths in a three-dimensional space, this method finds the optimal number and best locations of evacuation signs by using a genetic algorithm. Finally, a case is given to verify the effectiveness of the method. This smart design for evacuation signage layout can enhance the guidance ability of evacuation signage in exhibition halls and improve the efficiency of evacuation.",
+        "citations": 6
+    },
+    {
+        "title": "Creating adversarial malware examples through guided metamorphic changes",
+        "id": "SHJ98SkAAAAJ:tOudhMTPpwUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:tOudhMTPpwUC",
+        "authors": [
+            "Rayan Mosli",
+            "Thomas J Slota",
+            "Yin Pan"
+        ],
+        "pub_source": "2021 IEEE International Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2021/11/8",
+        "description": "Malconv is considered the state-of-the-art in mal-ware detection for Windows PE executables. It is a Convolutional Deep Learning model that is capable of consuming executable byte code to detect malware with high accuracy. Attacks have been created that can effectively generate adversarial examples to evade the detection of Malconv. However, these attacks generate adversarial examples by inserting benign bytes to maintain the malware\u2019s malicious functionalities, an approach that is presumed to be easily detectable. In this paper, a novel black-box attack is proposed to create adversarial examples against Malconv, where functionally-equivalent instruction replacements are combined with Particle Swarm Optimization to create adversarial examples. The overall goal is to demonstrate that Malconv is prone to sophisticated attacks that interact with the executable portions of the malware.",
+        "citations": 5
+    },
+    {
+        "title": "Telemedicine assessment for the mental health of rural residents based on the safety degree of housing in seismically active regions",
+        "id": "SHJ98SkAAAAJ:l7t_Zn2s7bgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:l7t_Zn2s7bgC",
+        "authors": [
+            "Yin Pan",
+            "Ruihang Xie",
+            "Qin Yan",
+            "Tiejun Zhou"
+        ],
+        "pub_source": "Frontiers in public health",
+        "pub_date": "2021/8/2",
+        "description": "Earthquakes inevitably affect the mental health of local residents. In seismically active regions of Southwest China, local rural residents' dilapidated housing with poor seismic performance aggravates the impacts of earthquakes on their mental health. These residents' mental health is difficult to recognize because of the lack of appropriate assessment methods. In addition, rural residents in the area have a low socioeconomic status and cannot access adequate mental treatment. Thus, telemedicine could be an effective approach to assist mental health practice in such areas. However, the lack of telemedicine assessment factors in these areas makes it difficult to complete the correct triage and prioritization of rural residents' mental health quickly and effectively. To provide a foundation for applying telemedicine to assess the risk of mental health problems that rural residents in seismically active regions experience, this paper studied whether the degree of safety of housing can affect mental health. In this study, nine villages near the epicenter of the 2019 6.0-magnitude earthquake in Changning County, China were randomly selected, and 162 valid questionnaires were completed. SPSS statistical software was used to analyze the collected data. First, the satisfaction of rural residents with the degree of safety of housing significantly affected the K6 score and whether they suffered from mental problems. Second, the mental health of rural residents living in reinforced concrete frame structure housing was obviously superior to that of those living in other types of housing. Next, the most significant factor affecting mental health was the degree of wall\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Root Redundancy in Meshed Tree Bridged Networks",
+        "id": "SHJ98SkAAAAJ:UxriW0iASnsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:UxriW0iASnsC",
+        "authors": [
+            "Peter Willis",
+            "Nirmala Shenoy",
+            "Yin Pan",
+            "John Hamilton"
+        ],
+        "pub_source": "2020 IEEE 45th Conference on Local Computer Networks (LCN)",
+        "pub_date": "2020/11/16",
+        "description": "Switched networks require loop-avoidance protocols to avoid looping of broadcast and multicast Loop-avoidance protocols use a tree algorithm to construct a logical tree from one root such as rapid spanning tree protocol (RSTP). RSTP results in high convergence latency and heavily impaired network performance on root switch failures. Some protocols construct a logical tree from every switch resulting in high operational overhead. We propose the Meshed Tree Protocol (MTP) to designate the number of roots based on desired network uptime and computational overhead, where a meshed tree conceptually maintains multiple tree branches from a root. MTP based on multi meshed tree algorithm (MMTA), constructs and maintains multiple meshed trees from multiple designated roots. We compare a prototype of MTP based on MMTA against RSTP using switched networks in the Global Environment for Network\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Smart safety design for fire stairways in underground space based on the ascending evacuation speed and BMI",
+        "id": "SHJ98SkAAAAJ:OU6Ihb5iCvQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:OU6Ihb5iCvQC",
+        "authors": [
+            "Ruihang Xie",
+            "Yin Pan",
+            "Tiejun Zhou",
+            "Wei Ye"
+        ],
+        "pub_source": "Safety science",
+        "pub_date": "2020/5/1",
+        "description": "The evacuation problem in underground space restricts the large-scale development of underground space, wherein ascending evacuation is its main feature. Current evacuation regulations approaches for underground space generally suggest increasing dimension and number of evacuation paths and exits in architecture design plan, and no better way to improve the evacuation efficiency in underground space that has been built. This study aims to create a smart safety design for fire stairways to improve the evacuation efficiency without altering their architectural characteristics. The smart safety design is made up of two parts, one is the mathematical basis for predictable ascending evacuation speed of evacuees, and the other is the system logical architecture integrating intelligent devices. Therefore, firstly this study proved the relationship between the ascending evacuation speed in underground space and the\u00a0\u2026",
+        "citations": 20
+    },
+    {
+        "title": "They might not be giants crafting black-box adversarial examples using particle swarm optimization",
+        "id": "SHJ98SkAAAAJ:dshw04ExmUIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:dshw04ExmUIC",
+        "authors": [
+            "Rayan Mosli",
+            "Matthew Wright",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "Computer Security\u2013ESORICS 2020: 25th European Symposium on Research in Computer Security, ESORICS 2020, Guildford, UK, September 14\u201318, 2020, Proceedings, Part II 25",
+        "pub_date": "2020",
+        "description": "As machine learning is deployed in more settings, including in security-sensitive applications such as malware detection, the risks posed by adversarial examples that fool machine-learning classifiers have become magnified. Black-box attacks are especially dangerous, as they only require the attacker to have the ability to query the target model and observe the labels it returns, without knowing anything else about the model. Current black-box attacks either have low success rates, require a high number of queries, produce adversarial images that are easily distinguishable from their sources, or are not flexible in controlling the outcome of the attack. In this paper, we present AdversarialPSO, (Code available: https://github.com/rhm6501/AdversarialPSOImages) a black-box attack that uses few queries to create adversarial examples with high success rates. AdversarialPSO is based on Particle Swarm Optimization, a\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "They might not be giants: Crafting black-box adversarial examples with fewer queries using particle swarm optimization",
+        "id": "SHJ98SkAAAAJ:KxtntwgDAa4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:KxtntwgDAa4C",
+        "authors": [
+            "Rayan Mosli",
+            "Matthew Wright",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "arXiv preprint arXiv:1909.07490",
+        "pub_date": "2019/9/16",
+        "description": "Machine learning models have been found to be susceptible to adversarial examples that are often indistinguishable from the original inputs. These adversarial examples are created by applying adversarial perturbations to input samples, which would cause them to be misclassified by the target models. Attacks that search and apply the perturbations to create adversarial examples are performed in both white-box and black-box settings, depending on the information available to the attacker about the target. For black-box attacks, the only capability available to the attacker is the ability to query the target with specially crafted inputs and observing the labels returned by the model. Current black-box attacks either have low success rates, requires a high number of queries, or produce adversarial examples that are easily distinguishable from their sources. In this paper, we present AdversarialPSO, a black-box attack that uses fewer queries to create adversarial examples with high success rates. AdversarialPSO is based on the evolutionary search algorithm Particle Swarm Optimization, a populationbased gradient-free optimization algorithm. It is flexible in balancing the number of queries submitted to the target vs the quality of imperceptible adversarial examples. The attack has been evaluated using the image classification benchmark datasets CIFAR-10, MNIST, and Imagenet, achieving success rates of 99.6%, 96.3%, and 82.0%, respectively, while submitting substantially fewer queries than the state-of-the-art. We also present a black-box method for isolating salient features used by models when making classifications. This method, called\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Research on urban disaster relief road system planning",
+        "id": "SHJ98SkAAAAJ:p2g8aNsByqUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:p2g8aNsByqUC",
+        "authors": [
+            "Qin Yan",
+            "Yin Pan"
+        ],
+        "pub_source": "IOP Conference Series: Earth and Environmental Science",
+        "pub_date": "2019/7/1",
+        "description": "This paper summarized the principles of urban road system planning from the aspects of traffic demand, comprehensive planning and emergency response. Then it analyzed framework system of disaster prevention and relief roads in Japan and Taiwan. It summarized the enlightenment of the experience of Japan and Taiwan to the establishment of the road system for disaster prevention and relief in China. It included the establishment of the road system for urban disaster prevention and relief theory, the standardization of the content of urban disaster prevention and relief planning, and the improvement of the road management system and mechanism for urban disaster prevention and relief. The theory of road system for disaster prevention and relief to guide the planning practice, so as to ensure the safe and sustainable development of China's cities."
+    },
+    {
+        "title": "On the viability of data collection using Google Rapid Response for enterprise-level malware research",
+        "id": "SHJ98SkAAAAJ:CHSYGLWDkRkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:CHSYGLWDkRkC",
+        "authors": [
+            "Rayan Mosli",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "Digital Investigation",
+        "pub_date": "2018/7/1",
+        "description": "With the increasing number of attacks on enterprises, which often involves the deployment of some form of malware, an automated method for performing large-scale triage has become essential to the timely resolution of an incident. The purpose of this project is to combine the data collection capabilities of Google Rapid Response (GRR) with the flexible automation of Cuckoo Sandbox, to collect data for training machine learning models that perform triage on enterprise machines. To evaluate the viability of this approach, we investigate the artifacts that can be collected using GRR and whether they provide salient features for triage automation. Furthermore, we consider the speed of data collection and the consistency of the collected data when scaling the analysis environment to include more machines. Moreover, we develop multiple simulations of benign computer usage for both generating the benign dataset\u00a0\u2026"
+    },
+    {
+        "title": "Board 162: Assessing the Modular-based Digital Forensics Game for Entry Level Students",
+        "id": "SHJ98SkAAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "Yin Pan",
+            "Michael Yacci",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2018 ASEE Annual Conference & Exposition",
+        "pub_date": "2018/6/23",
+        "description": "Cybersecurity and forensics are among the most critical areas of national importance in growing need of knowledgeable professionals. In an effort to identify and attract more students to forensics programs, RIT faculty have been working with Onondaga Community College and Corning Community College to develop a sequence of entertaining, engaging, and educational forensic games, suitable for first year students in college. Following narrative and/or storylines of the game via interactive dialogs and visualized abstract concepts, we expected that students will be motivated and engaged to obtain the necessary knowledge, and to develop their problem-solving skills while playing the game. This approach will potentially shorten pre-requisite chains of advanced courses, thereby reducing the time and cost for obtaining cybersecurity knowledge and skills for students. This project is funded in part by the National\u00a0\u2026"
+    },
+    {
+        "title": "Research on Influencing Factors of Safety of Urban Evacuation Road",
+        "id": "SHJ98SkAAAAJ:uWQEDVKXjbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:uWQEDVKXjbEC",
+        "authors": [
+            "Qin Yan",
+            "Yin Pan"
+        ],
+        "pub_source": "JOURNAL OF ADVANCED OXIDATION TECHNOLOGIES",
+        "pub_date": "2018/1/1",
+        "description": "Urban shelter is an important space guarantee of preventing disasters and reducing damages. The state attaches more and more attentions to research on urban safety regions. In this paper, status of earthquake shelter in mountainous city and plain city was analyzed. Influencing factors of urban evacuation road safety were summarized from safety, efficiency and risk of evacuation based on literature review. Influencing factors of evacuation road safety in mountainous city and plain city were evaluated through a questionnaire survey method. Weight analysis of the questionnaire survey results was carried out by analytical hierarchy process, getting primary influencing actors in mountainous city. The weight difference of influencing factors in mountainous city and plain city was discussed. The research results provide a definite method and theoretical basis for determining the best urban evacuation road, thus\u00a0\u2026"
+    },
+    {
+        "title": "Board# 133: Gamifying Cybersecurity Course Content for Entry Level Students",
+        "id": "SHJ98SkAAAAJ:b0M2c_1WBrUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:b0M2c_1WBrUC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "David I Schwartz"
+        ],
+        "pub_source": "2017 ASEE Annual Conference & Exposition",
+        "pub_date": "2017/6/24",
+        "description": "The growing shortage of skilled professionals in cybersecurity and forensics has increased global demand for information systems professionals. In an effort to identify and attract more students to cybersecurity and forensics programs, the authors developed a game engine along with a GUI-based game creator to generate a sequence of entertaining, engaging, and educational games, suitable for forensics and cybersecurity courses. This multi-partner project is funded in part by the National Science Foundation under Award DUE-1400567.",
+        "citations": 2
+    },
+    {
+        "title": "Gamifying course modules for entry level students",
+        "id": "SHJ98SkAAAAJ:f2IySw72cVMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:f2IySw72cVMC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education",
+        "pub_date": "2017/3/8",
+        "description": "The growing shortage of skilled professionals in cybersecurity and forensics has increased global demand for information systems professionals. To identify and attract more students to cybersecurity and forensics programs, the authors developed a game engine along with a sequence of entertaining, engaging, and educational games, suitable for forensics and cybersecurity courses. This paper focuses on the design and development of a modular educational game framework composed of a game engine and a GUI-based game creator. Following narrative and storylines of the game via interactive dialogs and visualized abstract concepts, students are motivated and engaged to obtain the necessary knowledge. Students will also develop their problem solving skills by using real tools and technologies while playing the game. The GUI-based game creator allows educators to create and develop new educational\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "A behavior-based approach for malware detection",
+        "id": "SHJ98SkAAAAJ:abG-DnoFyZgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:abG-DnoFyZgC",
+        "authors": [
+            "Rayan Mosli",
+            "Rui Li",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "Advances in Digital Forensics XIII: 13th IFIP WG 11.9 International Conference, Orlando, FL, USA, January 30-February 1, 2017, Revised Selected Papers 13",
+        "pub_date": "2017",
+        "description": "Malware is the fastest growing threat to information technology systems. Although a single absolute solution for defeating malware is improbable, a stacked arsenal against malicious software enhances the ability to maintain security and privacy. This research attempts to reinforce the anti-malware arsenal by studying a behavioral activity common to software \u2013 the use of handles. The characteristics of handle usage by benign and malicious software are extracted and exploited in an effort to distinguish between the two classes. An automated malware detection mechanism is presented that utilizes memory forensics, information retrieval and machine learning techniques. Experimentation with a malware dataset yields a malware detection rate of 91.4% with precision and recall of 89.8% and 91.1%, respectively.",
+        "citations": 45
+    },
+    {
+        "title": "Disaster Prevention Strategies: A Study on Underground Commercial Street",
+        "id": "SHJ98SkAAAAJ:Tiz5es2fbqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:Tiz5es2fbqcC",
+        "authors": [
+            "Qin Yan",
+            "Yin Pan"
+        ],
+        "pub_source": "Open House International",
+        "pub_date": "2016/9/1",
+        "description": "Planning for underground spaces has become an effective way to use central areas in cities given the steady economic growth in China. The development of underground spaces in mountainous cities has satisfied the needs of the diversification of the city commercial areas and pedestrian movement. Safety issues exist because these underground spaces were originally used for civil air defense. This study was based on the underground commercial street in Chongqing, which is a typical mountainous city. Based on the results of combined fieldwork and survey, this paper summarized current safety issues, which include the not-fully-open exit, the imbalanced exit location, blocked evacuation routes, and the poor awareness of the potential safety issues. This paper proposed a framework of the safety factors for the underground space and synopsized prevention strategies that are specific to potential disasters in the\u00a0\u2026"
+    },
+    {
+        "title": "The influence of personality traits and social networks on the self-disclosure behavior of social network site users",
+        "id": "SHJ98SkAAAAJ:EUQCXRtRnyEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:EUQCXRtRnyEC",
+        "authors": [
+            "Xi Chen",
+            "Yin Pan",
+            "Bin Guo"
+        ],
+        "pub_source": "Internet research",
+        "pub_date": "2016/6/6",
+        "description": "Purpose  \u2013 The purpose of this paper is to determine the influence and interaction of social networks and personality traits on the self-disclosure behavior of social network site (SNS) users. According to social capital theory and the Big Five personality model, the authors hypothesized that social capital factors would affect the accuracy and amount of self-disclosure behavior and that personality traits would moderate this effect.  Design/methodology/approach  \u2013 A survey was conducted to collect data from 207 SNS users. The questionnaire was administered in university classrooms and libraries and via e-mail. The measurement model and structural model were examined by using LISREL 8.8 and SmartPLS 2.0.  Findings  \u2013 Based on the path analysis, the authors identified several interesting patterns to explain self-disclosure behavior on\u00a0\u2026",
+        "citations": 110
+    },
+    {
+        "title": "Automated malware detection using artifacts in forensic memory images",
+        "id": "SHJ98SkAAAAJ:u_35RYKgDlwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:u_35RYKgDlwC",
+        "authors": [
+            "Rayan Mosli",
+            "Rui Li",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "2016 IEEE Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2016/5/10",
+        "description": "Malware is one of the greatest and most rapidly growing threats to the digital world. Traditional signature-based detection is no longer adequate to detect new variants and highly targeted malware. Furthermore, dynamic detection is often circumvented with anti-VM and/or anti-debugger techniques. Recently heuristic approaches have been explored to enhance detection accuracy while maintaining the generality of a model to detect unknown malware samples. In this paper, we investigate three feature types extracted from memory images - registry activity, imported libraries, and API function calls. After evaluating the importance of the different features, different machine learning techniques are implemented to compare performances of malware detection using the three feature types, respectively. The highest accuracy achieved was 96%, and was reached using a support vector machine model, fitted on data\u00a0\u2026",
+        "citations": 89
+    },
+    {
+        "title": "Redevelopment of Rural Settlements in Lizhuang Town, Yibin City, China",
+        "id": "SHJ98SkAAAAJ:WbkHhVStYXYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:WbkHhVStYXYC",
+        "authors": [
+            "Yin Pan",
+            "Tiejun Zhou"
+        ],
+        "pub_source": "Open House International",
+        "pub_date": "2015/12/1",
+        "description": "Due to the rapid urbanization in China, the living environment in urban areas improves considerably, while that in rural settlements does not improve remarkably, or even worsens. The purpose of the research is to propose an organizational approach to the improvement of the living environment in the poverty-stricken rural settlements and an architectural design pattern under a variety of requirements in the context of China\u2019s rapid urbanization and socio-economic development in the redevelopment of rural settlements in Yongsheng Village, Lizhuang Town, Yibin City of Sichuan Province in Southwest China. In this redevelopment project, the architects, as the important third party, are not just architects in the traditional sense in that they are involved in the organizational process and architectural design throughout the whole project. The redevelopment project has been completed, and is aimed at providing a\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Are rural residents\u2019 mental health influenced by the new countryside construction? An investigation in Chongqing, China",
+        "id": "SHJ98SkAAAAJ:SP6oXDckpogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:SP6oXDckpogC",
+        "authors": [
+            "Yin Pan",
+            "Tiejun Zhou",
+            "Haibin Zhang",
+            "Xiaoyu Du"
+        ],
+        "pub_source": "Rev Cercet Interv Soc",
+        "pub_date": "2015/12/1",
+        "description": "To improve the living environment in rural areas, the Chinese government has mapped out an important strategy, \u201cNew Countryside Construction\u201d (NCC). The purpose of this study is to reveal the effect of NCC implementation on the rural residents\u2019 mental health, and the relationship between them. In this study, from Apr. 5 to Aug. 12, 2015, rural residents from 10 villages in Chongqing, a metropolis in southwest China, were chosen for questionnaires and interviews. The questionnaire was designed to cover two sets of questions: one concerned with the mental health scale (Kessler 6) and the other on the construction conditions in the rural areas. Afterward, the statistical software SPSS was employed to analyze the collected data. Based on the data analysis, two results were generalized. First, NCC significantly improved the mental health of the rural residents. Second, factors closely related to the NCC, such as\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Gamified digital forensics course modules for undergraduates",
+        "id": "SHJ98SkAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Yin Pan",
+            "David Schwartz",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2015 IEEE Integrated STEM Education Conference",
+        "pub_date": "2015/3/7",
+        "description": "Cyber security and forensics are among the most critical areas of national importance with a rising demand for knowledgeable professionals. In response to the increasing need for advanced studies in forensics, we propose game-based modules using the game-based learning approach that enable first-year students to learn basic digital forensics concepts without pre-requisite knowledge. This paper focuses on the design and development of an interactive game framework and the educational digital forensics modules that will be plugged into the game framework in a real computing environment. In contrast to the traditional teaching approaches, this modular approach will use game-based learning and visualization techniques to engage students to learn abstract concepts and to explore forensics investigation technologies and procedures through interactive games. The general design of the game framework\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "A study of escape time from an underground street in a mountainous city",
+        "id": "SHJ98SkAAAAJ:u9iWguZQMMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:u9iWguZQMMsC",
+        "authors": [
+            "Yin Pan",
+            "Tiejun Zhou",
+            "Qin Yan"
+        ],
+        "pub_source": "International journal of safety and security engineering",
+        "pub_date": "2014/12/31",
+        "description": "Taking the underground street in Three Gorges Plaza in the Shapingba District, Chongqing, as an example, the present study focused on a densely populated underground street downtown in a mountainous city, in which the issue of emergency evacuation in case of fire was discussed. The total evacuation number could be worked out according to the \u2018method of trip generation rate\u2019; the length of escape routes and the width of escape exits were counted, and the maximum capacity of people for each emergency exit was calculated according to the unit capacity. Based on the above data, the escape route was built by the iterative programming algorithm so as to check the safety of the current underground street in the mountainous city, in order that technical support can be provided for effective countermeasures. Thus, the emergency evacuation capability of a downtown underground street in a mountainous city can be enhanced.",
+        "citations": 1
+    },
+    {
+        "title": "Understanding Social Network sites continuance Intention from a Self-Disclosure and Social Capital Perspective.",
+        "id": "SHJ98SkAAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "Yin Pan",
+            "Xi Chen",
+            "Shun Cai",
+            "Yi Dong"
+        ],
+        "pub_source": "PACIS",
+        "pub_date": "2014",
+        "description": "This study intends to understand why the social network sites users continue to use the service and why would they turn to other social network services. By integrating the honesty of self-disclosure with confirmation and three dimensions of social capital with perceived usefulness, we establish a new expectation confirmation model to understand the continuance intention of social network sites users.We propose eleven hypotheses and test them through a survey conduct in China and received 159 valid questionnaires. Through the analysis of 139 valid questionnaires which have at least one social network sites account, we draw some interesting conclusions. Honesty confirmation of self-disclosure has a positive relationship with the three dimension of perceived social capital but not the users\u2019 satisfaction. Perceived social network is a significant antecedent of users\u2019 satisfaction and continuance intention on account of the high switching cost. Meanwhile, perceived shared language can increase users\u2019 satisfaction but not the continuance intention because its universality, and perceived trust has no relationship with both.",
+        "citations": 7
+    },
+    {
+        "title": "The Research of Dong Xi Ancient Town in Chongqing, China",
+        "id": "SHJ98SkAAAAJ:738O_yMBCRsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:738O_yMBCRsC",
+        "authors": [
+            "Yin Pan",
+            "Qin Yan",
+            "Tie Jun Zhou"
+        ],
+        "pub_source": "Applied Mechanics and Materials",
+        "pub_date": "2013/12/5",
+        "description": "The Dong Xi ancient town was the second batch of national-level historical and cultural town in China. It had act as the important role of in regional economic, social and cultural and had different roads of historical development. Therefore, its great significance of the research in the Dong Xi ancient town for the conservation of heritage. Based on the survey of the Dong Xi ancient town, contains the Dong Xis history and present situation, this paper summarized and organized the architectural heritage, cultural heritage and social conditions of the ancient town. The existing problems in the conservation of the Dong Xi ancient town were analyzed and discussed and provided the data basis for the scientific conservation of historical and cultural heritage."
+    },
+    {
+        "title": "Towards a web tracking profiling algorithm",
+        "id": "SHJ98SkAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "William Huba",
+            "Bo Yuan",
+            "Yin Pan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2013 IEEE International Conference on Technologies for Homeland Security (HST)",
+        "pub_date": "2013/11/12",
+        "description": "Accurate tracking of web attackers can be used to identify and monitor repeat offenders, and to allow defenders to deter and/or retaliate against the attackers. Tracking of web clients has been difficult since HTTP is a stateless protocol. Existing methods are limited to the current session and are not designed to track a client long-term or through different environments. This paper evaluates and rates the most popular methods of tracking web users in terms of the uniqueness of the information provided by them, and how well they preserve information when a client attempts to remove them. The tracking methods are then combined using a profiling algorithm to correlate all of the available information into a single profile. The algorithm is designed with different weights for each method. Test results demonstrate that this approach accurately determines the correct profile for a client in situations where the individual\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Advanced Forensics Labs to Meet Computer Forensics Challenges Due to Technological Advancements",
+        "id": "SHJ98SkAAAAJ:1sJd4Hv_s6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:1sJd4Hv_s6UC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Journal of The Colloquium for Information Systems Security Education",
+        "pub_date": "2013/6/1",
+        "description": "Computer forensics is a continually evolving field, filled with challenges when existing hardware and software technologies progress and new devices and technologies are added to the mix. It is important for forensics investigators responsible for acquiring, preserving and analyzing digital evidence, to be aware of the challenges facing the forensics field and to apply latest technologies in forensics investigation. This paper discusses the challenges to the traditional forensics procedures and technologies due to evolving hardware and software. The authors present the latest forensics technologies and procedures as well as research ideas to address the challenges, especially in mobile device forensics, Solid State Drive (SSD) evidence recovery and analysis, and Windows memory forensics. Corresponding labs are designed and presented to assist computer forensic students and practitioners in getting acquainted with and practicing the new knowledge and tools.",
+        "citations": 1
+    },
+    {
+        "title": "Understanding protogeni in networking courses for research and education",
+        "id": "SHJ98SkAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Kaiqi Xiong",
+            "Yin Pan"
+        ],
+        "pub_source": "2013 Second GENI Research and Educational Experiment Workshop",
+        "pub_date": "2013/3/20",
+        "description": "Hands-on lab experience is often necessary and important, but it requires time and financial investment in computer and engineering curricula. The Global Environment for Network Innovations (GENI) is a real-world, repeatable, programmable, at-scale, virtual infrastructure for experiments in a variety of computer science areas such as networking, security, and distributed computing sponsored by National Science Foundation (NSF). In this paper, we present an approach to understanding ProtoGENI, one of GENI resources, for networking research and education. Specifically, we have developed lab experiments and projects that help students to understand ProtoGENI for their course projects, capstone projects, and thesis research.",
+        "citations": 4
+    },
+    {
+        "title": "User self-disclosure on SNSs: A privacy risk and social capital perspective",
+        "id": "SHJ98SkAAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "Xi Chen",
+            "Yin Pan",
+            "Shun Cai"
+        ],
+        "pub_source": "",
+        "pub_date": "2013",
+        "description": "The growth and popularity of SNSs such as Facebook and Twitter have created a new world for users to conduct activities such as posting, viewing, sharing, replying and playing. One of the most important user participation behaviors is self-disclosure. This study attempts to investigate the relation between privacy risk and self-disclosure behavior in SNSs and to understand how the users selectively reveal personal information in an environment with high privacy risk. By integrating Communication Privacy Management Theory, Disclosure Decision Model and Social Capital Theory, we propose a SNS user self-disclosure model. In particular, we propose that perceived privacy risk (PPR) and perceived information control ability (PICA) are the two key antecedents of user self-disclosure. We further suggest that that the three dimensions of social capital, namely, relational dimension, cognitive dimension, and structural dimension, influence PPR and PICA respectively. A survey was conducted and structural equation modeling (SEM) was employed for data analysis. Our hypotheses are generally supported. Research implications are discussed.",
+        "citations": 7
+    },
+    {
+        "title": "ANALYSIS IN CLOUD COMPUTING ENVIRONMENTS",
+        "id": "SHJ98SkAAAAJ:K3LRdlH-MEoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:K3LRdlH-MEoC",
+        "authors": [
+            "Mohammed Almathami",
+            "Kaiqi Xiong",
+            "Sumita Mishra",
+            "Yin Pan"
+        ],
+        "pub_source": "",
+        "pub_date": "2012/11",
+        "description": "The cloud computing has been evolved in recent years which led many customers to utilize the cloud computing technologies. The research work in this area has spread due to many issues that have coincided with the vast growth of the cloud computing technologies. On the other hand, the cloud security concern has become one of the important issues that cloud computing introduces. One of the main components of cloud services is the service level agreement (SLA) that works as a contractual document between the cloud providers and their customers and states some metrics and parameters that must be enforced by the cloud providers or consumers. Despite various issues of the SLA in cloud computing, there is one issue that has not been discussed frequently in cloud computing security, which is the SLA in term of risk management. This research tends to perform SLA-based risk analysis in cloud computing\u00a0\u2026"
+    },
+    {
+        "title": "Game-based forensics course for first year students",
+        "id": "SHJ98SkAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "Bo Yuan",
+            "Bill Stackpole",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 13th annual conference on Information technology education",
+        "pub_date": "2012/10/11",
+        "description": "This paper focuses on the design and development of a game-based forensics course. This course uses the game-based learning (GBL) approach that builds the game in a real computing environment that has direct access to actual forensics tools from a forensics machine and the evidence from a suspect machine. Interactive visualizations will be used to help students to understand the intangible and inaccessible abstract concepts such as deleted/hidden/encrypted/over-written digital evidence.",
+        "citations": 17
+    },
+    {
+        "title": "Correlating risk findings to quantify risk",
+        "id": "SHJ98SkAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Aaron Sanders",
+            "Tong Sun",
+            "Yin Pan",
+            "Bo Yuan"
+        ],
+        "pub_source": "2012 International Conference on Privacy, Security, Risk and Trust and 2012 International Confernece on Social Computing",
+        "pub_date": "2012/9/3",
+        "description": "Research in quantitative Information Technology (IT) risk analysis has increased in the past decade, but much of that research has focused on creating new approaches that replace existing ones. Since organizations have extensive sunk costs invested in their risk management programs, there exists a need to extend and improve existing approaches. Additionally, many quantitative approaches are difficult to implement without mathematical expertise or specialized tools, focus on quantifying individual vulnerabilities, provide little insight into underlying process gaps affecting IT risk and do not facilitate including environmental factors in risk ratings. Our research focuses on identifying attributes or characteristics of risk that are missing from existing approaches, and quantifying their relevance using statistical analysis techniques. We seek to identify and quantify attributes that further close the gap between enumerating\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Forensic acquisition and analysis of vmware virtual hard disks",
+        "id": "SHJ98SkAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Manish Hirwani",
+            "Yin Pan",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "The 2012 international conference on security and management",
+        "pub_date": "2012/7",
+        "description": "With the advancement in virtualization technology, virtual machines (VMs) are becoming a common and integral part of datacenters. As the popularity and the use of VMs increases, incidents involving them are also on the rise. There is substantial research on using VMs and virtual appliances to aid forensic investigation, but research on the appropriate forensics procedures for collecting and analyzing evidence within a VM following is lacking.",
+        "citations": 28
+    },
+    {
+        "title": "E-mail Behavior Profiling based on Attachment Type and Language",
+        "id": "SHJ98SkAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Onur Polatcan",
+            "Sumita Mishra",
+            "Yin Pan"
+        ],
+        "pub_source": "6th Annual Symposium on Information Assurance (ASIA\u201911)",
+        "pub_date": "2011/6/7",
+        "description": "Protection of confidential information from insider threat is crucial for any organization. In particular, compromise of information via email is relatively easy and can go undetected. We have developed the Invisible Witness tool for prevention and detection of information compromise via email. Invisible Witness can automatically detect certain patterns across user accounts that indicate covert or malicious activities. Furthermore, this application assists the network administrator with targeted investigation. Many existing applications look for specific text or attachments, but to the best of our knowledge, Invisible Witness is the only application that is capable of creating user profiling. Our preliminary results indicate that this application works with over 95% accuracy. Hence, this tool can be used to minimize business risk by helping protect sensitive information from compromise.",
+        "citations": 1
+    },
+    {
+        "title": "A QoS assurance mechanism based on credit record for SOC system",
+        "id": "SHJ98SkAAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Xian-Zhen Yin",
+            "Jing Jiang",
+            "Zhen-Kuan Pan",
+            "Bai-Qiang Xia"
+        ],
+        "pub_source": "Jisuanji Xuebao(Chinese Journal of Computers)",
+        "pub_date": "2011/2",
+        "description": "BackgroundAbstract At present existing QoS assurance mechanism in Service-Oriented Computing (SOC) system did not take full account of the impact of the system\u2019s dynamics. In order to solve this problem credit model and credit function is put forward, use CRD (Credit Record Data) quantize the SOC system\u2019s dynamic. And a new QoS assurance mechanism is proposed, which based on the service schedule, service reserve and service backup algorithm droved by CRD respectively to achieve risk aversion, inhibiting, prevent and risk compensation. Simulation experiments show that this QoS assurance mechanism can reduce the impact caused by system\u2019s dynamics and enhance the system\u2019s QoS. Keywords service oriented system; credit model; service schedule; service reserve; service backup Background This work is supported by the Science and Technology Development Program of Qingdao City under\u00a0\u2026"
+    },
+    {
+        "title": "Dynamic Threat-resistant Node Identification in Sensor Networks",
+        "id": "SHJ98SkAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "David Pearson",
+            "Sumita Mishra",
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2011",
+        "description": "There are numerous challenges in ensuring secure communications within modern Wireless Sensor Networks. In particular, valid node identification in sensor networks is a crucial aspect of maintaining data confidentiality and nonrepudiation. Statically-assigned identities provide simple capabilities, but they also allow attackers to easily predict IDs\u2014thus creating a susceptibility to sensor impersonation attacks. Dynamic identities, however, can allow for uses beyond that of a simple name for a device. This work focuses on proposing a solution that not only allows for dynamicallyassigned node identities within a network, but also for defense-in-depth capabilities when used in conjunction with a security scheme."
+    },
+    {
+        "title": "Network Security Auditing",
+        "id": "SHJ98SkAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Yin Pan",
+            "Bo Yuan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Network Security, Administration and Management: Advancing Technology and Practice",
+        "pub_date": "2011",
+        "description": "As people increasingly rely on computer systems and networks for services such as online banking, online shopping, and socialization, information security for identity protection and privacy has become more important today than ever. Businesses and organizations are also obligated to provide such security to comply with state and federal laws and regulations. Managing security risks and ensuring compliance with information security regulations and industry standards have become important for businesses and organizations. Security auditing is an effective process to assess policies, procedures, and controls in identifying risks associated with networks and various operating systems. This chapter emphasizes network security audits and discusses various auditing procedures and technologies to identify and examine threats and vulnerabilities in computer networks, and to determine how to assess and manage\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A social approach to security: Using social networks to help detect malicious web content",
+        "id": "SHJ98SkAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Michael Robertson",
+            "Yin Pan",
+            "Bo Yuan"
+        ],
+        "pub_source": "2010 IEEE International Conference on Intelligent Systems and Knowledge Engineering",
+        "pub_date": "2010/11/15",
+        "description": "In the midst of a social networking revolution, social media has become the new vehicle for effective business marketing and transactions. As social aspects to the Internet continue to expand in both quantity and scope, so has the security threat towards enterprise networks and systems. Many social networking users also become main targets of spams, phishing, stalking, and other malware attacks that exploit the trust among social network \u201cfriends\u201d. This paper presents a comprehensive method combining traditional security heuristics with social networking data to aid in the detection of malicious web content as it propagates through the user's network. A Facebook application is implemented to automatically evaluate and detect malicious link content. The results of testing this application against known phishing and malware sites with real-world user profiles have shown encouraging results.",
+        "citations": 33
+    },
+    {
+        "title": "Computer forensics technologies for personally identifiable information detection and audits",
+        "id": "SHJ98SkAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Yin Pan",
+            "Bill Stackpole",
+            "Luther Troell"
+        ],
+        "pub_source": "ISACA Journal",
+        "pub_date": "2010",
+        "description": "PII tools typically search through the directory tree, looking at the content of allocated files, e-mail and the like for keywords or strings that indicate the file needs further investigation. For example, the tools might search for files that contain strings of 16 digits that could represent a credit card number. The strength of current PII tools is to quickly find possible PII in locations in which data are visible to the operating system. However, they do not provide support for searching data outside of these traditional areas. For example, if a file containing the same string of 16 digits had been deleted, the current PII tools would not find the file even though it may be recoverable. Deleted files are considered unallocated and are not available to view by PII tools.",
+        "citations": 6
+    },
+    {
+        "title": "Teaching high-assurance internet protocol encryption (haipe) using opnet modeler simulation tool",
+        "id": "SHJ98SkAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Tae H Oh",
+            "Sumita Mishra",
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the 10th ACM conference on SIG-information technology education",
+        "pub_date": "2009/10/22",
+        "description": "HAIPE is a primary encryption technology in the Department of Defense (DoD) Networks and has been a critical architecture component of net-centric operation. It is a fairly new encryption technology similar to Internet Protocol Security (IPSec), and it is not easy to teach different components of HAIPE in a traditional classroom environment. However, Optimum Network (OPNET) Modeler tool with extensive features of HAIPE offers practical experience of the encryption technology to students. A combination of theoretical teaching and practical experience provide easier and in-depth understanding of the technology. This paper discusses how the OPNET Modeler tool can benefit students in the understanding of HAIPE technology and discusses the features in the tool offers that can be used for effective teaching. Lastly, this paper discusses how this tool can be used to meet configuration, visual, and trade-off learning\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Method and apparatus for implementing a policy-based management system on a network device",
+        "id": "SHJ98SkAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Y Pan",
+            "A Villarica",
+            "E Edwards"
+        ],
+        "pub_source": "US Patent 7,606,146",
+        "pub_date": "2009/10/20",
+        "description": "Resources, such as bandwidth, are allocated on a network as follows. A request for reservation of network resources is received. The reservation includes a destination address on the network. Resources on network devices on a path to the destination address are allocated to accommodate the reservation if the network devices have sufficient resources to accommodate the reservation.",
+        "citations": 23
+    },
+    {
+        "title": "Services for deploying web-based online courses",
+        "id": "SHJ98SkAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Yin Pan"
+        ],
+        "pub_source": "2009 IEEE/INFORMS International Conference on Service Operations, Logistics and Informatics",
+        "pub_date": "2009/7/22",
+        "description": "Online courses offer students opportunities to participate in classes on their own schedule from anywhere in the world. Offering an online lab-based course, however, has always been a challenge due to the difficulty in accessing a real lab environment. The Department of Networking, Security, and Systems Administration at the Rochester Institute of Technology (RIT) has successfully deployed advanced online technologies to develop a series of online lab-based courses including the Web-security auditing course. The auditing course is designed to teach students processes and procedures for auditing Web Applications and Services, and develop students' ability to apply appropriate tools to conduct Web Servers and Applications auditing in the real world. In this paper, the author uses the online Web-auditing course as a case study to demonstrate the use of current advanced technologies for deploying online\u00a0\u2026"
+    },
+    {
+        "title": "Decentralized virtualization in systems administration education",
+        "id": "SHJ98SkAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Bill Stackpole",
+            "Jason Koppe",
+            "Thomas Haskell",
+            "Laura Guay",
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the 9th ACM SIGITE conference on Information technology education",
+        "pub_date": "2008/10/16",
+        "description": "The Networking and Systems Administration Laboratories are vital components of the applied academic experience of the students of the Networking, Security and Systems Administration Department. Students are currently able to implement multiple heterogeneous computing infrastructures using Symantec's Ghost Solution Suite. This paper presents and explores virtual lab environments that support alternative preparation solutions that will increase laboratory utilization, student productivity, and provide students with exposure to virtualization technology.",
+        "citations": 39
+    },
+    {
+        "title": "A hybrid Multi Meshed Tree routing protocol for wireless ad hoc networks",
+        "id": "SHJ98SkAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Scott Pudlewski",
+            "Nirmala Shenoy",
+            "Yamin Al-Mousa",
+            "Yin Pan",
+            "John Fischer"
+        ],
+        "pub_source": "2008 5th IEEE International Conference on Mobile Ad Hoc and Sensor Systems",
+        "pub_date": "2008/9/29",
+        "description": "A proactive routing protocol called Multi-Mesh Tree (MMT) was developed for use in wireless ad hoc network to extend connectivity from an Internet gateway to around 20 mobile nodes in a city area. In the work presented here, we extend MMT to wireless ad hoc networks of around one hundred nodes through a clustering algorithm that is integrated into the MMT creation. The proposed scheme uses a hybrid approach, where the proactive MMT is used for intra cluster routing while a reactive MMT (RMMT) introduced in this article is used for inter cluster routing. We further propose a novel route discovery and route recording scheme using route request and route response messages but has low flooding overheads and exhibits high route stability under high node mobility conditions. We apply the proposed RMMT scheme to provide connectivity among moving teams of ground troops and present simulation results\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "NSSA Faculty Involvement in IT Security Auditing at RIT",
+        "id": "SHJ98SkAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Daryl Johnson",
+            "Yin Pan"
+        ],
+        "pub_source": "",
+        "pub_date": "2008",
+        "description": "\"NSSA Faculty Involvement in IT Security Auditing at RIT\" by Daryl Johnson and Yin Pan Home \nSearch Browse Colleges and Departments My Account About DC Network Digital Commons \nNetwork\u2122 Skip to main content RIT Scholar Works RIT Scholar Works Home About User FAQ \nMy Account < Previous Next > Home FACSTAFF presentations 775 Presentations and other \nscholarship Title NSSA Faculty Involvement in IT Security Auditing at RIT Authors Daryl Johnson, \nRochester Institute of TechnologyFollow Yin Pan, Rochester Institute of TechnologyFollow \nDate of creation, presentation, or exhibit 2008 Comments These are slides for a presentation \nat the 2008 Secure IT Conference for Information Technology and Network Security, San \nDiego, CA, 2008. Note: imported from RIT\u2019s Digital Media Library running on DSpace to RIT \nScholar Works in February 2014. Document Type Presentation Department, Program, or \u2026"
+    },
+    {
+        "title": "Security auditing course development",
+        "id": "SHJ98SkAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the 8th ACM SIGITE conference on Information technology education",
+        "pub_date": "2007/10/18",
+        "description": "As people increasingly depend on computers and network systems, security auditing has become one of the most effective security practices to achieve defense-in-depth in organizations. It follows an effective process to measure policies, procedures and controls in identifying and managing risks associated with networks and various operating systems. This has raised the need to develop specialists in the cyber security auditing field. This paper presents the author's experience in developing an undergraduate course on security auditing. It discusses the course design, procedures, and a series of innovative laboratory projects that are aimed to simulate real-world security concerns. This course is one of the core courses of the newly established B. S. in security program in the Department of Network, Security, and Systems Administration at RIT. This paper also reports experiences learned by both the students and\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Aggregating filters",
+        "id": "SHJ98SkAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Y Pan",
+            "A Villarica",
+            "E Edwards"
+        ],
+        "pub_source": "US Patent 7,065,042",
+        "pub_date": "2006/6/20",
+        "description": "In general, in one aspect, the invention is directed to providing access to a resource on a network. The invention features installing instructions on the network. The instruc tions may be computer-executable instructions or non-ex ecutable data that make up a filter which defines a fixed level of access to the resource. The instructions are then modified to change the level of access to the resource. This aspect may include one or more of the following features. The instructions comprise a filter and are installed on a device on the network. The filter is defined by matching criteria to identify a network address and an action that is performed with respect to the network address.",
+        "citations": 25
+    },
+    {
+        "title": "Route robustness of a multi-meshed tree routing scheme for Internet MANETs",
+        "id": "SHJ98SkAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Nirmala Shenoy",
+            "Yin Pan",
+            "Darren Narayan",
+            "David Ross",
+            "Carl Lutzer"
+        ],
+        "pub_source": "GLOBECOM'05. IEEE Global Telecommunications Conference, 2005.",
+        "pub_date": "2005/11/28",
+        "description": "We propose a layer 2 routing and forwarding scheme called multi-meshed tree (MMT) routing for MANETs connected to Internet. The specifications of this scheme were drawn from unique features of Internet MANETs. Evaluation of the robustness of routes in this scheme is provided along with the route failure notification delays, which is an important performance parameter of this scheme. Where available we have substantiated our results with simulation data. The results clearly show the significance of the redundant routes offered by MMT",
+        "citations": 20
+    },
+    {
+        "title": "Bandwidth Reservation and QoS in Internet MANETs",
+        "id": "SHJ98SkAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Nirmala Shenoy",
+            "Yin Pan",
+            "Vishal Gogula Reddy"
+        ],
+        "pub_source": "Proceedings. 14th International Conference on Computer Communications and Networks, 2005. ICCCN 2005.",
+        "pub_date": "2005/10/17",
+        "description": "Provisioning QoS in MANETs is very challenging. Some of the factors that affect QoS provisioning in MANETs are-lossy wireless environment, the movement of nodes, medium access scheme-due to contention for shared medium and routing protocols-as the routes are dynamic. Hence it is difficult to propose one scheme that will best support QoS in MANETs suitable for all application scenarios. We decided to investigate QoS in MANETs from an application perspective. In this work, we are interested in QoS provisioning in Internet connected MANETs- which are expected to support users roaming in from cellular or WLANs with an active call. Hence we are interested in such performance metrics like network joining delays, end-to-end frame delivery delays and upstream and downstream throughput. We proposed a solution after identifying the unique requirements of such an Internet connected MANET. The solution\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Quality of service in Internet MANETs",
+        "id": "SHJ98SkAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Nirmala Shenoy",
+            "Yin Pan",
+            "Vishal Gogula Reddy"
+        ],
+        "pub_source": "2005 IEEE 16th International Symposium on Personal, Indoor and Mobile Radio Communications",
+        "pub_date": "2005/9/11",
+        "description": "QoS provisioning in wireless ad hoc networks is difficult due to issues like lossy wireless media, need for suitable medium access protocols to handle contention on shared media and route determination across several wireless nodes. Mobility of nodes in a mobile ad hoc network (MANET) further complicates this task. The problem gets compounded if one seeks an efficient set of routing and medium access scheme to provision QoS in MANETs suitable for any application. In this article, we highlight an approach to QoS provisioning in MANETs, from an application perspective. We derive the requirements and specifications of the solution from the application and then designed the solution. The application we selected, uses Internet connected MANETs as an alternative to WLANs and cellular networks. We present the performance of the solution so developed.",
+        "citations": 7
+    },
+    {
+        "title": "Multi-meshed tree routing for Internet MANETs",
+        "id": "SHJ98SkAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Nirmala Shenoy",
+            "Yin Pan"
+        ],
+        "pub_source": "2005 2nd International Symposium on Wireless Communication Systems",
+        "pub_date": "2005/9/5",
+        "description": "We propose a layer 2 routing and forwarding scheme called multi-meshed tree (MMT) routing for MANETs connected to Internet. The specifications for this scheme were drawn from unique features of Internet MANETs. We evaluate this scheme for joining delays experienced by mobiles, end-to-delay frame delivery delays and upstream and downstream data throughput. We present analytical and simulation models. Results presented show the superior performance of the scheme.",
+        "citations": 14
+    },
+    {
+        "title": "Forensic course development: one year later",
+        "id": "SHJ98SkAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Luther Troell",
+            "Yin Pan",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the 5th Conference on information Technology Education",
+        "pub_date": "2004/10/28",
+        "description": "In a paper presented in 2003, Forensic Course Development, the authors described the procedures and rationale used for the development of an undergraduate and a graduate computer and network forensic course at Rochester Institute of Technology (RIT). After the undergraduate course was taught in the spring quarter of 2003, the contents of the lecture and lab materials, outcomes of the course, and student feedback were reviewed. This feedback will help improve both the instructional materials and their delivery. This paper's focus is on the development of the computer and network forensic course, as well as the changes made during the review process to improve the computer and network forensic course.",
+        "citations": 11
+    },
+    {
+        "title": "Oversubscribing network resources",
+        "id": "SHJ98SkAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Y Pan",
+            "A Villarica",
+            "E Edwards"
+        ],
+        "pub_source": "US Patent 6,775,701",
+        "pub_date": "2004/8/10",
+        "description": "A network resource, such as bandwidth, is reserved by obtaining historical usage data relating to usage of the network resource over a period of time, and determining an amount by which the network resource can be oversubscribed based on the historical usage data. Current usage data relating to current usage of the network resource may also be determined. The amount by which the network resource can be oversubscribed may be determined based additionally on the current usage data.",
+        "citations": 82
+    },
+    {
+        "title": "Method for reserving network resources using a hierarchical/segment tree for starting and ending times of request",
+        "id": "SHJ98SkAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Y Pan",
+            "A Villarica",
+            "E Edwards"
+        ],
+        "pub_source": "US Patent 6,760,306",
+        "pub_date": "2004/7/6",
+        "description": "2015-02-09 Assigned to RPX CLEARINGHOUSE LLC reassignment RPX CLEARINGHOUSE LLC ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS). Assignors: BOCKSTAR TECHNOLOGIES LLC, CONSTELLATION TECHNOLOGIES LLC, MOBILESTAR TECHNOLOGIES LLC, NETSTAR TECHNOLOGIES LLC, ROCKSTAR CONSORTIUM LLC, ROCKSTAR CONSORTIUM US LP",
+        "citations": 94
+    },
+    {
+        "title": "Forensic course development",
+        "id": "SHJ98SkAAAAJ:P5F9QuxV20EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:P5F9QuxV20EC",
+        "authors": [
+            "Luther Troell",
+            "Yin Pan",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the 4th Conference on information Technology Curriculum",
+        "pub_date": "2003/10/16",
+        "description": "In recent years, digital technology has experienced dramatic growth. Many of these advances have also provided malicious users with the ability to conceal their activities and destroy evidence of their actions. This has raised the need of developing specialists in computer digital forensics -- the preservation, identification, extraction and documentation of evidence stored in the form of digitally encoded information (data).In this paper, we present the procedures and rationale used in the development of forensic courses at both the undergraduate and the graduate levels. We also demonstrate our decision making process of selecting topics included in each course.",
+        "citations": 27
+    },
+    {
+        "title": "Revised hierarchical analysis method based on crisp and fuzzy entries",
+        "id": "SHJ98SkAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Yin Pan"
+        ],
+        "pub_source": "International Journal Of General System",
+        "pub_date": "1997/6/1",
+        "description": "In this paper, I continue to study the alternative hierarchical analysis method that was initialed in [Saaty, 1976]. Instead of using pairwise ratio matrices, this method uses pairwise subtraction matrices. By doing so, computational complexity is reduced significantly, and as shown by a statistical experiment described in this paper, the two methods lead basically to the same results. Furthermore, this method provides an optimal solution in the sense of minimizing an appropriate error function. Due to the significant reduction in computational complexity, fuzzy hierarchical analysis based on pairwise subtraction matrices becomes more manageable. Finally, I point out a new application area of the hierarchical analysis: estimating crisp or fuzzy prior probability distributions for Bayesian inference with imprecise probabilities.",
+        "citations": 14
+    },
+    {
+        "title": "Bayesian inference of fuzzy probabilities",
+        "id": "SHJ98SkAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Yin Pan",
+            "Bo Yuan"
+        ],
+        "pub_source": "International Journal of General System",
+        "pub_date": "1997/6/1",
+        "description": "In this paper, we propose a new method to generalize Bayesian methods both for fuzzy likelihood and fuzzy prior probabilities. Based on interval Bayesian inference developed by Pan and Klir [1996], the proposed method overcomes the difficulty in developing a normalized fuzzy Bayesian inference recognized in the literature [Friihwirth-Schnatter, 1993].",
+        "citations": 55
+    },
+    {
+        "title": "Bayesian inference based on interval probabilities",
+        "id": "SHJ98SkAAAAJ:nb7KW1ujOQ8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:nb7KW1ujOQ8C",
+        "authors": [
+            "Yin Pan",
+            "George J Klir"
+        ],
+        "pub_source": "Journal of Intelligent and Fuzzy Systems",
+        "pub_date": "1997",
+        "citations": 19
+    },
+    {
+        "title": "Calculus of fuzzy probabilities and its applications",
+        "id": "SHJ98SkAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Yin Pan"
+        ],
+        "pub_source": "State University of New York at Binghamton",
+        "pub_date": "1997",
+        "description": "In this dissertation, I investigate Bayesian inference based on imprecise probabilities, including interval probabilities and fuzzy probabilities.",
+        "citations": 8
+    },
+    {
+        "title": "Bayesian inference based on interval-valued prior distributions and likelihoods",
+        "id": "SHJ98SkAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Yin Pan",
+            "George J Klir"
+        ],
+        "pub_source": "Journal of Intelligent & Fuzzy Systems",
+        "pub_date": "1997/1/1",
+        "description": "Although Bayesian inference has been successful in many applications, its serious limitation is the requirement that exact prior probabilities be available. It has increasingly been recognized that this requirement is often not realistic. To overcome this limitation of classical Bayesian inference, we investigate a generalized Bayesian inference, in which prior probabilities as well as likelihoods are interval-valued. Employing the tools of interval analysis and the theory of imprecise probabilities, we develop a method for exact calculation of interval-valued posterior probabilities for given interval-valued prior probabilities and precise or interval-valued likelihoods. This method is further generalized for fuzzy likelihood and fuzzy probabilities later. The classical Bayesian inference is a special case of our method.",
+        "citations": 27
+    },
+    {
+        "title": "Bayesian inference based on fuzzy probabilities",
+        "id": "SHJ98SkAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Yin Pan",
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Proceedings of IEEE 5th International Fuzzy Systems",
+        "pub_date": "1996/9/11",
+        "description": "We propose fuzzy Bayesian inference on the basis of interval Bayesian inference developed by Pan and Klir. The proposed method overcomes the difficulty in developing a normalized fuzzy Bayesian inference recognized in the literature.",
+        "citations": 18
+    },
+    {
+        "title": "On the computation of uncertainty measure in Dempster-Shafer theory",
+        "id": "SHJ98SkAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "David Harmanec",
+            "Germano Resconi",
+            "George J Klir",
+            "Yin Pan"
+        ],
+        "pub_source": "International Journal Of General System",
+        "pub_date": "1996/8/1",
+        "description": "An algorithm for computing the recently proposed measure of uncertainly AU for Dempster-Shafer theory is presented. The correctness of the algorithm is proven. The algorithm is illustrated by simple examples. Some implementation issues are also discussed.",
+        "citations": 61
+    },
+    {
+        "title": "MP and invariant MP approximations of fuzzy inference rules",
+        "id": "SHJ98SkAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Wangming Wu",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "International Journal of General systems",
+        "pub_date": "1995/2/1",
+        "description": "It is well-known that the composition rule of inference which was introduced by Zadeh [1973], does not satisfy the inference rule, modus ponens, in general. It seems a disadvantage of applying it. However, in this paper, we show that we can make modus ponens satisfied by slightly modifying the original IF-THEN rules in the rule base. That is, we can obtain an approximation of the original rules on which modus ponens holds. The related concepts such as MP approximations and invariant MP approximations are introduced. Their properties are investigated. The second issue of this paper is about the invariance of rule adding of a rule base. It is found that in some cases, the function of a rule base is not changed by adding a new rule into the base which is obtained from the base. The relationships between the invariant MP approximation and the invariance of rule addi\u0144g are investigated.",
+        "citations": 1
+    },
+    {
+        "title": "On normal form based interval-valued fuzzy sets and their applications to approximate reasoning",
+        "id": "SHJ98SkAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Bo Yuan",
+            "Yin Pan",
+            "Wangming Wu"
+        ],
+        "pub_source": "International Journal of General Systems",
+        "pub_date": "1995/2/1",
+        "description": "In this paper, normal form based interval-valued fuzzy sets, which is initiated by Turksen in 1986, are investigated. It is shown that DNF(\u2022)\u00a0\u2286\u00a0CNF(\u2022) holds for a newly introduced family, called g-family, of conjugate pairs of t-norms and t-conorms. Interval-valued fuzzy set (IVFS) based approximate reasoning is also studied. The generalized compositional rule of inference (GCRI) is applied into interval-valued reasoning. It is proved that Modus Ponens and Syllogism hold for IVFS based GCRI, and we conclude that using GCRI with respect to the g-family is quite reasonable for IVFS based approximate reasoning.",
+        "citations": 30
+    },
+    {
+        "title": "Generalized fuzzy method-of-cases",
+        "id": "SHJ98SkAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "International Journal of Approximate Reasoning",
+        "pub_date": "1993/9/1",
+        "description": "In this paper, a more generalized version of fuzzy method-of-cases that was initiated by Ruan Da, E. E. Kerre, et al. in [1] is introduced. The validity of generalized fuzzy method-of-cases (GFMC for short) is investigated under various implication operators.",
+        "citations": 2
+    },
+    {
+        "title": "A Study of Escape Time from an Underground Street in a Mountainous City A Study of Escape Time from an Underground Street in a Mountainous City",
+        "id": "SHJ98SkAAAAJ:XiSMed-E-HIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:XiSMed-E-HIC",
+        "authors": [
+            "Yin Pan",
+            "Tiejun Zhou",
+            "Qin Yan"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Taking the underground street in Three Gorges Plaza in the Shapingba District, Chongqing, as an example, the present study focused on a densely populated underground street downtown in a mountainous city, in which the issue of emergency evacuation in case of fi re was discussed. The total evacuation number could be worked out according to the \u2018method of trip generation rate\u2019; the length of escape routes and the width of escape exits were counted, and the maximum capacity of people for each emergency exit was calculated according to the unit capacity. Based on the above data, the escape route was built by the iterative programming algorithm so as to check the safety of the current underground street in the mountainous city, in order that technical support can be provided for effective countermeasures. Thus, the emergency evacuation capability of a downtown underground street in a mountainous city can\u00a0\u2026"
+    },
+    {
+        "title": "Workshop Organizing Committee",
+        "id": "SHJ98SkAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Kaiqi Xiong",
+            "Yong Guan",
+            "Yin Pan",
+            "Mark Berman",
+            "Niky Riga"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Security of Wireless Ad-hoc Networks Using a Multi Meshed Tree Clustering Protocol",
+        "id": "SHJ98SkAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Patrick Campagnano",
+            "Yin Pan",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "This paper investigates the security of wireless mesh networksin particular those formed under the MMT with Clustering protocol (MMTC). We show how the network infrastructure created by MMTC can be leveraged to detect commonly known wireless attacks. In addition we offer counteractive measures that can be taken to eliminate or reduce these security threats."
+    },
+    {
+        "title": "Performance of a QoS Sensitive Routing Scheme for Internet MANETs",
+        "id": "SHJ98SkAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=SHJ98SkAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Nirmala Shenoy",
+            "Yin Pan",
+            "Vishal Rao"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "We propose a layer 2 routing and forwarding scheme called Multi-Meshed Tree (MMT) routing for MANETs connected to Internet. The requirements for this scheme were drawn from unique features of Internet MANETs. We evaluate this scheme for the joining delays experienced by mobiles, the end-to-delay frame delivery delays and the upstream and downstream throughput. Where available the results as substantiated with simulation data. The results show the superior performance of the scheme for the above mentioned performance parameters."
+    }
+]

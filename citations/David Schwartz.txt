@@ -1,0 +1,122 @@
+"Spatial Computing: Defining the Vision for the Future"
+J Xu, K Papangelis, GW Tigwell, N Lalone, P Zhou, M Saker, A Chamberlain, J Dunham, SM Luna, D Schwartz - Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 2024
+
+"Pokémon GO as an Advertising Platform: The Case for Locative Advertising in Location-Based Games"
+J Dunham, J Xu, K Papangelis, N LaLone, M Saker, D Schwartz - ACM Games: Research and Practice, 2024
+
+"An educational virtual reality game for learning historical events"
+H Zhang, L Cao, G Howell, D Schwartz, C Peng - Virtual Reality, 2023
+
+"Multi-user VR Experience for Creating and Trading Non-fungible Tokens"
+L Cao, J Shuminski, H Zhang, P Solanki, D Long, D Schwartz, I Mardini, C Peng - International Conference on Human-Computer Interaction, 2023
+
+"Building positively affective location-based advertising: A study of Pokémon GO players"
+J Dunham, K Papangelis, C Boulanger, N Lalone, E[ Nika, M Saker, D Schwartz - Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 2023
+
+"Metaverse: The vision for the future"
+J Xu, K Papangelis, J Dunham, J Goncalves, NJ LaLone, A Chamberlain, I Lykourentzou, FL Vinella, DI Schwartz - CHI Conference on Human Factors in Computing Systems Extended Abstracts, 2022
+
+"Advertising in location-based games: An exploration in pokémon go"
+J Dunham, J Xu, K Papangelis, DI Schwartz - CHI Conference on Human Factors in Computing Systems Extended Abstracts, 2022
+
+"Making games to teach physics and mechanics"
+DI Schwartz - Middle Atlantic ASEE Section Spring 2021 Conference, 2021
+
+"Visualization for spectators in cybersecurity competitions"
+C Peng, D Schwartz, D Johnson, B Stackpole, C Weeden, J Marcovecchio, D Richards, C Fogle, C Brown, V Walrond - 2020 IEEE Symposium on Visualization for Cyber Security (VizSec), 2020
+
+"Supporting disaster resilience spatial thinking with serious geogames: project Lily Pad"
+B Tomaszewski, A Walker, E Gawlik, C Lane, S Williams, D Orieta, C McDaniel, M Plummer, A Nair, NS Jose, N Terrell, K Pecsok, E Thomley, E Mahoney, E Haberlack, D Schwartz - ISPRS International Journal of Geo-Information, 2020
+
+"GIS and serious games"
+B Tomaszewski, A Konovitz-Davern, D Schwartz, J Szarzynski, L Siedentopp, A Miller, J Hartz - Elsevier, 2018
+
+"GIS and Serious Games"
+B Tomaszewski, A Konovitz-Davern, D Schwartz, J Szarzynski, L Siedentopp, A Miller, J Hartz - Elsevier, 2017
+
+"Board# 133: Gamifying Cybersecurity Course Content for Entry Level Students"
+Y Pan, S Mishra, DI Schwartz - 2017 ASEE Annual Conference & Exposition, 2017
+
+"Critical Spatial Thinking and Serious Geogames: A Position"
+B Tomaszewski, DI Schwartz - Proceedings of the AGILE 2017 Workshop on Geogames and Geoplay, Wageningen, the Netherlands, 2017
+
+"Gamifying course modules for entry level students"
+Y Pan, S Mishra, D Schwartz - Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education, 2017
+
+"Crisis Response Serious Spatial Thinking Games: Spatial Think Aloud Study Results."
+BM Tomaszewski, D Schwartz, J Szarzynski - ISCRAM, 2016
+
+"Gamified digital forensics course modules for undergraduates"
+Y Pan, D Schwartz, S Mishra - 2015 IEEE Integrated STEM Education Conference, 2015
+
+"Serious games for disaster risk reduction spatial thinking"
+B Tomaszewski, J Szarzynski, DI Schwartz - Proceedings of the 11th International Conference of the International Association For The Study Of Information Systems For Crisis Response And Management (ISCRAM), 2014
+
+"Game-based forensics course for first year students"
+Y Pan, S Mishra, B Yuan, B Stackpole, D Schwartz - Proceedings of the 13th annual conference on Information technology education, 2012
+
+"Serious social games: Designing a business simulation game"
+M Critelli, DI Schwartz, S Gold - 2012 IEEE International Games Innovation Conference, 2012
+
+"Top 5 Junior Member abstracts announced at CAP'11"
+A Borczuk, K Collins, SD Hudnall, M Picken, J Ro, D Schwartz, R Yantiss, D Yawn - Archives of Pathology & Laboratory Medicine, 2011
+
+"Teaching Students to Make Alternative Game Controllers"
+DI Schwartz - Journal of Game Design and Development Education, 2011
+
+"Unifying instructional and game design"
+DI Schwartz, JD Bayliss - Handbook of research on improving learning and motivation through educational games: multidisciplinary approaches, 2011
+
+"The ethics of reverse engineering for game technology"
+DI Schwartz, JD Bayliss - Designing Games for Ethics: Models, Techniques and Frameworks, 2011
+
+"" Oh-No! Banjo" a case study in alternative game controllers"
+M Ey, J Pietruch, DI Schwartz - Proceedings of the International Academic Conference on the Future of Game Design and Technology, 2010
+
+"Instructional design as game design"
+JD Bayliss, DI Schwartz - Proceedings of the 4th International Conference on Foundations of Digital Games, 2009
+
+"Motivating Engineering Mathematics Education with Game Analysis Metrics"
+DI Schwartz - Proceedings of the ASEE Zone I Conference, West Point, NY, 2008
+
+"Introduction to UNIX"
+DI Schwartz - Pearson Education India, 2008
+
+"Outreach with game design education"
+D Schwartz, C Norton, S Schwartz - 2007 Annual Conference & Exposition, 2007
+
+"Designing Shape-shifting Collaborative Laboratory Spaces to Facilitate Game-Design Education"
+DI Schwartz, T Cosgrave, S Weidner - Proceedings of the 2nd Annual Microsoft Academic Days on Game Development in Computer Science Education, 2007
+
+"GameX: a platform for incremental instruction in computer graphics and game design"
+RC Hoetzlein, DI Schwartz - ACM SIGGRAPH 2005 Educators program, 2005
+
+"Game design and game-development education"
+M Rajagopalan, DI Schwartz - Phi Kappa Phi Forum, 2005
+
+"Interdisciplinary management of nutritional risk in critical care.(Research Oral Presentations)."
+E Killough, N Whittier, A Chamberlain, S Deslauriers, I Madden, A Metters, D Schwartz - American Journal of Critical Care, 2003
+
+"Introduction to Maple 8"
+DI Schwartz - Prentice Hall, 2003
+
+"Cooperative Learning Computer Lab Proposal"
+DI Schwartz - Faculty Innovation in Teaching Grants Program, 2001
+
+"Deterministic interval uncertainty methods of structural analysis"
+DI Schwartz - State University of New York at Buffalo, 1999
+
+"A constraint-based approach for qualitative matrix structural analysis"
+DI Schwartz, SS Chen - AI EDAM, 1995
+
+"Towards a unified framework for interval based qualitative computational matrix structural analysis"
+DI Schwartz, SS Chen - Computing Systems in Engineering, 1994
+
+"Qualitative reasoning for matrix structural analysis"
+DI Schwartz - State University of New York at Buffalo, 1994
+
+"Order of magnitude reasoning for qualitative matrix structural analysis"
+DI Schwartz, SS Chen - Computing in Civil and Building Engineering, 1993
+
+"Spatial and temporal aspects of qualitative structural reasoning"
+DI Schwartz, SS Chen - Computing in Civil Engineering and Geographic Information Systems Symposium, 1992

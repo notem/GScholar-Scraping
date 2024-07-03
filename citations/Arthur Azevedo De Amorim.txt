@@ -1,0 +1,80 @@
+"Domain Reasoning in TopKAT"
+C Zhang, AAd Amorim, M Gaboardi - arXiv preprint arXiv:2404.18417, 2024
+
+"SECOMP: Formally Secure Compilation of Compartmentalized C Programs"
+J Thibault, R Blanco, D Lee, S Argo, AAd Amorim, AL Georges, C Hritcu, A Tolmach - arXiv preprint arXiv:2401.16277, 2024
+
+"Pipelines and Beyond: Graph Types for ADTs with Futures"
+F Rinaldi, j wunder, AAd Amorim, SK Muller - Proceedings of the ACM on Programming Languages, 2024
+
+"Bunched Fuzz: Sensitivity for Vector Metrics"
+J Wunder, AAd Amorim, P Baillot, M Gaboardi - European Symposium on Programming, 2023
+
+"Bunched Fuzz: Sensitivity for Vector Metrics"
+AAd Amorim, P Baillot, M Gaboardi - Lecture notes in computer science, 2023
+
+"On Pitts' Relational Properties of Domains"
+AAd Amorim - arXiv e-prints, 2022
+
+"On incorrectness logic and Kleene algebra with top and tests"
+C Zhang, AAd Amorim, M Gaboardi - Proceedings of the ACM on Programming Languages, 2022
+
+"Learning Assumptions for Verifying Cryptographic Protocols Compositionally"
+Z Zhang, AAd Amorim, L Jia, C Păsăreanu - Formal Aspects of Component Software: 17th International Conference, FACS 2021, Virtual Event, October 28–29, 2021, Proceedings 17, 2021
+
+"Netter: Probabilistic, stateful network models"
+H Zhang, C Zhang, AAd Amorim, Y Agarwal, M Fredrikson, L Jia - Verification, Model Checking, and Abstract Interpretation: 22nd International Conference, VMCAI 2021, Copenhagen, Denmark, January 17–19, 2021, Proceedings 22, 2021
+
+"Reconciling noninterference and gradual typing"
+AAd Amorim, M Fredrikson, L Jia - Proceedings of the 35th Annual ACM/IEEE Symposium on Logic in Computer Science, 2020
+
+"Automating compositional analysis of authentication protocols"
+Z Zhang, AAd Amorim, L Jia, CS Pasareanu - # PLACEHOLDER_PARENT_METADATA_VALUE#, 2020
+
+"Probabilistic relational reasoning via metrics"
+AAd Amorim, M Gaboardi, J Hsu, S Katsumata - 2019 34th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), 2019
+
+"When good components go bad: Formally secure compilation despite dynamic compromise"
+C Abate, AAd Amorim, R Blanco, AN Evans, G Fachini, C Hritcu, T Laurent, BC Pierce, M Stronati, A Tolmach - Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security, 2018
+
+"Software Foundations Volume 1: Logical Foundations"
+BC Pierce, AAd Amorim, C Casinghino, M Gaboardi, M Greenberg, C Hriţcu, V Sjöberg, B Yorgey - University of Pennsylvania, 2018
+
+"Programming language foundations"
+BC Pierce, AAd Amorim, C Casinghino, M Gaboardi, M Greenberg, C Hriţcu, V Sjöberg, A Tolmach, B Yorgey - Software Foundations series, 2018
+
+"The meaning of memory safety"
+AAd Amorim, C Hriţcu, BC Pierce - Principles of Security and Trust: 7th International Conference, POST 2018, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018, Thessaloniki, Greece, April 14-20, 2018, Proceedings 7, 2018
+
+"Formally secure compilation of unsafe low-level components"
+G Fachini, C Hritcu, M Stronati, AN Evans, T Laurent, AAd Amorim, BC Pierce, A Tolmach - arXiv preprint arXiv:1710.07308, 2017
+
+"A methodology for micro-policies"
+AAD Amorim - University of Pennsylvania, 2017
+
+"A semantic account of metric preservation"
+AAd Amorim, M Gaboardi, J Hsu, S Katsumata, I Cherigui - ACM SIGPLAN Notices, 2017
+
+"Binding operators for nominal sets"
+AAd Amorim - Electronic Notes in Theoretical Computer Science, 2016
+
+"Beyond good and evil: Formalizing the security guarantees of compartmentalizing compilation"
+Y Juglaret, C Hritcu, AAD Amorim, B Eng, BC Pierce - 2016 IEEE 29th Computer Security Foundations Symposium (CSF), 2016
+
+"Towards a fully abstract compiler using micro-policies: Secure compilation for mutually distrustful components"
+Y Juglaret, C Hritcu, AAd Amorim, BC Pierce, A Spector-Zabusky, A Tolmach - arXiv preprint arXiv:1510.00697, 2015
+
+"Micro-policies: Formally verified, tag-based security monitors"
+AAD Amorim, M Dénès, N Giannarakis, C Hritcu, BC Pierce, A Spector-Zabusky, A Tolmach - 2015 IEEE Symposium on Security and Privacy, 2015
+
+"Towards a fully abstract compiler using micro-policies: Secure compilation for mutually distrustful components. CoRR abs/1510.00697 (2015)"
+Y Juglaret, C Hritcu, AAd Amorim, BC Pierce, A Spector-Zabusky, A Tolmach - arxiv. org/abs/1510.00697, 2015
+
+"Really natural linear indexed type checking"
+AAD Amorim, M Gaboardi, EJG Arias, J Hsu - Proceedings of the 26nd 2014 International Symposium on Implementation and Application of Functional Languages, 2014
+
+"A verified information-flow architecture"
+AAd Amorim, N Collins, A DeHon, D Demange, C Hriţcu, D Pichardie, BC Pierce, R Pollack, A Tolmach - Proceedings of the 41st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, 2014
+
+"Testing noninterference, quickly"
+C Hritcu, J Hughes, BC Pierce, A Spector-Zabusky, D Vytiniotis, AAd Amorim, L Lampropoulos - ACM SIGPLAN Notices, 2013

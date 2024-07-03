@@ -1,0 +1,1795 @@
+[
+    {
+        "title": "Exploring the Effectiveness of Electrotactile Feedback for Data Visualization for Blind and Visually Impaired Users",
+        "id": "bj7Hm8IAAAAJ:DBa1UEJaJKAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:DBa1UEJaJKAC",
+        "authors": [
+            "Rezylle Milallos",
+            "Tae Oh",
+            "Roshan L Peiris"
+        ],
+        "pub_source": "International Conference on Human-Computer Interaction",
+        "pub_date": "2024/6/1",
+        "description": "Blind and visually impaired individuals use tactile graphics to interpret any type of image, figure, or graph. However, the production of these materials is resource exhaustive\u2014taking a lot of time, quality assurance, and money. This research project uses recent advancements in electrotactile feedback to provide an accurate and timely approach to data visualizations of users who are blind or visually impaired. For this, we developed Electromouse, a mouse-based prototype where users can navigate the screen and feel an electrotactile sensation every time the cursor hits a significant line on the graphic presented on the screen. We performed an early exploration study with five blind adults to evaluate the effectiveness and safety of the prototype. Overall, participants were excited for this new method, but had suggestions for improvement related to the form factor, additional graphical information, and multimodal\u00a0\u2026"
+    },
+    {
+        "title": "ECMAC: Edge-Assisted Cluster-Based MAC Protocol in Software-Defined Vehicular Networks",
+        "id": "bj7Hm8IAAAAJ:q-HalDI95KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:q-HalDI95KYC",
+        "authors": [
+            "Yiwen Shen",
+            "Jaehoon Jeong",
+            "Junghyun Jun",
+            "Tae Oh",
+            "Youngmi Baek"
+        ],
+        "pub_source": "IEEE Transactions on Vehicular Technology",
+        "pub_date": "2024/4/18",
+        "description": "Vehicular networks have emerged as a promising means to mitigate safety hazards in modern transportation systems. On highways, emergency situations associated with vehicles necessitate a reliable media access control (MAC) protocol that can provide timely warnings of possible vehicle collisions. In this paper, we present an edge-assisted cluster-based MAC protocol (ECMAC) for packet dissemination in software-defined vehicular networks. To reduce the control messaging overhead for clustering, ECMAC separates the cluster control plane (i.e., managing cluster formation) from the data plane (i.e., actual data transmission and forwarding) by using a software-defined network controller in a cellular network edge server. For transmitting packets, we design a time-division multiple access (TDMA) schedule algorithm to guarantee a high reliability and a low latency. The TDMA schedule in ECMAC is determined\u00a0\u2026"
+    },
+    {
+        "title": "An Exploratory Study on the Usability and Features of Indoor Navigation Apps for the Blind and Visually Impaired",
+        "id": "bj7Hm8IAAAAJ:Ade32sEp0pkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:Ade32sEp0pkC",
+        "authors": [
+            "Pratheep Kumar Chelladurai",
+            "Rezylle Milallos",
+            "Roshan Mathew",
+            "Adit Nair",
+            "Roshan L Peiris",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 2nd International Conference of the ACM Greek SIGCHI Chapter",
+        "pub_date": "2023/9/27",
+        "description": "In the past, the accessibility and usability of various indoor navigation apps and systems based on different modalities and technologies have been investigated. However, most of this research is based on prototypes developed and evaluated as part of research initiatives. There is a lack of research that explores the usability of indoor navigation from the perspective of Blind and Visually Impaired (BVI) users. To address this gap, we conducted two studies. The first study evaluated eight indoor navigation apps and included a survey to gather the preferences of BVI users on improving the usability and features of indoor navigation apps. The second study focused on understanding the specific needs that the current interface is missing and identifying the gaps between the research and actual implementation. The findings emphasized users\u2019 preferences for external consistency, layout customization, contextual\u00a0\u2026"
+    },
+    {
+        "title": "Investigating the User Experience and Challenges of Food Delivery Applications for the Blind and Visually Impaired",
+        "id": "bj7Hm8IAAAAJ:SjuI4pbJlxcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:SjuI4pbJlxcC",
+        "authors": [
+            "Adit Nair",
+            "Roshan Mathew",
+            "Zihao Mei",
+            "Rezylle Milallos",
+            "Pratheep Kumar Chelladurai",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 25th International Conference on Mobile Human-Computer Interaction",
+        "pub_date": "2023/9/26",
+        "description": "In recent years, the revenue of food delivery services has grown rapidly, and the market has continued to expand. However, most of the current research on food delivery services has been focused on the commercial sector and was aimed at the general population. However, there are only limited studies on the user experience and challenges of food delivery services by people who are blind or visually impaired (BVI). To address this gap, this preliminary study conducted an online survey with 166 participants and a semi-structured interview with 12 BVI individuals. The study results revealed the basic usage habits of BVI people experiencing food delivery services and they have been summarized into two major challenges: 1. usability and accessibility of food delivery apps, 2. service design issues. Limitations and various implications for future research on food delivery services are also discussed."
+    },
+    {
+        "title": "Authentication Challenges in Customer Service Settings Experienced by Deaf and Hard of Hearing People",
+        "id": "bj7Hm8IAAAAJ:WC9gN4BGCRcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:WC9gN4BGCRcC",
+        "authors": [
+            "Sarah Andrew",
+            "Stacey L Watson",
+            "Tae Oh",
+            "Garreth W Tigwell"
+        ],
+        "pub_source": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2023/4/19",
+        "description": "Customer services are important for answering questions, providing information, and handling issues. Often people want to connect with a customer service representative, yet, this can be an accessibility barrier for Deaf and Hard of Hearing People (DHH) when voice calls are the only method. However, little is known about the challenges experienced by DHH people in solely voice-based customer service settings (e.g., authenticating themselves over the phone to their banks). To address this, we interviewed 18 DHH people to understand the challenges when remotely authenticating themselves with customer service. Though DHH people are not unique in their attitudes and behaviors toward mobile authentication, we found that voice-based authentication and services are challenging. Furthermore, DHH people can often be put in positions where they must trust third-party support (e.g., human interpreters) when\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Haptic-Captioning: Using Audio-Haptic Interfaces to Enhance Speaker Indication in Real-Time Captions for Deaf and Hard-of-Hearing Viewers",
+        "id": "bj7Hm8IAAAAJ:6bLC7aUMtPcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:6bLC7aUMtPcC",
+        "authors": [
+            "Yiwen Wang",
+            "Ziming Li",
+            "Pratheep Kumar Chelladurai",
+            "Wendy Dannels",
+            "Tae Oh",
+            "Roshan L Peiris"
+        ],
+        "pub_source": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2023/4/19",
+        "description": "Captions make the audio content of videos accessible and understandable for deaf or hard-of-hearing people (DHH). However, in real-time captioning scenarios, captions alone can be challenging for DHH users to identify the active speaker in a real time in multiple-speaker scenarios. To enhance the accessibility of real-time captioning, we propose Haptic-Captioning which provides real-time vibration feedback on the wrist by directly translating the sound of content into vibrations. We conducted three experiments to examine: (1) the haptic perception (Preliminary Study), (2) the feasibility of the haptic modality along with real-time and non-real-time visual captioning methods (Study 1), and (3) the user experience of using the Haptic-Captioning system in different media contexts (Study 2). Our results highlight that the Haptic-Captioning complements visual captions by improving caption readability, maintaining media\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Context-aware navigation protocol for safe driving in vehicular cyber-physical systems",
+        "id": "bj7Hm8IAAAAJ:LPtt_HFRSbwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:LPtt_HFRSbwC",
+        "authors": [
+            "Bien Aime Mugabarigira",
+            "Yiwen Shen",
+            "Jaehoon Jeong",
+            "Tae Oh",
+            "Han-You Jeong"
+        ],
+        "pub_source": "IEEE transactions on intelligent transportation systems",
+        "pub_date": "2022/10/17",
+        "description": "A connected network of automated vehicles on roads can increase the driving safety of driverless vehicles (i.e., autonomous vehicles). The critical level of dangerous situations on the road while driving can be increased by the speed, orientation, and traffic density of the vehicles involved. Therefore, there is a need for a maneuvering mechanism that handles both the current driving vehicle and the oncoming vehicles headed toward an emergency zone (e.g., road hazard and road accident spot). In this paper, we present a context-aware navigation protocol (CNP) that enhances the safety of vehicles driving in urban roads. Firstly, CNP includes a collision avoidance module that builds on both vehicular networks and on-board sensors to track vehicles\u2019 behaviors, and this module analyzes the driving risks to determine the necessary maneuvers in dangerous situations. Secondly, CNP establishes a collision mitigation\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "An exploratory study on the low adoption rate of smart canes",
+        "id": "bj7Hm8IAAAAJ:hsZV8lGYWTMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:hsZV8lGYWTMC",
+        "authors": [
+            "Rezylle Milallos",
+            "Vinita Tibdewal",
+            "Yiwen Wang",
+            "Andre Udegbe",
+            "Tae Oh"
+        ],
+        "pub_source": "International Conference on Human-Computer Interaction",
+        "pub_date": "2022/6/16",
+        "description": "People who are blind and visually impaired (BVI) primarily rely on white canes for everyday mobility. Smart canes were introduced to address the limitations of traditional white canes and to inform users of their surroundings more efficiently. While the smart cane\u2019s advantages are evident, these devices are not used often in the BVI community. To gain a better understanding of the low adoption rate, we spoke with orientation and mobility specialists for some background on BVI mobility, conducted a survey to gauge user awareness and initial perceptions of the smart cane, and interviewed 16 participants for an in-depth view regarding their smart cane experiences. While most of the participants\u2019 apprehension was based on initial product cost, we found that other factors like user personality, durability, battery life, experience bias, as well as the lack of awareness from the users all contribute to the low adoption rate of\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Understanding disability services toward improving graduate student support",
+        "id": "bj7Hm8IAAAAJ:Br1UauaknNIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:Br1UauaknNIC",
+        "authors": [
+            "Murtaza Tamjeed",
+            "Vinita Tibdewal",
+            "Madison Russell",
+            "Michael McQuaid",
+            "Tae Oh",
+            "Kristen Shinohara"
+        ],
+        "pub_source": "Proceedings of the 23rd International ACM SIGACCESS Conference on Computers and Accessibility",
+        "pub_date": "2021/10/17",
+        "description": "Few students with disabilities transition from undergraduate to graduate programs. Graduate students often receive ineffective and insufficient accommodations, including lack of support specific to graduate students, because disability services policies are shaped by undergraduate experiences. To understand how disability services offices accommodate graduate students: we (1) critically analyzed disability services websites of 18 U.S. institutions, and (2) interviewed 17 disability services staff. Disability services websites publicly present institutional accommodation policies and guidelines, and staff are responsible for identifying, providing, and implementing reasonable accommodations. We found that policies may be interpreted differently depending on specific student circumstances. We discuss our findings in two main themes: (a) Policies and attitudes ascribed to disability, technology, and faculty, and (b\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "\u201d Would the smart cane benefit me?\u201d: Perceptions of the Visually Impaired towards Smart Canes",
+        "id": "bj7Hm8IAAAAJ:yxmsSjX2EkcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:yxmsSjX2EkcC",
+        "authors": [
+            "Rezylle Milallos",
+            "Vinita Tibdewal",
+            "Yiwen Wang",
+            "Andre Ogueh Udegbe",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 23rd International ACM SIGACCESS Conference on Computers and Accessibility",
+        "pub_date": "2021/10/17",
+        "description": "The white cane is used as one of the options for mobility by people who are blind or visually impaired (BVI) but it comes with limitations like the lack of overhead detection and recognition of safety hazards. Smart canes were designed to address some of the white cane\u2019s issues but the adoption of this technology has been minimal. We spoke with 16 BVI participants for an in-depth view on their smart cane experiences and needs. While the biggest concern was related to cost, we found that other factors like product consistency, durability, and the lack of awareness, trust, and confidence from the users all contribute to the low adoption rate of smart canes.",
+        "citations": 5
+    },
+    {
+        "title": "A comprehensive survey on vehicular networking for safe and efficient driving in smart transportation: A focus on systems, protocols, and applications",
+        "id": "bj7Hm8IAAAAJ:L1USKYWJimsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:L1USKYWJimsC",
+        "authors": [
+            "Hwanseok Harrison Jeong",
+            "Yiwen Chris Shen",
+            "Jaehoon Paul Jeong",
+            "Tae Tom Oh"
+        ],
+        "pub_source": "Vehicular Communications 31, 100349",
+        "pub_date": "2021/10/1",
+        "description": "Dramatic increase in road traffic volume has made driving safety and traffic efficiency more challenging, but smart transportation has been spotlighted as a promising technology for improving driving safety and efficiency. This paper surveys safe and efficient driving in the smart transportation with a focus on the aspects of systems, protocols, applications, and security, especially for autonomous vehicles. This smart transportation requires to monitor road surfaces precisely and identify hazards, and vehicles also need to share sensing information to avoid dangerous situations or environments through wireless communication in vehicular networks. For this purpose, dedicated short-range communications (DSRC) have achieved the international standards of the IEEE Wireless Access in Vehicular Environments (WAVE), and applications are now common that use the global positioning systems (GPS) for a dedicated\u00a0\u2026",
+        "citations": 50
+    },
+    {
+        "title": "A comprehensive survey on vehicular networks for smart roads: A focus on IP-based approaches",
+        "id": "bj7Hm8IAAAAJ:CB2v5VPnA5kC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:CB2v5VPnA5kC",
+        "authors": [
+            "Jaehoon Jeong",
+            "Yiwen Shen",
+            "Tae Oh",
+            "Sandra C\u00e9spedes",
+            "Nabil Benamar",
+            "Michelle Wetterwald",
+            "J\u00e9r\u00f4me H\u00e4rri"
+        ],
+        "pub_source": "Vehicular Communications 29, 100334",
+        "pub_date": "2021/6/1",
+        "description": "In vehicular communications, the use of IP-based vehicular networking is expected to enable the deployment of various road applications, namely for vehicle-to-infrastructure (V2I), infrastructure-to-vehicle (I2V), vehicle-to-vehicle (V2V), and vehicle-to-everything (V2X) communications. This paper surveys vehicular networking based solely on the Internet Protocol (IP), which is defined as IP Vehicular Networking, in smart road scenarios. This paper presents a background tutorial on IP-based networking, with an overview of the main technologies enabling IP vehicular networking, vehicular network architecture, vehicular address autoconfiguration, and vehicular mobility management. IP-based vehicular use cases for V2I, V2V, and V2X are presented and are analyzed based on the latest standardization and research activities. The paper highlights several research challenges and open issues that must be addressed\u00a0\u2026",
+        "citations": 59
+    },
+    {
+        "title": "Vehicular Communications",
+        "id": "bj7Hm8IAAAAJ:jU7OWUQzBzMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:jU7OWUQzBzMC",
+        "authors": [
+            "Jaehoon Paul Jeong",
+            "Yiwen Chris Shen",
+            "Jaehoon Paul Jeong",
+            "Tae Tom Oh"
+        ],
+        "pub_source": "",
+        "pub_date": "2021",
+        "description": "In vehicular communications, the use of IP-based vehicular networking is expected to enable the deployment of various road applications, namely for vehicle-to-infrastructure (V2I), infrastructure-tovehicle (I2V), vehicle-to-vehicle (V2V), and vehicle-to-everything (V2X) communications. This paper surveys vehicular networking based solely on the Internet Protocol (IP), which is defined as IP Vehicular Networking, in smart road scenarios. This paper presents a background tutorial on IP-based networking, with an overview of the main technologies enabling IP vehicular networking, vehicular network architecture, vehicular address autoconfiguration, and vehicular mobility management. IP-based vehicular use cases for V2I, V2V, and V2X are presented and are analyzed based on the latest standardization and research activities. The paper highlights several research challenges and open issues that must be addressed by researchers, implementers and designers, and discusses security considerations that should be factored in for a secure and safe vehicular communication. Finally, this paper offers current and future directions of IP-based vehicular networking and applications for human-driving vehicles, partially autonomous vehicles, and autonomous vehicles in smart roads.\u00a9 2021 Elsevier Inc. All rights reserved."
+    },
+    {
+        "title": "Distributed unit security for 5G base-stations using blockchain",
+        "id": "bj7Hm8IAAAAJ:XUvXOeBm_78C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:XUvXOeBm_78C",
+        "authors": [
+            "William Crowe",
+            "Tae Tom Oh"
+        ],
+        "pub_source": "2020 International Conference on Software Security and Assurance (ICSSA)",
+        "pub_date": "2020/10/28",
+        "description": "5G in the United States has been rapidly growing this past year as the New Radio (NR) standards have been finalized. The top three US cellular carriers cover most major cities in 2019, and the plans are to cover most of the nation by the close of 2020. Field testing shows that 5G is meeting the promise of gigabit speeds and single digit latency over millimeter wave. 5G Security is ever so more critical with the expectation of massive IoT, M2M, VANET, and High-Speed Fixed Wireless. More devices will rely on commercially available wireless internet, it should be expected that 5G Security will be thoroughly tested by unscrupulous individuals. To enhance security, this paper will cover utilizing Blockchain for identity management of the next generation NodeB (gNB) for the user equipment (UE) would make Rogue Cellsite, man-in-the-middle-attacks, or Stingray much harder to perform. This would prevent the UE from\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "A review of literature on accessibility and authentication techniques",
+        "id": "bj7Hm8IAAAAJ:owLR8QvbtFgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:owLR8QvbtFgC",
+        "authors": [
+            "Sarah Andrew",
+            "Stacey Watson",
+            "Tae Oh",
+            "Garreth W Tigwell"
+        ],
+        "pub_source": "Proceedings of the 22nd International ACM SIGACCESS Conference on Computers\u00a0\u2026",
+        "pub_date": "2020/10/26",
+        "description": "Reliable and accessible authentication techniques are required to maintain privacy and security. This is paramount as technology plays an increasing role in our lives. In this paper, we examine the previous work on accessible authentication techniques for blind/low vision people, deaf/hard-of-hearing people, people with cognitive impairments, and people with motor impairments. We seek to identify gaps in the current research to advocate where future efforts are needed to create authentication techniques that will work for everyone. We found a lot of variability in prior work investigating the accessibility of authentication techniques, including shortfalls and gaps in the literature. We make recommendations on the directions future research should take.",
+        "citations": 19
+    },
+    {
+        "title": "Understanding the hand and wrist strains caused by smart cane handles with haptic notification",
+        "id": "bj7Hm8IAAAAJ:PYBJJbyH-FwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:PYBJJbyH-FwC",
+        "authors": [
+            "Jagannadh Pariti",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility",
+        "pub_date": "2020/10/26",
+        "description": "Smart canes that use a haptic notification approach for informing cane users of upcoming obstacles can use vibrators placed on the handle. Prior studies have focused on the technical and functional performance of obstacle detection systems for smart canes. However, limited studies have been conducted to understand the hand and wrist strains on cane users when using a smart cane with a haptic notification approach. Understanding these strains can result in different handle and haptic notification designs that can minimize the stress and possibly injury to the cane users. Therefore, a research team conducted an initial exploratory study in which the participants observed any challenges they faced when using a smart cane prototype called an Intelligent Mobility Cane (IMC). The findings indicate that when they try to swing the cane handle and hold the vibrators on the handle at the same time, they can experience\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Continual 4g cell coverage for the nodes during a gateway failure using batman-adv",
+        "id": "bj7Hm8IAAAAJ:prdVHNxh-e8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:prdVHNxh-e8C",
+        "authors": [
+            "William B Crowe",
+            "Tae Tom Oh"
+        ],
+        "pub_source": "2020 international conference on information and communication technology convergence (ICTC)",
+        "pub_date": "2020/10/21",
+        "description": "Cellular networks have become a critical part of business, particularly for machine-to-machine communication. The issue that these wireless 4G nodes are faced with is that 4G cell coverage may not be available so a node cannot be placed in a location or a cell site could go offline, and communication is lost. This paper will cover using Batman-Adv an Ad-Hoc Routing Protocol to dynamically share cellular connections with a pool of hosts that do not have an internet connection. Utilizing Batman-Adv, nodes that have a cellular connection are propagated in the Ad-Hoc Network to all the other nodes. In the event the cellular conditions change or a node in the network goes offline, the Batman-Adv Network will rapidly switch to the next best node with a cellular connection. The result expected is an Ad-Hoc Network sharing multiple cellular connection with its peers and capable of performing rapid routing convergence\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Machine-To-Machine Ad-Hoc Networking with a Redundant 4G LTE Gateway Using BATMAN-Adv",
+        "id": "bj7Hm8IAAAAJ:wKETBy42zhYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:wKETBy42zhYC",
+        "authors": [
+            "William Crowe",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 21st Annual Conference on Information Technology Education",
+        "pub_date": "2020/10/7",
+        "description": "The use of mobile devices for Internet usage has been rapidly increasing and thus the demand for wireless networks. There have been plenty of scenarios and cases that mobile consumers and businesses get into areas that do not have a reliable wireless coverage because of terrain, buildings and distance. Most of us had been a situation where we need Internet access desperately and the cellular network coverage is non-existent. For businesses using machine-to-machine communication, deploying an infrastructure network can be costly or be faced with too many regulatory issues. This can slow down deployment of machine-to-machine devices or stop it all together. When it comes to machine-to-machine communication or IoT devices, CatM was created as an LTE standard to address the needs of low data throughput at a cheap price point. The current implemented version of CatM is inefficient considering\u00a0\u2026"
+    },
+    {
+        "title": "Intelligent mobility cane-lessons learned from evaluation of obstacle notification system using a haptic approach",
+        "id": "bj7Hm8IAAAAJ:kw52XkFRtyQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:kw52XkFRtyQC",
+        "authors": [
+            "Jagannadh Pariti",
+            "Vinita Tibdewal",
+            "Tae Oh"
+        ],
+        "pub_source": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2020/4/25",
+        "description": "Existing smart cane prototypes provide audio and/or haptic feedback to inform people who are blind or visually impaired about upcoming obstacles. However, limited user research is conducted to evaluate the usefulness of the haptic feedback provided by these devices. To better understand the users' perceptions of haptic feedback, we developed a smart cane prototype called Intelligent Mobility Cane (IMC) that consists of 2 haptic vibrators on the handle. They are used to inform different parts of the user's hand that an obstacle is detected. 8 people who are blind and 3 people who have low vision explored the IMC's handset by navigating an indoor obstacle path. The participants provided their feedback on the IMC's haptic notification system with regards to the intensity of the vibration and location of the vibrators and discussed various scenarios where the feedback will or will not be useful to them. In this case\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Dynamic sensor orientation unit for the intelligent mobility cane",
+        "id": "bj7Hm8IAAAAJ:1taIhTC69MYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:1taIhTC69MYC",
+        "authors": [
+            "Manu Suresh",
+            "Jagannadh Pariti",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 21st International ACM SIGACCESS Conference on Computers and Accessibility",
+        "pub_date": "2019/10/24",
+        "description": "Numerous studies have been conducted to improve the features of the \"smart\" canes. However, there is insufficient research performed to develop the guidelines to create a usable smart cane. In this paper, a Dynamic Sensor Orientation Unit (DSOU) is introduced to maintain a detection distance irrespective of the angle of the cane. The paper also aims to outline guidelines for placement of the Obstacle Detection System (ODS) and the sensor angle to be used in our Intelligent Mobility Cane (IMC) prototypes. A usability test with 11 people who use a white cane for daily navigation was conducted to study the users' preference and behavior with a fixed sensor angle IMC. The analysis revealed the angle of the sensor is dependent on the participant's height and how users hold the canes. The results suggest requirements for sensor angle orientation and outline guidelines for ODS designs on future IMCs.",
+        "citations": 1
+    },
+    {
+        "title": "Dynamic Sensor Orientation Prototype for the Intelligent Mobility Cane",
+        "id": "bj7Hm8IAAAAJ:cK4Rrx0J3m0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:cK4Rrx0J3m0C",
+        "authors": [
+            "Manu Suresh",
+            "Jag Parti",
+            "Tae Oh"
+        ],
+        "pub_source": "ACM ASSETS 2019",
+        "pub_date": "2019/10"
+    },
+    {
+        "title": "Network Analytics for Detecting Malware Activities in the Network Infrastructure",
+        "id": "bj7Hm8IAAAAJ:LdasjJ6CEcoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:LdasjJ6CEcoC",
+        "authors": [
+            "William Crowe",
+            "Tae Oh"
+        ],
+        "pub_source": "IEEE International Conference on Software Security and Assurance",
+        "pub_date": "2019/7"
+    },
+    {
+        "title": "Dynamic Internet of Things Malware Detection Using Machine Learning",
+        "id": "bj7Hm8IAAAAJ:7Hz3ACDFbsoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:7Hz3ACDFbsoC",
+        "authors": [
+            "J Myers",
+            "Tae Oh",
+            "O Filback",
+            "William McDonnell",
+            "Young Ajmera",
+            "T.",
+            "Kim",
+            "Jeong Kim"
+        ],
+        "pub_source": "IEEE International Conference on Software Security and Assurance",
+        "pub_date": "2018/7"
+    },
+    {
+        "title": "IoT security vulnerability: A case study of a Web camera",
+        "id": "bj7Hm8IAAAAJ:Bg7qf7VwUHIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:Bg7qf7VwUHIC",
+        "authors": [
+            "Yogeesh Seralathan",
+            "Tae Tom Oh",
+            "Suyash Jadhav",
+            "Jonathan Myers",
+            "Jaehoon Paul Jeong",
+            "Young Ho Kim",
+            "Jeong Neyo Kim"
+        ],
+        "pub_source": "2018 20th International Conference on Advanced Communication Technology (ICACT)",
+        "pub_date": "2018/2/11",
+        "description": "The Internet of Things (IoT) are devices which are connected and controlled over the internet. The use of IoT devices has increased exponentially over time and knowingly or unknowingly our data is captured by IoT devices on a daily basis. Recent news on malware targeting IoT devices and some current research reveals that in most cases there are no security controls implemented on these devices. The exponential rise in the use of IoT devices, more processing of sensitive data by these devices, and their mass exploitation was the motivation behind our work. Malware like Mirai is currently being used to build large botnets which are used in DDoS attacks where up to 1.2 Terabytes of networks traffic is generated every second. We will discuss the threats when there is a compromise of an IoT device's security and provide a case study of an IP camera. We also cover aspects of how and why modern malware targets\u00a0\u2026",
+        "citations": 91
+    },
+    {
+        "title": "IP Wireless Access in Vehicular Environments (IPWAVE): Problem Statement and Use Cases. draft-ietf-ipwave-vehicular-networking",
+        "id": "bj7Hm8IAAAAJ:-mN3Mh-tlDkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:-mN3Mh-tlDkC",
+        "authors": [
+            "J Jeong"
+        ],
+        "pub_source": "November",
+        "pub_date": "2018",
+        "citations": 3
+    },
+    {
+        "title": "Analysis and impact of IoT malware",
+        "id": "bj7Hm8IAAAAJ:BJbdYPG6LGMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:BJbdYPG6LGMC",
+        "authors": [
+            "Joel Margolis",
+            "Tae Oh",
+            "Suyash Jadhav",
+            "Jaehoon Jeong",
+            "Young Ho Kim",
+            "Jeong Neyo Kim"
+        ],
+        "pub_source": "Proceedings of the 18th Annual Conference on Information Technology Education",
+        "pub_date": "2017/9/27",
+        "description": "As Internet of Things (IoT) devices become more and more prevalent, it is important for research to be done around the security and integrity of them. By doing so, consumers can make well-informed choices about the smart devices that they purchase. This poster presents information about how three different IoT-specific malware variants operate and impact newly connected devices.",
+        "citations": 5
+    },
+    {
+        "title": "The Roles of IT Education in IoT and Data Analytics",
+        "id": "bj7Hm8IAAAAJ:vDZJ-YLwNdEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:vDZJ-YLwNdEC",
+        "authors": [
+            "Tae Oh",
+            "Sam Chung",
+            "Barry Lunt",
+            "Russell McMahon",
+            "Rebecca Rutherfoord"
+        ],
+        "pub_source": "Proceedings of the 18th Annual Conference on Information Technology Education",
+        "pub_date": "2017/9/27",
+        "description": "The recent growth of the Internet of Things (IoT) and the expanding use of Data Analytics have both had a tremendous impact on information technology companies. A combination of IoT and Data Analytics have been used to monitor physical infrastructures, manage performance evaluation of networks and systems, integrated into personalized healthcare systems, and many more. Many information technology related companies already have embraced the technology. This panel discusses how IT education should embrace and approach teaching IoT and data analytics to undergraduate and graduate students. The panel will also discuss how educators should prepare students to be ready to adapt to the IoT and data analytics workforce in the industry.",
+        "citations": 2
+    },
+    {
+        "title": "STMAC: Spatio-temporal coordination-based MAC protocol for driving safety in urban vehicular networks",
+        "id": "bj7Hm8IAAAAJ:nVrZBo8bIpAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:nVrZBo8bIpAC",
+        "authors": [
+            "Jaehoon Jeong",
+            "Yiwen Shen",
+            "Sangsoo Jeong",
+            "Sejun Lee",
+            "Hwanseok Jeong",
+            "Tae Oh",
+            "Taejoon Park",
+            "Muhammad Usman Ilyas",
+            "Sang Hyuk Son",
+            "David HC Du"
+        ],
+        "pub_source": "IEEE Transactions on Intelligent Transportation Systems",
+        "pub_date": "2017/8/23",
+        "description": "In this paper, we propose a spatio-temporal coordination-based media access control (STMAC) protocol for efficiently sharing driving safety information in urban vehicular networks. STMAC exploits a unique spatio-temporal feature characterized from a geometric relation among vehicles to form a line-of-collision graph, which shows the relationship among vehicles that may collide with each other. Based on this graph, we propose a contention-free channel access scheme to exchange safety messages simultaneously by employing directional antenna and transmission power control. Based on an urban road layout, we propose an optimized contention period schedule by considering the arrival rate of vehicles at an intersection in the communication range of a road-side unit to reduce vehicle registration time. Using theoretical analysis and extensive simulations, it is shown that STMAC outperforms legacy MAC\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "An in-depth analysis of the mirai botnet",
+        "id": "bj7Hm8IAAAAJ:wMgC3FpKEyYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:wMgC3FpKEyYC",
+        "authors": [
+            "Joel Margolis",
+            "Tae Tom Oh",
+            "Suyash Jadhav",
+            "Young Ho Kim",
+            "Jeong Neyo Kim"
+        ],
+        "pub_source": "2017 International Conference on Software Security and Assurance (ICSSA)",
+        "pub_date": "2017/7/24",
+        "description": "Multiple news stories, articles, incidents, and attacks have consistently brought to light that IoT devices have a major lack of security. Developing a solution to protect and secure these devices is difficult because of the multitude of devices available on the market, each with their own requirements. This paper will focus on a particularly widespread piece of IoT malware known as the Mirai botnet by examining what its capabilities are, how it spreads to new devices, the impact that it has already had, and propose mitigation solutions to help prevent future attacks.",
+        "citations": 110
+    },
+    {
+        "title": "Toms: Tcp context migration scheme for efficient data services in vehicular networks",
+        "id": "bj7Hm8IAAAAJ:ODE9OILHJdcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:ODE9OILHJdcC",
+        "authors": [
+            "Junsik Jeong",
+            "Yiwen Chris Sheny",
+            "Jaehoon Paul Jeong",
+            "Tae Tom Ohx",
+            "Junghyun Jun",
+            "Hyuk Son Sang"
+        ],
+        "pub_source": "2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA)",
+        "pub_date": "2017/3/27",
+        "description": "The recent advances in wireless communication techniques have made it possible for fast-moving vehicles to download data from the Internet. For the reliable data upload and download, TCP can be used for vehicular networks. However, TCP requires the connection initialization using three-way handshaking for the data exchange between two end systems over the Internet. Thus, the efficient operation of TCP is important for data services in the vehicular networks. This paper proposes a method of TCP Context Migration Scheme (TOMS) for the enhancement of data services in vehicular networks. TOMS provides vehicles with proactive TCP connection initialization using a moving TCP proxy as a cluster head, which will have the Internet connectivity with a Road-Side Unit (RSU). A cluster member can initiate its TCP connection toward its corresponding TCP end-system (e.g., server and peer) via the TCP proxy\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Design and implementation of vehicular network simulator for data forwarding scheme evaluation",
+        "id": "bj7Hm8IAAAAJ:yFnVuubrUp4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:yFnVuubrUp4C",
+        "authors": [
+            "Bien Aime Mugabarigira",
+            "Yiwen Shen",
+            "Jaehoon Jeong",
+            "Tae Oh",
+            "Sang Hyuk Son"
+        ],
+        "pub_source": "2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA)",
+        "pub_date": "2017/3/27",
+        "description": "Simulation is a common method used to examine the models and protocols before they are implemented in real systems. Vehicular networks present different characteristics which render most of their simulations inapplicable to real-world Vehicular Ad Hoc Networks. In these days, the important advancement has been made toward the realistic simulators. OMNeT++, SUMO, and Veins provide a decent way for vehicular network researchers. This paper introduces the design and implementation of data forwarding schemes in vehicular networks. We discuss the implementation of two data forwarding schemes, such as Vehicle-Assisted Data Delivery and Trajectory-Based Data Forwarding. Both are the forwarding schemes that rely on Expected Delivery Delay implementation of data forwarding schemes in vehicular networks. We discuss the implementation of two data forwarding schemes, such as Vehicle-Assisted\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "An assistive system for android malware analysis to increase malware analysis efficiency",
+        "id": "bj7Hm8IAAAAJ:bKqednn6t2AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:bKqednn6t2AC",
+        "authors": [
+            "Suyash Jadhav",
+            "Tae Tom Oh",
+            "Jaehoon Paul Jeong",
+            "Young Ho Kim",
+            "Jeong Neyo Kim"
+        ],
+        "pub_source": "2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA)",
+        "pub_date": "2017/3/27",
+        "description": "After the comprehensive survey of existing malware analysis products in the market, the survey result has shown that an assistive tool is needed to help researchers to automatically predict an Android malware in a given large number of applications. Due to a large volume of Android applications being developed and distributed every day through third party application stores, it is difficult to detect a set of Android applications which might potentially indicate malicious behaviors. This situation results in high inefficiency in performing the manual analysis of applications that are uploaded to Android application stores. This research focuses on creating an Android malware analysis lab environment with assistive services that helps the prediction of malicious applications from a given large set of both benign and malicious Android applications. This lab environment is ideal for third party Android application stores and\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Fast randomized singular value thresholding for low-rank optimization",
+        "id": "bj7Hm8IAAAAJ:v1_lew4L6wgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:v1_lew4L6wgC",
+        "authors": [
+            "Tae-Hyun Oh",
+            "Yasuyuki Matsushita",
+            "Yu-Wing Tai",
+            "In So Kweon"
+        ],
+        "pub_source": "IEEE transactions on pattern analysis and machine intelligence",
+        "pub_date": "2017/3/3",
+        "description": "Rank minimization can be converted into tractable surrogate problems, such as Nuclear Norm Minimization (NNM) and Weighted NNM (WNNM). The problems related to NNM, or WNNM, can be solved iteratively by applying a closed-form proximal operator, called Singular Value Thresholding (SVT), or Weighted SVT, but they suffer from high computational cost of Singular Value Decomposition (SVD) at each iteration. We propose a fast and accurate approximation method for SVT, that we call fast randomized SVT (FRSVT), with which we avoid direct computation of SVD. The key idea is to extract an approximate basis for the range of the matrix from its compressed matrix. Given the basis, we compute partial singular values of the original matrix from the small factored matrix. In addition, by developping a range propagation method, our method further speeds up the extraction of approximate basis at each iteration\u00a0\u2026",
+        "citations": 91
+    },
+    {
+        "title": "Protocols and applications in vehicular sensor networks for driving safety, driving efficiency, and data services",
+        "id": "bj7Hm8IAAAAJ:OcBU2YAGkTUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:OcBU2YAGkTUC",
+        "authors": [
+            "Jaehoon Paul Jeong",
+            "Tae Tom Oh",
+            "Sangheon Pack",
+            "Alexandre Petrescu"
+        ],
+        "pub_source": "International Journal of Distributed Sensor Networks 13 (2), 1550147717692458",
+        "pub_date": "2017/2",
+        "description": "Recently, vehicular sensor networks have been spotlighted for driving safety, driving efficiency, and data services in the road networks. The sensors in vehicles play a vital role in monitoring road surfaces to detect obstacles and road hazards, and the monitoring is performed by collection of various motion sensors (eg accelerometer, gyroscope, and magnetometer), obstacle detection sensors (eg ultrasonic and laser sensors), and camera (eg dashboard camera). For the driving safety, precisely monitoring the road surface and identifying the road hazards are critically important, and this sensing information can be shared among the vehicles to avoid possible dangerous circumstances and situations. Additionally, it is important to support instantaneous response to dynamic road situations and neighboring vehicles through the efficient and delay-bounded data communications. This is possible through dedicated short\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "The Roles of IT Education in IoT and Data Analytics",
+        "id": "bj7Hm8IAAAAJ:artPoR2Yc-kC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:artPoR2Yc-kC",
+        "authors": [
+            "Rebecca Rutherfoord Tae (Tom) Oh",
+            "Sam Chung",
+            "Barry Lunt",
+            "Russell McMahon"
+        ],
+        "pub_source": "SIGITE 2017",
+        "pub_date": "2017"
+    },
+    {
+        "title": "Analysis and Impact of IoT Malware",
+        "id": "bj7Hm8IAAAAJ:tH6gc1N1XXoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:tH6gc1N1XXoC",
+        "authors": [
+            "Y. Kim and J. Kim J. Margolis",
+            "T. Oh",
+            "S. Jadhav",
+            "J. Jeong"
+        ],
+        "pub_source": "ACM Special Interest Group for Information Technology Education (ACM SIGITE 2017)",
+        "pub_date": "2017"
+    },
+    {
+        "title": "An In-Depth Analysis of the Mirai Botnet",
+        "id": "bj7Hm8IAAAAJ:gKiMpY-AVTkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:gKiMpY-AVTkC",
+        "authors": [
+            "Y. Kim and J. Kim J. Margolis",
+            "T. Oh",
+            "S. Jadhav"
+        ],
+        "pub_source": "IEEE International Conference on Software Security and Assurance (ICSSA 2017)",
+        "pub_date": "2017"
+    },
+    {
+        "title": "Android malware analysis and conceptual malware mitigation approaches",
+        "id": "bj7Hm8IAAAAJ:mNrWkgRL2YcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:mNrWkgRL2YcC",
+        "authors": [
+            "Tae Oh",
+            "Hwa Shin Moon",
+            "Young Ho Kim",
+            "Jeong Neyo Kim",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2016 International Conference on Information and Communication Technology Convergence (ICTC)",
+        "pub_date": "2016/10/19",
+        "description": "Mobile devices have enjoyed unprecedented growth in the last decade. As devices become more ubiquitous and users place more sensitive data on their devices, the amount of mobile malware in the wild has grown. In order to protect mobile device users and their data, mobile security solutions have been brought to market for consumer and enterprise users. The limited success observed in protecting devices so far warrants a redoubled effort to develop effective mobile device security solutions. The research presented in this paper represents the ongoing result of malware analysis for the Android platform by combining code review and behavioral testing. The data collected from these processes suggests the need to implement several security techniques not currently found in Android. To the benefit of users and developers, most of these techniques are coded into Android and provide comprehensive protection\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Security Requirements Embedded in MS Programs in Information Sciences and Technologies",
+        "id": "bj7Hm8IAAAAJ:OR75R8vi5nAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:OR75R8vi5nAC",
+        "authors": [
+            "Jai W Kang",
+            "Qi Yu",
+            "Edward P Holden",
+            "Tae H Oh"
+        ],
+        "pub_source": "Proceedings of the 17th Annual Conference on Information Technology\u00a0\u2026",
+        "pub_date": "2016/9/28",
+        "description": "This paper reviews and assesses the current coverage of security topics in the master's programs and proposes the best method for educating students in an Information Sciences and Technologies curriculum at Rochester Institute of Technology. We start by describing a case study of student projects in a data-warehousing course to motivate the need to cover security topics in our curriculum. We then discuss security topics related to the modern computing landscape, which we plan to cover in our MS programs: Internet of Things, Big Data and Cloud Computing. We describe a multi-threaded approach to introduce security into our programs by spreading the topics across core and elective courses that have related topics.",
+        "citations": 3
+    },
+    {
+        "title": "Android malware detection using category-based machine learning classifiers",
+        "id": "bj7Hm8IAAAAJ:DJbcl8HfkQkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:DJbcl8HfkQkC",
+        "authors": [
+            "Huda Ali Alatwi",
+            "Tae Oh",
+            "Ernest Fokoue",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the 17th Annual Conference on Information Technology Education",
+        "pub_date": "2016/9/28",
+        "description": "Android malware growth has been increasing dramatically as well as the diversity and complicity of their developing techniques. Machine learning techniques have been applied to detect malware by modeling patterns of static features and dynamic behaviors of malware. The accuracy rates of the machine learning classifiers differ depending on the quality of the features. We increase the quality of the features by relating between the apps' features and the features that are required to deliver its category's functionality. To measure the benign app references, the features of the top rated apps in a specific category are utilized to train a malware detection classifier for that given category. Android apps stores such as Google Play organize apps into different categories. Each category has its distinct functionalities which means the apps under a specific category are similar in their static and dynamic features. In other\u00a0\u2026",
+        "citations": 36
+    },
+    {
+        "title": "Survey on protocols and applications for vehicular sensor networks",
+        "id": "bj7Hm8IAAAAJ:cWzG1nlazyYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:cWzG1nlazyYC",
+        "authors": [
+            "Jaehoon Jeong",
+            "Tae Oh"
+        ],
+        "pub_source": "International Journal of Distributed Sensor Networks 12 (8), 1550147716662948",
+        "pub_date": "2016/8",
+        "description": "This article surveys protocols and applications for the driving safety and efficiency in vehicular sensor networks. Nowadays, most vehicles are equipped with Global Positioning System navigation systems in the form of a dedicated navigator or smartphone app. Also, the government regulation requires vehicles to be equipped with dedicated short-range communication device for the communications among vehicles or between vehicles and infrastructure for a safety purpose. Because of this trend, many applications in vehicular networks can be envisioned for the safety of drivers and pedestrians as well as driving efficiency and fuel saving. To support these applications, protocols in physical, link, and network layers are designed and tailored for the optimal performance. This article summarizes and analyzes the state-of-art articles in the protocols and applications for vehicular sensor networks in order to shed the\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "SMART GRID SECURITY",
+        "id": "bj7Hm8IAAAAJ:rHJHxKgnXwkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:rHJHxKgnXwkC",
+        "authors": [
+            "TAE OH",
+            "SUMITA MISHRA",
+            "CLARK HOCHGRAF"
+        ],
+        "pub_source": "Security and Privacy in Smart Grids",
+        "pub_date": "2016/4/19",
+        "description": "Collection of data and control of devices are two main objectives of the smart grid. Collected data may include energy usage, power consumption, local voltage, volt-ampere reactive (VAR) power, and operational status for numerous devices at numerous locations. Device control may include changing taps on transformers, engaging VAR compensation capacitors, disconnecting loads, reducing loads, delaying the start of a load, or changing command set points for distributed generators. All of these tasks require communication of either information or control signals. If invalid, inaccurate, malicious, or untimely information is provided, the effects on the power system operation can be severe, including over-or undervoltage, interruption of power both locally and regionally, damage to connected equipment, hazards to personnel, and financial losses. The information gathered can be used for inappropriate, unexpected, or unsavory purposes by authorized and unauthorized third parties. As a result, both security and privacy of sensor data and control information are essential."
+    },
+    {
+        "title": "CASD: a framework of context-awareness safety driving in vehicular networks",
+        "id": "bj7Hm8IAAAAJ:4vMrXwiscB8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:4vMrXwiscB8C",
+        "authors": [
+            "Yiwen Shen",
+            "Jaehoon Jeong",
+            "Tae Oh",
+            "Sang Hyuk Son"
+        ],
+        "pub_source": "2016 30th International Conference on Advanced Information Networking and Applications Workshops (WAINA)",
+        "pub_date": "2016/3/23",
+        "description": "Inspired by the advancement of vehicular networks and increasing concerns on driving safety, this paper proposes a framework of Context-Awareness Safety Driving (CASD). In vehicular networks, vehicles communicate with each other and share a variety of information. By utilizing those capability, CASD provides vehicles with a class-based safety action plan that considers three situations such as the Line-of-Sight unsafe, the Non-Line-of-Sight unsafe and the safe situations. In the Line-of-Sight unsafe situation, a hybrid take-action scheme is provided. If human's action fails, the vehicle will take over the driving control to guarantee the minimum risk. A timing for the vehicle to take over the control is based on an optimized threshold by examining context information. Moreover, a dynamic path maneuver planning scheme is suggested to avoid a crash in real-time. The driving safety can be substantially improved using\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "DCMAC: data-oriented cluster-based media access control protocol for vehicular networks",
+        "id": "bj7Hm8IAAAAJ:QYdC8u9Cj1oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:QYdC8u9Cj1oC",
+        "authors": [
+            "Jinho Lee",
+            "Jaehoon Jeong",
+            "Tae Oh",
+            "Junghyun Jun",
+            "Sang Hyuk Son"
+        ],
+        "pub_source": "2016 30th International Conference on Advanced Information Networking and Applications Workshops (WAINA)",
+        "pub_date": "2016/3/23",
+        "description": "In order to support efficient data services on vehicular networks, we propose a Data-oriented Cluster-based Media Access Control Protocol (DCMAC). For Intelligent Transportation Systems (ITS), the demand for data services is increasing. Furthermore, most of vehicles will be equipped with Dedicated Short-Range Communications (DSRC) devices in the near future. Thus, it is necessary to offer scalable data services on vehicular networks. We propose a cluster-based MAC protocol for maximizing the throughput of data services. Through clustering, we can reduce contention period for time slot allocation and improve channel utilization. Furthermore, we can significantly reduce the power consumption for transmissions.",
+        "citations": 4
+    },
+    {
+        "title": "MEMS Based tracking devices for measuring distribution hazards on the product and package",
+        "id": "bj7Hm8IAAAAJ:fbc8zXXH2BUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:fbc8zXXH2BUC",
+        "authors": [
+            "Changfeng Ge",
+            "Tom Oh",
+            "Daniel Johnson",
+            "Anthonio Mondragon",
+            "Kai Lei"
+        ],
+        "pub_source": "Journal of applied packaging research",
+        "pub_date": "2016",
+        "description": "This paper introduces two microelectromechanical systems (MEMS) based working data logger prototypes and the cloud based data analysis system that were trademarked and patented as Pak-TrackTM-I and Pak-TrackTM-II. The Pak-TrackTM-I is designed to wirelessly record and report information in real time about individually packaged products during transit. The system allows the user to immediately view the data with a Global Positioning System (GPS) location via a secured website or Android tablet or smart phone. The Pak-TrackTM-II is a standalone device that stores all measurements on internal memory without communicating over a network. The cloud based server and website analyzes and displays the data collected to further study the effects that transportation and handling had on the product and package. The lab obtained data are within expected limits for the purpose of validation. Two field tests\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "SAINT: Self-Adaptive Interactive Navigation Tool for Cloud-Based Vehicular Traffic Optimization",
+        "id": "bj7Hm8IAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "and David Du J. Jeong",
+            "Jeong Harrison",
+            "E. Lee",
+            "Tae Oh"
+        ],
+        "pub_source": "IEEE Transactions on Vehicular Technology",
+        "pub_date": "2016",
+        "citations": 68
+    },
+    {
+        "title": "Intelligent Mobility Cane for People Who are Blind and Deaf-Blind: A Multidisciplinary Design Project That Assists People With Disabilities",
+        "id": "bj7Hm8IAAAAJ:3htObqc8RwsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:3htObqc8RwsC",
+        "authors": [
+            "Patricia Iglesias Victoria",
+            "Gary Behm",
+            "Tae Oh"
+        ],
+        "pub_source": "ASME International Mechanical Engineering Congress and Exposition",
+        "pub_date": "2015/11/13",
+        "description": "Vision loss knows no boundaries; it can affect anyone, of any age, income level, race, or ethnic background, at any time. Regardless of the level of visual impairment, vision loss can impact a person\u2019s life and their ability to complete everyday tasks. One of the greatest challenges that a blind or deaf blind person faces is the ability to navigate safely and independently through the physical world. Traveling with little or no vision at all can be challenged and inaccessible, limiting the ability to work, go to school, take care of personal needs, or socialize with others. The purpose of this paper is to describe and discuss a multidisciplinary project to design and build a low cost, light weight \u201cIntelligent Mobility Cane\u201d prototype that will aid deaf-blind and blind persons in navigating surroundings via real-time tactile and directional force feedback and guidance. The system is designed for providing information about a\u00a0\u2026"
+    },
+    {
+        "title": "Android botnet categorization and family detection based on behavioural and signature data",
+        "id": "bj7Hm8IAAAAJ:edDO8Oi4QzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:edDO8Oi4QzsC",
+        "authors": [
+            "Tae Oh",
+            "Suyash Jadhav",
+            "Young Ho Kim"
+        ],
+        "pub_source": "2015 International Conference on Information and Communication Technology Convergence (ICTC)",
+        "pub_date": "2015/10/28",
+        "description": "Predicting application performing malicious activity based on its behavioural analysis is extremely difficult compare to signature based approach. But considering the rapid development and slight changes in code allowing avoiding of signature-based malware analysis has made behaviour-based analysis more and more important in recent years. In last decade there is unimagined and trilling growth in the mobile market, which is unquestionably dominated by Android OS. Android has very fast growing application markets that have been targeted by underground malware distribution networks. There are larger numbers of new application stores across the globe apart from leaders of App market like Google Play Store, Amazon etc. It is very important to test the possible ways of behaviour based malware analysis in Android. Research focuses on creating a working prototype of a system that takes different behavioural\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "Developing automated input generator for android mobile device to evaluate malware behavior",
+        "id": "bj7Hm8IAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Shobhit N Dutia",
+            "Tae H Oh",
+            "Young H Oh"
+        ],
+        "pub_source": "Proceedings of the 4th Annual ACM Conference on Research in Information Technology",
+        "pub_date": "2015/9/29",
+        "description": "According to International Data Corporation (IDC), Android accounted for 81% of all smartphone shipments in the third quarter of 2013. With the increase in smartphones, mobile application installs from Google Play have reached more than 48 billion app installs as revealed by Sundar Pichai, senior vice president, Chrome and Apps at Google I/O 2013. Thus, Android application development has become increasingly popular with the need of an effective software solution for application development and testing. While most Android applications are developed in Java, the Android framework is quite different fromm typical Java frameworks. Thus, while development or testing of Android applications, the user needs to be aware of all the terms and concepts specific to the Android framework such as activity, views and the Android SDK in general. A key to successfully develop Android applications is not just\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Mobile device penetration testing framework and platform for the mobile device security course",
+        "id": "bj7Hm8IAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Suyash Jadhav",
+            "Tae Oh",
+            "Young Ho Kim",
+            "Joeng Nyeo Kim"
+        ],
+        "pub_source": "2015 17th International Conference on Advanced Communication Technology (ICACT)",
+        "pub_date": "2015/7/1",
+        "description": "The authors have developing mobile device evaluation and testing platform to evaluate the mobile malware. Using the platform, the authors have created several courses in mobile device security. One of the important requirements is to provide students with a safe and sandboxed environment for malware analysis. Other features include tool enhanced lab environment, updated malware repository, log collection and exact assistance. Java based client-server application have been created to serve these requirements. Also a framework to perform mobile malware analysis and mobile penetration testing is proposed and implemented under this research work. Paper focuses on analysing requirements for such coursework to perform mobile malware analysis and mobile application penetration testing. Paper also gives details about the tools created and framework implemented to successfully teach Advanced Mobile\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Cloud-based android botnet malware detection system",
+        "id": "bj7Hm8IAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Suyash Jadhav",
+            "Shobhit Dutia",
+            "Kedarnath Calangutkar",
+            "Tae Oh",
+            "Young Ho Kim",
+            "Joeng Nyeo Kim"
+        ],
+        "pub_source": "2015 17th International Conference on Advanced Communication Technology (ICACT)",
+        "pub_date": "2015/7/1",
+        "description": "Increased use of Android devices and its open source development framework has attracted many digital crime groups to use Android devices as one of the key attack surfaces. Due to the extensive connectivity and multiple sources of network connections, Android devices are most suitable to botnet based malware attacks. The research focuses on developing a cloud-based Android botnet malware detection system. A prototype of the proposed system is deployed which provides a runtime Android malware analysis. The paper explains architectural implementation of the developed system using a botnet detection learning dataset and multi-layered algorithm used to predict botnet family of a particular application.",
+        "citations": 22
+    },
+    {
+        "title": "Layer 2 Protocol to Protect the IP Communication in a Wired Ethernet Network",
+        "id": "bj7Hm8IAAAAJ:fFSKOagxvKUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:fFSKOagxvKUC",
+        "authors": [
+            "R. Campillo",
+            "Tae Oh"
+        ],
+        "pub_source": "ASIA 2015",
+        "pub_date": "2015/6",
+        "description": "Data encapsulated using the IP protocol can be compromised if it is sent in clear text or without integrity protection. Even using known protocols to protect the confidentiality, integrity and authenticity of this data, the EtherType field of the Ethernet frames and the header of the IP packets in a wired Ethernet network still remain exposed opening possibilities for an attacker to gain knowledge of the network, cause a denial of service attack or steal information. This paper proposes a new protocol that protects the confidentiality, integrity and authenticity of the IP communication in a wired Ethernet network. This new protocol operates in the layer 2 of the OSI model. For each Ethernet frame, it encapsulates the EtherType field and the entire IP packet into a new PDU structure that is partially encrypted. Integrity and authenticity are assured by an HMAC value or a digital signature calculated over the entire frame. Several tests\u00a0\u2026"
+    },
+    {
+        "title": "An autonomous driving system for unknown environments using a unified map",
+        "id": "bj7Hm8IAAAAJ:U4n9YNQMCAIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:U4n9YNQMCAIC",
+        "authors": [
+            "Inwook Shim",
+            "Jongwon Choi",
+            "Seunghak Shin",
+            "Tae-Hyun Oh",
+            "Unghui Lee",
+            "Byungtae Ahn",
+            "Dong-Geol Choi",
+            "David Hyunchul Shim",
+            "In-So Kweon"
+        ],
+        "pub_source": "IEEE transactions on intelligent transportation systems",
+        "pub_date": "2015/2/20",
+        "description": "Recently, there have been significant advances in self-driving cars, which will play key roles in future intelligent transportation systems. In order for these cars to be successfully deployed on real roads, they must be able to autonomously drive along collision-free paths while obeying traffic laws. In contrast to many existing approaches that use prebuilt maps of roads and traffic signals, we propose algorithms and systems using Unified Map built with various onboard sensors to detect obstacles, other cars, traffic signs, and pedestrians. The proposed map contains not only the information on real obstacles nearby but also traffic signs and pedestrians as virtual obstacles. Using this map, the path planner can efficiently find paths free from collisions while obeying traffic laws. The proposed algorithms were implemented on a commercial vehicle and successfully validated in various environments, including the 2012\u00a0\u2026",
+        "citations": 68
+    },
+    {
+        "title": "The Security Implications of IMSI Catchers",
+        "id": "bj7Hm8IAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Bryan Harmat",
+            "Jared Stroud",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sylvia Perez-hardy",
+            "Rick Mislan",
+            "Tae Oh"
+        ],
+        "pub_source": "SAM \u201915 International Conference on Security and Management",
+        "pub_date": "2015",
+        "description": "According to various news sources, rogue cellular towers referred to as \u201cIMSI catchers\u201d have been deployed across the nation. An academic interest has been taken in determining what information can be acquired when a mobile device associates with one of these towers. These towers focus on manipulating authentication methods to pose as a legitimate GSM tower. Through the use of software defined radios, and open source software an inexpensive GSM protocol-based cell tower was deployed to determine what, if any, security vulnerabilities exist in the current mobile network infrastructure.",
+        "citations": 3
+    },
+    {
+        "title": "Analyzing User Awareness of Privacy Data Leak in Mobile Applications",
+        "id": "bj7Hm8IAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Youngho Kim",
+            "Tae Oh",
+            "Jeongnyeo Kim"
+        ],
+        "pub_source": "Mobile Information Systems",
+        "pub_date": "2015",
+        "description": "To overcome the resource and computing power limitation of mobile devices in Internet of Things (IoT) era, a cloud computing provides an effective platform without human intervention to build a resource\u2010oriented security solution. However, existing malware detection methods are constrained by a vague situation of information leaks. The main goal of this paper is to measure a degree of hiding intention for the mobile application (app) to keep its leaking activity invisible to the user. For real\u2010world application test, we target Android applications, which unleash user privacy data. With the TaintDroid\u2010ported emulator, we make experiments about the timing distance between user events and privacy leaks. Our experiments with Android apps downloaded from the Google Play show that most of leak cases are driven by user explicit events or implicit user involvement which make the user aware of the leakage. Those\u00a0\u2026",
+        "citations": 39
+    },
+    {
+        "title": "Method and apparatus for integrating and managing information of mobile terminal",
+        "id": "bj7Hm8IAAAAJ:FiytvqdAVhgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:FiytvqdAVhgC",
+        "authors": [
+            "YH Kim",
+            "TH Oh",
+            "YI Cha",
+            "GS Nam",
+            "OH Kwon"
+        ],
+        "pub_source": "US Patent 8,868,774",
+        "pub_date": "2014/10/21",
+        "description": "Generally, a content provider provides a mobile terminal with content selected by a user regardless of an efficiency of a mobile terminal in the case that the user accesses a wireless internet system and then requests contents. Namely, the con tents provider provided the mobile terminal with contents regardless of whether how many colors are Supported by the mobile terminal, how many chords are Supported by the mobile terminal and are the software and the hardware, which game contents requested by a user of a mobile terminal can be performed by, supported by the mobile terminal. According as the development of contents corresponding to an efficiency of a revolutionary development of a mobile terminal is actively processing on, contents providers have presented the necessity of discriminating contents provision in accordance with an efficiency of a mobile terminal. In order to solve the problem, a terminal\u00a0\u2026",
+        "citations": 98
+    },
+    {
+        "title": "Analysis of mobile malware based on user awareness",
+        "id": "bj7Hm8IAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Youngho Kim",
+            "Bill Stackpole",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 3rd annual conference on Research in information\u00a0\u2026",
+        "pub_date": "2014/10/13",
+        "description": "The number of mobile device malware has been increasing drastically last several years. When attempting to detect malware within a device, it is difficult to draw a clear line between malicious and normal activities. Even useful applications naturally result in data transfer from a mobile device to a remote server and a malware detection mechanism based solely on information flow might consider this as data leakage. Therefore one should also consider the surrounding context of an application to make a better decision on whether it is malicious or not. In this current research, a dynamic analysis approach is taken which monitors and measures the runtime behavior and logs from the mobile application. In particular, a concept of user awareness (UA) is proposed which represents a degree of intent with which an application tries to hide its activities from a user. This extended analysis measurement, combined with\u00a0\u2026"
+    },
+    {
+        "title": "Automated Input Generator for Android Applications",
+        "id": "bj7Hm8IAAAAJ:HIFyuExEbWQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:HIFyuExEbWQC",
+        "authors": [
+            "Shobhit N Dutia",
+            "Youngho Kim",
+            "Tae Oh"
+        ],
+        "pub_source": "9th Annual Symposium on Information Assurance (ASIA\u201914)",
+        "pub_date": "2014/6/3",
+        "description": "Android applications have been tested without any knowledge about them using a variety of tools such as Monkey [2], Monkey Runner [3] etc. In this paper, we evaluate existing Android testing techniques by comparing each of these tools and evaluate their efficiency based on a number of factors. Next, we propose requirements of an ideal input generator and present an automated input generator using the Robotium [1] test automation framework to test Android applications while generating valid inputs. The proposed system is targeted to automate the use of Robotium and create a generic test script that tests Android applications with valid inputs without the requirement of their source code. Further, we discuss issues encountered during the development phase of the system and by increasing the complexity of Android applications. We evaluated the system on Android applications with a simple user interface and\u00a0\u2026"
+    },
+    {
+        "title": "Virtual Malware Analysis Framework for Android in an Educational Environment",
+        "id": "bj7Hm8IAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Katie Paugh",
+            "Richard Mislan",
+            "Tae Hwan Oh"
+        ],
+        "pub_source": "ICCWS2014-9th International Conference on Cyber Warfare & Security: ICCWS 2014",
+        "pub_date": "2014/3/24",
+        "description": "Android is a widely used operating system for mobile devices. The open source nature of Android allows for mass development of applications and software for Android devices. This openness also provides for easier development of malware for Android devices which may or may not be evident to the user. Given the fragmented nature of the Android OS, in this paper, we have outlined a framework for testing different recent versions of Android to observe common vulnerabilities exploited by malware through its various stages of operation. Also, the paper describes the virtual lab environment, which contains the framework for analysing Android malware. The virtual lab environment is intuitive and centrally managed in order to be effective for a professor."
+    },
+    {
+        "title": "Tactile Captions: Augmenting Visual Captions",
+        "id": "bj7Hm8IAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Raja Kushalnagar",
+            "Vignesh Ramachandran",
+            "Tae Oh"
+        ],
+        "pub_source": "Computers Helping People with Special Needs: 14th International Conference, ICCHP 2014, Paris, France, July 9-11, 2014, Proceedings, Part I 14",
+        "pub_date": "2014",
+        "description": "We explore the efficacy of tactile captions as a supplement to online captioned video. Closed captions are not fully accessible, because many auditory signals are not easily represented by words, e.g., the sound of the ball being hit by a bat, or to describe a ring tone. The goal is to explore whether audiovisual information can be effectively represented through an equivalent tactile-visual interface. We compare viewers preferences between viewing video with captions alone, and captions plus tactile captions. Our study showed that viewers significantly preferred tactile captions to captions."
+    },
+    {
+        "title": "Effect of Web Caching on Load Time",
+        "id": "bj7Hm8IAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Emma Tang",
+            "Tae Oh",
+            "Young Choi",
+            "Swapna Subramaniam"
+        ],
+        "pub_source": "International Journal of Emerging Technologies in Learning (iJET)",
+        "pub_date": "2013/11/8",
+        "description": "This paper explores the effect of web caching on load times in terms of browser choice and website type. By comparing the load time of web pages using different browsers and website types it was possible to determine the relationship between the variables. Load time differs between browsers based on how the browsers parse different kinds of data. It terms of website type, the traffic volume as well as frequency of updates by administrators and website users is responsible for the varying load times."
+    },
+    {
+        "title": "Teaching in amazon EC2",
+        "id": "bj7Hm8IAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Carlos Gonzalez",
+            "Charles Border",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 14th annual ACM SIGITE conference on Information technology education",
+        "pub_date": "2013/10/2",
+        "description": "As the trend of IT service consolidation continues to rise, organizations are now looking at hosting their services in the cloud to cut back on the costs of hosting their information systems locally. This presents an opportunity and challenge for higher learning institutions to prepare their students for the technology skills that are going to be in demand upon their graduation. In many aspects universities are already using virtual environments to teach many laboratory courses for distance students. However there is the need to introduce students to industry standard services that will better acquaint them with what is currently being used in the real world. This poster takes a look at the course 'Principles of System Administration' from the Networking Security and System Administration Department at Rochester institute of Technology and creates a foundation for moving the course over to the cloud using Amazon Web\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Implementation of sha-1 and ecdsa for vehicular ad-hoc network using ns-3",
+        "id": "bj7Hm8IAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Sinan Nacy",
+            "Tae Oh",
+            "Jim Leone"
+        ],
+        "pub_source": "Proceedings of the 2nd annual conference on Research in information technology",
+        "pub_date": "2013/10/1",
+        "description": "VANET, the Vehicular Ad-Hoc Network, treats cars as nodes in a mobile network. Not surprisingly, VANET must be very secured since one of the network characteristics allows the network to be open to public. The digital signature used in VANET is the standard, ECDSA, or Elliptic Curve Digital Signature Algorithms. ECDSA provides network security by employing a digital signature for messages being transmitted over the network. An ECDSA developed in C++ is described here. VANET messages were sent using the NS-3 network simulator. Two scenarios were created to test the code and the differences before and after implementing the digital signature.",
+        "citations": 3
+    },
+    {
+        "title": "Parallel gain enhancement technique for switched-capacitor circuits",
+        "id": "bj7Hm8IAAAAJ:-_dYPAW6P2MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:-_dYPAW6P2MC",
+        "authors": [
+            "Hariprasath Venkatram",
+            "Benjamin Hershberg",
+            "Taehwan Oh",
+            "Manideep Gande",
+            "Kazuki Sobue",
+            "Koichi Hamashita",
+            "Un-Ku Moon"
+        ],
+        "pub_source": "Proceedings of the IEEE 2013 Custom Integrated Circuits Conference",
+        "pub_date": "2013/9/22",
+        "description": "This paper presents a unified classification model for gain enhancement techniques used in the design of high performance amplifiers. A parallel gain enhancement technique is proposed for switched capacitor circuits which combine the best features of the existing gain enhancement techniques found in continuous-time and discrete-time amplifiers. This technique utilizes two dependent closed loop amplifiers to enhance the open loop DC gain of the main amplifier. This replicated parallel gain enhancement (RPGE) technique enables a very high DC gain amplifier with an improved harmonic distortion performance. A proof of concept pipeline ADC in a 0.18 um CMOS process using RPGE technique achieves 75 dB SNDR, 91 dB SFDR, -87 dB THD at 20 MS/s. The measured 13 bit DNL and INL is +0.75/-0.36 and +0.88/-0.92 LSB respectively. The ADC operates from a supply voltage of 1.3 V, consumes 5.9 mW\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "8th Annual Symposium on Information Assurance (ASIA\u201913)",
+        "id": "bj7Hm8IAAAAJ:5icHVeHT4IsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:5icHVeHT4IsC",
+        "authors": [
+            "ASIA General",
+            "Sanjay Goel"
+        ],
+        "pub_source": "",
+        "pub_date": "2013/6/4",
+        "description": "Welcome to the 8th Annual Symposium on Information Assurance (ASIA\u201913)! This event complements the NYS Cyber Security Conference as its academic track with a goal of increasing interaction among practitioners and researchers to foster infusion of academic research into practice. For the last several years, ASIA has been a great success with excellent papers and participation from academia, industry, and government and well-attended sessions. This year, we again have an excellent set of papers, invited talks, and keynote address. The keynote speaker for ASIA this year is Billy Rios who is currently the Director of Consulting at Cylance, Inc. and the Chair of the Operational Security Testing panel at the National Board of Information Security Examiners (NBISE). He is a fantastic speaker with a wealth of security experience from Microsoft, Google, and Defense Information Systems Agency. We have been able to attract some of the top information systems researchers in the world to the conference.I would like to thank the talented technical program committee that has supported the review process for ASIA. In most cases, the papers were assigned to at least three reviewers who were either members of the program committee or experts outside the committee. It was ensured that there was no conflict of interest. The papers and the reviews were also personally read concurring with reviewer assessment. Our goal is to keep the quality of submissions high as the symposium matures. There were multiple levels of quality control\u2013first with the reviewers, then with the program chair, and then with the general chair. The committee serves a critical role\u00a0\u2026"
+    },
+    {
+        "title": "Android Malware Behaviors for Android Platform Using Interactive Labs",
+        "id": "bj7Hm8IAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Colin Szost",
+            "Kriti Sharma",
+            "Tae Oh",
+            "Willaim Stackpole",
+            "Richard P Mislan"
+        ],
+        "pub_source": "8th Annual Symposium on Information Assurance (ASIA\u201913)",
+        "pub_date": "2013/6/4",
+        "description": "Android is a fairly new operating system launched by Google in October 2008; it has been gaining market and growing popularity ever since. Alongside the growth of the operating system, malware for Android has increased tremendously. Currently, few strategies are available to identify and detect malware on this platform. Users are generally na\u00efve and are fooled into downloading apps, which may be harmful or malicious. They do not have enough experience with either the platform or the apps to know what can be malicious and what is genuine. Thus, the goal of the authors is to create a series of interactive labs that instruct students with little experience with the Android platform or dynamic malware analysis techniques in the methods of dynamic malware analysis and dynamic malware analysis tools for the Android operating system."
+    },
+    {
+        "title": "Mobile Security and Vulnerability Exploitation as a Flipped Classroom Security Curriculum",
+        "id": "bj7Hm8IAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Richard P Mislan",
+            "Tae Oh"
+        ],
+        "pub_source": "8th Annual Symposium on Information Assurance (ASIA\u201913)",
+        "pub_date": "2013/6/4",
+        "description": "While mobile devices have become essential to the daily social fabric of our lives they have also become a popular platform to exploit. The security of mobile devices is a growing necessity, yet many in our population are woefully inexperienced in providing proper security measures. In an effort to address this need, this paper discusses the development of a unique classroom model based on the flipped classroom that provides a repository website of integrated course resources and virtualized laboratories for the education of \u201cMobile Device Security and Vulnerability Exploitation.\u201d Given the specific needs of this type of mobile security modeling, it is imperative that the students participate in a secured laboratory setting. To meet this necessity, the development of a website repository and the inclusion of video lectures, presentations, and virtualized laboratory exercises specific to the course is proposed."
+    },
+    {
+        "title": "Android malware analysis platform",
+        "id": "bj7Hm8IAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Ben Andrews",
+            "Tae Oh",
+            "William Stackpole"
+        ],
+        "pub_source": "Proc. of 8th Annual Symposium on Information Assurance (ASIA\u201913)",
+        "pub_date": "2013/6/4",
+        "description": "Abstracts\u2014Malware for smartphones is a prominent threat to secu-rity, with Android leading the charge as a primary threat. To combat this, it is vital that the security field devote research into finding better methods of malware analysis and subsequently malware defense. As a result, initiative was taken to perform focused research on this subject in the form of an independent study. The purpose of the study is to develop a lab virtual environment for analyzing Android malware. The solution needs to be intuitive and centrally managed in order to be effective for a professor and their assistants. Work has begun on such a system, and the plan is to continue developing an environment until an adequate solution has been produced.",
+        "citations": 5
+    },
+    {
+        "title": "Malware analysis for android operating",
+        "id": "bj7Hm8IAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Kriti Sharma",
+            "Trushank Dand",
+            "Tae Oh",
+            "William Stackpole"
+        ],
+        "pub_source": "8th Annual Symposium on Information assurance",
+        "pub_date": "2013/6/4",
+        "description": "The number of mobile devices has dramatically increased in the last decade. As the mobile devices become more pervasive, users increasingly use it more frequently for everything since they are small, portable, and easy to use. Users store all their sensitive data and information on these devices. However, this ease of use comes at a very big price and comes with side-effects which most users are unaware of. With the increase use of mobile devices, malware is also enjoying unprecedented growth at the expense of unsuspecting and na\u00efve users. Even though several mobile security solutions have been proposed, it is apparent that more effort is required to ensure the security of the data on these devices. The research presented in this paper is an attempt to analyze malware behavior by combining code review and live testing to collect and analyze data in an effort to suggest security techniques not currently found in Android-based devices. The results of this research will provide and insight into the targets and actions of malware as well as provide higher security if the techniques are coded into the Android OS.",
+        "citations": 9
+    },
+    {
+        "title": "Real-Time Monitoring of Packaging Handling and Transportation",
+        "id": "bj7Hm8IAAAAJ:MpfHP-DdYjUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:MpfHP-DdYjUC",
+        "authors": [
+            "MB C. Ge",
+            "T. Oh",
+            "A. Mondragon",
+            "S. Kumar",
+            "A. Grimaldi",
+            "D. Johnson",
+            "R. Brockhurst"
+        ],
+        "pub_source": "US Patent 61/889,914",
+        "pub_date": "2013"
+    },
+    {
+        "title": "Power Efficient Analog-to-Digital Converters using Both Voltage and Time Domain Information",
+        "id": "bj7Hm8IAAAAJ:BUYA1_V_uYcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:BUYA1_V_uYcC",
+        "authors": [
+            "Taehwan Oh"
+        ],
+        "pub_source": "Oregon State University",
+        "pub_date": "2013",
+        "description": "As advanced wired and wireless communication systems attempt to achieve higher performance, the demand for high resolution and wide signal bandwidth in their associated ADCs is strongly increased. Recently, time-domain quantization has drawn attention from its scalability in deep submicron CMOS processes. Furthermore, there are several interesting aspects of time-domain quantizer by processing the signal in time rather than only in voltage domain especially for power efficiency. This research focuses on developing a new architecture for power efficient, high resolution ADCs using both voltage and time domain information.",
+        "citations": 1
+    },
+    {
+        "title": "Nomadic Device Based CRL Acquisition Method for Vehicular Networks",
+        "id": "bj7Hm8IAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "HyunGon Kim",
+            "Tae Hwan Oh",
+            "Young B Choi"
+        ],
+        "pub_source": "International Conference on Hybrid Information Technology",
+        "pub_date": "2012/8/23",
+        "description": "Distributing a Certificate Revocation List (CRL) quickly to all vehicles in the system requires a very large number of road side units (RSUs) to be deployed and maintained by the CA. In reality, initial deployment stage of vehicular networks would be characterized by limited infrastructure as a result in very limited vehicle to infrastructure communication. However, every vehicle wants the most recent CRLs to protect itself from malicious users and malfunctioning equipments, as well as to increase the overall security of the vehicle networks. To address this challenge, we propose a nomadic device based CRL acquisition method using nomadic device\u2019s communication capability with cellular networks. When a vehicle could not directly communicate with nearby RSUs, the nomadic device acts as a security mediator to perform vehicle\u2019s security functions continuously through cellular networks. Therefore, even if\u00a0\u2026"
+    },
+    {
+        "title": "Implementation of Security Encryption in MANET Reactive Routing Protocols using OPNET",
+        "id": "bj7Hm8IAAAAJ:a3BOlSfXSfwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:a3BOlSfXSfwC",
+        "authors": [
+            "Tae Jeffery",
+            "Jaseem and Oh"
+        ],
+        "pub_source": "OPNETWORK 2012",
+        "pub_date": "2012/8"
+    },
+    {
+        "title": "Best security practices for android, blackberry, and iOS",
+        "id": "bj7Hm8IAAAAJ:mlAyqtXpCwEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:mlAyqtXpCwEC",
+        "authors": [
+            "Tae Oh",
+            "Bill Stackpole",
+            "Emily Cummins",
+            "Carlos Gonzalez",
+            "Rahul Ramachandran",
+            "Shinyoung Lim"
+        ],
+        "pub_source": "2012 The First IEEE Workshop on Enabling Technologies for Smartphone and Internet of Things (ETSIoT)",
+        "pub_date": "2012/6/18",
+        "description": "Mobile operating systems have expanded from running exclusively on smartphones to include tablets and music players as well, making them available to a larger audience. These operating systems are responsible for maintaining a multitude of schedules, messages, calls, music, documents, applications, photos, videos, and other personal data with the goal of increasing efficiency. Because of this, developers of mobile operating systems have built in configuration options to these operating systems to better protect the device from security vulnerabilities. However, not all of these operating systems have such settings turned on when the device is pulled out of the box. Furthermore, not all users are aware of how to best protect their information, nor the kind of issues that should be considered when owning and using these devices. This paper suggests best practices for the three major mobile platforms - Android\u00a0\u2026",
+        "citations": 35
+    },
+    {
+        "title": "Metadata based forensic analysis of digital information in the web",
+        "id": "bj7Hm8IAAAAJ:8xutWZnSdmoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:8xutWZnSdmoC",
+        "authors": [
+            "Usama Salama",
+            "Vijay Varadharajan",
+            "Michael Hitchens"
+        ],
+        "pub_source": "Annual Symposium of Information Assurance and Secure Knowledge Management, Albany, NY",
+        "pub_date": "2012/6/5",
+        "description": "With the dramatic increase in social networking and online activities, security and privacy issues have become highly significant. At its base social networking relies on the ability of users to place information in a website and share that information with other users. In this paper we have investigated different types of metadata that are commonly available with the digital objects such as photos and documents that are available in the Internet. We have analyzed different types of metadata information generated by camera and smart phone devices that are used to capture and store digital photos in the web. We have used our analysis to develop heuristics rules which can be used to improve the quality of decision making in forensic investigations. We have also highlighted that such metadata information can be easily used by attackers to further their aims. Finally we have emphasized the need to protect the metadata if they are to provide reliable information for forensic investigations.",
+        "citations": 12
+    },
+    {
+        "title": "Anti-Spyware Analysis for iOS: An Evaluation of Current Security Products Available for iOS",
+        "id": "bj7Hm8IAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Carlos Gonzalez",
+            "Bill Stackpole",
+            "Tae Oh"
+        ],
+        "pub_source": "ASIA and SKM 2012",
+        "pub_date": "2012/6",
+        "description": "Mobile devices and their operating systems are ubiquitous today. The advancement of mobile operating systems in recent years has transformed these devices into a trusted platform hosting large amounts of personal data. With this increased trust, security has never been more important for mobile devices. Developers of mobile operating systems such as Apple have taken initiative in securing these systems during their development but vulnerabilities still occur. This paper looks at some security products for iOS that aim to close the security gap and evaluates their effectiveness at securing the device. We also look into the trend of security products for iOS and the needs of future security solutions for the platform.",
+        "citations": 1
+    },
+    {
+        "title": "Android Anti-Virus Analysis",
+        "id": "bj7Hm8IAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Rahul Ramachandran",
+            "Tae Oh",
+            "William Stackpole"
+        ],
+        "pub_source": "ASIA and SKM 2012",
+        "pub_date": "2012/6",
+        "description": "The number of devices running with the Android operating system has been on the rise. By the end of 2012, it will account for nearly half of the world's smartphone market. Along with its growth, the importance of security has also risen. A proportional increase in the number of vulnerabilities is also happening to the extent that there are a limited number of security applications available to protect these devices. The efficacies of these applications have not been empirically established. This paper analyzes some of the security tools written for the Android platform to gauge their effectiveness at mitigating spyware and malware.",
+        "citations": 21
+    },
+    {
+        "title": "Enhanced SAR ADC energy efficiency from the early reset merged capacitor switching algorithm",
+        "id": "bj7Hm8IAAAAJ:OTTXONDVkokC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:OTTXONDVkokC",
+        "authors": [
+            "Jon Guerber",
+            "Hariprasath Venkatram",
+            "Taehwan Oh",
+            "Un-Ku Moon"
+        ],
+        "pub_source": "2012 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2012/5/20",
+        "description": "The early reset merged capacitor switching algorithm (EMCS) is proposed as an energy reducing switching technique for a binary weighted, capacitive successive approximation (SAR) analog to digital converter (ADC). The method uses the merged capacitor switching (MCS) architecture and optimizes the use of the V CM  level during the SAR conversion. This algorithm can reduce switching power by over 12% with no additional DAC driver activity when compared to the MCS scheme. The MCS and EMCS approaches are analyzed mathematically and the EMCS energy consumption is shown to be lower than or equal to that of the MCS technique for every digital code. Static linearity improvements for this structure are also shown with the integral non-linearity (INL) reducing by a factor of two due to the utilization of the MCS three level DAC. The EMCS implementation methodology is also described.",
+        "citations": 31
+    },
+    {
+        "title": "Correlated jitter sampling for jitter cancellation in pipelined TDC",
+        "id": "bj7Hm8IAAAAJ:XD-gHx7UXLsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:XD-gHx7UXLsC",
+        "authors": [
+            "Taehwan Oh",
+            "Hariprasath Venkatram",
+            "Jon Guerber",
+            "Un-Ku Moon"
+        ],
+        "pub_source": "2012 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2012/5/20",
+        "description": "In this paper, the Correlated Jitter Sampling (CJS) technique, which alleviates the jitter induced error from the time reference in pipelined Time-to-Digital Converter (TDC), is proposed. The auxiliary pipelined TDC is employed to remove the jitter induced error of the main pipelined TDC in the CJS technique. A 12b pipelined TDC adopting the CJS technique in the 1 st  time quantization stage is simulated to validate the proposed technique. Simulation results show that the TDC can achieve a flat SNDR performance of 70dB regardless of the jitter from time reference up to 25% jitter of 1T LSB  in reference clock, which is the maximum error allowed within a designed redundancy range of the pipelined TDC.",
+        "citations": 3
+    },
+    {
+        "title": "Class A+ amplifier with controlled positive feedback for discrete-time signal processing circuits",
+        "id": "bj7Hm8IAAAAJ:W5xh706n7nkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:W5xh706n7nkC",
+        "authors": [
+            "Hariprasath Venkatram",
+            "Taehwan Oh",
+            "Jon Guerber",
+            "Un-Ku Moon"
+        ],
+        "pub_source": "2012 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2012/5/20",
+        "description": "This paper demonstrates Class-A+ amplifier as an alternative to Class-A amplifier for discrete-time signal processing circuits. Class-A+ amplifier uses cross-coupled latches during the amplification phase at the output to improve settling accuracy compared to Class-A amplifier. The positive feedback latch is reset to fixed bias voltages of the Class-A output stage during the reset-phase. This dynamic compensation technique for realizing stable amplifier enables power and area savings with improved settling accuracy and THD performance. Simulation results show 30% reduction in overall power consumption, 50% reduction in the size of output stage and 10 dB improvement in settling accuracy compared to conventional Class-A amplifier with similar worst case settling time.",
+        "citations": 4
+    },
+    {
+        "title": "Supply chain management for generic and military applications using RFID",
+        "id": "bj7Hm8IAAAAJ:NJ774b8OgUMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:NJ774b8OgUMC",
+        "authors": [
+            "Tae Hwan Oh",
+            "Young B Choi",
+            "Rajath Chouta"
+        ],
+        "pub_source": "International Journal of Future Generation Communication and Networking",
+        "pub_date": "2012/3",
+        "description": "This paper explains two main aspects of RFID supply chain management\u2013the generic supply chain management and the specific military application for the purpose of asset viability. The generic supply chain management is studied by examining how to improve supply chain management through accurately determining inventory levels in real time without human interaction. For the military application, the current legacy systems used by the military for Supply Chain Management and Asset Visibility are analyzed and suggestions are made for improvements in the form of Total Asset Visibility through Radio Frequency Identification tags, and Geographic Information Systems.",
+        "citations": 8
+    },
+    {
+        "title": "Apparatus and method for detecting network attack",
+        "id": "bj7Hm8IAAAAJ:MhiOAD_qIWkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:MhiOAD_qIWkC",
+        "authors": [
+            "IK Kim",
+            "YS Choi",
+            "DW Kim",
+            "JT Oh",
+            "JS Jang"
+        ],
+        "pub_source": "US Patent 8,095,973",
+        "pub_date": "2012/1/10",
+        "description": "There are provided a network attack detection apparatus and method capable of determining even unknown network attack, the apparatus connected between two networks or connected by port mirroring of an Ethernet switch to real-time monitor all packets flowing through the networks. The apparatus decodes a payload portion of an inputted network packet into a machine code instruction, determines whether an executable code is included in the decoded machine code by analyzing relationship between instructions, and determines whether the packet is harmful based on statistics with respect to a possibility that an executable code exists in a service and a certain transaction of the service when the executable code is included.",
+        "citations": 283
+    },
+    {
+        "title": "Solar energy outlook in Malaysia",
+        "id": "bj7Hm8IAAAAJ:zCSUwVk65WsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:zCSUwVk65WsC",
+        "authors": [
+            "Shing Chyi Chua",
+            "Tick Hui Oh"
+        ],
+        "pub_source": "Renewable and Sustainable Energy Reviews 16 (1), 564-574",
+        "pub_date": "2012/1/1",
+        "description": "Predicted to be the clean energy of tomorrow, solar energy has been in the forefront of energy development in many developed countries and a potential source of energy to developing countries like Malaysia. This paper presents Malaysia's solar energy or solar photovoltaic developmental outlook. The study is done by first looking into the country's energy policies related to solar energy. Key players in the solar energy development such as government institutions are introduced. Early solar energy programmes and a key project called Malaysia Building Integrated Photovoltaic (MBIPV) as well as its successful initiatives will be presented. Measures which have taken by the government of Malaysia including attractive incentives to encourage solar photovoltaic development, the country's potential in solar energy, foreign investments and future directions as well a feed-in tariff scheme will be presented in length to\u00a0\u2026",
+        "citations": 120
+    },
+    {
+        "title": "Blackberry Structure and Anti-Malware Analysis",
+        "id": "bj7Hm8IAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Bill Stackpole and Tae Oh Emily Cummins"
+        ],
+        "pub_source": "ASIA & SKM 2012",
+        "pub_date": "2012"
+    },
+    {
+        "title": "RFID and Supply Chain Management: Generic and Military Applications",
+        "id": "bj7Hm8IAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Tae Hwan Oh",
+            "Young B Choi",
+            "Rajath Chouta"
+        ],
+        "pub_source": "International Conference on Future Generation Communication and Networking",
+        "pub_date": "2011/12/8",
+        "description": "Introduction to RFID This paper explains two main aspects of RFID supply chain management \u2013 the generic supply chain management and the specific military application for the purpose of asset viability. The generic supply chain management is studied by examining how to improve supply chain management through accurately determining inventory levels in real time without human interaction. For the military application, the current legacy systems used by the military for Supply Chain Management and Asset Visibility are analyzed and suggestions are made for improvements in the form of Total Asset Visibility through Radio Frequency Identification tags, and Geographic Information Systems.",
+        "citations": 1
+    },
+    {
+        "title": "Green progress and prospect in Malaysia",
+        "id": "bj7Hm8IAAAAJ:43bX7VzcjpAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:43bX7VzcjpAC",
+        "authors": [
+            "Shing Chyi Chua",
+            "Tick Hui Oh"
+        ],
+        "pub_source": "Renewable and Sustainable Energy Reviews 15 (6), 2850-2861",
+        "pub_date": "2011/8/1",
+        "description": "This paper aims to present Malaysia's green developments, focusing on the National Green Technology Policy and Green Building Index which have been introduced since 2009. Various green initiatives and their progresses to date will be discussed as well as the key implementing green agencies. The benefits of going green to the country and incentives being offered by the Malaysian Government are also presented. The prospect of a green future in Malaysia, spurred by the worldwide outlook towards sustainable development and environmental preservation is very bright. Pursuing green technology in economic and social developments not only helps sustain the non-renewable fuels, safeguards and minimises the environmental degradation due to carbon emissions, it also creates a strong green economy and industry, inline with the country's vision as well as the rest of the world economies.",
+        "citations": 253
+    },
+    {
+        "title": "RFID & Supply Chain Management: Generic and Military Applications",
+        "id": "bj7Hm8IAAAAJ:HeT0ZceujKMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:HeT0ZceujKMC",
+        "authors": [
+            "T Oh",
+            "Y. Choi",
+            "R. Chouta"
+        ],
+        "pub_source": "International Conference of Future Generation Communication and Networking",
+        "pub_date": "2011/8"
+    },
+    {
+        "title": "Analysis of residue integration sampling with improved jitter immunity",
+        "id": "bj7Hm8IAAAAJ:HbR8gkJAVGIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:HbR8gkJAVGIC",
+        "authors": [
+            "Taehwan Oh",
+            "Nima Maghari",
+            "David Gubbins",
+            "Un-Ku Moon"
+        ],
+        "pub_source": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+        "pub_date": "2011/6/27",
+        "description": "The improved jitter immunity of window residue sampling (WRS) is analyzed in this brief. We build a mathematical model for WRS and compare the signal-to-noise ratio performance with the conventional impulse and integration sampling methods. Simulation results show that WRS has better jitter immunity of approximately 3 dB compared with conventional impulse sampling at the Nyquist input frequency.",
+        "citations": 5
+    },
+    {
+        "title": "Effect of Web Caching on Load Time",
+        "id": "bj7Hm8IAAAAJ:F9fV5C73w3QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:F9fV5C73w3QC",
+        "authors": [
+            "Y. Choi and R. Chouta E. Tang",
+            "T. Oh"
+        ],
+        "pub_source": "AHList 2011",
+        "pub_date": "2011/5"
+    },
+    {
+        "title": "Future Direction for a Next Generation Web",
+        "id": "bj7Hm8IAAAAJ:r_AWSJRzSzQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:r_AWSJRzSzQC",
+        "authors": [
+            "Y. Choi",
+            "Y. Choe",
+            "T. Oh"
+        ],
+        "pub_source": "AHIST 2011",
+        "pub_date": "2011/5",
+        "description": "We explore recent developments on the Web and forecast future development trends of Next Generation Web. This is based upon the current technologies and emerging Web technologies developed by international standard organizations. The changing requirements of Web users and industry market will be introduced.",
+        "citations": 4
+    },
+    {
+        "title": "Security Implication in Virtualization.",
+        "id": "bj7Hm8IAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Tae Hwan Oh",
+            "Shinyoung Lim",
+            "Young B Choi",
+            "Jungwoo Ryoo"
+        ],
+        "pub_source": "Encyclopedia of Cryptography and Security (2nd Ed.)",
+        "pub_date": "2011",
+        "citations": 1
+    },
+    {
+        "title": "A taxonomy of green information and communication protocols and standards",
+        "id": "bj7Hm8IAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Jungwoo Ryoo",
+            "Young Choi"
+        ],
+        "pub_source": "Handbook of research on green ICT: Technology, business and social perspectives",
+        "pub_date": "2011",
+        "description": "Due to increased awareness of human\u2019s adverse effect on the environment, many new technologies to mitigate the environmental damage are under development. Although innovative, many of these technologies are often developed in isolation and consequently incompatible with each other. From the viewpoint of Systems Engineering, this presents an enormous challenge since compatibility among different elements of a system is crucial in achieving an optimal operational state that minimizes energy consumption. Therefore, standardization in the form of protocols is a key to accomplishing the goal of green Information and Communication Technology (ICT). In this chapter, the authors examine the existing green ICT technologies and their protocols to identify both obvious and subtle strengths and weaknesses. Particularly, the authors scrutinize the interoperability of the existing green ICT protocols and provide\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "RFID Implementation and Security Issues",
+        "id": "bj7Hm8IAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Young B Choi",
+            "Tae Hwan Oh",
+            "Rajath Chouta"
+        ],
+        "pub_source": "Information Security and Assurance: International Conference, ISA 2011, Brno, Czech Republic, August 15-17, 2011. Proceedings",
+        "pub_date": "2011",
+        "description": "Radio Frequency Identification (RFID) is a technology that uses electronic tags to store data which in turn can be accessed in real time wirelessly. There is great potential for RFID technology in our society. RFID tags can be used for supply chain management, inventory systems, animal tracking, instant payments or even human implantation. Standards in the RFID industry are examined with an emphasis place on global standardizing bodies. With the growing use of RFID devices in supply chain management and global shipping, several shipping standards including EPC and ASN are examined. Security has become a major concern with several threats to RFID technology recently exposed. Several solutions are presented for firms wishing to implement RFID technology and minimize the risk to sensitive information and company systems.",
+        "citations": 3
+    },
+    {
+        "title": "Security Management Protocols and their Applications in Wireless Sensor Networks for Healthcare",
+        "id": "bj7Hm8IAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "J. Ryoo and K. Stokes T. Oh",
+            "Y. Choi"
+        ],
+        "pub_source": "International Journal of Mobile Communications",
+        "pub_date": "2011",
+        "description": "This paper first discusses emerging security threats, requirements and solutions for WSNs. In addition, the current applications and architectures of WSNs in healthcare systems are explained in detail. Then an assessment framework for WSN security for healthcare is developed to determine the security impact of WSNs on the healthcare applications. This framework will evaluate the strengths and weaknesses of each WSN security architecture and standard for healthcare. Lastly, solutions to close the gap between the existing and idea security will be proposed as well as the future directions for WSN security management.",
+        "citations": 9
+    },
+    {
+        "title": "Feasibility of virtual security laboratory for three-tiered distance education",
+        "id": "bj7Hm8IAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Young B Choi",
+            "Shinyoung Lim",
+            "Tae H Oh"
+        ],
+        "pub_source": "Proceedings of the 2010 ACM conference on Information technology education",
+        "pub_date": "2010/10/7",
+        "description": "Today, a number of universities and colleges offering security education has been growing rapidly for last couple of years. Most universities have adequate facilities and labs to provide hand-on experience in security courses, but some universities and colleges that initiated security courses do not have equipments and space to offer hand-on experience for the students. This is challenge for distance learning students, who reside long distance from the universities, since they are not able to receive adequate hand-on training and this may cause limited job opportunities after their graduation. Even if universities provide students with distance education those who reside long distance from the universities, students will face difficulties in job opportunities after their graduation. In this paper, we introduce our feasibility study on three-tier web portal system for distance education focusing on cyber security laboratory for\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Energy efficiency and carbon trading potential in Malaysia",
+        "id": "bj7Hm8IAAAAJ:kVjdVfd2voEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:kVjdVfd2voEC",
+        "authors": [
+            "Tick Hui Oh",
+            "Shing Chyi Chua"
+        ],
+        "pub_source": "Renewable and sustainable energy reviews 14 (7), 2095-2103",
+        "pub_date": "2010/9/1",
+        "description": "The damage inflicted by global warming is happening far faster than any experts have predicted or anticipated. Since the Kyoto Protocol was signed in 1997 to fight global warming through reducing global greenhouse gases (GHGs) emission, the world climate pattern has worsened at an accelerated rate beyond expectation. While developed countries sanctioned by the protocol are committed to achieve their GHG emission targets, developing nations play similar roles on a voluntary basis. Since almost all of the GHGs emissions come from energy sector, it is obvious that energy policy and related regulatory frameworks play imperative roles in realizing the Kyoto Protocol objectives. With carbon dioxide (CO2) touted as the main remedy in the GHGs emissions, it is only reasonable that carbon trading becomes the essential element in the Protocol. Recently a milestone is marked in the Kyoto Protocol with the 2009\u00a0\u2026",
+        "citations": 119
+    },
+    {
+        "title": "Two new species of Centroceras (Ceramiaceae, Rhodophyta) from KwaZulu-Natal, South Africa",
+        "id": "bj7Hm8IAAAAJ:5MTHONV0fEkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:5MTHONV0fEkC",
+        "authors": [
+            "Boo Yeon Won",
+            "Suzanne Fredericq",
+            "Tae Oh Cho"
+        ],
+        "pub_source": "European Journal of Phycology",
+        "pub_date": "2010/8/1",
+        "description": "Two distinct species of Centroceras from South Africa that were previously referred to as Centroceras sp. 2 and Centroceras sp. 3 on the basis of comparative rbcL sequence analysis are here newly described on the basis of vegetative morphology. Centroceras hommersandii sp. nov. is characterized at the nodes by an elongated cortical cell derived from the second cortical initials, a flattened gland cell and a cortical cell cut off from the first cortical initials, straight spines, 13\u201314 periaxial cells, and by tetrasporangia not associated with involucral branchlets. Centroceras natalensis sp. nov. is characterized at the nodes by an ovoid cortical cell on the second cortical initial, a flattened gland cell and a cortical cell produced from the first cortical initial, straight spines, and 12\u201314 periaxial cells. Other species of Centroceras examined possess either only a flattened gland cell cut off from the first cortical initials (in C\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Security issues on wireless body area network for remote healthcare monitoring",
+        "id": "bj7Hm8IAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Shinyoung Lim",
+            "Tae Hwan Oh",
+            "Young B Choi",
+            "Tamil Lakshman"
+        ],
+        "pub_source": "2010 IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing",
+        "pub_date": "2010/6/7",
+        "description": "A case study of security risk analysis of a wireless body area network for remote health monitoring as a after measure for deploying security and privacy features is introduced in this paper. The target system has a scalable platform that requires minimum human interaction during setup and monitoring. The core components of the system include: (i) biosensor/transceiver pairs, (ii) hardware modules to automatically setup the wireless body area network, (iii) data delivery mechanism to an internet sever, and (iv) automatic data collection, profiling and reporting. As the system contains personal health records that require high level of security when the records are being shared and transferred to health professionals and service providers. We assess security risk based on this critical needs of acknowledged risks and threats in the real time remote health monitoring system.",
+        "citations": 125
+    },
+    {
+        "title": "The Role of Green Protocols in Green Information and Communication Technologies",
+        "id": "bj7Hm8IAAAAJ:ZzlSgRqYykMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:ZzlSgRqYykMC",
+        "authors": [
+            "J. Ryoo",
+            "Y. Choi",
+            "T. Oh"
+        ],
+        "pub_source": "Handbook of Green Information and Communication Technologies",
+        "pub_date": "2010"
+    },
+    {
+        "title": "State of the art of network security perspectives in cloud computing",
+        "id": "bj7Hm8IAAAAJ:SdhP9T11ey4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:SdhP9T11ey4C",
+        "authors": [
+            "Tae Hwan Oh",
+            "Shinyoung Lim",
+            "Young B. Choi",
+            "Kwang-Roh Park",
+            "Heejo Lee",
+            "Hyunsang Choi"
+        ],
+        "pub_source": "Security-Enriched Urban Computing and Smart Grid: First International\u00a0\u2026",
+        "pub_date": "2010",
+        "description": "Cloud computing is now regarded as one of social phenomenon that satisfy customers\u2019 needs. It is possible that the customers\u2019 needs and the primary principle of economy \u2013 gain maximum benefits from minimum investment \u2013 reflects realization of cloud computing. We are living in the connected society with flood of information and without connected computers to the Internet, our activities and work of daily living will be impossible. Cloud computing is able to provide customers with custom-tailored features of application software and user\u2019s environment based on the customer\u2019s needs by adopting on-demand outsourcing of computing resources through the Internet. It also provides cloud computing users with high-end computing power and expensive application software package, and accordingly the users will access their data and the application software where they are located at the remote system. As the\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Parameters of Green IT",
+        "id": "bj7Hm8IAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Rajath Chouta",
+            "TH Oh",
+            "Jungwoo Ryoo",
+            "YB Cho"
+        ],
+        "pub_source": "North East Decision Science Institute 2010 Annual Conference. Alexandria, VA: NEDSI",
+        "pub_date": "2010"
+    },
+    {
+        "title": "SMART GRID SECURITY IN THE LAST MILE",
+        "id": "bj7Hm8IAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "TAE OH",
+            "SUMITA MISHRA",
+            "CLARK HOCHGRAF"
+        ],
+        "pub_source": "",
+        "pub_date": "2010",
+        "description": "Collection of data and control of devices are two main objectives of the smart grid. Collected data may include energy usage, power consumption, local voltage, volt-ampere reactive (VAR) power, and operational status for numerous devices at numerous locations. Device control may include changing taps on transformers, engaging VAR compensation capacitors, disconnecting loads, reducing loads, delaying the start of a load, or changing command set points for distributed generators. All of these tasks require communication of either information or control signals. If invalid, inaccurate, malicious, or untimely information is provided, the effects on the power system operation can be severe, including over-or undervoltage, interruption of power both locally and regionally, damage to connected equipment, hazards to personnel, and financial losses. e information gathered can be used for inappropriate, unexpected, or\u00a0\u2026"
+    },
+    {
+        "title": "Teaching high-assurance internet protocol encryption (haipe) using opnet modeler simulation tool",
+        "id": "bj7Hm8IAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Tae H Oh",
+            "Sumita Mishra",
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the 10th ACM conference on SIG-information technology education",
+        "pub_date": "2009/10/22",
+        "description": "HAIPE is a primary encryption technology in the Department of Defense (DoD) Networks and has been a critical architecture component of net-centric operation. It is a fairly new encryption technology similar to Internet Protocol Security (IPSec), and it is not easy to teach different components of HAIPE in a traditional classroom environment. However, Optimum Network (OPNET) Modeler tool with extensive features of HAIPE offers practical experience of the encryption technology to students. A combination of theoretical teaching and practical experience provide easier and in-depth understanding of the technology. This paper discusses how the OPNET Modeler tool can benefit students in the understanding of HAIPE technology and discusses the features in the tool offers that can be used for effective teaching. Lastly, this paper discusses how this tool can be used to meet configuration, visual, and trade-off learning\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Method and apparatus for malware detection",
+        "id": "bj7Hm8IAAAAJ:7wO8s98CvbsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:7wO8s98CvbsC",
+        "authors": [
+            "YS Choi",
+            "IK Kim",
+            "BK Kim",
+            "SY Yoon",
+            "DW Kim",
+            "JT Oh",
+            "JS Jang"
+        ],
+        "pub_source": "US Patent App. 12/209,249",
+        "pub_date": "2009/5/21",
+        "description": "The present invention relates to an apparatus and method for detecting malware. The malware detection apparatus and method of the present invention determines whether a file is malware or not by analyzing the header of an executable file. Since the malware detection apparatus and method can quickly detect presence of malware, it can shorten detection time considerably. The malware detection apparatus and method can also detect even unknown malware as well as known malware to thereby estimate and determine presence of malware. Therefore, it is possible to cope with malware in advance, protect a system with a program, and increase security level remarkably.",
+        "citations": 283
+    },
+    {
+        "title": "Reeling in cognitive radio: The issues of regulations and policies affecting spectrum management",
+        "id": "bj7Hm8IAAAAJ:Ehil0879vHcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:Ehil0879vHcC",
+        "authors": [
+            "Tae Oh",
+            "Young B Choi",
+            "Michael Guthrie",
+            "Kristi Harold",
+            "Daniel Copeland",
+            "Tai-hoon Kim"
+        ],
+        "pub_source": "Communication and Networking: International Conference, FGCN/ACN 2009, Held as Part of the Future Generation Information Technology Conference, FGIT 2009, Jeju Island, Korea, December 10-12, 2009. Proceedings",
+        "pub_date": "2009",
+        "description": "One of today\u2019s most important developing wireless technologies is Cognitive Radio (CR). In our current fixed-assignment spectrum management policy, much of the available frequencies go unused. CR aims to make use of this unutilized space to provide wireless broadband services. This paper aims to give a background to CR and describe the key players in standardization and allocation of the unused spectrum. Furthermore, it discusses the policies and policy makers that are guiding the future of CR.",
+        "citations": 5
+    },
+    {
+        "title": "A multi-dimensional classification framework for developing context-specific Wireless Local Area Network attack taxonomies",
+        "id": "bj7Hm8IAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Jungwoo Ryoo",
+            "Young B Choi",
+            "Tae Hwan Oh",
+            "Gregory Corbin"
+        ],
+        "pub_source": "International Journal of Mobile Communications",
+        "pub_date": "2009/1/1",
+        "description": "Despite the abundance of taxonomies for the high-level classification of computer or network security attacks, few researchers have worked on the development of a taxonomy dedicated to Wireless Local Area Network (WLAN) security attacks. The existing general-purpose taxonomies are not equipped with WLAN-specific classification criteria and, therefore, fail to reveal and categorise attacks that exploit vulnerabilities found only in WLANs. To address this problem, we propose a novel taxonomy development framework that features a rich set of classification criteria devoted to WLAN attacks. The new taxonomy is expressive enough to describe not only well-known attacks, but also newly emerging ones.",
+        "citations": 8
+    },
+    {
+        "title": "A comprehensive readiness assessment framework for identity theft safeguards in web-based electronic government systems",
+        "id": "bj7Hm8IAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Jungwoo Ryoo",
+            "Tae Hwan Oh",
+            "Seungjae Shin",
+            "Young B Choi"
+        ],
+        "pub_source": "Electronic Government, an International Journal",
+        "pub_date": "2009/1/1",
+        "description": "Identity theft is becoming more commonplace as the number of criminals taking advantage of the World Wide Web to lure their victims increases. The users of web-based electronic government systems are certainly not immune to this trend although the governmental organisations of various levels (federal, state and local governments) are taking steps to adopt the best possible safeguards to prevent identity theft on their websites. Despite their enthusiasm to protect citizens, governmental organisations currently lack assessment methods specifically designed to measure the effectiveness of safeguards they deploy. To address this problem, we propose a comprehensive readiness assessment framework.",
+        "citations": 7
+    },
+    {
+        "title": "A 16b 10MS/s digitally self-calibrated ADC with time constant control",
+        "id": "bj7Hm8IAAAAJ:kzcrU_BdoSEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:kzcrU_BdoSEC",
+        "authors": [
+            "Tae-Hwan Oh",
+            "Ho-Young Lee",
+            "Ju-Hwa Kim",
+            "Ho-Jin Park",
+            "Kyoung-Ho Moon",
+            "Jae-Whui Kim",
+            "Hae-Seung Lee"
+        ],
+        "pub_source": "2008 IEEE Custom Integrated Circuits Conference",
+        "pub_date": "2008/9/21",
+        "description": "Time constant control (TCC) incorporating on-chip digital self-calibration technique performs two-step calibration of pipeline ADC stage errors and reduces power consumption at the same time. Using the proposed technique, the current of the amplifier in 1 st  pipeline stage employing TCC is reduced by 93%. The prototype 3.3V 16b 10MS/s ADC based on 65nm CMOS process is implemented in an active die area of 1.32mm 2  and the on-chip calibration logic occupies only 18% of the die area. The reduction of overall power consumption of the ADC is 36%, from 123.8mW to 79.2mW with TCC. After TCC and digital self-calibration, the measured DNL, INL, and SNDR are \u00b10.65 LSB, \u00b15.76 LSB, and 75.4dB, respectively, for a 5MHz and 2.4Vpp differential input signal at 10MS/s.",
+        "citations": 5
+    },
+    {
+        "title": "Teaching IP Encryption and Decryption Using the OPNET Modeling and Simulation Tool",
+        "id": "bj7Hm8IAAAAJ:_Ybze24A_UAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:_Ybze24A_UAC",
+        "authors": [
+            "Jungwoo Ryoo",
+            "P Altoona",
+            "T Oh"
+        ],
+        "pub_source": "Proceedings of the 12th Colloquium for Information Systems Security Education",
+        "pub_date": "2008/6/2",
+        "citations": 8
+    },
+    {
+        "title": "Security and privacy in mobile telemedicine",
+        "id": "bj7Hm8IAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Jungwoo Ryoo",
+            "Young B Choi",
+            "T Oh"
+        ],
+        "pub_source": "Mobile Telemedicine: A Computing and Networking Perspective",
+        "pub_date": "2008/1/1",
+        "description": "Due to its heavy reliance on wireless technologies, mobile telemedicine suffers from the same set of security and privacy problems as its underlying technical standards (such as WLAN, MANET, WPAN, 3G, RFID, and WSN) face. This chapter looks into how each of these wireless technologies is being used in mobile telemedicine (see Table 10.1 for a summary), and discusses the security and privacy measures they provide (see Table 10.2). In addition, the current regulatory environment is considered to offer an in-depth view of how the security and privacy safeguards (made available by the state-of-the-art technologies) are being enforced in real-life situations. The chapter is concluded by a discussion of outstanding security and privacy issues in mobile telemedicine.",
+        "citations": 3
+    },
+    {
+        "title": "An Analysis of Identity Theft Safeguards in the U.S. e-Government Systems",
+        "id": "bj7Hm8IAAAAJ:P7Ujq4OLJYoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:P7Ujq4OLJYoC",
+        "authors": [
+            "J. Ryoo",
+            "T. Oh",
+            "Y. Choi"
+        ],
+        "pub_source": "Proceedings of the 35th Research Conference on Communication, Information, and Internet Policy (Telecommunications Policy Research Conference)",
+        "pub_date": "2007/9"
+    },
+    {
+        "title": "Image sensor having improved sensitivity and method for making same",
+        "id": "bj7Hm8IAAAAJ:u-coK7KVo8oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:u-coK7KVo8oC",
+        "authors": [
+            "T Oh",
+            "D Yi",
+            "J Lee"
+        ],
+        "pub_source": "US Patent App. 11/244,189",
+        "pub_date": "2006/8/17",
+        "description": "0009. An embodiment of the present invention provides a method of forming an image sensor device, comprising providing a substrate having an active pixel region and a peripheral circuit region; disposing a plurality of photo conversion elements in the active pixel region; forming a plurality of transistors in the active pixel region; forming on top of the substrate a plurality of layers of interlayer dielec trics having an etch stop layer between each adjacent layer of interlayer dielectric; forming interconnections within the interlayer dielectrics connecting to respective photo conver sion elements; providing a recess in the active pixel region by etching a plurality of layers of interlayer dielectrics: providing openings through remaining plurality of layers of interlayer dielectrics to form an optical path for the photo conversion elements; filling the openings with transparent material; and forming color filters and lens above the\u00a0\u2026",
+        "citations": 68
+    },
+    {
+        "title": "Reliability and QoS in multi-protocol label switching(MPLS) networks",
+        "id": "bj7Hm8IAAAAJ:CdxZDUztZiMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:CdxZDUztZiMC",
+        "authors": [
+            "Tae Tom Hwan Oh"
+        ],
+        "pub_source": "S. M. U.",
+        "pub_date": "2001"
+    },
+    {
+        "title": "Fault restoration and spare capacity allocation with QoS constraints for MPLS networks",
+        "id": "bj7Hm8IAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Tae H Oh",
+            "Thomas M Chen",
+            "Jeffery L Kennington"
+        ],
+        "pub_source": "Globecom'00-IEEE. Global Telecommunications Conference. Conference Record (Cat. No. 00CH37137)",
+        "pub_date": "2000/11/27",
+        "description": "This paper investigates distributed fault restoration techniques for multiprotocol label switching (MPLS) to automatically reroute label switched paths in the event of link or router failures while maintaining quality of service (QoS) requirements. Protocols for path and partial path restoration are evaluated. A backup route selection algorithm based on optimization of equivalent bandwidth is formulated and demonstrated for an example network.",
+        "citations": 41
+    },
+    {
+        "title": "Fault restoration techniques for MPLS with QoS constraints",
+        "id": "bj7Hm8IAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Thomas M Chen",
+            "Jeffery L Kennington",
+            "Tae Tom Oh"
+        ],
+        "pub_source": "Tech. Rep. 00-CSE-7, Southern Methodist University, Dallas, TX",
+        "pub_date": "2000/8",
+        "description": "This paper investigates distributed fault restoration protocols for multiprotocol label switching (MPLS) that automatically reroute label switched paths in the event of failures while maintaining quality of service (QoS) requirements. Protocols for link restoration, partial path restoration, and path restoration are evaluated. A new adaptive approach to selecting backup routes is proposed to maximize the probability of successful restoration and minimize restoration time. Using the concept of equivalent bandwidth, an integer linear program is developed that determines a set of backup paths, that meets the QoS constraints, and minimizes the total capacity needed. In computational tests, commercial software successfully solved problem instances of this model in under six seconds on a 600 MHz DEC AlphaStation.",
+        "citations": 2
+    },
+    {
+        "title": "Fault restoration techniques for MPLS with QoS constraints",
+        "id": "bj7Hm8IAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "T Oh",
+            "T Chen",
+            "J Kennington"
+        ],
+        "pub_source": "GLOBECOM",
+        "pub_date": "2000/1/31",
+        "description": "This paper investigates distributed fault restoration protocols for multiprotocol label switching (MPLS) that automatically reroute label switched paths in the event of failures while maintaining quality of service (QoS) requirements. Protocols for link restoration, partial path restoration, and path restoration are evaluated. A new adaptive approach to selecting backup routes is proposed to maximize the probability of successful restoration and minimize restoration time. A route selection algorithm based on optimization of equivalent bandwidth is presented and demonstrated for an example network.",
+        "citations": 1
+    },
+    {
+        "title": "Fault Restoration Techniques for MPLS with QoS Constraints",
+        "id": "bj7Hm8IAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Jeff L Kennington",
+            "T Chen",
+            "T Oh"
+        ],
+        "pub_source": "Department of Computer Science and Engineering",
+        "pub_date": "2000"
+    },
+    {
+        "title": "Reliable services in MPLS",
+        "id": "bj7Hm8IAAAAJ:IRz6iEL74y4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:IRz6iEL74y4C",
+        "authors": [
+            "Thomas M Chen",
+            "Tae H Oh"
+        ],
+        "pub_source": "IEEE Communications Magazine",
+        "pub_date": "1999/12",
+        "description": "MPLS (multiprotocol label switching) is a convergence of various implementations of IP switching using ATM-like \"label swapping\" to speed up packet forwarding without changes to existing IP routing protocols. An important practical issue is the capability to recover quickly from faults. We examine distributed methods for fast fault recovery using modified label distribution protocol messages. To maintain and verify service continuity, methods are proposed for traffic and performance monitoring.",
+        "citations": 162
+    },
+    {
+        "title": "Fast Self-healing ATM Networks by Adaptive selection of Backup Virtual Paths",
+        "id": "bj7Hm8IAAAAJ:nZcligLrVowC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:nZcligLrVowC",
+        "authors": [
+            "T. Oh",
+            "T. and Chen"
+        ],
+        "pub_source": "IEEE Symposium in Planning & Design of Broadband Networks",
+        "pub_date": "1998"
+    },
+    {
+        "title": "An ultrastructural and immunocytochemical study of astrocytic differentiation in vitro: changes in the composition and distribution of the cellular cytoskeleton",
+        "id": "bj7Hm8IAAAAJ:WHdLCjDvYFkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:WHdLCjDvYFkC",
+        "authors": [
+            "Patricia A Trimmer",
+            "Paul J Reier",
+            "Tae H Oh",
+            "Lawrence F Eng"
+        ],
+        "pub_source": "Journal of Neuroimmunology",
+        "pub_date": "1982/1/1",
+        "description": "Astroglia in cultures of dissociated neonatal rat optic nerves were studied by light microscopy, immunocytochemistry and electron microscopy to determine whether intermediate filaments play a role in defining the multipolar morphology of the mature astrocyte. Immature, polygonal astroblasts contained few glial filaments, in spite of exhibiting positive staining with antiserum against glial fibrillary acidic (GFA) protein. Microtubules were the most prominent cytoskeletal component at early stages of cytodifferentiation, but these were progressively reduced in number at later intervals and were gradually replaced by intermediate filaments. These observations suggest that microtubules are involved in the initial establishment of cytoplasmic asymmetry and process development. Subsequently, glial filaments may play a role in maintaining and stabilizing the overall geometry of the mature astrocyte.",
+        "citations": 126
+    },
+    {
+        "title": "ICSSA 2018",
+        "id": "bj7Hm8IAAAAJ:7H_MAutzIkAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:7H_MAutzIkAC",
+        "authors": [
+            "Young B Choi",
+            "Isao Echizen",
+            "Andreas Holzinger",
+            "Peter Kieseberg",
+            "Dae-Kyoo Kim",
+            "Dong-Seong Kim",
+            "Jin Myoung Kim",
+            "Yoon-jeong Kim",
+            "Jong-Hyouk Lee",
+            "Aziz Mohaisen",
+            "Tae Tom Oh",
+            "Lotfi ben Othmane",
+            "Younghee Park",
+            "Suman Saha",
+            "Ji Won Yoon"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Program Committee Toggle navigation IEEE Computer Society Digital Library Jobs Tech News \nResource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE \nComputer Society Digital Library My Subscriptions Magazines Journals Conference Proceedings \nInstitutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News Resource \nCenter Press Room Advertising About Us Cart All Advanced Search Conference Cover Image \nDownload 1.Home 2.Proceedings 3.icssa 2018 Program Committee 2018, pp. 11-11, DOI \nBookmark: 10.1109/ICSSA45270.2018.00034 Keywords Authors Abstract Provides a listing of \ncurrent committee members and society officers. Program Committee ICSSA 2018 Young B. \nChoi, Regent University, USA Isao Echizen, National Institute of Informatics, Japan Andreas \nHolzinger, Graz University of Technology, Austria Peter Kieseberg, SBA Research, Austria \u2026"
+    },
+    {
+        "title": "taeoh & William Stake pole \u201cMalware analysis of android operating\u201d 8th anal symposium on information assurance (ASIA113), June 4-5, 2013",
+        "id": "bj7Hm8IAAAAJ:gVv57TyPmFsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:gVv57TyPmFsC",
+        "authors": [
+            "Kriti Sharma",
+            "Trushank Dand"
+        ],
+        "pub_source": "ALBANY, NY",
+        "pub_date": "",
+        "citations": 2
+    },
+    {
+        "title": "STMAC: Spatio-Temporal Coordination-Based MAC Protocol for Driving Safety in Urban Vehicular Networks",
+        "id": "bj7Hm8IAAAAJ:lvd772isFD0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:lvd772isFD0C",
+        "authors": [
+            "and David H. C. Du Jaehoon Jeong",
+            "Yiwen Shen",
+            "Sangsoo Jeong",
+            "Sejun Lee",
+            "Hwanseok Jeong",
+            "Tae Oh",
+            "Taejoon Park",
+            "Muhammad Usman Ilyas",
+            "Sang Hyuk Son"
+        ],
+        "pub_source": "IEEE Transactions on Intelligent Transportation Systems",
+        "pub_date": ""
+    },
+    {
+        "title": "Blackberry Structure and Anti-Malware Analysis",
+        "id": "bj7Hm8IAAAAJ:GFxP56DSvIMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=bj7Hm8IAAAAJ:GFxP56DSvIMC",
+        "authors": [
+            "Emily Cummins",
+            "Bill Stackpole",
+            "Tae Oh"
+        ],
+        "pub_source": "",
+        "pub_date": ""
+    }
+]

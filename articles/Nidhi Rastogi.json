@@ -1,0 +1,693 @@
+[
+    {
+        "title": "Comprehensive Analysis of Consistency and Robustness of Machine Learning Models in Malware Detection",
+        "id": "zZnJdNUAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Sreenitha Kasarapu",
+            "Dipkamal Bhusal",
+            "Nidhi Rastogi",
+            "Sai Manoj Pudukotai Dinakarrao"
+        ],
+        "pub_source": "Proceedings of the Great Lakes Symposium on VLSI 2024",
+        "pub_date": "2024/6/12",
+        "description": "Cybersecurity in recent years has gained significant attention, especially with the deployment of millions of devices across the globe and increased threats targeted toward embedded systems. Many cyber threats have been detected and emerged in the last few years. Among multiple threats, malware attacks are considered to be prominent due to the impact on users and systems. Considering the evolving trend of such cyber threats, traditional statistical and heuristic threat detection approaches have observed the need to be more effective and efficient. Machine learning (ML)-based cyber-threat detection has been actively researched and adopted across academia and industry to address the challenges of evolving cyber threats. However, ML-based neural network techniques though efficient, are considered black boxes due to the lack of sufficient information that can be used to deduce their functionality. On the\u00a0\u2026"
+    },
+    {
+        "title": "SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory",
+        "id": "zZnJdNUAAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "Dipkamal Bhusal",
+            "Md Tanvirul Alam",
+            "Le Nguyen",
+            "Ashim Mahara",
+            "Zachary Lightcap",
+            "Rodney Frazier",
+            "Romy Fieblinger",
+            "Grace Long Torales",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "arXiv preprint arXiv:2405.20441",
+        "pub_date": "2024/5/30",
+        "description": "Large Language Models (LLMs) have demonstrated potential in cybersecurity applications but have also caused lower confidence due to problems like hallucinations and a lack of truthfulness. Existing benchmarks provide general evaluations but do not sufficiently address the practical and applied aspects of LLM performance in cybersecurity-specific tasks. To address this gap, we introduce the SECURE (Security Extraction, Understanding \\& Reasoning Evaluation), a benchmark designed to assess LLMs performance in realistic cybersecurity scenarios. SECURE includes six datasets focussed on the Industrial Control System sector to evaluate knowledge extraction, understanding, and reasoning based on industry-standard sources. Our study evaluates seven state-of-the-art models on these tasks, providing insights into their strengths and weaknesses in cybersecurity contexts, and offer recommendations for improving LLMs reliability as cyber advisory tools."
+    },
+    {
+        "title": "PASA: Attack Agnostic Unsupervised Adversarial Detection using Prediction & Attribution Sensitivity Analysis",
+        "id": "zZnJdNUAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Dipkamal Bhusal",
+            "Md Tanvirul Alam",
+            "Monish K Veerabhadran",
+            "Michael Clifford",
+            "Sara Rampazzi",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "Accepted: IEEE Euro S&P 2024",
+        "pub_date": "2024/4/12",
+        "description": "Deep neural networks for classification are vulnerable to adversarial attacks, where small perturbations to input samples lead to incorrect predictions. This susceptibility, combined with the black-box nature of such networks, limits their adoption in critical applications like autonomous driving. Feature-attribution-based explanation methods provide relevance of input features for model predictions on input samples, thus explaining model decisions. However, we observe that both model predictions and feature attributions for input samples are sensitive to noise. We develop a practical method for this characteristic of model prediction and feature attribution to detect adversarial samples. Our method, PASA, requires the computation of two test statistics using model prediction and feature attribution and can reliably detect adversarial samples using thresholds learned from benign samples. We validate our lightweight approach by evaluating the performance of PASA on varying strengths of FGSM, PGD, BIM, and CW attacks on multiple image and non-image datasets. On average, we outperform state-of-the-art statistical unsupervised adversarial detectors on CIFAR-10 and ImageNet by 14\\% and 35\\% ROC-AUC scores, respectively. Moreover, our approach demonstrates competitive performance even when an adversary is aware of the defense mechanism."
+    },
+    {
+        "title": "POSTER: MORPH: Towards Automated Concept Drift Adaptation for Malware Detection",
+        "id": "zZnJdNUAAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Md Tanvirul Alam",
+            "Romy Fieblinger",
+            "Ashim Mahara",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "NDSS 2024-arXiv preprint arXiv:2401.12790",
+        "pub_date": "2024/1/23"
+    },
+    {
+        "title": "Emergent (In) Security of Multi-Cloud Environments",
+        "id": "zZnJdNUAAAAJ:BqipwSGYUEgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:BqipwSGYUEgC",
+        "authors": [
+            "Morgan Reece",
+            "Theodore Lander Jr",
+            "Sudip Mittal",
+            "Nidhi Rastogi",
+            "Josiah Dykstra",
+            "Andy Sampson"
+        ],
+        "pub_source": "ACSAC 2024:arXiv preprint arXiv:2311.01247",
+        "pub_date": "2023/11/2",
+        "description": "As organizations increasingly use cloud services to host their IT infrastructure, there is a need to share data among these cloud hosted services and systems. A majority of IT organizations have workloads spread across different cloud service providers, growing their multi-cloud environments. When an organization grows their multi-cloud environment, the threat vectors and vulnerabilities for their cloud systems and services grow as well. The increase in the number of attack vectors creates a challenge of how to prioritize mitigations and countermeasures to best defend a multi-cloud environment against attacks. Utilizing multiple industry standard risk analysis tools, we conducted an analysis of multi-cloud threat vectors enabling calculation and prioritization for the identified mitigations and countermeasures. The prioritizations from the analysis showed that authentication and architecture are the highest risk areas of threat vectors. Armed with this data, IT managers are able to more appropriately budget cybersecurity expenditure to implement the most impactful mitigations and countermeasures."
+    },
+    {
+        "title": "Looking beyond IoCs: Automatically extracting attack patterns from external CTI",
+        "id": "zZnJdNUAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Md Tanvirul Alam",
+            "Dipkamal Bhusal",
+            "Youngja Park",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses",
+        "pub_date": "2023/10/16",
+        "description": "Public and commercial organizations extensively share cyberthreat intelligence (CTI) to prepare systems to defend against existing and emerging cyberattacks. However, traditional CTI has primarily focused on tracking known threat indicators such as IP addresses and domain names, which may not provide long-term value in defending against evolving attacks. To address this challenge, we propose to use more robust threat intelligence signals called attack patterns. LADDER is a knowledge extraction framework that can extract text-based attack patterns from CTI reports at scale. The framework characterizes attack patterns by capturing the phases of an attack in Android and enterprise networks and systematically maps them to the MITRE ATT&CK pattern framework. LADDER can be used by security analysts to determine the presence of attack vectors related to existing and emerging threats, enabling them to\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "SoK: Modeling Explainability in Security Analytics for Interpretability, Trustworthiness, and Usability",
+        "id": "zZnJdNUAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Dipkamal Bhusal",
+            "Rosalyn Shin",
+            "Ajay Ashok Shewale",
+            "Monish Kumar Manikya Veerabhadran",
+            "Michael Clifford",
+            "Sara Rampazzi",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "Proceedings of the 18th International Conference on Availability, Reliability and Security",
+        "pub_date": "2023/8/29",
+        "description": "Interpretability, trustworthiness, and usability are key considerations in high-stake security applications, especially when utilizing deep learning models. While these models are known for their high accuracy, they behave as black boxes in which identifying important features and factors that led to a classification or a prediction is difficult. This can lead to uncertainty and distrust, especially when an incorrect prediction results in severe consequences. Thus, explanation methods aim to provide insights into the inner working of deep learning models. However, most explanation methods provide inconsistent explanations, have low fidelity, and are susceptible to adversarial manipulation, which can reduce model trustworthiness. This paper provides a comprehensive analysis of explainable methods and demonstrates their efficacy in three distinct security applications: anomaly detection using system logs, malware\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Towards A Quantitative Risk Assessment of Physical Adversarial Attacks in the AV Perception Domain",
+        "id": "zZnJdNUAAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "Trishna Chakraborty",
+            "S Hrushikesh Bhupathiraju",
+            "Dipkamal Bhusal",
+            "Michael Clifford",
+            "Sara Rampazzi",
+            "Nidhi Rastogi",
+            "Qi Alfred Chen"
+        ],
+        "pub_source": "32nd USENIX Security Symposium",
+        "pub_date": "2023/8"
+    },
+    {
+        "title": "Systemic Risk and Vulnerability Analysis of Multi-cloud Environments",
+        "id": "zZnJdNUAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Morgan Reece",
+            "Theodore Edward Lander Jr",
+            "Matthew Stoffolano",
+            "Andy Sampson",
+            "Josiah Dykstra",
+            "Sudip Mittal",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "arXiv preprint arXiv:2306.01862",
+        "pub_date": "2023/6/2",
+        "description": "With the increasing use of multi-cloud environments, security professionals face challenges in configuration, management, and integration due to uneven security capabilities and features among providers. As a result, a fragmented approach toward security has been observed, leading to new attack vectors and potential vulnerabilities. Other research has focused on single-cloud platforms or specific applications of multi-cloud environments. Therefore, there is a need for a holistic security and vulnerability assessment and defense strategy that applies to multi-cloud platforms. We perform a risk and vulnerability analysis to identify attack vectors from software, hardware, and the network, as well as interoperability security issues in multi-cloud environments. Applying the STRIDE and DREAD threat modeling methods, we present an analysis of the ecosystem across six attack vectors: cloud architecture, APIs, authentication, automation, management differences, and cybersecurity legislation. We quantitatively determine and rank the threats in multi-cloud environments and suggest mitigation strategies.",
+        "citations": 4
+    },
+    {
+        "title": "Graph-based Approach for Studying Spread of Radical Online Sentiment",
+        "id": "zZnJdNUAAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Le Nguyen",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "WebConf'23 Companion: Companion Proceedings of the ACM Web Conference 2023",
+        "pub_date": "2023/4/30",
+        "description": "The spread of radicalization through the Internet is a growing problem. We are witnessing a rise in online hate groups, inspiring the impressionable and vulnerable population towards extreme actions in the real world. In this paper, we study the spread of hate sentiments in online forums by collecting 1,973 long comment threads (30+ comments per thread) posted on dark-web forums and containing a combination of benign posts and radical comments on the Islamic religion. This framework allows us to leverage network analysis tools to investigate sentiment propagation through a social network. By combining sentiment analysis, social network analysis, and graph theory, we aim to shed light on the propagation of hate speech in online forums and the extent to which such speech can influence individuals. The results of the intra-thread analysis suggests that sentiment tends to cluster within comment threads, with\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Cyber Threat Intelligence for SOC Analysts",
+        "id": "zZnJdNUAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Md Tanvirul Alam"
+        ],
+        "pub_source": "1st Workshop on SOC Operations and Construction (WOSOC) 2023, Network and Distributed System Security 2023",
+        "pub_date": "2023/3"
+    },
+    {
+        "title": "G-VARS: Towards Personalized Risk Assessments by Analyzing Gun Violence Susceptibility with Personal Knowledge Graphs.",
+        "id": "zZnJdNUAAAAJ:M05iB0D1s5AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:M05iB0D1s5AC",
+        "authors": [
+            "Dipkamal Bhusal",
+            "Sara Rampazzi",
+            "Michael Clifford",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "IEEE Data Eng. Bull.",
+        "pub_date": "2023"
+    },
+    {
+        "title": "Persona Aware Strategy Towards Building a Comprehensive Semantic Data Layer: A Resource for Marginalized US STEM Graduate Students",
+        "id": "zZnJdNUAAAAJ:ldfaerwXgEUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:ldfaerwXgEUC",
+        "authors": [
+            "Neha Keshan"
+        ],
+        "pub_source": "Rensselaer Polytechnic Institute",
+        "pub_date": "2023",
+        "description": "The long-standing problem of \u201cwhat comes next,\u201d ie the problem of finding an ideal career path, has been a barrier in attracting STEM students from marginalized communities. A Survey of Earned Doctorates conducted by NSF shows the disproportionate completion rates between marginalized and non-marginalized communities: An approximately 75% increase in science and engineering doctorates as compared to an approximately 5% increase among marginalized community members in the US in 2016. This dissertation aims at understanding and mitigating the factors affecting marginalized students in STEM. In this context, marginalized communities are defined as groups of students excluded based on ethnicity, race, linguistics, gender identity, age, physical ability, and/or immigration status."
+    },
+    {
+        "title": "TINKER: A framework for Open source Cyberthreat Intelligence",
+        "id": "zZnJdNUAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Sharmishtha Dutta",
+            "Alex Gittens",
+            "Mohammad Zaki",
+            "Charu Aggarwal"
+        ],
+        "pub_source": "21st International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom'22)",
+        "pub_date": "2022/10",
+        "description": "Threat intelligence on malware attacks and campaigns is increasingly being shared with other security experts for a cost or for free. Other security analysts use this intelligence to inform them of indicators of compromise, attack techniques, and preventative actions. Security analysts prepare threat analysis reports after investigating an attack, an emerging cyber threat, or a recently discovered vulnerability. Collectively known as cyber threat intelligence (CTI), the reports are typically in an unstructured format and, therefore, challenging to integrate seamlessly into existing intrusion detection systems. This paper proposes a framework that uses the aggregated CTI for analysis and defense at scale. The information is extracted and stored in a structured format using knowledge graphs such that the semantics of the threat intelligence can be preserved and shared at scale with other security analysts. Specifically, we\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "Explaining RADAR features for detecting spoofing attacks in Connected Autonomous Vehicles",
+        "id": "zZnJdNUAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Sara Rampazzi",
+            "Michael Clifford",
+            "Miriam Heller",
+            "Matthew Bishop",
+            "Karl Levitt"
+        ],
+        "pub_source": "AAAI'22 - Explainable Agency in Artificial Intelligence 2022",
+        "pub_date": "2022/3/1",
+        "description": "Connected autonomous vehicles (CAVs) are anticipated to have built-in AI systems for defending against cyberattacks. Machine learning (ML) models form the basis of many such AI systems. These models are notorious for acting like black boxes, transforming inputs into solutions with great accuracy, but no explanations support their decisions. Explanations are needed to communicate model performance, make decisions transparent, and establish trust in the models with stakeholders. Explanations can also indicate when humans must take control, for instance, when the ML model makes low confidence decisions or offers multiple or ambiguous alternatives. Explanations also provide evidence for post-incident forensic analysis. Research on explainable ML to security problems is limited, and more so concerning CAVs. This paper surfaces a critical yet under-researched sensor data \\textit{uncertainty} problem for training ML attack detection models, especially in highly mobile and risk-averse platforms such as autonomous vehicles. We present a model that explains \\textit{certainty} and \\textit{uncertainty} in sensor input -- a missing characteristic in data collection. We hypothesize that model explanation is inaccurate for a given system without explainable input data quality. We estimate \\textit{uncertainty} and mass functions for features in radar sensor data and incorporate them into the training model through experimental evaluation. The mass function allows the classifier to categorize all spoofed inputs accurately with an incorrect class label.",
+        "citations": 8
+    },
+    {
+        "title": "Adversarial Patterns: Building Robust Android Malware Classifiers",
+        "id": "zZnJdNUAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Dipkamal Bhusal",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "Under Review",
+        "pub_date": "2022/2",
+        "description": "Machine learning models are increasingly being adopted across various fields, such as medicine, business, autonomous vehicles, and cybersecurity, to analyze vast amounts of data, detect patterns, and make predictions or recommendations. In the field of cybersecurity, these models have made significant improvements in malware detection. However, despite their ability to understand complex patterns from unstructured data, these models are susceptible to adversarial attacks that perform slight modifications in malware samples, leading to misclassification from malignant to benign. Numerous defense approaches have been proposed to either detect such adversarial attacks or improve model robustness. These approaches have resulted in a multitude of attack and defense techniques and the emergence of a field known as `adversarial machine learning.' In this survey paper, we provide a comprehensive review of adversarial machine learning in the context of Android malware classifiers. Android is the most widely used operating system globally and is an easy target for malicious agents. The paper first presents an extensive background on Android malware classifiers, followed by an examination of the latest advancements in adversarial attacks and defenses. Finally, the paper provides guidelines for designing robust malware classifiers and outlines research directions for the future.",
+        "citations": 1
+    },
+    {
+        "title": "CyNER: A Python Library for Cybersecurity Named Entity Recognition",
+        "id": "zZnJdNUAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Md Tanvirul Alam",
+            "Dipkamal Bhusal",
+            "Youngja Park",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "",
+        "pub_date": "2022/2",
+        "description": "Open Cyber threat intelligence (OpenCTI) information is available in an unstructured format from heterogeneous sources on the Internet. We present CyNER, an open-source python library for cybersecurity named entity recognition (NER). CyNER combines transformer-based models for extracting cybersecurity-related entities, heuristics for extracting different indicators of compromise, and publicly available NER models for generic entity types. We provide models trained on a diverse corpus that users can readily use. Events are described as classes in previous research - MALOnt2.0 (Christian et al., 2021) and MALOnt (Rastogi et al., 2020) and together extract a wide range of malware attack details from a threat intelligence corpus. The user can combine predictions from multiple different approaches to suit their needs. The library is made publicly available.",
+        "citations": 24
+    },
+    {
+        "title": "Program Committee of EuroS&P 2022",
+        "id": "zZnJdNUAAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "David Evans",
+            "AbdelRahman Abdou",
+            "Alessandro Acquisti",
+            "Aloni Cohen",
+            "Andreas Haeberlen",
+            "Andrei Sabelfeld",
+            "Brad Reaves",
+            "Britta Hale",
+            "Catherine Meadows",
+            "Catuscia Palamidessi",
+            "Christina Poepper",
+            "Cristiana Santos",
+            "Cristina Nita-Rotaru",
+            "David Murakami Wood",
+            "Eleftheria Makri",
+            "Eyal Ronen",
+            "Frank Pallas",
+            "Frank Piessens",
+            "Giancarlo Pellegrino",
+            "Gianluca Stringhini",
+            "Giovanni Cherubin",
+            "Guillermo Suarez-Tangil",
+            "Joseph Calandrino",
+            "Julia Hesse",
+            "Kari Kostiainen",
+            "Katharina Kohls",
+            "Kendra Albert",
+            "Kenny Paterson",
+            "Manuel Egele",
+            "Marco Guarnieri",
+            "Mario Fritz",
+            "Martin Johns",
+            "Mathy Vanhoef",
+            "Michael Veale",
+            "Musard Balliu",
+            "Nick Nikiforakis",
+            "Nidhi Rastogi",
+            "Pedro Moreno-Sanchez",
+            "Seda Ourses",
+            "Simson Garfinkel",
+            "Steve Kremer",
+            "Susan Landau",
+            "Tariq Elahi",
+            "Thyla van der Merwe",
+            "Tianhao Wang",
+            "Tom Chothia",
+            "Ulrike Meyer",
+            "Veelasha Moonsamy",
+            "Vera Rimmer",
+            "Yuan Tian"
+        ],
+        "pub_source": "",
+        "pub_date": "2022",
+        "description": "Program Committee of Euro S&P 2022 Toggle navigation IEEE Computer Society Digital \nLibrary Jobs Tech News Resource Center Press Room Advertising About Us IEEE IEEE \nComputer Society IEEE Computer Society Digital Library My Subscriptions Magazines \nJournals Conference Proceedings Institutional Subscriptions IEEE IEEE Computer Society \nMore Jobs Tech News Resource Center Press Room Advertising About Us Cart All \nAdvanced Search Conference Cover Image Download 1.Home 2.Proceedings 3.euros&p \n2022 Program Committee of Euro S&P 2022 2022, pp. xiii-xiv, DOI Bookmark: 10.1109/EuroSP53844.2022.00008 \nKeywords Authors 00o8oNNoNura>\".:c,-acrai='\".::::JuOJU1CoE:::J\"UioQ.E>U1craOJQ.e:::Ju.J-5\"u.Ju.Ju.JNNoNProgramCommitteeof \nEuroS&P 2022ProgramCommitteeCo-ChairsDavid Evans,UniversityofVirginia, \nUSACarmela Troncoso,EPFL,\u2026"
+    },
+    {
+        "title": "Incorporating External Knowledge into Food Representation and Recommendation",
+        "id": "zZnJdNUAAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "Diya Li"
+        ],
+        "pub_source": "Rensselaer Polytechnic Institute",
+        "pub_date": "2022",
+        "description": "Food is our most basic need, the very stuff of life. Food is fundamental for human beings and eating well is essential to good health. Food computing has attracted great interest from various fields. Representing food as vectors can capture hidden information gleaned from massive datasets and help further studies on food. As an important task of food computing, food recommendation can be a means to help people find food they might love, and also to help them eat more healthily. Acting as a special case of food recommendation, food substitution is an open task to explore potential food alternatives. Structured knowledge furnishes an in-depth understanding of the world. At the same time, knowledge graphs (KG) that represent structural relations between entities have become an increasingly popular research tool towards enabling artificial intelligence. KGs can boost the studies in food computing by its structural\u00a0\u2026"
+    },
+    {
+        "title": "Semantic Technologies for Clinically Relevant Personal Health Applications",
+        "id": "zZnJdNUAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "Ching-Hua Chen",
+            "Daniel Gruen",
+            "Jonathan Harris",
+            "James Hendler",
+            "Deborah L. McGuinness",
+            "Marco Monti",
+            "Nidhi Rastogi",
+            "Oshani Seneviratne",
+            "Mohammed J. Zaki"
+        ],
+        "pub_source": "Personal Health Informatics",
+        "pub_date": "2022",
+        "description": "Despite recent advances in digital health solutions and machine learning, personal health applications that aim to modify health behaviors are still limited in their ability to offer more personalized decision support. Moreover, while many personal health applications cater to general health and well-being, there remains a significant opportunity to increase the clinical relevance of the insights being generated. This chapter describes the motivation for, and illustrative applications of, semantic technologies for enabling clinically relevant personal health applications. We present two use cases that demonstrate how semantic web technologies, in combination with machine learning and data mining methods, can be used to provide personalized insights to support behaviors that are consistent with nutritional guidelines for people with diabetes.",
+        "citations": 1
+    },
+    {
+        "title": "Bias Impact Analysis of AI in Consumer Mobile Health Technologies: Legal, Technical, and Policy",
+        "id": "zZnJdNUAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Kristine Gloria",
+            "Nidhi Rastogi",
+            "Stevie DeGroff"
+        ],
+        "pub_source": "Under Review",
+        "pub_date": "2022",
+        "description": "Today's large-scale algorithmic and automated deployment of decision-making systems threatens to exclude marginalized communities. Thus, the emergent danger comes from the effectiveness and the propensity of such systems to replicate, reinforce, or amplify harmful existing discriminatory acts. Algorithmic bias exposes a deeply entrenched encoding of a range of unwanted biases that can have profound real-world effects that manifest in domains from employment, to housing, to healthcare. The last decade of research and examples on these effects further underscores the need to examine any claim of a value-neutral technology. This work examines the intersection of algorithmic bias in consumer mobile health technologies (mHealth). We include mHealth, a term used to describe mobile technology and associated sensors to provide healthcare solutions through patient journeys. We also include mental and behavioral health (mental and physiological) as part of our study. Furthermore, we explore to what extent current mechanisms - legal, technical, and or normative - help mitigate potential risks associated with unwanted bias in intelligent systems that make up the mHealth domain. We provide additional guidance on the role and responsibilities technologists and policymakers have to ensure that such systems empower patients equitably.",
+        "citations": 1
+    },
+    {
+        "title": "Contextual Security: A Critical Shift in Performing Threat Intelligence",
+        "id": "zZnJdNUAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "USENIX Enigma 2022",
+        "pub_date": "2022",
+        "description": "An automatic, contextual, and trustworthy explanation of cyberattacks is the immediate goalpost for security experts. Achieving it requires deep knowledge of the system under attack, the attack itself, real-time data describing environmental conditions. It also requires the ability to communicate in a way that the explanation evokes experts to trust. Automating the process of communicating contextual and trustworthy explanations of cyberattacks should also handle various attack models, although it adds to the existing challenge. However, a scientific approach to addressing explanations can generate a system that can offer the desired explanations under most use cases. In this presentation, we discuss the limitations of existing machine learning-based security solutions and how contextual security solutions can address them. We share specific use cases to support our argument. We present our research on contextual\u00a0\u2026"
+    },
+    {
+        "title": "An Ontology-driven Knowledge Graph for Android Malware",
+        "id": "zZnJdNUAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Ryan Christian",
+            "Sharmishtha Dutta",
+            "Youngja Park",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2021/11/12",
+        "description": "We present MalONT2.0 -- an ontology for malware threat intelligence [4]. New classes (attack patterns, infrastructural resources to enable attacks, malware analysis to incorporate static analysis, and dynamic analysis of binaries) and relations have been added following a broadened scope of core competency questions. MalONT2.0 allows researchers to extensively capture all requisite classes and relations that gather semantic and syntactic characteristics of an android malware attack. This ontology forms the basis for the malware threat intelligence knowledge graph, MalKG, which we exemplify using three different, non-overlapping demonstrations. Malware features have been extracted from openCTI reports on android threat intelligence shared on the Internet and written in the form of unstructured text. Some of these sources are blogs, threat intelligence reports, tweets, and news articles. The smallest unit of\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Malware knowledge graph generation",
+        "id": "zZnJdNUAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Sharmishtha Dutta",
+            "Nidhi Rastogi",
+            "Destin Yee",
+            "Chuqiao Gu",
+            "Qicheng Ma"
+        ],
+        "pub_source": "arXiv preprint arXiv:2102.05583",
+        "pub_date": "2021/2/10",
+        "description": "Cyber threat and attack intelligence information are available in non-standard format from heterogeneous sources. Comprehending them and utilizing them for threat intelligence extraction requires engaging security experts. Knowledge graphs enable converting this unstructured information from heterogeneous sources into a structured representation of data and factual knowledge for several downstream tasks such as predicting missing information and future threat trends. Existing large-scale knowledge graphs mainly focus on general classes of entities and relationships between them. Open-source knowledge graphs for the security domain do not exist. To fill this gap, we've built \\textsf{TINKER} - a knowledge graph for threat intelligence (\\textbf{T}hreat \\textbf{IN}telligence \\textbf{K}nowl\\textbf{E}dge g\\textbf{R}aph). \\textsf{TINKER} is generated using RDF triples describing entities and relations from tokenized unstructured natural language text from 83 threat reports published between 2006-2021. We built \\textsf{TINKER} using classes and properties defined by open-source malware ontology and using hand-annotated RDF triples. We also discuss ongoing research and challenges faced while creating \\textsf{TINKER}.",
+        "citations": 4
+    },
+    {
+        "title": "DANTE: Predicting Insider Threat using LSTM on system logs",
+        "id": "zZnJdNUAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Qicheng Ma",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
+        "pub_date": "2020/12",
+        "description": "Insider threat is one of the most pernicious threat vectors to information and communication technologies (ICT) across the world due to the elevated level of trust and access that an insider is afforded. This type of threat can stem from both malicious users with a motive as well as negligent users who inadvertently reveal details about trade secrets, company information, or even access information to malignant players. In this paper, we propose a novel approach that uses system logs to detect insider behavior using a special recurrent neural network (RNN) model. Ground truth is established using DANTE and used as baseline for identifying anomalous behavior. For this, system logs are modeled as a natural language sequence and patterns are extracted from these sequences. We create workflows of sequences of actions that follow a natural language logic and control flow. These flows are assigned various\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Applying Learning and Semantics for Personalized Food Recommendations\u22c6",
+        "id": "zZnJdNUAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Oshani Seneviratne",
+            "Yu Chen",
+            "Jon Harris",
+            "Diya Li",
+            "Ananya Subburathinam",
+            "Ruisi Jian",
+            "Megan Goulet",
+            "Yuheng Zhou",
+            "Osama Minhas",
+            "Jared Okun",
+            "Aaron Hill",
+            "Ching-Hua Chen",
+            "Dan Gruen"
+        ],
+        "pub_source": "International Semantic Web Conference (ISWC 2020)",
+        "pub_date": "2020/10",
+        "description": "We demonstrate the use of a health coach platform that recommends personalized selections of food recipes to diabetic patients. On our platform, we implement a question-answering service that allows questions such as\" suggest a good breakfast\" to be queried; a response with a list of recipes that is applicable to the patient vis-\u00e0-vis their health condition and food preferences is generated. Our research is intended to support the personalization and explainability of recommended food options using a novel application of guideline recommendations encoded in a semantic format. Our platform includes a repository of over half a million recipes and their nutritional content, where each recipe is also represented as a vector-based embedding that has been derived from the recipe's ingredient list and preparation instructions [4].",
+        "citations": 2
+    },
+    {
+        "title": "MalONT: An ontology for malware threat intelligence",
+        "id": "zZnJdNUAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Sharmishtha Dutta",
+            "Mohammed J Zaki",
+            "Alex Gittens",
+            "Charu Aggarwal"
+        ],
+        "pub_source": "SIGKDD Conference on Knowledge Discovery and Data Mining - International Workshop on Deployable Machine Learning for Security Defense",
+        "pub_date": "2020/8/24",
+        "description": "Malware threat intelligence uncovers deep information about malware, threat actors, and their tactics, Indicators of Compromise, and vulnerabilities in different platforms from scattered threat sources. This collective information can guide decision making in cyber defense applications utilized by security operation centers. In this paper, we introduce an open-source malware ontology, MALOnt that allows the structured extraction of information and knowledge graph generation, especially for threat intelligence. The knowledge graph that uses MALOnt is instantiated from a corpus comprising hundreds of annotated malware threat reports. The knowledge graph enables the analysis, detection, classification, and attribution of cyber threats caused by malware. We also demonstrate the annotation process using MALOnt on exemplar threat intelligence reports. A work in progress, this research is part of a larger effort\u00a0\u2026",
+        "citations": 53
+    },
+    {
+        "title": "Personal Health Knowledge Graphs for Patients",
+        "id": "zZnJdNUAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Mohammed J Zaki"
+        ],
+        "pub_source": "The Knowledge Graph Conference- Personal Health Knowledge Graphs",
+        "pub_date": "2020/3/31",
+        "description": "Existing patient data analytics platforms fail to incorporate information that has context, is personal, and topical to patients. For a recommendation system to give a suitable response to a query or to derive meaningful insights from patient data, it should consider personal information about the patient's health history, including but not limited to their preferences, locations, and life choices that are currently applicable to them. In this review paper, we critique existing literature in this space and also discuss the various research challenges that come with designing, building, and operationalizing a personal health knowledge graph (PHKG) for patients.",
+        "citations": 17
+    },
+    {
+        "title": "FoodKG Enabled Questions and Answers Application",
+        "id": "zZnJdNUAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Steven Haussmann",
+            "Yu Chen",
+            "Oshani Seneviratne",
+            "Nidhi Rastogi",
+            "James Codella",
+            "Ching Hua Chen",
+            "Deborah L McGuinness",
+            "Mohammed Zaki"
+        ],
+        "pub_source": "",
+        "pub_date": "2019/10/1",
+        "description": "We demonstrate the usage of our FoodKG [3], a food knowledge graph designed to assist in food recommendation. This resource, which brings together recipes, nutrition, food taxonomies, and links into existing ontologies, is used to power a cognitive agent that performs knowledge-base question answering, primarily to help improve peoples' diets by guiding them towards better foods. The system demonstration involves three categories of questions: simple queries for nutritional information, comparisons of nutrients between dierent foods, and constraintbased queries to nd recipes matching certain criteria."
+    },
+    {
+        "title": "Applying Learning and Semantics for Personalized Food Recommendations",
+        "id": "zZnJdNUAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Ching-Hua Chen Hill",
+            "Dan Gruen"
+        ],
+        "pub_source": "",
+        "pub_date": "2019",
+        "description": "We demonstrate the use of a health coach platform that recommends personalized selections of food recipes to diabetic patients. On our platform, we implement a question-answering service that allows questions such as \u201csuggest a good breakfast\u201d to be queried; a response with a list of recipes that is applicable to the patient vis-a-vis their health condition and food preferences is generated. Our research is intended to support the personalization and explainability of recommended food options using a novel application of guideline recommendations encoded in a semantic format. Our platform includes a repository of over half a million recipes and their nutritional content, where each recipe is also represented as a vector-based embedding that has been derived from the recipe\u2019s ingredient list and preparation instructions [4]. Demo Link-https://foodkg. github. io/demo. html"
+    },
+    {
+        "title": "FoodKG Enabled Q&A Application.",
+        "id": "zZnJdNUAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Steven Haussmann",
+            "Yu Chen",
+            "Oshani Seneviratne",
+            "Nidhi Rastogi",
+            "James Codella",
+            "Ching-Hua Chen",
+            "Deborah L McGuinness",
+            "Mohammed J Zaki"
+        ],
+        "pub_source": "2019 International Semantic Web Conference",
+        "pub_date": "2019",
+        "description": "We demonstrate the usage of our FoodKG [3], a food knowledge graph designed to assist in food recommendation. This resource, which brings together recipes, nutrition, food taxonomies, and links into existing ontologies, is used to power a cognitive agent that performs knowledge-base question answering, primarily to help improve peoples' diets by guiding them towards better foods. The system demonstration involves three categories of questions: simple queries for nutritional information, comparisons of nutrients between diffierent foods, and constraint-based queries to find recipes matching certain criteria.",
+        "citations": 5
+    },
+    {
+        "title": "Exploring Information Centrality for Intrusion Detection in Large Networks",
+        "id": "zZnJdNUAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "19th Annual Security Conference - Cybersecurity Workforce Development Challenges",
+        "pub_date": "2018/3/26",
+        "description": "Modern networked systems are constantly under threat from systemic attacks. There has been a massive upsurge in the number of devices connected to a network as well as the associated traffic volume. This has intensified the need to better understand all possible attack vectors during system design and implementation. Further, it has increased the need to mine large data sets, analyzing which has become a daunting task. It is critical to scale monitoring infrastructures to match this need, but a difficult goal for the small and medium organization. Hence, there is a need to propose novel approaches that address the big data problem in security. Information Centrality (IC) labels network nodes with better vantage points for detecting network-based anomalies as central nodes and uses them for detecting a category of attacks called systemic attacks. The main idea is that since these central nodes already see a lot of information flowing through the network, they are in a good position to detect anomalies before other nodes. This research first dives into the importance of using graphs in understanding the topology and information flow. We then introduce the usage of information centrality, a centrality-based index, to reduce data collection in existing communication networks. Using IC-identified central nodes can accelerate outlier detection when armed with a suitable anomaly detection technique. We also come up with a more efficient way to compute Information centrality for large networks. Finally, we demonstrate that central nodes detect anomalous behavior much faster than other non-central nodes, given the anomalous behavior is systemic in\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A network intrusion detection system (NIDS) based on information centrality to identify systemic cyber attacks in large systems",
+        "id": "zZnJdNUAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "Rensselaer Polytechnic Institute",
+        "pub_date": "2018",
+        "description": "Modern networked systems are in perpetual need of novel tools that can diagnose suspicious activities and thwart cyber attacks arising from diverse threats and vulnerabilities. The massive upsurge in the number of devices connected to a network and associated traffic volume, as well as an addition of new, complex technologies to existing ones have intensified the need to have a deep understanding of systems. From a security perspective, we are noticing that the user behavior is bordering high on anxiety, which is further increasing the quantum measure of data collection before rightfully understanding the legitimate need behind it. Mirroring this is the rapid inclusion of security experts as part of the core team that designs and builds platforms and networks. This increases the awareness of potential attack vectors that may impact these systems. However, data analytics (not necessarily security-related) has further\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Tech in Crisis: Filter Bubbles and Fake News",
+        "id": "zZnJdNUAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Dominic DiFranzo",
+            "Kristine Gloria-Garcia",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "ACM XRDS",
+        "pub_date": "2017/4/5",
+        "citations": 170
+    },
+    {
+        "title": "Managing crises, one text at a time",
+        "id": "zZnJdNUAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Rahul R Divekar",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "XRDS: Crossroads, The ACM Magazine for Students",
+        "pub_date": "2017/4/5",
+        "description": "Crisis Text Line CTO Jason Bennett shares his insight on the technology behind this helpline using text to reach people in need of counseling during times of crisis."
+    },
+    {
+        "title": "Online censorship, cyberattacks, and access to information",
+        "id": "zZnJdNUAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "XRDS: Crossroads, The ACM Magazine for Students",
+        "pub_date": "2017/4/5",
+        "description": "Dan Keyserling, head of communications at Jigsaw, an incubator within Alphabet, shares how technology can help address global challenges, especially on the front lines of press freedom, political repression, and human rights."
+    },
+    {
+        "title": "Tech for crises",
+        "id": "zZnJdNUAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Rahul R Divekar",
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "XRDS: Crossroads, The ACM Magazine for Students 23 (3), 8-9",
+        "pub_date": "2017/4/5",
+        "description": "9 XRDS\u2022 SPRING 2017\u2022 VOL. 23\u2022 NO. 3 9 serve people in need have the resources and expertise they would need. The interview with Dan Keyserling looks into Jigsaw, an Alphabet subsidiary that serves as a project incubator. Jigsaw is pursuing several promising projects that aim to ensure freedom of speech, especially for independent journalists, analyze acts of extremism in order to prevent more of them, and investigate financial records to expose government corruption. Finally, financial support is a key ingredient in all such efforts. Carolin Silbernagl addresses questions about betterplace. org, an online platform designed to help smaller organizations attract donors. The lesson is that technology need not always be so sophisticated; anyone who wants to make a difference can do so in his or her own way, as we learn here from Bennett, Keyserling, and Silbernagl."
+    },
+    {
+        "title": "Serving people in crisis to make the world a better place",
+        "id": "zZnJdNUAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Rahul R Divekar"
+        ],
+        "pub_source": "XRDS: Crossroads, The ACM Magazine for Students",
+        "pub_date": "2017/4/5",
+        "description": "Carolin Silbernagl, who leads betterplace lab, the research arm of betterplace.org in Berlin, Germany, is a social technologist, as well as co-founder of dotHIV. Here, she shares what it takes to make betterplace, the first mover in the area of digital social startups in Germany."
+    },
+    {
+        "title": "12th International Conference on Cyber Warfare and Security ICCWS 2017",
+        "id": "zZnJdNUAAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Adam R Bryant",
+            "Robert F Mills",
+            "Juan Lopez Jr"
+        ],
+        "pub_source": "",
+        "pub_date": "2017/3/2"
+    },
+    {
+        "title": "WhatsApp security and role of metadata in preserving privacy",
+        "id": "zZnJdNUAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Nidhi Rastogi",
+            "James Hendler"
+        ],
+        "pub_source": "12th International Conference on Cyber Warfare and Security 6817, 269-275",
+        "pub_date": "2017/3/2",
+        "description": "WhatsApp messenger is arguably the most popular mobile app available on all smart-phones. Over one billion people worldwide for free messaging, calling, and media sharing use it. In April 2016, WhatsApp switched to a default endto-end encrypted service. This means that all messages (SMS), phone calls, videos, audios, and any otherform of information exchanged cannot be read by any unauthorized entity since WhatsApp version 2.16. 2 (released April 2016). In this paper we analyze the WhatsApp messaging platform and critique its security architecture along with a focus on its privacy preservation mechanisms. We report that the Signal Protocol, which forms the basis of WhatsApp end-to-end encryption, does offer protection against forward secrecy, and MITM to a large extent. Finally, we argue that simply encrypting the end-to-end channel cannot preserve privacy. The metadata can reveal just enough information to show connections between people, their patterns, and personal information. This paper elaborates on the security architecture of WhatsApp and performs an analysis on the various protocols used. This enlightens us on the status quo of the app security and what further measures can be used to fill existing gaps without compromising the usability. We start by describing the following (i) important concepts that need to be understood to properly understand security,(ii) the security architecture,(iii) security evaluation,(iv) followed by a summary of our work. Some of the important concepts that we cover in this paper before evaluating the architecture are-end-to-end encryption (E2EE), signal protocol, and curve25519. The\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "Graph Analytics for anomaly detection in homogeneous wireless networks-A Simulation Approach",
+        "id": "zZnJdNUAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Nidhi Rastogi",
+            "James Hendler"
+        ],
+        "pub_source": "arXiv preprint arXiv:1701.06823",
+        "pub_date": "2017/1/24",
+        "description": "In the Internet of Things (IoT) devices are exposed to various kinds of attacks when connected to the Internet. An attack detection mechanism that understands the limitations of these severely resource-constrained devices is necessary. This is important since current approaches are either customized for wireless networks or for the conventional Internet with heavy data transmission. Also, the detection mechanism need not always be as sophisticated. Simply signaling that an attack is taking place may be enough in some situations, for example in NIDS using anomaly detection. In graph networks, central nodes are the nodes that bear the most influence in the network. The purpose of this research is to explore experimentally the relationship between the behavior of central nodes and anomaly detection when an attack spreads through a network. As a result, we propose a novel anomaly detection approach using this unique methodology which has been unexplored so far in communication networks. Also, in the experiment, we identify presence of an attack originating and propagating throughout a network of IoT using our methodology.",
+        "citations": 3
+    },
+    {
+        "title": "The art and design of autonomous machines",
+        "id": "zZnJdNUAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Adrian Scoic\u0103"
+        ],
+        "pub_source": "XRDS: Crossroads, The ACM Magazine for Students",
+        "pub_date": "2016/12/15",
+        "description": "Dr. Raffaello D'Andrea speaks at length about what it takes to build commercially viable robotic systems, the future of autonomous machines, the role humans will play in this future, and how we can best prepare for it."
+    },
+    {
+        "title": "Security and privacy of performing data analytics in the cloud: a three-way handshake of technology, policy, and management",
+        "id": "zZnJdNUAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Nidhi Rastogi",
+            "Marie Joan Kristine Gloria",
+            "James Hendler"
+        ],
+        "pub_source": "Journal of Information Policy",
+        "pub_date": "2015/3/1",
+        "description": "The cloud platform has paved the road for faster set up of infrastructure and related goals for both startups and established organizations. However, concerns around security and privacy of user information have suppressed its wider acceptance and an all-encompassing deployment, especially in business-critical applications. We explore security and privacy concerns that occur when data is exchanged between a cloud service provider (CSP) and a primary cloud user. Our thesis asserts that \u201ctechnology, policy, and sound management\u201d of the cloud service in collaboration have the potential to provide a holistic solution, one that none of the subsets of the approaches can offer separately.",
+        "citations": 30
+    },
+    {
+        "title": "Secure scheme during vertical handoff in integrated heterogeneous wireless systems",
+        "id": "zZnJdNUAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Nidhi Rastogi",
+            "Qing-An Zeng",
+            "Xiaolong Li"
+        ],
+        "pub_source": "2011 Wireless Telecommunications Symposium (WTS)",
+        "pub_date": "2011/4/13",
+        "description": "An integrated heterogeneous wireless system (IHWS) combines different wireless access technologies together and provides a user with ubiquitous network connectivity. Security in such network is extremely critical for its successful implementation. However, each underlying network in an IHWS has a unique security scheme that cannot be adopted by other networks. Several security algorithms that have been proposed, aim at achieving inter-network security but fail to address mobility and scalability requirements of the network. In this paper, we propose a novel security scheme that addresses the limitations in the existing security protocols for IHWS networks and prove its efficiency through extensive simulations.",
+        "citations": 2
+    },
+    {
+        "title": "A Novel Security Scheme during Vertical Handoff in Integrated Heterogeneous Wireless Networks",
+        "id": "zZnJdNUAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=zZnJdNUAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Nidhi Rastogi"
+        ],
+        "pub_source": "University of Cincinnati",
+        "pub_date": "2009",
+        "description": "In an integrated heterogeneous wireless network (IHWN), a user can connect itself to different types of networks on anytime, anywhere basis. Any of the following networks: cellular networks, WLANs, and ad hoc and sensor networks can constitute an IHWN network. The user is free to roam within networks seamlessly based on his needs and network availability. However, the security concerns associated with the IHWN count for some of the challenges involved in its implementation. These concerns combined with the different security requirements of various constituent wireless networks may have made security a serious issue. Seamless transfer of user\u2019s credentials is a major requirement when considering security during vertical handoff between two different types of networks. A security scheme that can fit all types of networks is difficult to propose. However, a reasonable architecture that keeps both security and user convenience into consideration can be designed. The existing security schemes fail to address mobility and scalability requirements. Considering the importance of these aspects in securing a global network, we propose a novel security scheme that uses two different security algorithms depending on the number of vertical handoffs made by the mobile node after the first authentication in the home network. It makes use of existing network elements, such as RADIUS and Diameter protocols and supports scalability, mobility, and secure key exchange. We also introduce a time factor which is pre-set between the home network and foreign network. It delegates the task of authorizing subsequent requests from mobile node to connect\u00a0\u2026"
+    }
+]

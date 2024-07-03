@@ -1,0 +1,335 @@
+"Exploring the Effectiveness of Electrotactile Feedback for Data Visualization for Blind and Visually Impaired Users"
+R Milallos, T Oh, RL Peiris - International Conference on Human-Computer Interaction, 2024
+
+"ECMAC: Edge-Assisted Cluster-Based MAC Protocol in Software-Defined Vehicular Networks"
+Y Shen, J Jeong, J Jun, T Oh, Y Baek - IEEE Transactions on Vehicular Technology, 2024
+
+"An Exploratory Study on the Usability and Features of Indoor Navigation Apps for the Blind and Visually Impaired"
+PK Chelladurai, R Milallos, R Mathew, A Nair, RL Peiris, T Oh - Proceedings of the 2nd International Conference of the ACM Greek SIGCHI Chapter, 2023
+
+"Investigating the User Experience and Challenges of Food Delivery Applications for the Blind and Visually Impaired"
+A Nair, R Mathew, Z Mei, R Milallos, PK Chelladurai, T Oh - Proceedings of the 25th International Conference on Mobile Human-Computer Interaction, 2023
+
+"Authentication Challenges in Customer Service Settings Experienced by Deaf and Hard of Hearing People"
+S Andrew, SL Watson, T Oh, GW Tigwell - Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, 2023
+
+"Haptic-Captioning: Using Audio-Haptic Interfaces to Enhance Speaker Indication in Real-Time Captions for Deaf and Hard-of-Hearing Viewers"
+Y Wang, Z Li, PK Chelladurai, W Dannels, T Oh, RL Peiris - Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 2023
+
+"Context-aware navigation protocol for safe driving in vehicular cyber-physical systems"
+BA Mugabarigira, Y Shen, J Jeong, T Oh, H Jeong - IEEE transactions on intelligent transportation systems, 2022
+
+"An exploratory study on the low adoption rate of smart canes"
+R Milallos, V Tibdewal, Y Wang, A Udegbe, T Oh - International Conference on Human-Computer Interaction, 2022
+
+"Understanding disability services toward improving graduate student support"
+M Tamjeed, V Tibdewal, M Russell, M McQuaid, T Oh, K Shinohara - Proceedings of the 23rd International ACM SIGACCESS Conference on Computers and Accessibility, 2021
+
+"” Would the smart cane benefit me?”: Perceptions of the Visually Impaired towards Smart Canes"
+R Milallos, V Tibdewal, Y Wang, AO Udegbe, T Oh - Proceedings of the 23rd International ACM SIGACCESS Conference on Computers and Accessibility, 2021
+
+"A comprehensive survey on vehicular networking for safe and efficient driving in smart transportation: A focus on systems, protocols, and applications"
+HH Jeong, YC Shen, JP Jeong, TT Oh - Vehicular Communications 31, 100349, 2021
+
+"A comprehensive survey on vehicular networks for smart roads: A focus on IP-based approaches"
+J Jeong, Y Shen, T Oh, S Céspedes, N Benamar, M Wetterwald, J Härri - Vehicular Communications 29, 100334, 2021
+
+"Distributed unit security for 5G base-stations using blockchain"
+W Crowe, TT Oh - 2020 International Conference on Software Security and Assurance (ICSSA), 2020
+
+"A review of literature on accessibility and authentication techniques"
+S Andrew, S Watson, T Oh, GW Tigwell - Proceedings of the 22nd International ACM SIGACCESS Conference on Computers …, 2020
+
+"Understanding the hand and wrist strains caused by smart cane handles with haptic notification"
+J Pariti, T Oh - Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility, 2020
+
+"Continual 4g cell coverage for the nodes during a gateway failure using batman-adv"
+WB Crowe, TT Oh - 2020 international conference on information and communication technology convergence (ICTC), 2020
+
+"Machine-To-Machine Ad-Hoc Networking with a Redundant 4G LTE Gateway Using BATMAN-Adv"
+W Crowe, T Oh - Proceedings of the 21st Annual Conference on Information Technology Education, 2020
+
+"Intelligent mobility cane-lessons learned from evaluation of obstacle notification system using a haptic approach"
+J Pariti, V Tibdewal, T Oh - Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems, 2020
+
+"Dynamic sensor orientation unit for the intelligent mobility cane"
+M Suresh, J Pariti, T Oh - Proceedings of the 21st International ACM SIGACCESS Conference on Computers and Accessibility, 2019
+
+"Dynamic Sensor Orientation Prototype for the Intelligent Mobility Cane"
+M Suresh, J Parti, T Oh - ACM ASSETS 2019, 2019
+
+"Network Analytics for Detecting Malware Activities in the Network Infrastructure"
+W Crowe, T Oh - IEEE International Conference on Software Security and Assurance, 2019
+
+"Dynamic Internet of Things Malware Detection Using Machine Learning"
+J Myers, T Oh, O Filback, W McDonnell, Y Ajmera, T., Kim, J Kim - IEEE International Conference on Software Security and Assurance, 2018
+
+"IoT security vulnerability: A case study of a Web camera"
+Y Seralathan, TT Oh, S Jadhav, J Myers, JP Jeong, YH Kim, JN Kim - 2018 20th International Conference on Advanced Communication Technology (ICACT), 2018
+
+"IP Wireless Access in Vehicular Environments (IPWAVE): Problem Statement and Use Cases. draft-ietf-ipwave-vehicular-networking"
+J Jeong - November, 2018
+
+"Analysis and impact of IoT malware"
+J Margolis, T Oh, S Jadhav, J Jeong, YH Kim, JN Kim - Proceedings of the 18th Annual Conference on Information Technology Education, 2017
+
+"The Roles of IT Education in IoT and Data Analytics"
+T Oh, S Chung, B Lunt, R McMahon, R Rutherfoord - Proceedings of the 18th Annual Conference on Information Technology Education, 2017
+
+"STMAC: Spatio-temporal coordination-based MAC protocol for driving safety in urban vehicular networks"
+J Jeong, Y Shen, S Jeong, S Lee, H Jeong, T Oh, T Park, MU Ilyas, SH Son, DH Du - IEEE Transactions on Intelligent Transportation Systems, 2017
+
+"An in-depth analysis of the mirai botnet"
+J Margolis, TT Oh, S Jadhav, YH Kim, JN Kim - 2017 International Conference on Software Security and Assurance (ICSSA), 2017
+
+"Toms: Tcp context migration scheme for efficient data services in vehicular networks"
+J Jeong, YC Sheny, JP Jeong, TT Ohx, J Jun, HS Sang - 2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA), 2017
+
+"Design and implementation of vehicular network simulator for data forwarding scheme evaluation"
+BA Mugabarigira, Y Shen, J Jeong, T Oh, SH Son - 2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA), 2017
+
+"An assistive system for android malware analysis to increase malware analysis efficiency"
+S Jadhav, TT Oh, JP Jeong, YH Kim, JN Kim - 2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA), 2017
+
+"Fast randomized singular value thresholding for low-rank optimization"
+T Oh, Y Matsushita, Y Tai, IS Kweon - IEEE transactions on pattern analysis and machine intelligence, 2017
+
+"Protocols and applications in vehicular sensor networks for driving safety, driving efficiency, and data services"
+JP Jeong, TT Oh, S Pack, A Petrescu - International Journal of Distributed Sensor Networks 13 (2), 1550147717692458, 2017
+
+"The Roles of IT Education in IoT and Data Analytics"
+RRT( Oh, S Chung, B Lunt, R McMahon - SIGITE 2017, 2017
+
+"Analysis and Impact of IoT Malware"
+YKaJKJ Margolis, T Oh, S Jadhav, J Jeong - ACM Special Interest Group for Information Technology Education (ACM SIGITE 2017), 2017
+
+"An In-Depth Analysis of the Mirai Botnet"
+YKaJKJ Margolis, T Oh, S Jadhav - IEEE International Conference on Software Security and Assurance (ICSSA 2017), 2017
+
+"Android malware analysis and conceptual malware mitigation approaches"
+T Oh, HS Moon, YH Kim, JN Kim, B Stackpole - 2016 International Conference on Information and Communication Technology Convergence (ICTC), 2016
+
+"Security Requirements Embedded in MS Programs in Information Sciences and Technologies"
+JW Kang, Q Yu, EP Holden, TH Oh - Proceedings of the 17th Annual Conference on Information Technology …, 2016
+
+"Android malware detection using category-based machine learning classifiers"
+HA Alatwi, T Oh, E Fokoue, B Stackpole - Proceedings of the 17th Annual Conference on Information Technology Education, 2016
+
+"Survey on protocols and applications for vehicular sensor networks"
+J Jeong, T Oh - International Journal of Distributed Sensor Networks 12 (8), 1550147716662948, 2016
+
+"SMART GRID SECURITY"
+T OH, S MISHRA, C HOCHGRAF - Security and Privacy in Smart Grids, 2016
+
+"CASD: a framework of context-awareness safety driving in vehicular networks"
+Y Shen, J Jeong, T Oh, SH Son - 2016 30th International Conference on Advanced Information Networking and Applications Workshops (WAINA), 2016
+
+"DCMAC: data-oriented cluster-based media access control protocol for vehicular networks"
+J Lee, J Jeong, T Oh, J Jun, SH Son - 2016 30th International Conference on Advanced Information Networking and Applications Workshops (WAINA), 2016
+
+"MEMS Based tracking devices for measuring distribution hazards on the product and package"
+C Ge, T Oh, D Johnson, A Mondragon, K Lei - Journal of applied packaging research, 2016
+
+"SAINT: Self-Adaptive Interactive Navigation Tool for Cloud-Based Vehicular Traffic Optimization"
+aDDJ Jeong, J Harrison, E Lee, T Oh - IEEE Transactions on Vehicular Technology, 2016
+
+"Intelligent Mobility Cane for People Who are Blind and Deaf-Blind: A Multidisciplinary Design Project That Assists People With Disabilities"
+PI Victoria, G Behm, T Oh - ASME International Mechanical Engineering Congress and Exposition, 2015
+
+"Android botnet categorization and family detection based on behavioural and signature data"
+T Oh, S Jadhav, YH Kim - 2015 International Conference on Information and Communication Technology Convergence (ICTC), 2015
+
+"Developing automated input generator for android mobile device to evaluate malware behavior"
+SN Dutia, TH Oh, YH Oh - Proceedings of the 4th Annual ACM Conference on Research in Information Technology, 2015
+
+"Mobile device penetration testing framework and platform for the mobile device security course"
+S Jadhav, T Oh, YH Kim, JN Kim - 2015 17th International Conference on Advanced Communication Technology (ICACT), 2015
+
+"Cloud-based android botnet malware detection system"
+S Jadhav, S Dutia, K Calangutkar, T Oh, YH Kim, JN Kim - 2015 17th International Conference on Advanced Communication Technology (ICACT), 2015
+
+"Layer 2 Protocol to Protect the IP Communication in a Wired Ethernet Network"
+R Campillo, T Oh - ASIA 2015, 2015
+
+"An autonomous driving system for unknown environments using a unified map"
+I Shim, J Choi, S Shin, T Oh, U Lee, B Ahn, D Choi, DH Shim, I Kweon - IEEE transactions on intelligent transportation systems, 2015
+
+"The Security Implications of IMSI Catchers"
+B Harmat, J Stroud, D Johnson, B Stackpole, S Perez-hardy, R Mislan, T Oh - SAM ’15 International Conference on Security and Management, 2015
+
+"Analyzing User Awareness of Privacy Data Leak in Mobile Applications"
+Y Kim, T Oh, J Kim - Mobile Information Systems, 2015
+
+"Analysis of mobile malware based on user awareness"
+Y Kim, B Stackpole, T Oh - Proceedings of the 3rd annual conference on Research in information …, 2014
+
+"Automated Input Generator for Android Applications"
+SN Dutia, Y Kim, T Oh - 9th Annual Symposium on Information Assurance (ASIA’14), 2014
+
+"Virtual Malware Analysis Framework for Android in an Educational Environment"
+K Paugh, R Mislan, TH Oh - ICCWS2014-9th International Conference on Cyber Warfare & Security: ICCWS 2014, 2014
+
+"Tactile Captions: Augmenting Visual Captions"
+R Kushalnagar, V Ramachandran, T Oh - Computers Helping People with Special Needs: 14th International Conference, ICCHP 2014, Paris, France, July 9-11, 2014, Proceedings, Part I 14, 2014
+
+"Effect of Web Caching on Load Time"
+E Tang, T Oh, Y Choi, S Subramaniam - International Journal of Emerging Technologies in Learning (iJET), 2013
+
+"Teaching in amazon EC2"
+C Gonzalez, C Border, T Oh - Proceedings of the 14th annual ACM SIGITE conference on Information technology education, 2013
+
+"Implementation of sha-1 and ecdsa for vehicular ad-hoc network using ns-3"
+S Nacy, T Oh, J Leone - Proceedings of the 2nd annual conference on Research in information technology, 2013
+
+"Parallel gain enhancement technique for switched-capacitor circuits"
+H Venkatram, B Hershberg, T Oh, M Gande, K Sobue, K Hamashita, U Moon - Proceedings of the IEEE 2013 Custom Integrated Circuits Conference, 2013
+
+"Android Malware Behaviors for Android Platform Using Interactive Labs"
+C Szost, K Sharma, T Oh, W Stackpole, RP Mislan - 8th Annual Symposium on Information Assurance (ASIA’13), 2013
+
+"Mobile Security and Vulnerability Exploitation as a Flipped Classroom Security Curriculum"
+RP Mislan, T Oh - 8th Annual Symposium on Information Assurance (ASIA’13), 2013
+
+"Android malware analysis platform"
+B Andrews, T Oh, W Stackpole - Proc. of 8th Annual Symposium on Information Assurance (ASIA’13), 2013
+
+"Malware analysis for android operating"
+K Sharma, T Dand, T Oh, W Stackpole - 8th Annual Symposium on Information assurance, 2013
+
+"Power Efficient Analog-to-Digital Converters using Both Voltage and Time Domain Information"
+T Oh - Oregon State University, 2013
+
+"Nomadic Device Based CRL Acquisition Method for Vehicular Networks"
+H Kim, TH Oh, YB Choi - International Conference on Hybrid Information Technology, 2012
+
+"Implementation of Security Encryption in MANET Reactive Routing Protocols using OPNET"
+T Jeffery, Ja Oh - OPNETWORK 2012, 2012
+
+"Best security practices for android, blackberry, and iOS"
+T Oh, B Stackpole, E Cummins, C Gonzalez, R Ramachandran, S Lim - 2012 The First IEEE Workshop on Enabling Technologies for Smartphone and Internet of Things (ETSIoT), 2012
+
+"Metadata based forensic analysis of digital information in the web"
+U Salama, V Varadharajan, M Hitchens - Annual Symposium of Information Assurance and Secure Knowledge Management, Albany, NY, 2012
+
+"Anti-Spyware Analysis for iOS: An Evaluation of Current Security Products Available for iOS"
+C Gonzalez, B Stackpole, T Oh - ASIA and SKM 2012, 2012
+
+"Android Anti-Virus Analysis"
+R Ramachandran, T Oh, W Stackpole - ASIA and SKM 2012, 2012
+
+"Enhanced SAR ADC energy efficiency from the early reset merged capacitor switching algorithm"
+J Guerber, H Venkatram, T Oh, U Moon - 2012 IEEE International Symposium on Circuits and Systems (ISCAS), 2012
+
+"Correlated jitter sampling for jitter cancellation in pipelined TDC"
+T Oh, H Venkatram, J Guerber, U Moon - 2012 IEEE International Symposium on Circuits and Systems (ISCAS), 2012
+
+"Class A+ amplifier with controlled positive feedback for discrete-time signal processing circuits"
+H Venkatram, T Oh, J Guerber, U Moon - 2012 IEEE International Symposium on Circuits and Systems (ISCAS), 2012
+
+"Supply chain management for generic and military applications using RFID"
+TH Oh, YB Choi, R Chouta - International Journal of Future Generation Communication and Networking, 2012
+
+"Solar energy outlook in Malaysia"
+SC Chua, TH Oh - Renewable and Sustainable Energy Reviews 16 (1), 564-574, 2012
+
+"Blackberry Structure and Anti-Malware Analysis"
+BSaTOE Cummins - ASIA & SKM 2012, 2012
+
+"RFID and Supply Chain Management: Generic and Military Applications"
+TH Oh, YB Choi, R Chouta - International Conference on Future Generation Communication and Networking, 2011
+
+"Green progress and prospect in Malaysia"
+SC Chua, TH Oh - Renewable and Sustainable Energy Reviews 15 (6), 2850-2861, 2011
+
+"RFID & Supply Chain Management: Generic and Military Applications"
+T Oh, Y Choi, R Chouta - International Conference of Future Generation Communication and Networking, 2011
+
+"Analysis of residue integration sampling with improved jitter immunity"
+T Oh, N Maghari, D Gubbins, U Moon - IEEE Transactions on Circuits and Systems II: Express Briefs, 2011
+
+"Effect of Web Caching on Load Time"
+YCaRCE Tang, T Oh - AHList 2011, 2011
+
+"Future Direction for a Next Generation Web"
+Y Choi, Y Choe, T Oh - AHIST 2011, 2011
+
+"Security Implication in Virtualization."
+TH Oh, S Lim, YB Choi, J Ryoo - Encyclopedia of Cryptography and Security (2nd Ed.), 2011
+
+"A taxonomy of green information and communication protocols and standards"
+J Ryoo, Y Choi - Handbook of research on green ICT: Technology, business and social perspectives, 2011
+
+"RFID Implementation and Security Issues"
+YB Choi, TH Oh, R Chouta - Information Security and Assurance: International Conference, ISA 2011, Brno, Czech Republic, August 15-17, 2011. Proceedings, 2011
+
+"Security Management Protocols and their Applications in Wireless Sensor Networks for Healthcare"
+JRaKST Oh, Y Choi - International Journal of Mobile Communications, 2011
+
+"Feasibility of virtual security laboratory for three-tiered distance education"
+YB Choi, S Lim, TH Oh - Proceedings of the 2010 ACM conference on Information technology education, 2010
+
+"Energy efficiency and carbon trading potential in Malaysia"
+TH Oh, SC Chua - Renewable and sustainable energy reviews 14 (7), 2095-2103, 2010
+
+"Two new species of Centroceras (Ceramiaceae, Rhodophyta) from KwaZulu-Natal, South Africa"
+BY Won, S Fredericq, TO Cho - European Journal of Phycology, 2010
+
+"Security issues on wireless body area network for remote healthcare monitoring"
+S Lim, TH Oh, YB Choi, T Lakshman - 2010 IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing, 2010
+
+"The Role of Green Protocols in Green Information and Communication Technologies"
+J Ryoo, Y Choi, T Oh - Handbook of Green Information and Communication Technologies, 2010
+
+"State of the art of network security perspectives in cloud computing"
+TH Oh, S Lim, YB Choi, K Park, H Lee, H Choi - Security-Enriched Urban Computing and Smart Grid: First International …, 2010
+
+"Parameters of Green IT"
+R Chouta, T Oh, J Ryoo, Y Cho - North East Decision Science Institute 2010 Annual Conference. Alexandria, VA: NEDSI, 2010
+
+"Teaching high-assurance internet protocol encryption (haipe) using opnet modeler simulation tool"
+TH Oh, S Mishra, Y Pan - Proceedings of the 10th ACM conference on SIG-information technology education, 2009
+
+"Reeling in cognitive radio: The issues of regulations and policies affecting spectrum management"
+T Oh, YB Choi, M Guthrie, K Harold, D Copeland, T Kim - Communication and Networking: International Conference, FGCN/ACN 2009, Held as Part of the Future Generation Information Technology Conference, FGIT 2009, Jeju Island, Korea, December 10-12, 2009. Proceedings, 2009
+
+"A multi-dimensional classification framework for developing context-specific Wireless Local Area Network attack taxonomies"
+J Ryoo, YB Choi, TH Oh, G Corbin - International Journal of Mobile Communications, 2009
+
+"A comprehensive readiness assessment framework for identity theft safeguards in web-based electronic government systems"
+J Ryoo, TH Oh, S Shin, YB Choi - Electronic Government, an International Journal, 2009
+
+"A 16b 10MS/s digitally self-calibrated ADC with time constant control"
+T Oh, H Lee, J Kim, H Park, K Moon, J Kim, H Lee - 2008 IEEE Custom Integrated Circuits Conference, 2008
+
+"Teaching IP Encryption and Decryption Using the OPNET Modeling and Simulation Tool"
+J Ryoo, P Altoona, T Oh - Proceedings of the 12th Colloquium for Information Systems Security Education, 2008
+
+"Security and privacy in mobile telemedicine"
+J Ryoo, YB Choi, T Oh - Mobile Telemedicine: A Computing and Networking Perspective, 2008
+
+"An Analysis of Identity Theft Safeguards in the U.S. e-Government Systems"
+J Ryoo, T Oh, Y Choi - Proceedings of the 35th Research Conference on Communication, Information, and Internet Policy (Telecommunications Policy Research Conference), 2007
+
+"Reliability and QoS in multi-protocol label switching(MPLS) networks"
+TTH Oh - S. M. U., 2001
+
+"Fault restoration and spare capacity allocation with QoS constraints for MPLS networks"
+TH Oh, TM Chen, JL Kennington - Globecom'00-IEEE. Global Telecommunications Conference. Conference Record (Cat. No. 00CH37137), 2000
+
+"Fault restoration techniques for MPLS with QoS constraints"
+TM Chen, JL Kennington, TT Oh - Tech. Rep. 00-CSE-7, Southern Methodist University, Dallas, TX, 2000
+
+"Fault restoration techniques for MPLS with QoS constraints"
+T Oh, T Chen, J Kennington - GLOBECOM, 2000
+
+"Fault Restoration Techniques for MPLS with QoS Constraints"
+JL Kennington, T Chen, T Oh - Department of Computer Science and Engineering, 2000
+
+"Reliable services in MPLS"
+TM Chen, TH Oh - IEEE Communications Magazine, 1999
+
+"Fast Self-healing ATM Networks by Adaptive selection of Backup Virtual Paths"
+T Oh, Ta Chen - IEEE Symposium in Planning & Design of Broadband Networks, 1998
+
+"An ultrastructural and immunocytochemical study of astrocytic differentiation in vitro: changes in the composition and distribution of the cellular cytoskeleton"
+PA Trimmer, PJ Reier, TH Oh, LF Eng - Journal of Neuroimmunology, 1982

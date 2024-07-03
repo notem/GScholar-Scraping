@@ -1,0 +1,914 @@
+[
+    {
+        "title": "Token-wise Influential Training Data Retrieval for Large Language Models",
+        "id": "c-gzOhwAAAAJ:uWQEDVKXjbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:uWQEDVKXjbEC",
+        "authors": [
+            "Huawei Lin",
+            "Jikai Long",
+            "Zhaozhuo Xu",
+            "Weijie Zhao"
+        ],
+        "pub_source": "arXiv preprint arXiv:2405.11724",
+        "pub_date": "2024/5/20",
+        "description": "Given a Large Language Model (LLM) generation, how can we identify which training data led to this generation? In this paper, we proposed RapidIn, a scalable framework adapting to LLMs for estimating the influence of each training data. The proposed framework consists of two stages: caching and retrieval. First, we compress the gradient vectors by over 200,000x, allowing them to be cached on disk or in GPU/CPU memory. Then, given a generation, RapidIn efficiently traverses the cached gradients to estimate the influence within minutes, achieving over a 6,326x speedup. Moreover, RapidIn supports multi-GPU parallelization to substantially accelerate caching and retrieval. Our empirical result confirms the efficiency and effectiveness of RapidIn."
+    },
+    {
+        "title": "Approximate nearest neighbor search for single instruction, multiple thread (SIMT) or single instruction, multiple data (SIMD) type processors",
+        "id": "c-gzOhwAAAAJ:35N4QoGY0k4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:35N4QoGY0k4C",
+        "authors": [
+            "W Zhao",
+            "S Tan",
+            "P Li"
+        ],
+        "pub_source": "US Patent 11,914,669",
+        "pub_date": "2024/2/27",
+        "description": "Approximate nearest neighbor (ANN) searching is a fundamental problem in computer science with numerous applications in area such as machine learning and data mining. For typical graph-based ANN methods, the searching method is executed iteratively, and the execution dependency prohibits graphics processor unit (GPU)/GPU-type processor adaptations. Presented herein are embodiments of a novel framework that decouples the searching on graph methodology into stages, in order to parallel the performance-crucial distance computation. Furthermore, in one or more embodiments, to obtain better parallelism on GPU-type components, also disclosed are novel ANN-specific optimization methods that eliminate dynamic memory allocations and trade computations for less memory consumption. Embodiments were empirically compared against other methods, and the results confirm the effectiveness."
+    },
+    {
+        "title": "GUITAR: Gradient Pruning toward Fast Neural Ranking",
+        "id": "c-gzOhwAAAAJ:SP6oXDckpogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:SP6oXDckpogC",
+        "authors": [
+            "Weijie Zhao",
+            "Shulong Tan",
+            "Ping Li"
+        ],
+        "pub_source": "arXiv preprint arXiv:2312.16828",
+        "pub_date": "2023/12/28",
+        "description": "With the continuous popularity of deep learning and representation learning, fast vector search becomes a vital task in various ranking/retrieval based applications, say recommendation, ads ranking and question answering. Neural network based ranking is widely adopted due to its powerful capacity in modeling complex relationships, such as between users and items, questions and answers. However, it is usually exploited in offline or re-ranking manners for it is time-consuming in computations. Online neural network ranking--so called fast neural ranking--is considered challenging because neural network measures are usually non-convex and asymmetric. Traditional Approximate Nearest Neighbor (ANN) search which usually focuses on metric ranking measures, is not applicable to these advanced measures. In this paper, we introduce a novel graph searching framework to accelerate the searching in the fast neural ranking problem. The proposed graph searching algorithm is bi-level: we first construct a probable candidate set; then we only evaluate the neural network measure over the probable candidate set instead of evaluating the neural network over all neighbors. Specifically, we propose a gradient-based algorithm that approximates the rank of the neural network matching score to construct the probable candidate set; and we present an angle-based heuristic procedure to adaptively identify the proper size of the probable candidate set. Empirical results on public data confirm the effectiveness of our proposed algorithms."
+    },
+    {
+        "title": "Machine unlearning in gradient boosting decision trees",
+        "id": "c-gzOhwAAAAJ:UxriW0iASnsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:UxriW0iASnsC",
+        "authors": [
+            "Huawei Lin",
+            "Jun Woo Chung",
+            "Yingjie Lao",
+            "Weijie Zhao"
+        ],
+        "pub_source": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+        "pub_date": "2023/8/6",
+        "description": "Various machine learning applications take users' data to train the models. Recently enforced legislation requires companies to remove users' data upon requests, i.e.,the right to be forgotten. In the context of machine learning, the trained model potentially memorizes the training data. Machine learning algorithms have to be able to unlearn the user data that are requested to delete to meet the requirement. Gradient Boosting Decision Trees (GBDT) is a widely deployed model in many machine learning applications. However, few studies investigate the unlearning on GBDT. This paper proposes a novel unlearning framework for GBDT. To the best of our knowledge, this is the first work that considers machine unlearning on GBDT. It is not straightforward to transfer the unlearning methods of DNN to GBDT settings. We formalized the machine unlearning problem and its relaxed version. We propose an unlearning\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Building K-Anonymous User Cohorts with Consecutive Consistent Weighted Sampling (CCWS)",
+        "id": "c-gzOhwAAAAJ:1sJd4Hv_s6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:1sJd4Hv_s6UC",
+        "authors": [
+            "Xinyi Zheng",
+            "Weijie Zhao",
+            "Xiaoyun Li",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "pub_date": "2023/7/19",
+        "description": "To retrieve personalized campaigns and creatives while protecting user privacy, digital advertising is shifting from member-based identity to cohort-based identity. Under such identity regime, an accurate and efficient cohort building algorithm is desired to group users with similar characteristics. In this paper, we propose a scalable K-anonymous cohort building algorithm called consecutive consistent weighted sampling (CCWS). The proposed method combines the spirit of the (p-powered) consistent weighted sampling (CWS) and hierarchical clustering, so that the K-anonymity is ensured by enforcing a lower bound on the size of cohorts. Evaluations on a LinkedIn dataset consisting of >70M users and ads campaigns demonstrate that CCWS achieves substantial improvements over several hashing-based methods including sign random projections (SignRP), minwise hashing (MinHash), as well as the vanilla CWS."
+    },
+    {
+        "title": "Asymmetric Hashing for Fast Ranking via Neural Network Measures",
+        "id": "c-gzOhwAAAAJ:b0M2c_1WBrUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:b0M2c_1WBrUC",
+        "authors": [
+            "Khoa D Doan",
+            "Shulong Tan",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "pub_date": "2023/7/19",
+        "description": "Fast item ranking is an important task in recommender systems. In previous works, graph-based Approximate Nearest Neighbor (ANN) approaches have demonstrated good performance on item ranking tasks with generic searching/matching measures (including complex measures such as neural network measures). However, since these ANN approaches must go through the neural measures several times during ranking, the computation is not practical if the neural measure is a large network. On the other hand, fast item ranking using existing hashing-based approaches, such as Locality Sensitive Hashing (LSH), only works with a limited set of measures, such as cosine and Euclidean distance, but not with general search measures such as neural networks. Given an arbitrary searching measure, previous learning-to-hash approaches are also not suitable to solve the fast item ranking problem since they can\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Blockwise Feature Interaction in Recommendation Systems",
+        "id": "c-gzOhwAAAAJ:dshw04ExmUIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:dshw04ExmUIC",
+        "authors": [
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "arXiv preprint arXiv:2306.15881",
+        "pub_date": "2023/6/28",
+        "description": "Feature interactions can play a crucial role in recommendation systems as they capture complex relationships between user preferences and item characteristics. Existing methods such as Deep & Cross Network (DCNv2) may suffer from high computational requirements due to their cross-layer operations. In this paper, we propose a novel approach called blockwise feature interaction (BFI) to help alleviate this issue. By partitioning the feature interaction process into smaller blocks, we can significantly reduce both the memory footprint and the computational burden. Four variants (denoted by P, Q, T, S, respectively) of BFI have been developed and empirically compared. Our experimental results demonstrate that the proposed algorithms achieves close accuracy compared to the standard DCNv2, while greatly reducing the computational overhead and the number of parameters. This paper contributes to the development of efficient recommendation systems by providing a practical solution for improving feature interaction efficiency."
+    },
+    {
+        "title": "Pb-Hash: Partitioned b-bit Hashing",
+        "id": "c-gzOhwAAAAJ:nb7KW1ujOQ8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:nb7KW1ujOQ8C",
+        "authors": [
+            "Ping Li",
+            "Weijie Zhao"
+        ],
+        "pub_source": "arXiv preprint arXiv:2306.15944",
+        "pub_date": "2023/6/28",
+        "description": "Many hashing algorithms including minwise hashing (MinHash), one permutation hashing (OPH), and consistent weighted sampling (CWS) generate integers of  bits. With  hashes for each data vector, the storage would be  bits; and when used for large-scale learning, the model size would be , which can be expensive. A standard strategy is to use only the lowest  bits out of the  bits and somewhat increase , the number of hashes. In this study, we propose to re-use the hashes by partitioning the  bits into  chunks, e.g., . Correspondingly, the model size becomes , which can be substantially smaller than the original . Our theoretical analysis reveals that by partitioning the hash values into  chunks, the accuracy would drop. In other words, using  chunks of  bits would not be as accurate as directly using  bits. This is due to the correlation from re-using the same hash. On the other hand, our analysis also shows that the accuracy would not drop much for (e.g.,) . In some regions, Pb-Hash still works well even for  much larger than 4. We expect Pb-Hash would be a good addition to the family of hashing methods/applications and benefit industrial practitioners. We verify the effectiveness of Pb-Hash in machine learning tasks, for linear SVM models as well as deep learning models. Since the hashed data are essentially categorical (ID) features, we follow the standard practice of using embedding tables for each hash. With Pb-Hash, we need to design an effective strategy to combine  embeddings. Our study provides an empirical evaluation on four pooling schemes: concatenation, max\u00a0\u2026"
+    },
+    {
+        "title": "Fast neural ranking on bipartite graph indices",
+        "id": "c-gzOhwAAAAJ:KxtntwgDAa4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:KxtntwgDAa4C",
+        "authors": [
+            "S Tan",
+            "W Zhao",
+            "P Li"
+        ],
+        "pub_source": "US Patent App. 17/555,316",
+        "pub_date": "2023/6/22",
+        "description": "Presented are systems and methods that construct BipartitE Graph INdices (BEGIN) embodiments for fast neural ranking. BEGIN embodiments comprise two types of nodes: sampled queries and base or searching objects. In one or more embodiments, edges connecting these nodes are constructed by using a neural network ranking measure. These embodiments extend traditional search-on-graph methods and lend themselves to fast neural ranking. Experimental results demonstrate the effectiveness and efficiency of such embodiments."
+    },
+    {
+        "title": "Practice with Graph-based ANN Algorithms on Sparse Data: Chi-square Two-tower model, HNSW, Sign Cauchy Projections",
+        "id": "c-gzOhwAAAAJ:P5F9QuxV20EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:P5F9QuxV20EC",
+        "authors": [
+            "Ping Li",
+            "Weijie Zhao",
+            "Chao Wang",
+            "Qi Xia",
+            "Alice Wu",
+            "Lijun Peng"
+        ],
+        "pub_source": "arXiv preprint arXiv:2306.07607",
+        "pub_date": "2023/6/13",
+        "description": "Sparse data are common. The traditional ``handcrafted'' features are often sparse. Embedding vectors from trained models can also be very sparse, for example, embeddings trained via the ``ReLu'' activation function. In this paper, we report our exploration of efficient search in sparse data with graph-based ANN algorithms (e.g., HNSW, or SONG which is the GPU version of HNSW), which are popular in industrial practice, e.g., search and ads (advertising). We experiment with the proprietary ads targeting application, as well as benchmark public datasets. For ads targeting, we train embeddings with the standard ``cosine two-tower'' model and we also develop the ``chi-square two-tower'' model. Both models produce (highly) sparse embeddings when they are integrated with the ``ReLu'' activation function. In EBR (embedding-based retrieval) applications, after we the embeddings are trained, the next crucial task is the approximate near neighbor (ANN) search for serving. While there are many ANN algorithms we can choose from, in this study, we focus on the graph-based ANN algorithm (e.g., HNSW-type). Sparse embeddings should help improve the efficiency of EBR. One benefit is the reduced memory cost for the embeddings. The other obvious benefit is the reduced computational time for evaluating similarities, because, for graph-based ANN algorithms such as HNSW, computing similarities is often the dominating cost. In addition to the effort on leveraging data sparsity for storage and computation, we also integrate ``sign cauchy random projections'' (SignCRP) to hash vectors to bits, to further reduce the memory cost and speed up the ANN\u00a0\u2026"
+    },
+    {
+        "title": "On the convergence of decentralized adaptive gradient methods",
+        "id": "c-gzOhwAAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Xiangyi Chen",
+            "Belhal Karimi",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "Asian Conference on Machine Learning",
+        "pub_date": "2023/4/13",
+        "description": "Adaptive gradient methods including Adam, AdaGrad, and their variants have been very successful for training deep learning models, such as neural networks. Meanwhile, given the need for distributed computing, distributed optimization algorithms are rapidly becoming a focal point. With the growth of computing power and the need for using machine learning models on mobile devices, the communication cost of distributed training algorithms needs careful consideration. In this paper, we introduce novel convergent decentralized adaptive gradient methods and rigorously incorporate adaptive gradient methods into decentralized training procedures. Specifically, we propose a general algorithmic framework that can convert existing adaptive gradient methods to their decentralized counterparts. In addition, we thoroughly analyze the convergence behavior of the proposed algorithmic framework and show that if a given adaptive gradient method converges, under some specific conditions, then its decentralized counterpart is also convergent. We illustrate the benefit of our generic decentralized framework on prototype methods, AMSGrad and AdaGrad.",
+        "citations": 15
+    },
+    {
+        "title": "Proximity graph maintenance for fast online nearest neighbor search",
+        "id": "c-gzOhwAAAAJ:CHSYGLWDkRkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:CHSYGLWDkRkC",
+        "authors": [
+            "S Tan",
+            "XU Zhaozhuo",
+            "W Zhao",
+            "Z Zhixin",
+            "P Li"
+        ],
+        "pub_source": "US Patent App. 17/408,146",
+        "pub_date": "2023/3/9",
+        "description": "2022-03-24 Assigned to BAIDU USA LLC reassignment BAIDU USA LLC ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS). Assignors: LI, PING, TAN, SHULONG, XU, ZHAOZHUO, Zhao, Weijie, ZHOU, Zhixin"
+    },
+    {
+        "title": "Norm adjusted proximity graph for fast inner product retrieval",
+        "id": "c-gzOhwAAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "S Tan",
+            "XU Zhaozhuo",
+            "W Zhao",
+            "H Fei",
+            "Z Zhixin",
+            "P Li"
+        ],
+        "pub_source": "US Patent App. 17/676,066",
+        "pub_date": "2023/2/2",
+        "description": "2022-03-23 Assigned to BAIDU USA LLC reassignment BAIDU USA LLC ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS). Assignors: ZHOU, Zhixin, TAN, SHULONG, FEI, HONGLIANG, LI, PING, XU, ZHAOZHUO, Zhao, Weijie"
+    },
+    {
+        "title": "Feature Fusion Network for Personalized Online Advertising Systems",
+        "id": "c-gzOhwAAAAJ:abG-DnoFyZgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:abG-DnoFyZgC",
+        "authors": [
+            "Weijie Zhao",
+            "Peng Yang",
+            "Dong Li",
+            "Xing Shen",
+            "Lin Liu",
+            "Ping Li"
+        ],
+        "pub_source": "2022 IEEE International Conference on Big Data (Big Data)",
+        "pub_date": "2022/12/17",
+        "description": "Sponsored online advertising delivers many billions of revenues for online ads publishers. The ads systems take userinput query keywords and display ads that are relevant to the query. the task of click-through rate (CTR) prediction aims to estimate the likelihood of a user clicking on the ads, which has become one of the core goals in the ads system. In order to further improve the CTR, user portraits are also considered as an input to make personalized ads display and recommendations, in the current deep learning CTR training platform. The naive combination of user space (~ 10 9 ) and feature space (~ 10] 12  however, would yield a 10 21  dimensional space. It is not only infeasible to feed the 10 21  parameters into the embedding layer with any off-the-shelf storage, but also impractical to train the network in such massive-scale dimensional space. In this paper, we design a novel CTR prediction framework for\u00a0\u2026"
+    },
+    {
+        "title": "FeatureBox: Feature engineering on GPUs for massive-scale ads systems",
+        "id": "c-gzOhwAAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "Weijie Zhao",
+            "Xuewu Jiao",
+            "Xinsheng Luo",
+            "Jingxue Li",
+            "Belhal Karimi",
+            "Ping Li"
+        ],
+        "pub_source": "2022 IEEE International Conference on Big Data (Big Data)",
+        "pub_date": "2022/12/17",
+        "description": "Deep learning has been widely deployed for online ads systems to predict click-through rate (CTR). Practitioners frequently re-train CTR models to test their new extracted features. As the CTR model training relies on a large number of raw input data logs, the feature extraction step takes a significant portion of the training time. In this paper, we propose FeatureBox, a novel end-to-end training framework that pipelines the feature extraction and the training on GPU servers to save the intermediate I/O of the feature extraction. We rewrite computation-intensive feature extraction operators as GPU operators and leave the memory-intensive operator on CPUs. We introduce a layer-wise operator scheduling algorithm to schedule these heterogeneous operators. We present a light-weight GPU memory management algorithm that supports dynamic GPU memory allocation with minimal overhead. We experimentally\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "PaddleBox: Communication-Efficient TeraByte-Scale Model Training Framework for Online Advertising",
+        "id": "c-gzOhwAAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Weijie Zhao",
+            "Xuewu Jiao",
+            "Mingqing Hu",
+            "Xiaoyun Li",
+            "Xiangyu Zhang",
+            "Ping Li"
+        ],
+        "pub_source": "2022 IEEE International Conference on Big Data (Big Data)",
+        "pub_date": "2022/12/17",
+        "description": "Click-through rate (CTR) prediction is one of the most crucial components in the online advertising industry. In order to produce a personalized CTR prediction, an industry-level CTR prediction model commonly takes a high-dimensional (\u223c 10 12 ) sparse vector (that is encoded from query keywords, user portraits, etc.) as input. As a result, the model requires Terabyte scale parameters to embed the high-dimensional input. Hierarchical distributed GPU parameter server has been developed at Baidu to enable GPU with limited memory to train the massive network by leveraging CPU main memory and SSDs as secondary storage. In this work, we identify two major challenges in the existing GPU training framework for massive-scale ad models and propose a collection of optimizations to tackle these challenges: (a) the GPU, CPU, SSD rapidly communicate with each other during the training. The connections\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Constrained Approximate Similarity Search on Proximity Graph",
+        "id": "c-gzOhwAAAAJ:EUQCXRtRnyEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:EUQCXRtRnyEC",
+        "authors": [
+            "Weijie Zhao",
+            "Shulong Tan",
+            "Ping Li"
+        ],
+        "pub_source": "arXiv preprint arXiv:2210.14958",
+        "pub_date": "2022/10/26",
+        "description": "Search engines and recommendation systems are built to efficiently display relevant information from those massive amounts of candidates. Typically a three-stage mechanism is employed in those systems: (i) a small collection of items are first retrieved by (e.g.,) approximate near neighbor search algorithms; (ii) then a collection of constraints are applied on the retrieved items; (iii) a fine-grained ranking neural network is employed to determine the final recommendation. We observe a major defect of the original three-stage pipeline: Although we only target to retrieve  vectors in the final recommendation, we have to preset a sufficiently large  () for each query, and ``hope'' the number of survived vectors after the filtering is not smaller than . That is, at least  vectors in the  similar candidates satisfy the query constraints. In this paper, we investigate this constrained similarity search problem and attempt to merge the similarity search stage and the filtering stage into one single search operation. We introduce AIRSHIP, a system that integrates a user-defined function filtering into the similarity search framework. The proposed system does not need to build extra indices nor require prior knowledge of the query constraints. We propose three optimization strategies: (1) starting point selection, (2) multi-direction search, and (3) biased priority queue selection. Experimental evaluations on both synthetic and real data confirm the effectiveness of the proposed AIRSHIP algorithm. We focus on constrained graph-based approximate near neighbor (ANN) search in this study, in part because graph-based ANN is known to achieve excellent performance\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "GCWSNet: Generalized consistent weighted sampling for scalable and accurate training of neural networks",
+        "id": "c-gzOhwAAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "Ping Li",
+            "Weijie Zhao"
+        ],
+        "pub_source": "Proceedings of the 31st ACM International Conference on Information & Knowledge Management",
+        "pub_date": "2022/10/17",
+        "description": "We propose using \"powered generalized min-max'' (pGMM) hashed (linearized) via the \"generalized consistent weighted sampling'' (GCWS) for training (deep) neural networks (hence the name \"GCWSNet''). The pGMM and several related kernels were proposed in 2017. We demonstrate that pGMM hashed by GCWS provide a numerically stable scheme for applying power transformation on the original data, regardless of the magnitude of p and the data. Our experiments show that GCWSNet often improves the accuracy. It is also evident that GCWSNet converges substantially faster, reaching reasonable accuracy with merely one epoch of the training process. This property is much desired because many applications, such as advertisement click-through rate (CTR) prediction models, or data streams (i.e., data seen only once), often train just one epoch. Another beneficial side effect is that the computations of the\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Integrity authentication in tree models",
+        "id": "c-gzOhwAAAAJ:yD5IFk8b50cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:yD5IFk8b50cC",
+        "authors": [
+            "Weijie Zhao",
+            "Yingjie Lao",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+        "pub_date": "2022/8/14",
+        "description": "Tree models are very widely used in practice of machine learning and data mining. In this paper, we study the problem of model integrity authentication in tree models. In general, the task of model integrity authentication is the design & implementation of mechanisms for checking/detecting whether the model deployed for the end-users has been tampered with or compromised, e.g., malicious modifications on the model. We propose an authentication framework that enables the model builders/distributors to embed a signature to the tree model and authenticate the existence of the signature by only making a small number of black-box queries to the model. To the best of our knowledge, this is the first study of signature embedding on tree models. Our proposed method simply locates a collection of leaves and modifies their prediction values, which does not require any training/testing data nor any re-training. The\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "pGMM Kernel Regression and Comparisons with Boosted Trees",
+        "id": "c-gzOhwAAAAJ:f2IySw72cVMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:f2IySw72cVMC",
+        "authors": [
+            "Ping Li",
+            "Weijie Zhao"
+        ],
+        "pub_source": "arXiv preprint arXiv:2207.08667",
+        "pub_date": "2022/7/18",
+        "description": "In this work, we demonstrate the advantage of the pGMM (``powered generalized min-max'') kernel in the context of (ridge) regression. In recent prior studies, the pGMM kernel has been extensively evaluated for classification tasks, for logistic regression, support vector machines, as well as deep neural networks. In this paper, we provide an experimental study on ridge regression, to compare the pGMM kernel regression with the ordinary ridge linear regression as well as the RBF kernel ridge regression. Perhaps surprisingly, even without a tuning parameter (i.e.,  for the power parameter of the pGMM kernel), the pGMM kernel already performs well. Furthermore, by tuning the parameter , this (deceptively simple) pGMM kernel even performs quite comparably to boosted trees. Boosting and boosted trees are very popular in machine learning practice. For regression tasks, typically, practitioners use  boost, i.e., for minimizing the  loss. Sometimes for the purpose of robustness, the  boost might be a choice. In this study, we implement  boost for  and include it in the package of ``Fast ABC-Boost''. Perhaps also surprisingly, the best performance (in terms of  regression loss) is often attained at , in some cases at . This phenomenon has already been demonstrated by Li et al (UAI 2010) in the context of k-nearest neighbor classification using  distances. In summary, the implementation of  boost provides practitioners the additional flexibility of tuning boosting algorithms for potentially achieving better accuracy in regression applications.",
+        "citations": 2
+    },
+    {
+        "title": "Package for fast abc-boost",
+        "id": "c-gzOhwAAAAJ:pyW8ca7W8N0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:pyW8ca7W8N0C",
+        "authors": [
+            "Ping Li",
+            "Weijie Zhao"
+        ],
+        "pub_source": "arXiv preprint arXiv:2207.08770",
+        "pub_date": "2022/7/18",
+        "description": "This report presents the open-source package which implements the series of our boosting works in the past years. In particular, the package includes mainly three lines of techniques, among which the following two are already the standard implementations in popular boosted tree platforms: (i) The histogram-based (feature-binning) approach makes the tree implementation convenient and efficient. In Li et al (2007), a simple fixed-length adaptive binning algorithm was developed. In this report, we demonstrate that such a simple algorithm is still surprisingly effective compared to more sophisticated variants in popular tree platforms. (ii) The explicit gain formula in Li (20010) for tree splitting based on second-order derivatives of the loss function typically improves, often considerably, over the first-order methods. Although the gain formula in Li (2010) was derived for logistic regression loss, it is a generic formula for loss functions with second-derivatives. For example, the open-source package also includes  regression for . The main contribution of this package is the ABC-Boost (adaptive base class boosting) for multi-class classification. The initial work in Li (2008) derived a new set of derivatives of the classical multi-class logistic regression by specifying a \"base class\". The accuracy can be substantially improved if the base class is chosen properly. The major technical challenge is to design a search strategy to select the base class. The prior published works implemented an exhaustive search procedure to find the base class which is computationally too expensive. Recently, a new report (Li and Zhao, 20022) presents a unified framework of\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Deepauth: A dnn authentication framework by model-unique and fragile signature embedding",
+        "id": "c-gzOhwAAAAJ:zA6iFVUQeVQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:zA6iFVUQeVQC",
+        "authors": [
+            "Yingjie Lao",
+            "Weijie Zhao",
+            "Peng Yang",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2022/6/28",
+        "description": "Along with the evolution of deep neural networks (DNNs) in many real-world applications, the complexity of model building has also dramatically increased. Therefore, it is vital to protect the intellectual property (IP) of the model builder and ensure the trustworthiness of the deployed models. Meanwhile, adversarial attacks on DNNs (eg, backdoor and poisoning attacks) that seek to inject malicious behaviors have been investigated recently, demanding a means for verifying the integrity of the deployed model to protect the users. This paper presents a novel DNN authentication framework DeepAuth that embeds a unique and fragile signature to each protected DNN model. Our approach exploits sensitive key samples that are well crafted from the input space to latent space and then to logit space for producing signatures. After embedding, each model will respond distinctively to these key samples, which creates a model-unique signature as a strong tool for authentication and user identity. The signature embedding process is also designed to ensure the fragility of the signature, which can be used to detect malicious modifications such that an illegitimate user or an altered model should not have the intact signature. Extensive evaluations on various models over a wide range of datasets demonstrate the effectiveness and efficiency of the proposed DeepAuth.",
+        "citations": 19
+    },
+    {
+        "title": "Proximity graph maintenance for fast online nearest neighbor search",
+        "id": "c-gzOhwAAAAJ:D03iK_w7-QYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:D03iK_w7-QYC",
+        "authors": [
+            "Zhaozhuo Xu",
+            "Weijie Zhao",
+            "Shulong Tan",
+            "Zhixin Zhou",
+            "Ping Li"
+        ],
+        "pub_source": "arXiv preprint arXiv:2206.10839",
+        "pub_date": "2022/6/22",
+        "description": "Approximate Nearest Neighbor (ANN) search is a fundamental technique for (e.g.,) the deployment of recommender systems. Recent studies bring proximity graph-based methods into practitioners' attention -- proximity graph-based methods outperform other solutions such as quantization, hashing, and tree-based ANN algorithm families. In current recommendation systems, data point insertions, deletions, and queries are streamed into the system in an online fashion as users and items change dynamically. As proximity graphs are constructed incrementally by inserting data points as new vertices into the graph, online insertions and queries are well-supported in proximity graph. However, a data point deletion incurs removing a vertex from the proximity graph index, while no proper graph index updating mechanisms are discussed in previous studies. To tackle the challenge, we propose an incremental proximity graph maintenance (IPGM) algorithm for online ANN. IPGM supports both vertex deletion and insertion on proximity graphs. Given a vertex deletion request, we thoroughly investigate solutions to update the connections of the vertex. The proposed updating scheme eliminates the performance drop in online ANN methods on proximity graphs, making the algorithm suitable for practical systems.",
+        "citations": 4
+    },
+    {
+        "title": "Fast ABC-Boost: A unified framework for selecting the base class in multi-class classification",
+        "id": "c-gzOhwAAAAJ:cFHS6HbyZ2cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:cFHS6HbyZ2cC",
+        "authors": [
+            "Ping Li",
+            "Weijie Zhao"
+        ],
+        "pub_source": "arXiv preprint arXiv:2205.10927",
+        "pub_date": "2022/5/22",
+        "description": "The work in ICML'09 showed that the derivatives of the classical multi-class logistic regression loss function could be re-written in terms of a pre-chosen \"base class\" and applied the new derivatives in the popular boosting framework. In order to make use of the new derivatives, one must have a strategy to identify/choose the base class at each boosting iteration. The idea of \"adaptive base class boost\" (ABC-Boost) in ICML'09, adopted a computationally expensive \"exhaustive search\" strategy for the base class at each iteration. It has been well demonstrated that ABC-Boost, when integrated with trees, can achieve substantial improvements in many multi-class classification tasks. Furthermore, the work in UAI'10 derived the explicit second-order tree split gain formula which typically improved the classification accuracy considerably, compared with using only the fist-order information for tree-splitting, for both multi-class and binary-class classification tasks. In this paper, we develop a unified framework for effectively selecting the base class by introducing a series of ideas to improve the computational efficiency of ABC-Boost. Our framework has parameters . At each boosting iteration, we only search for the \"-worst classes\" (instead of all classes) to determine the base class. We also allow a \"gap\"  when conducting the search. That is, we only search for the base class at every  iterations. We furthermore allow a \"warm up\" stage by only starting the search after  boosting iterations. The parameters , , , can be viewed as tunable parameters and certain combinations of  may even lead to better test accuracy than the \"exhaustive\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Identification for deep neural network: Simply adjusting few weights!",
+        "id": "c-gzOhwAAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "Yingjie Lao",
+            "Peng Yang",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "2022 IEEE 38th International Conference on Data Engineering (ICDE)",
+        "pub_date": "2022/5/9",
+        "description": "Through the development of powerful algorithms and design tools, deep neural networks (DNNs) have recently approached or even surpassed human-level performance in many real-world applications. Nowadays, since a product-level DNN modeling requires a large amount of training data and expensive computing resources and thus DNN models are considered as valuable data, protecting the intellectual property (IP) of DNN builders becomes an important problem in the security domain. In this paper, we propose a novel watermarking approach that only requires adjusting a few weights, as opposed to prior works that embed watermarks via end-to-end training. The protected model with tiny parameter modifications can output pre-specified labels with carefully selected key samples as inputs, which serves as a strong proof of ownership. Besides, our methodology can be naturally extended to identification, i.e\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Multi-task and multi-scene unified ranking model for online advertising",
+        "id": "c-gzOhwAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Shulong Tan",
+            "Meifang Li",
+            "Weijie Zhao",
+            "Yandan Zheng",
+            "Xin Pei",
+            "Ping Li"
+        ],
+        "pub_source": "2021 IEEE International Conference on Big Data (Big Data)",
+        "pub_date": "2021/12/15",
+        "description": "Online advertising and recommender systems often pose a multi-task problem, which tries to predict not only users\u2019 click-through rate (CTR) but also the post-click conversion rate (CVR). Meanwhile, multi-functional information systems commonly provide multiple service scenarios for users, such as news feed, search engine and product suggestions. Users may leave similar interest information across various service scenarios. Thus the prediction/ranking model should be conducted in a multi-scene manner. This paper develops a unified r a nking m o del for this multi-task and multi-scene problem. Compared to previous works, our model explores independent/non-shared embeddings for each task and scene, which reduces the coupling between tasks and scenes. New tasks or scenes could be added easily. Besides, a simplified n e twork i s c h osen b e yond t h e embedding layer, which largely improves the\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Fast neural ranking on bipartite graph indices",
+        "id": "c-gzOhwAAAAJ:fPk4N6BV_jEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:fPk4N6BV_jEC",
+        "authors": [
+            "Shulong Tan",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the VLDB Endowment",
+        "pub_date": "2021/12/1",
+        "description": "Neural network based ranking has been widely adopted owing to its powerful capacity in modeling complex relationships (e.g., users and items, questions and answers). Online neural network ranking, i.e., the so called fast neural ranking, is considered a challenging task because neural network measures are in general non-convex and asymmetric. Traditional approximate near neighbor (ANN) search which typically focuses on metric ranking measures, is not applicable to these complex measures. To tackle this challenge, in this paper, we propose to construct BipartitE Graph INdices (BEGIN) for fast neural ranking. BEGIN contains two types of nodes: base/searching objects and sampled queries. The edges connecting these types of nodes are constructed via the neural network ranking measure. The proposed algorithm is a natural extension from traditional search on graph methods and is more suitable for fast\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "Norm adjusted proximity graph for fast inner product retrieval",
+        "id": "c-gzOhwAAAAJ:M05iB0D1s5AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:M05iB0D1s5AC",
+        "authors": [
+            "Shulong Tan",
+            "Zhaozhuo Xu",
+            "Weijie Zhao",
+            "Hongliang Fei",
+            "Zhixin Zhou",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining",
+        "pub_date": "2021/8/14",
+        "description": "Efficient inner product search on embedding vectors is often the vital stage for online ranking services, such as recommendation and information retrieval. Recommendation algorithms, e.g., matrix factorization, typically produce latent vectors to represent users or items. The recommendation services are conducted by retrieving the most relevant item vectors given the user vector, where the relevance is often defined by inner product. Therefore, developing efficient recommender systems often requires solving the so-called maximum inner product search (MIPS) problem. In the past decade, there have been many studies on efficient MIPS algorithms. This task is challenging in part because the inner product does not follow the triangle inequality of metric space. Compared with hash-based or quantization-based MIPS solutions, in recent years graph-based MIPS algorithms have demonstrated their strong empirical\u00a0\u2026",
+        "citations": 23
+    },
+    {
+        "title": "Multi-type textual reasoning for product-aware answer generation",
+        "id": "c-gzOhwAAAAJ:ldfaerwXgEUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:ldfaerwXgEUC",
+        "authors": [
+            "Yue Feng",
+            "Zhaochun Ren",
+            "Weijie Zhao",
+            "Mingming Sun",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "pub_date": "2021/7/11",
+        "description": "By reading reviews and product attributes, e-commerce question-answering task aims to automatically generate natural-sounding answers for product-related questions. Existing methods, however, typically assume that each review and each product attribute are semantically independent, ignoring the relation among all these multi-type texts. In this paper, we propose a review-attribute heterogeneous graph neural network (abbreviated as RAHGNN) to model the logical relation of all multi-type text. RAHGNN consists of four components: a review-attribute heterogeneous graph constructor, a question-aware input encoder, a heterogeneous graph relation analyzer, and a context-based answer decoder. Specifically, after constructing the heterogeneous graph with reviews and product attributes, we derive the initial representation of each review node and attribute node based on question attention network and key\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "Agile and accurate CTR prediction model training for massive-scale online advertising systems",
+        "id": "c-gzOhwAAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "Zhiqiang Xu",
+            "Dong Li",
+            "Weijie Zhao",
+            "Xing Shen",
+            "Tianbo Huang",
+            "Xiaoyun Li",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 2021 international conference on management of data",
+        "pub_date": "2021/6/9",
+        "description": "Deep neural network has been adopted as the standard model to predict ads click-through rate (CTR) for commercial online advertising systems. Deploying an industrial scale ads system requires to overcome numerous challenges, e.g., hundreds or thousands of billions of input features and also hundreds of billions of training samples, which under the cost budget can cause fundamental issues on storage, communication, or the model training speed. In this work, we present Baidu's industrial-scale practices on how to apply the system and machine learning techniques to address these issues and increase the revenue. In particular, we focus on the strategy for developing GPU-based CTR models combined with quantization techniques to build a compact and agile system which noticeably improves the revenue. With quantization, we are able to effectively increase the model (embedding layer) size without\u00a0\u2026",
+        "citations": 43
+    },
+    {
+        "title": "TIRA in baidu image advertising",
+        "id": "c-gzOhwAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Tan Yu",
+            "Xuemeng Yang",
+            "Yan Jiang",
+            "Hongfang Zhang",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "2021 IEEE 37th International Conference on Data Engineering (ICDE)",
+        "pub_date": "2021/4/19",
+        "description": "Since an image can be perceived by customers in few seconds, it is an effective medium for advertising and adored by advertisers. Baidu, as one of the lead search companies in the world, receives billions of text queries per day. How to feed attractive images to capture the customers' attentions is the core task of Baidu image advertising. Traditionally, the query-to-image search is tackled by matching the text query with the image title. Nevertheless, title-based image search relies on high-quality image titles, which are not easy to be obtained or unavailable in some cases. A more reliable solution is to understand the image content and conduct content-based query-to-image retrieval. In this paper, we introduce a text-image cross-modal retrieval for advertising (TIRA) model, which has been launched in Baidu image advertising. The proposed TIRA is built upon the popularly used image classification model, ResNet\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Consistent sampling through extremal process",
+        "id": "c-gzOhwAAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Ping Li",
+            "Xiaoyun Li",
+            "Gennady Samorodnitsky",
+            "Weijie Zhao"
+        ],
+        "pub_source": "Proceedings of the Web Conference 2021",
+        "pub_date": "2021/4/19",
+        "description": "The1 Jaccard similarity has been widely used in search and machine learning, especially in industrial practice. For binary (0/1) data, the Jaccard similarity is often called the \u201cresemblance\u201d and the method of minwise hashing has been the standard tool for computing resemblances in massive data. For general weighted data, the commonly used sampling algorithm for computing the (weighted) Jaccard similarity is the Consistent Weighted Sampling (CWS). A convenient (and perhaps also mysterious) implementation of CWS is the so-called \u201c0-bit CWS\u201d published in KDD 2015\u00a0[31], which, in this paper, we refer to as the \u201crelaxed CWS\u201d and was purely an empirical observation without theoretical justification. The difficulty in the analysis of the \u201crelaxed CWS\u201d is due to the complicated probability problem, which we could not resolve\u00a0at\u00a0this\u00a0point.  In this paper, we propose using extremal processes to generate samples for\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Lira: Learnable, imperceptible and robust backdoor attacks",
+        "id": "c-gzOhwAAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Khoa Doan",
+            "Yingjie Lao",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF international conference on computer vision",
+        "pub_date": "2021",
+        "description": "Recently, machine learning models have demonstrated to be vulnerable to backdoor attacks, primarily due to the lack of transparency in black-box models such as deep neural networks. A third-party model can be poisoned such that it works adequately in normal conditions but behaves maliciously on samples with specific trigger patterns. However, the trigger injection function is manually defined in most existing backdoor attack methods, eg, placing a small patch of pixels on an image or slightly deforming the image before poisoning the model. This results in a two-stage approach with a sub-optimal attack success rate and a lack of complete stealthiness under human inspection. In this paper, we propose a novel and stealthy backdoor attack framework, LIRA, which jointly learns the optimal, stealthy trigger injection function and poisons the model. We formulate such an objective as a non-convex, constrained optimization problem. Under this optimization framework, the trigger generator function will learn to manipulate the input with imperceptible noise to preserve the model performance on the clean data and maximize the attack success rate on the poisoned data. Then, we solve this challenging optimization problem with an efficient, two-stage stochastic optimization procedure. Finally, the proposed attack framework achieves 100% success rates in several benchmark datasets, including MNIST, CIFAR10, GTSRB, and T-ImageNet, while simultaneously bypassing existing backdoor defense methods and human inspection.",
+        "citations": 177
+    },
+    {
+        "title": "Convergent adaptive gradient methods in decentralized optimization",
+        "id": "c-gzOhwAAAAJ:g5m5HwL7SMYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:g5m5HwL7SMYC",
+        "authors": [
+            "Xiangyi Chen",
+            "Belhal Karimi",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "",
+        "pub_date": "2020/10/2",
+        "description": "Adaptive gradient methods including Adam, AdaGrad, and their variants have been very successful for training deep learning models, such as neural networks, in the past few years. Meanwhile, given the need for distributed training procedures, distributed optimization algorithms are at the center of attention. With the growth of computing power and the need for using machine learning models on mobile devices, the communication cost of distributed training algorithms needs careful consideration. In that regard, more and more attention is shifted from the traditional parameter server training paradigm to the decentralized one, which usually requires lower communication costs. In this paper, we rigorously incorporate adaptive gradient methods into decentralized training procedures and introduce novel convergent decentralized adaptive gradient methods. Specifically, we propose a general algorithmic framework that can convert existing adaptive gradient methods to their decentralized counterparts. In addition, we thoroughly analyze the convergence behavior of the proposed algorithmic framework and show that if a given adaptive gradient method converges, under some specific conditions, then its decentralized counterpart is also convergent.",
+        "citations": 1
+    },
+    {
+        "title": "Distributed Hierarchical GPU Parameter Server for Massive Scale Deep Learning Ads Systems",
+        "id": "c-gzOhwAAAAJ:RGFaLdJalmkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:RGFaLdJalmkC",
+        "authors": [
+            "Weijie Zhao",
+            "Deping Xie",
+            "Ronglai Jia",
+            "Yulei Qian",
+            "Ruiquan Ding",
+            "Mingming Sun",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 3rd MLSys Conference, Austin, TX, USA, 2020.",
+        "pub_date": "2020/3/2",
+        "description": "Neural networks of ads systems usually take input from multiple resources, eg query-ad relevance, ad features and user portraits. These inputs are encoded into one-hot or multi-hot binary features, with typically only a tiny fraction of nonzero feature values per example. Deep learning models in online advertising industries can have terabyte-scale parameters that do not fit in the GPU memory nor the CPU main memory on a computing node. For example, a sponsored online advertising system can contain more than  sparse features, making the neural network a massive model with around 10 TB parameters. In this paper, we introduce a distributed GPU hierarchical parameter server for massive scale deep learning ads systems. We propose a hierarchical workflow that utilizes GPU High-Bandwidth Memory, CPU main memory and SSD as 3-layer hierarchical storage. All the neural network training computations are contained in GPUs. Extensive experiments on real-world data confirm the effectiveness and the scalability of the proposed system. A 4-node hierarchical GPU parameter server can train a model more than 2X faster than a 150-node in-memory distributed parameter server in an MPI cluster. In addition, the price-performance ratio of our proposed system is 4-9 times better than an MPI-cluster solution.",
+        "citations": 138
+    },
+    {
+        "title": "Thunder: a fast coordinate selection solver for sparse learning",
+        "id": "c-gzOhwAAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "Shaogang Ren",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "Advances in Neural Information Processing Systems",
+        "pub_date": "2020",
+        "description": "L1 regularization has been broadly employed to pursue model sparsity. Despite the non-smoothness, people have developed efficient algorithms by leveraging the sparsity and convexity of the problems. In this paper, we propose a novel active incremental approach to further improve the efficiency of the solvers. We show that our method performs well even when the existing methods fail due to the low sparseness or high solution accuracy request. Theoretical analysis and experimental results on synthetic and real-world data sets validate the advantages of the method.",
+        "citations": 3
+    },
+    {
+        "title": "SONG: Approximate Nearest Neighbor Search on GPU",
+        "id": "c-gzOhwAAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "Weijie Zhao",
+            "Shulong Tan",
+            "Ping Li"
+        ],
+        "pub_source": "ICDE' 20",
+        "pub_date": "2020",
+        "description": "Approximate nearest neighbor (ANN) searching is a fundamental problem in computer science with numerous applications in (e.g.,) machine learning and data mining. Recent studies show that graph-based ANN methods often outperform other types of ANN algorithms. For typical graph-based methods, the searching algorithm is executed iteratively and the execution dependency prohibits GPU adaptations. In this paper, we present a novel framework that decouples the searching on graph algorithm into 3 stages, in order to parallel the performance-crucial distance computation. Furthermore, to obtain better parallelism on GPU, we propose novel ANN-specific optimization methods that eliminate dynamic GPU memory allocations and trade computations for less GPU memory consumption. The proposed system is empirically compared against HNSW\u2013the state-of-the-art ANN method on CPU\u2013and Faiss\u2013the popular\u00a0\u2026",
+        "citations": 94
+    },
+    {
+        "title": "AIBox: CTR prediction model training on a single node",
+        "id": "c-gzOhwAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Weijie Zhao",
+            "Jingyuan Zhang",
+            "Deping Xie",
+            "Yulei Qian",
+            "Ronglai Jia",
+            "Ping Li"
+        ],
+        "pub_source": "Proceedings of the 28th ACM International Conference on Information and Knowledge Management",
+        "pub_date": "2019/11/3",
+        "description": "As one of the major search engines in the world, Baidu's Sponsored Search has long adopted the use of deep neural network (DNN) models for Ads click-through rate (CTR) predictions, as early as in 2013. The input futures used by Baidu's online advertising system (a.k.a. \"Phoenix Nest'') are extremely high-dimensional (e.g., hundreds or even thousands of billions of features) and also extremely sparse. The size of the CTR models used by Baidu's production system can well exceed 10TB. This imposes tremendous challenges for training, updating, and using such models in production. For Baidu's Ads system, it is obviously important to keep the model training process highly efficient so that engineers (and researchers) are able to quickly refine and test their new models or new features. Moreover, as billions of user ads click history entries are arriving every day, the models have to be re-trained rapidly because\u00a0\u2026",
+        "citations": 92
+    },
+    {
+        "title": "Machine learning applied to retrieval of temperature and concentration distributions from infrared emission measurements",
+        "id": "c-gzOhwAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Tao Ren",
+            "Michael F Modest",
+            "Alexander Fateev",
+            "Gavin Sutton",
+            "Weijie Zhao",
+            "Florin Rusu"
+        ],
+        "pub_source": "Applied Energy",
+        "pub_date": "2019/10/15",
+        "description": "Inversion of temperature and species concentration distributions from radiometric measurements involves solving nonlinear, ill-posed and high-dimensional problems. Machine Learning approaches allow solving such highly nonlinear problems, offering an alternative way to deal with complex and dynamic systems with good flexibility. In this study, we present a machine learning approach for retrieving temperatures and species concentrations from spectral infrared emission measurements in combustion systems. The training spectra for the machine learning model were synthesized through calculations from HITEMP 2010 for gas mixtures of CO 2, H 2 O, and CO. The method was tested for different line-of-sight temperature and concentration distributions, different gas path lengths and different spectral intervals. Experimental validation was carried out by measuring spectral emission from a Hencken flat flame\u00a0\u2026",
+        "citations": 59
+    },
+    {
+        "title": "Distributed caching for processing raw arrays",
+        "id": "c-gzOhwAAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Weijie Zhao",
+            "Florin Rusu",
+            "Bin Dong",
+            "Kesheng Wu",
+            "Anna YQ Ho",
+            "Peter Nugent"
+        ],
+        "pub_source": "Proceedings of the 30th International Conference on Scientific and Statistical Database Management",
+        "pub_date": "2018/7/9",
+        "description": "As applications continue to generate multi-dimensional data at exponentially increasing rates, fast analytics to extract meaningful results is becoming extremely important. The database community has developed array databases that alleviate this problem through a series of techniques. In-situ mechanisms provide direct access to raw data in the original format---without loading and partitioning. Parallel processing scales to the largest datasets. In-memory caching reduces latency when the same data are accessed across a workload of queries. However, we are not aware of any work on distributed caching of multi-dimensional raw arrays. In this paper, we introduce a distributed framework for cost-based caching of multi-dimensional arrays in native format. Given a set of files that contain portions of an array and an online query workload, the framework computes an effective caching plan in two stages. First, the plan\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Distributed Caching for Complex Querying of Raw Arrays",
+        "id": "c-gzOhwAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Weijie Zhao",
+            "Florin Rusu",
+            "Bin Dong",
+            "Kesheng Wu",
+            "Anna YQ Ho",
+            "Peter Nugent"
+        ],
+        "pub_source": "arXiv preprint arXiv:1803.06089",
+        "pub_date": "2018/3/16",
+        "description": "As applications continue to generate multi-dimensional data at exponentially increasing rates, fast analytics to extract meaningful results is becoming extremely important. The database community has developed array databases that alleviate this problem through a series of techniques. In-situ mechanisms provide direct access to raw data in the original format---without loading and partitioning. Parallel processing scales to the largest datasets. In-memory caching reduces latency when the same data are accessed across a workload of queries. However, we are not aware of any work on distributed caching of multi-dimensional raw arrays. In this paper, we introduce a distributed framework for cost-based caching of multi-dimensional arrays in native format. Given a set of files that contain portions of an array and an online query workload, the framework computes an effective caching plan in two stages. First, the plan identifies the cells to be cached locally from each of the input files by continuously refining an evolving R-tree index. In the second stage, an optimal assignment of cells to nodes that collocates dependent cells in order to minimize the overall data transfer is determined. We design cache eviction and placement heuristic algorithms that consider the historical query workload. A thorough experimental evaluation over two real datasets in three file formats confirms the superiority -- by as much as two orders of magnitude -- of the proposed framework over existing techniques in terms of cache overhead and workload execution time."
+    },
+    {
+        "title": "iPTF Archival Search for Fast Optical Transients",
+        "id": "c-gzOhwAAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:blknAaTinKkC",
+        "authors": [
+            "Anna YQ Ho",
+            "SR Kulkarni",
+            "Peter E Nugent",
+            "Weijie Zhao",
+            "Florin Rusu",
+            "S Bradley Cenko",
+            "Vikram Ravi",
+            "Mansi M Kasliwal",
+            "Daniel A Perley",
+            "Scott M Adams",
+            "Eric C Bellm",
+            "Patrick Brady",
+            "Christoffer Fremling",
+            "Avishay Gal-Yam",
+            "David Alexander Kann",
+            "David Kaplan",
+            "Russ R Laher",
+            "Frank Masci",
+            "Eran O Ofek",
+            "Jesper Sollerman",
+            "Alex Urban"
+        ],
+        "pub_source": "The Astrophysical Journal Letters",
+        "pub_date": "2018/2/9",
+        "description": "There has been speculation about a class of relativistic explosions with an initial Lorentz factor \u0393 init smaller than that of classical gamma-ray bursts (GRBs). These\" dirty fireballs\" would lack prompt GRB emission but could be pursued via their optical afterglow, appearing as transients that fade overnight. Here we report a search for such transients (that fade by 5-\u03c3 in magnitude overnight) in four years of archival photometric data from the intermediate Palomar Transient Factory (iPTF). Our search criteria yielded 50 candidates. Of these, two were afterglows to GRBs that had been found in dedicated follow-up observations to triggers from the Fermi GRB Monitor. Another (iPTF14yb) was a GRB afterglow discovered serendipitously. Eight were spurious artifacts of reference image subtraction, and one was an asteroid. The remaining 38 candidates have red stellar counterparts in external catalogs. The photometric and\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "Advanced Database Techniques for Processing Scientific Multi-Dimensional Data",
+        "id": "c-gzOhwAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Weijie Zhao"
+        ],
+        "pub_source": "University of California, Merced",
+        "pub_date": "2018",
+        "description": "Scientific applications are generating an ever-increasing volume of multi-dimensional data that are largely processed inside distributed array databases and frameworks. Traditional databases are not equipped with the adequate functionality to handle the volume and variety of \u201cBig Data\u201d. Scientific data have dual structure. Raw data are preponderantly ordered multi-dimensional arrays or sequences while metadata and derived data are best represented as unordered relations. Scientific data processing requires complex operations over arrays and relations. These operations cannot be expressed using only standard linear and relational algebra operators, respectively."
+    },
+    {
+        "title": "Automatic identification and classification of Palomar Transient Factory astrophysical objects in GLADE",
+        "id": "c-gzOhwAAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Weijie Zhao",
+            "Florin Rusu",
+            "Kesheng Wu",
+            "Peter Nugent"
+        ],
+        "pub_source": "International Journal of Computational Science and Engineering",
+        "pub_date": "2018",
+        "description": "Palomar Transient Factory (PTF) is a comprehensive detection system for the identification and classification of transient astrophysical objects. In this paper, we make two significant contributions to the PTF pipeline. First, we present an experimental study that evaluates a novel implementation of the real-time classifier in GLADE - a parallel data processing system that combines the efficiency of a database with the extensibility of map-reduce. We show how each stage in the classifier maps optimally into GLADE tasks by taking advantage of the unique features of the system - range-based data partitioning, columnar storage, multi-query execution, and in-database support for complex aggregate computation. Second, we introduce a novel parallel similarity join algorithm for advanced transient classification. We implement this algorithm in GLADE and execute it on a massive supercomputer with more than 3,000\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Illuminating gravitational waves: a concordant picture of photons from a neutron star merger",
+        "id": "c-gzOhwAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "MM Kasliwal",
+            "E Nakar",
+            "LP Singer",
+            "DL Kaplan",
+            "DO Cook",
+            "A Van Sistine",
+            "RM Lau",
+            "C Fremling",
+            "O Gottlieb",
+            "JE Jencson",
+            "SM Adams",
+            "Ulrich Feindt",
+            "K Hotokezaka",
+            "S Ghosh",
+            "DA Perley",
+            "P-C Yu",
+            "T Piran",
+            "JR Allison",
+            "GC Anupama",
+            "A Balasubramanian",
+            "KW Bannister",
+            "J Bally",
+            "J Barnes",
+            "S Barway",
+            "E Bellm",
+            "V Bhalerao",
+            "D Bhattacharya",
+            "N Blagorodnova",
+            "JS Bloom",
+            "PR Brady",
+            "C Cannella",
+            "D Chatterjee",
+            "SB Cenko",
+            "BE Cobb",
+            "C Copperwheat",
+            "A Corsi",
+            "K De",
+            "D Dobie",
+            "SWK Emery",
+            "PA Evans",
+            "OD Fox",
+            "DA Frail",
+            "C Frohmaier",
+            "Ariel Goobar",
+            "G Hallinan",
+            "F Harrison",
+            "G Helou",
+            "T Hinderer",
+            "AYQ Ho",
+            "A Horesh",
+            "W-H Ip",
+            "R Itoh",
+            "D Kasen",
+            "H Kim",
+            "NPM Kuin",
+            "T Kupfer",
+            "Christene Lynch",
+            "K Madsen",
+            "PA Mazzali",
+            "AA Miller",
+            "K Mooley",
+            "T Murphy",
+            "C-C Ngeow",
+            "D Nichols",
+            "S Nissanke",
+            "P Nugent",
+            "EO Ofek",
+            "H Qi",
+            "RM Quimby",
+            "Stephan Rosswog",
+            "F Rusu",
+            "EM Sadler",
+            "P Schmidt",
+            "Jesper Sollerman",
+            "I Steele",
+            "AR Williamson",
+            "Y Xu",
+            "L Yan",
+            "Y Yatsu",
+            "C Zhang",
+            "W Zhao"
+        ],
+        "pub_source": "Science",
+        "pub_date": "2017/10/16",
+        "description": "Merging neutron stars offer an excellent laboratory for simultaneously studying strong-field gravity and matter in extreme environments. We establish the physical association of an electromagnetic counterpart (EM170817) with gravitational waves (GW170817) detected from merging neutron stars. By synthesizing a panchromatic data set, we demonstrate that merging neutron stars are a long-sought production site forging heavy elements by r-process nucleosynthesis. The weak gamma rays seen in EM170817 are dissimilar to classical short gamma-ray bursts with ultrarelativistic jets. Instead, we suggest that breakout of a wide-angle, mildly relativistic cocoon engulfing the jet explains the low-luminosity gamma rays, the high-luminosity ultraviolet-optical-infrared, and the delayed radio and x-ray emission. We posit that all neutron star mergers may lead to a wide-angle cocoon breakout, sometimes accompanied by a\u00a0\u2026",
+        "citations": 776
+    },
+    {
+        "title": "Incremental view maintenance over array data",
+        "id": "c-gzOhwAAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Weijie Zhao",
+            "Florin Rusu",
+            "Bin Dong",
+            "Kesheng Wu",
+            "Peter Nugent"
+        ],
+        "pub_source": "Proceedings of the 2017 ACM International Conference on Management of Data",
+        "pub_date": "2017/5/9",
+        "description": "Science applications are producing an ever-increasing volume of multi-dimensional data that are mainly processed with distributed array databases. These raw arrays are ``cooked'' into derived data products using complex pipelines that are time-consuming. As a result, derived data products are released infrequently and become stale soon thereafter. In this paper, we introduce materialized array views as a database construct for scientific data products. We model the ``cooking'' process as incremental view maintenance with batch updates and give a three-stage heuristic that finds effective update plans. Moreover, the heuristic repartitions the array and the view continuously based on a window of past updates as a side-effect of view maintenance without overhead. We design an analytical cost model for integrating materialized array views in queries. A thorough experimental evaluation confirms that the proposed\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "OLA-RAW: scalable exploration over raw data",
+        "id": "c-gzOhwAAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Yu Cheng",
+            "Weijie Zhao",
+            "Florin Rusu"
+        ],
+        "pub_source": "arXiv preprint arXiv:1702.00358",
+        "pub_date": "2017/2/1",
+        "description": "In-situ processing has been proposed as a novel data exploration solution in many domains generating massive amounts of raw data, e.g., astronomy, since it provides immediate SQL querying over raw files. The performance of in-situ processing across a query workload is, however, limited by the speed of full scan, tokenizing, and parsing of the entire data. Online aggregation (OLA) has been introduced as an efficient method for data exploration that identifies uninteresting patterns faster by continuously estimating the result of a computation during the actual processing---the computation can be stopped as early as the estimate is accurate enough to be deemed uninteresting. However, existing OLA solutions have a high upfront cost of randomly shuffling and/or sampling the data. In this paper, we present OLA-RAW, a bi-level sampling scheme for parallel online aggregation over raw data. Sampling in OLA-RAW is query-driven and performed exclusively in-situ during the runtime query execution, without data reorganization. This is realized by a novel resource-aware bi-level sampling algorithm that processes data in random chunks concurrently and determines adaptively the number of sampled tuples inside a chunk. In order to avoid the cost of repetitive conversion from raw data, OLA-RAW builds and maintains a memory-resident bi-level sample synopsis incrementally. We implement OLA-RAW inside a modern in-situ data processing system and evaluate its performance across several real and synthetic datasets and file formats. Our results show that OLA-RAW chooses the sampling plan that minimizes the execution time and guarantees the\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Bi-Level Online Aggregation on Raw Data",
+        "id": "c-gzOhwAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Yu Cheng",
+            "Weijie Zhao",
+            "Florin Rusu"
+        ],
+        "pub_source": "SSDBM 2017",
+        "pub_date": "2017",
+        "description": "In-situ processing has been proposed as a novel data exploration solution in many domains generating massive amounts of raw data, e.g., astronomy, since it provides immediate SQL querying over raw files. The performance of in-situ processing across a query workload is, however, limited by the speed of full scan, tokenizing, and parsing of the entire data. Online aggregation (OLA) has been introduced as an efficient method for data exploration that identifies uninteresting patterns faster by continuously estimating the result of a computation during the actual processing---the computation can be stopped as early as the estimate is accurate enough to be deemed uninteresting. However, existing OLA solutions have a high upfront cost of randomly shuffling and/or sampling the data. In this paper, we present OLA-RAW, a bi-level sampling scheme for parallel online aggregation over raw data. Sampling in OLA-RAW is\u00a0\u2026",
+        "citations": 19
+    },
+    {
+        "title": "ArrayUDF: User-Defined Scientific Data Analysis on Arrays",
+        "id": "c-gzOhwAAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "Bin Dong",
+            "Kesheng Wu",
+            "Surendra Byna",
+            "Jialin Liu",
+            "Weijie Zhao",
+            "Florin Rusu"
+        ],
+        "pub_source": "HPDC 2017",
+        "pub_date": "2017",
+        "description": "User-Defined Functions (UDF) allow application programmers to specify analysis operations on data, while leaving the data management tasks to the system. This general approach enables numerous custom analysis functions and is at the heart of the modern Big Data systems. Even though the UDF mechanism can theoretically support arbitrary operations, a wide variety of common operations -- such as computing the moving average of a time series, the vorticity of a fluid flow, etc., -- are hard to express and slow to execute. Since these operations are traditionally performed on multi-dimensional arrays, we propose to extend the expressiveness of structural locality for supporting UDF operations on arrays. We further propose an in situ UDF mechanism, called ArrayUDF, to implement the structural locality. ArrayUDF allows users to define computations on adjacent array cells without the use of join operations and\u00a0\u2026",
+        "citations": 40
+    },
+    {
+        "title": "Similarity Join over Array Data",
+        "id": "c-gzOhwAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Weijie Zhao",
+            "Florin Rusu",
+            "Bin Dong",
+            "Kesheng Wu"
+        ],
+        "pub_source": "SIGMOD '16",
+        "pub_date": "2016/6/26",
+        "description": "Scientific applications are generating an ever-increasing volume of multi-dimensional data that are largely processed inside distributed array databases and frameworks. Similarity join is a fundamental operation across scientific workloads that requires complex processing over an unbounded number of pairs of multi-dimensional points. In this paper, we introduce a novel distributed similarity join operator for multi-dimensional arrays. Unlike immediate extensions to array join and relational similarity join, the proposed operator minimizes the overall data transfer and network congestion while providing load-balancing, without completely repartitioning and replicating the input arrays. We define formally array similarity join and present the design, optimization strategies, and evaluation of the first array similarity join operator.",
+        "citations": 39
+    },
+    {
+        "title": "Vertical partitioning for query processing over raw data",
+        "id": "c-gzOhwAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Weijie Zhao",
+            "Yu Cheng",
+            "Florin Rusu"
+        ],
+        "pub_source": "Proceedings of the 27th International Conference on Scientific and Statistical Database Management",
+        "pub_date": "2015/6/29",
+        "description": "Traditional databases are not equipped with the adequate functionality to handle the volume and variety of \"Big Data\". Strict schema definition and data loading are prerequisites even for the most primitive query session. Raw data processing has been proposed as a schema-on-demand alternative that provides instant access to the data. When loading is an option, it is driven exclusively by the current-running query, resulting in sub-optimal performance across a query workload. In this paper, we investigate the problem of workload-driven raw data processing with partial loading. We model loading as fully-replicated binary vertical partitioning. We provide a linear mixed integer programming optimization formulation that we prove to be NP-hard. We design a two-stage heuristic that comes within close range of the optimal solution in a fraction of the time. We extend the optimization formulation and the heuristic to\u00a0\u2026",
+        "citations": 26
+    },
+    {
+        "title": "Workload-driven vertical partitioning for effective query processing over raw data",
+        "id": "c-gzOhwAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Weijie Zhao",
+            "Yu Cheng",
+            "Florin Rusu"
+        ],
+        "pub_source": "arXiv preprint arXiv:1503.08946",
+        "pub_date": "2015/3/31",
+        "description": "Traditional databases are not equipped with the adequate functionality to handle the volume and variety of \"Big Data\". Strict schema definition and data loading are prerequisites even for the most primitive query session. Raw data processing has been proposed as a schema-on-demand alternative that provides instant access to the data. When loading is an option, it is driven exclusively by the current-running query, resulting in sub-optimal performance across a query workload. In this paper, we investigate the problem of workload-driven raw data processing with partial loading. We model loading as fully-replicated binary vertical partitioning. We provide a linear mixed integer programming optimization formulation that we prove to be NP-hard. We design a two-stage heuristic that comes within close range of the optimal solution in a fraction of the time. We extend the optimization formulation and the heuristic to pipelined raw data processing, scenario in which data access and extraction are executed concurrently. We provide three case-studies over real data formats that confirm the accuracy of the model when implemented in a state-of-the-art pipelined operator for raw data processing.",
+        "citations": 6
+    },
+    {
+        "title": "A novel iris patterns matching algorithm of weighted polar frequency correlation",
+        "id": "c-gzOhwAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Weijie Zhao",
+            "Linhua Jiang"
+        ],
+        "pub_source": "International Symposium on Optoelectronic Technology and Application 2014: Image Processing and Pattern Recognition",
+        "pub_date": "2014/11/24",
+        "description": "Iris recognition is recognized as one of the most accurate techniques for biometric authentication. In this paper, we present a novel correlation method - Weighted Polar Frequency Correlation(WPFC) - to match and evaluate two iris images, actually it can also be used for evaluating the similarity of any two images. The WPFC method is a novel matching and evaluating method for iris image matching, which is complete different from the conventional methods. For instance, the classical John Daugman\u2019s method of iris recognition uses 2D Gabor wavelets to extract features of iris image into a compact bit stream, and then matching two bit streams with hamming distance. Our new method is based on the correlation in the polar coordinate system in frequency domain with regulated weights. The new method is motivated by the observation that the pattern of iris that contains far more information for recognition is fine\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "An application of scale-invariant feature transform in iris recognition",
+        "id": "c-gzOhwAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Weijie Zhao",
+            "Xiaodong Chen",
+            "Ji Cheng",
+            "Linhua Jiang"
+        ],
+        "pub_source": "2013 IEEE/ACIS 12th International Conference on Computer and Information Science (ICIS)",
+        "pub_date": "2013/6/16",
+        "description": "Scale-invariant Feature Transform (SIFT) is an algorithm to find local features in images. SIFT uses Difference-of-Gaussian (DoG) to locate candidate keypoints and performs a detailed fit to locate keypoints, then orientations are added to keypoints and keypoint descriptor is generated for each keypoint. Iris recognition is one of the most reliable biometric authentications. In this paper, we propose a reliable method of iris recognition by applying SIFT. It includes segmentation, matching and evaluation. Other than the conventional method, Normalizing and encoding are removed since SIFT is rotation-invariant and scale-invariant. Our proposed method is tested on CASIA and self-obtained images. Experiments show the proposed method is fast and accurate.",
+        "citations": 6
+    },
+    {
+        "title": "Supplementary Materials for LIRA: Learnable, Imperceptible and Robust Backdoor Attacks",
+        "id": "c-gzOhwAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=c-gzOhwAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Khoa Doan",
+            "Yingjie Lao",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "This document provides additional details, analysis, and experimental results to support the main submission. We begin by providing additional discussion on the related works in Section 1. Next, we discuss the detailed experimental setup and implementation of the methods in Section 2. Finally, we provide additional attack and defense experiments, as well as sensitivity analysis of the proposed algorithm in Section 3."
+    }
+]

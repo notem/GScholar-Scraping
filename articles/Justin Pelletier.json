@@ -1,0 +1,233 @@
+[
+    {
+        "title": "Code red: A nuclear nightmare-navigating ransomware response at an Eastern European power plant",
+        "id": "nNlgxmMAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Namita Madhira",
+            "Justin M Pelletier",
+            "Daryl Johnson",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Journal of Information Technology Teaching Cases",
+        "pub_date": "2024/5/3",
+        "description": "Over the past decade, the number and scale of ransomware attacks has grown. These attacks have stretched across multiple industries globally and caused billions of dollars of damages. Recent attacks have disrupted critical infrastructure and have served as prelude to war. Studies have shown that there is a lack of awareness among industry practitioners surrounding appropriate responses to ransomware. This failure during a career-defining moment is largely due to the gap between cyber security academic knowledge and industry practice. We therefore provide a learning resource for ransomware response education that is academically adequate, practically viable, and ultimately illustrates a process for proper employment of technology. This case, exposes students to technical requirements for a ransomware response and explores ransomware best practices. Discussion questions and a wargaming-style\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "A Canary in the Voting Booth: Attacks on a Virtual Voting Machine",
+        "id": "nNlgxmMAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Michael Madden",
+            "Dan Szafaran",
+            "Philomena Gray",
+            "Justin Pelletier",
+            "Ted Selker"
+        ],
+        "pub_source": "International Conference on Digital Forensics and Cyber Crime",
+        "pub_date": "2023/11/30",
+        "description": "Elections are critically contentious and attempted interference must be monitored. To better understand how an attacker might attempt to compromise an internet facing voting infrastructure, we built and deployed a Virtual Voting Machine (VVM) to masquerade as a real electronic voting machine during the 2022 U.S. midterm elections. The honeypot collected 17,682 hits from October 27 to November 9, 2022, even though it was neither publicized nor associated with known elections infrastructure.This paper describes how anyone running such a honeypot might find a huge number of automated hits that are uninteresting, as well as a few that were interesting. We analyzed this traffic and found that many hits resulted from bot-based scraping of our digital architecture or internal security tests. We also received two credible threat types including:1) infection attempts from the Mirai and Mozi botnets, and2) a sophisticated\u00a0\u2026"
+    },
+    {
+        "title": "A Tree-Mapped Taxonomy of Blockchain Attacks",
+        "id": "nNlgxmMAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Emma Lubes",
+            "Justin M Pelletier"
+        ],
+        "pub_source": "2023 7th Cyber Security in Networking Conference (CSNet), 233-237",
+        "pub_date": "2023/10/16",
+        "description": "Blockchains provide decentralized data storage and have gained popularity over the past decade. Their popularity has led to a multitude of attacks in research and practice. We analyzed the available literature and found 147 distinct blockchain attacks. We examined these blockchain attack vectors relative to existing blockchain attack taxonomies and found that current taxonomies miss one-third (33.33%) of attack types. We found that blockchain attacks are evolving faster than we can classify them according to conventional taxonomies. To address this, we provide a novel taxonomy of blockchain attacks using a treemap visualization. We believe this taxonomy will help the community understand the context for new attack discoveries and could help researchers better forecast opportunities for future work in blockchain security."
+    },
+    {
+        "title": "A Look into the Vulnerable Future of Medical Devices Through Assessment of a tDCS Gaming Device",
+        "id": "nNlgxmMAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Adin Drabkin",
+            "Justin M Pelletier"
+        ],
+        "pub_source": "2023 IEEE 11th International Conference on Serious Games and Applications for Health (SeGAH)",
+        "pub_date": "2023/8/28",
+        "description": "Many studies have explored security vulnerabilities in personal medical devices (PMDs). However, these vulnerabilities usually emerge after the PMD is already deployed to patients. In this study, we provide a list of attack categories and adverse events for brain-computer interfaces (BCIs) and implanted PMDs. We apply this list to a security examination of a popular but unregulated device that induces a signal in the user's brain through transcranial direct-current stimulation (tDCS). This paper reports four configurations which could, in combination with other vulnerabilities, allow an attacker to cause adverse events using tDCS."
+    },
+    {
+        "title": "A Common Pentest Output Schema for Business Intelligence System Ingestion",
+        "id": "nNlgxmMAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Shivangi Sharma",
+            "Justin M Pelletier",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2023 46th MIPRO ICT and Electronics Convention (MIPRO)",
+        "pub_date": "2023/5/22",
+        "description": "Data-driven Business Intelligence process improvements demand proactive digital vulnerability discovery and exploitation enumeration. These risk discovery and analyses practices are commonly known as penetration tests (pentests), and have emerged as requirement for most organizations under many compliance regimes such as the global Payment Card Industry Data Security Standard (PCI-DSS) and the federal Gramm-Leach Bliley Act (GLBA) in the United States. Though a growing body of research addresses the utility of pentests as a valuable Business Intelligence method, pentest outputs are not standardized and require time-consuming generation and ingestion before they can provide inputs to Business Intelligence Systems. In this study, we examined several pentest reports and propose a standardized schema for output generation in a common format that is easy for Business Intelligence Systems to\u00a0\u2026"
+    },
+    {
+        "title": "Secure, Accessible, Virtual Voting Infrastructure (SAVVI): Reducing Barriers for Disabled and Overseas Voters",
+        "id": "nNlgxmMAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Ted Selker",
+            "Justin Pelletier"
+        ],
+        "pub_source": "2023 46th MIPRO ICT and Electronics Convention (MIPRO)",
+        "pub_date": "2023/5/22",
+        "description": "We describe a way to deploy a secured ballot return for overseas, vision, or dexterity-impaired voters. SAVVI is a secure, accessible, virtual voting infrastructure. It uses multiple communication channels with synchronized multi\u2013factor authentication, encryption, and hashing to preserve privacy, confidentiality, and vote integrity. Our usability goal is to supply voters easy access to a hardened system that will present secure instances of their familiar browser and email clients. A key to its viability is synchronizing authentication through two low-tech verifications such as phone calls. This strives to enhance security and usability for remote voting by mimicking best practices for in-person polling place procedures. Other more standard cryptographic measures include layered encryption and dynamically provisioning a secure virtual container\u2013a virtual voting machine (VVM)-to process each ballot. In aggregate, the design of\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Cognitive Engineering Modeling of Phishing",
+        "id": "nNlgxmMAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Tiffani Bragg",
+            "Esa M Rantanen",
+            "Justin M Pelletier",
+            "Ehsan Rashedi"
+        ],
+        "pub_source": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+        "pub_date": "2022/9",
+        "description": "Using signal detection theory (SDT) and fuzzy SDT, the influence of familiarity with phishing and having a background in cybersecurity on phishing behavior was examined. The results from SDT analysis indicated that familiarity with phishing only accounted for 11% of the variance in sensitivity and 5% in bias. When examining the same using Fuzzy SDT, familiarity with phishing accounted for 6% of the variance in bias. Background in cybersecurity had a statistically significant effect on sensitivity and bias in classical SDT but only on bias in fuzzy SDT. A confusion matrix revealed that the percentage of successfully transmitted information from the stimuli to the judgements made by participants was only 26%. Participants most frequently identified requests for personal information in stimulus emails as phishing cues. Future research should continue to explore application of the different cognitive engineering models to\u00a0\u2026"
+    },
+    {
+        "title": "The pentest method for business intelligence",
+        "id": "nNlgxmMAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "P Soma Reddy",
+            "JM Pelletier"
+        ],
+        "pub_source": "2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO)",
+        "pub_date": "2022/5/23",
+        "description": "Information transactions and data retention comprise critical inputs to Business Intelligence processes. However, despite ongoing data-driven Business Intelligence process improvements, many companies only discover they are vulnerable to a cyber-attack after a breach materializes the risk. In this study, we propose that compliance regimes such as the global Payment Card Industry Data Security Standard (PCI-DSS), the federal Gramm-Leach Bliley Act (GLBA), and the regional 23-NYCRR-500 standard provide externally-imposed risk discovery opportunities that should be part of managerial decision-making. This paper describes the penetration test (pentest) method relative to those regulatory regimes. We then consider the potential for the pentest method to yield predictive Business Intelligence data sources in five historical cases: the 2017 Equifax Breach, the 2014 J.P. Morgan Chase Breach, the 2012 Global\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Characterizing attacker behavior in a cybersecurity penetration testing competition",
+        "id": "nNlgxmMAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Nuthan Munaiah",
+            "Akond Rahman",
+            "Justin Pelletier",
+            "Laurie Williams",
+            "Andrew Meneely"
+        ],
+        "pub_source": "2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)",
+        "pub_date": "2019/9/19",
+        "description": "Background Inculcating an attacker mindset (i.e. learning to think like an attacker) is an essential skill for engineers and administrators to improve the overall security of software. Describing the approach that adversaries use to discover and exploit vulnerabilities to infiltrate software systems can help inform such an attacker mindset. Aims Our goal is to assist developers and administrators in inculcating an attacker mindset by proposing an approach to codify attacker behavior in cybersecurity penetration testing competition. Method We use an existing multimodal dataset of events captured during the 2018 National Collegiate Penetration Testing Competition (CPTC'18) to characterize the approach a team of attackers used to discover and exploit vulnerabilities. Results We collected 44 events to characterize the approach that one of the participating teams took to discover and exploit seven vulnerabilities. We used the\u00a0\u2026",
+        "citations": 36
+    },
+    {
+        "title": "Modeling e-learner Satisfaction: The Role of Online Customer Experience",
+        "id": "nNlgxmMAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "James Santa",
+            "Neil Hair",
+            "Justin Pelletier"
+        ],
+        "pub_source": "2019 Marketing in Higher Education Track, Academy of Marketing Conference, London",
+        "pub_date": "2019"
+    },
+    {
+        "title": "A cybersecurity dataset derived from the National Collegiate Penetration Testing Competition",
+        "id": "nNlgxmMAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Nuthan Munaiah",
+            "Justin M Pelletier",
+            "Steven Shau-Hsuan Su",
+            "S.J. Yang",
+            "Andy & Meneely"
+        ],
+        "pub_source": "Hawaii International Conference on System Sciences (HICSS): Maui, HI",
+        "pub_date": "2019/1",
+        "description": "Developers, and administrators, can benefit from inculcating an attacker mindset to foreshadow potential security flaws is software systems as they are developed and/or administered. However, the lack of empirical data about real cyberattacks poses a challenge to understanding attacker behavior. In this paper, we describe a dataset captured during the recently held National Collegiate Penetration Testing Competition (CPTC) which can provide some insight into typical attackers\u2019 modus operandi. The competition had nine teams competing to compromise an enterprise cyberinfrastructure advertised as belonging to a fictitious ride sharing organization. The dataset contains an export of over 500 million log events (with a compressed size of over 8.4 GB) and 99 virtual machines (with a compressed size of over 135 GB). The dataset is, to the best of our knowledge, the first of its kind providing insights at the application level from the perspectives of both the attacker and the victim.",
+        "citations": 14
+    },
+    {
+        "title": "Online customer experience in e-learning: Understanding the antecedents and outcomes of perspective graduate student\u2019s website interactions when selecting a place of higher\u00a0\u2026",
+        "id": "nNlgxmMAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Neil Hair",
+            "James Santa",
+            "Justin M Pelletier"
+        ],
+        "pub_source": "Online Learning Consortium: Accelerate 2018: Orlando, FL",
+        "pub_date": "2018/11"
+    },
+    {
+        "title": "Creating a broad pipeline of student venture opportunities: Augmenting students\u2019 limited opportunity recognition abilities",
+        "id": "nNlgxmMAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Richard DeMartino",
+            "Justin M Pelletier"
+        ],
+        "pub_source": "2018 Global Consortium of Entrepreneurship Centers Conference: Chicago, IL",
+        "pub_date": "2018/10"
+    },
+    {
+        "title": "The race to field and secure autonomous combat units",
+        "id": "nNlgxmMAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "JM Pelletier"
+        ],
+        "pub_source": "2018 USENIX Summit on Hot Topics in Security: Baltimore, MD",
+        "pub_date": "2018/8"
+    },
+    {
+        "title": "Optimizing alternative futures: Assuring security in the event of machine superintelligence.",
+        "id": "nNlgxmMAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "JM Pelletier",
+            "M Shita"
+        ],
+        "pub_source": "2018 International Conference on Intelligent Computing and Big Data (IBII): Houston, TX",
+        "pub_date": "2018/4"
+    },
+    {
+        "title": "Longitudinal analysis of information security incident spillover effects",
+        "id": "nNlgxmMAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Justin M Pelletier"
+        ],
+        "pub_source": "Journal of Management Science and Business Intelligence",
+        "pub_date": "2017",
+        "description": "When a company is hacked, market participants take notice. This has been observed consistently for at least a decade, mostly through calculating abnormal returns of individual corporate stocks after a company\u2019s information security incident announcement. Some researchers have found that information security incidents have had a decreasing effect on stock price over time. Their reports suggest that breach related stock price impacts have become increasingly shallow and short-lived. This has led some information security economists to suggest that market forces are not enough to incentivize sufficient corporate investment to information security. They argue that further regulation is necessary to remedy what seems like a rise in investor apathy toward corporate breaches. Other researchers, though, have cautioned that further examination is required and that other market metrics\u2014beyond individual stock price movements\u2014are available to better understand the effects of an information security incident.Sector-wide systematic risk is a measure of the sector\u2019s exposure to exogenous shock. Here, this risk measurement is applied to measure the spillover effects of a corporate information security incident. I conduct 203 event studies between the years 2006 and 2016, calculating sector-wide systematic risk within American stock markets, to measure the spillover effects of data breaches within finance, healthcare, technology and services sectors. The novel application of a longitudinal analysis of variance between repeated event studies reveals that the sector-wide spillover of an incident is both significant and growing. This suggests that an\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Effects of data breaches on sector-wide systematic risk in financial, technology, healthcare and services sectors",
+        "id": "nNlgxmMAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Justin M Pelletier"
+        ],
+        "pub_source": "Capella University",
+        "pub_date": "2017",
+        "description": "This research informs an ongoing debate regarding a firm\u2019s incentives to invest in information security. Previous research reported that data breaches have had a decreasing impact on a company\u2019s stock price over time, leading researchers to conclude that market-based incentives are decreasingly effective. Some information security economists also suggested that further regulation is necessary because they found that capital market participants poorly accounted for the spillover effects of a breach\u2014the effects of a breach that are external to the breached company. However, some studies indicate that sector-wide systematic risk could measure spillover effects and that the effects of a data breach on systematic risk may have changed over time. The purpose of this study was to quantitatively describe the relationship between the data breach of a firm and changes to the systematic risk of that firm\u2019s sector. This\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Pattern Recognition Software: Functional Methodology Document",
+        "id": "nNlgxmMAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nNlgxmMAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Justin M Pelletier",
+            "UNIV OF MILITARY INTELLIGENCE FORT HUACHUCA AZ"
+        ],
+        "pub_source": "",
+        "pub_date": "2009/1/20",
+        "description": "This document examines the need for pattern recognition software in todays military. It outlines a training methodology that will result in better intelligence collection and analysis. The document also outlines the functional requirements of the training software. Finally, it discusses a data architecture technique that will use a software support suite--consisting of a module designer tool and an administration tool--that will provide for maximum adaptability and adoption across the entire Army."
+    }
+]

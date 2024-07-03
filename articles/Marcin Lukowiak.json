@@ -1,0 +1,1125 @@
+[
+    {
+        "title": "System and method for obfuscation of sequential logic through encryption",
+        "id": "PbIpwZcAAAAJ:dfsIfKJdRG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:dfsIfKJdRG4C",
+        "authors": [
+            "MT Kurdziel",
+            "SM Farris",
+            "M Lukowiak",
+            "S Radziszowski"
+        ],
+        "pub_source": "US Patent App. 17/865,519",
+        "pub_date": "2024/1/18",
+        "description": "Systems and methods for protecting intellectual property of a circuit via obfuscation of logic through encryption. The methods comprise: analyzing a combinational circuit (CC) to identify first logic gates that perform first function (s) which is (are) implementable by LUT (s); dividing CC a first portion comprising the first logic gates and a second portion comprising remaining logic gates; protecting gate logic of the first portion by at least storing information implementing the first function (s) in an encrypted LUT format in a memory device of the circuit such that the first function (s) is (are) obfuscated when the circuit is in an at-rest state; and interfacing the remaining logic gates with the memory device such that the circuit is configured to generate an output in accordance with operations of the combinational circuit using the information stored in the encrypted LUT format."
+    },
+    {
+        "title": "Array-Based Statistical Analysis of the MK-3 Customizable Authenticated Encryption Algorithm",
+        "id": "PbIpwZcAAAAJ:4OULZ7Gr8RgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:4OULZ7Gr8RgC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2023/8/29",
+        "description": "To provide security autonomy capability, such that different users can have independent variants of the encryption algorithm, MK-3 is designed to be customizable. Two levels of customization are supported, Factory Customization and Field Customization. Customization is done by modifying functions and function parameters in the algorithm to yield unique cipher functions while preserving the algorithm\u2019s cryptographic security. The main goal of this work is to present the results from the statistical analysis of the customizable MK-3 encryption cypher, focusing on field customized mixers. We recall the main components of the MK-3 algorithm and overview a subset of available factory and field customizations for MK-3. We test the main instances of the field customized versions and give a general argument for their desired statistical properties expected from an encryption cypher."
+    },
+    {
+        "title": "Power Analysis Attacks on the Customizable MK-3 Authenticated Encryption Algorithm",
+        "id": "PbIpwZcAAAAJ:fPk4N6BV_jEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:fPk4N6BV_jEC",
+        "authors": [
+            "Peter Fabinski",
+            "Steve Farris",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "2023 30th International Conference on Mixed Design of Integrated Circuits and System (MIXDES)",
+        "pub_date": "2023/6/29",
+        "description": "MK-3 is an authenticated encryption scheme based on the duplex sponge construction, suitable for both hardware and software. It provides broad factory and field customization features. The same security claims are valid for the original and all recommended customizations. Extensive security analyses of MK-3 were performed in our previous work: differential, linear, cube, and brute force attacks, as well as statistical analysis. In this work we report on new experiments involving Correlation Power Analysis (CPA), which is considered one of the most powerful side-channel attack (SCA) techniques. Two CPA attacks on MK-3 were developed: the first directly after the key absorption, and the second after the S-boxes in the first round of IV absorption. In the first attack, under strong assumptions about an attacker's capability to collect traces, we can recover 128 of the 512 state bits in a physical test on an FPGA. The\u00a0\u2026"
+    },
+    {
+        "title": "Statistical Analysis of the MK-3 Customizable Authenticated Encryption",
+        "id": "PbIpwZcAAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2022-2022 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2022/11/28",
+        "description": "To provide security autonomy capability, such that different users can have independent variants of the encryption algorithm, MK-3 is designed to be customizable. Two levels of customization are supported, Factory Customization and Field Customization. Customization is done by modifying functions and function parameters in the algorithm to yield differing cipher functions while preserving the algorithm's security. The main goal of this work is to present the results from the statistical analysis of the customizable MK-3 encryption scheme, focusing on field customized mixers. We recall the main components of the MK-3 algorithm and overview a subset of available factory and field customizations for MK-3. We test the main instances of the field customized versions and give a general argument for their desired statistical properties expected from an encryption scheme.",
+        "citations": 1
+    },
+    {
+        "title": "Memory Protection with Dynamic Authentication Trees",
+        "id": "PbIpwZcAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Matthew Millar",
+            "Marcin \u0141ukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "2022 29th International Conference on Mixed Design of Integrated Circuits and System (MIXDES)",
+        "pub_date": "2022/6/23",
+        "description": "As embedded devices increase in use and handle more critical information and functionalities, the importance of security grows even greater. Defense against bus attacks such as spoofing, splicing, and replay attacks is of particular concern. Traditional memory authentication techniques, such as hashes and message authentication codes, require significant amounts of on-chip memory and introduce a large performance impact when protecting off-chip memory during run-time. Balanced authentication trees such as the well-known Merkle tree or TEC-Tree can be used to reduce this cost. This work proposes a new method of dynamic authentication trees, which updates a tree structure based on a processor's memory access pattern. An HDL model for use in an FPGA has been developed as a transparent and highly customizable AXI-4 memory controller. The performance of our tree design is comparable to that of\u00a0\u2026"
+    },
+    {
+        "title": "Solving the Cross Domain Problem with Functional Encryption",
+        "id": "PbIpwZcAAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Steve Farris",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2021-2021 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2021/11/29",
+        "description": "A Cross Domain Problem (CDP) is the question of how to securely access and exchange information between the domains of varying security levels. A Cross Domain Solution (CDS) addresses the CDP by designing the framework and protocols for such access and transfers. Most existing CDS methods rely on policies and trusted parties to manage different security levels. A CDS that can function in the presence of untrusted parties is a challenge. Functional Encryption (FE) is an encryption scheme in which a secret key allows one to compute a specific function of plaintext from the ciphertext. FE is a generalization of identity-based and attribute-based encryption frameworks. General and simultaneously practical FE is an emerging area, and only special types of encryption schemes and functions are effectively handled within existing systems. We apply the concepts of FE to explore a new solution to the CDP, and\u00a0\u2026"
+    },
+    {
+        "title": "Cross-domain information transfer system and associated methods",
+        "id": "PbIpwZcAAAAJ:ldfaerwXgEUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:ldfaerwXgEUC",
+        "authors": [
+            "MT Kurdziel",
+            "SM Farris",
+            "P Bajorski",
+            "AR Kaminsky",
+            "M Lukowiak",
+            "..."
+        ],
+        "pub_source": "US Patent 11,115,395",
+        "pub_date": "2021/9/7",
+        "description": "A cross-domain information transfer system includes a key distribution center that generates private encryption keys and a signature key pair as a secret signing and secret verifying key for an attribute associated with a given domain. A sender device generates ciphertext from plaintext based upon the private encryption key, appends an attribute for a given domain to the ciphertext, generates ciphertext with a concealed attribute based upon the secret signing key and broadcasts the ciphertext with the concealed attribute. Domain gateway devices each receive a respective secret verifying key for an associated attribute, receive the ciphertext with the concealed attribute from the untrusted network, and use the secret verifying key to determine if the concealed attribute matches the attribute associated with the domain gateway device, and, when so, pass the ciphertext to at least one receiver device coupled with the\u00a0\u2026"
+    },
+    {
+        "title": "Hardware Obfuscation of the 16-bit S-box in the MK-3 Cipher",
+        "id": "PbIpwZcAAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Jason Blocklove",
+            "Steve Farris",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2021 28th International Conference on Mixed Design of Integrated Circuits and System",
+        "pub_date": "2021/6/24",
+        "description": "At different stages of the Integrated Circuit (IC) lifecycle there are attacks which threaten to compromise the integrity of the design through piracy, reverse engineering, hardware Trojan insertion, side channel analysis, and other physical attacks. Some of the most notable challenges in this field deal specifically with Intellectual Property (IP) theft and reverse engineering attacks. One method by which some of these concerns can be addressed is by introducing hardware obfuscation to the design in various forms. In this work we evaluate the effectiveness of a few different forms of netlist-level hardware obfuscation of a 16-bit substitution box component of a customizable cipher MK-3. These obfuscation methods were attacked using a satisfiability (SAT) attack, which is able to iteratively rule out classes of keys at once. This has been shown to be very effective against many forms of hardware obfuscation. A method to\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Tree-Based Hardware Recursion for Divide-and-Conquer Algorithms",
+        "id": "PbIpwZcAAAAJ:g5m5HwL7SMYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:g5m5HwL7SMYC",
+        "authors": [
+            "Braeden Morrison",
+            "Marcin \u0141ukowiak"
+        ],
+        "pub_source": "2021 28th International Conference on Mixed Design of Integrated Circuits and System",
+        "pub_date": "2021/6/24",
+        "description": "Recursion is a very efficient abstraction that can be found in definitions of many algorithms. However, recursion can be difficult to implement in hardware and as a result is not supported by the majority of high-level synthesis tools (HLS). This work introduces a new framework for implementing recursive functions in hardware, which we call TreeRecur. TreeRecur uses trees to represent the branching recursive function calls of divide-and-conquer algorithms, which makes it possible to take advantage of their procedure-level parallelism. To allow for design flexibility, TreeRecur executes algorithms using a configurable number of independent function processors. These processors are generated using HLS design flow, making it easy to implement a variety of different algorithms. Functionality of our framework was tested on a field programmable gate array (FPGA) using two simple algorithms and compared against\u00a0\u2026"
+    },
+    {
+        "title": "Using Reduced Graphs for Efficient HLS Scheduling",
+        "id": "PbIpwZcAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Stephanie Soldavini",
+            "Sonia L\u00f3pez Alarc\u00f3n",
+            "Marcin \u0141ukowiak"
+        ],
+        "pub_source": "2020 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2020/10/12",
+        "description": "High-Level Synthesis (HLS) is the process of generating digital circuits from high-level algorithmic descriptions. One of the major steps in this design approach is scheduling, which uses the Control/Data Flow Graph (CDFG) of the software code and determines in which order operations must occur. Traditionally, the scheduling process is time and memory intensive. In this paper, we present a new approach to replace the conventional scheduling portion of the HLS tool chain. This new technique significantly reduces the complexity of scheduling, resulting in improved memory usage and lower computational effort. The results demonstrate that an average 16 times speedup on the time required to determine the schedule can be achieved, with just a fraction (1/5 on average) of the memory usage, and with only 0 to 6% of added cost on the final hardware execution time.",
+        "citations": 2
+    },
+    {
+        "title": "Customizable encryption/decryption algorithm",
+        "id": "PbIpwZcAAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "MT Kurdziel",
+            "SM Farris",
+            "AR Kaminsky",
+            "SP Radziszowski",
+            "MX Lukowiak",
+            "..."
+        ],
+        "pub_source": "US Patent 10,666,437",
+        "pub_date": "2020/5/26",
+        "description": "Systems (100) and methods (700) for customizing a cryptographic algorithm. The methods comprise: providing an electronic device with the cryptographic algorithm implementing a permutation function \u0192 configured to produce a first keystream using bits input thereto, the permutation function \u0192 comprising a round function \u0192round consisting of a mixing layer in which input bits are combined together; and customizing the mixing layer of the permutation function \u0192 while the electronic device is in the field. The mixing layer is customized by: receiving, by the electronic device, a first user-software interaction for entering a first bit string comprising a plurality of first arbitrary bits; breaking the first bit string into a plurality of equal length segments each comprising only a portion of the plurality of first bits; and translating each of the equal length segments into irreducible polynomial coefficients and/or an irreducible polynomial\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Design of a flexible Sch\u00f6nhage-Strassen FFT polynomial multiplier with high-level synthesis to accelerate HE in the cloud",
+        "id": "PbIpwZcAAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "Kevin Millar",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig)",
+        "pub_date": "2019/12/9",
+        "description": "Homomorphic Encryption (HE) allows for encrypted data to be sent to, stored, and operated on by untrusted parties without the risk of privacy compromise. The benefits and applications of HE are far reaching, especially in regard to cloud computing. However, current HE solutions require a large number of resource intensive arithmetic operations such as high precision, high degree polynomial multiplication. This work aims to accelerate the multi-precision arithmetic operations used in HE with specific focus on an implementation of the Sch\u00f6nhage-Strassen Fast Fourier Transform (FFT)-based multiplication algorithm. It is planned to be incorporated into a larger HE library of arithmetic functions tuned for High-Level Synthesis (HLS) that enables flexible solutions for hardware/software systems on reconfigurable cloud resources. The developed FFT based polynomial multiplier exhibits flexibility in the selection of HE\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Exploring the application of homomorphic encryption to a cross domain solution",
+        "id": "PbIpwZcAAAAJ:35N4QoGY0k4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:35N4QoGY0k4C",
+        "authors": [
+            "Cody Tinker",
+            "Kevin Millar",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2019-2019 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2019/11/12",
+        "description": "A Cross Domain Solution (CDS) is a means of secure information exchange that provides the ability to access or transfer digital data between varying security domains. Most existing CDS methods focus on risk management policies that rely on using protected or trusted parties to process the information in order to solve this problem. A CDS that is able to function in the presence of untrusted parties is a challenge. We apply the concepts of homomorphic encryption (HE) to explore a new solution to the CDS problem. We built a practical software case study application using the Yet Another Somewhat Homomorphic Encryption Scheme (YASHE) around the specific challenge of evaluating the gateway bypass condition on encrypted data. We assess the feasibility of such an application through performance and memory profiling in order to find a parameter selection that ensures proper homomorphic evaluation. The\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Flexible HLS-based implementation of the Karatsuba multiplier targeting homomorphic encryption schemes",
+        "id": "PbIpwZcAAAAJ:RGFaLdJalmkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:RGFaLdJalmkC",
+        "authors": [
+            "Michael J Foster",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2019 MIXDES-26th International Conference\" Mixed Design of Integrated Circuits and Systems\"",
+        "pub_date": "2019/6/27",
+        "description": "Custom accelerators for high-precision integer arithmetic are increasingly used in compute-intensive applications, in particular homomorphic encryption schemes. This work seeks to advance a strategy for faster deployment of these accelerators using the process of high-level synthesis (HLS). Insights from existing number theory software libraries and custom hardware accelerators are used to develop a scalable implementation of Karatsuba modular polynomial multiplication. The accelerator generated from this implementation by the high-level synthesis tool Vivado HLS achieves significant speedup over the implementations available in the highly-optimized FLINT software library. This is an important first step towards a larger goal of enabling HLS-based homomorphic encryption in the cloud.",
+        "citations": 7
+    },
+    {
+        "title": "Array-based statistical analysis of the MK-3 authenticated encryption scheme",
+        "id": "PbIpwZcAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2018/10/29",
+        "description": "Authenticated encryption (AE) schemes are symmetric key cryptographic methods that support confidentiality, integrity and source authentication. There are many AE algorithms in existence today, in part thanks to the CAESAR competition for authenticated encryption, which is in its final stage. In our previous work we introduced a novel AE algorithm MK-3 (not part of the CAESAR competition), which is based on the duplex sponge construction and it is using novel large 16\u00d716 AES-like S-boxes. Unlike most AE schemes, MK-3 scheme provides additional customization features for users who desire unique solutions. This makes it well suited for government and military applications. In this paper, we develop a new array-based statistical analysis approach to evaluate randomness of cryptographic primitives and show its effectiveness in the analysis of MK-3. One of the strengths of this method is that it focuses on the\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Customization modes for the Harris MK-3 authenticated encryption algorithm",
+        "id": "PbIpwZcAAAAJ:BqipwSGYUEgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:BqipwSGYUEgC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2018/10/29",
+        "description": "MK-3 is a new proprietary authenticated encryption algorithm based on the duplex sponge construction. To provide security autonomy capability, such that different users can have sovereign variants of the encryption algorithm, MK-3 is designed to be customizable. Two levels of customization are supported, Factory Customization and Field Customization. Customization is done by modifying functions and function parameters in the algorithm to yield differing cipher functions while preserving the algorithm's security. This paper describes the MK-3 algorithm's customization options and discusses results of testing designed to verify security autonomy among the customized variants.",
+        "citations": 6
+    },
+    {
+        "title": "Two step power attack on SHA-3 based MAC",
+        "id": "PbIpwZcAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Chun-Yi Chu",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2018 25th International Conference\" Mixed Design of Integrated Circuits and System\"(MIXDES)",
+        "pub_date": "2018/6/21",
+        "description": "Because of the recent break of the SHA-l hash function, it is expected that in the nearest future there will be an increasing interest in the new SHA-3 algorithm. SHA-3 implements a subset of the Keccak family and has been released as the NIST standard in 2015. SHA-3 based MAC is a keyed-hash message authentication function, which can be used to verify both the data integrity of the message and its source. Previous work demonstrated successful side channel attacks, in particular power attacks on hardware implementations of the SHA-3 based MAC. This work presents a new two step practical attack against SHA-3 based MAC implemented on an FPGA hardware. This new attack can successfully extract the 320-bit secret key with 200,000 traces at 90% success rate.",
+        "citations": 3
+    },
+    {
+        "title": "Overview of round one power attacks on SHA-3 Based MAC",
+        "id": "PbIpwZcAAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "Kevin Millar",
+            "Chun-Yi Chu",
+            "Marcin \u0141ukowiak"
+        ],
+        "pub_source": "International Journal of Microelectronics and Computer Science",
+        "pub_date": "2018",
+        "description": "Digital signatures and message authentication codes are the two most common applications of cryptographic hash functions. Others range from ensuring data integrity to randomization functions and key derivation. Because of the recent break of the SHA-1 hash function, it is expected that in the nearest future there will be an increasing interest in the new SHA-3 algorithm. SHA-3 implements a subset of the Keccak family and was released as the NIST standard in 2015. SHA-3 based MAC is a keyed-hash message authentication function, which can be used to verify both the data integrity of a message and its source. Though Keccak is cryptographically secure, implementations of the algorithm may be susceptible to power analysis attacks if not sufficiently protected. This work implements and analyzes two correlation power analysis (CPA) attacks targeting the round one operations of a SHA-3 based MAC implementation on an FPGA."
+    },
+    {
+        "title": "Power analysis of HLS-designed customized instruction set architectures",
+        "id": "PbIpwZcAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Tejaswini Ananthanarayana",
+            "Sonia Lopez",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
+        "pub_date": "2017/5/29",
+        "description": "Performance and power consumption are key features for evaluating any processor design. In this paper, we present close attention to the impact on power and energy consumption of customized Instruction Set Architecture (ISA) designed by means of High Level Synthesis (HLS) tools. We compare these results against a full ISA soft processor, Microblaze. Our customized ISA processors greatly reduce the power consumption and usage of hardware resources by limiting the implemented instructions to those relevant to specific applications, while still allowing to run the target software kernels. The power estimations are based on the results obtained from the latest Xilinx Vivado Design Suite. After testing our approach on two relevant test benches-a linear algebra application and an encryption application-results reveal that our proposed customized ISA processors consume only 0.5x - 0.7x total power and 0.2x - 0\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Effectiveness of variable bit-length power analysis attacks on SHA-3 based MAC",
+        "id": "PbIpwZcAAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Xuan D Tran",
+            "Marcin \u0141ukowiak",
+            "Stanislaw P Radziszowski"
+        ],
+        "pub_source": "MILCOM 2016-2016 IEEE Military Communications Conference",
+        "pub_date": "2016/11/1",
+        "description": "Keccak is the hash function selected by NIST as the new SHA-3 standard. Keccak is built on sponge construction, and it provides a new keyed Message Authentication Code (MAC) function called MAC-Keccak. The focus of this work was to apply the power analysis attacks that use Correlation Power Analysis (CPA) technique to extract the secret key. Our attack methodology utilizes simulated power consumption waveforms and is applied to the Keccak high-speed core hardware design from the SHA-3 competition. 1-bit, 2-bit, 4-bit, 8-bit, and 16-bit CPA selection function key guess size attacks are performed on the waveforms to compare and analyze computational effort of successful key extraction on MAC-Keccak. Our experiments confirm that the larger the selection function key guess size is used, the better the fewer traces are needed to retrieve the key, but using more computation time.",
+        "citations": 4
+    },
+    {
+        "title": "Implementing authenticated encryption algorithm MK-3 on FPGA",
+        "id": "PbIpwZcAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Gordon Werner",
+            "Steven Farris",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2016-2016 IEEE Military Communications Conference",
+        "pub_date": "2016/11/1",
+        "description": "Authenticated encryption (AE) algorithms provide both data security and integrity. While a number of AE algorithms exist, they can be inefficient and difficult to use. Recent efforts have focused on the development of secure, efficient and easy to use AE algorithms. MK-3 is one such algorithm, developed through a joint effort between Rochester Institute of Technology (RIT) and Harris Corporation. It uses the duplex construction, which builds on the sponge primitive popularized by Keccak, the SHA-3 competition winner. MK-3 is intended for hardware implementations with a novelty being the use of 16-bit substitution boxes. This paper presents the first fully parallel hardware implementation of MK-3 using Field Programmable Gate Array (FPGA). We also lay the groundwork for future design optimizations.",
+        "citations": 7
+    },
+    {
+        "title": "Customizable encryption algorithm based on a sponge construction with authenticated and non-authenticated modes of operation",
+        "id": "PbIpwZcAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "MT Kurdziel",
+            "M Kelly",
+            "A Kaminsky",
+            "M Lukowiak",
+            "S Radziszowski"
+        ],
+        "pub_source": "US Patent 9,438,416",
+        "pub_date": "2016/9/6",
+        "description": "Systems (100) and methods (600) for generating encrypted data. The methods involve: combining a cryptographic key with state initialization bits to generate first combination bits; producing a first keystream by performing a permutation function \u0192 using the first combination bits as inputs thereto; and using the first keystream to encrypt first data (eg, authentication data or message body data) so as to produce first encrypted data. The permutation function \u0192 comprises a round function \u0192 round that is iterated R times. The round function \u0192 round consists of (1) a substitution layer in which the first combination bits are substituted with substitute bits,(2) a permutation layer in which the substitute bits are re-arranged,(3) a mixing layer in which multiple of the permutation layer are combined together, and (4) an addition layer in which a constant is added to the output of the mixing layer.",
+        "citations": 13
+    },
+    {
+        "title": "Designing customized ISA processors using high level synthesis",
+        "id": "PbIpwZcAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Sam Skalicky",
+            "Tejaswini Ananthanarayana",
+            "Sonia Lopez",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2015 International Conference on ReConFigurable Computing and FPGAs (ReConFig)",
+        "pub_date": "2015/12/7",
+        "description": "In this paper we propose a new degree of flexibility for soft processor design in which only the instructions relevant to the task at hand are implemented as a subset of the Instruction Set Architecture (ISA). These customized processors execute software kernels in the usual way, yet can be implemented with a fraction of the hardware resources used by other full- ISA soft processor cores. We present a design methodology for such customized ISA processors where the functional description of the processor is written in a high level language and the hardware implementation is obtained using high level synthesis (HLS) tools. We investigate the potential and limitations of the HLS tools to take processor simulator-like implementations in C/C++ and produce functional hardware processor architectures. We apply this methodology to two relevant applications -a basic linear algebra application and a cryptographic\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Constructing large S-boxes with area minimized implementations",
+        "id": "PbIpwZcAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Christopher A Wood",
+            "Stanislaw P Radziszowski",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "MILCOM 2015-2015 IEEE Military Communications Conference",
+        "pub_date": "2015/10/26",
+        "description": "Block ciphers are essential cryptographic primitives used for encryption in resource constrained hardware systems. Many modern block ciphers are based on the substitution permutation network (SPN) design. The substitution step is commonly the only non-linear transformation in the cipher, and is usually comprised of a permutation which applies an S-box substitution to each element of the cipher state. In hardware, the S-box implementation has a significant impact on the area consumed by the cipher. Consequently, there have been considerable research and engineering efforts to obtain compact circuit implementations of S-boxes for hardware systems. Building on past work, we present a comprehensive methodology for (1) constructing cryptographically strong affine-power S-boxes over Galois fields and (2) minimizing the VLSI technology-independent combinational logic requirements for their circuit\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Customizable sponge-based authenticated encryption using 16-bit S-boxes",
+        "id": "PbIpwZcAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Matthew Kelly",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2015-2015 IEEE Military Communications Conference",
+        "pub_date": "2015/10/26",
+        "description": "Authenticated encryption (AE) is a symmetric key cryptographic scheme that aims to provide both confidentiality and data integrity. There are many AE algorithms in existence today. However, they are often far from ideal in terms of efficiency and ease of use. For this reason, there is ongoing effort to develop new AE algorithms that are secure, efficient, and easy to use.",
+        "citations": 20
+    },
+    {
+        "title": "A parallelizing matlab compiler framework and run time for heterogeneous systems",
+        "id": "PbIpwZcAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Sam Skalicky",
+            "Sonia Lopez",
+            "Marcin Lukowiak",
+            "Andrew G Schmidt"
+        ],
+        "pub_source": "2015 IEEE 17th International Conference on High Performance Computing and Communications, 2015 IEEE 7th International Symposium on Cyberspace Safety and Security, and 2015 IEEE 12th International Conference on Embedded Software and Systems",
+        "pub_date": "2015/8/24",
+        "description": "Compute-intensive applications incorporate ever increasing data processing requirements on hardware systems. Many of these applications have only recently become feasible thanks to the increasing computing power of modern processors. The Matlab language is uniquely situated to support the description of these compute-intensive scientific applications, and consequently has been continuously improved to provide increasing computational support in the form of multithreading for CPUs and utilizing accelerators such as GPUs and FPGAs. Moreover, to take advantage of the computational support in these heterogeneous systems from the problem domain to the computer architecture necessitates a wide breadth of knowledge and understanding. In this work, we present a framework for the development of compute-intensive scientific applications in Matlab using heterogeneous processor systems. We\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "Design and performance analysis of efficient KECCAK tree hashing on GPU architectures",
+        "id": "PbIpwZcAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Jason Lowden",
+            "Marcin \u0141ukowiak",
+            "Sonia Lopez Alarcon"
+        ],
+        "pub_source": "Journal of Computer Security",
+        "pub_date": "2015/1/1",
+        "description": "In an effort to provide security and data integrity, hashing algorithms have been designed to consume an input of any length to produce a fixed length output. Keccak was selected by NIST to become the next Secure Hashing Algorithm (SHA-3) after nearly five years of competition. In addition to providing a sequential operating mode, there is also a tree mode that allows large input messages to be hashed in parallel.",
+        "citations": 5
+    },
+    {
+        "title": "Affine-Power S-Boxes over Galois Fields with Area-Optimized Logic Implementations",
+        "id": "PbIpwZcAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Christopher Wood",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "Cryptographic S-boxes are fundamental in key-iterated substitution permutation network (SPN) designs for block ciphers. As a natural way for realizing Shannon\u2019s confusion and diffusion properties in cryptographic primitives through nonlinear and linear behavior, respectively, SPN designs served as the basis for the Advanced Encryption Standard and a variety of other block ciphers. In this work we present a methodology for minimizing the logic resources for n-bit affine-power S-boxes over Galois fields based on measurable security properties and finding corresponding area-efficient combinational implementations in hardware. Motivated by the potential need for new and larger S-boxes, we use our methodology to find area-optimized circuits for 8-and 16-bit S-boxes. Our methodology is capable of finding good upper bounds on the number of XOR and AND gate equivalents needed for these circuits, which can\u00a0\u2026"
+    },
+    {
+        "title": "Mission control: A performance metric and analysis of control logic for pipelined architectures on FPGAs",
+        "id": "PbIpwZcAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Sam Skalicky",
+            "Sonia Lopez",
+            "Marcin Lukowiak",
+            "Christopher Wood"
+        ],
+        "pub_source": "2014 International Conference on ReConFigurable Computing and FPGAs (ReConFig14)",
+        "pub_date": "2014/12/8",
+        "description": "The performance of a pipelined architecture is often limited by incorrectly designed or poorly implemented control logic. Once a design is implemented and meets timing constraints, the mission is to evaluate if it is achieving optimum performance. At this stage, the number of pipelines and functional units are fixed and the amount of resources and memory bandwidth are finalized. If a design is performing suboptimally the only recourse is to improve the control logic. In this paper we present a metric to quantify the achievable performance of a design and use it to analyze performance degradation due to control logic. We analyze the control logic of existing architectures and present improvements that achieve speedups of up to 10.7\u00d7.",
+        "citations": 3
+    },
+    {
+        "title": "Enabling FPGA support in Matlab based heterogeneous systems",
+        "id": "PbIpwZcAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Sam Skalicky",
+            "Tyler Kwolek",
+            "Sonia Lopez",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2014 International Conference on ReConFigurable Computing and FPGAs (ReConFig14)",
+        "pub_date": "2014/12/8",
+        "description": "FPGAs have been shown to provide orders of magnitude improvement over CPUs and GPUs in terms of absolute performance and energy efficiency for various kernels such as Cholesky decomposition, matrix inversion, and FFT among others. Despite this, the overall performance of many applications suffer when implemented entirely in FPGAs. Combining FPGAs with CPUs and GPUs provides the range of capabilities needed to support diverse computational requirements of applications. Integrating FPGAs into these systems challenges application developers with constructing hardware kernel implementations and interfacing from the low level hardware logic in the FPGA to the high speed networks that connect processors in the system. In this work we extend the compute capabilities of Matlab by incorporating support for FPGAs and automating the parallel code generation. We characterize the system and\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Electronic key management using PKI to support group key establishment in the tactical environment",
+        "id": "PbIpwZcAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "MT Kurdziel",
+            "P Bajorski",
+            "A Kaminsky",
+            "M Lukowiak",
+            "S Radziszowski",
+            "..."
+        ],
+        "pub_source": "US Patent 8,873,759",
+        "pub_date": "2014/10/28",
+        "description": "Method for distributing a group session cryptographic key includes initiating at least one pairwise key distribution session including a root node (100) and at least one communication node (101-107). The method further includes performing at a communication node which has received the group session cryptographic key a propagated pairwise key distribution session with at least one of the communication nodes which has not previously received said group session cryptographic key. The propagated pairwise key distribution sessions are performed at each of the communication nodes which subsequently receives the group session cryptographic key until the group session cryptographic key has been securely provided to all authorized communication nodes.",
+        "citations": 12
+    },
+    {
+        "title": "Performance modeling of pipelined linear algebra architectures on FPGAs",
+        "id": "PbIpwZcAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Sam Skalicky",
+            "Sonia Lopez",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "Computers & Electrical Engineering",
+        "pub_date": "2014/5/1",
+        "description": "The potential design space of FPGA accelerators is very large. The factors that define performance of a particular implementation include the architecture design, number of pipelines, and memory bandwidth. In this paper we present a mathematical model that, based on these factors, calculates the computation time of pipelined FPGA accelerators and allows for quick exploration of the design space without any implementation or simulation. We evaluate the model and its ability to identify design bottlenecks and improve performance. Being the core of many compute-intensive applications, linear algebra computations are the main contributors to their total execution time. Hence, five relevant linear algebra computations are selected, analyzed, and the accuracy of the model is validated against implemented designs.",
+        "citations": 5
+    },
+    {
+        "title": "Cybersecurity education: Bridging the gap between hardware and software domains",
+        "id": "PbIpwZcAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "James Vallino",
+            "Christopher Wood"
+        ],
+        "pub_source": "ACM Transactions on Computing Education (TOCE)",
+        "pub_date": "2014/3/1",
+        "description": "With the continuous growth of cyberinfrastructure throughout modern society, the need for secure computing and communication is more important than ever before. As a result, there is also an increasing need for entry-level developers who are capable of designing and building practical solutions for systems with stringent security requirements. This calls for careful attention to algorithm choice and implementation method, as well as trade-offs between hardware and software implementations. This article describes motivation and efforts taken by three departments at Rochester Institute of Technology (Computer Engineering, Computer Science, and Software Engineering) that were focused on creating a multidisciplinary course that integrates the algorithmic, engineering, and practical aspects of security as exemplified by applied cryptography. In particular, the article presents the structure of this new course, topics\u00a0\u2026",
+        "citations": 20
+    },
+    {
+        "title": "Journal of Telecommunications System & Management",
+        "id": "PbIpwZcAAAAJ:RYcK_YlVTxYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:RYcK_YlVTxYC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "Christopher Wood"
+        ],
+        "pub_source": "",
+        "pub_date": "2014",
+        "description": "A number of key management challenges are encountered when operating tactical communication systems using a group-wide shared key. A large portion of such communications occurs over low bit-rate channels, and all communication channels must be available at any moment for mission action. Current over-the-air rekeying protocols consume too much channel bit-rate to be practical for large tactical radio networks. This caused an off-line pre-placed key (PPK) approach to become most commonly used key distribution method in these environments. Unfortunately, with this key management scheme, revoking group membership requires a full intra-mission rekey, which can be dangerous in a battlefield situation. This paper introduces a new group key distribution method called Viral Electronic Key Exchange (VEKE). This paper examines the protocol as an extension to the Internet Key Exchange (IKE) protocol, but any electronic key exchange protocol can be used (Ex. IKE v2). A feature of this protocol is a parallel key distribution scheme enabled by propagating the key management role to authenticated nodes while establishing security associations across the network. We performed a comprehensive stochastic analysis to develop a model for computing the expected rekey time across the entire group, taking into account the likelihood of node jamming, channel failures, and message corruption. This model was verified with a Monte-Carlo simulation. Our results confirmed that the VEKE protocol can accomplish an over-the-air rekey in a short period of time, even over low bit-rate systems, while preserving rigid security and channel availability\u00a0\u2026"
+    },
+    {
+        "title": "Telecommunications System & Management",
+        "id": "PbIpwZcAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "Christopher Wood"
+        ],
+        "pub_source": "",
+        "pub_date": "2014",
+        "description": "A number of key management challenges are encountered when operating tactical communication systems using a group-wide shared key. A large portion of such communications occurs over low bit-rate channels, and all communication channels must be available at any moment for mission action. Current over-the-air rekeying protocols consume too much channel bit-rate to be practical for large tactical radio networks. This caused an off-line pre-placed key (PPK) approach to become most commonly used key distribution method in these environments. Unfortunately, with this key management scheme, revoking group membership requires a full intra-mission rekey, which can be dangerous in a battlefield situation. This paper introduces a new group key distribution method called Viral Electronic Key Exchange (VEKE). This paper examines the protocol as an extension to the Internet Key Exchange (IKE) protocol, but any electronic key exchange protocol can be used (Ex. IKE v2). A feature of this protocol is a parallel key distribution scheme enabled by propagating the key management role to authenticated nodes while establishing security associations across the network. We performed a comprehensive stochastic analysis to develop a model for computing the expected rekey time across the entire group, taking into account the likelihood of node jamming, channel failures, and message corruption. This model was verified with a Monte-Carlo simulation. Our results confirmed that the VEKE protocol can accomplish an over-the-air rekey in a short period of time, even over low bit-rate systems, while preserving rigid security and channel availability\u00a0\u2026"
+    },
+    {
+        "title": "Stochastic Analysis and Modeling of a Tree-Based Group Key Distribution Method in Tactical Wireless Networks",
+        "id": "PbIpwZcAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski",
+            "Christopher Wood"
+        ],
+        "pub_source": "Journal of Telecommunications System & Management",
+        "pub_date": "2014/1/1",
+        "description": "This paper introduces a new group key distribution method called Viral Electronic Key Exchange (VEKE). This paper examines the protocol as an extension to the Internet Key Exchange (IKE) protocol, but any electronic key exchange protocol can be used. A feature of this protocol is a parallel key distribution scheme enabled by propagating the key management role to authenticated nodes while establishing security associations across the network. We performed a comprehensive stochastic analysis to develop a model for computing the expected rekey time across the entire group, taking into account the likelihood of node jamming, channel failures, and message corruption. This model was verified with a Monte-Carlo simulation. The results confirmed that the VEKE protocol can accomplish an over-the-air rekey in a short period of time, even over low bit-rate systems, while preserving rigid security and channel\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Distributed execution of transmural electrophysiological imaging with cpu, gpu, and fpga",
+        "id": "PbIpwZcAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Sam Skalicky",
+            "Sonia Lopez",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig)",
+        "pub_date": "2013/12/9",
+        "description": "One of the main challenges of using cutting edge medical imaging applications in the clinical setting is the large amount of data processing required. Many of these applications are based on linear algebra computations operating on large data sizes and their execution may require days in a standard CPU. Distributed heterogeneous systems are capable of improving the performance of applications by using the right computation-to-hardware mapping. To achieve high performance, hardware platforms are chosen to satisfy the needs of each computation with corresponding architectural features such as clock speed, number of parallel computational units, and memory bandwidth. In this paper we evaluate the performance benefits of using different hardware platforms to accelerate the execution of a transmural electro physiological imaging algorithm, targeting a standard CPU with GPU and FPGA accelerators. Using\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "High level synthesis: Where are we? A case study on matrix multiplication",
+        "id": "PbIpwZcAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Sam Skalicky",
+            "Christopher Wood",
+            "Marcin \u0141ukowiak",
+            "Matthew Ryan"
+        ],
+        "pub_source": "2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig)",
+        "pub_date": "2013/12/9",
+        "description": "One of the pitfalls of FPGA design is the relatively long implementation time when compared to alternative architectures, such as CPU, GPU or DSP. This time can be greatly reduced however by using tools that can generate hardware systems in the form of a hardware description language (HDL) from high-level languages such as C, C++, or Python. Such implementations can be optimized by applying special directives that focus the high-level synthesis (HLS) effort on particular objectives, such as performance, area, throughput, or power consumption. In this paper we examine the benefits of this approach by comparing the performance and design times of HLS generated systems versus custom systems for matrix multiplication. We investigate matrix multiplication using a standard algorithm, Strassen algorithm, and a sparse algorithm to provide a comprehensive analysis of the capabilities and usability of the Xilinx\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Linear algebra computations in heterogeneous systems",
+        "id": "PbIpwZcAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Sam Skalicky",
+            "Sonia L\u00f3pez",
+            "Marcin \u0141ukowiak",
+            "James Letendre",
+            "David Gasser"
+        ],
+        "pub_source": "2013 IEEE 24th International Conference on Application-Specific Systems, Architectures and Processors",
+        "pub_date": "2013/6/5",
+        "description": "One of the main challenges of using heterogeneous systems results from the need to find the computation-to-hardware assignments that maximize the overall application performance. The important computational factors that must be taken into account include algorithmic complexity, exploitable parallelism, memory bandwidth requirements, and data size. To achieve high performance, a hardware platform is chosen to satisfy the needs of a computation with corresponding architectural features such as clock speed, number of parallel computational units, and memory bandwidth. In this paper five linear algebra computations that are commonly found in compute-intensive applications are selected and evaluated in terms of performance on CPU, GPU, and FPGA platforms across a wide range of data sizes. The results are used to provide guidelines to help select the best performing hardware platform based on the\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Minimizing performance overhead in memory encryption",
+        "id": "PbIpwZcAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Michael T Kurdziel",
+            "Marcin Lukowiak",
+            "Michael A Sanfilippo"
+        ],
+        "pub_source": "Journal of Cryptographic Engineering",
+        "pub_date": "2013/6",
+        "description": "Modern communications devices process, distribute and store massive amounts of data compared to only a few years ago. These devices can contain very sensitive information. In addition, they are used in uncontrolled, open environments where they can be lost or compromised. The communications channels are protected using encryption technologies, but the internal data-at-rest is often not secured in any way. If the device is lost or stolen while in service, a motivated adversary could attempt to compromise the unprotected internal data. This paper presents a keystream caching methodology and architecture for encrypting/decrypting program code and data in real-time during each access within CPU\u2019s system memory. A prototype was developed for the Cyclone III FPGA using a Nios II processor, the 256-bit key Advanced Encryption Standard (AES) block cipher operating in a counter mode, and low\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Implantable Medical Device Security: From a Machine Learning Perspective",
+        "id": "PbIpwZcAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Fei Hu",
+            "Xiaojiang Du",
+            "Xiali Hei",
+            "Alexandru Samachisa",
+            "Marcin Lukowiak",
+            "Dong Zhang",
+            "Shuhui Li",
+            "Jie Wu",
+            "Daniel Phillips"
+        ],
+        "pub_source": "Telehealthcare Computing and Engineering",
+        "pub_date": "2013/4/26",
+        "description": "Implantable Medical Devices (IMDs) have been widely used to treat various diseases. Examples of IMDs include oximeters [1], defibrillators, pacemakers [2], and patient monitors [3]. In cardiac patients, if an emergency occurs, a pacemaker needs to send the alarm to a doctor or a local hospital. As IMDs have significant applications, more and more people are beginning to develop different types of IMDs such as drug pump, neuro-stimulator, etc. To convince patients to use such IMDs, one critical issue needs to be solved, that is, how we securely access the IMDs from external devices (called IMD readers)? The wireless communication channel between an IMD and an external reader can easily be attacked by an adversary. The most common attack is data eavesdropping, which can steal the patient\u2019s privacy information. If the access of\u00a9 2013 by Taylor & Francis Group, LLC"
+    },
+    {
+        "title": "Performance modeling of pipelined linear algebra architectures on FPGAs",
+        "id": "PbIpwZcAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Sam Skalicky",
+            "Sonia Lopez",
+            "Marcin \u0141ukowiak",
+            "James Letendre",
+            "Matthew Ryan"
+        ],
+        "pub_source": "Reconfigurable Computing: Architectures, Tools and Applications: 9th International Symposium, ARC 2013, Los Angeles, CA, USA, March 25-27, 2013. Proceedings 9",
+        "pub_date": "2013",
+        "description": "The potential design space of FPGA accelerators is very large. The factors that define the performance of a particular implementation include the architecture design, number of pipelines, and memory bandwidth. In this paper we present a mathematical model that, based on these factors, predicts the computation time of pipelined FPGA accelerators. This model can be used to quickly explore the design space without any implementation or simulation. We evaluate the model, its usefulness, and ability to identify the bottlenecks and improve performance. Being the core of many compute-intensive applications, linear algebra computations are the main contributors to their total execution time. Hence, five relevant linear algebra computations are selected, analyzed, and the accuracy of the model is validated against implemented designs.",
+        "citations": 13
+    },
+    {
+        "title": "Developing an applied, security-oriented computing curriculum",
+        "id": "PbIpwZcAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Marcin Lukowiak",
+            "Andrew Meneely",
+            "Stanislaw P Radziszowski",
+            "James R Vallino",
+            "Christopher A Wood"
+        ],
+        "pub_source": "2012 ASEE Annual Conference & Exposition",
+        "pub_date": "2012/6/10",
+        "description": "Developing an Applied, Security-Oriented Computing CurriculumSoftware and hardware security is a reality that all stakeholders must face, from hardwareengineers to software developers to customers. As a direct result, the technology industry isfacing a growing need for graduates who have an understanding of security principles at varyinglevels of abstraction. These graduates will need security-oriented perspectives stemming fromboth theoretical and practical disciplines, including Software Engineering, ComputerEngineering, and Computer Science. Unfortunately, in traditional academic settings, securesoftware and hardware are typically taught by separate departments despite being intertwined inpractice. Consequently, the objective of this initiative is to prepare students to apply a security-oriented awareness to every aspect of hardware and software systems by developing a multi-disciplinary curriculum\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Versatile FPGA architecture for skein hashing algorithm",
+        "id": "PbIpwZcAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "David M Webster",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2011 International Conference on Reconfigurable Computing and FPGAs",
+        "pub_date": "2011/11/30",
+        "description": "This paper focuses on the design and analysis of a versatile Field Programmable Gate Array (FPGA) hardware for the Skein hashing algorithm. A single design capable of processing individual messages sequentially, multiple messages using pipelined architecture, or executing Skein's tree hashing mode using the same pipelined architecture was developed for the Skein-256 version of the algorithm. Emphasis was placed on efficient use of FPGA resources and detailed performance analysis of pipelined tree hashing. The design is compared with current sequential and tree hashing FPGA implementations. The post place-and-route results show that our design achieves a maximum throughput of 1.4Gbps in sequential mode, 6.6Gbps in multiple message mode, and 6.6Gbps in tree hashing mode on a Virtex-5 FPGA and 1.5Gbps, 7.7Gbps, and 7.7Gbps on a Virtex-6 respectively.",
+        "citations": 3
+    },
+    {
+        "title": "Effects of GPU and CPU Loads on Performance of CUDA Applications",
+        "id": "PbIpwZcAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Maksim Bobrov",
+            "Roy Melton",
+            "S Radziszowski",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA)",
+        "pub_date": "2011/7",
+        "description": "General purpose computing on GPUs provides a way for certain applications to benefit from a commonly available massively parallel architecture. As such deployment becomes more widespread, multiple GPU applications will have to execute on the same hardware in systems that have only one GPU. The aggregate loads of the GPU and CPU impact the performance of each application. This work investigates the effects of CPU and GPU loads on the performance of two CUDA GPU applications with significantly different CPU-GPU interaction profiles: implementations of the AES encryption and Keccak hashing algorithms. The percentage degradation in performance of these applications from CPU and GPU loads indicates dependence on the total execution time of the application, with the greatest degradation for the shortest execution times. Performance degradations as high as 22% and 36% were observed for CPU and GPU loads, respectively.",
+        "citations": 4
+    },
+    {
+        "title": "Implantable medical device communication security: pattern vs. signal encryption",
+        "id": "PbIpwZcAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Fei Hu",
+            "Qi Hao",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2nd USENIX Workshop on Health Security and Privacy (HealthSec 11)",
+        "pub_date": "2011",
+        "description": "A tele-healthcare system consists of the interconnections of medical sensors and implantable medical devices (IMDs). The tele-healthcare system needs secure medical signal acquisition because there are network attacks that could fail the medical signal collection tasks. For instance, an adversary can insert bad commands to IMD-doctor data communication channels in order to make the IMD operate incorrectly. A pacemaker can make the heart stop beating if it receives the \u201csleep\u201d command by mistake. Although medical security has been studied [1, 2, 5, 6], very little work has investigated the following issue: how do we utilize the special medical signal time/frequency domain characteristics to improve medical security efficiency? Can we design an ultra-low-energy medical data encryption scheme that is suitable to resource-constrained implantable medical devices?",
+        "citations": 2
+    },
+    {
+        "title": "Skein tree hashing on fpga",
+        "id": "PbIpwZcAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Aric Schorr",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "2010 International Conference on Reconfigurable Computing and FPGAs",
+        "pub_date": "2010/12/13",
+        "description": "This paper focuses on design and analysis of a Field Programmable Gate Array (FPGA) hardware for Skein's tree hashing mode. Several approaches on how to modify sequential hashing cores, and create scalable control logic in order to provide for high-speed parallel hashing hardware are presented and analyzed. The results are compared to the current sequential designs of Skein, providing a complete analysis of the performance of Skein in custom FPGA hardware. The post place-and-route results show that our tree based Skein-256 design achieved a throughput of 3 Gbps using two cores, and 5.6 Gbps for four cores as compared to 1.6 Gbps for sequential systems. The design is parametrizable using leaf-size (Y L ), nodefanout (Y F ), and internal block size (IS BIT ). The control logic follows the same methodology, but is designed for a specific number of cores (NCORE) to correctly handle the core\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Methodology for simulated power analysis attacks on aes",
+        "id": "PbIpwZcAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Kenneth Smith",
+            "Marcin \u0141ukowiak"
+        ],
+        "pub_source": "2010-MILCOM 2010 MILITARY COMMUNICATIONS CONFERENCE",
+        "pub_date": "2010/10/31",
+        "description": "This paper presents detailed methodology for performing simulated Power Analysis Attacks (PAAs) on gate level models of cryptographic components with Synopsys design tools. First the Advanced Encryption Standard (AES) hardware model is developed for the experiment using VHDL. The model is then synthesized with Synopsys DesignCompiler and the 130-nm CMOS standard cell library. Simulated instantaneous power consumption waveforms are generated with Synopsys PrimeTime PX. Results are analyzed and successful single and multiple-bit Differential Power Analysis (DPA) attacks are performed on the waveforms. The AES hardware model did not implement any DPA countermeasure techniques.",
+        "citations": 11
+    },
+    {
+        "title": "FPGA-based, multi-processor HW-SW system for Single-Chip Crypto applications",
+        "id": "PbIpwZcAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Andrew Fitzgerald",
+            "Marcin \u0141ukowiak",
+            "Michael Kurdziel",
+            "Christopher Mackey",
+            "Kenneth Smith",
+            "Brian Boorman",
+            "Duncan Harris",
+            "William Skiba"
+        ],
+        "pub_source": "2010-MILCOM 2010 MILITARY COMMUNICATIONS CONFERENCE",
+        "pub_date": "2010/10/31",
+        "description": "This paper discusses design and analysis of an FPGA-based system containing two isolated, Altera Nios II softcore processors that share data through two custom crypto-engines. FPGA-based Single-Chip Cryptographic (SCC) techniques were employed to ensure full red/black separation. Each crypto-engine is a hardware implementation of the Advanced Encryption Standard (AES), operating in Galois/Counter mode (GCM). The features of the AES crypto-engines were varied with the goal of determining which best achieve high performance or minimal hardware usage. To quantify the costs of red/black separation, a thorough analysis of resource requirements was performed. The hardware/software approach was utilized in order to provide appropriate levels of flexibility and performance, allowing for a range of target applications.",
+        "citations": 2
+    },
+    {
+        "title": "Trustworthy data collection from implantable medical devices via high-speed security implementation based on IEEE 1363",
+        "id": "PbIpwZcAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Fei Hu",
+            "Qi Hao",
+            "Marcin Lukowiak",
+            "Qingquan Sun",
+            "Kyle Wilhelm",
+            "Stanis\u0142aw Radziszowski",
+            "Yao Wu"
+        ],
+        "pub_source": "IEEE Transactions on Information Technology in Biomedicine",
+        "pub_date": "2010/4/26",
+        "description": "Implantable medical devices (IMDs) have played an important role in many medical fields. Any failure in IMDs operations could cause serious consequences and it is important to protect the IMDs access from unauthenticated access. This study investigates secure IMD data collection within a telehealthcare [mobile health (m-health)] network. We use medical sensors carried by patients to securely access IMD data and perform secure sensor-to-sensor communications between patients to relay the IMD data to a remote doctor\u2019s server. To meet the requirements on low computational complexity, we choose N-th degree truncated polynomial ring (NTRU)-based encryption/decryption to secure IMD\u2013sensor and sensor\u2013sensor communications. An extended matryoshkas model is developed to estimate direct/indirect trust relationship among sensors. An NTRU hardware implementation in very large integrated circuit\u00a0\u2026",
+        "citations": 26
+    },
+    {
+        "title": "Low-Power Circuit Design for Cardiac Data Mining in Medical Sensor Networks",
+        "id": "PbIpwZcAAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Fei Hu",
+            "Alexandru Samachisa",
+            "Marcin Lukowiak",
+            "Daniel Philips",
+            "Yang Xiao"
+        ],
+        "pub_source": "Handbook On Sensor Networks",
+        "pub_date": "2010",
+        "description": "Medical Sensor Networks are becoming an important tele-healthcare information infrastructure due to their low-power, low-cost, large-scale wireless sensor deployment and flexible data collection and processing. For a long term, ECG data mining is based on pure software implementation, which needs significant calculation time. To speed up the local ECG data processing in a medical sensor, this work proposes the chip design approach to make a dedicate VLSI chip for ECG data pattern recognition. We will provide the detailed circuit design principle for complex Wavelet-based data classification algorithms. Especially we target low-power design."
+    },
+    {
+        "title": "NTRU-based confidential data transmission in telemedicine sensor networks",
+        "id": "PbIpwZcAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Fei Hu",
+            "Xiaojun Cao",
+            "Kyle Wilhelm",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Security in Ad Hoc and Sensor Networks",
+        "pub_date": "2010",
+        "description": "This chapter discusses the security requirements of medical sensor networks and describes a low-complexity/energy-efficient medical privacy preserving scheme which is based on NTRU algorithms. Unlike the current works that apply NTRU algorithms in pure software, this chapter focuses on the hardware implementation of NTRU algorithms since a hardware implementation offers many advantages such as energy consumption and execution speed. This chapter provides a study of many of the recommended practices and suggested optimizations with particular emphasis on polynomial arithmetic and parameter selection.",
+        "citations": 1
+    },
+    {
+        "title": "Case study on FPGA performance of parallel hash functions",
+        "id": "PbIpwZcAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Przemyslaw Zalewski",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "Przeglad Elektrotechniczny/Electrical Review",
+        "pub_date": "2010/1/1",
+        "description": "Hashing functions play a fundamental role in modern cryptography. Such functions process data to produce a small fixed size output referred to as a digest or hash. Typical applications of these functions include data integrity verification and message authentication schemes. We argue that high parallelizability of the forthcoming new SHA-3 hash standard should be a critical and achievable property of proposed algorithms. In this paper we present an FPGA design and performance analysis of a recently proposed parallelizable hash function PHASH. It is not a SHA-3 candidate but rather a hash template using tree hashing and a block cipher. The main feature of PHASH is that it is able to process multiple data blocks at once making it suitable for achieving ultra high performance. PHASH achieved a throughput over 15 Gbps using a single block cipher instance and 182 Gbps for 16 instances.",
+        "citations": 6
+    },
+    {
+        "title": "Flexible framework for commodity FPGA cluster computing",
+        "id": "PbIpwZcAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Jeremy Espenshade",
+            "Marcin Lukowiak",
+            "Muhammad Shaaban",
+            "Gregor von Laszewski"
+        ],
+        "pub_source": "2009 International Conference on Field-Programmable Technology",
+        "pub_date": "2009/12/9",
+        "description": "With falling costs and successful demonstrations of performance, FPGAs have become a prime candidate for use in high performance computing. However, the use of FPGA technology in clustered environments has largely been limited to commercial and/or proprietary designs that require developers to learn new programming models and software tools. In this paper, a framework is presented which enables development of parallel programs across application-specific reconfigurable hardware using simple hardware interface abstractions and standard MPI application structure. This approach leverages commodity technologies including embedded Linux running on hardwired PowerPC processors to manage communication such that each hardware acceleration unit can function as a fully MPI-2 compatible node. The implied hardware/software design and programming model are discussed and an application\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Scalable FPGA design and performance analysis of PHASH hashing function",
+        "id": "PbIpwZcAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Przemyslaw Zalewski",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "2009 MIXDES-16th International Conference Mixed Design of Integrated Circuits & Systems",
+        "pub_date": "2009/6/25",
+        "description": "This paper presents an FPGA design and performance analysis of a recently proposed parallelizable hash function- PHASH. The main feature of PHASH is that it is able to process multiple data blocks at once making it suitable for achieving ultra high-performance. It utilizes the W cipher, as described in the Whirlpool hashing function at its core. A Virtex-4 FX60 FPGA was used in order to verify functionality of the implementation of the algorithm in hardware. To achieve high performance, state-of-the-art Virtex-5 LX330 FPGA was used as target platform. PHASH achieved a throughput over 15 Gbps using a single W cipher instance and 182 Gbps for 16 instances. For fair comparison of the performance of PHASH with widely accepted SHA-512 and Whirlpool hashing functions we have also developed their high performance implementations targeting the same FPGA platforms. SHA-512 implementation attained a\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "NTRU\u2010based sensor network security: a low\u2010power hardware implementation perspective",
+        "id": "PbIpwZcAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Fei Hu",
+            "Kyle Wilhelm",
+            "Michael Schab",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski",
+            "Yang Xiao"
+        ],
+        "pub_source": "Security and Communication Networks",
+        "pub_date": "2009/1",
+        "description": "Wireless sensor network security requires the cryptography software extremely low complex and energy efficient due to the limited memory and CPU capacity in a sensor. The NTRU (Nth degree truncated polynomial ring) encrypt algorithm has been shown to provide certain advantages when designing low power and resource constrained systems, while still providing comparable security levels to higher complexity algorithms. Unlike the current works that build NTRU software in a chip, this research focuses on the hardware implementation of NTRU algorithms because hardware implementation has much higher execution speed than software implementation. In contrast to previous research, the focus is shifted away from specific optimizations but rather provides a study of many of the recommended practices and suggested optimizations with particular emphasis on polynomial arithmetic and parameter selection\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "Spaceborne Hybrid-FPGA System for Processing FTIR Data",
+        "id": "PbIpwZcAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Dmitriy Bekker",
+            "Jean-Francois L Blavier",
+            "Paula J Pingree",
+            "Marcin Lukowiak",
+            "Muhammad Shaaban"
+        ],
+        "pub_source": "NASA Tech Briefs, December 2008",
+        "pub_date": "2008/12/1",
+        "description": "Progress has been made in a continuing effort to develop a spaceborne computer system for processing readout data from a Fourier-transform infrared (FTIR) spectrometer to reduce the volume of data transmitted to Earth. The approach followed in this effort, oriented toward reducing design time and reducing the size and weight of the spectrometer electronics, has been to exploit the versatility of recently developed hybrid field-programmable gate arrays (FPGAs) to run diverse software on embedded processors while also taking advantage of the reconfigurable hardware resources of the FPGAs."
+    },
+    {
+        "title": "FPGA implementation of a lossless to lossy bitonal image compression system",
+        "id": "PbIpwZcAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "A Savakis",
+            "M Lukowiak",
+            "J Pyle"
+        ],
+        "pub_source": "2008 15th International Conference on Mixed Design of Integrated Circuits and Systems",
+        "pub_date": "2008/6/19",
+        "description": "This paper presents an FPGA implementation of a lossless to lossy image compression system that incorporates region of interest processing. Block Arithmetic Coder Image Compression is combined with Low-Latency Greedy Flipping Utilizing Forgetful Error Diffusion for loss introduction. The system allows for perfect quality, associated with lossless compression, or three levels of reduced image quality, high, medium and low, associated with various levels of loss introduction. Region of interest processing can be incorporated by adjusting the system parameters for maximum visual benefit.",
+        "citations": 2
+    },
+    {
+        "title": "Methodology and optimizing of multiple frame format buffering within FPGA H. 264/AVC decoder with FRExt",
+        "id": "PbIpwZcAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "M Lukowiak",
+            "T Sttots"
+        ],
+        "pub_source": "2008 15th International Conference on Mixed Design of Integrated Circuits and Systems",
+        "pub_date": "2008/6/19",
+        "description": "This work evaluated the role of designing the frame buffer of a hardware video decoder, with integrated support for the H.264/AVC codec and its Fidelity Range Extensions (FRExt) amendment. With focus on organizing external memory data access, the frame buffer was designed to provide intermediate data storage for the decoder, while using an efficient store and load scheme that takes into consideration each frame pixel format of the video data. VHDL was used to model the frame buffer. Exploitation of reconfigurability and post-synthesis FPGA simulations were used to evaluate behavior and scalability while providing an analysis of approaches to adding FRExt to the memory management.",
+        "citations": 1
+    },
+    {
+        "title": "A hybrid-fpga system for on-board data processing targeting the matmos ftir instrument",
+        "id": "PbIpwZcAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Dmitriy L Bekker",
+            "Marcin Lukowiak",
+            "Muhammad Shaaban",
+            "Jean-Francois L Blavier",
+            "Paula J Pingree"
+        ],
+        "pub_source": "2008 IEEE Aerospace Conference",
+        "pub_date": "2008/3/1",
+        "description": "The MATMOS Fourier transform infrared (FTIR) spectrometer is one of three scientific instruments on the previously proposed MARVEL mission. MATMOS requires computationally intensive floating-point signal processing to reduce the amount of data prior to downlink. With the goal of reducing design time and the size and weight of instrument electronics, this paper presents an FTIR spectrometry implementation targeting the Xilinx Virtex-4FX hybrid-FPGA and its embedded PowerPC 405 processor. We explore different hardware and software optimizations and architectural configurations of the hybrid-FPGA system to demonstrate optimal performance in onboard data processing. By including a dedicated floating point unit and dot-product co-processor in the hardware as well as utilizing optimized single-precision math library functions and a modified IBM PowerPC performance library in the software, we\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "A new architecture for single-event detection & reconfiguration of SRAM-based FPGAs",
+        "id": "PbIpwZcAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Eze Kamanu",
+            "Pratapa Reddy",
+            "Kenneth Hsu",
+            "Marcin Lukowaik"
+        ],
+        "pub_source": "10th IEEE High Assurance Systems Engineering Symposium (HASE'07)",
+        "pub_date": "2007/11/14",
+        "description": "Field Programmable Gate Arrays (FPGA) are used in a variety of applications, ranging from consumer electronics to devices in spacecrafts because of their flexibility in achieving requirements such as low cost, high performance, and fast turnaround. SRAM-based FPGAs can experience single bit flips in the configuration memory due to high-energy neutrons or alpha particles hitting critical nodes [6] in the SRAM cells, by transferring enough energy to effect the change. High energy particles can be emitted by cosmic radiation or traces of radioactive elements in device packaging. The result of this could range from unwanted functional or data modification, data loss in the system, to damage to the cell where the charged particle makes impact. This phenomenon is known as a Single Event Upset (SEU) and makes fault tolerance a critical requirement in FPGA design. This research proposes a shift in architecture from\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "FPGA based accelerator for simulated annealing with greedy perturbations",
+        "id": "PbIpwZcAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "M Lukowiak",
+            "B Cody"
+        ],
+        "pub_source": "2007 14th International Conference on Mixed Design of Integrated Circuits and Systems",
+        "pub_date": "2007/6/21",
+        "description": "This paper discusses design of an field programmable gate array (FPGA) based hardware accelerator for a standard cell placement tool. A software program was used to determine the bottlenecks in the Simulated Annealing (SA) algorithm with greedy perturbations and dynamic cooling schedule. A solution implementing computing platform with specialized hardware configurations inside an FPGA was investigated as having the possibility to improve the efficiency of the SA-based algorithms.",
+        "citations": 4
+    },
+    {
+        "title": "Mixed level and mixed signal simulation using cadence pspice a/d and vhdl",
+        "id": "PbIpwZcAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Sreeram Rajagopalan",
+            "M Lukowiak"
+        ],
+        "pub_source": "EMA Design and Automation Inc., Technical report",
+        "pub_date": "2007",
+        "description": "PSpice A/D is a simulation package that is used to analyze and predict the performance of analog and mixed signal circuits. It is very popular especially among Printed Circuit Board (PCB) engineers to verify board level designs. However, PSpice A/D currently lacks the ability to simulate analog components connected to digital circuits that are modeled using Hardware Descriptive Languages (HDLs), such as VHDL and Verilog HDL. Simulation of HDL models in PSpice A/D is necessary to verify mixed signal PCBs where programmable logic devices like Field Programmable Gate Arrays (FPGAs) and Complex Programmable Logic Devices (CPLDs) are connected to discrete analog components. More than 60% of the PCBs that are designed today contain at least one FPGA or CPLD. This paper investigates the possibility of simulating VHDL models in PSpice A/D. A new design methodology and the necessary tools to achieve this goal are presented. The new design methodology will help engineers verify a complete mixed signal design at the board level. This reduces design failures and hence increases reliability. It also reduces the overall time to market. A mixed signal design from Jackson and Tull for a brushless three phase motor that runs a space application is implemented by following the proposed design methodology.",
+        "citations": 2
+    },
+    {
+        "title": "Architecture design of an H. 264/AVC decoder for real-time FPGA implementation",
+        "id": "PbIpwZcAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Thomas Warsaw",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "Proceedings of the IEEE 17th International Conference on Application-specific Systems, Architectures and Processors",
+        "pub_date": "2006/9/11",
+        "citations": 16
+    },
+    {
+        "title": "Hardware Software Synthesis of a H. 264",
+        "id": "PbIpwZcAAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "Stephen P Joralemon",
+            "Marcin Lukowiak",
+            "Roy Czernikowski",
+            "Kenneth Hsu"
+        ],
+        "pub_source": "",
+        "pub_date": "2005"
+    },
+    {
+        "title": "Switched-current implementation of two-dimensional DCT for image processing",
+        "id": "PbIpwZcAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Andrzej Handkiewicz",
+            "Marcin Lukowiak",
+            "Marek Kropidlowski"
+        ],
+        "pub_source": "15th Annual IEEE International ASIC/SOC Conference",
+        "pub_date": "2002/9/25",
+        "description": "Switched-current (SI) circuits are suitable to operate on the same chip with digital circuits in low-voltage supply. This property is very important for applications in portable devices like digital cameras. Switched-capacitor implementation of the two-dimensional (2D) discrete cosine transform (DCT) was reported in the literature. In this paper, the design method of a 2D DCT for SI implementation is presented. An experimental chip was fabricated in AMS CMOS 0.8 /spl mu/m technology. The results of testing are reported.",
+        "citations": 4
+    },
+    {
+        "title": "Computer tools for switched-current filter design",
+        "id": "PbIpwZcAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "A Handkiewicz",
+            "M Kropidlowski",
+            "M Lukowiak"
+        ],
+        "pub_source": "The 2002 45th Midwest Symposium on Circuits and Systems, 2002. MWSCAS-2002.",
+        "pub_date": "2002/8/4",
+        "description": "The paper is devoted to design automation of switched-current (SI) filters. Three computer tools were elaborated recently by the authors. Two of them are useful at the stage of behavioral synthesis for symbolic analysis and design of a lossless prototype circuit. The third program, for layout generation of current mirrors, can be used for silicon assembly of an SI filter. In the presented synthesis method current mirrors are basic parameterized cells of such filters. The current mirrors are composed of transistors where width-to-length ratios of channels are determined at the behavioral synthesis stage of the filter.",
+        "citations": 1
+    },
+    {
+        "title": "Low-voltage switched-current circuits for mixed signal systems",
+        "id": "PbIpwZcAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Andrzej Handkiewicz",
+            "Marcin Lukowiak",
+            "Marek Kropidlowski"
+        ],
+        "pub_source": "Proceedings 14th Annual IEEE International ASIC/SOC Conference (IEEE Cat. No. 01TH8558)",
+        "pub_date": "2001/9/12",
+        "description": "It is shown in the paper that switched-current (SI) circuits are able to operate on the same chip with digital circuits at low-voltage supply. This property is very important for applications in portable devices like digital cameras or cell phones. In this paper the properties of an SI memory cell are presented. Experimental chip in AMS CMOS 0.8 /spl mu/m technology was fabricated. The results of testing are reported.",
+        "citations": 1
+    },
+    {
+        "title": "Switched-current filter design for image processing systems",
+        "id": "PbIpwZcAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Andrzej Handkiewicz",
+            "Marek Kropidlowski",
+            "Marcin Lukowiak",
+            "Maciej Bartkowiak"
+        ],
+        "pub_source": "Proceedings of 13th Annual IEEE International ASIC/SOC Conference (Cat. No. 00TH8541)",
+        "pub_date": "2000/9/13",
+        "description": "The paper presents a design method of two-dimensional. (2-D) switched-current (SI) filters. Because of SI technique compatibility with the standard digital CMOS technology, it is very convenient to use such filters in image processing. Operation of a system containing 2-D filters in a pre-processing stage is described. Such a system can be implemented in portable one-chip devices like digital video cameras.",
+        "citations": 3
+    },
+    {
+        "title": "Switched-current technique for video compression and quantization",
+        "id": "PbIpwZcAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Andrzej Handkiewicz",
+            "Marek Kropidlowski",
+            "M Lukowiak"
+        ],
+        "pub_source": "Twelfth Annual IEEE International ASIC/SOC Conference (Cat. No. 99TH8454)",
+        "pub_date": "1999/9/18",
+        "description": "Portable consumer products need low-cost, low-power chips for realization of signal processing and image compression functions. In this paper a modification of such a chip for a digital video camera is presented. The chip contains an image sensing array composed of photodiodes, a two-dimensional DCT processor and an entropy coding section. The processor is designed in a switched-current (SI) technique and contains current mirrors and memory cells. In order to examine these elementary cells, an experimental chip in AMS 0.8 /spl mu/m technology was fabricated.",
+        "citations": 16
+    },
+    {
+        "title": "Properties of bilinear SI intergrators composed of a complementary memory cell",
+        "id": "PbIpwZcAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "A Handkiewicz",
+            "P \u015aniata\u0142a",
+            "M \u0141ukowiak",
+            "M Kropid\u0142owski"
+        ],
+        "pub_source": "Electron Technology",
+        "pub_date": "1999",
+        "description": "In this paper a new, switched current (SI) memory cell and based on this cell two kinds structures of blinear integrators are considered. Analysis of the integrators shown that parasitic effects (clock feed-through effect and gain error) can be better cancelled in the second structure than in the fabricated in order to examine the presented cells.",
+        "citations": 11
+    },
+    {
+        "title": "Low-voltage high-performance switched current memory cell",
+        "id": "PbIpwZcAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "A Handkiewicz",
+            "P Sniatala",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "Proceedings. Tenth Annual IEEE International ASIC Conference and Exhibit (Cat. No. 97TH8334)",
+        "pub_date": "1997/9/7",
+        "description": "A new switched current (SI) memory cell is proposed in the paper. Analysis and simulations show very good properties of the cell. Layout of a sample and hold (SH) circuit composed of the memory cell is also presented. This SH circuit is a basic cell of bilinear integrators and delay lines, being components of one- and two-dimensional SI filters. The method and tools for automated design of such filters are briefly described.",
+        "citations": 14
+    },
+    {
+        "title": "High performance switched current memory cell for 2-D signal processing",
+        "id": "PbIpwZcAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "A Handkiewicz",
+            "P Sniatala",
+            "M Lukowiak"
+        ],
+        "pub_source": "Proc. of the European Conference of Circuit Theory and Design, ECCTD'97",
+        "pub_date": "1997/9",
+        "citations": 3
+    },
+    {
+        "title": "SI technique application for colour image processing",
+        "id": "PbIpwZcAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Andrzej Handkiewicz",
+            "P Sniatala",
+            "M Domanski",
+            "M Lukowiak"
+        ],
+        "pub_source": "Proceedings Ninth Annual IEEE International ASIC Conference and Exhibit",
+        "pub_date": "1996/9/23",
+        "description": "A new synthesis method of a multiport two-dimensional filter, a set of design tools based on this method and a library of subcells are described in the paper. It is possible to include the programs as modules into design system of integrated circuits (silicon compiler system). The basic cells of the presented multiport filter are delay lines and bilinear fully differential integrators. Realizations in switched current (SI) technique of these subcells, which can be included into the library of the system, are proposed.",
+        "citations": 1
+    },
+    {
+        "title": "Extremely Low Performance Overhead Memory Encryption Towards No Overhead in Memory Encryption Minimizing Performance Overhead in Memory Encryption",
+        "id": "PbIpwZcAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Michael Sanfilippo"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Modern military communications equipment processes, distributes and stores massive amounts of sensitive or classified data. This equipment is deployed in high risk environments. The communications channels are protected using sophisticated encryption and transmission security technologies, but the internal Data-at-Rest is generally secured using access control, boundary protection and other physical protection mechanisms. If the equipment is captured while in service, a motivated adversary could attempt to breach these mechanisms and compromise the unprotected internal data. This paper presents a key-stream caching methodology and architecture for encrypting/decrypting data in real-time during each memory access. A prototype was developed for the Cyclone III FPGA using a Nios II process and off-chip SRAM to simulate a typical embedded system. Various synthetic applications were used to benchmark the performance overhead of the method. The results show that this can be achieved while incurring as little as 1% performance overhead. This paper presents methodology and design trade-offs of a secure memory controller (SMC) with a keystream cache to allow for an extremely low performance overhead encryption and decryption of a program code and data stored within CPU\u2019s system memory. Our experiments on a Field Programmable Gate Array (FPGA) prototype utilizing the Advanced Encryption Standard (AES) block cipher with a 256-bit key and a variety of instruction and data intensive applications show that as little as 1% performance overhead can be achieved."
+    },
+    {
+        "title": "Rapid prototyping of digital systems for video processing",
+        "id": "PbIpwZcAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=PbIpwZcAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "M Kropid\u0142owski",
+            "A Handkiewicz",
+            "M \u0141ukowiak"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "The paper describes a prototyping system for image and video processing algorithms. It is shown how modern Field Programmable Gate Array (FPGA) devices can be used to build a flexible test environment for digital signal processing. Presented implementation gives the advantage of a fast computation and optimum balance between the device speed and logic cost. Moreover the FPGA based reconfigurable realization provides a critical time to market advantage and future feature enhancement capability which make such test system highly valuable for rapid prototyping purposes. As an example a prototype of a nonlinear filter for video restoration is presented. Design statistics and details of a test environment are also discussed."
+    }
+]

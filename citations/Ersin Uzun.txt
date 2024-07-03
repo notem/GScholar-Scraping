@@ -1,0 +1,164 @@
+"In content we trust: Network-layer trust in content-centric networking"
+C Ghali, G Tsudik, E Uzun - IEEE/ACM Transactions on Networking, 2019
+
+"Closing the floodgate with stateless content-centric networking"
+C Ghali, G Tsudik, E Uzun, CA Wood - 2017 26th International Conference on Computer Communication and Networks (ICCCN), 2017
+
+"Mobile sessions in content-centric networks"
+M Mosko, E Uzun, CA Wood - 2017 IFIP Networking Conference (IFIP Networking) and Workshops, 2017
+
+"Achieving differential privacy in secure multiparty data aggregation protocols on star networks"
+V Bindschaedler, S Rane, AE Brito, V Rao, E Uzun - Proceedings of the Seventh ACM on Conference on Data and Application Security and Privacy, 2017
+
+"Can we make a cake and eat it too? A discussion of ICN security and privacy"
+E Ngai, B Ohlman, G Tsudik, E Uzun, M Wählisch, CA Wood - ACM SIGCOMM Computer Communication Review, 2017
+
+"Trust in information-centric networking: From theory to practice"
+C Tschudin, E Uzun, CA Wood - 2016 25th International Conference on Computer Communication and Networks (ICCCN), 2016
+
+"Ac3n: Anonymous communication in content-centric networking"
+G Tsudik, E Uzun, CA Wood - 2016 13th IEEE Annual Consumer Communications & Networking Conference (CCNC), 2016
+
+"Information-centric networking and security (dagstuhl seminar 16251)"
+E Ngai, B Ohlman, G Tsudik, E Uzun - Dagstuhl Reports, 2016
+
+"Living in a pit-less world: A case against stateful forwarding in content-centric networking"
+C Ghali, G Tsudik, E Uzun, CA Wood - arXiv preprint arXiv:1512.07755, 2015
+
+"Privacy, efficiency & fault tolerance in aggregate computations on massive star networks"
+S Rane, J Freudiger, AE Brito, E Uzun - 2015 IEEE International Workshop on Information Forensics and Security (WIFS), 2015
+
+"An encryption-based access control framework for content-centric networking"
+J Kuriharay, E Uzun, CA Wood - 2015 IFIP networking conference (IFIP networking), 2015
+
+"CCNx 1.0 protocol architecture"
+M Mosko, I Solis, E Uzun, C Wood - Palo Alto Research Center. url http://ccnx. org/pubs/ICN_CCN_Protocols. pdf, 2015
+
+"Privacy preserving data quality assessment for high-fidelity data sharing"
+J Freudiger, S Rane, AE Brito, E Uzun - Proceedings of the 2014 ACM Workshop on Information Sharing & Collaborative Security, 2014
+
+"Network-layer trust in named-data networking"
+C Ghali, G Tsudik, E Uzun - ACM SIGCOMM Computer Communication Review, 2014
+
+"CCN-krs: A key resolution service for ccn"
+P Mahadevan, E Uzun, S Sevilla, J Garcia-Luna-Aceves - Proceedings of the 1st ACM Conference on Information-Centric Networking, 2014
+
+"A fuzzy commitment approach to privacy preserving behavioral targeting"
+S Rane, E Uzun - Proceedings of the ACM MobiCom workshop on Security and privacy in mobile environments, 2014
+
+"Needle in a haystack: Mitigating content poisoning in named-data networking"
+C Ghali, G Tsudik, E Uzun - Proceedings of NDSS workshop on security of emerging networking technologies (SENT), 2014
+
+"Flexible end-to-end content security in CCN"
+CA Wood, E Uzun - 2014 IEEE 11th Consumer Communications and Networking Conference (CCNC), 2014
+
+"What’s the gist? privacy-preserving aggregation of user profiles"
+I Bilogrevic, J Freudiger, ED Cristofaro, E Uzun - Computer Security-ESORICS 2014: 19th European Symposium on Research in Computer Security, Wroclaw, Poland, September 7-11, 2014. Proceedings, Part II 19, 2014
+
+"DoS & DDoS in Named Data Networking"
+E Uzun, P Gasti, G Tsudik, L Zhang - Computer Communications and Networks (ICCCN), 2013 22nd International Conference on, 2013
+
+"Privacy in content-oriented networking: Threats and countermeasures"
+A Chaabane, ED Cristofaro, MA Kaafar, E Uzun - ACM SIGCOMM Computer Communication Review, 2013
+
+"Interest flooding attack and countermeasures in named data networking"
+A Afanasyev, P Mahadevan, I Moiseenko, E Uzun, L Zhang - 2013 IFIP Networking Conference, 2013
+
+"Deploying key management on NDN testbed"
+C Bian, Z Zhu, A Afanasyev, E Uzun, L Zhang - UCLA, Peking University and PARC, Tech. Rep, 2013
+
+"Named data networking (NDN) project 2012-2013 annual report"
+V Jacobson, J Burke, D Estrin, L Zhang, B Zhang, G Tsudik, K Claffy, D Krioukov, D Massey, C Papadopoulos, P Ohm, T Abdelzaher, K Shilton, L Wang, E Yeh, E Uzun, G Edens, P Crowley - Named Data Networking (NDN), 2013
+
+"Welcome message from the PADE chairs"
+K Bauer, R Boreli, N Carlsson, Z Chen, A Francillon, J Freudiger, A Friedman, S Gambs, H Haddadi, A Hecker, P Hui, M Kaafar, B Köpf, A Mahanti, M Önen, P Papadimitratos, S Ries, K Salamatian, F Schneider, A Shikfa, C Shue, T Strufe, S Uhlig, E Uzun, G Xie - 38th Annual IEEE Conference on Local Computer Networks, LCN 2013; Sydney, NSW; Australia; 21 October 2013 through 24 October 2013, 2013
+
+"Can Jannie verify? Usability of display-equipped RFID tags for security purposes"
+A Kobsa, R Nithyanand, G Tsudik, E Uzun - Journal of computer security, 2013
+
+"Picoda: Privacy-preserving smart coupon delivery architecture"
+K Partridge, MA Pathak, E Uzun, C Wang - Proc. HotPETs, 2012
+
+"Custodian-based information sharing"
+V Jacobson, RL Braynard, T Diebert, P Mahadevan, M Mosko, NH Briggs, S Barber, MF Plass, I Solis, E Uzun, B Lee, M Jang, D Byun, DK Smetters, JD Thornton - IEEE Communications Magazine, 2012
+
+"ANDaNA: Anonymous named data networking application"
+S DiBenedetto, P Gasti, G Tsudik, E Uzun - NDSS, 2012
+
+"Bitter to better—how to make bitcoin a better currency"
+S Barber, X Boyen, E Shi, E Uzun - Financial Cryptography and Data Security: 16th International Conference, FC 2012, Kralendijk, Bonaire, Februray 27-March 2, 2012, Revised Selected Papers 16, 2012
+
+"Named data networking (NDN) project 2010-2011 progress summary"
+L Zhang, D Estrin, J Burke, V Jacobson, JD Thornton, E Uzun, B Zhang, G Tsudik, D Krioukov, D Massey, C Papadopoulos, T Abdelzaher, L Wang, P Crowley, E Yeh - PARC, http://www. nameddata. net/ndn-ar2011. html, Tech. Rep, 2011
+
+"Named data networking (NDN) project 2011-2012 annual report"
+L Zhang, D Estrin, J Burke, V Jacobson, JD Thornton, E Uzun, B Zhang, G Tsudik, D Massey, C Papadopoulos, P Ohm, T Abdelzaher, K Shilton, L Wang, E Yeh, P Crowley - Named Data Netw, 2011
+
+"Anonymous named data networking application"
+E Uzun, S DiBenedetto, G Tsudik, P Gasti - CCNxCon, CCN Community Meeting, 2011
+
+"Pairing devices for social interactions: a comparative usability evaluation"
+E Uzun, N Saxena, A Kumar - Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2011
+
+"Enhancing cyber-physical security through data patterns"
+R Chow, E Uzun, AA Cárdenas, Z Song, S Lee - Workshop on Foundations of Dependable and Secure Cyber-Physical Systems (FDSCPS), 2011
+
+"User-aided reader revocation in PKI-based RFID systems"
+R Nithyanand, G Tsudik, E Uzun - Journal of Computer Security, 2011
+
+"Usability of display-equipped rfid tags for security purposes"
+A Kobsa, R Nithyanand, G Tsudik, E Uzun - Computer Security–ESORICS 2011: 16th European Symposium on Research in Computer Security, Leuven, Belgium, September 12-14, 2011. Proceedings 16, 2011
+
+"SUDOKU: Secure and usable deployment of keys on wireless sensors"
+M Wilhelm, I Martinovic, E Uzun, JB Schmitt - 2010 6Th IEEE workshop on secure network protocols, 2010
+
+"Groupthink: Usability of secure group association for wireless devices"
+R Nithyanand, N Saxena, G Tsudik, E Uzun - Proceedings of the 12th ACM international conference on Ubiquitous computing, 2010
+
+"Usable bootstrapping of secure ad hoc communication"
+E Uzun - University of California, Irvine, 2010
+
+"Readers behaving badly: Reader revocation in PKI-based RFID systems"
+R Nithyanand, G Tsudik, E Uzun - Computer Security–ESORICS 2010: 15th European Symposium on Research in Computer Security, Athens, Greece, September 20-22, 2010. Proceedings 15, 2010
+
+"A comparative study of secure device pairing methods"
+A Kumar, N Saxena, G Tsudik, E Uzun - Pervasive and Mobile Computing, 2009
+
+"Alice meets bob: A comparative usability study of wireless device pairing methods for a" two-user" setting"
+A Kumar, N Saxena, E Uzun - arXiv preprint arXiv:0907.4743, 2009
+
+"Serial hook-ups: a comparative usability study of secure device pairing methods"
+A Kobsa, R Sonawalla, G Tsudik, E Uzun, Y Wang - Proceedings of the 5th Symposium on Usable Privacy and Security, 2009
+
+"Caveat eptor: A comparative study of secure device pairing methods"
+A Kumar, N Saxena, G Tsudik, E Uzun - 2009 IEEE International Conference on Pervasive Computing and Communications, 2009
+
+"On the usability of secure association of wireless devices based on distance bounding"
+M Cagalj, N Saxena, E Uzun - Cryptology and Network Security: 8th International Conference, CANS 2009, Kanazawa, Japan, December 12-14, 2009. Proceedings 8, 2009
+
+"Using audio in secure device pairing"
+MT Goodrich, M Sirivianos, J Solis, C Soriente, G Tsudik, E Uzun - International Journal of Security and Networks, 2009
+
+"Secure pairing of interface constrained devices"
+C Soriente, G Tsudik, E Uzun - International Journal of Security and Networks, 2009
+
+"Security of relational databases in business outsourcing"
+E Uzun, B Stephenson - HP Labs Report HPL-2008-168, 2008
+
+"HAPADEP: human-assisted pure audio device pairing"
+C Soriente, G Tsudik, E Uzun - Information Security: 11th International Conference, ISC 2008, Taipei, Taiwan, September 15-18, 2008. Proceedings 11, 2008
+
+"Framework for comparative usability testing of distributed applications"
+K Kostiainen, E Uzun, N Asokan, P Ginzboorg - Security User Studies: Methodologies and Best Practices Workshop, 2007
+
+"Usability analysis of secure pairing methods"
+E Uzun, K Karvonen, N Asokan - International Conference on Financial Cryptography and Data Security, 2007
+
+"BEDA: Button-enabled device pairing"
+C Soriente, G Tsudik, E Uzun - Cryptology ePrint Archive, 2007
+
+"Loud and clear: Human-verifiable authentication based on audio"
+MT Goodrich, M Sirivianos, J Solis, G Tsudik, E Uzun - 26th IEEE International Conference on Distributed Computing Systems (ICDCS'06), 2006
+
+"A reputation-based trust management system for P2P networks"
+AA Selcuk, E Uzun, MR Pariente - IEEE International Symposium on Cluster Computing and the Grid, 2004. CCGrid 2004., 2004

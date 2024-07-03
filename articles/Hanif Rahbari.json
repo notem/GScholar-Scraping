@@ -1,0 +1,500 @@
+[
+    {
+        "title": "When Cryptography Needs a Hand: Practical Post-Quantum Authentication for V2V Communications",
+        "id": "0lhBjI4AAAAJ:Tiz5es2fbqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:Tiz5es2fbqcC",
+        "authors": [
+            "Geoff Twardokus",
+            "Nina Bindel",
+            "Hanif Rahbari",
+            "Sarah McCarthy"
+        ],
+        "pub_source": "NDSS",
+        "pub_date": "2024",
+        "description": "We tackle the atypical challenge of supporting post-quantum cryptography (PQC) and its significant overhead in safety-critical vehicle-to-vehicle (V2V) communications, dealing with strict overhead and latency restrictions within the limited radio spectrum for V2V. For example, we show that the current use of spectrum to support signature verification in V2V makes it nearly impossible to adopt PQC. Accordingly, we propose a scheduling technique for message signing certificate transmissions (which we find are currently up to 93% redundant) that learns to adaptively reduce the use of radio spectrum. In combination, we design the first integration of PQC and V2V, which satisfies the above stringent constraints given the available spectrum. Specifically, we analyze the three PQ signature algorithms selected for standardization by NIST, as well as XMSS (RFC 8391), and propose a Partially Hybrid authentication protocol\u2014a tailored fusion of classical cryptography and PQC\u2014for use in the V2V ecosystem during the nascent transition period we outline towards fully PQ V2V. Our provably secure protocol efficiently balances security and performance, as demonstrated experimentally with software-defined radios (USRPs), commercial V2V devices, and road traffic and V2V simulators. We show our joint transmission scheduling optimization and Partially Hybrid design are scalable and reliable under realistic conditions, adding a negligible average delay (0.39 ms per message) against the current state-of-the-art.",
+        "citations": 3
+    },
+    {
+        "title": "Demo: An Open-Source Hardware-in-the-Loop Testbed for Post-Quantum V2V Security Research",
+        "id": "0lhBjI4AAAAJ:XiSMed-E-HIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:XiSMed-E-HIC",
+        "authors": [
+            "Geoff Twardokus",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "VehicleSec",
+        "pub_date": "2024"
+    },
+    {
+        "title": "Circumventing the Defense against Modulation Classification Attacks",
+        "id": "0lhBjI4AAAAJ:p2g8aNsByqUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:p2g8aNsByqUC",
+        "authors": [
+            "Naureen Hoque",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)",
+        "pub_date": "2023/5/29",
+        "description": "Modulation classification (MC) has a wide range of applications in spectrum sharing, management, and enforcement and can also be used by an adversary to launch traffic analysis or selective jamming. While recent modulation obfuscation techniques show promising results in mitigating MC attacks, in this paper we develop a novel convolution neural network (CNN)-based model to attack those defenses and successfully identify the true modulation scheme. Our extensive simulation and over-the-air experiments using show that our classification technique achieves around 85-99% accuracy for SNR levels 0 dB and above. Furthermore, our results demonstrate that the proposed model can effectively differentiate between obfuscated and non-obfuscated symbols, even when a transmitter switches between them as a new defense mechanism, achieving an accuracy of 95%.",
+        "citations": 2
+    },
+    {
+        "title": "Countering Relay and Spoofing Attacks in the Connection Establishment Phase of Wi-Fi Systems",
+        "id": "0lhBjI4AAAAJ:OU6Ihb5iCvQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:OU6Ihb5iCvQC",
+        "authors": [
+            "Naureen Hoque",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)",
+        "pub_date": "2023/5/29",
+        "description": "To establish a secure Wi-Fi connection, a station first exchanges several unprotected management frames with an access point (AP) to eventually authenticate each other and install a pairwise key. It is, therefore, possible for an adversary to spoof elements of those unprotected frames at the physical (PHY) or MAC layers, facilitating additional attacks (e.g., man-in-the-middle and starvation attacks). Despite a few ad hoc efforts, there is still no practical way to counter these attacks jointly. In this paper, we propose practical schemes to employ cryptography at the PHY layer combined with a time-bound technique to detect and mitigate such attacks in enterprise and 802.1X-based public networks. Our backward-compatible schemes embed a digital signature of the AP (or a message authentication code) in frame preamble signals and add only a negligible delay to the connection establishment process and achieve a 98\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Towards Protecting 5G Sidelink Scheduling in C-V2X Against Intelligent DoS Attacks",
+        "id": "0lhBjI4AAAAJ:uWQEDVKXjbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:uWQEDVKXjbEC",
+        "authors": [
+            "Geoff Twardokus",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "IEEE Transactions on Wireless Communications",
+        "pub_date": "2023/3/3",
+        "description": "5G Cellular Vehicle-to-Everything (5G C-V2X) is emerging as the globally dominant connected vehicle technology. One critical application of 5G C-V2X is the direct exchange of safety-critical messages between vehicles to prevent crashes and correspondingly reduce roadway injuries and fatalities. While current C-V2X security protocols concern only message payloads, we expose vulnerabilities in the physical-layer attributes and decentralized MAC-layer scheduling algorithm of 5G C-V2X by developing two stealthy denial-of-service (DoS) attacks to exploit them. These low-duty-cycle attacks dramatically degrade C-V2X availability, increasing the likelihood of prolonged travel times and even vehicle crashes. We further develop detection and mitigation techniques for each attack, in part by exploiting new C-V2X features of 3GPP Rel-17. We experimentally evaluate our attacks and countermeasures in a hardware\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Malicious Agents",
+        "id": "0lhBjI4AAAAJ:UxriW0iASnsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:UxriW0iASnsC",
+        "authors": [
+            "Haoran Peng",
+            "Hanif Rahbari",
+            "Shanchieh Jay Yang",
+            "Li-Chun Wang"
+        ],
+        "pub_source": "IEEE Global Communications Conference (GLOBECOM)",
+        "pub_date": "2022/12/4",
+        "description": "Multi-agent reinforcement learning (MARL) has pre-viously been employed for efficient spectrum sharing among co-operative connected vehicles. However, we show in this paper that existing MARL models are not robust against non-cooperative or malicious agents (vehicles) whose spectrum selection strategy may cause congestion and reduce the spectrum utilization. For example, a selfish (non-cooperative) agent aims to only maximize its own spectrum utilization, irrespective of the overall system efficiency and spectrum availability to others. We investigate and analyze the MARL-based spectrum sharing problem in connected vehicles including vehicles (agents) with selfish or sabotage strategies. We then develop a theoretical framework to consider the selfish agent, and study various adversarial scenarios (including attacks with disruptive goals) via simulations. Our robust MARL approach where \u201crobust\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Implicit Channel Coordination to Tackle Starvation Attacks in 5G and Wi-Fi Coexistence Systems",
+        "id": "0lhBjI4AAAAJ:dshw04ExmUIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:dshw04ExmUIC",
+        "authors": [
+            "Siddharth Dongre",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "IEEE Global Communications Conference (GLOBECOM)",
+        "pub_date": "2022/12/4",
+        "description": "Due to the scarcity of spectrum bands, 5G and Wi-Fi systems are embracing coexistence in the unlicensed 5 and 6 GHz bands to support high data rate demands and growing number of users. To provide fair and effective coexistence in shared frequency bands, both technologies rely on carrier sensing. However, differences in sensing thresholds creates an unfair advantage for 5G nodes who access the shared wireless medium more aggressively and degrade the data rate and latency of Wi-Fi nodes. We show in this paper that an adversary who intends to deny service to Wi-Fi can stealthily exploit this unfairness to drastically reduce the spectrum occupancy and data rate of Wi-Fi nodes. We then propose a novel implicit channel coordination (ICC) approach to mitigate the attack and improve sharing fairness. In ICC, Wi-Fi nodes influence 5G gNB into choosing a precoding matrix that nearly nullifies downlink\u00a0\u2026"
+    },
+    {
+        "title": "Systematically Analyzing Vulnerabilities in the Connection Establishment Phase of Wi-Fi Systems",
+        "id": "0lhBjI4AAAAJ:KxtntwgDAa4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:KxtntwgDAa4C",
+        "authors": [
+            "Naureen Hoque",
+            "Hanif Rahbari",
+            "Cullen Rezendes"
+        ],
+        "pub_source": "IEEE Conference on Communications and Network Security (CNS)",
+        "pub_date": "2022/10",
+        "description": "To establish a secure Wi-Fi connection, several un-protected management frames are exchanged between an access point and a station before they mutually authenticate each other and start a protected session. In this paper, we are the first to formally model and analyze this connection establishment phase, based on the latest IEEE 802.11 standard, and accordingly, expose a new denial of service (DoS) vulnerability and three new variants of a known man-in-the-middle (MitM) attack. We also formally show that the optional operating channel validation technique introduced in the latest standard is capable of protecting the system only against multi-channel MitM. To validate our identified DoS vulnerability, we test it against the latest wpa_supplicant daemon, showing that an adversary can stealthily prevent a station from connecting to a preferred AP for up to 90 minutes, likely more. We also propose a mitigation\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Vehicle-to-Nothing? Securing C-V2X Against Protocol-Aware DoS Attacks",
+        "id": "0lhBjI4AAAAJ:P5F9QuxV20EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:P5F9QuxV20EC",
+        "authors": [
+            "Geoff Twardokus",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "IEEE Conference on Computer Communications (INFOCOM)",
+        "pub_date": "2022/5/2",
+        "description": "Vehicle-to-vehicle (V2V) communication allows vehicles to directly exchange messages, increasing their situational awareness and offering the potential to prevent hundreds of thousands vehicular crashes annually. Cellular Vehicle-to-Everything (C-V2X), with its LTE-V2X and New Radio (NR)-V2X variants in 4G/LTE- and 5G-based C-V2X, is emerging as the main V2V technology. However, despite security protocols and standards for C-V2X, we expose in this paper that its physical (PHY) and MAC layers are not resilient against intelligent, protocol-aware attacks due to the very predictable PHY-layer structure and vulnerable scheduling algorithm used in both LTE-V2X and NR-V2X. We devise two stealthy denial-of-service (DoS) exploits that dramatically degrade C-V2X availability, thereby increasing the chances of fatal vehicle collisions. We experimentally evaluate our attacks on an integrated, hybrid testbed\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Drive (Quantum) Safe!\u2013Towards Post-Quantum Security for V2V Communications",
+        "id": "0lhBjI4AAAAJ:nb7KW1ujOQ8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:nb7KW1ujOQ8C",
+        "authors": [
+            "Nina Bindel",
+            "Sarah McCarthy",
+            "Geoff Twardokus",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "Cryptology ePrint Archive",
+        "pub_date": "2022",
+        "description": "We tackle a challenging problem at the intersection of two emerging technologies: Post-quantum cryptography (PQC) and vehicle-to-vehicle (V2V) communications. Connected vehicles use V2V technology to exchange safety messages that allow them to increase proximity awareness, improving roadway safety and efficiency. The integrity and authenticity of these messages is critical to prevent an adversary from abusing V2V technology to cause a collision, traffic jam, or other unsafe and/or disruptive situations. The IEEE 1609.2 standard (2016) specifies authentication mechanisms for V2V communications that rely on the elliptic curve digital signature algorithm (ECDSA) and are therefore not secure against quantum attackers. In this paper, we are the first to devise and evaluate PQC for authenticating messages in IEEE 1609.2. By analyzing the properties of the NIST PQC standardization finalists, as well as XMSS (RFC 8391), we propose three practical, ECDSA-PQ hybrid designs for use during the transition from classical to PQ-secure cryptography.",
+        "citations": 7
+    },
+    {
+        "title": "POSTER: A Tough Nut to Crack: Attempting to Break Modulation Obfuscation",
+        "id": "0lhBjI4AAAAJ:1sJd4Hv_s6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:1sJd4Hv_s6UC",
+        "authors": [
+            "Naureen Hoque",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "ACM SIGSAC Conference on Computer and Communications Security (CCS)",
+        "pub_date": "2021/11/12",
+        "description": "Despite being primarily developed for spectrum management, sharing, and enforcement in civilian and military applications, modulation classification can be exploited by an adversary to threaten user privacy (e.g., via traffic analysis), or launch jamming and spoofing attacks. Several existing works study how an adversary can still classify the user traffic despite obfuscation techniques at upper layers, but little work has been done on how an adversary can classify the \"modulation scheme'' when it is obfuscated at the physical layer. In this respect, we aim to study how to break the state-of-the-art modulation obfuscation schemes by applying various machine learning (ML) methods. Our preliminary results show that common ML techniques perform poorly in correctly classifying an obfuscated modulation scheme except for the random forest method (with a score as much as twice the other techniques we consider\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Adaptive preamble embedding with MIMO to support user-defined functionalities in WLANs",
+        "id": "0lhBjI4AAAAJ:abG-DnoFyZgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:abG-DnoFyZgC",
+        "authors": [
+            "Zhengguang Zhang",
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "IEEE Transactions on Mobile Computing",
+        "pub_date": "2021/7/7",
+        "description": "As the Wi-Fi technology transitions into its sixth generation (Wi-Fi 6), there is a growing consensus on the need to support security and coordination functions at the Physical (PHY) layer. In contrast to the costly approach of extending the PHY-layer header to support new functions (e.g., Spatial Reuse field in the Wi-Fi 6 frame), we propose to turn specific parts of the frame preamble into a reliable data field while maintaining its primary functions. Specifically, in this paper, we develop a scheme called  extensible preamble modulation (eP-Mod)  for 802.11n/ac/ax protocols that are built on multiple-input-multiple-output (MIMO) and orthogonal frequency-division multiplexing (OFDM). For each frame,  eP-Mod  can embed up to 144 user bits into the 802.11ac preamble of an    MIMO   MHz transmission. The proposed scheme is adaptive to channel conditions and enables several promising PHY-layer services, such\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Message Sieving to Mitigate Smart Gridlock Attacks in V2V",
+        "id": "0lhBjI4AAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "Siddharth Dongre",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "Security and Privacy in Wireless and Mobile Networks (ACM WiSec)",
+        "pub_date": "2021/6/28",
+        "description": "Growing deployment of vehicle-to-vehicle (V2V) communications is expected to significantly increase the volume of Basic Safety Messages (BSM) in highways and dense roads. Computational overhead of verifying the integrity of BSMs will therefore be high while current V2V equipment can process only a limited number of BSMs per second. As a result, critical BSMs carrying vital information may fail to be processed on time, creating unsafe outcomes. In this paper, we expose this vulnerability, discuss critical scenarios, develop novel attacks that exploit this vulnerability, and propose a sieving technique to mitigate these verification gridlock attacks. We show on a USRP testbed that our proposed sieving mechanism to counter sophisticated attackers who exploit this vulnerability achieves 80% accuracy at SNR greater than 6 dB, effectively mitigating the attack.",
+        "citations": 3
+    },
+    {
+        "title": "A method for exploiting preamble waveforms to support device and network functionalities in wireless systems",
+        "id": "0lhBjI4AAAAJ:b0M2c_1WBrUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:b0M2c_1WBrUC",
+        "authors": [
+            "MM Krunz",
+            "H Rahbari"
+        ],
+        "pub_source": "US Patent 11,038,730",
+        "pub_date": "2021/6/15",
+        "description": "The frame preamble in current wireless systems is designed to facilitate various PHY-layer functions, including frequency offset estimation and frame detection. However, this preamble is assumed to be constant and is seldom used to convey any frame-specific bits. Embedding information into the preamble can open the door for new PHY-layer applications. P-modulation, a method that enables an OFDM-based wireless transmitter to embed frame-specific bits into the frame preamble to accomplish PHY-layer applications (while remaining backward-compatible with legacy receivers), is presented."
+    },
+    {
+        "title": "Suitability of 3rd round signature candidates for vehicle-to-vehicle communication",
+        "id": "0lhBjI4AAAAJ:SP6oXDckpogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:SP6oXDckpogC",
+        "authors": [
+            "Nina Bindel",
+            "Sarah McCarthy",
+            "Hanif Rahbari",
+            "Geoff Twardokus"
+        ],
+        "pub_source": "Third NIST PQC Standardization Conference",
+        "pub_date": "2021/6/7",
+        "description": "Suitability of 3 rd Round Signature Candidates for Vehicle to Vehicle Communication Page 1 \nSuitability of 3rd Round Signature Candidates for Vehicle-to-Vehicle Communication Nina \nBindel Sarah McCarthy Hanif Rahbari Geoff Twardokus 3rd PQC Standardization Conference \nJune 7-9, 2021 Page 2 Outline 2 \u2022 Introduction to Secure Vehicle-to-Vehicle (V2V) \nCommunication \u2022 Presentation of Existing Testbed V2Verifier \u2022 Integration of PQ Algorithms to \nV2Verifier and Experimental Results \u2022 Analysis of Dense Environments on Testbed \u2022 Stating of \nFuture Work * *All icons from flaticom.com using premium account. Page 3 3 Introduction to V2V \nCommunication Page 4 V2V Communication 4 Approaching intersection Approaching \nintersection Direct wireless communication \u2022 Increases situational awareness \u2022 Prevents 600,000 \ncollisions per year Described in \u2022 Dedicated Short Range Communication/Wireless Access in \u2026",
+        "citations": 10
+    },
+    {
+        "title": "Targeted Discreditation Attack against Trust Management in Connected Vehicles",
+        "id": "0lhBjI4AAAAJ:CHSYGLWDkRkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:CHSYGLWDkRkC",
+        "authors": [
+            "Geoff Twardokus",
+            "Jaime Ponicki",
+            "Samantha Baker",
+            "Peter Carenzo",
+            "Hanif Rahbari",
+            "Sumita Mishra"
+        ],
+        "pub_source": "IEEE ICC 2021",
+        "pub_date": "2021/6",
+        "description": "Vehicle-to-vehicle (V2V) communication systems in the U.S. rely on IEEE 1609.2 security protocols for message authentication using digital signatures. A key requirement for trust management in such systems is the ability to detect misbehaving vehicles, e.g., when vehicles are repeatedly forging signatures. However, this creates a new attack surface where receivers cannot determine whether the causes of signature verification failures are indeed malicious attacks. In this paper, we present our novel, open-source, USRP-based testbed and utilize it to demonstrate how a stealthy reactive jammer can exploit this vulnerability. Our novel, targeted attack is highly efficient (even given the short validity period for vehicle pseudonyms) and difficult to detect. Our experimental results show that our attack can successfully discredit a victim in prominent misbehavior detection schemes with just two minutes of jamming. Finally\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Evaluating V2V Security on an SDR Testbed",
+        "id": "0lhBjI4AAAAJ:NhqRSupF_l8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:NhqRSupF_l8C",
+        "authors": [
+            "Geoff Twardokus",
+            "Hanif Rahbari"
+        ],
+        "pub_source": "IEEE INFOCOM 2021 Workshops (INFOCOM WKSHPS)",
+        "pub_date": "2021/5/10",
+        "description": "We showcase the capabilities of V2Verifier, a new open-source software-defined radio (SDR) testbed for vehicle-to-vehicle (V2V) communications security, to expose the strengths and vulnerabilities of current V2V security systems based on the IEEE 1609.2 standard. V2Verifier supports both major V2V technologies and facilitates a broad range of experimentation with upper- and lower-layer attacks using a combination of SDRs and commercial V2V on-board units (OBUs). We demonstrate two separate attacks (jamming and replay) against Dedicated Short Range Communication (DSRC) and Cellular Vehicle-to-Everything (C-V2X) technologies, experimentally quantifying the threat posed by these types of attacks. We also use V2Verifier\u2019s open-source implementation to show how the 1609.2 standard can effectively mitigate certain types of attacks (e.g., message replay), facilitating further research into the security\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Expanding the Role of Preambles to Support User-defined Functionality in MIMO-based WLANs",
+        "id": "0lhBjI4AAAAJ:EUQCXRtRnyEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:EUQCXRtRnyEC",
+        "authors": [
+            "Zhengguang Zhang",
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "IEEE INFOCOM 2020 (IEEE Conference on Computer Communications)",
+        "pub_date": "2020/7",
+        "description": "As the Wi-Fi technology goes through its sixth generation (Wi-Fi 6), there is a growing consensus on the need to support security and coordination functions at the Physical (PHY) layer, beyond traditional functions such as frame detection and rate adaptation. In contrast to the costly approach of extending the PHY-layer header to support new functions (e.g., Target Wake Time field in 802.11ax), we propose to turn a specific part of the frame preamble into a data field while maintaining its primary functions. Specifically, in this paper, we develop a scheme called extensible preamble modulation (ePMod) for the MIMO-based 802.11ac protocol. For each frame, eP-Mod can embed up to 20 bits into the 802.11ac preamble under 1 \u00d7 2 or 2 \u00d7 1 MIMO transmission modes to support the operations of a given PHY-layer function. The proposed scheme enables several promising PHY-layer services, such as PHY-layer\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Systems and methods for securing wireless communications",
+        "id": "0lhBjI4AAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "MM Krunz",
+            "B Akgun",
+            "P Siyari",
+            "H Rahbari",
+            "RM Eletreby",
+            "OO Koyluoglu"
+        ],
+        "pub_source": "US Patent 10,439,755",
+        "pub_date": "2019/10/8",
+        "description": "Systems and methods of friendly jamming for securing wireless communications at the physical layer are presented. Under the assumption of exact knowledge of the eavesdropping channel, a resource-efficient distributed approach is used to improve the secrecy sum-rate of a multi-link network with one or more eavesdroppers while satisfying an information-rate constraint for all links. A method based on mixed strategic games can offer robust solutions to the distributed secrecy sum-rate maximization. In addition, a block fading broadcast channel with a multi-antenna transmitter, sending two or more independent confidential data streams to two or more respective users in the presence of a passive eavesdropper is considered. Lastly, a per-link strategy is considered and an optimization problem is formulated, which aims at jointly optimizing the power allocation and placement of the friendly jamming devices for a\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Lightweight Machine Learning for Efficient Frequency-Offset-Aware Demodulation",
+        "id": "0lhBjI4AAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "Peyman Siyari",
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "IEEE Journal on Selected Areas in Communications",
+        "pub_date": "2019/8/8",
+        "description": "Carrier frequency offset (CFO) arises from the intrinsic mismatch between the oscillators of a wireless transmitter and the corresponding receiver, as well as their relative motion (i.e., Doppler effect). Despite advances in CFO estimation and tracking techniques, estimation errors are still present. Residual CFO creates a time-varying phase error, which degrades the decoder's performance by increasing the symbol error rate. The impact is particularly visible in dense constellation maps (e.g., high-order QAM modulation), often used in modern wireless systems such as 5G NR, 802.11ax, and mmWave, as well as in physical security techniques, such as modulation obfuscation (MO). In this paper, we first derive the probability distribution function for the residual CFO under Gaussian noise. Using this distribution, we compute the maximum-likelihood demodulation boundaries for OFDM signals in a non-closed form. For\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Systems and methods for securing wireless communications",
+        "id": "0lhBjI4AAAAJ:D03iK_w7-QYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:D03iK_w7-QYC",
+        "authors": [
+            "MM Krunz",
+            "B Akgun",
+            "P Siyari",
+            "H Rahbari",
+            "RM Eletreby",
+            "OO Koyluoglu"
+        ],
+        "pub_source": "US Patent 10,069,592",
+        "pub_date": "2018/9/4",
+        "description": "Systems and methods of friendly jamming for securing wireless communications at the physical layer are presented. Under the assumption of exact knowledge of the eavesdropping channel, a resource-efficient distributed approach is used to improve the secrecy sum-rate of a multi-link network with one or more eavesdroppers while satisfying an information-rate constraint for all links. A method based on mixed strategic games can offer robust solutions to the distributed secrecy sum-rate maximization. In addition, a block fading broadcast channel with a multi-antenna transmitter, sending two or more independent confidential data streams to two or more respective users in the presence of a passive eavesdropper is considered. Lastly, a per-link strategy is considered and an optimization problem is formulated, which aims at jointly optimizing the power allocation and placement of the friendly jamming devices for a\u00a0\u2026",
+        "citations": 19
+    },
+    {
+        "title": "SecureMatch: Scalable Authentication and Key Relegation for IoT Using Physical-Layer Techniques",
+        "id": "0lhBjI4AAAAJ:a0OBvERweLwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:a0OBvERweLwC",
+        "authors": [
+            "Hanif Rahbari",
+            "Jinshan Liu",
+            "Jung-Min Jerry Park"
+        ],
+        "pub_source": "IEEE Conference on Communications and Network Security (CNS)",
+        "pub_date": "2018",
+        "description": "Conventional authentication approaches, whether based on (preconfigured) symmetric or asymmetric keys, cannot react timely to large-scale attacks on Internet of Things (IoT) devices because they need to manage (i.e., create, certify, distribute, and revoke) long lists of keys or device identities. In particular, existing key revocation schemes are inept at handling the extreme scale of IoT networks. In this paper, we propose a new concept called relegation to facilitate developing SecureMatch, a protocol to cope with scalability while incurring minimal time and/or space complexity. Relegation is like a fuzzy key revocation by which only the trustworthiness level of a vulnerable but not compromised device is reduced. Inspired by lightweight identity-based signatures, SecureMatch uses public features of a class of devices as their public keys to characterize and relegate all similar devices that share a common vulnerability\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Adaptive Demodulation for Wireless Systems in the Presence of Frequency-Offset Estimation Errors",
+        "id": "0lhBjI4AAAAJ:yD5IFk8b50cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:yD5IFk8b50cC",
+        "authors": [
+            "Hanif Rahbari",
+            "Peyman Siyari",
+            "Marwan Krunz",
+            "Jung-Min Jerry Park"
+        ],
+        "pub_source": "IEEE INFOCOM 2018 (IEEE Conference on Computer Communications)",
+        "pub_date": "2018",
+        "description": "Carrier frequency offset (CFO) arises from the intrinsic mismatch between the operating frequencies of the transmitter and the receiver, as well as their relative speeds (i.e., Doppler effect). Despite advances in CFO estimation techniques, estimation errors are still present. Residual CFO creates time-varying phase error. Modern wireless systems, including WLANs, 5G cellular systems, and satellite communications, use high-order modulation schemes, which are characterized by dense constellation maps. Accounting for the phase error is critical for the demodulation performance of such schemes. In this paper, we analyze the post-estimation probability distribution of residual CFO and use it to develop a CFO-aware demodulation approach for a set of modulation schemes (e.g., QAM and APSK). For a given distribution of the residual CFO, symbols with larger amplitudes are less densely distributed on the\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Exploiting Frame Preamble Waveforms to Support New Physical-Layer Functions in OFDM-Based 802.11 Systems",
+        "id": "0lhBjI4AAAAJ:4OULZ7Gr8RgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:4OULZ7Gr8RgC",
+        "authors": [
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "IEEE Transactions on Wireless Communications",
+        "pub_date": "2017/6",
+        "description": "The frame preamble in current WiFi systems is designed to facilitate various PHY-layer functions, including frequency offset estimation and frame detection. However, this preamble is typically fixed and is never used to convey any user-specific bits. Embedding information into the preamble opens the door for several new PHY-layer applications. For example, the PHY header no longer needs to be transmitted at a known (lowest) rate if this rate can be announced earlier in the preamble. A full-duplex transmitter can use the embedded information to inform other devices of its current operation mode (e.g., transmit/receive versus transmit/sense), obviating the need for additional control packets. In security applications, a PHY-layer sender identifier can be embedded in the preamble to facilitate PHY-level encryption. However, modifying the standard preamble to embed user information may disrupt the operation of 802\u00a0\u2026",
+        "citations": 45
+    },
+    {
+        "title": "Obfuscation of Transmission Fingerprints for Secure Wireless Communications",
+        "id": "0lhBjI4AAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Hanif Rahbari"
+        ],
+        "pub_source": "The University of Arizona",
+        "pub_date": "2016/5",
+        "description": "Our world of people and objects is on the verge of transforming to a world of highly-interconnected wireless devices. Incredible advances in wireless communications, hardware design, and power storage have facilitated hasty spread of wireless technologies in human life. In this new world, individuals are often identified and reached via one or multiple wireless devices that they always carry (eg, smartphones, smart wearable, implantable medical devices, etc.), and their biometrics identities are replaced by their digital fingerprints. In near future, vehicles will be controlled and monitored via wireless monitoring systems and various physical objects (eg, home appliance and retail store items) will be connected to the Internet. The list of these changes goes on. Unfortunately, as different aspects of our lives are being immerged in and dependent to wireless devices and services, we will become more vulnerable to\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Swift Jamming Attack on Frequency Offset Estimation: The Achilles Heel of OFDM Systems",
+        "id": "0lhBjI4AAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Hanif Rahbari",
+            "Marwan Krunz",
+            "Loukas Lazos"
+        ],
+        "pub_source": "IEEE Transactions on Mobile Computing",
+        "pub_date": "2016/5",
+        "description": "Frequency offset (FO) refers to the difference in the operating frequencies of two radio oscillators. Failure to compensate for the FO may lead to decoding errors, particularly in OFDM systems. To correct the FO, wireless standards append a publicly known preamble to every frame before transmission. In this paper, we demonstrate how an adversary can exploit the known preamble structure of OFDM-based wireless systems, particularly IEEE802.11a/g/n/ac, to launch a very stealth (low energy/duty cycle) reactive jamming attack against the FO estimation mechanism. In this attack, the adversary quickly detects a transmitted OFDM frame and subsequently jams a tiny part of the preamble that is used for FO estimation at the legitimate receiver. By optimizing the energy and structure of the jamming signal and accounting for frame detection timing errors and unknown channel parameters, we empirically show that the\u00a0\u2026",
+        "citations": 36
+    },
+    {
+        "title": "Rolling Preambles: Mitigating Stealthy FO Estimation Attacks in OFDM-based 802.11 Systems",
+        "id": "0lhBjI4AAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "Communications and Network Security (CNS)",
+        "pub_date": "2016",
+        "description": "Modern wireless systems and standards increasingly rely on OFDM for high-throughput communications. However, these systems are often highly vulnerable to selective jamming attacks, particularly when a jammer targets (part of) the known frame preamble. In this paper, we consider one of the most disruptive jamming attacks against the preamble-based frequency offset (FO) estimation in IEEE 802.11a/n/ac/ax systems and develop four techniques to mitigate this attack. Two of these techniques are based on randomly changing the first half of the standard frame preamble at the transmitter while maintaining its backward compatibility with legacy receivers. Specifically, we design a set of new preamble waveforms that satisfy the expected characteristics of a preamble in 802.11 systems. The other two techniques take a receiver-based approach and exploit the parts of the preamble that are not under attack to\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Full Frame Encryption and Modulation Obfuscation Using Channel-independent Preamble Identifier",
+        "id": "0lhBjI4AAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "IEEE Transactions on Information Forensics and Security",
+        "pub_date": "2016",
+        "description": "The broadcast nature of wireless communications exposes various transmission attributes, such as the packet size, inter-packet times, and the modulation scheme. These attributes can be exploited by an adversary to launch passive (e.g., traffic analysis) or selective jamming attacks. This security problem is present even when frame headers and payloads can be encrypted. For example, by determining the modulation scheme, the attacker can estimate the data rate, and hence the payload size. In this paper, we propose Friendly CryptoJam (FCJ), a scheme that decorrelates the payload's modulation scheme from other transmission attributes by embedding information symbols into the constellation map of the highest-order modulation scheme supported by the system (a concept we refer to as indistinguishable modulation unification). Such unification is done using the least-complex trellis-coded modulation schemes\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "Secrecy beyond encryption: obfuscating transmission signatures in wireless communications",
+        "id": "0lhBjI4AAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "IEEE Communications Magazine",
+        "pub_date": "2015/12",
+        "description": "The privacy of a wireless user and the operation of a wireless network can be threatened by the leakage of side-channel information (SCI), even when encryption and authentication are employed. In this article, we describe various passive (traffic analysis) and active (jamming) attacks that are facilitated by SCI. Our goal is to highlight the need for novel PHY-layer security techniques that can be used to complement classical encryption methods. We discuss several of these techniques along with advanced hardware that exhibits promising capabilities for countering privacy and SCI-related attacks.",
+        "citations": 27
+    },
+    {
+        "title": "Multicast Rendezvous in Fast-varying DSA Networks",
+        "id": "0lhBjI4AAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Mohammad J Abdel-Rahman",
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "IEEE Transactions on Mobile Computing",
+        "pub_date": "2015/7",
+        "description": "Establishing communications between devices in a dynamic spectrum access (DSA) system requires the communicating parties to \u201crendezvous\u201d before transmitting data packets. Frequency hopping (FH) is an effective rendezvous method that does not rely on a predetermined control channel. Previous FH-based rendezvous designs mainly target unicast rendezvous, and do not intrinsically support multicast rendezvous, where a group of nodes need to rendezvous simultaneously. Furthermore, these designs do not account for fast-primary user (PU) dynamics, leading to long time-to-rendezvous (TTR). In this paper, we exploit the uniform k-arbiter and Chinese Remainder Theorem quorum systems to develop three FH-based multicast rendezvous algorithms, which provide different tradeoffs between rendezvous efficiency (e.g., low TTR) and security (e.g., robustness to node compromise). Our rendezvous algorithms\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "Supporting PHY-layer Security in Multi-link Wireless Networks Using Friendly Jamming",
+        "id": "0lhBjI4AAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "Rashad Eletreby",
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "GLOBECOM'15",
+        "pub_date": "2015",
+        "description": "Friendly jamming is a PHY-layer technique used to secure wireless communications. Unlike previous efforts that fix the placement of the friendly jamming devices, in this paper we consider small- scale multi-link wireless networks, e.g., peer-to- peer or multihop, and jointly optimize the powers and locations of the friendly jamming devices so as to minimize the total jamming power while simultaneously achieving a given secrecy constraint. We use distributed MIMO techniques and incorporate the necessary conditions to ensure nullification of the friendly jamming signals at legitimate receivers. Two optimization strategies are explored: per-link and network-wide. Our optimization framework is based on formulating a signomial programming problem using condensation techniques to approximate the problem as a geometric program, which can then be transformed into a convex problem. We also consider the secrecy\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Friendly CryptoJam: A Mechanism for Securing Physical-Layer Attributes",
+        "id": "0lhBjI4AAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "Security and Privacy in Wireless and Mobile Networks (WiSec'14)",
+        "pub_date": "2014",
+        "description": "The broadcast nature of wireless communications exposes various \"transmission attributes,\" such as the packet size, the inter-packet times, and the modulation scheme. These attributes can be exploited by an adversary to launch passive or active attacks. A passive attacker threatens user's privacy and confidentiality by performing traffic analysis and classification, whereas an active attacker exploits captured attributes to launch selective jamming/dropping attacks. This so-called PHY-layer security problem is present even when the payload is encrypted. For example, by determining the modulation scheme, the attacker can estimate the data rate, and hence the payload size, and later use it to launch traffic classification or selective rate-adaptation attacks. In this paper, we propose Friendly CryptoJam, a novel approach that combines analog-domain friendly jamming and modulation-level encryption. Friendly\u00a0\u2026",
+        "citations": 20
+    },
+    {
+        "title": "Security Vulnerability and Countermeasures of Frequency Offset Correction in 802.11a Systems",
+        "id": "0lhBjI4AAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Hanif Rahbari",
+            "Marwan Krunz",
+            "Loukas Lazos"
+        ],
+        "pub_source": "INFOCOM'14",
+        "pub_date": "2014",
+        "description": "Frequency offset (FO) is an inherent feature of wireless communications. It results from differences in the operating frequency of different radio oscillators. Failure to compensate for the FO may lead to a decoding failure, particularly in OFDM systems. IEEE 802.11a/g systems use a globally known preamble to deal with this issue. In this paper, we demonstrate how an adversary can exploit the structure and publicity of 802.11a's frame preamble to launch a low-power reactive jamming attack against the FO estimation mechanism. In this attack, the adversary will need to quickly detect a PHY frame and subsequently distort the FO estimation mechanism, irrespective of the channel conditions. By employing a fast frame detection technique, and optimizing the energy and structure of the jamming signal, we show the feasibility of such an attack. Furthermore, we propose some mitigation techniques and evaluate one of them\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "Rendezvous in dynamic spectrum wireless networks",
+        "id": "0lhBjI4AAAAJ:zA6iFVUQeVQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:zA6iFVUQeVQC",
+        "authors": [
+            "Mohammad J Abdel-Rahman",
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "University of Arizona, Tech. Rep. TR-UA-ECE-2013-2",
+        "pub_date": "2013/5",
+        "description": "Establishing communications in a dynamic spectrum access (DSA) network requires the communicating parties to \u201crendezvous\u201d before transmitting their data packets. Frequency hopping (FH) provides an effective method for rendezvousing without relying on a predetermined control channel. Previous FH-based rendezvous designs do not account for fast primary user (PU) dynamics, which results in extremely long rendezvous delay. Furthermore, these designs mainly target pairwise rendezvous, and do not intrinsically support multicast rendezvous. Intrinsic multicast rendezvous is required to consistently update the secret information in a multicast group. In this paper, we first design a grid-quorum-based FH algorithm, called NGQFH, for pairwise rendezvous. NGQFH can achieve efficient rendezvous under fast PU dynamics. It is also robust against insider attacks, such as node compromise. Using the uniform k-arbiter and Chinese Remainder Theorem quorum systems, we then propose three multicast rendezvous algorithms, which provide different tradeoffs between the time-to-rendezvous and robustness to node compromise. Our rendezvous algorithms are tailored for asynchronous and heterogeneous DSA networks. To account for fast PU dynamics, we develop an algorithm for adapting the proposed FH designs on the fly. This adaptation is done through efficient mechanisms for channel sensing, assignment, and quorum selection. Our simulations validate the fast rendezvous capability of the proposed algorithms, their PU detection accuracy, and their robustness to insider attacks.",
+        "citations": 7
+    },
+    {
+        "title": "Fast and secure rendezvous protocols for mitigating control channel DoS attacks",
+        "id": "0lhBjI4AAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Mohammad J Abdel-Rahman",
+            "Hanif Rahbari",
+            "Marwan Krunz",
+            "Philippe Nain"
+        ],
+        "pub_source": "2013 Proceedings IEEE INFOCOM",
+        "pub_date": "2013/4/14",
+        "description": "The operation of a wireless network relies extensively on exchanging messages over a universally known channel, referred to as the control channel. The network performance can be severely degraded if a jammer launches a denial-of-service (DoS) attack on such a channel. In this paper, we design quorum-based frequency hopping (FH) algorithms that mitigate DoS attacks on the control channel of an asynchronous ad hoc network. Our algorithms can establish unicast as well as multicast communications under DoS attacks. They are fully distributed, do not incur any additional message exchange overhead, and can work in the absence of node synchronization. Furthermore, the multicast algorithms maintain the multicast group consistency. The efficiency of our algorithms is shown by analysis and simulations.",
+        "citations": 15
+    },
+    {
+        "title": "Adaptive frequency hopping algorithms for multicast rendezvous in DSA networks",
+        "id": "0lhBjI4AAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=0lhBjI4AAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Mohammad J Abdel-Rahman",
+            "Hanif Rahbari",
+            "Marwan Krunz"
+        ],
+        "pub_source": "2012 IEEE International Symposium on Dynamic Spectrum Access Networks",
+        "pub_date": "2012/10/16",
+        "description": "Establishing communications in a dynamic spectrum access (DSA) network requires communicating nodes to \u201crendezvous\u201d before transmitting their data packets. Frequency hopping (FH) provides an effective method for rendezvousing without relying on a predetermined control channel. FH rendezvous protocols have mainly targeted pairwise rendezvous, using fixed (non-adaptive) FH sequences and assuming a homogeneous spectrum environment, i.e., all nodes perceive the same spectrum opportunities. In this paper, we address these limitations by developing three multicast rendezvous algorithms: AMQFH, CMQFH, and nested-CMQFH. The three algorithms are intended for asynchronous spectrum-heterogeneous DSA networks. They provide different tradeoffs between speed and robustness to node compromise. We use the uniform k-arbiter and the Chinese remainder theorem (CRT) quorum systems to\u00a0\u2026",
+        "citations": 33
+    }
+]

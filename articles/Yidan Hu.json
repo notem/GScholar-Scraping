@@ -1,0 +1,386 @@
+[
+    {
+        "title": "\u201cI can see your password\u201d: A case study about cybersecurity risks in mid-air interactions of mixed reality-based smart manufacturing applications",
+        "id": "TxlYx8gAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Wenhao Yang",
+            "Xiwen Dengxiong",
+            "Xueting Wang",
+            "Yidan Hu",
+            "Yunbo Zhang"
+        ],
+        "pub_source": "Journal of Computing and Information Science in Engineering",
+        "pub_date": "2024/3/1",
+        "description": "This paper aims to present a potential cybersecurity risk existing in mixed reality (MR)-based smart manufacturing applications that decipher digital passwords through a single RGB camera to capture the user\u2019s mid-air gestures. We first created a test bed, which is an MR-based smart factory management system consisting of mid-air gesture-based user interfaces (UIs) on a video see-through MR head-mounted display. To interact with UIs and input information, the user\u2019s hand movements and gestures are tracked by the MR system. We setup the experiment to be the estimation of the password input by users through mid-air hand gestures on a virtual numeric keypad. To achieve this goal, we developed a lightweight machine learning-based hand position tracking and gesture recognition method. This method takes either video streaming or recorded video clips (taken by a single RGB camera in front of the user\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Authenticating Outsourced Location-Based Skyline Queries under Shortest Path Distance",
+        "id": "TxlYx8gAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Yidan Hu",
+            "Yukun Dong",
+            "Wenxin Chen",
+            "Yingfei Dong",
+            "Rui Zhang"
+        ],
+        "pub_source": "2023 IEEE Conference on Communications and Network Security (CNS)",
+        "pub_date": "2023/10/2",
+        "description": "An increasing number of location-based service providers are taking the advantage of cloud computing by outsourcing their Point of Interest (POI) datasets and query services to third-party cloud service providers (CSPs), which answer various location-based queries from users on their behalf. A critical security challenge is to ensure the integrity and completeness of any query result returned by CSPs. As an important type of queries, a location-based skyline query (LBSQ) asks for the POIs not dominated by any other POI with respect to a given query position, i.e., no POI is both closer to the query position and more preferable with respect to a given numeric attribute. While there have been several recent attempts on authenticating outsourced LBSQ, none of them support the shortest path distance that is preferable to the Euclidian distance in metropolitan areas. In this paper, we tackle this open challenge by\u00a0\u2026"
+    },
+    {
+        "title": "Location Inference under Temporal Correlation",
+        "id": "TxlYx8gAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Yukun Dong",
+            "Yidan Hu",
+            "Aisha Aseeri",
+            "Depeng Li",
+            "Rui Zhang"
+        ],
+        "pub_source": "2023 32nd International Conference on Computer Communications and Networks (ICCCN)",
+        "pub_date": "2023/7/24",
+        "description": "Location Based Services (LBSs) have become increasingly popular in the past decade, allowing mobile users to access location-dependent information and services. To protect user privacy while using LBSs, various Location Privacy Protection Mechanisms (LPPMs) have been proposed that obfuscate users' true locations through random perturbation. However, adversaries can still exploit the temporal correlation between a user's locations in multiple LBS queries to improve inference accuracy. In this paper, we introduce a novel location inference attack that strikes a good balance between inference accuracy and computational complexity by effectively exploiting temporal correlation. Simulation studies using synthetic and real datasets confirm the advantages of our proposed attack."
+    },
+    {
+        "title": "Sybil Detection in Connected Vehicle Systems via Angle-of-Arrival Estimation",
+        "id": "TxlYx8gAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Tianye Ma",
+            "Yidan Hu",
+            "Aisha Aseeri",
+            "Mark Nejad",
+            "Rui Zhang"
+        ],
+        "pub_source": "2023 IEEE International Conference on Mobility, Operations, Services and Technologies (MOST)",
+        "pub_date": "2023/5/17",
+        "description": "The emerging Intelligent Transportation Systems (ITS) and the proliferation of Connected Vehicles (CVs) are widely expected to greatly improve road safety, traffic efficiency, and driving comfort. At the same time, the vehicle-to-infrastructure (V2I) and vehicle-to-vehicle (V2V) communications that ITS and CVs rely on also introduce new security challenges. Sybil attack is one of the most serious security threats to CV-based ITS, in which a Sybil attacker creates and operates multiple fake CVs from a single physical CV to inject and disseminate false information to mislead the ITS into making suboptimal decisions, e.g., causing fake traffic jams. This paper proposes a novel physical measurement-based method to detect Sybil attacks and identify Sybil CVs. We observe that it is impossible for a single malicious physical CV to be presented at multiple claimed positions at the same time. Second, the Angle of Arrival (AoA\u00a0\u2026"
+    },
+    {
+        "title": "Continuous Indoor Tracking via Differential RSS Fingerprinting",
+        "id": "TxlYx8gAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Yunzhi Li",
+            "Yidan Hu",
+            "Aishah Aseeri",
+            "Yukun Dong",
+            "Rui Zhang"
+        ],
+        "pub_source": "2022 IEEE 19th International Conference on Mobile Ad Hoc and Smart Systems (MASS)",
+        "pub_date": "2022/10",
+        "description": "Indoor navigation is necessary for users to explore large unfamiliar indoor environments such as airports, shopping malls, and hospital complex, which relies on the capability of continuously tracking a user's location. A typical indoor navigation system is built on top of a suitable Indoor Positioning System (IPS) and requires the user to periodically submit location queries to learn their whereabouts whereby to provide update-to-date navigation information. Received signal strength (RSS)-based IPSes are considered as one of the most classical IPSes, which locates a user by comparing the user's RSS measurement with the fingerprints collected at different locations in advance. Despite its significant advantages, existing RSS-IPSes suffer from two key challenges, the ambiguity of RSS fingerprints and device diversity, that may greatly reduce its positioning accuracy. In this paper, we introduce the design and evaluation of CITS, a novel RSS-based continuous indoor tracking system that can effectively cope with fingerprint ambiguity and device diversity via differential RSS fingerprint matching. Detailed experiment studies confirm the significant advantages of CITS over prior RSS-based solutions."
+    },
+    {
+        "title": "Freshness authentication for outsourced multi-version key-value stores",
+        "id": "TxlYx8gAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Yidan Hu",
+            "Xin Yao",
+            "Rui Zhang",
+            "Yanchao Zhang"
+        ],
+        "pub_source": "IEEE Transactions on Dependable and Secure Computing",
+        "pub_date": "2022/5/3",
+        "description": "Data outsourcing is a promising technical paradigm to facilitate cost-effective real-time data storage, processing, and dissemination. In data outsourcing, a data owner proactively pushes a stream of data records to a third-party cloud server for storage, which in turn processes various types of queries from end users on the data owner\u2019s behalf. However, the popular outsourced multi-version key-value stores pose a critical security challenge that a third-party cloud server cannot be fully trusted to return both authentic and fresh data in response to end users\u2019 queries. Although several recent attempts have been made on authenticating data freshness in outsourced key-value stores, they either incur excessively high communication cost or can only offer very limited real-time guarantee. To fill this gap, this article introduces KV-Fresh, a novel freshness authentication scheme for outsourced key-value stores that offers\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Impos: An image-based indoor positioning system",
+        "id": "TxlYx8gAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Yunzhi Li",
+            "Rajeswari Hita Kambhamettu",
+            "Yidan Hu",
+            "Rui Zhang"
+        ],
+        "pub_source": "2022 IEEE 19th Annual Consumer Communications & Networking Conference (CCNC)",
+        "pub_date": "2022/1/8",
+        "description": "Recent years have witnessed growing interests from both academia and industry in developing effective Indoor Positioning Systems (IPSes). An IPS allows users to learn their locations and navigate in large unfamiliar indoor venues such as shopping malls, hospitals, and airports, where GPS signals are often absent or unreliable. Among different types of IPSes, images-based IPSes estimate a user\u2019s location from one or more pictures the user took of nearby landmarks, which explore the deep penetration of smartphones into people\u2019s everyday life and do not require any costly infrastructure upgrade. While several image-based IPSes have been proposed in the literature, most of them suffer from large processing delay due to computationally intensive 3D reconstructing or low positioning accuracy caused by inaccurate angle estimation. In this paper, we introduce the design and evaluation of ImPos, a novel image\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Secure outsourced top-k selection queries against untrusted cloud service providers",
+        "id": "TxlYx8gAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Xixun Yu",
+            "Yidan Hu",
+            "Rui Zhang",
+            "Zheng Yan",
+            "Yanchao Zhang"
+        ],
+        "pub_source": "2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS)",
+        "pub_date": "2021/6/25",
+        "description": "As cloud computing reshapes the global IT industry, an increasing number of business owners have outsourced their datasets to third-party cloud service providers (CSP), which in turn answer data queries from end users on their behalf. A well known security challenge in data outsourcing is that the CSP cannot be fully trusted, which may return inauthentic or unsound query results for various reasons. This paper considers top-k selection queries, an important type of queries widely used in practice. In a top-k selection query, a user specifies a scoring function and asks for the k objects with the highest scores. Despite several recent efforts, existing solutions can only support a limited range of scoring functions with explicit forms known in advance. This paper presents three novel schemes that allow a user to verify the integrity and soundness of any top-k selection query result returned by an untrusted CSP. The first\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Secure and privacy-preserving database-driven dynamic spectrum sharing",
+        "id": "TxlYx8gAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Yidan Hu"
+        ],
+        "pub_source": "University of Delaware",
+        "pub_date": "2021",
+        "description": "Database-driven Dynamic Spectrum Sharing (DSS) is the de facto technical paradigm adopted by Federal Communications Commission (FCC) for meeting the ever-growing spectrum demand by allowing secondary users (SUs) to opportunistically access licensed spectrum bands without causing interference to primary users transmissions. In a database-driven DSS system, a geo-location database administrator (DBA) maintains the spectrum availability in its service region in the form of a radio environment map (REM). Maintaining accurate spectrum availability information requires the DBA to periodically collect a large number of spectrum measurements, for which a promising approach is to rely on mobile crowdsourcing by outsourcing spectrum sensing tasks to distributed mobile users. Database-driven DSS armed with crowdsourcing-based spectrum sensing, unfortunately, faces many security and privacy\u00a0\u2026"
+    },
+    {
+        "title": "KV-Fresh: Freshness authentication for outsourced multi-version key-value stores",
+        "id": "TxlYx8gAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Yidan Hu",
+            "Rui Zhang",
+            "Yanchao Zhang"
+        ],
+        "pub_source": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications",
+        "pub_date": "2020/7/6",
+        "description": "Data outsourcing is a promising technical paradigm to facilitate cost-effective real-time data storage, processing, and dissemination. In such a system, a data owner proactively pushes a stream of data records to a third-party cloud server for storage, which in turn processes various types of queries from end users on the data owner's behalf. This paper considers outsourced multi-version key-value stores that have gained increasing popularity in recent years, where a critical security challenge is to ensure that the cloud server returns both authentic and fresh data in response to end users' queries. Despite several recent attempts on authenticating data freshness in outsourced key-value stores, they either incur excessively high communication cost or can only offer very limited real-time guarantee. To fill this gap, this paper introduces KV-Fresh, a novel freshness authentication scheme for outsourced key-value stores\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "A spatiotemporal approach for secure crowdsourced radio environment map construction",
+        "id": "TxlYx8gAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Yidan Hu",
+            "Rui Zhang"
+        ],
+        "pub_source": "IEEE/ACM Transactions on Networking",
+        "pub_date": "2020/5/27",
+        "description": "Database-driven Dynamic Spectrum Sharing (DSS) is the de-facto technical paradigm adopted by Federal Communications Commission for increasing spectrum efficiency, which allows licensed spectrum to be opportunistically used by secondary users. In database-driven DSS, a geo-location database administrator (DBA) maintains spectrum availability information over its service region in the form of a Radio Environment Map (REM), where the received signal strength from the primary user at every location is either directly measured via spectrum sensing or estimated via statistical spatial interpolation. Crowdsourcing-based spectrum sensing is a promising approach for periodically collecting spectrum measurements over a large geographic area but is unfortunately vulnerable to false spectrum measurements. Despite a large body of prior work on secure cooperative spectrum sensing, how to construct an\u00a0\u2026",
+        "citations": 26
+    },
+    {
+        "title": "Secure indoor positioning against signal strength attacks via optimized multi-voting",
+        "id": "TxlYx8gAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Yunzhi Li",
+            "Yidan Hu",
+            "Rui Zhang",
+            "Yanchao Zhang",
+            "Terri Hedgpeth"
+        ],
+        "pub_source": "Proceedings of the International Symposium on Quality of Service",
+        "pub_date": "2019/6/24",
+        "description": "Indoor positioning systems (IPSes) can enable many location-based services in large indoor venues where GPS signals are unavailable or unreliable. Among the most viable types of IPSes, RSS-IPSes rely on ubiquitous smartphones and indoor WiFi infrastructures and explore distinguishable received signal strength (RSS) measurements at different indoor locations as their location fingerprints. RSS-IPSes are unfortunately vulnerable to physical-layer RSS attacks that cannot be thwarted by conventional cryptographic techniques. Existing defenses against RSS attacks are all subject to an inherent tradeoff between indoor positioning accuracy and attack resilience. This paper presents the design and evaluation of MV-IPS, a novel RSS-IPS based on weighted multi-voting, which does not suffer from this tradeoff. In MV-IPS, every WiFi access point (AP) that receives a user's RSS measurement gives a weighted vote\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Differentially-private incentive mechanism for crowdsourced radio environment map construction",
+        "id": "TxlYx8gAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Yidan Hu",
+            "Rui Zhang"
+        ],
+        "pub_source": "IEEE INFOCOM 2019-IEEE Conference on Computer Communications",
+        "pub_date": "2019/4/29",
+        "description": "Database-driven Dynamic Spectrum Sharing (DSS) is a promising technical paradigm for enhancing spectrum efficiency by allowing secondary user to opportunistically access licenced spectrum channels without interfering with primary users' transmissions. In database-driven DSS, a geo-location database administrator (DBA) maintains the spectrum availability in its service region in the form of a radio environment map (REM) and grant or deny secondary users' spectrum access requests based on primary users' activities. Crowdsourcing-based spectrum sensing has great potential in improving the accuracy of the REM at the DBA but requires strong incentives and privacy protection to simulate mobile users' participation. To tackle this challenge, this paper introduces a novel differentially-private reverse auction mechanism for crowdsourcing-based spectrum sensing. The proposed mechanism allows the DBA to\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "Secure rss-fingerprint-based indoor positioning: Attacks and countermeasures",
+        "id": "TxlYx8gAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Lizhou Yuan",
+            "Yidan Hu",
+            "Yunzhi Li",
+            "Rui Zhang",
+            "Yanchao Zhang",
+            "Terri Hedgpeth"
+        ],
+        "pub_source": "2018 IEEE Conference on Communications and Network Security (CNS)",
+        "pub_date": "2018/5/30",
+        "description": "Indoor positioning systems (IPS) based on RSS fingerprints have received significant attention in recent years, but they are unfortunately vulnerable to RSS attacks that cannot be thwarted by conventional cryptographic means. In this paper, we identify two practical RSS attacks on RSS-fingerprint-based IPS (RSS-IPS. In both attacks, the attacker learns the RSS-fingerprint database at the IPS server by acting as a normal user repeatedly issuing location queries and then impersonates selected APs with fake ones under his control. By carefully tuning the locations and transmission power of fake APs, the attacker is able to control the RSS experienced by victim users at target locations, leading to either a large location error or the IPS server misled into returning a fake location of the attacker's choice. We further design a fingerprint-matching mechanism based on a novel truncated distance metric as the\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "DisLoc: A convex partitioning based approach for distributed 3-D localization in wireless sensor networks",
+        "id": "TxlYx8gAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Jin Fan",
+            "Yidan Hu",
+            "Tom H Luan",
+            "Mianxiong Dong"
+        ],
+        "pub_source": "IEEE Sensors Journal",
+        "pub_date": "2017/10/16",
+        "description": "Accurate localization in wireless sensor networks (WSNs) is fundamental to many applications, such as geographic routing and position-aware data processing. This, however, is challenging in large scale 3-D WSNs due to the irregular topology, such as holes in the path, of the network. The irregular topology may cause overestimated Euclidean distance between nodes as the communication path is bent and accordingly introduces severe errors in 3-D WSN localization. As an effort towards the issue, this paper develops a distributed algorithm to achieve accurate 3-D WSN localization. Our proposal is composed of two steps, segmentation and joint localization. In specific, the entire network is first divided into several subnetworks by applying the approximate convex partitioning. A spatial convex node recognition mechanism is developed to assist the network segmentation, which relies on the connectivity\u00a0\u2026",
+        "citations": 29
+    },
+    {
+        "title": "Secure crowdsourced radio environment map construction",
+        "id": "TxlYx8gAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Yidan Hu",
+            "Rui Zhang"
+        ],
+        "pub_source": "2017 IEEE 25th International Conference on Network Protocols (ICNP)",
+        "pub_date": "2017/10/10",
+        "description": "Database-driven Dynamic Spectrum Sharing (DSS) is the de-facto technical paradigm adopted by Federal Communications Commission (FCC) for increasing spectrum efficiency. In such a system, a geo-location database administrator (DBA) maintains spectrum availability information over its service region whereby to determines whether a secondary user can access a licensed spectrum band at his desired location and time. To maintain spectrum availability in its service region, it is desirable for the DBA to periodically collect spectrum measurements whereby to construct and maintain a Radio Environment Map (REM), where the received signal strength at every location of interest is either directly measured or estimated via proper statistical spatial interpolation techniques. Crowdsourcing-based spectrum sensing is a promising approach for periodically collecting spectrum measurements over a large geographic\u00a0\u2026",
+        "citations": 20
+    },
+    {
+        "title": "BlueAer: A fine-grained urban PM2. 5 3D monitoring system using mobile sensing",
+        "id": "TxlYx8gAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Yidan Hu",
+            "Guojun Dai",
+            "Jin Fan",
+            "Yifan Wu",
+            "Hua Zhang"
+        ],
+        "pub_source": "IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer Communications",
+        "pub_date": "2016/4/10",
+        "description": "This paper presents BlueAer, the first three-dimensional (3D) spatial-temporal fine particulate matter (PM 2.5 ) monitoring system, which is designed to understand urban PM 2.5  concentration distribution in a fine-grained level. For cost-efficient data collection, vast amount of 3D samples are collected by limited mobile carriers with built-in low-cost sensors. A 3D probabilistic concentration estimated method (3D-PCEM) is proposed to infer PM 2.5  concentration for undetected area, so that the accuracy of BlueAer is ensured. A prototype system of BlueAer has been implemented and worked throughout a year in a 64km 2  testing area with a population of 400,000 in Hangzhou, China. Experimental data has verified that BlueAer can achieve good performance in terms of stability as well as a fine grained 3D distribution of PM 2.5  concentration. The inference accuracy of 3D-PCEM is enhanced by 15.4% and 41.0\u00a0\u2026",
+        "citations": 61
+    },
+    {
+        "title": "Arm motion recognition and exercise coaching system for remote interaction",
+        "id": "TxlYx8gAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Hong Zeng",
+            "Yidan Hu",
+            "Jin Fan",
+            "Haiyang Hu",
+            "Zhigang Gao",
+            "Qiming Fang"
+        ],
+        "pub_source": "Mobile Information Systems",
+        "pub_date": "2016",
+        "description": "Arm motion recognition and its related applications have become a promising human computer interaction modal due to the rapid integration of numerical sensors in modern mobile\u2010phones. We implement a mobile\u2010phone\u2010based arm motion recognition and exercise coaching system that can help people carrying mobile\u2010phones to do body exercising anywhere at any time, especially for the persons that have very limited spare time and are constantly traveling across cities. We first design improved k-means algorithm to cluster the collecting 3\u2010axis acceleration and gyroscope data of person actions into basic motions. A learning method based on Hidden Markov Model is then designed to classify and recognize continuous arm motions of both learners and coaches, which also measures the action similarities between the persons. We implement the system on MIUI 2S mobile\u2010phone and evaluate the system\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "A Mobile Sensing System for Urban PM2.5 Monitoring with Adaptive Resolution",
+        "id": "TxlYx8gAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Hongjie Guo",
+            "Guojun Dai",
+            "Jin Fan",
+            "Yifan Wu",
+            "Fangyao Shen",
+            "Yidan Hu"
+        ],
+        "pub_source": "Journal of Sensors",
+        "pub_date": "2016",
+        "description": "This paper develops a mobile sensing system, the first system used in adaptive resolution urban air quality monitoring. In this system, we employ several taxis as sensor carries to collect original PM2.5 data and collect a variety of datasets, including meteorological data, traffic status data, and geographical data in the city. This paper also presents a novel method AG\u2010PCEM (Adaptive Grid\u2010Probabilistic Concentration Estimation Method) to infer the PM2.5 concentration for undetected grids using dynamic adaptive grids. We gradually collect the measurements throughout a year using a prototype system in Xiasha District of Hangzhou City, China. Experimental data has verified that the proposed system can achieve good performance in terms of computational cost and accuracy. The computational cost of AG\u2010PCEM is reduced by about 40.2% compared with a static grid method PCEM under the condition of reaching\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "An estimated method of urban PM2. 5 concentration distribution for a mobile sensing system",
+        "id": "TxlYx8gAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Yidan Hu",
+            "Jin Fan",
+            "Hua Zhang",
+            "Xinxin Chen",
+            "Guojun Dai"
+        ],
+        "pub_source": "Pervasive and Mobile Computing",
+        "pub_date": "2016/1/1",
+        "description": "The frequent hazy weather has brought enormous threaten to human health, especially in developing countries. Modeling a fine-grained distribution of PM 2.5 (Particulate matter with diameters less than 2.5 \u03bc m) concentrations is of great importance for industrial and environmental applications. The contradiction between the need of fine-grained distribution and the approach of coarse-grained collection has to be addressed immediately. In this paper, we focus on solving the problem of inferring PM 2.5 concentration of unobserved areas based on data samples collected by mobile sensors. We propose a Probabilistic Concentration Estimation Method (PCEM) for a regional fine-grained PM 2.5 distribution considering the nature of particle motion. It simulates particles transport in an open air-flow field referring the concept of random walk. In the meantime, quadratic programming and heuristic function are also\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "2023 IEEE International Conference on Mobility, Operations, Services and Technologies (MOST)| 979-8-3503-1995-8/23/$31.00\u00a9 2023 IEEE| DOI: 10.1109/MOST57249. 2023.00037",
+        "id": "TxlYx8gAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=TxlYx8gAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Raef Abdallah",
+            "Mustafa Ilhan Akbas",
+            "Pedro Almeida",
+            "Jo\u00e3o Amaral",
+            "Nejib Ammar",
+            "Aisha Aseeri",
+            "Mariana Avezum-Mercer",
+            "Gaurav Bagwe",
+            "Sumedh Beknalkar",
+            "Erik Biberstein",
+            "Matthew Bryant",
+            "Alexander Carballo",
+            "Dominic Carrillo",
+            "Vincenzo Catania",
+            "Jingshu Chen",
+            "Mozi Chen",
+            "Qi Chen",
+            "Xianhao Chen",
+            "Sudip Dhakal",
+            "Balakrishnan Dharmalingam",
+            "Bao Ming Ding",
+            "Zheng Dong",
+            "Song Fu",
+            "Keisuke Fujii",
+            "Quentin Goss",
+            "Nan Guan",
+            "Oleg Gusikhin",
+            "Saeid Habibi",
+            "Zhu Han",
+            "Yidan Hu",
+            "Yixin Huangfu",
+            "Yoshio Ishiguro",
+            "Demetrius Johnson",
+            "Stephan Jonas",
+            "Robin Karlsson",
+            "Jens Klinker",
+            "Ilya Kolmanovsky",
+            "Atsushi Kuribayashi",
+            "Bruno Lemos",
+            "Amaury Lendasse",
+            "Ruoxiang Li",
+            "Zhen Li",
+            "Zhixia Li",
+            "Qi Liao",
+            "Anyi Liu",
+            "Kezhong Liu",
+            "Liangkai Liu",
+            "Jack Lynch",
+            "Ryan Lynch",
+            "Tianye Ma",
+            "Yuting Ma",
+            "Omar Makke",
+            "Andre Mazzoleni",
+            "Ken Mori",
+            "Khairul Mottakin",
+            "Rajdeep Mukherjee",
+            "Mark Nejad",
+            "Ibrahim Odat",
+            "Kento Ohtani",
+            "Maurizio Palesi",
+            "Davide Patti",
+            "Olivia Pellegrini",
+            "Gon\u00e7alo Perna",
+            "Steven Peters",
+            "Brett Piggott",
+            "Deyuan Qu",
+            "Hamaad Rafique",
+            "Pedro Rito",
+            "Max Peter Ronecker",
+            "Rodrigo Rosmaninho",
+            "Carlos Rubio-Medrano",
+            "Susana Sargento",
+            "Ryan Sauer",
+            "Jonathan Schall"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Author Index Toggle navigation IEEE Computer Society Digital Library Jobs Tech News \nResource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE \nComputer Society Digital Library My Subscriptions Magazines Journals Conference Proceedings \nInstitutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News Resource \nCenter Press Room Advertising About Us Cart All Advanced Search Conference Cover Image \nDownload 1.Home 2.Proceedings 3.most 2023 Author Index 2023, pp. 243-244, DOI Bookmark: \n10.1109/MOST57249.2023.00037 Keywords Authors Author IndexAbdallah, Raef 62Akbas, \nMustafa Ilhan 193, 213Almeida, Pedro 96Amaral, Jo\u00e3o 96Ammar, Nejib 11Aseeri, Aisha \n202Avezum-Mercer, Mariana 142, 177Bagwe, Gaurav 23Beknalkar, Sumedh 124Biberstein, \nErik 112Bryant, Matthew 124Carballo, Alexander 132, 152Carrillo, Dominic 1Catania, Vincenzo \u2026"
+    }
+]

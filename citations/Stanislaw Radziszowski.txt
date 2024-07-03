@@ -1,0 +1,383 @@
+"Some Upper Bounds on Ramsey Numbers Involving "
+L Boza, S Radziszowski - arXiv preprint arXiv:2311.13582, 2023
+
+"The Complexity of -Arrowing"
+ZR Hassan, E Hemaspaandra, S Radziszowski - International Symposium on Fundamentals of Computation Theory, 2023
+
+"On Some Generalized Vertex Folkman Numbers"
+ZR Hassan, Y Jiang, DE Narváez, S Radziszowski, X Xu - Graphs and Combinatorics, 2023
+
+"The Complexity of -Arrowing"
+ZR Hassan, E Hemaspaandra, S Radziszowski - arXiv preprint arXiv:2307.10510, 2023
+
+"Power Analysis Attacks on the Customizable MK-3 Authenticated Encryption Algorithm"
+P Fabinski, S Farris, M Kurdziel, M Lukowiak, S Radziszowski - 2023 30th International Conference on Mixed Design of Integrated Circuits and System (MIXDES), 2023
+
+"Statistical Analysis of the MK-3 Customizable Authenticated Encryption"
+P Bajorski, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2022-2022 IEEE Military Communications Conference (MILCOM), 2022
+
+"Memory Protection with Dynamic Authentication Trees"
+M Millar, M Łukowiak, S Radziszowski - 2022 29th International Conference on Mixed Design of Integrated Circuits and System (MIXDES), 2022
+
+"Solving the Cross Domain Problem with Functional Encryption"
+A Kaminsky, M Kurdziel, S Farris, M Łukowiak, S Radziszowski - MILCOM 2021-2021 IEEE Military Communications Conference (MILCOM), 2021
+
+"Hardware Obfuscation of the 16-bit S-box in the MK-3 Cipher"
+J Blocklove, S Farris, M Kurdziel, M Łukowiak, S Radziszowski - 2021 28th International Conference on Mixed Design of Integrated Circuits and System, 2021
+
+"Star-Critical Ramsey Numbers for Cycles Versus"
+CJ Jayawardene, D Narváez, S Radziszowski - Discussiones Mathematicae Graph Theory, 2021
+
+"Design of a flexible Schönhage-Strassen FFT polynomial multiplier with high-level synthesis to accelerate HE in the cloud"
+K Millar, M Łukowiak, S Radziszowski - 2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig), 2019
+
+"Exploring the application of homomorphic encryption to a cross domain solution"
+C Tinker, K Millar, A Kaminsky, M Kurdziel, M Lukowiak, S Radziszowski - MILCOM 2019-2019 IEEE Military Communications Conference (MILCOM), 2019
+
+"Failed power domination on graphs"
+A Glasser, B Jacob, E Lederman, S Radziszowski - arXiv preprint arXiv:1909.02057, 2019
+
+"On a diagonal conjecture for classical Ramsey numbers"
+M Liang, S Radziszowski, X Xu - Discrete Applied Mathematics, 2019
+
+"Flexible HLS-based implementation of the Karatsuba multiplier targeting homomorphic encryption schemes"
+MJ Foster, M Łukowiak, S Radziszowski - 2019 MIXDES-26th International Conference" Mixed Design of Integrated Circuits and Systems", 2019
+
+"On some edge Folkman numbers, small and large"
+JM Kaufmann, HJ Wickus, SP Radziszowski - Involve, a Journal of Mathematics, 2019
+
+"Array-Based Statistical Analysis of the MK-3 Authenticated Encryption Scheme"
+P Bajorski, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM), 2018
+
+"Customization modes for the Harris MK-3 authenticated encryption algorithm"
+P Bajorski, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM), 2018
+
+"On the nonexistence of some generalized Folkman numbers"
+X Xu, M Liang, S Radziszowski - Graphs and Combinatorics, 2018
+
+"A note on upper bounds for some generalized Folkman numbers"
+X Xu, M Liang, S Radziszowski - Discussiones Mathematicae Graph Theory, 2018
+
+"Some Folkman problems"
+S Radziszowski, X Xu, M Liang - Chromatic vertex Folkman numbers, Existence and non-existence, Computational challenges. CanaDAM, Toronto, 2017
+
+"Neural networks and the search for a quadratic residue detector"
+M Potter, L Reznik, S Radziszowski - 2017 International Joint Conference on Neural Networks (IJCNN), 2017
+
+"Chromatic vertex Folkman numbers"
+X Xu, M Liang, S Radziszowski - arXiv preprint arXiv:1612.08136, 2016
+
+"Effectiveness of variable bit-length power analysis attacks on SHA-3 based MAC"
+XD Tran, M Łukowiak, SP Radziszowski - MILCOM 2016-2016 IEEE Military Communications Conference, 2016
+
+"Implementing authenticated encryption algorithm MK-3 on FPGA"
+G Werner, S Farris, A Kaminsky, M Kurdziel, M Lukowiak, S Radziszowski - MILCOM 2016-2016 IEEE Military Communications Conference, 2016
+
+"On bipartization of cubic graphs by removal of an independent set"
+H Furmańczyk, M Kubale, S Radziszowski - Discrete Applied Mathematics, 2016
+
+"Evaluation of homomorphic primitives for computations on encrypted data for CPS systems"
+P Hu, T Mukherjee, A Valliappan, S Radziszowski - 2016 Smart City Security and Privacy Workshop (SCSP-W), 2016
+
+"Homomorphic proximity computation in geosocial networks"
+P Hu, T Mukherjee, A Valliappan, S Radziszowski - 2016 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2016
+
+"Zarankiewicz numbers and bipartite Ramsey numbers"
+A Collins, A Riasanovsky, J Wallace, S Radziszowski - arXiv preprint arXiv:1604.01257, 2016
+
+"On some open questions for Ramsey and Folkman numbers, Graph Theory: Favorite Conjectures and Open Problems. Volume 1, 43-62, Probl. Books in Math"
+X Xu, S Radziszowski - Springer, 2016
+
+"Computation of the Ramsey Numbers R (C_4, K_9) and R (C_4, K_10)"
+S Radziszowski, A Lange, I Livinsky - Journal of Combinatorial Mathematics and Combinatorial Computing, 2016
+
+"Ramsey Numbers of  versus Wheels and Stars"
+Y Wu, Y Sun, R Zhang, SP Radziszowski - Graphs and Combinatorics, 2015
+
+"Constructing large S-boxes with area minimized implementations"
+CA Wood, SP Radziszowski, M Lukowiak - MILCOM 2015-2015 IEEE Military Communications Conference, 2015
+
+"Customizable sponge-based authenticated encryption using 16-bit S-boxes"
+M Kelly, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2015-2015 IEEE Military Communications Conference, 2015
+
+"A note on the graphs with given small matching number"
+W Yang, H Li - Ars Combinatoria, 2015
+
+"A step forwards on the Erdős-Sós problem concerning the Ramsey numbers R(3,k)"
+R Zhu, X Xu, S Radziszowski - arXiv preprint arXiv:1507.01133, 2015
+
+"Wheel and star-critical Ramsey numbers for quadrilateral"
+Y Wu, Y Sun, SP Radziszowski - Discrete Applied Mathematics, 2015
+
+"Cybersecurity education: Bridging the gap between hardware and software domains"
+M Lukowiak, S Radziszowski, J Vallino, C Wood - ACM Transactions on Computing Education (TOCE), 2014
+
+"On Some Open Questions for Ramsey and Folkman Numbers"
+X Xu, S Radziszowski - Institut Mittag-Leffler, 2014
+
+"Stochastic Analysis and Modeling of a Tree-Based Group Key Distribution Method in Tactical Wireless Networks"
+P Bajorski, A Kaminsky, M Kurdziel, M Lukowiak, S Radziszowski, C Wood - Journal of Telecommunications Systems & Management, 2014
+
+"Use of MAX-CUT for Ramsey Arrowing of Triangles"
+A Lange, S Radziszowski, X Xu - Journal of Combinatorial Mathematics and Combinatorial Computing, 2014
+
+"Computation of the Ramsey Numbers R (C_4, K_9) and R (C_4, K_10)"
+A Lange, I Livinsky, S Radziszowski - arXiv preprint arXiv:1310.3017, 2013
+
+"Bounds on Shannon capacity and Ramsey numbers from product of graphs"
+X Xu, SP Radziszowski - IEEE transactions on information theory, 2013
+
+"On Some Zarankiewicz Numbers and Bipartite Ramsey Numbers for Quadrilateral"
+J Dybizbański, T Dzido, S Radziszowski - arXiv preprint arXiv:1303.5475, 2013
+
+"New Computational Upper Bounds for Ramsey Numbers R(3,k)"
+J Goedgebeur, S Radziszowski - Electronic Journal of Combinatorics, 2013
+
+"The Ramsey Number R(3,K_10-e) and Computational Bounds for R (3,G)"
+J Goedgebeur, SP Radziszowski - Electronic Journal of Combinatorics, 2013
+
+"On Some Multicolor Ramsey Numbers Involving K_3+e and K_4-e"
+DS Shetler, MA Wurtz, SP Radziszowski - SIAM Journal on Discrete Mathematics, 2012
+
+"On Some Three-Color Ramsey Numbers for Paths"
+J Dybizbański, T Dzido, S Radziszowski - arXiv preprint arXiv:1207.5851, 2012
+
+"On Some Exact Values of Three-Color Ramsey Numbers for Paths"
+J Dybizbanski, T Dzido, Sl Radziszowski - arXiv preprint arXiv:1207.5851, 2012
+
+"Secure access for healthcare data in the cloud using ciphertext-policy attribute-based encryption"
+S Alshehri, SP Radziszowski, RK Raj - Data Engineering Workshops (ICDEW), 2012 IEEE 28th International Conference on, 2012
+
+"Developing an applied, security-oriented computing curriculum"
+M Lukowiak, A Meneely, SP Radziszowski, JR Vallino, CA Wood - Annual Conference of American Society for Engineering Education, 2012
+
+"Computing the Ramsey Number R(K_5-P_3, K_5)"
+JA Calvert, MJ Schuster, SP Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 2012
+
+"Effects of GPU and CPU Loads on Performance of CUDA Applications"
+M Bobrov, R Melton, S Radziszowski, M Łukowiak - International Conference on Parallel and Distributed Processing Techniques and Applications, PDPTA, 2011
+
+"More Constructive Lower Bounds on Classical Ramsey Numbers"
+X Xu, Z Shao, SP Radziszowski - SIAM Journal on Discrete Mathematics, 2011
+
+"Some Ramsey Problems Involving Triangles - Computational Approach"
+S Radziszowski - Ramsey Theory: Yesterday, Today and Tomorrow, Progress in Mathematics, 2011
+
+"New Bounds on Some Ramsey Numbers"
+K Black, D Leven, S Radziszowski - Journal of Combinatorial Mathematicsand Combinatorial Computing, 2011
+
+"Ramsey Numbers Involving Cycles"
+SP Radziszowski - Ramsey Theory: Yesterday, Today and Tomorrow, Progress in Mathematics, 2011
+
+"Computing the Folkman Number F_v(2,2,2,2,2;4)"
+J Lathrop, S Radziszowski - Journal of Combinatorial Mathematicsand Combinatorial Computing, 2011
+
+"Multi-Vertex Deletion Graph Reconstruction Numbers"
+D Rivshin, SP Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 2011
+
+"Trustworthy data collection from implantable medical devices via high-speed security implementation based on IEEE 1363"
+F Hu, Q Hao, M Lukowiak, Q Sun, K Wilhelm, S Radziszowski, Y Wu - Information Technology in Biomedicine, IEEE Transactions on, 2010
+
+"An overview of cryptanalysis research for the advanced encryption standard"
+A Kaminsky, M Kurdziel, S Radziszowski - 2010-MILCOM 2010 MILITARY COMMUNICATIONS CONFERENCE, 1310-1316, 2010
+
+"NTRU-Based Confidential Data Transmission in Telemedicine Sensor Networks"
+R Beyah, J McNair, C Corbett, F Hu, X Cao, K Wilhelm, M Łukowiak, S Radziszowski - Security in Ad Hoc Networks, 2010
+
+"Case study on FPGA performance of parallel hash functions"
+P Zalewski, M Lukowiak, S Radziszowski - Przeglad Elektrotechniczny/Electrical Review, 2010
+
+"Scalable FPGA design and performance analysis of PHASH hashing function"
+P Zalewski, M Lukowiak, S Radziszowski - 2009 MIXDES-16th International Conference Mixed Design of Integrated Circuits & Systems, 2009
+
+"The vertex and edge graph reconstruction numbers of small graphs"
+D Rivshin, SP Radziszowski - Australasian Journal of Combinatorics, 2009
+
+"28 <= R (C_4,C_4,C_3,C_3) <= 36"
+X Xiaodong, SP Radziszowski - Utilitas Mathematica, 2009
+
+"An Improvement to Mathon’s Cyclotomic Ramsey Colorings"
+X Xu, S Radziszowski - Electronic Journal of Combinatorics, 2009
+
+"Bounds on Some Ramsey Numbers Involving Quadrilateral"
+X Xu, Z Shao, S Radziszowski - Ars Combinatoria, 2009
+
+"NTRU‐based sensor network security: a low‐power hardware implementation perspective"
+F Hu, K Wilhelm, M Schab, M Lukowiak, S Radziszowski, Y Xiao - Security and Communication Networks, 2009
+
+"A Case for a parallelizable hash"
+A Kaminsky, SP Radziszowski - Military Communications Conference, 2008. MILCOM 2008. IEEE, 2008
+
+"Geombinatorics Journal _ Volume 16 Issue 4-April 2007"
+M Moller, PJ Jr, A Schneider, M Tiemeyer, D Karabash, A Soifer, S Radziszowski, X Xiaodong - Geombinatorics, 2007
+
+"Complexity results in graph reconstruction"
+E Hemaspaandra, LA Hemaspaandra, S Radziszowski, R Tripathi - Discrete Applied Mathematics, 2007
+
+"There is no 2-(22, 8, 4) block design"
+R Bilous, C Lam, L Thiel, P Li, S Radziszowski, Jv Rees, W Holzmann, H Kharagani - Journal of Combinatorial Designs, 2007
+
+"Graph Reconstruction Numbers"
+M Brian, S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 2007
+
+"On the most wanted Folkman graph"
+S Radziszowski, X Xiaodong - Geombinatorics, 2007
+
+"Computation of the Ramsey Number R (W5, K5)"
+S Radziszowski, J Stinehour, K Tse - Bulletin of the Institute of Combinatorics and Its Applications, 2006
+
+"Computing the Folkman number F_v (2, 2, 3; 4)"
+J Coles, S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 2006
+
+"A constructive approach for the lower bounds on the Ramsey numbers R(s,t)"
+X Xiaodong, X Zheng, SP Radziszowski - Journal of Graph Theory, 2004
+
+"Constructive lower bounds on classical multicolor Ramsey numbers"
+X Xiaodong, X Zheng, G Exoo, S Radziszowski - the electronic journal of combinatorics, 2004
+
+"RIT Scholar Work s"
+B McKay, K Piwakowski, S Radziszowski - Ars Combinatoria, 2004
+
+"Graphs and Complexity-Complexity Results in Graph Reconstruction"
+E Hemaspaandra, LA Hemaspaandra, S Radziszowski, R Tripathi - Lecture Notes in Computer Science, 2004
+
+"An Upper Bound of 62 on the Classical Ramsey Number (3, 3, 3, 3)"
+S Fettes, R Kramer, S Radziszowski - Ars Combinatoria, 2004
+
+"Ramsey Numbers for Triangles versus Almost-Complete Graphs"
+B McKay, K Piwakowski, S Radziszowski - Ars Combinatoria, 2004
+
+"Computation of the Ramsey number R (B_3, K_5)"
+A Babak, S Radziszowski, K Tse - Bulletin of the Institute of Combinatorics and Its Applications, 2004
+
+"On halving line arrangements"
+A Beygelzimer, S Radziszowski - Discrete Mathematics, 2002
+
+"A Computational Approach for the Ramsey Numbers R (C_4, K_n)"
+S Radziszowski, K Tse - Journal of Combinatorial Mathematics and Combinatorial Computing, 2002
+
+"The Ramsey Multiplicity of K_4"
+K Piwakowski, S Radziszowski - Ars Combinatoria, 2001
+
+"Towards the exact value of the Ramsey number R (3, 3, 4)"
+K Piwakowski, S Radziszowski - Congressus Numerantium, 2001
+
+"Metaheuristics and combinatorial optimization problems. M"
+GS Scriptor - thesis, University of Buffalo, 2000
+
+"Computation of the Folkman number F_e(3,3;5)"
+K Piwakowski, SP Radziszowski, S Urbański - Journal of Graph Theory, 1999
+
+"2-(22, 8, 4) designs have no blocks of type 3"
+B McKay, S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 1999
+
+"30 <= R (3, 3, 4) <= 31"
+K Piwakowski, S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 1998
+
+"Subgraph counting identities and Ramsey numbers"
+BD McKay, SP Radziszowski - Journal of Combinatorial Theory, Series B, 1997
+
+"The Nonexistence of 4-(12, 6, 6) Designs"
+BD McKay, SP Radziszowski - Computational and Constructive Design Theory, Mathematics and Its Applications, 1996
+
+"Towards deciding the existence of 2-(22,8,4) designs"
+B McKay, S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 1996
+
+"R(4,5) = 25"
+BD McKay, SP Radziszowski - Journal of Graph Theory, 1995
+
+"Linear programming in some Ramsey problems"
+BD McKay, SP Radziszowski - Journal of Combinatorial Theory, Series B, 1994
+
+"BRENDAN D. MCKAY"
+SP RadziszowSKI - Journal of Combinatorial Theory: Series B., 1994
+
+"Small Ramsey Numbers"
+S Radziszowski - E-JC, DS1 1994-2021, revision #16, http://www.combinatorics.org, 1994
+
+"On (n, 5, 3)-Turán Systems"
+E Boyer, D Kreher, S Radziszowski, A Sidorenko, J Zou - Ars Combinatoria, 1994
+
+"Paths, cycles and wheels in graphs without antitriangles"
+S Radziszowski, X Jin - Australasian Journal of Combinatorics, 1994
+
+"On the Ramsey Number R (K_5-e, K_5-e)"
+S Radziszowski - Ars Combinatoria, 1993
+
+"The parameters 4-(12, 6, 6) and related t-designs"
+D Kreher, Dd Caen, S Hobart, E Kramer, S Radziszowski - Australasian Journal of Combinatorics, 1993
+
+"Enumeration of All Simple t-(t+ 7, t+ 1, 2) Designs"
+S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 1992
+
+"A new upper bound for the Ramsey number R (5, 5)"
+B McKay, S Radziszowski - Australasian Journal of Combinatorics, 1992
+
+"On the covering of t-sets with (t+1)-sets: C(9,5,4) and C(10,6,5)"
+Dd Caen, DL Kreher, SP Radziszowski, W Mills - Discrete Mathematics, 1991
+
+"The first classical Ramsey number for hypergraphs is computed"
+BD McKay, SP Radziszowski - Proceedings of the second annual ACM-SIAM Symposium on Discrete Algorithms, 1991
+
+"RIT Digital Institutional Repositor y"
+S Radziszowski, D Kreher - Ars Combinatoria, 1991
+
+"Minimum triangle-free graphs"
+S Radziszowski, D Kreher - Ars Combinatoria, 1991
+
+"The Ramsey Numbers R (K_4-e, K_6-e) and R (K_4-e, K_7-e)"
+J McNamara, S Radziszowski - Congressus Numerantium, 1991
+
+"The Number of Edges in Minimum (K_3, K_p-e, n)-good Graphs"
+J Zou, S Radziszowski - Congressus Numerantium, 1990
+
+"The Ramsey numbers R (K_3, K_8-e) and R (K_3, K_9-e)"
+S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 1990
+
+"Constructing 6-(14, 7, 4) designs"
+D Kreher, S Radziszowski - Contemporary Mathematics, 1990
+
+"Search algorithm for Ramsey graphs by union of group orbits"
+SP Radziszowski, DL Kreher - Journal of Graph Theory, 1988
+
+"Upper bounds for some Ramsey numbers R (3, k)"
+S Radziszowski, D Kreher - Journal of Combinatorial Mathematics and Combinatorial Computing, 1988
+
+"Lower bounds for multi-colored Ramsey numbers from group orbits"
+D Kreher, W Li, S Radziszowski - Journal of Combinatorial Mathematics and Combinatorial Computing, 1988
+
+"On (3,k) Ramsey graphs: Theoretical and computational results"
+S Radziszowski, D Kreher - Journal of Combinatorial Mathematics and Combinatorial Computing, 1988
+
+"Solving subset sum problems with the L^3 algorithm"
+S Radziszowski, D Kreher - Journal of Combinatorial Mathematics and Combinatorial Computing, 1988
+
+"New t-designs found by basis reduction"
+D Kreher, S Radziszowski - Congressus Numerantium, 1987
+
+"Simple 5-(28, 6, lambda) Designs from PSL_2 (27)"
+D Kreher, S Radziszowski - Annals of Descrete Mathematics, 1987
+
+"The existence of simple 6-(14,7,4) designs"
+DL Kreher, SP Radziszowski - Journal of Combinatorial Theory, Series A, 1986
+
+"Finding simple t-designs by using basis reduction"
+D Kreher, S Radziszowski - Congressus Numerantium, 1986
+
+"Aritmética en Precisión Múltiple para la Máquina FOONLY-F2"
+S Radziszowski - Comunicaciones Técnicas IIMAS-UNAM México,, 1983
+
+"Desarollo de la teoria de los algoritmos en paralelo y su aplicacion para la evaluacion de la maqina AHR"
+S Radziszowski - Comunicaciones Técnicas IIMAS-UNAM México,, 1983
+
+"Bounded Alternation"
+S Radziszowski - Comunicaciones Técnicas IIMAS-UNAM México,, 1980
+
+"Logic and complexity of synchronous parallel computations"
+S Radziszowski - Institute of Computer Science, Polish Academy of Sciences, 1979
+
+"Programmability and P=NP Conjecture"
+S Radziszowski - Fundamentals of Computation Theory, LNCS, 1977
+
+"JING ZOU* and STANISLAW P. RADZISZOWSKI"
+SP RADZISZOWSKI - Congressus Numerantium, 1970

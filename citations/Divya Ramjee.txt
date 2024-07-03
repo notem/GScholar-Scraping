@@ -1,0 +1,35 @@
+"Evolving Face Mask Guidance During a Pandemic and Potential Harm to Public Perception: Infodemiology Study of Sentiment and Emotion on Twitter"
+D Ramjee, CC Pollack, M Charpignon, S Gupta, JM Rivera, GE Hayek, AG Dunn, AN Desai, MS Majumder - Journal of Medical Internet Research, 2023
+
+"The relationship between sextortion during COVID-19 and pre-pandemic intimate partner violence: A large study of victimization among diverse US men and women"
+AA Eaton, D Ramjee, JF Saunders - Victims & Offenders, 2023
+
+"Is Evolving Face Mask Guidance During a Pandemic Harmful to Public Perception?: An Analysis of Sentiment and Emotion on Twitter: Infodemiology Study."
+D Ramjee, C Pollack, M Charpignon, S Gupta, J Rivera, GE Hayek, A Dunn, A Desai, M Majumder - Journal of Medical Internet Research, 2023
+
+"Evaluating criminal justice reform during COVID-19: The need for a novel sentiment analysis package"
+D Ramjee, LH Smith, A Doanvo, M Charpignon, A McNulty-Nebel, E Lett, AN Desai, MS Majumder - PLOS digital health, 2022
+
+"Is Evolving Face Mask Guidance During a Pandemic Harmful to Public Perception?: An Analysis of Sentiment and Emotion on Twitter"
+D Ramjee, CC Pollack, M Charpignon, S Gupta, JM Rivera, GE Hayek, A Desai, MS Majumder - An Analysis of Sentiment and Emotion on Twitter (April 16, 2022), 2022
+
+"COVID-19 and digital contact tracing: Regulating the future of public health surveillance"
+D Ramjee, P Sanderson, I Malek - Cardozo L. Rev. De-Novo, 2021
+
+"Machine learning maps research needs in COVID-19 literature"
+A Doanvo, X Qian, D Ramjee, H Piontkivska, A Desai, M Majumder - Patterns, 2020
+
+"Evaluating interest in off-label use of disinfectants for COVID-19"
+JM Rivera, S Gupta, D Ramjee, GYE Hayek, NE Amiri, AN Desai, MS Majumder - The Lancet Digital Health, 2020
+
+"Evaluating Interest in Off-Label Use of Disinfectants for COVID-19 with Google Trends"
+JM Rivera, S Gupta, D Ramjee, GE Hayek, NE Amiri, A Desai, MS Majumder - The Lancet Digital Health, 2020
+
+"The challenges of forensic genealogy: Dirty data, electronic evidence, and privacy concerns"
+D Ramjee, K Ringrose - Denv. L. Rev., 2020
+
+"Watch where you walk: law enforcement surveillance and protester privacy"
+K Ringrose, D Ramjee - Calif. L. Rev. Online, 2020
+
+"Using Africa as a Dumping Ground: Implications of Counterfeiting and Intellectual Property Infringement for Africa"
+K Smith, D Ramjee, T Hill - The Brand Protection Professional, 2019

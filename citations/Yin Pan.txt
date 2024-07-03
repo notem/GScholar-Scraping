@@ -1,0 +1,173 @@
+"Analysis of digital technology-based building safety and sustainable development"
+Q Yan, Y Pan - Proceedings of the 2023 5th Asia Pacific Information Technology Conference, 2023
+
+"A Novel Frame Forwarding Algorithm for Switched Networks"
+P Willis, N Shenoy, Y Pan, J Hamilton - 2022 IEEE 47th Conference on Local Computer Networks (LCN), 2022
+
+"Smart design for evacuation signage layout for exhibition halls in exhibition buildings based on visibility"
+Z Wan, T Zhou, Z Tang, Y Pan, L Zhang - ISPRS International Journal of Geo-Information, 2021
+
+"Creating adversarial malware examples through guided metamorphic changes"
+R Mosli, TJ Slota, Y Pan - 2021 IEEE International Symposium on Technologies for Homeland Security (HST), 2021
+
+"Telemedicine assessment for the mental health of rural residents based on the safety degree of housing in seismically active regions"
+Y Pan, R Xie, Q Yan, T Zhou - Frontiers in public health, 2021
+
+"Root Redundancy in Meshed Tree Bridged Networks"
+P Willis, N Shenoy, Y Pan, J Hamilton - 2020 IEEE 45th Conference on Local Computer Networks (LCN), 2020
+
+"Smart safety design for fire stairways in underground space based on the ascending evacuation speed and BMI"
+R Xie, Y Pan, T Zhou, W Ye - Safety science, 2020
+
+"They might not be giants crafting black-box adversarial examples using particle swarm optimization"
+R Mosli, M Wright, B Yuan, Y Pan - Computer Security–ESORICS 2020: 25th European Symposium on Research in Computer Security, ESORICS 2020, Guildford, UK, September 14–18, 2020, Proceedings, Part II 25, 2020
+
+"They might not be giants: Crafting black-box adversarial examples with fewer queries using particle swarm optimization"
+R Mosli, M Wright, B Yuan, Y Pan - arXiv preprint arXiv:1909.07490, 2019
+
+"Research on urban disaster relief road system planning"
+Q Yan, Y Pan - IOP Conference Series: Earth and Environmental Science, 2019
+
+"On the viability of data collection using Google Rapid Response for enterprise-level malware research"
+R Mosli, B Yuan, Y Pan - Digital Investigation, 2018
+
+"Board 162: Assessing the Modular-based Digital Forensics Game for Entry Level Students"
+Y Pan, M Yacci, S Mishra - 2018 ASEE Annual Conference & Exposition, 2018
+
+"Research on Influencing Factors of Safety of Urban Evacuation Road"
+Q Yan, Y Pan - JOURNAL OF ADVANCED OXIDATION TECHNOLOGIES, 2018
+
+"Board# 133: Gamifying Cybersecurity Course Content for Entry Level Students"
+Y Pan, S Mishra, DI Schwartz - 2017 ASEE Annual Conference & Exposition, 2017
+
+"Gamifying course modules for entry level students"
+Y Pan, S Mishra, D Schwartz - Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education, 2017
+
+"A behavior-based approach for malware detection"
+R Mosli, R Li, B Yuan, Y Pan - Advances in Digital Forensics XIII: 13th IFIP WG 11.9 International Conference, Orlando, FL, USA, January 30-February 1, 2017, Revised Selected Papers 13, 2017
+
+"Disaster Prevention Strategies: A Study on Underground Commercial Street"
+Q Yan, Y Pan - Open House International, 2016
+
+"The influence of personality traits and social networks on the self-disclosure behavior of social network site users"
+X Chen, Y Pan, B Guo - Internet research, 2016
+
+"Automated malware detection using artifacts in forensic memory images"
+R Mosli, R Li, B Yuan, Y Pan - 2016 IEEE Symposium on Technologies for Homeland Security (HST), 2016
+
+"Redevelopment of Rural Settlements in Lizhuang Town, Yibin City, China"
+Y Pan, T Zhou - Open House International, 2015
+
+"Are rural residents’ mental health influenced by the new countryside construction? An investigation in Chongqing, China"
+Y Pan, T Zhou, H Zhang, X Du - Rev Cercet Interv Soc, 2015
+
+"Gamified digital forensics course modules for undergraduates"
+Y Pan, D Schwartz, S Mishra - 2015 IEEE Integrated STEM Education Conference, 2015
+
+"A study of escape time from an underground street in a mountainous city"
+Y Pan, T Zhou, Q Yan - International journal of safety and security engineering, 2014
+
+"Understanding Social Network sites continuance Intention from a Self-Disclosure and Social Capital Perspective."
+Y Pan, X Chen, S Cai, Y Dong - PACIS, 2014
+
+"The Research of Dong Xi Ancient Town in Chongqing, China"
+Y Pan, Q Yan, TJ Zhou - Applied Mechanics and Materials, 2013
+
+"Towards a web tracking profiling algorithm"
+W Huba, B Yuan, Y Pan, S Mishra - 2013 IEEE International Conference on Technologies for Homeland Security (HST), 2013
+
+"Advanced Forensics Labs to Meet Computer Forensics Challenges Due to Technological Advancements"
+Y Pan, S Mishra - Journal of The Colloquium for Information Systems Security Education, 2013
+
+"Understanding protogeni in networking courses for research and education"
+K Xiong, Y Pan - 2013 Second GENI Research and Educational Experiment Workshop, 2013
+
+"Game-based forensics course for first year students"
+Y Pan, S Mishra, B Yuan, B Stackpole, D Schwartz - Proceedings of the 13th annual conference on Information technology education, 2012
+
+"Correlating risk findings to quantify risk"
+A Sanders, T Sun, Y Pan, B Yuan - 2012 International Conference on Privacy, Security, Risk and Trust and 2012 International Confernece on Social Computing, 2012
+
+"Forensic acquisition and analysis of vmware virtual hard disks"
+M Hirwani, Y Pan, B Stackpole, D Johnson - The 2012 international conference on security and management, 2012
+
+"E-mail Behavior Profiling based on Attachment Type and Language"
+O Polatcan, S Mishra, Y Pan - 6th Annual Symposium on Information Assurance (ASIA’11), 2011
+
+"A QoS assurance mechanism based on credit record for SOC system"
+X Yin, J Jiang, Z Pan, B Xia - Jisuanji Xuebao(Chinese Journal of Computers), 2011
+
+"Dynamic Threat-resistant Node Identification in Sensor Networks"
+D Pearson, S Mishra, Y Pan - Proceedings of the International Conference on Security and Management (SAM), 2011
+
+"Network Security Auditing"
+Y Pan, B Yuan, S Mishra - Network Security, Administration and Management: Advancing Technology and Practice, 2011
+
+"A social approach to security: Using social networks to help detect malicious web content"
+M Robertson, Y Pan, B Yuan - 2010 IEEE International Conference on Intelligent Systems and Knowledge Engineering, 2010
+
+"Computer forensics technologies for personally identifiable information detection and audits"
+Y Pan, B Stackpole, L Troell - ISACA Journal, 2010
+
+"Teaching high-assurance internet protocol encryption (haipe) using opnet modeler simulation tool"
+TH Oh, S Mishra, Y Pan - Proceedings of the 10th ACM conference on SIG-information technology education, 2009
+
+"Services for deploying web-based online courses"
+Y Pan - 2009 IEEE/INFORMS International Conference on Service Operations, Logistics and Informatics, 2009
+
+"Decentralized virtualization in systems administration education"
+B Stackpole, J Koppe, T Haskell, L Guay, Y Pan - Proceedings of the 9th ACM SIGITE conference on Information technology education, 2008
+
+"A hybrid Multi Meshed Tree routing protocol for wireless ad hoc networks"
+S Pudlewski, N Shenoy, Y Al-Mousa, Y Pan, J Fischer - 2008 5th IEEE International Conference on Mobile Ad Hoc and Sensor Systems, 2008
+
+"Security auditing course development"
+Y Pan - Proceedings of the 8th ACM SIGITE conference on Information technology education, 2007
+
+"Route robustness of a multi-meshed tree routing scheme for Internet MANETs"
+N Shenoy, Y Pan, D Narayan, D Ross, C Lutzer - GLOBECOM'05. IEEE Global Telecommunications Conference, 2005., 2005
+
+"Bandwidth Reservation and QoS in Internet MANETs"
+N Shenoy, Y Pan, VG Reddy - Proceedings. 14th International Conference on Computer Communications and Networks, 2005. ICCCN 2005., 2005
+
+"Quality of service in Internet MANETs"
+N Shenoy, Y Pan, VG Reddy - 2005 IEEE 16th International Symposium on Personal, Indoor and Mobile Radio Communications, 2005
+
+"Multi-meshed tree routing for Internet MANETs"
+N Shenoy, Y Pan - 2005 2nd International Symposium on Wireless Communication Systems, 2005
+
+"Forensic course development: one year later"
+L Troell, Y Pan, B Stackpole - Proceedings of the 5th Conference on information Technology Education, 2004
+
+"Forensic course development"
+L Troell, Y Pan, B Stackpole - Proceedings of the 4th Conference on information Technology Curriculum, 2003
+
+"Revised hierarchical analysis method based on crisp and fuzzy entries"
+Y Pan - International Journal Of General System, 1997
+
+"Bayesian inference of fuzzy probabilities"
+Y Pan, B Yuan - International Journal of General System, 1997
+
+"Bayesian inference based on interval probabilities"
+Y Pan, GJ Klir - Journal of Intelligent and Fuzzy Systems, 1997
+
+"Calculus of fuzzy probabilities and its applications"
+Y Pan - State University of New York at Binghamton, 1997
+
+"Bayesian inference based on interval-valued prior distributions and likelihoods"
+Y Pan, GJ Klir - Journal of Intelligent & Fuzzy Systems, 1997
+
+"Bayesian inference based on fuzzy probabilities"
+Y Pan, GJ Klir, B Yuan - Proceedings of IEEE 5th International Fuzzy Systems, 1996
+
+"On the computation of uncertainty measure in Dempster-Shafer theory"
+D Harmanec, G Resconi, GJ Klir, Y Pan - International Journal Of General System, 1996
+
+"MP and invariant MP approximations of fuzzy inference rules"
+W Wu, B Yuan, Y Pan - International Journal of General systems, 1995
+
+"On normal form based interval-valued fuzzy sets and their applications to approximate reasoning"
+B Yuan, Y Pan, W Wu - International Journal of General Systems, 1995
+
+"Generalized fuzzy method-of-cases"
+B Yuan, Y Pan - International Journal of Approximate Reasoning, 1993

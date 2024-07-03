@@ -1,0 +1,410 @@
+"Finding Optimal Solutions with Neighborly Help"
+F Frei, E Burjons, E Hemaspaandra, D Komm, D Wehner - CISPA, 2024
+
+"Check for updates"
+Z Fitzsimmons¹, E Hemaspaandra - Fundamentals of Computation Theory: 24th International Symposium, FCT 2023, Trier, Germany, September 18–21, 2023, Proceedings, 2023
+
+"The Complexity of -Arrowing"
+ZR Hassan, E Hemaspaandra, S Radziszowski - International Symposium on Fundamentals of Computation Theory, 2023
+
+"Complexity of conformant election manipulation"
+Z Fitzsimmons, E Hemaspaandra - International Symposium on Fundamentals of Computation Theory, 2023
+
+"The Complexity of -Arrowing"
+ZR Hassan, E Hemaspaandra, S Radziszowski - arXiv preprint arXiv:2307.10510, 2023
+
+"Using weighted matching to solve 2-approval/veto control and bribery"
+Z Fitzsimmons, E Hemaspaandra - arXiv preprint arXiv:2305.16889, 2023
+
+"Formal Methods for NFA Equivalence: QBFs, Witness Extraction, and Encoding Verification"
+E Hemaspaandra, DE Narváez - International Conference on Intelligent Computer Mathematics, 2022
+
+"The complexity of online bribery in sequential elections"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Journal of Computer and System Sciences, 2022
+
+"Insight into voting problem complexity using randomized classes"
+Z Fitzsimmons, E Hemaspaandra - arXiv preprint arXiv:2204.12856, 2022
+
+"Feedback Tools and Motivation to Persist in Intro CS Theory"
+I Bezáková, K Fluet, E Hemaspaandra, H Miller, DE Narváez - Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2, 2022
+
+"Effective Succinct Feedback for Intro CS Theory: A JFLAP Extension"
+I Bezáková, K Fluet, E Hemaspaandra, H Miller, DE Narváez - Proceedings of the 53rd ACM Technical Symposium on Computer Science Education-Volume 1, 2022
+
+"Complexity of stability"
+F Frei, E Hemaspaandra, J Rothe - Journal of Computer and System Sciences, 2022
+
+"Kemeny consensus complexity"
+Z Fitzsimmons, E Hemaspaandra - arXiv preprint arXiv:2105.08540, 2021
+
+"Witness feedback for introductory CS theory assignments"
+I Bezáková, K Fluet, E Hemaspaandra, H Miller, DE Narváez - Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 2021
+
+"Effective feedback for introductory cs theory: A jflap extension and student persistence"
+I Bezáková, K Fluet, E Hemaspaandra, H Miller, DE Narváez - arXiv preprint arXiv:2012.01546, 2020
+
+"The Robustness of LWPP and WPP, with an Application to Graph Reconstruction"
+E Hemaspaandra, LA Hemaspaandra, H Spakowski, O Watanabe - computational complexity, 2020
+
+"Control in the presence of manipulators: cooperative and competitive cases"
+Z Fitzsimmons, E Hemaspaandra, LA Hemaspaandra - Autonomous Agents and Multi-Agent Systems, 2020
+
+"Prototype of an automated feedback tool for intro CS theory"
+I Bezáková, E Hemaspaandra, A Lieberman, H Miller, DE Narváez - Proceedings of the 51st ACM Technical symposium on computer science education, 2020
+
+"Search versus decision for election manipulation problems"
+E Hemaspaandra, LA Hemaspaandra, C Menton - ACM Transactions on Computation Theory (TOCT), 2020
+
+"31st International Symposium on Algorithms and Computation (ISAAC 2020)"
+S Oum, K Yi, L Dublois, T Hanaka, MK Ghadikolaei, M Lampis, N Melissinos, A Agrawal, P Gawrychowski, Q Feng, Z Zhang, Z Huang, J Xu, J Wang, Y Sakai, S Inenaga, D Chakraborty, S Das, F Foucaud, H Gahlawat, D Lajou, B Roy, G Brückner, I Rutter, J Gudmundsson, Y Sha, S Wong, H Pang, MR Salavatipour, D Hyatt-Denesik, M Rahgoshay, L Alcock, S Asif, J Bosboom, J Brunner, C Chen, ED Demaine, R Epstein, A Hesterberg, L Hirschfeld, W Hu, J Lynch, S Scheffler, L Zhang, Mv Kreveld, T Miltzow, T Ophelders, W Sonke, JL Vermeulen, TT Nguyen, J Rothe, T Asano, H Umeda, W Mulzer, M Willert, D Hendrickson, J Wellman, M Koutecký, J Zink, F Frei, E Hemaspaandra, T Koana, C Komusiewicz, F Sommer, K Kim, Y Shin, H An, W Kern, D Paulusma, B Dudek, S Dey, SC Nandy, A Sen, M He, JI Munro, Y Nekrich, S Wild, K Wu, FV Fomin, PA Golovach, L Jaffke, G Philip, D Sagunov, M Dulęba, W Janczewski, S Funke, F Weitbrecht, K Sumigawa, S Chakraborty, K Sadakane, SR Satti, A Casteigts, A Himmel, H Molter, P Zschoche, P Bradshaw, T Masařk - Schloss Dagstuhl-Leibniz-Zentrum für Informatik GmbH, 2020
+
+"Election score can be harder than winner"
+Z Fitzsimmons, E Hemaspaandra - ECAI 2020, 2020
+
+"Very hard electoral control problems"
+Z Fitzsimmons, E Hemaspaandra, A Hoover, DE Narváez - Proceedings of the AAAI Conference on Artificial Intelligence, 2019
+
+"High-multiplicity election problems"
+Z Fitzsimmons, E Hemaspaandra - Autonomous Agents and Multi-Agent Systems, 2019
+
+"Finding optimal solutions with neighborly help"
+E Burjons, F Frei, E Hemaspaandra, D Komm, D Wehner - arXiv preprint arXiv:1906.10078, 2019
+
+"Credimus"
+E Hemaspaandra, LA Hemaspaandra - The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers, 2019
+
+"Department of Computer Science Rochester Institute of Technology Rochester, NY 14623, USA www. cs. rit. edu/∼ eh"
+E Hemaspaandra - arXiv preprint arXiv:1711.00201, 2017
+
+"The complexity of online voter control in sequential elections"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Autonomous Agents and Multi-Agent Systems, 2017
+
+"The complexity of controlling candidate-sequential elections"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Theoretical Computer Science, 2017
+
+"The complexity of succinct elections"
+Z Fitzsimmons, E Hemaspaandra - Proceedings of the AAAI Conference on Artificial Intelligence, 2017
+
+"Dichotomy for pure scoring rules under manipulative electoral actions"
+E Hemaspaandra, H Schnoor - Proceedings of the Twenty-second European Conference on Artificial Intelligence, 2016
+
+"Modeling Single-Peakedness for Votes with Ties"
+ZFE HEMASPAANDRA - STAIRS 2016: Proceedings of the Eighth European Starting AI Researcher Symposium, 2016
+
+"Manipulation complexity of same-system runoff elections"
+Z Fitzsimmons, E Hemaspaandra, LA Hemaspaandra - Annals of Mathematics and Artificial Intelligence, 2016
+
+"Modeling single-peakedness for votes with ties"
+Z Fitzsimmons, E Hemaspaandra - arXiv preprint arXiv:1604.08191, 2016
+
+"Complexity dichotomies for unweighted scoring rules"
+E Hemaspaandra, H Schnoor - arXiv preprint arXiv:1604.05264, 2016
+
+"Dodgson's Rule and Young's Rule."
+I Caragiannis, E Hemaspaandra, LA Hemaspaandra - Handbook of computational social choice, 2016
+
+"The complexity of manipulative actions in single-peaked societies"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Economics and computation: An introduction to algorithmic game theory, computational social choice, and fair division, 2016
+
+"Bypassing combinatorial protections: Polynomial-time algorithms for single-peaked electorates"
+F Brandt, M Brill, E Hemaspaandra, LA Hemaspaandra - Journal of Artificial Intelligence Research, 2015
+
+"Weighted electoral control"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - Journal of Artificial Intelligence Research, 2015
+
+"Complexity of manipulative actions when voting with ties"
+Z Fitzsimmons, E Hemaspaandra - Algorithmic Decision Theory: 4th International Conference, ADT 2015, Lexington, KY, USA, September 27–30, 2015, Proceedings 4, 2015
+
+"More natural models of electoral control by partition"
+G Erdélyi, E Hemaspaandra, LA Hemaspaandra - Algorithmic Decision Theory: 4th International Conference, ADT 2015, Lexington, KY, USA, September 27–30, 2015, Proceedings 4, 2015
+
+"A control dichotomy for pure scoring rules"
+E Hemaspaandra, L Hemaspaandra, H Schnoor - Proceedings of the AAAI Conference on Artificial Intelligence, 2014
+
+"Single-peaked consistency for weak orders is easy"
+Z Fitzsimmons - arXiv preprint arXiv:1406.4829, 2014
+
+"The complexity of online manipulation of sequential elections"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Journal of Computer and System Sciences, 2014
+
+"Bribery and voter control under voting-rule uncertainty"
+G Erdelyi, E Hemaspaandra, LA Hemaspaandra - Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems, 2014
+
+"Control in the presence of manipulators: Cooperative and competitive cases"
+Z Fitzsimmons, E Hemaspaandra, LA Hemaspaandra - arXiv preprint arXiv:1308.0544, 2013
+
+"X THEN X: Manipulation of same-system runoff elections"
+Z Fitzsimmons, E Hemaspaandra, LA Hemaspaandra - arXiv preprint arXiv:1301.6118, 2013
+
+"Weighted Manipulation for Four-Candidate Llull Is Easy."
+P Faliszewski, E Hemaspaandra, H Schnoor - ECAI, 2012
+
+"Online Voter Control in Sequential Elections."
+E Hemaspaandra, LA Hemaspaandra, J Rothe - ECAI, 2012
+
+"Search versus decision for election manipulation problems"
+E Hemaspaandra, LA Hemaspaandra, C Menton - arXiv preprint arXiv:1202.6641, 2012
+
+"A universally defined undecidable unimodal logic"
+E Hemaspaandra, H Schnoor - International Symposium on Mathematical Foundations of Computer Science, 2011
+
+"The complexity of manipulative attacks in nearly single-peaked electorates"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - Proceedings of the 13th conference on theoretical aspects of rationality and knowledge, 2011
+
+"A simplest undecidable modal logic"
+E Hemaspaandra, H Schnoor - arXiv preprint arXiv:1105.0845, 2011
+
+"Minimization for generalized boolean formulas"
+E Hemaspaandra, H Schnoor - arXiv preprint arXiv:1104.2312, 2011
+
+"Multimode control attacks on elections"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - Journal of Artificial Intelligence Research, 2011
+
+"The magazine archive includes every article published in Communications of the ACM for over the past 50 years."
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - Communications of the ACM, 2010
+
+"Generalized modal satisfiability"
+E Hemaspaandra, H Schnoor, I Schnoor - Journal of Computer and System Sciences, 2010
+
+"Using complexity to protect elections"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - Communications of the ACM, 2010
+
+"Bypassing combinatorial protections: Polynomial-time algorithms for single-peaked electorates"
+F Brandt, M Brill, E Hemaspaandra, L Hemaspaandra - Proceedings of the AAAI Conference on Artificial Intelligence, 2010
+
+"Manipulation of copeland elections."
+P Faliszewski, E Hemaspaandra, H Schnoor - AAMAS, 2010
+
+"Computational aspects of approval voting"
+D Baumeister, G Erdélyi, E Hemaspaandra, LA Hemaspaandra, J Rothe - Handbook on approval voting, 2010
+
+"On the complexity of kings"
+E Hemaspaandra, LA Hemaspaandra, T Tantau, O Watanabe - Theoretical computer science, 2010
+
+"Review Articles Computational complexity may truly be the shield against election manipulation."
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - Communications of the ACM, 2010
+
+"Hybrid Elections Broaden Complexity‐Theoretic Resistance to Control"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Mathematical Logic Quarterly, 2009
+
+"How hard is bribery in elections?"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - Journal of artificial intelligence research, 2009
+
+"The shield that never was: Societies with single-peaked preferences are more open to manipulation and control"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra, J Rothe - Proceedings of the 12th Conference on Theoretical Aspects of Rationality and Knowledge, 2009
+
+"Llull and Copeland voting computationally resist bribery and constructive control"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra, J Rothe - Journal of Artificial Intelligence Research, 2009
+
+"A richer understanding of the complexity of election systems"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra, J Rothe - Fundamental problems in computing: Essays in honor of Professor Daniel J. Rosenkrantz, 2009
+
+"Isomorphic Implication"
+M Bauland, E Hemaspaandra - Theory of Computing Systems, 2009
+
+"Llull and Copeland voting computationally resist bribery and control"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra, J Rothe - arXiv preprint arXiv:0809.4484, 2008
+
+"Approximability of Manipulating Elections."
+E Brelsford, P Faliszewski, E Hemaspaandra, H Schnoor, I Schnoor - AAAI, 2008
+
+"Copeland voting: Ties matter"
+P Faliszewski, E Hemaspaandra, H Schnoor - Proceedings of the 7th international joint conference on Autonomous agents and multiagent systems-Volume 2, 2008
+
+"On the complexity of elementary modal logics"
+E Hemaspaandra, H Schnoor - arXiv preprint arXiv:0802.1884, 2008
+
+"Copeland voting fully resists constructive control"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra, J Rothe - Algorithmic Aspects in Information and Management: 4th International Conference, AAIM 2008, Shanghai, China, June 23-25, 2008. Proceedings 4, 2008
+
+"On the complexity of kings"
+E Hemaspaandra, LA Hemaspaandra, T Tantau, O Watanabe - International Symposium on Fundamentals of Computation Theory, 2007
+
+"Llull and Copeland voting broadly resist bribery and control"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra, J Rothe - AAAI, 2007
+
+"Anyone but him: The complexity of precluding an alternative"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Artificial Intelligence, 2007
+
+"Dichotomy for voting systems"
+E Hemaspaandra, LA Hemaspaandra - Journal of Computer and System Sciences, 2007
+
+"Complexity results in graph reconstruction"
+E Hemaspaandra, LA Hemaspaandra, SP Radziszowski, R Tripathi - Discrete Applied Mathematics, 2007
+
+"The complexity of bribery in elections"
+P Faliszewski, E Hemaspaandra, LA Hemaspaandra - AAAI, 2006
+
+"Recognizing when heuristics can approximate minimum vertex covers is complete for parallel access to NP"
+E Hemaspaandra, J Rothe, H Spakowski - RAIRO-Theoretical Informatics and Applications, 2006
+
+"Generalized modal satisfiability"
+M Bauland, E Hemaspaandra, H Schnoor, I Schnoor - STACS 2006: 23rd Annual Symposium on Theoretical Aspects of Computer Science, Marseille, France, February 23-25, 2006. Proceedings 23, 2006
+
+"The complexity of Kemeny elections"
+E Hemaspaandra, H Spakowski, J Vogel - Theoretical Computer Science, 2005
+
+"All superlinear inverse schemes are coNP-hard"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - Theoretical computer science, 2005
+
+"Isomorphic implication"
+M Bauland, E Hemaspaandra - International Symposium on Mathematical Foundations of Computer Science, 2005
+
+"Extending downward collapse from 1-versus-2 queries to m-versus-m+ 1 queries"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - SIAM Journal on Computing, 2005
+
+"Complexity results in graph reconstruction"
+E Hemaspaandra, LA Hemaspaandra, S Radziszowski, R Tripathi - International Symposium on Mathematical Foundations of Computer Science, 2004
+
+"Dichotomy theorems for alternation-bounded quantified boolean formulas"
+E Hemaspaandra - arXiv preprint cs/0406006, 2004
+
+"Complexity of cycle length modularity problems in graphs"
+E Hemaspaandra, H Spakowski, M Thakur - Latin American Symposium on Theoretical Informatics, 2004
+
+"The complexity of Boolean constraint isomorphism"
+E Böhler, E Hemaspaandra, S Reith, H Vollmer - Annual Symposium on Theoretical Aspects of Computer Science, 2004
+
+"Graphs and Complexity-Complexity Results in Graph Reconstruction"
+E Hemaspaandra, LA Hemaspaandra, S Radziszowski, R Tripathi - Lecture Notes in Computer Science, 2004
+
+"Equivalence and isomorphism for Boolean constraint satisfaction"
+E Böhler, E Hemaspaandra, S Reith, H Vollmer - International Workshop on Computer Science Logic, 2002
+
+"Almost-everywhere superiority for quantum polynomial time"
+E Hemaspaandra, LA Hemaspaandra, M Zimand - Information and Computation, 2002
+
+"Recognizing when heuristics can approximate minimum vertex covers is complete for parallel access to NP"
+E Hemaspaandra, J Rothe, H Spakowski2 - Graph-Theoretic Concepts in Computer Science: 28th International Workshop, WG 2002 Český Krumlov, Czech Republic, June 13–15, 2002 Revised Papers 28, 2002
+
+"Bruce, Kim B."
+C Chambers, G Ghelli, M Göbel, E Hemaspaandra, LA Hemaspaandra, H Hüttel, A Igarashi, J Kleist, H Kredel, T Millstein, U Nestmann, BC Pierce, C Priami, S Vorobyov, V V’yugin, M Zimand - Information and Computation, 2002
+
+"The minimization problem for boolean formulas"
+E Hemaspaandra, G Wechsung - SIAM Journal on Computing, 2002
+
+"The complexity of poor man's logic"
+E Hemaspaandra - Journal of Logic and Computation, 2001
+
+"Using the no-search easy-hard technique for downward collapse"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - arXiv preprint cs/0106037, 2001
+
+"Equivalence problems for Boolean constraint satisfaction"
+E Böhler, E Hemaspaandra, S Reith, H Vollmer - Preprint, Reihe Institut fur Informatik Universitat Wurzburg, 2001
+
+"Modal satisfiability is in deterministic linear space"
+E Hemaspaandra - International Workshop on Computer Science Logic, 2000
+
+"The complexity of poor man’s logic"
+E Hemaspaandra - Annual Symposium on Theoretical Aspects of Computer Science, 2000
+
+"Computational politics: Electoral systems"
+E Hemaspaandra, LA Hemaspaandra - Mathematical Foundations of Computer Science 2000: 25th International Symposium, MFCS 2000 Bratislava, Slovakia, August 28–September 1, 2000 Proceedings 25, 2000
+
+"Almost-everywhere superiority for quantum computing"
+E Hemaspaandra, LA Hemaspaandra, M Zimand - arXiv preprint quant-ph/9910033, 1999
+
+"An introduction to query order"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - arXiv preprint cs/9910004, 1999
+
+"Translating equality downwards"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - arXiv preprint cs/9910008, 1999
+
+"Query order and the polynomial hierarchy"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - arXiv preprint cs/9910005, 1999
+
+"Raising NP Lower Bounds to Parallel NP Lower Bounds"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - arXiv preprint cs/9907039, 1999
+
+"On the power of positive Turing reductions"
+E Hemaspaandra - arXiv preprint cs/9906028, 1999
+
+"Extending Downward Collapse from 1-versus-2 Queries to j-versus-j + 1 Queries"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - Annual Symposium on Theoretical Aspects of Computer Science, 1999
+
+"What's up with downward collapse: Using the easy-hard technique to link boolean and polynomial hierarchy collapses"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - ACM SIGACT News 29 (3), 10-22, 1998
+
+"Recognizing when greed can approximate maximum independent sets is complete for parallel access to NP"
+E Hemaspaandra, J Rothe - Information Processing Letters, 1998
+
+"Downward collapse from a weaker hypothesis"
+E Hemaspaandra, L Hemaspaandra, H Hempel - Proceedings of the 6th Italian Conference on Theoretical Computer Science, 1998
+
+"A downward collapse within the polynomial hierarchy"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - SIAM Journal on Computing, 1998
+
+"Exact analysis of Dodgson elections: Lewis Carroll's 1876 voting system is complete for parallel access to NP"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - Journal of the ACM (JACM), 1997
+
+"The minimization problem for Boolean formulas"
+E Hemaspaandra, G Wechsung - Proceedings 38th Annual Symposium on Foundations of Computer Science, 1997
+
+"Query order in the polynomial hierarchy"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - International Symposium on Fundamentals of Computation Theory, 1997
+
+"Raising NP lower bounds to parallel NP lower bounds"
+E Hemaspaandra, LA Hemaspaandra, J Rothe - ACM SIGACT News 28 (2), 2-13, 1997
+
+"A downward translation in the polynomial hierarchy"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - Annual Symposium on Theoretical Aspects of Computer Science, 1997
+
+"NY 14627, USA."
+E Hemaspaandra, LA Hemaspaandra, H Hempel - Fundamentals of Computation Theory: Proceedings, 1997
+
+"Hierarchy"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - STACS 97: 14th Annual Symposium on Theoretical Aspects of Computer Science, Lübeck, Germany, February 27-March 1, 1997: Proceedings, 1997
+
+"R               1−tt   SN              (NP) distinguishes robust many-one and Turing completeness"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - Algorithms and Complexity: Third Italian Conference, CIAC'97 Rome, Italy, March 12–14, 1997 Proceedings 3, 1997
+
+"P-selective sets and reducing search to decision vs self-reducibility"
+E Hemaspaandra, AV Naik, M Ogihara, AL Selman - Journal of Computer and System Sciences, 1996
+
+"The price of universality"
+E Hemaspaandra - Notre Dame Journal of Formal Logic, 1996
+
+"An upward separation in the polynomial hierarchy"
+E Hemaspaandra, LA Hemaspaandra, H Hempel - Friedrich-Schiller-Univ., 1996
+
+"Census techniques collapse space classes"
+E Hemaspaandra - Information processing letters, 1994
+
+"Complexity transfer for modal logic"
+E Hemaspaandra - Proceedings Ninth Annual IEEE Symposium on Logic in Computer Science, 1994
+
+"Quasi-injective reductions"
+E Hemaspaandra, LA Hemaspaandra - Theoretical computer science, 1994
+
+"The relative power of logspace and polynomial time reductions"
+H Buhrman, E Spaan, L Torenvliet - Computational Complexity, 1993
+
+"A modal perspective on the computational complexity of attribute value grammar"
+P Blackburn, E Spaan - Journal of Logic, Language and Information, 1993
+
+"SPARSE reduces conjunctively to TALLY"
+H Buhrman, L Longpre, E Spaan - [1993] Proceedings of the Eigth Annual Structure in Complexity Theory Conference, 1993
+
+"Decidability and undecidability in stand-alone feature logics"
+P Blackburn, E Spaan - Sixth Conference of the European Chapter of the Association for Computational Linguistics, 1993
+
+"The complexity of propositional tense logics"
+E Spaan - SYNTHESE LIBRARY, 1993
+
+"On the Complexity of Attribute Value Logics"
+P Blackburn, E Spaan - Proceedings of the Eighth Amsterdam Colloquium, 1991
+
+"Census Techniques on Relativized Space Classes"
+E Spaan - Institute for Language, Logic and Information, University of Amsterdam, 1991
+
+"Query optimization using rewrite rules"
+Sv Denneheuvel, K Kwast, GRRd Lavalette, E Spaan - Rewriting Techniques and Applications: 4th International Conference, RTA-91 Como, Italy, April 10–12, 1991 Proceedings 4, 1991
+
+"Bounded reductions"
+H Buhrman, E Spaan, L Torenvliet - STACS 91: 8th Annual Symposium on Theoretical Aspects of Computer Science Hamburg, Germany, February 14–16, 1991 Proceedings 8, 1991
+
+"Nexttime is not necessary"
+E Spaan - Proceedings of the 3rd Conference on Theoretical Aspects of Reasoning about Knowledge, 1990
+
+"On adaptive resource bounded computations"
+H Buhrman, E Spaan, L Torenvliet - Universiteit van Amsterdam. Instituut voor Taal, Logica en Informatie [ITLI], 1989

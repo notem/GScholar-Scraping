@@ -1,0 +1,128 @@
+"A Common Pentest Output Schema for Business Intelligence System Ingestion"
+S Sharma, JM Pelletier, B Stackpole - 2023 46th MIPRO ICT and Electronics Convention (MIPRO), 2023
+
+"Visualization for spectators in cybersecurity competitions"
+C Peng, D Schwartz, D Johnson, B Stackpole, C Weeden, J Marcovecchio, D Richards, C Fogle, C Brown, V Walrond - 2020 IEEE Symposium on Visualization for Cyber Security (VizSec), 2020
+
+"DRONESCAPE: Distributed Rapid On-site NEtwork Self-deploying Cellular Advanced Phone Environment"
+D Johnson, B Stackpole - 2019 International Conference on Computational Science and Computational Intelligence (CSCI), 2019
+
+"Android malware analysis and conceptual malware mitigation approaches"
+T Oh, HS Moon, YH Kim, JN Kim, B Stackpole - 2016 International Conference on Information and Communication Technology Convergence (ICTC), 2016
+
+"Android malware detection using category-based machine learning classifiers"
+HA Alatwi, T Oh, E Fokoue, B Stackpole - Proceedings of the 17th Annual Conference on Information Technology Education, 2016
+
+"Producing and evaluating crowdsourced computer security attack trees"
+D Bogaard, S Goel, S Kandari, D Johnson, G Markowsky, B Stackpole - 2016 IEEE Symposium on Technologies for Homeland Security (HST), 2016
+
+"Exploring a high-capacity covert channel on the Android operating system"
+T Heard, D Johnson, B Stackpole - 2015 IEEE 8th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS), 2015
+
+"Crowdsourcing computer security attack trees"
+M Tentilucci, N Roberts, S Kandari, D Johnson, D Bogaard, B Stackpole, G Markowsky - 10th Annual Symposium on Information Assurance, 2015
+
+"A new covert channel over cellular voice channel in smartphones"
+B Aloraini, D Johnson, B Stackpole, S Mishra - arXiv preprint arXiv:1504.05647, 2015
+
+"The security implications of imsi catchers"
+B Harmat, J Stroud, D Johnson, B Stackpole, S Perez-Hardy, R Mislan, T Oh - Proceedings of the International Conference on Security and Management (SAM), 2015
+
+"Covert channel using icmpv6 and ipv6 addressing"
+G Ackerman, D Johnson, B Stackpole - Proceedings of the International Conference on Security and Management (SAM), 2015
+
+"Analysis of mobile malware based on user awareness"
+Y Kim, B Stackpole, T Oh - Proceedings of the 3rd annual conference on Research in information …, 2014
+
+"Meshed tree protocol for faster convergence in switched networks"
+K Sharma, B Hartpence, B Stackpole, D Johnson, N Shenoy - ICNS 2014, 2014
+
+"Performance of Meshed Tree Protocols for Loop Avoidance in Switched Networks"
+K Sharma, B Stackpole, D Johnson, N Shenoy, B Hartpence - International Journal on Advances in Networks and Services Volume 7, Number 3 & 4, 2014, 2014
+
+"Malware Analysis for Android Operating System"
+K Sharma, T Dand, T Oh, B Stackpole - 8th Annual Symposium on Information Assurance (ASIA’13), 2013
+
+"Teaching Android Malware Behaviors for Android Platform Using Interactive Labs"
+C Szost, K Sharma, T Oh, W Stackpole, RP Mislan - 8th Annual Symposium on Information Assurance (ASIA’13), 2013
+
+"Android malware analysis platform"
+B Andrews, T Oh, W Stackpole - Proc. of 8th Annual Symposium on Information Assurance (ASIA’13), 2013
+
+"Natural Selection in Virtualization Environments: A Decade of Lessons from Academia"
+B Hartpence, B Mason, S Johnson, Daryl - EISTA, 2013
+
+"The 2013 NECCDC-Lessons Learned"
+G Markowsky, D Johnson, A Moody, R Soucy, W Stackpole - EISTA, 2013
+
+"Designing, Constructing and Implementing a Low-Cost Virtualization Cluster for Education"
+D Johnson, B Stackpole, S Mason, B Hartpence - EISTA, 2013
+
+"Game-based forensics course for first year students"
+Y Pan, S Mishra, B Yuan, B Stackpole, D Schwartz - Proceedings of the 13th annual conference on Information technology education, 2012
+
+"Forensic acquisition and analysis of vmware virtual hard disks"
+M Hirwani, Y Pan, B Stackpole, D Johnson - The 2012 international conference on security and management, 2012
+
+"Best security practices for android, blackberry, and iOS"
+T Oh, B Stackpole, E Cummins, C Gonzalez, R Ramachandran, S Lim - 2012 The First IEEE Workshop on Enabling Technologies for Smartphone and Internet of Things (ETSIoT), 2012
+
+"Android anti-virus analysis"
+R Ramachandran, T Oh, W Stackpole - Annual symposium on information assurance & secure knowledge management, 2012
+
+"Developing small team-based cyber security exercises"
+B Mauer, W Stackpole, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2012
+
+"Anti-spyware analysis for iOS: An evaluation of current security products available for iOs"
+C Gonzales, B Stackpole, T Oh - Annual Symposium on Information Assurance and Secure Knowledge Management, viewed, 2012
+
+"Third party application forensics on apple mobile devices"
+A Levinson, B Stackpole, D Johnson - 2011 44th Hawaii International Conference on System Sciences, 2011
+
+"Third party application forensics on apple mobile devices"
+D Johnson, A Levinson, B Stackpole - IEEE, 2011
+
+"Security strategy: From requirements to reality"
+B Stackpole, E Oksendahl - CRC Press, 2010
+
+"Computer forensics technologies for personally identifiable information detection and audits"
+Y Pan, B Stackpole, L Troell - ISACA Journal, 2010
+
+"Decentralized virtualization in systems administration education"
+B Stackpole, J Koppe, T Haskell, L Guay, Y Pan - Proceedings of the 9th ACM SIGITE conference on Information technology education, 2008
+
+"The evolution of a virtualized laboratory environment"
+B Stackpole - Proceedings of the 9th ACM SIGITE conference on Information technology education, 2008
+
+"Software deployment, updating, and patching"
+B Stackpole, P Hanrion - CRC Press, 2007
+
+"Managing Unmanaged Systems."
+M Nguyen, B Stackpole - Information Security Management Handbook, 6th ed., 2007
+
+"Does a virtual networking laboratory result in similar student achievement and satisfaction?"
+EA Lawson, W Stackpole - Proceedings of the 7th conference on Information technology education, 2006
+
+"Forensic course development: one year later"
+L Troell, Y Pan, B Stackpole - Proceedings of the 5th Conference on information Technology Education, 2004
+
+"An Introduction to IPSec"
+W Stackpole - Information Security Management Handbook, 2003
+
+"Centralized Authentication Services (RADIUS, TACACS, DIAMETER)"
+W Stackpole - Information Security Management Handbook, 2003
+
+"Forensic course development"
+L Troell, Y Pan, B Stackpole - Proceedings of the 4th Conference on information Technology Curriculum, 2003
+
+"Look Ma, no hands!'Telematics vendors focus on hands-free phone and PDA use, so road warriors can be productive, safely"
+B Stackpole - ELECTRONIC BUSINESS, 2003
+
+"Centralized authentication services"
+B Stackpole - Complete Book of Remote Access, 2002
+
+"Application-Layer Security Protocols for Networks"
+B Stackpole - Web-to-Host Connectivity, 2000
+
+"Thinking Right About Network Security"
+B Stackpole - Information Systems Security, 1998

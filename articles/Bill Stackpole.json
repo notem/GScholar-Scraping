@@ -1,0 +1,768 @@
+[
+    {
+        "title": "RIT Digital Institutional Repositor y",
+        "id": "z-ALk7QAAAAJ:_Re3VWB3Y0AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:_Re3VWB3Y0AC",
+        "authors": [
+            "Bruce Hartpence",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "",
+        "pub_date": "2023/11/1",
+        "description": "This document describes the content of the network traffic datasets included in this collection and the conditions under which the packets were collected. These datasets were assembled from 2020 onward and so represent contemporary network traffic. There are periodic updates or additions to the dataset collection."
+    },
+    {
+        "title": "A Common Pentest Output Schema for Business Intelligence System Ingestion",
+        "id": "z-ALk7QAAAAJ:7T2F9Uy0os0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:7T2F9Uy0os0C",
+        "authors": [
+            "Shivangi Sharma",
+            "Justin M Pelletier",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2023 46th MIPRO ICT and Electronics Convention (MIPRO)",
+        "pub_date": "2023/5/22",
+        "description": "Data-driven Business Intelligence process improvements demand proactive digital vulnerability discovery and exploitation enumeration. These risk discovery and analyses practices are commonly known as penetration tests (pentests), and have emerged as requirement for most organizations under many compliance regimes such as the global Payment Card Industry Data Security Standard (PCI-DSS) and the federal Gramm-Leach Bliley Act (GLBA) in the United States. Though a growing body of research addresses the utility of pentests as a valuable Business Intelligence method, pentest outputs are not standardized and require time-consuming generation and ingestion before they can provide inputs to Business Intelligence Systems. In this study, we examined several pentest reports and propose a standardized schema for output generation in a common format that is easy for Business Intelligence Systems to\u00a0\u2026"
+    },
+    {
+        "title": "General Packet Datasets for Network Research",
+        "id": "z-ALk7QAAAAJ:ZfRJV9d4-WMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:ZfRJV9d4-WMC",
+        "authors": [
+            "Bruce Hartpence",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "",
+        "pub_date": "2023",
+        "description": "This collection of datasets contains packets from a variety of layer 2, layer 3, layer 4 and application layer protocols."
+    },
+    {
+        "title": "Security Datasets for Network Research",
+        "id": "z-ALk7QAAAAJ:tKAzc9rXhukC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:tKAzc9rXhukC",
+        "authors": [
+            "Bruce Hartpence",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2023",
+        "description": "This document describes the content of the security traffic datasets included in this collection and the conditions under which the packets were collected. These datasets were assembled from 2023 onward There are periodic updates or additions to the dataset collection. The current collection includes a variety of nmap intense scans."
+    },
+    {
+        "title": "Visualization for spectators in cybersecurity competitions",
+        "id": "z-ALk7QAAAAJ:uLbwQdceFCQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:uLbwQdceFCQC",
+        "authors": [
+            "Chao Peng",
+            "David Schwartz",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Chad Weeden",
+            "Jacob Marcovecchio",
+            "Drake Richards",
+            "Chris Fogle",
+            "Christopher Brown",
+            "Victoria Walrond"
+        ],
+        "pub_source": "2020 IEEE Symposium on Visualization for Cyber Security (VizSec)",
+        "pub_date": "2020/10/28",
+        "description": "The goal is to raise awareness and encourage learning cybersecurity principles by making competitions appealing to a wider audience. In an effort to make events compelling, attractive, and watchable, the researchers will develop systems to support visualizations and make the transactions between teams in different cybersecurity competitions easy to comprehend. In informing and educating the audience on the intricacies of the competition through engaging visualizations, cybersecurity competitions will be opened up to a world beyond just participants. In doing so, we can potentially attract new talent into the field. Our team seeks to make prototype visualizations for key actions in various student cybersecurity competitions and assess spectator understanding of key principles of the competition.",
+        "citations": 2
+    },
+    {
+        "title": "DRONESCAPE: Distributed Rapid On-site NEtwork Self-deploying Cellular Advanced Phone Environment",
+        "id": "z-ALk7QAAAAJ:dQ2og3OwTAUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:dQ2og3OwTAUC",
+        "authors": [
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2019 International Conference on Computational Science and Computational Intelligence (CSCI)",
+        "pub_date": "2019/12/5",
+        "description": "When disasters happen, the speed with which first responders and emergency personnel can contact and be contacted by the people affected by the disaster during the first minutes or hours is critical. Early communications can make the difference between life and death. During a disaster communications infrastructure of the affected area is likely to be compromised. This project proposes an inexpensive, rapidly deployable cloud of autonomous drones, each coupled with a micro-cellular base station that deploys from a transportable deployment module. The goal is to temporarily restore communications for both first responders to communicate amongst themselves as well as for the rest of the impacted population."
+    },
+    {
+        "title": "Cptc-a security competition unlike any other",
+        "id": "z-ALk7QAAAAJ:hkOj_22Ku90C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:hkOj_22Ku90C",
+        "authors": [
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2019",
+        "description": "Participating in cybersecurity competitions has become increasing popular for students in higher education programs that have a focus on computing or cyber security. The Collegiate Penetration Testing Competition was developed to address the industry skills gap and assist in identifying ethically minded security personnel with experience identifying, exercising, and mitigating vulnerabilities.",
+        "citations": 2
+    },
+    {
+        "title": "Android malware analysis and conceptual malware mitigation approaches",
+        "id": "z-ALk7QAAAAJ:ye4kPcJQO24C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:ye4kPcJQO24C",
+        "authors": [
+            "Tae Oh",
+            "Hwa Shin Moon",
+            "Young Ho Kim",
+            "Jeong Neyo Kim",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2016 International Conference on Information and Communication Technology Convergence (ICTC)",
+        "pub_date": "2016/10/19",
+        "description": "Mobile devices have enjoyed unprecedented growth in the last decade. As devices become more ubiquitous and users place more sensitive data on their devices, the amount of mobile malware in the wild has grown. In order to protect mobile device users and their data, mobile security solutions have been brought to market for consumer and enterprise users. The limited success observed in protecting devices so far warrants a redoubled effort to develop effective mobile device security solutions. The research presented in this paper represents the ongoing result of malware analysis for the Android platform by combining code review and behavioral testing. The data collected from these processes suggests the need to implement several security techniques not currently found in Android. To the benefit of users and developers, most of these techniques are coded into Android and provide comprehensive protection\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Android malware detection using category-based machine learning classifiers",
+        "id": "z-ALk7QAAAAJ:LjlpjdlvIbIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:LjlpjdlvIbIC",
+        "authors": [
+            "Huda Ali Alatwi",
+            "Tae Oh",
+            "Ernest Fokoue",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the 17th Annual Conference on Information Technology Education",
+        "pub_date": "2016/9/28",
+        "description": "Android malware growth has been increasing dramatically as well as the diversity and complicity of their developing techniques. Machine learning techniques have been applied to detect malware by modeling patterns of static features and dynamic behaviors of malware. The accuracy rates of the machine learning classifiers differ depending on the quality of the features. We increase the quality of the features by relating between the apps' features and the features that are required to deliver its category's functionality. To measure the benign app references, the features of the top rated apps in a specific category are utilized to train a malware detection classifier for that given category. Android apps stores such as Google Play organize apps into different categories. Each category has its distinct functionalities which means the apps under a specific category are similar in their static and dynamic features. In other\u00a0\u2026",
+        "citations": 36
+    },
+    {
+        "title": "Producing and evaluating crowdsourced computer security attack trees",
+        "id": "z-ALk7QAAAAJ:WqliGbK-hY8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:WqliGbK-hY8C",
+        "authors": [
+            "Dan Bogaard",
+            "Sanjay Goel",
+            "Shreshth Kandari",
+            "Daryl Johnson",
+            "George Markowsky",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2016 IEEE Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2016/5/10",
+        "description": "We describe the recent developments of an open-source project called RATCHET that can be used by groups of users to collectively construct attack trees. We present the RATCHET framework as well as a model for testing and evaluation of the produced attack trees. RATCHET has been tested in classroom settings with positive results and this paper presents the plans for expanding its outreach to the community at large and building attack trees through crowdsourcing. This paper gives an overview of RATCHET and an introduction to its use.",
+        "citations": 3
+    },
+    {
+        "title": "RIT Digital Institutional Repositor y",
+        "id": "z-ALk7QAAAAJ:1yQoGdGgb4wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:1yQoGdGgb4wC",
+        "authors": [
+            "Jonathan Waggoner",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2016",
+        "description": "As the demand for skilled computer security professionals continues to increase, curricula at colleges and universities must continually evolve to meet current industry needs. Incorporating Metasploit module development into these curricula increases the value of the education received by the graduate and makes them a more attractive candidate to potential employers. The flexibility of the Metasploit framework, especially for targeting mobile device platforms, proves to be a valuable tool in evaluating the security of many different devices. This paper discusses the importance of incorporating Metasploit module development into computing security curricula to better prepare graduates for the constantly changing environment they will encounter. Hands-on lab outline, module development experiences, and related work are also discussed in the paper.",
+        "citations": 1
+    },
+    {
+        "title": "Exploring a high-capacity covert channel on the Android operating system",
+        "id": "z-ALk7QAAAAJ:olpn-zPbct0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:olpn-zPbct0C",
+        "authors": [
+            "Timothy Heard",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2015 IEEE 8th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS)",
+        "pub_date": "2015/9/24",
+        "description": "As the use and prevalence of mobile technology increases so too does the importance of effective security for these devices. In particular, sensitive user information must be protected, which includes protecting against any covert channels that would allow such information to be compromised. This paper will examine a new covert channel capable of circumventing existing application-level protections on the Android operating system (OS). The authors will also show that this channel is capable of achieving significantly higher throughput than similar, previously discovered channels, which necessitates the implementation of additional security protections and controls at the operating system level.",
+        "citations": 6
+    },
+    {
+        "title": "Crowdsourcing computer security attack trees",
+        "id": "z-ALk7QAAAAJ:V3AGJWp-ZtQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:V3AGJWp-ZtQC",
+        "authors": [
+            "Matthew Tentilucci",
+            "Nick Roberts",
+            "Shreshth Kandari",
+            "Daryl Johnson",
+            "Dan Bogaard",
+            "Bill Stackpole",
+            "Georg Markowsky"
+        ],
+        "pub_source": "10th Annual Symposium on Information Assurance",
+        "pub_date": "2015/6/2",
+        "description": "This paper describes an open-source project called RATCHET whose goal is to create software that can be used by large groups of people to construct attack trees. The value of an attack tree increases when the attack tree explores more scenarios. Crowdsourcing an attack tree reduces the possibility that some options might be overlooked. RATCHET has been tested in classroom settings with positive results. This paper gives an overview of RATCHET and describes some of the features that we plan to add.",
+        "citations": 9
+    },
+    {
+        "title": "A new covert channel over cellular voice channel in smartphones",
+        "id": "z-ALk7QAAAAJ:kRWSkSYxWN8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:kRWSkSYxWN8C",
+        "authors": [
+            "Bushra Aloraini",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sumita Mishra"
+        ],
+        "pub_source": "arXiv preprint arXiv:1504.05647",
+        "pub_date": "2015/4/22",
+        "description": "Investigating network covert channels in smartphones has become increasingly important as smartphones have recently replaced the role of traditional computers. Smartphones are subject to traditional computer network covert channel techniques. Smartphones also introduce new sets of covert channel techniques as they add more capabilities and multiple network connections. This work presents a new network covert channel in smartphones. The research studies the ability to leak information from the smartphones applications by reaching the cellular voice stream, and it examines the ability to employ the cellular voice channel to be a potential medium of information leakage through carrying modulated speech-like data covertly. To validate the theory, an Android software audio modem has been developed and it was able to leak data successfully through the cellular voice channel stream by carrying modulated data with a throughput of 13 bps with 0.018% BER. Moreover, Android security policies are investigated and broken in order to implement a user-mode rootkit that opens the voice channels by stealthily answering an incoming voice call. Multiple scenarios are conducted to verify the effectiveness of the proposed covert channel. This study identifies a new potential smartphone covert channel, and discusses some security vulnerabilities in Android OS that allow the use of this channel demonstrating the need to set countermeasures against this kind of breach.",
+        "citations": 10
+    },
+    {
+        "title": "The Benefits of Hosting the NECCDC at Your Institution",
+        "id": "z-ALk7QAAAAJ:t6usbXjVLHcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:t6usbXjVLHcC",
+        "authors": [
+            "George Markowsky",
+            "Peter Lutz",
+            "Daryl Johnson",
+            "W Stackpole",
+            "R Soucy",
+            "B Attaie"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "The Northeast Collegiate Cyber Defense Competition (NECCDC)[2] is a regional competition that feeds the National Collegiate Cyber Defense Competition (CCDC)[1]. Since RIT organized the first NECCDC in 2008, the NECCDC has selected a representative to compete in the CCDC. It has been relatively successful and has produced the national champion twice and the runner up three times during its eight years of existence. The NECCDC has been hosted on a rotating basis by one of the universities in the northeast and has become a popular event for both the hosting schools and for the students. We feel that the NECCDC has continued to be an exciting event in part because it has been hosted by different universities which have all made important contributions to the event. This paper describes some of the benefits that come from hosting. Our hope is to convince other universities to host the NECCDC and similar competitions."
+    },
+    {
+        "title": "The security implications of imsi catchers",
+        "id": "z-ALk7QAAAAJ:XiVPGOgt02cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:XiVPGOgt02cC",
+        "authors": [
+            "Bryan Harmat",
+            "Jared Stroud",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sylvia Perez-Hardy",
+            "Rick Mislan",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2015",
+        "description": "According to various news sources, rogue cellular towers referred to as \u201cIMSI catchers\u201d have been deployed across the nation. An academic interest has been taken in determining what information can be acquired when a mobile device associates with one of these towers. These towers focus on manipulating authentication methods to pose as a legitimate GSM tower. Through the use of software defined radios, and open source software an inexpensive GSM protocol-based cell tower was deployed to determine what, if any, security vulnerabilities exist in the current mobile network infrastructure.",
+        "citations": 3
+    },
+    {
+        "title": "Covert channel using icmpv6 and ipv6 addressing",
+        "id": "z-ALk7QAAAAJ:5ugPr518TE4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:5ugPr518TE4C",
+        "authors": [
+            "Geoffrey Ackerman",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2015",
+        "description": "Internet Protocol version 6, the latest revision of the Internet Protocol (IP), is rising in popularity. Along with it has come ample opportunity for the discovery and utilization of fresh, new covert channels. This paper proposes a covert channel using this\" IP Next Generation Protocol\", widely referred to as IPv6, as well as its associated protocol ICMPv6. As a proof-of-concept, two hosts running respective sender and receiver python scripts will take advantage of ICMPv6 Echo messages and the IPv6 addressing scheme to send and receive data unbeknownst to any host, person, or other entity that may be monitoring or watching over the network.",
+        "citations": 4
+    },
+    {
+        "title": "Analysis of mobile malware based on user awareness",
+        "id": "z-ALk7QAAAAJ:q3oQSFYPqjQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:q3oQSFYPqjQC",
+        "authors": [
+            "Youngho Kim",
+            "Bill Stackpole",
+            "Tae Oh"
+        ],
+        "pub_source": "Proceedings of the 3rd annual conference on Research in information\u00a0\u2026",
+        "pub_date": "2014/10/13",
+        "description": "The number of mobile device malware has been increasing drastically last several years. When attempting to detect malware within a device, it is difficult to draw a clear line between malicious and normal activities. Even useful applications naturally result in data transfer from a mobile device to a remote server and a malware detection mechanism based solely on information flow might consider this as data leakage. Therefore one should also consider the surrounding context of an application to make a better decision on whether it is malicious or not. In this current research, a dynamic analysis approach is taken which monitors and measures the runtime behavior and logs from the mobile application. In particular, a concept of user awareness (UA) is proposed which represents a degree of intent with which an application tries to hide its activities from a user. This extended analysis measurement, combined with\u00a0\u2026"
+    },
+    {
+        "title": "Meshed tree protocol for faster convergence in switched networks",
+        "id": "z-ALk7QAAAAJ:BrmTIyaxlBUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:BrmTIyaxlBUC",
+        "authors": [
+            "Kuhu Sharma",
+            "Bruce Hartpence",
+            "Bill Stackpole",
+            "Daryl Johnson",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "ICNS 2014",
+        "pub_date": "2014/4/20",
+        "description": "Loop free forwarding is a continuing challenge in switched networks that require link and path redundancy. Solutions to overcome looping frames are addressed by special protocols at layer 2, which block ports in the bridges to build a logical spanning tree for frame forwarding. However, due to the continuing convergence issues in the Spanning Tree algorithm, IETF RFC 5556 Transparent Interconnection of Lots of Links on RBridges (router bridges) and IEEE 802.1 aqShortest Path Bridging both use link state routing techniques to build Dijkstra trees from every switch. Both techniques have the expense of higher processing complexity. In this paper, a novel meshed tree algorithm (MTA) is investigated to address convergence issues faced by STA while also avoiding the complexity of Link State routing. The MTA based protocol is compared with Rapid Spanning Tree Protocol using OPNET simulations. The significant reduction in convergence time combined with the simplicity in implementation indicates that the Meshed Tree Protocol would be superior candidate to resolve looping issues in switched networks.",
+        "citations": 5
+    },
+    {
+        "title": "Performance of Meshed Tree Protocols for Loop Avoidance in Switched Networks",
+        "id": "z-ALk7QAAAAJ:HE397vMXCloC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:HE397vMXCloC",
+        "authors": [
+            "Kuhu Sharma",
+            "Bill Stackpole",
+            "Daryl Johnson",
+            "Nirmala Shenoy",
+            "Bruce Hartpence"
+        ],
+        "pub_source": "International Journal on Advances in Networks and Services Volume 7, Number 3 & 4, 2014",
+        "pub_date": "2014",
+        "description": "Loop free frame forwarding in layer 2 switched networks that use meshed topologies to provision for link and path redundancy is a continuing challenge. The challenge is addressed through special protocols at layer 2 that build logical trees over the physically meshed topologies, along which frames can be forwarded. The first such protocol was based on the spanning tree. The spanning tree protocol (STP) had high convergence times subsequent to topology changes. Rapid STP and IETF RFC 5556 Transparent Interconnection of Lots of Links (TRILL) on Router Bridges (RBridges) were then developed to reduce the convergence times. RSTP continued to use the spanning tree while TRILL adopted link state routing to support a tree from every switch. TRILL introduces high processing complexity into layer 2 networks. In this article a new meshed tree algorithm (MTA) and a loop avoidance protocol based on the MTA, namely the meshed tree protocol (MTP) are discussed. The MTA allows constructing several overlapping trees from a single root switch. This speeds up convergence to link failures. The MTP proposes a simple numbering scheme to implement meshed trees\u2013thus, the processing complexity is low. The specification for the MTP is currently an ongoing IEEE standard Project 1910.1. In this article the operational details of MTP are presented and its performance evaluated and compared with RSTP."
+    },
+    {
+        "title": "Malware Analysis for Android Operating System",
+        "id": "z-ALk7QAAAAJ:eJXPG6dFmWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:eJXPG6dFmWUC",
+        "authors": [
+            "Kriti Sharma",
+            "Trushank Dand",
+            "Tae Oh",
+            "Bill Stackpole"
+        ],
+        "pub_source": "8th Annual Symposium on Information Assurance (ASIA\u201913)",
+        "pub_date": "2013/6/4",
+        "citations": 9
+    },
+    {
+        "title": "Teaching Android Malware Behaviors for Android Platform Using Interactive Labs",
+        "id": "z-ALk7QAAAAJ:VOx2b1Wkg3QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:VOx2b1Wkg3QC",
+        "authors": [
+            "Colin Szost",
+            "Kriti Sharma",
+            "Tae Oh",
+            "Willaim Stackpole",
+            "Richard P Mislan"
+        ],
+        "pub_source": "8th Annual Symposium on Information Assurance (ASIA\u201913)",
+        "pub_date": "2013/6/4",
+        "description": "Android is a fairly new operating system launched by Google in October 2008; it has been gaining market and growing popularity ever since. Alongside the growth of the operating system, malware for Android has increased tremendously. Currently, few strategies are available to identify and detect malware on this platform. Users are generally na\u00efve and are fooled into downloading apps, which may be harmful or malicious. They do not have enough experience with either the platform or the apps to know what can be malicious and what is genuine. Thus, the goal of the authors is to create a series of interactive labs that instruct students with little experience with the Android platform or dynamic malware analysis techniques in the methods of dynamic malware analysis and dynamic malware analysis tools for the Android operating system."
+    },
+    {
+        "title": "Android malware analysis platform",
+        "id": "z-ALk7QAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Ben Andrews",
+            "Tae Oh",
+            "William Stackpole"
+        ],
+        "pub_source": "Proc. of 8th Annual Symposium on Information Assurance (ASIA\u201913)",
+        "pub_date": "2013/6/4",
+        "description": "Abstracts\u2014Malware for smartphones is a prominent threat to secu-rity, with Android leading the charge as a primary threat. To combat this, it is vital that the security field devote research into finding better methods of malware analysis and subsequently malware defense. As a result, initiative was taken to perform focused research on this subject in the form of an independent study. The purpose of the study is to develop a lab virtual environment for analyzing Android malware. The solution needs to be intuitive and centrally managed in order to be effective for a professor and their assistants. Work has begun on such a system, and the plan is to continue developing an environment until an adequate solution has been produced.",
+        "citations": 5
+    },
+    {
+        "title": "Natural Selection in Virtualization Environments: A Decade of Lessons from Academia",
+        "id": "z-ALk7QAAAAJ:fQNAKQ3IYiAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:fQNAKQ3IYiAC",
+        "authors": [
+            "Bill Hartpence",
+            "Bruce. Mason",
+            "Sharon. Johnson",
+            "Daryl"
+        ],
+        "pub_source": "EISTA",
+        "pub_date": "2013"
+    },
+    {
+        "title": "The 2013 NECCDC-Lessons Learned",
+        "id": "z-ALk7QAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "G Markowsky",
+            "D Johnson",
+            "A Moody",
+            "R Soucy",
+            "W Stackpole"
+        ],
+        "pub_source": "EISTA",
+        "pub_date": "2013",
+        "description": "After having run the 2010 NECCDC at the University of Maine, we had an opportunity to run the 2013 NECCDC at the University of Maine. In the process, we rediscovered some lessons we had learned the first time along with a number of new lessons. We feel that the NECCDC and similar cyber defense competitions are very important for motivating students and for bringing the academic cyber defense community together. We are committed to making sure that the competitions are well supported and continue to improve. We also realized that our past system of basically having each hosting institution essentially build the competition from scratch does not contribute to keeping the competition of high quality and improving. This article serves as a how-to for staging the NECCDC or a similar competition.",
+        "citations": 2
+    },
+    {
+        "title": "Designing, Constructing and Implementing a Low-Cost Virtualization Cluster for Education",
+        "id": "z-ALk7QAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sharon Mason",
+            "Bruce Hartpence"
+        ],
+        "pub_source": "EISTA",
+        "pub_date": "2013",
+        "description": "Virtualization technology has become a mainstay of the enterprise and a critical element in the arsenal of commerce. It allows enterprises to grow and be managed more efficiently and with less dependence on specific hardware platforms. At the same time, complexities and changes such as those represented by virtualization constitute disruptive technologies requiring careful attention to ensure that systems continue to operate as expected. There are several options available when deploying these technologies; one that deserves significant consideration is the virtualization cluster.This paper will document the rationale, design, selection, and construction process involved in creating such a virtualization cluster. The efforts documented in this paper have shown that, with minimal funding, any educational institution can construct and provide a hands-on virtualization cluster environment to help teach students about virtualization and provide opportunities for undergraduate and faculty research. One can affordably build a sufficiently powerful environment using Commercial-Offthe-Shelf (COTS) components. A locally available virtualization cluster can enhance student success by providing hands-on access helping them to grasp the concepts and prepare them to make use of the technology. It may also servers to facilitate experimentation with many aspects of systems administration and security.",
+        "citations": 5
+    },
+    {
+        "title": "Game-based forensics course for first year students",
+        "id": "z-ALk7QAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "Bo Yuan",
+            "Bill Stackpole",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 13th annual conference on Information technology education",
+        "pub_date": "2012/10/11",
+        "description": "This paper focuses on the design and development of a game-based forensics course. This course uses the game-based learning (GBL) approach that builds the game in a real computing environment that has direct access to actual forensics tools from a forensics machine and the evidence from a suspect machine. Interactive visualizations will be used to help students to understand the intangible and inaccessible abstract concepts such as deleted/hidden/encrypted/over-written digital evidence.",
+        "citations": 17
+    },
+    {
+        "title": "Forensic acquisition and analysis of vmware virtual hard disks",
+        "id": "z-ALk7QAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Manish Hirwani",
+            "Yin Pan",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "The 2012 international conference on security and management",
+        "pub_date": "2012/7",
+        "description": "With the advancement in virtualization technology, virtual machines (VMs) are becoming a common and integral part of datacenters. As the popularity and the use of VMs increases, incidents involving them are also on the rise. There is substantial research on using VMs and virtual appliances to aid forensic investigation, but research on the appropriate forensics procedures for collecting and analyzing evidence within a VM following is lacking.",
+        "citations": 28
+    },
+    {
+        "title": "Best security practices for android, blackberry, and iOS",
+        "id": "z-ALk7QAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Tae Oh",
+            "Bill Stackpole",
+            "Emily Cummins",
+            "Carlos Gonzalez",
+            "Rahul Ramachandran",
+            "Shinyoung Lim"
+        ],
+        "pub_source": "2012 The First IEEE Workshop on Enabling Technologies for Smartphone and Internet of Things (ETSIoT)",
+        "pub_date": "2012/6/18",
+        "description": "Mobile operating systems have expanded from running exclusively on smartphones to include tablets and music players as well, making them available to a larger audience. These operating systems are responsible for maintaining a multitude of schedules, messages, calls, music, documents, applications, photos, videos, and other personal data with the goal of increasing efficiency. Because of this, developers of mobile operating systems have built in configuration options to these operating systems to better protect the device from security vulnerabilities. However, not all of these operating systems have such settings turned on when the device is pulled out of the box. Furthermore, not all users are aware of how to best protect their information, nor the kind of issues that should be considered when owning and using these devices. This paper suggests best practices for the three major mobile platforms - Android\u00a0\u2026",
+        "citations": 35
+    },
+    {
+        "title": "Android anti-virus analysis",
+        "id": "z-ALk7QAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Rahul Ramachandran",
+            "Tae Oh",
+            "William Stackpole"
+        ],
+        "pub_source": "Annual symposium on information assurance & secure knowledge management",
+        "pub_date": "2012/6/5",
+        "description": "The number of devices running with the Android operating system has been on the rise. By the end of 2012, it will account for nearly half of the world's smartphone market. Along with its growth, the importance of security has also risen. A proportional increase in the number of vulnerabilities is also happening to the extent that there are a limited number of security applications available to protect these devices. The efficacies of these applications have not been empirically established. This paper analyzes some of the security tools written for the Android platform to gauge their effectiveness at mitigating spyware and malware.",
+        "citations": 21
+    },
+    {
+        "title": "Developing small team-based cyber security exercises",
+        "id": "z-ALk7QAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Brandon Mauer",
+            "William Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2012",
+        "description": "The growth of the security industry is sparking a significant interest in well-rounded security professionals. Regional and national competitions in the academic community have been developed to help identify qualified candidates to support this industry. A course has been built to allow students to improve their skills in this area. This paper describes the process used to administer events in the support of such a competitive environment, and the process by which appropriate infrastructures are developed.",
+        "citations": 20
+    },
+    {
+        "title": "Anti-spyware analysis for iOS: An evaluation of current security products available for iOs",
+        "id": "z-ALk7QAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "C Gonzales",
+            "Bill Stackpole",
+            "Tae Oh"
+        ],
+        "pub_source": "Annual Symposium on Information Assurance and Secure Knowledge Management, viewed",
+        "pub_date": "2012",
+        "description": "Mobile devices and their operating systems are ubiquitous today. The advancement of mobile operating systems in recent years has transformed these devices into a trusted platform hosting large amounts of personal data. With this increased trust, security has never been more important for mobile devices. Developers of mobile operating systems such as Apple have taken initiative in securing these systems during their development but vulnerabilities still occur. This paper looks at some security products for iOS that aim to close the security gap and evaluates their effectiveness at securing the device. We also look into the trend of security products for iOS and the needs of future security solutions for the platform.",
+        "citations": 1
+    },
+    {
+        "title": "Third party application forensics on apple mobile devices",
+        "id": "z-ALk7QAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Alex Levinson",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "2011 44th Hawaii International Conference on System Sciences",
+        "pub_date": "2011/1/4",
+        "description": "Forensics on mobile devices is not new. Law enforcement and academia have been performing forensics on mobile devices for the past several years. Forensics on mobile third party applications is new. There have been third party applications on mobile devices before today, but none that provided the number of applications available in the iTunes app store. Mobile forensic software tools predominantly addresses \"typical\" mobile telephony data - contact information, SMS, and voicemail messages. These tools overlook analysis of information saved in third-party apps. Many third-party applications installed in Apple mobile devices leave forensically relevant artifacts available for inspection. This includes information about user accounts, timestamps, geolocational references, additional contact information, native files, and various media files. This information can be made readily available to law enforcement\u00a0\u2026",
+        "citations": 59
+    },
+    {
+        "title": "Third party application forensics on apple mobile devices",
+        "id": "z-ALk7QAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Daryl Johnson",
+            "A Levinson",
+            "B Stackpole"
+        ],
+        "pub_source": "IEEE",
+        "pub_date": "2011",
+        "description": "Forensics on mobile devices is not new. Law enforcement and academia have been performing forensics on mobile devices for the past several years. Forensics on mobile third party applications is new. There have been third party applications on mobile devices before today, but none that provided the number of applications available in the iTunes app store. Mobile forensic software tools predominantly addresses\" typical\" mobile telephony data-contact information, SMS, and voicemail messages. These tools overlook analysis of information saved in third-party apps. Many third-party applications installed in Apple mobile devices leave forensically relevant artifacts available for inspection. This includes information about user accounts, timestamps, geolocational references, additional contact information, native files, and various media files. This information can be made readily available to law enforcement through\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Security strategy: From requirements to reality",
+        "id": "z-ALk7QAAAAJ:1qzjygNMrQYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:1qzjygNMrQYC",
+        "authors": [
+            "Bill Stackpole",
+            "Eric Oksendahl"
+        ],
+        "pub_source": "CRC Press",
+        "pub_date": "2010/10/13",
+        "description": "Clarifying the purpose and place of strategy in an information security program, this book explains how to select, develop, and deploy the security strategy best suited to an organization. It focuses on security strategy planning and execution to provide a comprehensive look at the structures and tools needed to build a security program that enables and enhances business processes. Divided into two parts, the first part considers business strategy and the second part details specific tactics that support the implementation of strategic planning initiatives, goals, and objectives.",
+        "citations": 25
+    },
+    {
+        "title": "Computer forensics technologies for personally identifiable information detection and audits",
+        "id": "z-ALk7QAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Yin Pan",
+            "Bill Stackpole",
+            "Luther Troell"
+        ],
+        "pub_source": "ISACA Journal",
+        "pub_date": "2010",
+        "description": "PII tools typically search through the directory tree, looking at the content of allocated files, e-mail and the like for keywords or strings that indicate the file needs further investigation. For example, the tools might search for files that contain strings of 16 digits that could represent a credit card number. The strength of current PII tools is to quickly find possible PII in locations in which data are visible to the operating system. However, they do not provide support for searching data outside of these traditional areas. For example, if a file containing the same string of 16 digits had been deleted, the current PII tools would not find the file even though it may be recoverable. Deleted files are considered unallocated and are not available to view by PII tools.",
+        "citations": 6
+    },
+    {
+        "title": "Decentralized virtualization in systems administration education",
+        "id": "z-ALk7QAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Bill Stackpole",
+            "Jason Koppe",
+            "Thomas Haskell",
+            "Laura Guay",
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the 9th ACM SIGITE conference on Information technology education",
+        "pub_date": "2008/10/16",
+        "description": "The Networking and Systems Administration Laboratories are vital components of the applied academic experience of the students of the Networking, Security and Systems Administration Department. Students are currently able to implement multiple heterogeneous computing infrastructures using Symantec's Ghost Solution Suite. This paper presents and explores virtual lab environments that support alternative preparation solutions that will increase laboratory utilization, student productivity, and provide students with exposure to virtualization technology.",
+        "citations": 39
+    },
+    {
+        "title": "The evolution of a virtualized laboratory environment",
+        "id": "z-ALk7QAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the 9th ACM SIGITE conference on Information technology education",
+        "pub_date": "2008/10/16",
+        "description": "Distance learning techniques for lecture-based courses have been employed with success for quite some time. Creating a hands-on laboratory environment to serve the same remote student population has proven to be difficult. This paper addresses the evolution of a remote laboratory system designed to provide faculty and students with a functional and accessible solution that offers an experience equivalent to that of an on-site laboratory. It addresses successes and failures. The designs for each of the iterations are discussed. Future integration with additional curriculum, as well as plans for community outreach, are proposed.",
+        "citations": 40
+    },
+    {
+        "title": "Software deployment, updating, and patching",
+        "id": "z-ALk7QAAAAJ:bnK-pcrLprsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:bnK-pcrLprsC",
+        "authors": [
+            "Bill Stackpole",
+            "Patrick Hanrion"
+        ],
+        "pub_source": "CRC Press",
+        "pub_date": "2007/12/17",
+        "description": "The deployment of software patches can be just as challenging as building entirely new workstations. Training and support issues can haunt even the most successful software launch for months. Preparing for the rigors of software deployment includes not just implementing change, but training employees, predicting and mitigating pitfalls, and managin",
+        "citations": 15
+    },
+    {
+        "title": "Managing Unmanaged Systems.",
+        "id": "z-ALk7QAAAAJ:eMMeJKvmdy0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:eMMeJKvmdy0C",
+        "authors": [
+            "Man Nguyen",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Information Security Management Handbook, 6th ed.",
+        "pub_date": "2007"
+    },
+    {
+        "title": "Does a virtual networking laboratory result in similar student achievement and satisfaction?",
+        "id": "z-ALk7QAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Edith A Lawson",
+            "William Stackpole"
+        ],
+        "pub_source": "Proceedings of the 7th conference on Information technology education",
+        "pub_date": "2006/10/19",
+        "description": "Delivery of content in networking and system administration curricula involves significant hands-on laboratory experience supplementing traditional classroom instruction at the Rochester Institute of Technology. Providing the resources necessary in the traditional physical laboratory setting is challenged by increasing budgetary and space constraints. Delivery of laboratory instruction in a distance virtual format is a potential cost-effective solution to the problem, at the same time it presents technical challenges 3, 5. The blend of face-to-face and online instruction offers the opportunity not only to solve the resource issue, but also to sustain contact beyond the borders of the classroom and extend the learning environment. This paper presents the results of an action research study conducted to investigate the impact on student achievement and student satisfaction of delivering laboratory instruction in a distance\u00a0\u2026",
+        "citations": 44
+    },
+    {
+        "title": "Forensic course development: one year later",
+        "id": "z-ALk7QAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Luther Troell",
+            "Yin Pan",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the 5th Conference on information Technology Education",
+        "pub_date": "2004/10/28",
+        "description": "In a paper presented in 2003, Forensic Course Development, the authors described the procedures and rationale used for the development of an undergraduate and a graduate computer and network forensic course at Rochester Institute of Technology (RIT). After the undergraduate course was taught in the spring quarter of 2003, the contents of the lecture and lab materials, outcomes of the course, and student feedback were reviewed. This feedback will help improve both the instructional materials and their delivery. This paper's focus is on the development of the computer and network forensic course, as well as the changes made during the review process to improve the computer and network forensic course.",
+        "citations": 11
+    },
+    {
+        "title": "An Introduction to IPSec",
+        "id": "z-ALk7QAAAAJ:ZuybSZzF8UAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:ZuybSZzF8UAC",
+        "authors": [
+            "William Stackpole"
+        ],
+        "pub_source": "Information Security Management Handbook",
+        "pub_date": "2003/12/30",
+        "description": "The IP Security Protocol Working Group (IPSec) was formed by the Internet Engineering  Task Force (IETF) in 1992 to develop a standardized method for implementing privacy  and authentication services on IP version 4 and the emerging version 6 protocols. There  were several specific goals in mind. For the architecture to be widely adopted it would  have to be flexible. It must be able to accommodate changes in cryptographic technology  as well as the international restrictions on cryptographic use. Second, the architecture  must support all the client IP protocols (i.e., Transmission Control Protocol or TCP, User  Datagram Protocol or UDP) in standard or cast (i.e., multicast) modes. Third, it must be  able to secure communications between two hosts or multiple hosts, two subnets or  multiple subnets, or a combination of hosts and subnets. Finally, there had to be a method  for automatically distributing the\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Centralized Authentication Services (RADIUS, TACACS, DIAMETER)",
+        "id": "z-ALk7QAAAAJ:N5tVd3kTz84C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:N5tVd3kTz84C",
+        "authors": [
+            "William Stackpole"
+        ],
+        "pub_source": "Information Security Management Handbook",
+        "pub_date": "2003/12/30",
+        "description": "Got the telecommuter, mobile workforce, VPN, multi-platform, dial-in user  authentication blues? Need a centralized method for controlling and auditing external  accesses to your network? Then RADIUS, TACACS, or DIAMETER may be just what  you have been looking for. Flexible, inexpensive, and easy to implement, these  centralized authentication servers improve remote access security and reduce the time  and effort required to manage remote access server (RAS) clients.",
+        "citations": 4
+    },
+    {
+        "title": "Forensic course development",
+        "id": "z-ALk7QAAAAJ:PR6Y55bgFSsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:PR6Y55bgFSsC",
+        "authors": [
+            "Luther Troell",
+            "Yin Pan",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the 4th Conference on information Technology Curriculum",
+        "pub_date": "2003/10/16",
+        "description": "In recent years, digital technology has experienced dramatic growth. Many of these advances have also provided malicious users with the ability to conceal their activities and destroy evidence of their actions. This has raised the need of developing specialists in computer digital forensics -- the preservation, identification, extraction and documentation of evidence stored in the form of digitally encoded information (data).In this paper, we present the procedures and rationale used in the development of forensic courses at both the undergraduate and the graduate levels. We also demonstrate our decision making process of selecting topics included in each course.",
+        "citations": 27
+    },
+    {
+        "title": "Look Ma, no hands!'Telematics vendors focus on hands-free phone and PDA use, so road warriors can be productive, safely",
+        "id": "z-ALk7QAAAAJ:_Ybze24A_UAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:_Ybze24A_UAC",
+        "authors": [
+            "B Stackpole"
+        ],
+        "pub_source": "ELECTRONIC BUSINESS",
+        "pub_date": "2003"
+    },
+    {
+        "title": "Centralized authentication services",
+        "id": "z-ALk7QAAAAJ:Y5dfb0dijaUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:Y5dfb0dijaUC",
+        "authors": [
+            "Bill Stackpole"
+        ],
+        "pub_source": "Complete Book of Remote Access",
+        "pub_date": "2002/12/10",
+        "description": "RADIUS, TACACS, and DIAMETER are classified as authentication, authorization, and accounting (AAA) servers. The Internet Engineering Task Force (IETF) chartered an AAA Working Group in 1998 to develop the authentication, authorization, and accounting requirements for network access. The goal was to produce a base protocol that supported a number of different network access models, including traditional dial-in network access servers (NAS), Mobile-IP, and roaming operations (ROAMOPS). The group was to build upon the work of existing access providers like Livingston Enterprises.",
+        "citations": 1
+    },
+    {
+        "title": "Application-Layer Security Protocols for Networks",
+        "id": "z-ALk7QAAAAJ:wbdj-CoPYUoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:wbdj-CoPYUoC",
+        "authors": [
+            "Bill Stackpole"
+        ],
+        "pub_source": "Web-to-Host Connectivity",
+        "pub_date": "2000/5/17",
+        "description": "THE INCREDIBLE GROWTH OF INTERNET USAGE HAS SHIFTED ROUTINE business transactions from fax machine and telephones to e-mail and E-commerce. This  shift can be attributed in part to the economical world-wide connectivity of the Internet  but also to the Internet capacity for more sophisticated types of transactions. Security professionals must understand the issues and risks associated with these transactions if they want to provide viable and scalable security solutions for Internet commerce.",
+        "citations": 1
+    },
+    {
+        "title": "AUTHENTICATION SERVICES (RADIUS, TACACS, DIAMETER)",
+        "id": "z-ALk7QAAAAJ:9vf0nzSNQJEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:9vf0nzSNQJEC",
+        "authors": [
+            "Bill Stackpole"
+        ],
+        "pub_source": "",
+        "pub_date": "2000",
+        "description": "Got the telecommuter, mobile workforce, VPN, multi-platform, dial-in user authentication blues? Need a centralized method for controlling and auditing external accesses to your network? Then RADIUS, TACACS, or DIAMETER may be just what you have been looking for. Flexible, inexpensive, and easy to implement, these centralized authentication protocols improve remote access security and reduce the time and effort required to manage Remote Access Server (RAS) clients."
+    },
+    {
+        "title": "Thinking Right About Network Security",
+        "id": "z-ALk7QAAAAJ:J-pR_7NvFogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:J-pR_7NvFogC",
+        "authors": [
+            "Bill Stackpole"
+        ],
+        "pub_source": "Information Systems Security",
+        "pub_date": "1998/9/1",
+        "description": "Computer network security is one of those negatives that few spend time thinking about. Even so, few ever would secure a home the way networks are secured. One would not build a new home and wait until it is completed to think about adding a security system. The security system would be an integral part of the design. One would not buy windows without latches or doors without locks. Yet often this is exactly what is done with networks. Applications, operating systems, and servers are bought with inadequate security. Then after reading a few Internet horror stories, one decides he or she is living in a really bad neighborhood and tries to fit security into the system. A firewall (or some other security device) is purchased with the idea that it resolves the problem - but it does not! In reality all that has been created is a false sense of security. Sure, the doors are locked, dead bolted and barred, but the windows are still\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Machine Learning Models and Baseline Performance",
+        "id": "z-ALk7QAAAAJ:35r97b3x0nAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:35r97b3x0nAC",
+        "authors": [
+            "Bruce Hartpence",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Andres Kwasinski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "This following outlines some of the baseline classification experiments done using both the multi-later perceptron and convolutional neural network models. The datasets in the repository have been utilized in a wide variety of experiments including optimizer variations, model construction and accuracy improvement. Details can be found in [1] and [2].II. MULTI-LAYER PERCEPTRON (MLP) MLP baseline experiment results on the first dataset collection are provided in Table I. The training and validation sets are not included. These results were obtained using a multi-layer perceptron model with a single hidden layer of 28 nodes that ran for 700 iterations."
+    },
+    {
+        "title": "RIT Digital Institutional Repositor y",
+        "id": "z-ALk7QAAAAJ:evX43VCCuoAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:evX43VCCuoAC",
+        "authors": [
+            "Kuhu Sharma",
+            "Bill Stackpole",
+            "Daryl Johnson",
+            "Nirmala Shenoy",
+            "Bruce Hartpence"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Loop free frame forwarding in layer 2 switched networks that use meshed topologies to provision for link and path redundancy is a continuing challenge. The challenge is addressed through special protocols at layer 2 that build logical trees over the physically meshed topologies, along which frames can be forwarded. The first such protocol was based on the spanning tree. The spanning tree protocol (STP) had high convergence times subsequent to topology changes. Rapid STP and IETF RFC 5556 Transparent Interconnection of Lots of Links (TRILL) on Router Bridges (RBridges) were then developed to reduce the convergence times. RSTP continued to use the spanning tree while TRILL adopted link state routing to support a tree from every switch. TRILL introduces high processing complexity into layer 2 networks. In this article a new meshed tree algorithm (MTA) and a loop avoidance protocol based on the\u00a0\u2026"
+    },
+    {
+        "title": "The Benefits of Hosting the NECCDC at Your",
+        "id": "z-ALk7QAAAAJ:tzM49s52ZIMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:tzM49s52ZIMC",
+        "authors": [
+            "George Markowsky",
+            "Peter Lutz",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Benefits",
+        "pub_date": "",
+        "description": "The Northeast Collegiate Cyber Defense Competition (NECCDC)[2] is a regional competition that feeds the National Collegiate Cyber Defense Competition (CCDC)[1]. Since RIT organized the first NECCDC in 2008, the NECCDC has selected a representative to compete in the CCDC. It has been relatively successful and has produced the national champion twice and the runner up three times during its eight years of existence. The NECCDC has been hosted on a rotating basis by one of the universities in the northeast and has become a popular event for both the hosting schools and for the students. We feel that the NECCDC has continued to be an exciting event in part because it has been hosted by different universities which have all made important contributions to the event. This paper describes some of the benefits that come from hosting. Our hope is to convince other universities to host the NECCDC and\u00a0\u2026"
+    },
+    {
+        "title": "Cluster Wall: Building a Cluster from Recycled Parts",
+        "id": "z-ALk7QAAAAJ:mvPsJ3kp5DgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=z-ALk7QAAAAJ:mvPsJ3kp5DgC",
+        "authors": [
+            "Dan Cummings",
+            "Ryan Hurley",
+            "Tom Kopchak",
+            "Gregor von Laszewski",
+            "Myles Maxfield",
+            "Bill Stackpole",
+            "Nathan Welshans",
+            "Peter Wilson"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "A Collaboration of the GCCIS Honors Program and the Service Oriented Cyberinfrastructure Lab Your introduction goes here. The paper is structred as follows..."
+    }
+]

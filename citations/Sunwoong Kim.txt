@@ -1,0 +1,86 @@
+"Area-Efficient Iterative Logarithmic Approximate Multipliers for IEEE 754 and Posit Numbers"
+S Kim, CJ Norris, JI Oelund, RA Rutenbar - IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024
+
+"Accelerating Homomorphic Comparison Operations for Thresholding Using an Asymmetric Input Range and Input Scaling"
+S Kim, W Cho - Proceedings of the Great Lakes Symposium on VLSI 2024, 2024
+
+"ILAFD: Accuracy-Configurable Floating-Point Divider Using an Approximate Reciprocal and an Iterative Logarithmic Multiplier"
+J Oelund, S Kim - Proceedings of the Great Lakes Symposium on VLSI 2023, 2023
+
+"HEBGS: Homomorphic Encryption-based Background Subtraction Using a Fast-Converging Numerical Method"
+J Shyi, S Kim - 2023 IEEE International Symposium on Circuits and Systems (ISCAS), 2023
+
+"A Use Case of Iterative Logarithmic Floating-Point Multipliers: Accelerating Histogram Stretching on Programmable SoC"
+CJ Norris, S Kim - 2023 IEEE International Symposium on Circuits and Systems (ISCAS), 2023
+
+"Virtual keyboards with real-time and robust deep learning-based gesture recognition"
+T Lee, S Kim, T Kim, J Kim, H Lee - IEEE Transactions on Human-Machine Systems, 2022
+
+"HEKWS: Privacy-Preserving Convolutional Neural Network-based Keyword Spotting with a Ciphertext Packing Technique"
+D Elworth, S Kim - 2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP), 2022
+
+"HEMTH: Small Depth Multilevel Thresholding for a Homomorphically Encrypted Image"
+P Nam, J Shyi, S Kim - 2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP), 2022
+
+"HELPSE: Homomorphic Encryption-based Lightweight Password Strength Estimation in a Virtual Keyboard System"
+M Cho, K Lee, S Kim - Proceedings of the Great Lakes Symposium on VLSI 2022, 2022
+
+"A Homomorphic Encryption-based Adaptive Image Filter Using Division Over Encrypted Data"
+SD Kannivelu, S Kim - 2021 IEEE 27th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2021
+
+"An approximate and iterative posit multiplier architecture for FPGAs"
+CJ Norris, S Kim - 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
+
+"Introduction to Homomorphic Encryption and Schemes"
+JH Cheon, A Costache, RC Moreno, W Dai, N Gama, M Georgieva, S Halevi, M Kim, S Kim, K Laine - Protecting Privacy through Homomorphic Encryption, 2021
+
+"Hardware architecture of a number theoretic transform for a bootstrappable RNS-based homomorphic encryption scheme"
+S Kim, K Lee, W Cho, Y Nam, JH Cheon, RA Rutenbar - 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020
+
+"FPGA-based accelerators of fully pipelined modular multipliers for homomorphic encryption"
+S Kim, K Lee, W Cho, JH Cheon, RA Rutenbar - 2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig), 2019
+
+"HAD-TWL: Hot address detection-based wear leveling for phase-change memory systems with low latency"
+S Kim, H Jung, W Shin, H Lee, H Lee - IEEE Computer Architecture Letters, 2019
+
+"An Area-Efficient Iterative Single-Precision Floating-Point Multiplier Architecture for FPGA"
+S Kim, RA Rutenbar - Proceedings of the 2019 on Great Lakes Symposium on VLSI, 2019
+
+"Accelerator Design with Effective Resource Utilization for Binary Convolutional Neural Networks on an FPGA"
+S Kim, RA Rutenbar - 2018 IEEE 26th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2018
+
+"Optimized Interpolation and Cached Data Access in LUT-Based RGB-to-RGBW Conversion"
+S Kim, H Lee - IEEE Transactions on Circuits and Systems II: Express Briefs, 2018
+
+"A Bus-aware Interface Design of One-dimensional Frame Memory Compression for a Video Encoder"
+JH Jang, S Kim, CE Rhee - Journal of Semiconductor Technology and Science, 2017
+
+"Fine-scalable SPIHT hardware design for frame memory compression in video codec"
+S Kim, JH Jang, H Lee, CE Rhee - JSTS: Journal of Semiconductor Technology and Science, 2017
+
+"RGBW image compression by low-complexity adaptive multi-level block truncation coding"
+S Kim, H Lee - IEEE Transactions on Consumer Electronics, 2016
+
+"A design of a cost-effective look-up table for RGB-to-RGBW conversion"
+S Kim, H Lee - 2016 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 2016
+
+"Fixed-ratio compression of an RGBW image and its hardware implementation"
+S Kim, M Kim, J Kim, H Lee - IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2016
+
+"Fixed-length Golomb-Rice coding by quantization level estimation"
+M Kim, S Kim, J Kim, H Lee - 2016 IEEE International Symposium on Circuits and Systems (ISCAS), 2016
+
+"A block truncation coding algorithm and hardware implementation targeting 1/12 compression for LCD overdrive"
+S Kim, D Lee, J Kim, H Lee - Journal of Display Technology, 2016
+
+"Anomalous trajectory detection in surveillance systems using pedestrian and surrounding information"
+TN Doan, S Kim, LC Vo, H Lee - IEIE Transactions on Smart Processing and Computing, 2016
+
+"A high-throughput hardware design of a one-dimensional SPIHT algorithm"
+S Kim, D Lee, J Kim, H Lee - IEEE Transactions on Multimedia, 2016
+
+"An enhanced one-dimensional SPIHT algorithm and its implementation for TV systems"
+S Kim, D Lee, H Kim, NX Truong, J Kim - Displays, 2015
+
+"Power-aware design with various low-power algorithms for an H. 264/AVC encoder"
+H Kim, CE Rhee, J Kim, S Kim, H Lee - 2011 IEEE International Symposium of Circuits and Systems (ISCAS), 2011

@@ -1,0 +1,908 @@
+[
+    {
+        "title": "Using Accessibility Awareness Interventions to Improve Computing Education",
+        "id": "Y9IZTE0AAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Yang Liu",
+            "Domenic Mangano",
+            "Krishna Prd Neupane",
+            "Samuel Malachowsky",
+            "Daniel Krutz"
+        ],
+        "pub_source": "Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training",
+        "pub_date": "2024/4/14",
+        "description": "Research demonstrates that we continue to be deficient in creating inclusive and equitable software, with a lack of empathy among software developers attributed to this issue, even if unintentional. Although increasing empathy has been shown to be part of the solution, unfortunately there is a lack of data that can be analyzed that shows how empathy-building and accessibility awareness interventions can be utilized in computing education, along with a shortage of free, public, and easily adoptable educational material regarding empathy and the creation of accessible software. Through large in-person studies that involve real-world participants, we are able to contribute to the knowledge regarding the potential benefits that can be used to improve computing education by implementing empathy-building strategies in the curriculum. Two forms of accessibility awareness exercises are utilized to display the\u00a0\u2026"
+    },
+    {
+        "title": "Bridging the Empathy Gap: Hands-On Exploration of Human-Empathy Accessibility Learning (HEAL) Interventions in Computer Science Education\u00a0\u2026",
+        "id": "Y9IZTE0AAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Maggie Frechette",
+            "Annabel Fisher",
+            "Mohammad Shaikh",
+            "Jon LeFrois",
+            "Dmitry Burshteyn",
+            "Sam Malachowsky",
+            "Daniel Krutz",
+            "Jami Cotler"
+        ],
+        "pub_source": "Journal of Computing Sciences in Colleges",
+        "pub_date": "2024/4/1",
+        "description": "This workshop addresses the critical need for empathy development in computer science education, emphasizing the importance of understanding user needs, effective communication, collaboration, and inclusive design [9]. As 41 states across the United States have adopted accessibility policies, affecting 82% of the nation, the pursuit of inclusivity goes beyond mere compliance with regulations. However, despite the significant presence of disabilities, computer science students often remain minimally exposed to the challenges of developing technology through the lens of individuals with disabilities [5]. This deficiency highlights the critical importance of embedding empathy and user-centered perspectives into their educational framework. To address this deficiency, the workshop provides participants with hands-on experience through in-person accessibility interventions, showcasing the impact of Human\u00a0\u2026"
+    },
+    {
+        "title": "Using the Accessible Learning Labs for Accessibility and Machine Learning Education---Conference Tutorial",
+        "id": "Y9IZTE0AAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Carla Lopez",
+            "Kyle Messerle",
+            "Samuel Malachowsky",
+            "Daniel E Krutz",
+            "Jami Cotler"
+        ],
+        "pub_source": "Journal of Computing Sciences in Colleges",
+        "pub_date": "2024/4/1",
+        "description": "Our Accessible Learning Labs (ALL) project informs participants about how to properly create accessible software and teaches participants about fundamental concepts of Artificial Intelligence and Machine Learning (AI/ML). To enhance readability, we will be using the abbreviation AI/ML to reference these concepts. These interactive learning modules demonstrate the need to create accessible software and provide hands-on experiences that showcase the multifaceted nature of AI's impact. This tutorial will benefit a wide-range of participants in the software engineering community, from students to experienced practitioners who want to further understand the implications of AI/ML in various domains and ensure that they are creating inclusive, accessible software. Complete project material is publicly available on the project website: https://all.rit.edu"
+    },
+    {
+        "title": "ALL: Supporting Experiential Accessibility Education and Inclusive Software Development",
+        "id": "Y9IZTE0AAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Weishi Shi",
+            "Heather Moses",
+            "Qi Yu",
+            "Samuel Malachowsky",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "ACM Transactions on Software Engineering and Methodology",
+        "pub_date": "2023/12/21",
+        "description": "Creating accessible software is imperative for making software inclusive for all users.Unfortunately, the topic of accessibility is frequently excluded from computing education, leading to scenarios where students are unaware of either how to develop accessible software or see the need to create it. To address this challenge, we have created a set of educational labs that are systematically designed to not only inform students about fundamental topics in producing accessible software but also demonstrate its importance. Over the previous year, these labs were included in several Computer Science 2 offerings at the Rochester Institute of Technology, comprising a total of 500\u00a0student participants. This article discusses instructional observations from these offerings, some of which include the following: (i) many of the research findings from previous efforts remain true with the larger, more diverse evaluation; (ii) our\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Do Users Act Equitably? Understanding User Bias Through a Large In-person Study",
+        "id": "Y9IZTE0AAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Yang Liu",
+            "Heather Moses",
+            "Mark Sternefeld",
+            "Samuel Malachowsky",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)",
+        "pub_date": "2023/5/14",
+        "description": "Inequitable software is a common problem. Bias may be caused by developers, or even software users. As a society, it is crucial that we understand and identify the causes and implications of software bias from both users and the software itself. To address the problems of inequitable software, it is essential that we inform and motivate the next generation of software developers regarding bias and its adverse impacts. However, research shows that there is a lack of easily adoptable ethics-focused educational material to support this effort.To address the problem of inequitable software, we created an easily adoptable, self-contained experiential activity that is designed to foster student interest in software ethics, with a specific emphasis on AI/ML bias. This activity involves participants selecting fictitious teammates based solely on their appearance. The participant then experiences bias either against themselves or a\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Experiential Educational Accessibility Modules",
+        "id": "Y9IZTE0AAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Heather Moses",
+            "Su Thit Thazin",
+            "Samuel Malachowsky",
+            "Daniel Krutz"
+        ],
+        "pub_source": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2023/4/19",
+        "description": "Our Accessibility Learning Labs both inform participants about how to properly create accessible software, and also demonstrate the need to create accessible software. Five labs are currently available on the topics of: Colorblindness, Hearing, Blindness and Dexterity. Material is available on our website: https://all.rit.edu Due to their self-contained web-based nature and the inclusion of all instructional materials (e.g., \u00a0slides, quizzes, etc.), the labs enable easy integration into a wide variety of curricula ranging from high schools (9-12) to graduate courses. This session will provide an overview of the labs, and usage instructions and information for adopters.",
+        "citations": 3
+    },
+    {
+        "title": "Enhancing Computing Accessibility Education Using Experiential Labs: A Focus on Screen Readers and Dexterity Impairments",
+        "id": "Y9IZTE0AAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "Su Thit Thazin",
+            "Kyle Messerle",
+            "Heather Moses",
+            "Domenic Mangano",
+            "Samuel Malachowsky",
+            "Daniel Krutz"
+        ],
+        "pub_source": "Journal of Computing Sciences in Colleges",
+        "pub_date": "2023/4/1",
+        "description": "The Accessible Learning Labs project informs participants on how to properly address web accessibility guidelines, while also demonstrating the need to prioritize accessibility in software development. In this session, an overview of the labs will be provided, along with usage instructions and information for adopters. This tutorial will be beneficial for a wide-range of participants in the software engineering field who would like to gain insight into building inclusive and accessible software. All project material is available on our website: https://all.rit.edu"
+    },
+    {
+        "title": "Experiential learning in undergraduate accessibility education: Instructor observations",
+        "id": "Y9IZTE0AAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Saad Khan",
+            "Heather Moses",
+            "Samuel Malachowsky",
+            "Daniel Krutz"
+        ],
+        "pub_source": "Journal of Computing Sciences in Colleges",
+        "pub_date": "2023/4/1",
+        "description": "Although creating accessible software is imperative for making software inclusive for all users, problematically, the topic of accessibility is frequently excluded from computing education. This leads to scenarios where students are not only unaware of how to create accessible software, but also do not see the need to create accessible software. To address this challenge, we have created a set of educational Accessible Learning Labs (ALL) that are systematically designed to not only inform students about fundamental topics in creating accessible software, but also to demonstrate the importance of creating accessible software.",
+        "citations": 4
+    },
+    {
+        "title": "Open questions for empathy-building interventions for inclusive software development",
+        "id": "Y9IZTE0AAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Kyle L-Messerle",
+            "Samuel Malachowsky",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Journal of Computing Sciences in Colleges",
+        "pub_date": "2023/4/1",
+        "description": "Research has demonstrated that much of the software being created today is not sufficiently inclusive, unbiased and equitable. This has been found to frequently result in real-world implications such as prejudice against women or people of color, and software that is inaccessible to people with disabilities. Preliminary research has found that empathy-focused experiential educational activities can be beneficial for not only creating empathy, but in advancing the participant's interest and knowledge retention over traditional non empathy-building interventions. This work will provide a foundational background on the current research in the intersection of experiential learning and empathy-building interventions in computing education. We will also present several important questions that still must be explored, thus serving as the foundation for future work in this area.",
+        "citations": 1
+    },
+    {
+        "title": "Online Learning Using Incomplete Execution Data for Self-Adaptive Service-Oriented Systems",
+        "id": "Y9IZTE0AAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Niranjana Deshpande",
+            "Naveen Sharma",
+            "Qi Yu",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2022 IEEE International Conference on Web Services (ICWS)",
+        "pub_date": "2022/7/10",
+        "description": "Service composition algorithms support the construction of complex applications by combining various web services to fulfill diverse functional and Quality of Service (QoS) requirements. Moreover, composition algorithms must fulfill diverse user requirements while adhering to constraints such as limited computational resources. Recent research has demonstrated that using online learning to select different algorithms for specific tasks of a problem domain outperforms approaches that use a single algorithm for all tasks, in terms of computational resource usage and solution quality. Problematically, existing work in service composition does not leverage these advances, leading to multiple inefficient compositions. To address these challenges, we propose online composition algorithm selection using contextual multi-armed bandits to select an algorithm for each composition task at runtime. Our evaluations\u00a0\u2026"
+    },
+    {
+        "title": "Addressing tactic volatility in self-adaptive systems using evolved recurrent neural networks and uncertainty reduction tactics",
+        "id": "Y9IZTE0AAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Aizaz Ul Haq",
+            "Niranjana Deshpande",
+            "AbdElRahman ElSaid",
+            "Travis Desell",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the Genetic and Evolutionary Computation Conference",
+        "pub_date": "2022/7/8",
+        "description": "Self-adaptive systems frequently use tactics to perform adaptations. Tactic examples include the implementation of additional security measures when an intrusion is detected, or activating a cooling mechanism when temperature thresholds are surpassed. Tactic volatility occurs in real-world systems and is defined as variable behavior in the attributes of a tactic, such as its latency or cost. A system's inability to effectively account for tactic volatility adversely impacts its efficiency and resiliency against the dynamics of real-world environments. To enable systems' efficiency against tactic volatility, we propose a Tactic Volatility Aware (TVA-E) process utilizing evolved Recurrent Neural Networks (eRNN) to provide accurate tactic predictions. TVA-E is also the first known process to take advantage of uncertainty reduction tactics to provide additional information to the decision-making process and reduce uncertainty. TVA\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Uncertainty-Aware Multiple Instance Learning from Large-Scale Long Time Series Data",
+        "id": "Y9IZTE0AAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Yuansheng Zhu",
+            "Weishi Shi",
+            "Deep Shankar Pandey",
+            "Yang Liu",
+            "Xiaofan Que",
+            "Daniel E Krutz",
+            "Qi Yu"
+        ],
+        "pub_source": "2021 IEEE International Conference on Big Data (Big Data)",
+        "pub_date": "2021/12/15",
+        "description": "We propose a novel framework to classify large-scale time series data with long duration. Long time series classification (L-TSC) is a challenging problem because the data often contains a large amount of irrelevant information to the classification target. The irrelevant period degrades the classification performance while the relevance is unknown to the system. This paper proposes an uncertainty-aware multiple instance learning (MIL) framework to identify the most relevant period automatically. The predictive uncertainty enables designing an attention mechanism that forces the MIL model to learn from the possibly discriminant period. Moreover, the predicted uncertainty yields a principled estimator to identify whether a prediction is trustworthy or not. We further incorporate another modality to accommodate unreliable predictions by training a separate model based on its availability and conduct uncertainty aware\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "R-CASS: Using algorithm selection for self-adaptive service oriented systems",
+        "id": "Y9IZTE0AAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "Niranjana Deshpande",
+            "Naveen Sharma",
+            "Qi Yu",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2021 IEEE International Conference on Web Services (ICWS)",
+        "pub_date": "2021/9/5",
+        "description": "In service composition, complex applications are built by combining web services to fulfill user Quality of Service (QoS) and business requirements. To meet these requirements, applications are composed by evaluating all possible web service combinations using search algorithms. These algorithms need to be accurate and inexpensive to evaluate a large number of possible service combinations and services' fluctuating QoS attributes while meeting the constraints of limited computational resources. Recent research has shown that different search algorithms can outperform others on specific instances of a problem domain, in terms of solution quality and computational resource usage. Problematically, current service composition approaches ignore this property, leading to inefficient compositions. To address these limitations, we propose a composition algorithm selection framework which selects an algorithm\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "ALL: accessibility learning labs for computing accessibility education",
+        "id": "Y9IZTE0AAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Saad Khan",
+            "Heather Moses",
+            "Samuel Malachowsky",
+            "Daniel Krutz"
+        ],
+        "pub_source": "Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 2",
+        "pub_date": "2021/6/26",
+        "description": "Our Accessibility Learning Labs not only inform participants about the need for accessible software, but also how to properly create and implement accessible software. These experiential browser-based labs enable participants, instructors and practitioners to engage in our material using only their browser. In the following document, we will provide a brief overview of our labs, how they may be adopted, and some of their preliminary results. Complete project material is publicly available on our project website: http://all.rit.edu",
+        "citations": 3
+    },
+    {
+        "title": "Supporting computing accessibility education using experiential learning labs: conference tutorial",
+        "id": "Y9IZTE0AAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Saad Khan",
+            "Samuel Malachowsky",
+            "Daniel Krutz"
+        ],
+        "pub_source": "The Journal of Computing Sciences in Colleges",
+        "pub_date": "2021/1",
+        "description": "Our Accessibility Learning Labs not only inform participants about how to properly create accessible software, but also demonstrate the need to create accessible software. These experiential browser-based activities enable students, instructors and practitioners to utilize the material using only their browser. This tutorial will benefit a wide-range of participants in the software engineering community, from students to experienced practitioners who want to ensure that they are properly creating inclusive, accessible software. Complete project material is publicly available on the project website: http://all.rit.edu"
+    },
+    {
+        "title": "TPM: using experiential learning to support accessibility in computing education",
+        "id": "Y9IZTE0AAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Samuel Malachowsky",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2020 IEEE 32nd Conference on Software Engineering Education and Training (CSEE&T)",
+        "pub_date": "2020/11/9",
+        "description": "This tutorial will introduce our Accessibility Learning Labs (ALL). The objectives of this collaborative project with The National Technical Institute for the Deaf (NTID) are to both inform participants about foundational topics in accessibility and to demonstrate the importance of creating accessible software. The labs enable easy classroom inclusion by providing instructors all necessary materials including lecture and activity slides and videos. Each lab addresses an accessibility issue and contains: I) Relevant background information on the examined issue II) An example web-based application containing the accessibility problem III) A process to emulate this accessibility problem IV) Details about how to repair the problem from a technical perspective V) Incidents from people who encountered this accessibility issue and how it has impacted their life. The labs may be easily integrated into a wide variety of curriculum at\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Experiential learning in computing accessibility education",
+        "id": "Y9IZTE0AAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Weishi Shi",
+            "Saad Khan",
+            "Yasmine El-Glaly",
+            "Samuel Malachowsky",
+            "Qi Yu",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Companion Proceedings",
+        "pub_date": "2020/6/27",
+        "description": "Many developers don't understand how to, or recognize the need to develop accessible software. To address this, we have created five educational Accessibility Learning Labs (ALL) using an experiential learning structure. Each of these labs addresses a foundational concept in computing accessibility and both inform participants about foundational concepts in creating accessible software while also demonstrating the necessity of creating accessible software. The hosted labs provide a complete educational experience, containing materials such as lecture slides, activities, and quizzes. We evaluated the labs in ten sections of a CS2 course at our university, with 276 students participating. Our primary findings include: I) The labs are an effective way to inform participants about foundational topics in creating accessible software II) The labs demonstrate the potential benefits of our proposed experiential learning\u00a0\u2026",
+        "citations": 19
+    },
+    {
+        "title": "Presenting and evaluating the impact of experiential learning in computing accessibility education",
+        "id": "Y9IZTE0AAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Weishi Shi",
+            "Samuel Malachowsky",
+            "Yasmine El-Glaly",
+            "Qi Yu",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering Education and Training",
+        "pub_date": "2020/6/27",
+        "description": "Studies indicate that much of the software created today is not accessible to all users, indicating that developers don't see the need to devote sufficient resources to creating accessible software. Compounding this problem, there is a lack of robust, easily adoptable educational accessibility material available to instructors for inclusion in their curricula. To address these issues, we have created five Accessibility Learning Labs (ALL) using an experiential learning structure. The labs are designed to educate and create awareness of accessibility needs in computing. The labs enable easy classroom integration by providing instructors with complete educational materials including lecture slides, activities, and quizzes. The labs are hosted on our servers and require only a browser to be utilized. To demonstrate the benefit of our material and the potential benefits of our experiential lab format with empathy-creating material\u00a0\u2026",
+        "citations": 33
+    },
+    {
+        "title": "Improving neuroevolutionary transfer learning of deep recurrent neural networks through network-aware adaptation",
+        "id": "Y9IZTE0AAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "AbdElRahman ElSaid",
+            "Joshua Karns",
+            "Zimeng Lyu",
+            "Daniel Krutz",
+            "Alexander Ororbia",
+            "Travis Desell"
+        ],
+        "pub_source": "Proceedings of the 2020 genetic and evolutionary computation conference",
+        "pub_date": "2020/6/25",
+        "description": "Transfer learning entails taking an artificial neural network (ANN) that is trained on a source dataset and adapting it to a new target dataset. While this has been shown to be quite powerful, its use has generally been restricted by architectural constraints. Previously, in order to reuse and adapt an ANN's internal weights and structure, the underlying topology of the ANN being transferred across tasks must remain mostly the same while a new output layer is attached, discarding the old output layer's weights. This work introduces network-aware adaptive structure transfer learning (N-ASTL), an advancement over prior efforts to remove this restriction. N-ASTL utilizes statistical information related to the source network's topology and weight distribution in order to inform how new input and output neurons are to be integrated into the existing structure. Results show improvements over prior state-of-the-art, including the\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Neuroevolutionary Transfer Learning of Deep Recurrent Neural Networks through Network-Aware Adaptation",
+        "id": "Y9IZTE0AAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:dhFuZR0502QC",
+        "authors": [
+            "AbdElRahman ElSaid",
+            "Joshua Karns",
+            "Alexander Ororbia II",
+            "Daniel Krutz",
+            "Zimeng Lyu",
+            "Travis Desell"
+        ],
+        "pub_source": "arXiv preprint arXiv:2006.02655",
+        "pub_date": "2020/6/4",
+        "description": "Transfer learning entails taking an artificial neural network (ANN) that is trained on a source dataset and adapting it to a new target dataset. While this has been shown to be quite powerful, its use has generally been restricted by architectural constraints. Previously, in order to reuse and adapt an ANN's internal weights and structure, the underlying topology of the ANN being transferred across tasks must remain mostly the same while a new output layer is attached, discarding the old output layer's weights. This work introduces network-aware adaptive structure transfer learning (N-ASTL), an advancement over prior efforts to remove this restriction. N-ASTL utilizes statistical information related to the source network's topology and weight distribution in order to inform how new input and output neurons are to be integrated into the existing structure. Results show improvements over prior state-of-the-art, including the ability to transfer in challenging real-world datasets not previously possible and improved generalization over RNNs trained without transfer.",
+        "citations": 1
+    },
+    {
+        "title": "Panel: What and How to Teach Accessibility",
+        "id": "Y9IZTE0AAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Richard E Ladner",
+            "Anat Caspi",
+            "Leah Findlater",
+            "Paula Gabbert",
+            "Amy J Ko",
+            "Daniel Krutz"
+        ],
+        "pub_source": "Proceedings of the 51st ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2020/2/26",
+        "description": "This panel will provide practical advice on what and how to teach accessibility in a variety of settings. In this context, teaching accessibility means teaching about computer technologies that people with various disabilities can use and be productive with. At the undergraduate level it could mean teaching about how to design and build accessible web sites and applications. At the graduate level it could be teaching about building applications that can help people with disabilities with specific tasks. An entire course could focus on accessibility or it could be just part of an existing course. It is also important to learn about the diversity of consumers of technologies: what their abilities are and what access infrastructures they use every day. All the panelists have extensive experience in teaching accessibility. They will provide the audience of the panel deep insights into what they might do to teach accessibility in their own\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Experiential accessibility learning labs for computing education",
+        "id": "Y9IZTE0AAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Paul Tymann",
+            "Yasmine El-Glaly",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the 51st ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2020/2/26",
+        "description": "This workshop will introduce our Accessibility Learning Labs (ALL). The objectives of this collaborative project with The National Technical Institute for the Deaf (NTID) are to both inform participants about foundational topics in accessibility and to demonstrate the importance of creating accessible software. The labs enable easy classroom inclusion by providing instructors all necessary materials including lecture and activity slides and videos. Each lab addresses an accessibility issue and contains: I) Relevant background information on the examined issue; II) An example web-based application containing the accessibility problem; III) A process to emulate this accessibility problem; IV) Details about how to repair the problem from a technical perspective; V) Incidents from people who encountered this accessibility issue and how it has impacted their life. The labs may be integrated into a wide variety of curriculum at\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Presenting and evaluating the impact of experiential learning in computing accessibility education. In 2020 IEEE/ACM 42nd International Conference on Software Engineering\u00a0\u2026",
+        "id": "Y9IZTE0AAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "Yasmine N Elglaly",
+            "Weishi Shi",
+            "Samuel Malachowsky",
+            "Qi Yu",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "IEEE",
+        "pub_date": "2020",
+        "citations": 6
+    },
+    {
+        "title": "Neuro-evolutionary transfer learning through structural adaptation",
+        "id": "Y9IZTE0AAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "AbdElRahman ElSaid",
+            "Joshua Karnas",
+            "Zimeng Lyu",
+            "Daniel Krutz",
+            "Alexander G Ororbia",
+            "Travis Desell"
+        ],
+        "pub_source": "Applications of Evolutionary Computation: 23rd European Conference, EvoApplications 2020, Held as Part of EvoStar 2020, Seville, Spain, April 15\u201317, 2020, Proceedings 23",
+        "pub_date": "2020",
+        "description": "Transfer learning involves taking an artificial neural network (ANN) trained on one dataset (the source) and adapting it to a new, second dataset (the target). While transfer learning has been shown to be quite powerful and is commonly used in most modern-day statistical learning setups, its use has generally been restricted by architecture, i.e., in order to facilitate the reuse of internal learned synaptic weights, the underlying topology of the ANN to be transferred across tasks must remain the same and a new output layer must be attached (entailing removing the old output layer\u2019s weights). This work removes this restriction by proposing a neuro-evolutionary approach that facilitates what we call adaptive structure transfer learning, which means that an ANN can be transferred across tasks that have different input and output dimensions while having the internal latent structure continuously optimized. We test\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Improving the decision-making process of self-adaptive systems by accounting for tactic volatility",
+        "id": "Y9IZTE0AAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Jeffrey Palmerino",
+            "Qi Yu",
+            "Travis Desell",
+            "Daniel Krutz"
+        ],
+        "pub_source": "2019 34th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "pub_date": "2019/11/11",
+        "description": "When self-adaptive systems encounter changes withintheir surrounding environments, they enacttacticsto performnecessary adaptations. For example, a self-adaptive cloud-basedsystem may have a tactic that initiates additional computingresources when response time thresholds are surpassed, or theremay be a tactic to activate a specific security measure when anintrusion is detected. In real-world environments, these tacticsfrequently experiencetactic volatilitywhich is variable behaviorduring the execution of the tactic.Unfortunately, current self-adaptive approaches do not accountfor tactic volatility in their decision-making processes, and merelyassume that tactics do not experience volatility. This limitationcreates uncertainty in the decision-making process and mayadversely impact the system's ability to effectively and efficientlyadapt. Additionally, many processes do not properly account forvolatility that may\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Is adaptivity a core property of intelligent systems? it depends",
+        "id": "Y9IZTE0AAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "AbdElRahman ElSaid",
+            "Travis Desell",
+            "Daniel Krutz"
+        ],
+        "pub_source": "2019 IEEE/ACM 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)",
+        "pub_date": "2019/5/25",
+        "description": "Autonomous systems rely upon intelligence to enable them to function without the need for human intervention. In many cases, these systems must adapt to properly react to numerous scenarios. This adaptivity could be a simple action such as activating an additional server, or could be incredibly complex in creating a completely new adaptation strategy. In the following work, we address the question \"Is Adaptability a Core Property of Intelligent Systems?\" We determine that due to the ambiguity of the term 'intelligent system' and the wide range of such systems, that there is no clear and definitive answer to this question. This paper details the deliberation of three AI/Self-Adaptive researchers in addressing this question. We use several scenarios of intelligent systems ranging from a simple motion detector to a complex 'humanoid' futuristic artificial system to demonstrate the complexity of this question.",
+        "citations": 1
+    },
+    {
+        "title": "An empirical history of permission requests and mistakes in open source android apps",
+        "id": "Y9IZTE0AAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Gian Luca Scoccia",
+            "Anthony Peruma",
+            "Virginia Pujols",
+            "Ben Christians",
+            "Daniel Krutz"
+        ],
+        "pub_source": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "pub_date": "2019/5/25",
+        "description": "Android applications (apps) rely upon proper permission usage to ensure that the user's privacy and security are adequately protected. Unfortunately, developers frequently misuse app permissions in a variety of ways ranging from using too many permissions to not correctly adhering to Android's defined permission guidelines. The implications of these permissionissues (possible permission problems) can range from harming the user's perception of the app to significantly impacting their privacy and security. An imperative component to creating more secure apps that better protect a user's privacy is an improved understanding of how and when these issues are being introduced and repaired. While there are existing permissions-analysis tools and Android datasets, there are no available datasets that contain a large-scale empirical history of permission changes and mistakes. This limitation inhibits both\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Permission Issues in Open-Source Android Apps: An Exploratory Study",
+        "id": "Y9IZTE0AAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Gian Luca Scoccia",
+            "Anthony Peruma",
+            "Virginia Pujols",
+            "Ivano Malavolta",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2019 19th International Working Conference on Source Code Analysis and Manipulation (SCAM)",
+        "pub_date": "2019",
+        "description": "Permissions are one of the most fundamental components for protecting an Android user's privacy and security. Unfortunately, developers frequently misuse permissions by requiring too many or too few permissions, or by not adhering to permission best practices. These permission-related issues can negatively impact users in a variety of ways, ranging from creating a poor user experience to severe privacy and security implications. To advance the understanding permission-related issues during the app's development process, we conducted an empirical study of 574 GitHub repositories of open-source Android apps. We analyzed the occurrences of four types of permission-related issues across the lifetime of the apps. Our findings reveal that (i) permission-related issues are a frequent phenomenon in Android apps, (ii) the majority of issues are fixed within a few days after their introduction, (iii) permission-related\u00a0\u2026",
+        "citations": 22
+    },
+    {
+        "title": "Security: a critical quality attribute in self-adaptive systems",
+        "id": "Y9IZTE0AAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Anthony Peruma",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the 13th International Conference on Software Engineering for Adaptive and Self-Managing Systems",
+        "pub_date": "2018/5/28",
+        "description": "Self-Adaptive Systems (SAS) are revolutionizing many aspects of our society. From server clusters to autonomous vehicles, SAS are becoming more ubiquitous and essential to our world. Security is frequently a priority for these systems as many SAS conduct mission-critical operations, or work with sensitive information. Fortunately, security is being more recognized as an indispensable aspect of virtually all aspects of computing systems, in all phases of software development. Despite the growing prominence in security, from computing education to vulnerability detection systems, it is just another concern of creating good software. Despite how critical security is, it is a quality attribute like other aspects such as reliability, stability, or adaptability in a SAS.",
+        "citations": 8
+    },
+    {
+        "title": "Providing an experiential cybersecurity learning experience through mobile security labs",
+        "id": "Y9IZTE0AAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Anthony Peruma",
+            "Samuel A Malachowsky",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the 1st International Workshop on Security Awareness from Design to Deployment",
+        "pub_date": "2018/5/27",
+        "description": "The reality of today's computing landscape already suffers from a shortage of cybersecurity professionals, and this gap only expected to grow. We need to generate interest in this STEM topic early in our student's careers and provide teachers the resources they need to succeed in addressing this gap. To address this shortfall we present Practical LAbs in Security for Mobile Applications (PLASMA), a public set of educational security labs to enable instruction in creation of secure Android apps. These labs include example vulnerable applications, information about each vulnerability, steps for how to repair the vulnerabilities, and information about how to confirm that the vulnerability has been properly repaired. Our goal is for instructors to use these activities in their mobile, security, and general computing courses ranging from secondary school to university settings. Another goal of this project is to foster interest in\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Understanding the relationship between quality and security: a large-scale analysis of Android applications",
+        "id": "Y9IZTE0AAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Anthony Peruma",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the 1st International Workshop on Security Awareness from Design to Deployment",
+        "pub_date": "2018/5/27",
+        "description": "Android applications (apps) are not immune to the problems which also plague conventional software including security vulnerabilities, quality defects, permission misuse, and numerous other issues. Many developers even intentionally create vulnerable or malicious apps (malware) for often highly lucrative purposes. We need to better understand current trends in app quality and security to create higher quality software, and more effectively battle malware. To gather this critical information, we collected and reverse engineered 70,785 Android apps from the Google Play store, along with 1,420 malicious apps from other sources. Each app was analyzed using several static analysis tools to record a variety of information about each of them including requested permissions, size (LOC), possible defects and permission misuse. Our findings conclude that: 1) app categories substantially differ in terms of permissions\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Investigating user perception and comprehension of android permission models",
+        "id": "Y9IZTE0AAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Anthony Peruma",
+            "Jeffrey Palmerino",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the 5th International Conference on Mobile Software Engineering and Systems",
+        "pub_date": "2018/5/27",
+        "description": "Do you know the permissions your favorite apps use? You probably don't, and you aren't alone. Everyone seemingly talks about how important app security and privacy is to them, but research has shown that users are generally not well informed about the permissions their apps use. This leads to serious ramifications for security, privacy and user perception (rating) of an app. Understanding the current Android permission model and how it can be improved offers significant benefits for both developers and users. To better understand user perception of the previous, current and a new proposed permission model, we conducted an in-person study involving 185 participants. Our primary findings include I) The current Android runtime model does not make users feel more secure in comparison with the older install-time model. II) Our proposed model is beneficial in helping users feel more secure. III) There is no\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Apps for everyone: mobile accessibility learning modules",
+        "id": "Y9IZTE0AAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Yasmine N El-Glaly",
+            "Anthony Peruma",
+            "Daniel E Krutz",
+            "J Scott Hawker"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2018/4/27",
+        "description": "Mobile applications (apps) should be accessible to everyone, yet many of even the most popular are not. To address the lack of accessibility problem, we created a set of educational modules. These modules may be used to teach students and developers about proper methods of creating accessible apps, and on the importance of accessibility guidelines. Each module contains a well-defined accessibility problem, provides details about the accessibility issue, and simulates the effects of the accessibility barrier. Information is provided on how to fix the accessibility issue. Additionally, each module includes augmenting educational materials (slides, instructional videos, etc.), and example apps.",
+        "citations": 18
+    },
+    {
+        "title": "Cyber security education: why don't we do anything about it?",
+        "id": "Y9IZTE0AAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Daniel E Krutz",
+            "Thomas Richards"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2017/10/27",
+        "description": "Cyber security education: why don't we do anything about it?: ACM Inroads: Vol 8, No 4 skip to \nmain content ACM Digital Library home ACM home Google, Inc. (search) Advanced Search \nBrowse About Sign in Register Advanced Search Journals Magazines Proceedings Books \nSIGs Conferences People More Search ACM Digital Library SearchSearch Advanced Search \nACM Inroads Magazine Home Latest Issue Archive Authors Affiliations Award Winners More \nHome Magazines ACM Inroads Vol. 8, No. 4 Cyber security education: why don't we do \nanything about it? opinion Share on Cyber security education: why don't we do anything about \nit? Authors: Daniel E. Krutz Rochester Institute of Technology Rochester Institute of Technology \nView Profile , Thomas Richards Dulles, VA Dulles, VA View Profile Authors Info & Claims \nACM InroadsVolume 8Issue 4December 2017pp 5https://doi.org/10.1145/3132217 Published:\u2026",
+        "citations": 4
+    },
+    {
+        "title": "P-lint: A permission smell detector for android applications",
+        "id": "Y9IZTE0AAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Colton Dennis",
+            "Daniel E Krutz",
+            "Mohamed Wiem Mkaouer"
+        ],
+        "pub_source": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+        "pub_date": "2017/5/22",
+        "description": "Android is built upon a permission-based structure, where apps require access to specific permissions in order to carry out specific functionality. While Android has provided a set of best practices intended to aid the developer in properly defining and manipulating these permissions on their source code, developers do not always adhere to these guidelines. Although some of the resulting issues may be minor and lead to slight user confusion, other mistakes may create more serious privacy and security related issues. We've defined improper usage of these permission best practices to be 'permission smells' to indicate possible permissions related syntactic issues and have created a tool P-Lint to assist in the identification of these smells on the source code. P-Lint's goal is to not only help developers create better, more secure apps by providing guidance on properly using permissions, but also in allowing\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "M-perm: A lightweight detector for android permission gaps",
+        "id": "Y9IZTE0AAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Piper Chester",
+            "Chris Jones",
+            "Mohamed Wiem Mkaouer",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+        "pub_date": "2017/5/22",
+        "description": "Android apps operate under a permissions-based system where access to specific APIs are restricted through the use of permissions. Unfortunately, there is no built-in verification system to ensure that apps do not request too many or too few permissions, which could lead to serious quality and/or privacy concerns. Apps requesting too many permissions create unnecessary vulnerabilities, leaving the potential for abuse by SDKs within the app or other malicious apps installed on the device. In order to assist with the discovery of misused permissions, we created a new detection tool, M-Perm, which combines static and dynamic analysis in a computationally efficient manner compared to existing tools. M-Perm also identifies permission usage in apps including requested normal, dangerous, and 3rd party permissions. The tool, complete usage instructions, and screencast are available online: http://www.m-perm.com.",
+        "citations": 18
+    },
+    {
+        "title": "Who added that permission to my app? an analysis of developer permission changes in open source android apps",
+        "id": "Y9IZTE0AAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Daniel E Krutz",
+            "Nuthan Munaiah",
+            "Anthony Peruma",
+            "Mohamed Wiem Mkaouer"
+        ],
+        "pub_source": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+        "pub_date": "2017/5/22",
+        "description": "Android applications rely on a permission-based model to carry out core functionality. Appropriate permission usage is imperative for ensuring device security and protecting the user's desired privacy levels. But who is making the important decisions of which permissions the app should request? Are they experienced developers with the appropriate project knowledge to make such important decisions, or are these crucial choices being made by those with relatively minor amounts of contributions to the project? When are these permission-related decisions being made in the app's development life cycle? We examined 1,402 Android version control repositories containing over 331,318 commits including 18,751 AndroidManifest.xml versions to better understand when, why, and who is adding permissions to apps. We found that (I) developers with more experience are more likely to make permission-based\u00a0\u2026",
+        "citations": 20
+    },
+    {
+        "title": "Cate: Concolic android testing using java pathfinder for android applications",
+        "id": "Y9IZTE0AAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Patrick McAfee",
+            "Mohamed Wiem Mkaouer",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+        "pub_date": "2017/5/22",
+        "description": "Like all software, Android applications are not immune to bugs, security vulnerabilities, and a wide range of other issues. Concolic analysis, a hybrid software verification technique which performs symbolic execution along with a concrete execution path, has been used for a variety of purposes including software testing, code clone detection, and security-related activities. We created a new publicly available concolic analysis tool for analyzing Android applications: Concolic Android TEster (CATE). Building on Java Path Finder (JPF-SPF), this tool performs concolic analysis on a raw Android application file (or source code) and provides output in a useful and easy to understand format.",
+        "citations": 7
+    },
+    {
+        "title": "Teaching Android security through examples: A publicly available database of vulnerable apps",
+        "id": "Y9IZTE0AAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Daniel E Krutz",
+            "Samuel A Malachowsky"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2016/11/21",
+        "description": "Security is hard, and teaching security can be even harder. Here we describe a public educational activity to assist in the instruction of both students and developers in creating secure Android apps. Our set of activities includes example vulnerable applications, information about each vulnerability, steps on how to repair the vulnerabilities, and information about how to confirm that the vulnerability has been properly repaired. Our primary goal is to make these activities available to other instructors for use in their classrooms ranging from the K-12 to university settings. A secondary goal of this project is to foster interest in security and computing. All project activities may be found on the project website [2].",
+        "citations": 1
+    },
+    {
+        "title": "Examining the relationship between security metrics and user ratings of mobile apps: A case study",
+        "id": "Y9IZTE0AAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Daniel E Krutz",
+            "Nuthan Munaiah",
+            "Andrew Meneely",
+            "Samuel A Malachowsky"
+        ],
+        "pub_source": "Proceedings of the International Workshop on App Market Analytics",
+        "pub_date": "2016/11/14",
+        "description": "The success or failure of a mobile application (`app') is largely determined by user ratings. Users frequently make their app choices based on the ratings of apps in comparison with similar, often competing apps. Users also expect apps to continually provide new features while maintaining quality, or the ratings drop. At the same time apps must also be secure, but is there a historical trade-off between security and ratings? Or are app store ratings a more all-encompassing measure of product maturity? We used static analysis tools to collect security-related metrics in 38,466 Android apps from the Google Play store. We compared the rate of an app's permission misuse, number of requested permissions, and Androrisk score, against its user rating.   We found that high-rated apps have statistically significantly higher security risk metrics than low-rated apps. However, the correlations are weak. This result supports the\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "Darwin: A static analysis dataset of malicious and benign android apps",
+        "id": "Y9IZTE0AAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Nuthan Munaiah",
+            "Casey Klimkowsky",
+            "Shannon McRae",
+            "Adam Blaine",
+            "Samuel A Malachowsky",
+            "Cesar Perez",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "Proceedings of the International Workshop on App Market Analytics",
+        "pub_date": "2016/11/14",
+        "description": "The Android platform comprises the vast majority of the mobile market. Unfortunately, Android apps are not immune to issues that plague conventional software including security vulnerabilities, bugs, and permission-based problems. In order to address these issues, we need a better understanding of the apps we use everyday. Over the course of more than a year, we collected and reverse engineered 64,868 Android apps from the Google Play store as well as 1,669 malware samples collected from several sources. Each app was analyzed using several static analysis tools to collect a variety of quality and security related information. The apps spanned 41 different categories, and constituted a total of 576,174 permissions, 39,780 unique signing keys and 125,159 over-permissions. We present the dataset of these apps, and a sample set of analytics, on our website---http://darwin.rit.edu---with the option of\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Architectural clones: toward tactical code reuse",
+        "id": "Y9IZTE0AAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Daniel E Krutz",
+            "Mehdi Mirakhorl"
+        ],
+        "pub_source": "Proceedings of the 31st Annual ACM Symposium on Applied Computing",
+        "pub_date": "2016/4/4",
+        "description": "Architectural tactics are the building blocks of software architecture. They describe solutions for addressing specific quality concerns, and are prevalent across many software systems. Once a decision is made to utilize a tactic, the developer must generate a concrete plan for implementing the tactic in the code. Unfortunately, this is a non-trivial task for even experienced developers. Developers often resort to using search engines, crowd-sourcing websites, or discussion forums to find sample code snippets. A robust Tactic Search Engine can replace this manual, internet-based search process and help developers to reuse proper architectural knowledge and accurately implement tactics and patterns from a wide range of open source systems. In this paper we analyze several implementations of architectural tactics in the open source community and identify the foundation for building a practical Tactic Search Engine\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "An insider threat activity in a software security course",
+        "id": "Y9IZTE0AAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Daniel E Krutz",
+            "Andrew Meneely",
+            "Samuel A Malachowsky"
+        ],
+        "pub_source": "2015 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2015/10/21",
+        "description": "Software development teams face a critical threat to the security of their systems: insiders. A malicious insider is a person who violates an authorized level of access in a software system. Unfortunately, when creating software, developers do not typically account for insider threat. Students learning software development are unaware of the impacts of malicious actors and are far too often untrained in prevention methods against them. A few of the defensive mechanisms to protect against insider threats include eliminating system access once an employee leaves an organization, enforcing principle of least privilege, code reviews, and constant monitoring for suspicious activity. At the Department of Software Engineering at the Rochester Institute of Technology, we require a course titled Engineering of Secure Software and have created an activity designed to prepare students for the problem of insider threats. At the\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "A project component in a web engineering course",
+        "id": "Y9IZTE0AAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Samuel A Malachowsky",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2015 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2015/10/21",
+        "description": "Web applications are an extremely important and ubiquitous part of today's world. Students must not only know how to develop them from a technical perspective, but in doing so need to understand how to follow the proper principles of software engineering - delivering the project on time, on budget, and in a high quality manner. At the Department of Software Engineering at the Rochester Institute of Technology, we offer a Web Engineering course which not only introduces students to a variety of web technologies, but more importantly it shows them how to use them in a collaborative environment while properly utilizing web engineering methodologies. The course includes a significant project component requiring students to use a variety of contemporary technologies and resources to create a robust web application. The main premise of the project is for each group to create a web portal using both custom-built\u00a0\u2026"
+    },
+    {
+        "title": "Enhancing the educational experience for deaf and hard of hearing students in software engineering",
+        "id": "Y9IZTE0AAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Daniel E Krutz",
+            "Samuel A Malachowsky",
+            "Scott D Jones",
+            "Jayme A Kaplan"
+        ],
+        "pub_source": "2015 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2015/10/21",
+        "description": "Software engineering is largely a communication-driven, team-oriented discipline. There are numerous hurdles for ensuring proper communication and interaction between all project stakeholders, including physical, technological, and cultural barriers. These obstructions not only affect software engineering in industry, but in academia as well. One possible issue that is often overlooked in software engineering education is how to best educate Deaf and hard-of-hearing (Deaf/HoH) students, and how to fully engage them in the classroom. In this paper, we present our experiences in teaching software engineering to Deaf/HoH students. In the classroom, these students work very closely in activities and on project teams with their hearing peers. We also present recommendations for creating a more robust software engineering educational experience for not only Deaf/HoH students, but for hearing students as well\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "A dataset of open-source android applications",
+        "id": "Y9IZTE0AAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Daniel E Krutz",
+            "Mehdi Mirakhorli",
+            "Samuel A Malachowsky",
+            "Andres Ruiz",
+            "Jacob Peterson",
+            "Andrew Filipski",
+            "Jared Smith"
+        ],
+        "pub_source": "2015 IEEE/ACM 12th Working Conference on Mining Software Repositories",
+        "pub_date": "2015/5/16",
+        "description": "Android has grown to be the world's most popular mobile platform with apps that are capable of doing everything from checking sports scores to purchasing stocks. In order to assist researchers and developers in better understanding the development process as well as the current state of the apps themselves, we present a large dataset of analyzed open-source Android applications and provide a brief analysis of the data, demonstrating potential usefulness. This dataset contains 1,179 applications, including 4,416 different versions of these apps and 435,680 total commits. Furthermore, for each app we include the analytical results obtained from several static analysis tools including Androguard, Sonar, and Stowaway. In order to better support the community in conducting research on the security characteristics of the apps, our large analytical dataset comes with the detailed information including various versions\u00a0\u2026",
+        "citations": 70
+    },
+    {
+        "title": "Examining the Effectiveness of Using Concolic Analysis to Detect Code Clones",
+        "id": "Y9IZTE0AAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Daniel E Krutz",
+            "Samuel A Malachowsky",
+            "Emad Shihab"
+        ],
+        "pub_source": "Symposium on Applied Computing",
+        "pub_date": "2015",
+        "description": "During the initial construction and subsequent maintenance of an application, duplication of functionality is common, whether intentional or otherwise. This replicated functionality, known as a code clone, has a diverse set of causes and can have moderate to severe adverse effects on a software project in a variety of ways. A code clone is defined as multiple code fragments that produce similar results when provided the same input. While there is an array of powerful clone detection tools, most suffer from a variety of drawbacks including, most importantly, the inability to accurately and reliably detect the more difficult clone types. This paper presents a new technique for detecting code clones based on concolic analysis, which uses a mixture of concrete and symbolic values to traverse a large and diverse portion of the source code. By performing concolic analysis on the targeted source code and then examining the\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "A code clone oracle",
+        "id": "Y9IZTE0AAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Daniel E Krutz",
+            "Wei Le"
+        ],
+        "pub_source": "Proceedings of the 11th working conference on mining software repositories",
+        "pub_date": "2014/5/31",
+        "description": "Code clones are functionally equivalent code segments. De- tecting code clones is important for determining bugs, fixes and software reuse. Code clone detection is also essential for developing fast and precise code search algorithms. How- ever, the challenge of such research is to evaluate that the clones detected are indeed functionally equivalent, consider- ing the majority of clones are not textual or even syntacti- cally identical. The goal of this work is to generate a set of method level code clones with a high confidence to help to evaluate future code clone detection and code search tools to evaluate their techniques. We selected three open source programs, Apache, Python and PostgreSQL, and randomly sampled a total of 1536 function pairs. To confirm whether or not these function pairs indicate a clone and what types of clones they belong to, we recruited three experts who have experience in code clone\u00a0\u2026",
+        "citations": 30
+    },
+    {
+        "title": "Using a real world project in a software testing course",
+        "id": "Y9IZTE0AAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Daniel E Krutz",
+            "Samuel A Malachowsky",
+            "Thomas Reichlmayr"
+        ],
+        "pub_source": "Proceedings of the 45th ACM technical symposium on Computer science education",
+        "pub_date": "2014/3/5",
+        "description": "Although testing often accounts for 50% of the budget of a typical software project, the subject of software testing is often overlooked in computing curriculum. Students often view testing as a boring and unnecessary task, and education is usually focused on building software, not ensuring its quality. Previous works have focused on either making the subject of testing more exciting for students or on a more potent lecture-based learning process. At the Department of Software Engineering at the Rochester Institute of Technology, recent efforts have been focused on the project component of our Software Testing course as an area of innovation. Rather than previous methods such as a tightly controlled and repetitive testbed, our students are allowed to choose a real-world, open source project to test throughout the term. With the instructor as both counsel and client, students are expected to deliver a test plan, a final\u00a0\u2026",
+        "citations": 56
+    },
+    {
+        "title": "Teaching Web Engineering using a project component",
+        "id": "Y9IZTE0AAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Daniel E Krutz",
+            "Andrew Meneely"
+        ],
+        "pub_source": "2013 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2013/10/23",
+        "description": "Web applications are an intricate part of the world today. Everything from banking to checking our Facebook status may now be done through the use of web applications. Todays students need to balance numerous concerns in order to create a web application that is robust, on time and on budget. At the Department of Software Engineering at the Rochester Institute of Technology, we created a course called Web Engineering. As part of this course, we developed an innovative project component which focused on students following software engineering principles such as elicitation, requirements generation, testing and deployment.",
+        "citations": 1
+    },
+    {
+        "title": "Experiencing disruptive behavior in a team using \u201cmoles\u201d",
+        "id": "Y9IZTE0AAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Daniel E Krutz",
+            "James R Vallino"
+        ],
+        "pub_source": "2013 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2013/10/23",
+        "description": "The ability to work on a team is a paramount skill for every engineer. The capability to understand, identify and work through team problems will significantly enhance the engineer's ability to deliver a high quality product on time and within budget. Far too often, however, the experience of working as a team, with its challenges, is overlooked in the student's education. The Department of Software Engineering at Rochester Institute of Technology introduced an activity in their Freshman Seminar course to help students work in a team-based environment. The specific focus was interacting with problematic team members. This team activity involved student \u201cmoles\u201d covertly being inserted to act in a disruptive fashion. At the end of the activity, the teams reassembled to discuss the task the team had been assigned to do. The instructor revealed the role of the \u201cmoles\u201d at this point, and the teams discussed the effect their\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Bug of the day: Reinforcing the importance of testing",
+        "id": "Y9IZTE0AAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Daniel E Krutz",
+            "Michael Lutz"
+        ],
+        "pub_source": "2013 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2013/10/23",
+        "description": "Software engineering students typically dislike testing. In part this is due to the simplicity of the programming and design exercises in introductory computing courses - the payoff for thorough testing is not apparent. In addition, testing can be seen as tangential to what really matters: developing and documenting a design addressing the requirements, and constructing a system in conforming to the design. Such dismissive attitudes do not accord well with the realities of commercial software development. The cost of fixing, repairing and redistributing a flawed product can dwarf that of development. The Software Engineering Department at the Rochester Institute of Technology (RIT) teaches (and requires) basic testing as part of its foundation courses in the first two years. In addition, it offers an upper division course on testing, giving an in-depth treatment of best-practice tools, techniques and processes. Recently we've\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Cccd: Concolic code clone detection",
+        "id": "Y9IZTE0AAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Daniel E Krutz",
+            "Emad Shihab"
+        ],
+        "pub_source": "2013 20th Working Conference on Reverse Engineering (WCRE)",
+        "pub_date": "2013/10/14",
+        "description": "Code clones are multiple code fragments that produce similar results when provided the same input. Prior research has shown that clones can be harmful since they elevate maintenance costs, increase the number of bugs caused by inconsistent changes to cloned code and may decrease programmer compre-hensibility due to the increased size of the code base. To assist in the detection of code clones, we propose a new tool known as Concolic Code Clone Discovery (CCCD). CCCD is the first known clone detection tool that uses concolic analysis as its primary component and is one of only three known techniques which are able to reliably detect the most complicated kind of clones, type-4 clones.",
+        "citations": 43
+    },
+    {
+        "title": "Code Clone Discovery Based on Concolic Analysis",
+        "id": "Y9IZTE0AAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Daniel Edward Krutz"
+        ],
+        "pub_source": "Nova Southeastern University",
+        "pub_date": "2013",
+        "description": "Software is often large, complicated and expensive to build and maintain. Redundant code can make these applications even more costly and difficult to maintain. Duplicated code is often introduced into these systems for a variety of reasons. Some of which include developer churn, deficient developer application comprehension and lack of adherence to proper development practices.",
+        "citations": 1
+    },
+    {
+        "title": "Instilling a software engineering mindset through freshman seminar",
+        "id": "Y9IZTE0AAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Michael J Lutz",
+            "James R Vallino",
+            "Kenn Martinez",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "2012 Frontiers in Education Conference Proceedings",
+        "pub_date": "2012/10/3",
+        "description": "Student retention is a challenge faced by all engineering programs. Our first year software engineering students have schedules filled with computer science, mathematics, science and humanities. The lack of any exposure to engineering meant some students, expressing a dislike for software engineering, left the program before they had any exposure to the discipline. To address this issue, we created a one credit Software Engineering Freshman Seminar, which all entering students take in their first term at RIT. This lets us insure student/faculty contact early in the program, as well as providing an opportunity to introduce engineering concepts and practices early in each student's program of study. This paper discusses the seminar's current incarnation. In particular, we focus on those aspects of the course which help students identify with software engineering as a profession. The challenge we face is achieving this\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Concolic Code Clone Detection",
+        "id": "Y9IZTE0AAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "DE Krutz"
+        ],
+        "pub_source": "PhD thesis, Nova Southeastern University",
+        "pub_date": "2012",
+        "citations": 2
+    },
+    {
+        "title": "How to Group Crashes Effectively: Comparing Manually and Automatically Grouped Crash Dumps",
+        "id": "Y9IZTE0AAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Wei Le",
+            "Daniel Krutz"
+        ],
+        "pub_source": "Technical Report Rochester institute of technology",
+        "pub_date": "2012",
+        "description": "Crash dumps have become an important source for software developers to learn quality issues in released software. Since a same bug can be repeatedly triggered by different users, an overwhelming number of crash dumps are returned daily. Techniques for automatically grouping crash dumps are mostly based on call stacks captured at crash sites; although fast, they can incorrectly group irrelevant crash dumps or miss related crash dumps. The goal of this paper is to compare manually and automatically grouped crash dumps and discover grouping criteria that are effectively used in manual diagnosis but lacking in automatic tools, from which we potentially enable more precise and capable crash diagnostic tools. In our study, we compared a total of 1,550 groups and 30,431 crash dumps from 5 Mozilla applications. We find that 1) call stacks are more dissimilar from each other in manual groups, as besides\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Author Preprint",
+        "id": "Y9IZTE0AAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Patrick McAfee",
+            "Mohamed Wiem Mkaouer",
+            "Daniel E Krutz"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Like all software systems, Android applications are not immune to bugs, security vulnerabilities, and a wide range of other runtime errors. Concolic analysis, a hybrid software verification technique which performs symbolic execution along with a concrete execution path, has been used for a variety of purposes including software testing, code clone detection, and security-related activities. We created a new publicly available concolic analysis tool for analyzing Android applications: Concolic Android TEster (CATE). Building on Java Path Finder (JPF-SPF), this tool performs concolic analysis on a raw Android application file (or source code) and provides output in a useful and easy to understand format."
+    },
+    {
+        "title": "Author Preprint",
+        "id": "Y9IZTE0AAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Colton Dennis",
+            "Daniel E Krutz",
+            "Mohamed Wiem Mkaouer"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Android is built upon a permission-based structure, where apps require access to specific permissions in order to carry out specific functionalities. While Android has provided a set of best practices intended to aid the developer in properly defining and manipulating these permissions on their source code, developers do not always adhere to these guidelines. Although some of the resulting issues may be minor and lead to slight user confusion, other mistakes may create more serious privacy and security related issues. We\u2019ve defined improper usage of these permission best practices to be permission smells to indicate possible permissions related syntactic issues and have created a tool P-Lint to assist in the identification of these smells on the source code. P-Lint\u2019s goal is to not only help developers create better, more secure apps by providing guidance on properly using permissions, but also in allowing researchers to better understand the common permission smells through empirical analysis on existing apps. P-Lint is publicly available on the project website: https://p-lint. github. io"
+    },
+    {
+        "title": "SEAD 2018",
+        "id": "Y9IZTE0AAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Laurie Williams",
+            "Pete Rotella",
+            "Laurens Sion",
+            "Koen Yskout",
+            "Dimitri Van Landuyt",
+            "Anthony Peruma",
+            "Daniel Krutz"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Table of Contents Toggle navigation IEEE Computer Society Digital Library Jobs Tech News \nResource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE \nComputer Society Digital Library My Subscriptions Magazines Journals Conference \nProceedings Institutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News \nResource Center Press Room Advertising About Us Cart All Advanced Search Conference \nCover Image Download 1.Home 2.Proceedings 3.sead 2018 Table of Contents 2018, pp. 5-6, \nDOI Bookmark: 10.23919/SEAD.2018.8472841 Keywords Authors Abstract Presents the table \nof contents/splash page of the proceedings record. 2018 ACM/IEEE 1stInternational Workshop \nonSecurity Awareness from Designto DeploymentSEAD 2018 Table of Contents Message from \nthe ICSE 2018 General Chair viiMessage from the SEAD 2018 Chairs xProgram Committee for \u2026"
+    },
+    {
+        "title": "ICCAC 2016 Conference Organization",
+        "id": "Y9IZTE0AAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Y9IZTE0AAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Naveen Sharma",
+            "Indranil Gupta",
+            "Yixin Diao",
+            "Daniel Krutz",
+            "Sameh Elnikety",
+            "Youssif Al-Nashif",
+            "Yaser Jaraweh",
+            "Cihan Tunc",
+            "Pradeep Murukannaiah",
+            "Simon Dobson",
+            "Geoffrey Fox",
+            "Salim Hariri",
+            "Soonwook Hwang",
+            "Manish Parashar",
+            "S Masoud Sadjadi",
+            "Vladimir Vlassov"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Provides a listing of current committee members and society officers."
+    }
+]

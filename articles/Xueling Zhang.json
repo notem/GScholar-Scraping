@@ -1,0 +1,107 @@
+[
+    {
+        "title": "DAISY: Dynamic-Analysis-Induced Source Discovery for Sensitive Data",
+        "id": "a_smy2wAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=a_smy2wAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Xueling Zhang",
+            "John Heaps",
+            "Rocky Slavin",
+            "Jianwei Niu",
+            "Travis Breaux",
+            "Xiaoyin Wang"
+        ],
+        "pub_source": "ACM Transactions on Software Engineering and Methodology",
+        "pub_date": "2023/5/27",
+        "description": "Mobile apps are widely used and often process users\u2019 sensitive data. Many taint analysis tools have been applied to analyze sensitive information flows and report data leaks in apps. These tools require a list of sources (where sensitive data is accessed) as input, and researchers have constructed such lists within the Android platform by identifying Android API methods that allow access to sensitive data. However, app developers may also define methods or use third-party library\u2019s methods for accessing data. It is difficult to collect such source methods, because they are unique to the apps, and there are a large number of third-party libraries available on the market that evolve over time. To address this problem, we propose DAISY, a Dynamic-Analysis-Induced Source discoverY approach for identifying methods that return sensitive information from apps and third-party libraries. Trained on an automatically labeled\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Predart: Towards automatic oracle prediction of object placements in augmented reality testing",
+        "id": "a_smy2wAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=a_smy2wAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Tahmid Rafi",
+            "Xueling Zhang",
+            "Xiaoyin Wang"
+        ],
+        "pub_source": "Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering",
+        "pub_date": "2022/10/10",
+        "description": "While the emerging Augmented Reality (AR) technique allows a lot of new application opportunities, from education and communication to gaming, current augmented apps often have complaints about their usability and/or user experience due to placement errors of virtual objects. Therefore, identifying noticeable placement errors is an important goal in the testing of AR apps. However, placement errors can only be perceived by human beings and may need to be confirmed by multiple users, making automatic testing very challenging. In this paper, we propose PredART, a novel approach to predict human ratings of virtual object placements that can be used as test oracles in automated AR testing. PredART is based on automatic screenshot sampling, crowd sourcing, and a hybrid neural network for image regression. The evaluation on a test set of 480 screenshots shows that our approach can achieve an\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "A study of user privacy in Android mobile AR apps",
+        "id": "a_smy2wAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=a_smy2wAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Xiaoyi Yang",
+            "Xueling Zhang"
+        ],
+        "pub_source": "Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering",
+        "pub_date": "2022/10/10",
+        "description": "With the development of augmented reality (AR) technology, the use of mobile AR applications (MAR apps) is rising rapidly in various aspects of people\u2019s everyday lives, such as games, shopping, and education. When compared to traditional apps, AR apps typically need access to the smartphone\u2019s camera all the time and collect and analyze significantly more data, such as sensor data, geolocation, and biometric information. Due to the sensitivity and volume of data collected by MAR apps, new privacy concerns are raised. In this paper, we describe a preliminary empirical study of Android MAR apps in terms of the sensitive data collected by MAR apps, whether the collected data is well protected, and whether the data practice is publicly available so that users can learn about the data safety and make informed decisions when deciding which apps to install. In this study, we analyzed 390 real-world MAR apps and\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "ConDySTA: Context-Aware Dynamic Supplement to Static Taint Analysis",
+        "id": "a_smy2wAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=a_smy2wAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Xueling Zhang",
+            "Xiaoyin Wang",
+            "Rocky Slavin",
+            "Jianwei Niu"
+        ],
+        "pub_source": "2021 IEEE 42nd Symposium on Security and Privacy (S&P)",
+        "pub_date": "2021",
+        "description": "Static taint analyses are widely-applied techniques to detect taint flows in software systems. Although they are theoretically conservative and de-signed to detect all possible taint flows, static taint analyses almost always exhibit false negatives due to a variety of implementation limitations. Dynamic programming language features, inaccessible code, and the usage of multiple programming languages in a software project are some of the major causes. To alleviate this problem, we developed a novel approach, DySTA, which uses dynamic taint analysis results as additional sources for static taint analysis. However, na\u00efvely adding sources causes static analysis to lose context sensitivity and thus produce false positives. Thus, we developed a hybrid context matching algorithm and corresponding tool, ConDySTA, to preserve context sensitivity in DySTA. We applied REPRODROID [1], a comprehensive benchmarking\u00a0\u2026",
+        "citations": 23
+    },
+    {
+        "title": "How does misconfiguration of analytic services compromise mobile privacy?",
+        "id": "a_smy2wAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=a_smy2wAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Xueling Zhang",
+            "Xiaoyin Wang",
+            "Rocky Slavin",
+            "Travis Breaux",
+            "Jianwei Niu"
+        ],
+        "pub_source": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+        "pub_date": "2020/6/27",
+        "description": "Mobile application (app) developers commonly utilize analytic services to analyze their app users' behavior to support debugging, improve service quality, and facilitate advertising. Anonymization and aggregation can reduce the sensitivity of such behavioral data, therefore analytic services often encourage the use of such protections. However, these protections are not directly enforced so it is possible for developers to misconfigure the analytic services and expose personal information, which may cause greater privacy risks. Since people use apps in many aspects of their daily lives, such misconfigurations may lead to the leaking of sensitive personal information such as a users' real-time location, health data, or dating preferences. To study this issue and identify potential privacy risks due to such misconfigurations, we developed a semi-automated approach, Privacy-Aware Analytics Misconfiguration Detector\u00a0\u2026",
+        "citations": 27
+    },
+    {
+        "title": "Privacy assurance for android augmented reality apps",
+        "id": "a_smy2wAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=a_smy2wAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Xueling Zhang",
+            "Rocky Slavin",
+            "Xiaoyin Wang",
+            "Jianwei Niu"
+        ],
+        "pub_source": "2019 IEEE 24th Pacific Rim International Symposium on Dependable Computing (PRDC)",
+        "pub_date": "2019/12/1",
+        "description": "Augmented Reality (AR) is an emerging technique that enriches real environment with virtual information objects. Despite its wide application scenarios, AR techniques also raise concerns on its dependability, especially on the privacy protection of the users and of the people appearing in users' eyesight. In our research, we performed a case study on the mostly popular augmented reality Android app: Google Translate. In this paper, we report our major findings in the case study, and propose potential mechanism to detect unnecessary privacy leaks in Android augmented reality apps.",
+        "citations": 16
+    },
+    {
+        "title": "Toward a reliability measurement framework automated using deep learning",
+        "id": "a_smy2wAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=a_smy2wAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "John Heaps",
+            "Xueling Zhang",
+            "Xiaoyin Wang",
+            "Travis Breaux",
+            "Jianwei Niu"
+        ],
+        "pub_source": "Proceedings of the 6th Annual Symposium on Hot Topics in the Science of Security",
+        "pub_date": "2019/4/1",
+        "description": "We propose a framework to detect software bugs based on code pattern detection. Our framework will mine and generate bug patterns, detect those patterns in code, and calculate a vulnerability measure of software. While our framework performs well, we realize that it requires heavy manual tasks that render the framework infeasible to use in practice. However, we believe that recent advancements in machine learning will allow us to apply deep learning techniques to source code, which will help automate our framework for better practicality in the real world."
+    }
+]

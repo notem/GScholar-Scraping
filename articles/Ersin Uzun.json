@@ -1,0 +1,1689 @@
+[
+    {
+        "title": "System for privacy-preserving monetization of big data and method for using the same",
+        "id": "-sf4IhMAAAAJ:K3LRdlH-MEoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:K3LRdlH-MEoC",
+        "authors": [
+            "J Freudiger",
+            "S Rane",
+            "AE Brito",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 11,088,834",
+        "pub_date": "2021/8/10",
+        "description": "The current invention provides a system and method for Data Owners to share with Data Seekers extracted insights from the Big Data, instead of raw data or anonymized raw data, thus reducing or eliminating privacy concerns on the data owned by the Data Owners. An Oblivious Pseudo Random Function (OPRF) is used, with operations using OPRFs occur over encrypted data, thus Data Owners learn only the primary object from Data Seeker and nothing else about the remainder of Data Owners' data. Similarly, Data Seeker learns a list of associated secondary objects and nothing else about Data Owners' data. The extent of sharing can be limited using a predefined threshold depending how much private information Data Owner is willing to share or Data Seeker is willing to pay."
+    },
+    {
+        "title": "System and architecture for analytics on encrypted databases",
+        "id": "-sf4IhMAAAAJ:ZfRJV9d4-WMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:ZfRJV9d4-WMC",
+        "authors": [
+            "S Rane",
+            "V Bindschaedler",
+            "AE Brito",
+            "E Uzun",
+            "V Rao"
+        ],
+        "pub_source": "US Patent 10,846,423",
+        "pub_date": "2020/11/24",
+        "description": "A method is provided for generating an encrypted database. The method includes: receiving a plaintext database having plaintext data entries therein; and generating an encrypted database using the plaintext database, the encrypted database including encrypted data entries therein. The encrypted database is configured to support at least one form of conditional query such that the at least one form of conditional query returns a correct encrypted result when the query is computed on the encrypted data entries without the decryption thereof.",
+        "citations": 1
+    },
+    {
+        "title": "System and architecture for supporting analytics on encrypted databases",
+        "id": "-sf4IhMAAAAJ:_Re3VWB3Y0AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:_Re3VWB3Y0AC",
+        "authors": [
+            "S Rane",
+            "V Bindschaedler",
+            "AE Brito",
+            "E Uzun",
+            "V Rao"
+        ],
+        "pub_source": "US Patent 10,783,263",
+        "pub_date": "2020/9/22",
+        "description": "A method is provided for generating an encrypted database. The method includes: receiving a plaintext database having plaintext data entries in one or more columns; augmenting the received plaintext database to generate an augmented plaintext database, the augmenting including the addition of one or more columns to the received plaintext database, each added column corresponding to an attribute which is to be made available for conditional queries; and encrypting the augmented plaintext database to generate the encrypted database including encrypted data entries. The encrypted database supports at least one form of conditional query for those attributes corresponding to the added columns, the at least one form of conditional query being computed on the encrypted data entries without the decryption thereof to produce an encrypted result.",
+        "citations": 1
+    },
+    {
+        "title": "Computer-implemented system and method for protecting sensitive data via data re-encryption",
+        "id": "-sf4IhMAAAAJ:EkHepimYqZsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:EkHepimYqZsC",
+        "authors": [
+            "RAO Vanishree",
+            "S Rane",
+            "E Uzun",
+            "AE Brito"
+        ],
+        "pub_source": "",
+        "pub_date": "2020/4/15",
+        "description": "H04L63/0428\u2014Network architectures or network communication protocols for network security for providing a confidential data exchange among entities communicating through data packet networks wherein the data content is protected, eg by encrypting or encapsulating the payloadH04L63/0464\u2014Network architectures or network communication protocols for network security for providing a confidential data exchange among entities communicating through data packet networks wherein the data content is protected, eg by encrypting or encapsulating the payload using hop-by-hop encryption, ie wherein an intermediate entity decrypts the information and re-encrypts it before forwarding it"
+    },
+    {
+        "title": "Computer-implemented system and method for analyzing data quality",
+        "id": "-sf4IhMAAAAJ:tOudhMTPpwUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:tOudhMTPpwUC",
+        "authors": [
+            "J Freudiger",
+            "S Rane",
+            "AE Brito",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 10,462,107",
+        "pub_date": "2019/10/29",
+        "description": "A computer-implemented system and method for analyzing data quality is provided. Attributes each associated with one or more elements are maintained. A request from a user is received for determining data quality of at least one attribute based on an interest vector having a listing of the elements of that attribute and a selection of elements of interest. Each element is encrypted. A condensed vector having the same listing of elements as the interest vector is populated with occurrence frequencies for each of the listed elements. The elements of the condensed vector are encrypted by computing an encrypted product of each element in the condensed vector and the corresponding element of the interest vector. An aggregate is determined based on the encrypted products of each element of the interest vector and the corresponding element of the condensed vector. The aggregate is provided as results of the data\u00a0\u2026"
+    },
+    {
+        "title": "In content we trust: Network-layer trust in content-centric networking",
+        "id": "-sf4IhMAAAAJ:uJ-U7cs_P_0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:uJ-U7cs_P_0C",
+        "authors": [
+            "Cesar Ghali",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "IEEE/ACM Transactions on Networking",
+        "pub_date": "2019/8/26",
+        "description": "Content-Centric Networking (CCN), an instance of information-centric networking, is a candidate next-generation Internet architecture that emphasizes on content distribution by making it directly addressable and routable. By opportunistically caching content within the network, CCN appears to be well-suited for a large-scale content distribution and for meeting the needs of increasingly mobile and bandwidth-hungry applications that dominate today's Internet. To provide content authentication, CCN dictates that each content object must be digitally signed by its respective producer. All entities (consumers and routers) must, in principle, verify the content signature before processing it. However, in practice, this poses two challenges for routers: (1) overhead due to signature verification, key retrieval, and potential certificate chain traversal; and (2) lack of trust context, i.e., determining which public keys are trusted to\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Method and system for privacy-preserving order statistics in a star network",
+        "id": "-sf4IhMAAAAJ:bnK-pcrLprsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:bnK-pcrLprsC",
+        "authors": [
+            "S Rane",
+            "AE Brito",
+            "VH Rao",
+            "E Uzun",
+            "VC Bindschadler"
+        ],
+        "pub_source": "US Patent 10,356,056",
+        "pub_date": "2019/7/16",
+        "description": "One embodiment provides a system that facilitates privacy-preserving order statistics. The system receives, by a first device from a second device, a second value associated with the second device perturbed by a random value. The system determines a first difference between a first value associated with the first device, and the second value. The system encrypts a second difference between the first difference and the random value. Subsequent to transmitting the encrypted second difference, the system receives a sign of a first integer and a ciphertext. The system decrypts the ciphertext to obtain a third value which indicates the first difference scaled based on the first integer, wherein the scaled first difference is perturbed by a second integer. The system determines, based on the sign of the first integer and a sign of the third value, whether the first value is greater than or less than the second value.",
+        "citations": 1
+    },
+    {
+        "title": "Method for differentially private aggregation in a star topology under a realistic adversarial model",
+        "id": "-sf4IhMAAAAJ:V3AGJWp-ZtQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:V3AGJWp-ZtQC",
+        "authors": [
+            "S Rane",
+            "V Bindschaedler",
+            "AE Brito",
+            "E Uzun",
+            "V Rao"
+        ],
+        "pub_source": "US Patent 10,223,547",
+        "pub_date": "2019/3/5",
+        "description": "One embodiment provides a system for noise addition to enforce data privacy protection in a star network. In operation, participants may add a noise component to a dataset. An aggregator may receive the noise components from the plurality of participants, compute an overall noise term based on the received noise components, and aggregate values using the noise components and overall noise term.",
+        "citations": 33
+    },
+    {
+        "title": "System for key exchange in a content centric network",
+        "id": "-sf4IhMAAAAJ:BrmTIyaxlBUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:BrmTIyaxlBUC",
+        "authors": [
+            "CA Wood",
+            "ME Mosko",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 10,129,230",
+        "pub_date": "2018/11/13",
+        "description": "One embodiment provides a system that facilitates secure communication between computing entities. During operation, the system generates, by a content-consuming device, a first key based on a first consumer-share key and a previously received producer-share key. The system constructs a first interest packet that includes the first consumer-share key and a nonce token which is used as a pre-image of a previously generated first nonce, wherein the first interest has a name that includes a first prefix, and wherein the first nonce is used to establish a session between the content-consuming device and a content-producing device. In response to the nonce token being verified by the content-producing device, the system receives a first content-object packet with a payload that includes a first resumption indicator encrypted based on a second key. The system generates the second key based on a second consumer\u00a0\u2026"
+    },
+    {
+        "title": "System and method for parallel secure content bootstrapping in content-centric networks",
+        "id": "-sf4IhMAAAAJ:J-pR_7NvFogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:J-pR_7NvFogC",
+        "authors": [
+            "I Solis",
+            "GC Scott",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 10,104,092",
+        "pub_date": "2018/10/16",
+        "description": "One embodiment of the present invention provides a system for retrieving a content collection over a network. During operation, the system determines additional information associated with the piece of content that is needed for consumption of the content collection; generates a plurality of Interests, which includes at least one Interest for a catalog of the content collection and at least one Interest for the additional information; and forwards, concurrently, the plurality of Interests, thereby facilitating parallel retrieval of the content collection and the additional information.",
+        "citations": 1
+    },
+    {
+        "title": "Fault-tolerant aggregation of encrypted data in a star network",
+        "id": "-sf4IhMAAAAJ:eflP2zaiRacC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:eflP2zaiRacC",
+        "authors": [
+            "S Rane",
+            "AE Brito",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 10,069,631",
+        "pub_date": "2018/9/4",
+        "description": "One embodiment provides a system that facilitates encrypted-domain aggregation of data in a star network. During operation, the system receives a set of ciphertexts, representing respective encrypted polynomial shares, of an input value from each participant in a plurality of participants. Each ciphertext in the set of ciphertexts is associated with a specific participant in the plurality of participants. The system computes an encrypted partial value for each participant by aggregating in the encrypted-domain a respective ciphertext associated with that participant received from the plurality of participants and sends a message comprising the encrypted partial value to that participant. This encrypted partial value is encrypted based on a public key of a corresponding participant. The system receives a decrypted partial value from each participant and computes a target value based on a set of decrypted partial values\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Interest return control message",
+        "id": "-sf4IhMAAAAJ:pyW8ca7W8N0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:pyW8ca7W8N0C",
+        "authors": [
+            "ME Mosko",
+            "I Solis",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,959,156",
+        "pub_date": "2018/5/1",
+        "description": "One embodiment provides a system that facilitates processing of error-condition information associated with a content-centric network (CCN) message transmitted over a network. During operation, the system receives, by a first node, a packet that corresponds to a CCN message, where a name for the CCN message is a hierarchically structured variable length identifier (HSVLI) which comprises contiguous name components ordered from a most general level to a most specific level. Responsive to determining that the CCN message triggers an error condition, the system generates an interest return message by pre-pending a data structure to the CCN message, where the data structure indicates the error condition. The system transmits the interest return message to a second node.",
+        "citations": 11
+    },
+    {
+        "title": "Content-based transport security",
+        "id": "-sf4IhMAAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "ME Mosko",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,954,678",
+        "pub_date": "2018/4/24",
+        "description": "A computer system can send a secure request over a named-data network to a remote device by generating an Interest with encrypted name components. During operation, the computer system can receive or obtain a request for data, such as from a local user or from a local application. If the system cannot satisfy the request locally, the system can determine at least a routable prefix and a name suffix associated with the request. The system can generate the secure Interest for the request by determining an encryption key that corresponds to a session with the remote computer system, and encrypts the name suffix using the session encryption key. The system then generates an Interest whose name includes the routable prefix and the encrypted name suffix, and disseminates the Interest over a named-data network to send the request to the remote computer system.",
+        "citations": 23
+    },
+    {
+        "title": "Methods for fast, secure and privacy-friendly internet connection discovery in wireless networks",
+        "id": "-sf4IhMAAAAJ:eJXPG6dFmWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:eJXPG6dFmWUC",
+        "authors": [
+            "JF Freudiger",
+            "AE Brito",
+            "S Rane",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,949,301",
+        "pub_date": "2018/4/17",
+        "description": "A method and system for verifying Internet connectivity at an access point in a fast, secure, and privacy-friendly manner. During operation, the system may perform passive network discovery, challenge response discovery, and/or active discovery to verify Internet connectivity for a mobile device. Passive network discovery involves the mobile device using a public key of a server to decrypt a time value to verify Internet connectivity. The mobile device receives the encrypted time value as part of the server's signed timing information in an overloaded WiFi beacon frame. Challenge response discovery involves the mobile device sending an encrypted challenge to servers, and a server returns a correct response to the challenge to confirm Internet connectivity. Active discovery involves a mobile device sending HTTP GET requests to a randomly selected set of servers without including a user agent, and a server may send\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "System and method for efficient and semantically secure symmetric encryption over channels with limited bandwidth",
+        "id": "-sf4IhMAAAAJ:8AbLer7MMksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:8AbLer7MMksC",
+        "authors": [
+            "JF Freudiger",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,929,863",
+        "pub_date": "2018/3/27",
+        "description": "One embodiment of the present invention provides a system for enhancing security in a secure communication channel. During operation, the system collects contextual information associated with a mobile device or a user of the mobile device and determines whether a trigger condition is met based on the collected contextual information. In response to determining that the trigger condition is met, the system performs a first type of key-ratcheting operation on a current cryptographic key to update the cryptographic key. In response to determining that the trigger condition is not met, the system performs a second type of key-ratcheting operation on the current cryptographic key to update the cryptographic key. The system then encrypts a to-be-sent message using an encryption key associated with the updated cryptographic key.",
+        "citations": 10
+    },
+    {
+        "title": "Computer-implemented system and method for automatically identifying attributes for anonymization",
+        "id": "-sf4IhMAAAAJ:sSrBHYA8nusC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:sSrBHYA8nusC",
+        "authors": [
+            "J Freudiger",
+            "S Rane",
+            "AE Brito",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,858,426",
+        "pub_date": "2018/1/2",
+        "description": "A computer-implemented system and method for automatically identifying attributes for anonymization is provided. A dataset of attributes is accessed. Each attribute in the dataset is associated with a plurality of values. The values of the dataset are encrypted and the attributes are processed by assigning a sensitivity level to each of the attributes. One or more of the attributes are selected from the dataset for anonymization based on the assigned sensitivity levels.",
+        "citations": 24
+    },
+    {
+        "title": "Computer-implemented system and method for anonymizing encrypted data",
+        "id": "-sf4IhMAAAAJ:B3FOqHPlNUQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:B3FOqHPlNUQC",
+        "authors": [
+            "J Freudiger",
+            "AE Brito",
+            "S Rane",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,842,215",
+        "pub_date": "2017/12/12",
+        "description": "A computer-implemented system and method for anonymizing encrypted data is provided. At least one attribute is identified within a dataset for anonymization and is associated with a plurality of data values. Each data value is encrypted for each identified attribute while maintaining an order of the encrypted data values. The encrypted values are ordered and the ordered encrypted data values are segmented into two or more classes based on the ordering of the encrypted data values. A range of the encrypted data values within each of the segmented classes is identified and the range of one of the classes is assigned to each encrypted data value within that class as anonymized data.",
+        "citations": 10
+    },
+    {
+        "title": "Methods for selection of collaborators for online threat mitigation",
+        "id": "-sf4IhMAAAAJ:u_35RYKgDlwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:u_35RYKgDlwC",
+        "authors": [
+            "JF Freudiger",
+            "E De Cristofaro",
+            "AE Brito",
+            "MW Bern",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,817,977",
+        "pub_date": "2017/11/14",
+        "description": "One embodiment of the present invention provides a system for stable selection of collaborating partners for exchanging security data. During operation, the system receives vectors of collaboration values from a plurality of entities. A collaboration value is a measure of an expected benefit of collaborating with a respective entity. The system sorts each of the vectors by the collaboration values of the respective vector. The system then determines matching entities given a number of partners wanted by each organization in N. The system may add matching entities to lists of collaborating partners given the number of partners wanted by each organization in N. Subsequently, the system sends the lists of collaborating partners to facilitate exchanging security data with partners in the list of collaborating partners.",
+        "citations": 3
+    },
+    {
+        "title": "System for key exchange in a content centric network",
+        "id": "-sf4IhMAAAAJ:geHnlv5EZngC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:geHnlv5EZngC",
+        "authors": [
+            "CA Wood",
+            "ME Mosko",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,794,238",
+        "pub_date": "2017/10/17",
+        "description": "(Continued) Primary Examiner\u2014Baotran N To Assistant Examiner\u2014Sayed Beheshti Shirazi (57) ABSTRACT One embodiment provides a system that facilitates secure communication between computing entities. During opera tion, the system generates, by a content-consuming device, a first key based on a first consumer-share key and a previously received producer-share key. The system con structs a first interest packet that includes the first consumer share key and a nonce token which is used as a pre-image of a previously generated first nonce, wherein the first interest has a name that includes a first prefix, and wherein the first nonce is used to establish a session between the content consuming device and a content-producing device. In response to the nonce token being verified by the content producing device, the system receives a first content-object packet with a payload that includes a first resumption\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "Closing the floodgate with stateless content-centric networking",
+        "id": "-sf4IhMAAAAJ:fQNAKQ3IYiAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:fQNAKQ3IYiAC",
+        "authors": [
+            "Cesar Ghali",
+            "Gene Tsudik",
+            "Ersin Uzun",
+            "Christopher A Wood"
+        ],
+        "pub_source": "2017 26th International Conference on Computer Communication and Networks (ICCCN)",
+        "pub_date": "2017/7/31",
+        "description": "Information-Centric Networking (ICN) is a recent paradigm that claims to mitigate some limitations of the current IP-based Internet architecture. The centerpiece of ICN is named and addressable content, rather than hosts or interfaces. Content-Centric Networking (CCN) is a prominent ICN instance that shares the fundamental architectural design with its equally popular academic sibling Named- Data Networking (NDN). CCN eschews source addresses and creates one-time virtual circuits for every content request (called an interest). As an interest is forwarded it creates state in intervening routers and the requested content back is delivered over the reverse path using that state. Although a stateful forwarding plane might be beneficial in terms of efficiency and resilience to certain types of attacks, this has not been decisively proven via realistic experiments. Since keeping per-interest state complicates router\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "System and method for parallel secure content bootstrapping in content-centric networks",
+        "id": "-sf4IhMAAAAJ:D03iK_w7-QYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:D03iK_w7-QYC",
+        "authors": [
+            "I Solis",
+            "GC Scott",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,699,198",
+        "pub_date": "2017/7/4",
+        "description": "2014/0172981 A1 6, 2014 Kim WO 03091297 A1 11, 2003 2014/0173034 A1 6, 2014 Liu WO 2007 113180 A1 10, 2007 2014/0173076 A1 6/2014 Ravindran WO 200712262O 11/2007 2014/O181140 A1 6, 2014 Kim WO 2007 144388 A1 12/2007 2014/O192677 A1 7, 2014 Chew WO 201104989.0 A1 4, 2011 2014, 0192717 A1 7, 2014 Liu WO 2012O77073 A1 6, 2012",
+        "citations": 3
+    },
+    {
+        "title": "Mobile sessions in content-centric networks",
+        "id": "-sf4IhMAAAAJ:LPZeul_q3PIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:LPZeul_q3PIC",
+        "authors": [
+            "Marc Mosko",
+            "Ersin Uzun",
+            "Christopher A Wood"
+        ],
+        "pub_source": "2017 IFIP Networking Conference (IFIP Networking) and Workshops",
+        "pub_date": "2017/6/12",
+        "description": "Content-centric networking (CCN) is a network architecture for transferring named data from producers to consumers upon request. This shifts security from that of a connection or channel to the content itself. There remains, however, many critical uses for the traditional client-server communication model with secure sessions. For instance, in many CCN applications, producers need a way to transfer key material or secret information to consumers. Not only does caching this content fail to serve multiple consumers, encrypting it under long-term, static keys does not afford them any forward secrecy. Consequently, there is a real and present need for a CCN-friendly protocol whose security properties meet or exceed similar transport security protocols in IP networks. In this paper, we present the design and implementation of the CCNx Key Exchange Protocol - CCNxKE - the first protocol design for bootstrapping\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Achieving differential privacy in secure multiparty data aggregation protocols on star networks",
+        "id": "-sf4IhMAAAAJ:4fKUyHm3Qg0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:4fKUyHm3Qg0C",
+        "authors": [
+            "Vincent Bindschaedler",
+            "Shantanu Rane",
+            "Alejandro E Brito",
+            "Vanishree Rao",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Proceedings of the Seventh ACM on Conference on Data and Application Security and Privacy",
+        "pub_date": "2017/3/22",
+        "description": "We consider the problem of privacy-preserving data aggregation in a star network topology, i.e., several untrusting participants connected to a single aggregator. We require that the participants do not discover each other's data, and the service provider remains oblivious to each participant's individual contribution. Furthermore, the final result is to be published in a differentially private manner, i.e., the result should not reveal the contribution of any single participant to a (possibly external) adversary who knows the contributions of all other participants. In other words, we require a secure multiparty computation protocol that also incorporates a differentially private mechanism. Previous solutions have resorted to caveats such as postulating a trusted dealer to distribute keys to the participants, or introducing additional entities to withhold the decryption key from the aggregator, or relaxing the star topology by allowing\u00a0\u2026",
+        "citations": 36
+    },
+    {
+        "title": "Portable proxy for security management and privacy protection and method of use",
+        "id": "-sf4IhMAAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:rO6llkc54NcC",
+        "authors": [
+            "J Freudiger",
+            "E Uzun",
+            "E De Cristofaro",
+            "G Sarwar"
+        ],
+        "pub_source": "US Patent 9,578,062",
+        "pub_date": "2017/2/21",
+        "description": "A portable proxy for security management and privacy protection and methods of use are provided. The proxy establishes a connection to a user device. The proxy also establishes a secure connection to a virtual private network (VPN), performs authentication of the proxy to the VPN, and upon successful completion of the proxy authentication provides access to the VPN through the secure connection user credentials. Once the VPN accepts the credentials, the proxy routes at least a portion of Internet traffic between the user device and the VPN through the secure connection and the connection to the user device. The proxy can also establish a secure connection to an anonymizing service and route all Internet traffic of the user device through the anonymizing service using the secure connection and the connection to the user device.",
+        "citations": 18
+    },
+    {
+        "title": "Access control framework for information centric networking",
+        "id": "-sf4IhMAAAAJ:738O_yMBCRsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:738O_yMBCRsC",
+        "authors": [
+            "E Uzun",
+            "J Kurihara",
+            "CA Wood"
+        ],
+        "pub_source": "US Patent 9,552,493",
+        "pub_date": "2017/1/24",
+        "description": "US 2016/0224799 A1 Aug. 4, 2016(57) ABSTRACT One embodiment provides an access-control framework for (51) Int. Cl. publishing and obtaining a collection of encrypted data in H04L 9/00(2006.01) encrypted form. During operation, a content consumer can G06F2L/62(2013.01) obtain a Manifest object for a data collection, such that the H04L 29/06(2006.01) Manifest includes references to a set of encrypted Content HO4L 29/08(2006.01) Objects of the data collection, and includes one or more (52) US Cl. Access Control Specifications (ACS) that each specifies a CPC....... G06F 21/6227 (2013.01); H04L 63/0428 decryption protocol for decrypting one or more Content (2013.01); H04L 63/06 (2013.01); H04L 63/10 Objects of the data collection. The consumer can dissemi (2013.01); H04L 63/0442 (2013.01); H04L nate Interest messages to receive encrypted Content Objects67/2842 (2013.01) listed in the\u00a0\u2026",
+        "citations": 52
+    },
+    {
+        "title": "Can we make a cake and eat it too? A discussion of ICN security and privacy",
+        "id": "-sf4IhMAAAAJ:08ZZubdj9fEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:08ZZubdj9fEC",
+        "authors": [
+            "Edith Ngai",
+            "B\u00f6rje Ohlman",
+            "Gene Tsudik",
+            "Ersin Uzun",
+            "Matthias W\u00e4hlisch",
+            "Christopher A Wood"
+        ],
+        "pub_source": "ACM SIGCOMM Computer Communication Review",
+        "pub_date": "2017/1/17",
+        "description": "In recent years, Information-centric Networking (ICN) has received much attention from both academic and industry participants. ICN offers data-centric inter-networking that is radically different from today's host-based IP networks. Security and privacy features on today's Internet were originally not present and have been incrementally retrofitted over the last 35 years. As such, these issues have become increasingly important as ICN technology gradually matures towards real-world deployment. Thus, while ICN-based architectures (e.g., NDN, CCNx, etc.) are still evolving, it is both timely and important to explore ICN security and privacy issues as well as devise and assess possible mitigation techniques. This report documents the highlights and outcomes of the Dagstuhl Seminar 16251 on ``Information-centric Networking and Security.'' The goal of which was to bring together researchers to discuss and address\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Method and system for verifying renamed content using manifests in a content centric network",
+        "id": "-sf4IhMAAAAJ:u9iWguZQMMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:u9iWguZQMMsC",
+        "authors": [
+            "I Solis",
+            "ME Mosko",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,536,059",
+        "pub_date": "2017/1/3",
+        "description": "One embodiment provides a system that facilitates redistri bution of content objects with a different name without requiring re-computation of the original authentication information. During operation, the system determines, by a content producing device, an original manifest which indi cates at least an original name associated with a content object, wherein the name is a hierarchically structured variable length identifier (HSVLI) which comprises contigu ous name components ordered from a most general level to a most specific level. The system renames the content object with a new name. The system also creates a new manifest which indicates the new name, wherein the new manifest includes original authentication information associated with the original manifest.",
+        "citations": 79
+    },
+    {
+        "title": "Content-based transport security for distributed producers",
+        "id": "-sf4IhMAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "E Uzun",
+            "ME Mosko"
+        ],
+        "pub_source": "US Patent 9,531,679",
+        "pub_date": "2016/12/27",
+        "description": "2009/03004O7 2009/0307333 2009.0323632 2010.0005061 2010, 0046546 2010.0057929 2010, OO88370 2010/0098093 2010, 0103870 2010, 0124.191 2010, 0131660 2010, 0169503 2010, 0180332 2010.0182995 2010/O195653 2010/O195654 2010/O195655 2010, O232402 2010, O232439 2010/0235516 2010, O2SO939 2010/0268782 2010/0284309 2010/0284.404 2011/0022812 2011/0055392 2011/0090908 2011/0106755 2011/O145597 2011/O145858 2011 O153840 2011 O161408 2011/0202609 2011/0219427",
+        "citations": 9
+    },
+    {
+        "title": "Network coding for content-centric network",
+        "id": "-sf4IhMAAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "J Kurihara",
+            "E Uzun",
+            "JJ Garcia-Luna-Aceves"
+        ],
+        "pub_source": "US Patent 9,497,282",
+        "pub_date": "2016/11/15",
+        "description": "2012/O197690 2012fO198048 2012/O221150 2012fO224487 2012fO257500 2012fO2847. 91 2012fO290669 2012fO290919 2012/O291 102 2012/0314580 2012, 0317307 2012/0331112 2013, 004 1982 2013, 0051392 2013, 0060962 2013, 007 3552 2013, OO74155 2013, 009 1539 2013/0110987 2013/0111063 2013/O151584 2013, 0163426 2013, 0166668 2013/0173822 2013, 0182568 2013, 01854.06 2013/O197698 2013/O198119 2013/0219038 2013/0219081 2013/0219478 2013/0223237 2013, 0227166 2013, 0242996 2013, O250809 2013, 0282854 2013, 0282.860 2013/0282920 2013/0304937 2013, 0329696 2013/0336323 2013, 03434.08 2014, 0003232 2014/OOO6565 2014/OO29445 2014/OO32714 2014.? 004.0505 2014/OO74730 2014/OO75567 2014/OO82135 2014.0089454 2014/0096, 249 2014/0129736 2014/O136814 2014/O140348 2014.0143370 2014/O1468. 19 2014/O149733\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Methods for centralized privacy-preserving collaborative threat mitigation",
+        "id": "-sf4IhMAAAAJ:fPk4N6BV_jEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:fPk4N6BV_jEC",
+        "authors": [
+            "JF Freudiger",
+            "E De Cristofaro",
+            "AE Brito",
+            "MW Bern",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,477,839",
+        "pub_date": "2016/10/25",
+        "description": "One embodiment of the present invention provides a system to facilitate collaboration for mitigating network threats. During operation, the system receives encrypted data sets from a plurality of entities. The data sets including data describing threats to network security. The system performs privacy-preserving operations on the encrypted data sets, such as private set intersection. The system then computes one or more metrics based on results of the private set intersection computations. The system may generate a similarity matrix based on the one or more metrics, and returns one or more similarity values from the similarity matrix to one or more entities of the plurality of entities."
+    },
+    {
+        "title": "Low-cost authenticated signing delegation in content centric networking",
+        "id": "-sf4IhMAAAAJ:Tiz5es2fbqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:Tiz5es2fbqcC",
+        "authors": [
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,473,475",
+        "pub_date": "2016/10/18",
+        "description": "2013, 009 1539 2013/0110987 2013/0111063 2013/O151584 2013, 0163426 2013, 0166668 2013/0173822 2013, 0182568 2013, 01854.06 2013/O197698 2013/O198119 2013/0219038 2013/0219081 2013/0219478 2013/0223237 2013/0227166 2013, 0242996 2013, O250809 2013, 0282854 2013, 0282.860 2013/0282920 2013/0304937 2013, 0329696 2013/0336323 2013, 03434.08 2014, 0003232 2014/OOO6565 2014/OO29445 2014/OO32714 2014/0033193",
+        "citations": 14
+    },
+    {
+        "title": "Network-layer application-specific trust model",
+        "id": "-sf4IhMAAAAJ:WbkHhVStYXYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:WbkHhVStYXYC",
+        "authors": [
+            "E Uzun",
+            "CA Wood",
+            "ME Mosko"
+        ],
+        "pub_source": "US Patent 9,462,006",
+        "pub_date": "2016/10/4",
+        "description": "2013, 0060962 A1 3/2013 Wang EP 1077.422 A2 2, 2001 2013, 007 3552 A1 3/2013 Rangwala EP 1384, 729 A1 1, 2004 2013, OO74155 A1 3, 2013 Huh EP 21244.15 A2 11/2009 2013, 009 1539 A1 4/2013 Khurana EP 2214357 A1 8, 2010 2013/0110987 A1 5, 2013 Kim WO 0300.5288 A2 1, 2003 2013/0111063 A1 5, 2013 Lee WO O3O42254 A1 5, 2003 2013, O151584 A1 6/2013 Westphal WO O3O4. 9369 A2 6, 2003 2013, 0163426 A1 6, 2013 Beliveau WO 03091297 A1 11, 2003 2013, 0166668 A1 6/2013 Byun WO 2007 113180 A1 10, 2007 2013, 0173822 A1 7/2013 Hong WO 2007 144388 A1 12/2007 2013, 0182568 A1 7, 2013 Lee WO 201104989.0 A1 4, 2011 2013, 01854.06 A1 7, 2013 Choi 2013/O197698 A1 8, 2013 Shah 2013/0198119 A1 8/2013 Eberhardt, III OTHER PUBLICATIONS 2013/0219038 A1 8, 2013 Lee",
+        "citations": 9
+    },
+    {
+        "title": "Transaction verification on RFID enabled payment and transaction instruments",
+        "id": "-sf4IhMAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "G Tsudik",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,443,240",
+        "pub_date": "2016/9/13",
+        "description": "A display enabled RFID tag (DERT) receives transaction details from the reader. DERT verifies that the details match their counterparts in the reader public key certificate. The process is aborted in case of a mismatch. DERT extracts and displays user-verifiable data. It then enters a countdown stage that lasts for a predetermined duration. A user observes the transaction information and, if the transaction amount and other details are deemed correct, presses an accept button provided on the DERT before the timer runs out. DERT signs the time-stamped transaction statement and sends it to the reader. This signed statement is then sent to the payment gateway and eventually to the financial institution that issued the payment DERT.",
+        "citations": 1
+    },
+    {
+        "title": "Computer-implemented system and method for multi-party data function computing using discriminative dimensionality-reducing mappings",
+        "id": "-sf4IhMAAAAJ:XiSMed-E-HIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:XiSMed-E-HIC",
+        "authors": [
+            "S Rane",
+            "J Freudiger",
+            "AE Brito",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,438,412",
+        "pub_date": "2016/9/6",
+        "description": "Leonid Kisselev (57) ABSTRACT Computational overhead for private multiparty data function computation can be decreased by sharing parameters of dimensionality-reducing function between a client and a server, with both the client applying the function to a query vectors and the server applying the function to server vectors, both client and server creating embedded vectors. The client homomorphically encrypts the embedded query vector and provides the encrypted embedded query vector to the server. The server performs encrypted domain compu tations for an embedded vector processing function, each computation using the encrypted embedded query vector and one of the server embedded vectors as inputs for the function. The client receives encrypted computation results and identifies server vectors of interest using those results that are informative of a result of an application of an aggregate function to\u00a0\u2026",
+        "citations": 38
+    },
+    {
+        "title": "System and method for data quality analysis between untrusted parties",
+        "id": "-sf4IhMAAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "J Freudiger",
+            "S Rane",
+            "AE Brito",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,413,760",
+        "pub_date": "2016/8/9",
+        "description": "BACKGROUNDThe increase in computer use has resulted in an increase of available data. Companies are currently taking advantage of opportunities to monetize their data by selling or sharing their data with third parties, such as advertisers, and participating in collaborative data sharing initiatives, such as collaborative security. Transfer or sharing of the data can provide benefits to the data holder and well as the data recipient. For example, data holders, such as a social network, may provide their data to the data recipient in exchange for a monetary value, and the data recipient can utilize the data for providing a new service, starting a new company, or conducting research, among other opportunities.However, data often includes inconsistencies, conflicts, and errors, which can increase data processing costs and have a negative impact on data analytics. Thus, data recipients may end up spending more time and\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "System and method for efficient and secure distribution of digital content",
+        "id": "-sf4IhMAAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,407,432",
+        "pub_date": "2016/8/2",
+        "description": "One embodiment provides a system for processing encrypted content. During operation, a client computing device deter mines a request for content based on the identity of the user or the client computing device. Content is received which has been encrypted using a master encryption, where the master encryption key is not known to the client computing device. The client computing device generates an interest packet that includes a request for a user-specific re-encryption key, and, based on the information in the interest packet, receives a content object that includes the user-specific re-encryption key. The client computing device decrypts the master-en crypted content by: re-encrypting the master-encrypted con tent, using the user-specific re-encryption key to transform the master-encrypted content to a user-specific encrypted content; and decrypting the transformed user-specific encrypted content using a user\u00a0\u2026",
+        "citations": 20
+    },
+    {
+        "title": "Trust in information-centric networking: From theory to practice",
+        "id": "-sf4IhMAAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "Christian Tschudin",
+            "Ersin Uzun",
+            "Christopher A Wood"
+        ],
+        "pub_source": "2016 25th International Conference on Computer Communication and Networks (ICCCN)",
+        "pub_date": "2016/8/1",
+        "description": "We present the logical design of a trust engine for Information-Centric Networking (ICN) that is capable of efficiently and correctly verifying content integrity and authenticity. Our primary contribution is the synthesis and unified treatment of four different and popular trust models. We show in which operational aspects they vary and emphasize which parts of the verification mechanics are invariant. The verifier logic is expressed in Prolog to show its simplicity (abstracting away, e.g., procedural certification chain verification steps) and to highlight subtle errors that can occur in the use and enforcement of trust models. The details of an implementation of our trust engine in the CCNx network stack are presented to demonstrate its viability and general modularity. A simplistic interface enables the trust engine to be easily ported to any ICN-style network software. Finally, we demonstrate how application instantiations of\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "System and method for performing key resolution over a content centric network",
+        "id": "-sf4IhMAAAAJ:f2IySw72cVMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:f2IySw72cVMC",
+        "authors": [
+            "P Mahadevan",
+            "E Uzun",
+            "S Sevilla",
+            "JJ Garcia-Luna-Aceves"
+        ],
+        "pub_source": "US Patent 9,391,777",
+        "pub_date": "2016/7/12",
+        "description": "2012/0314580 2012, 0317307 2012/0331112 2013, 004 1982 2013, 0051392 2013, 0060962 2013, 007 3552 2013, OO74155 2013, 009 1539 2013/0110987 2013, 011 1063 2013/O151584 2013, 0163426 2013, 0166668 2013/0173822 2013, 0182568 2013, 01854.06 2013/O197698 2013/O198119 2013/0219038 2013/02190812013/0219478 2013/0223237 2013/0227166 2013, 0242996 2013, O250809 2013, 0282854 2013, 0282.860 2013/0282920 2013/0304937 2013, 0329696 2013/0336323 2013, 03434.08 2014, 0003232 2014/OOO6565 2014/OO29445 2014/OO32714 2014.? 004.0505 2014/OO74730 2014/OO75567 2014/OO82135 2014.0089454 2014/0096, 249 2014/0129736 2014/O136814 2014/O140348 2014.0143370 2014/O1468. 19 2014/O149733 2014.0156396 2014/O1652O7 2014/0172783 2014/0172981 2014/0173034 2014, 01927.17 2014/O195328 2014/O195666 2014/0233575\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Aggregate signing of data in content centric networking",
+        "id": "-sf4IhMAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "E Uzun",
+            "ME Mosko",
+            "MF Plass",
+            "GC Scott"
+        ],
+        "pub_source": "US Patent 9,363,086",
+        "pub_date": "2016/6/7",
+        "description": "2014/OO74730 2014/OO75567 2014/OO82135 2014.0089454 2014/0096, 249 2014/0129736 2014/O136814 2014/O140348 2014.0143370 2014/O1468. 19 2014/O149733 2014.0156396 2014/O1652O7 2014/0172783 2014/0172981 2014/0173034 2014, 01927.17 2014/O195328 2014/O195666 2014/0233575 2014/0237085 2014/028O823 2014/0281489",
+        "citations": 11
+    },
+    {
+        "title": "System and method for ranking named-data networking objects in a cache",
+        "id": "-sf4IhMAAAAJ:abG-DnoFyZgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:abG-DnoFyZgC",
+        "authors": [
+            "E Uzun"
+        ],
+        "pub_source": "US Patent App. 14/516,450",
+        "pub_date": "2016/4/21",
+        "description": "A router can select a cached Content Object to rank, and analyzes historical usage information for the Content Object to determine a set of exclusions received for the Content Object. The router then computes a rank value for the Content Object, based on the set of exclusions for the Content Object and one or more predetermined exclusion patterns, and stores the rank value in association with the Content Object. When the router receives an Interest whose name is associated with multiple cached Content Objects, the router selects, from the multiple cached Content Objects, a cached Content Object with a highest rank value. The router can return the selected cached Content Object to satisfy the Interest.",
+        "citations": 79
+    },
+    {
+        "title": "Reputation-based discovery of content objects",
+        "id": "-sf4IhMAAAAJ:EUQCXRtRnyEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:EUQCXRtRnyEC",
+        "authors": [
+            "P Mahadevan",
+            "GC Scott",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent App. 14/490,572",
+        "pub_date": "2016/3/24",
+        "description": "A content-discovery system allows a node in a Content Centric Networks (CCN) to discover content over CCN. The CCN node can generate an Interest that includes a query for discovering content associated with a given name prefix, and after disseminating the Interest over CCN, can receive a query-result Content Object that includes a listing of matching Content Objects and their reputation information. The CCN node can also process Interests issued by other CCN nodes that would like to discover content. After receiving an Interest comprising a query for discovering content, the CCN node searches a repository for a set of Content Objects that match the query. The CCN node generates a results list that includes the Content Object in the search results and their reputation information. The CCN node then generates and returns a query-result Content Object that includes the Interest's name, and whose payload\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Method and apparatus for privacy and trust enhancing sharing of data for collaborative analytics",
+        "id": "-sf4IhMAAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "E De Cristofaro",
+            "JF Freudiger",
+            "E Uzun",
+            "AE Brito",
+            "MW Bern"
+        ],
+        "pub_source": "US Patent 9,275,237",
+        "pub_date": "2016/3/1",
+        "description": "One embodiment of the present invention provides a system for privacy-preserving sharing of data for secure collaboration. During operation, the system obtains a first set of data describing network events associated with one or more network addresses. Next, the system negotiates with a potential partner to determine a metric for deciding whether to share data. The potential partner is associated with a second set of data describing network events. The system then computes a value for the metric in a privacy-preserving way, based on the first set of data and the second set of data. Subsequently, the system determines whether the metric value exceeds a predetermined threshold, and, responsive to determining that the metric value exceeds the predetermined threshold, the system shares the first set of data with the potential partner, while controlling how the data should be shared to optimize benefits and risks of\u00a0\u2026",
+        "citations": 28
+    },
+    {
+        "title": "Computer-implemented system and method for establishing distributed secret shares in a private data aggregation scheme",
+        "id": "-sf4IhMAAAAJ:zA6iFVUQeVQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:zA6iFVUQeVQC",
+        "authors": [
+            "I Bilogrevic",
+            "J Freudiger",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 9,264,407",
+        "pub_date": "2016/2/16",
+        "description": "A probabilistic system and method facilitates the sharing of a secret among participating users in a private way. The secret shares satisfy the condition that their sum equal a predefined number that is chosen by a third party aggregator. Without interacting with any other user, each user computes a secret share according to a predefined probability density function. If enough parties join, their secret shares can be combined by the aggregator with relative efficiency into a secret with a high likelihood of success."
+    },
+    {
+        "title": "Ac3n: Anonymous communication in content-centric networking",
+        "id": "-sf4IhMAAAAJ:cFHS6HbyZ2cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:cFHS6HbyZ2cC",
+        "authors": [
+            "Gene Tsudik",
+            "Ersin Uzun",
+            "Christopher A Wood"
+        ],
+        "pub_source": "2016 13th IEEE Annual Consumer Communications & Networking Conference (CCNC)",
+        "pub_date": "2016/1/9",
+        "description": "Content-Centric Networking (CCN) is an emerging (inter-)networking architecture with the goal of becoming an alternative to the IP-based Internet. To be considered a viable candidate, CCN must at least have parity with existing solutions for confidential and anonymous communication, e.g., TLS, tcpcrypt, and Tor. ANDa\u0305NA (Anonymous Named Data Networking Application) was the first proposed solution that addressed the lack of anonymous communication in Named Data Networking (NDN)-a variant of CCN. However, its design and implementation led to performance issues that hinder practical use. In this paper we introduce AC3N: Anonymous Communication for Content-Centric Networking. AC3N is an evolution of the ANDa\u0305NA system that supports high-throughput and low-latency anonymous content retrieval. We discuss the design and initial performance results of this new system.",
+        "citations": 29
+    },
+    {
+        "title": "Information-centric networking and security (dagstuhl seminar 16251)",
+        "id": "-sf4IhMAAAAJ:l7t_Zn2s7bgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:l7t_Zn2s7bgC",
+        "authors": [
+            "Edith Ngai",
+            "B\u00f6rje Ohlman",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Dagstuhl Reports",
+        "pub_date": "2016",
+        "description": "In recent years, Information-centric Networking (ICN) has received much attention from both academic and industry participants. ICN offers a data-centric means of inter-networking that is radically different from today's host-based IP networks. Security and privacy issues in ICN have become increasingly important as ICN technology gradually matures and nears real-world deployment. As is well known, in today's Internet, security and privacy features were originally not present and had to be incrementally and individually retrofitted (with varying success) over the last 35 years. In contrast, since ICN-based architectures (eg, NDN, CCNx, etc.) are still evolving, it is both timely and important to explore ICN security and privacy issues as well as devise and assess possible mitigation techniques. This report documents the program and outcomes of the Dagstuhl Seminar 16251\" Information-centric Networking and Security.\" The goal was to bring together researchers to discuss and address security and privacy issues particular to ICN-based architectures. Attendees represented diverse areas of expertise, including: networking, security, privacy, software engineering, and formal methods. Through presentations and focused working groups, attendees identified and discussed issues relevant to security and privacy, and charted paths for their mitigation.",
+        "citations": 3
+    },
+    {
+        "title": "Living in a pit-less world: A case against stateful forwarding in content-centric networking",
+        "id": "-sf4IhMAAAAJ:Z5m8FVwuT1cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:Z5m8FVwuT1cC",
+        "authors": [
+            "Cesar Ghali",
+            "Gene Tsudik",
+            "Ersin Uzun",
+            "Christopher A Wood"
+        ],
+        "pub_source": "arXiv preprint arXiv:1512.07755",
+        "pub_date": "2015/12/24",
+        "description": "Information-Centric Networking (ICN) is a recent paradigm that claims to mitigate some limitations of the current IP-based Internet architecture. The centerpiece of ICN is named and addressable content, rather than hosts or interfaces. Content-Centric Networking (CCN) is a prominent ICN instance that shares the fundamental architectural design with its equally popular academic sibling Named-Data Networking (NDN). CCN eschews source addresses and creates one-time virtual circuits for every content request (called an interest). As an interest is forwarded it creates state in intervening routers and the requested content back is delivered over the reverse path using that state. Although a stateful forwarding plane might be beneficial in terms of efficiency, and resilience to certain types of attacks, this has not been decisively proven via realistic experiments. Since keeping per-interest state complicates router operations and makes the infrastructure susceptible to router state exhaustion attacks (e.g., there is currently no effective defense against interest flooding attacks), the value of the stateful forwarding plane in CCN should be re-examined. In this paper, we explore supposed benefits and various problems of the stateful forwarding plane. We then argue that its benefits are uncertain at best and it should not be a mandatory CCN feature. To this end, we propose a new stateless architecture for CCN that provides nearly all functionality of the stateful design without its headaches. We analyze performance and resource requirements of the proposed architecture, via experiments.",
+        "citations": 28
+    },
+    {
+        "title": "Private and distributed computation of probability density functions",
+        "id": "-sf4IhMAAAAJ:a0OBvERweLwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:a0OBvERweLwC",
+        "authors": [
+            "I Bilogrevic",
+            "JF Freudiger",
+            "E De Cristofaro",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent App. 14/308,639",
+        "pub_date": "2015/12/24",
+        "description": "Incorporated, Palo Alto, CA (US)(57) ABSTRACT One embodiment of the present invention provides a system for privacy-preserving aggregation of encrypted data. During operation, the system distributes Secret keys to a plurality of devices. The system receives at least a pair of encrypted vectors from each device of a subset of the plurality of devices. One of the encrypted vectors is associated with a set",
+        "citations": 16
+    },
+    {
+        "title": "Privacy-sensitive ranking of user data",
+        "id": "-sf4IhMAAAAJ:yD5IFk8b50cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:yD5IFk8b50cC",
+        "authors": [
+            "I Bilogrevic",
+            "JF Freudiger",
+            "E De Cristofaro",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent App. 14/308,629",
+        "pub_date": "2015/12/24",
+        "description": "One embodiment of the present invention provides a system for privacy-sensitive ranking of aggregated data. During operation, the system distributes secret keys to a plurality of devices. The system then generates a plurality of probability density functions in a privacy-preserving way using encrypted data received from a subset of the plurality of devices. The encrypted data is data that has been encrypted with one or more of the secret keys by the subset of devices. The system then generates a plurality of probability mass functions, each probability mass function associated with a corresponding probability density function. Subsequently, the system computes a plurality of distance values, each respective distance value being a measure of distance from a probability mass function to a second distribution. The system then ranks the probability mass functions and/or associated attributes according to their respective\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "Privacy, efficiency & fault tolerance in aggregate computations on massive star networks",
+        "id": "-sf4IhMAAAAJ:4OULZ7Gr8RgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:4OULZ7Gr8RgC",
+        "authors": [
+            "Shantanu Rane",
+            "Julien Freudiger",
+            "Alejandro E Brito",
+            "Ersin Uzun"
+        ],
+        "pub_source": "2015 IEEE International Workshop on Information Forensics and Security (WIFS)",
+        "pub_date": "2015/11/16",
+        "description": "We consider the challenge of performing efficient, fault-tolerant, privacy-preserving aggregate computations in a star topology, i.e., a massive number of participants connected to a single untrusted aggregator. The privacy constraints are that the participants do not discover each other's data, and the aggregator obtains the final results while remaining oblivious to each participant's individual contribution to the aggregate. In achieving these goals, previous approaches have either assumed a trusted dealer that distributes keys to the participants and the aggregator, or introduced additional parties that withhold the decryption key from the aggregator, or applied secret sharing with either pairwise communication amongst the participants or O(N2) ciphertext overhead at the aggregator. In contrast, we describe a protocol based on Shamir secret sharing and homomorphic encryption without assuming any additional parties\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Method and system for mitigating interest flooding attacks in content-centric networks",
+        "id": "-sf4IhMAAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "P Mahadevan",
+            "E Uzun",
+            "A Afanasyev"
+        ],
+        "pub_source": "US Patent 9,185,120",
+        "pub_date": "2015/11/10",
+        "description": "One embodiment of the present invention provides a system for mitigating interest flooding attacks in content-centric net works (CCNS). During operation, the system receives, at a physical interface of a router, an interest packet, obtains cur rent interest satisfaction statistics associated with the physical interface; and determines whether to forward or drop the interest packet based on the current interest satisfaction sta tistics.",
+        "citations": 19
+    },
+    {
+        "title": "An encryption-based access control framework for content-centric networking",
+        "id": "-sf4IhMAAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "Jun Kuriharay",
+            "Ersin Uzun",
+            "Christopher A Wood"
+        ],
+        "pub_source": "2015 IFIP networking conference (IFIP networking)",
+        "pub_date": "2015/5/20",
+        "description": "This paper proposes a comprehensive encryption-based access control framework for content centric networking (CCN), called CCN-AC. This framework is both flexible and extensible, enabling the specification, implementation, and enforcement of a variety of access control policies for sensitive content in the network. The design of CCN-AC heavily relies on the concept of secure content object manifests and leverages them to decouple encrypted content from access policy and specifications for minimum communication overhead and maximum utilization of in-network caches. To demonstrate the flexibility of framework, we also describe how to implement two sample access control schemes, group-based access control and broadcast access control, within CCN-AC framework.",
+        "citations": 90
+    },
+    {
+        "title": "Method and apparatus for performing distributed privacy-preserving computations on user locations",
+        "id": "-sf4IhMAAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "E DeCristofaro",
+            "J Melia-Segui",
+            "R Zhang",
+            "O Brdiczka",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 8,954,737",
+        "pub_date": "2015/2/10",
+        "description": "(57) ABSTRACT A location-trace comparison system can perform privacy preserving computations on locations traces for two or more users, for example, to determine a location-visit overlap for these users. During operation, the system obtains location event descriptions for locations that a local user has visited and/or is likely to visit, such that a respective location-event description indicates a location identifier and a time-interval identifier. The system encrypts the location-event descrip tions to generate a corresponding set of encrypted local-user events, and receives encrypted remote-user events from a remote device, for at least one remote user. The system com pares the encrypted location events to determine an overlap between the set of encrypted local-user events and the set of encrypted remote-user events. The system then determines, from the encrypted-event overlap, location-event descrip tions for\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "CCNx 1.0 protocol architecture",
+        "id": "-sf4IhMAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Marc Mosko",
+            "Ignacio Solis",
+            "Ersin Uzun",
+            "Christopher Wood"
+        ],
+        "pub_source": "Palo Alto Research Center. url http://ccnx. org/pubs/ICN_CCN_Protocols. pdf",
+        "pub_date": "2015",
+        "description": "In contrast to today\u2019s IP-based host-oriented Internet architecture, Information-Centric Networking (ICN) emphasizes content by making it directly addressable and routable. Content-Centric Networking (CCNx) is an instance of ICN designed by PARC as a reference implementation that works in many environments from high-speed data centers to resource constrained sensors. By flexibly caching content within the network (in routers) and providing message-based, as opposed to channel-based security, CCNx is well-suited for large-scale content distribution, the Internet of Things and for meeting the needs of increasingly mobile and bandwidth-hungry applications that dominate today\u2019s Internet. This paper describes the CCNx 1.0 architecture and protocols, from message semantics to wire format to transmission rules.",
+        "citations": 31
+    },
+    {
+        "title": "Privacy preserving data quality assessment for high-fidelity data sharing",
+        "id": "-sf4IhMAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Julien Freudiger",
+            "Shantanu Rane",
+            "Alejandro E Brito",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Proceedings of the 2014 ACM Workshop on Information Sharing & Collaborative Security",
+        "pub_date": "2014/11/3",
+        "description": "In a data-driven economy that struggles to cope with the volume and diversity of information, data quality assessment has become a necessary precursor to data analytics. Real-world data often contains inconsistencies, conflicts and errors. Such dirty data increases processing costs and has a negative impact on analytics. Assessing the quality of a dataset is especially important when a party is considering acquisition of data held by an untrusted entity. In this scenario, it is necessary to consider privacy risks of the stakeholders. This paper examines challenges in privacy-preserving data quality assessment. A two-party scenario is considered, consisting of a client that wishes to test data quality and a server that holds the dataset. Privacy-preserving protocols are presented for testing important data quality metrics: completeness, consistency, uniqueness, timeliness and validity. For semi-honest parties, the protocols\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "Privacy-preserving behavior targeting for digital coupons",
+        "id": "-sf4IhMAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "K Partridge",
+            "E Uzun",
+            "C Wang",
+            "MA Pathak"
+        ],
+        "pub_source": "US Patent 8,874,485",
+        "pub_date": "2014/10/28",
+        "description": "A smart coupon-delivery system provides targeted coupons to a user using a criteria-encoded message received from a coupon server. The criteria-encoded message is generated by the coupon server from a behavior-criteria vector that indicates criteria for selecting a recipient of a digital coupon. The system then generates a user-behavior vector to indicate one or more behavior patterns of an end-user, and encodes the user-behavior vector to produce a behavior-encoded message. The system then determines whether the end-user is eligible to receive the digital coupon based on the criteria-encoded message and the behavior-encoded message. If the system determines that the end-user is eligible, the system presents the digital coupon to the end-user.",
+        "citations": 36
+    },
+    {
+        "title": "Network-layer trust in named-data networking",
+        "id": "-sf4IhMAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Cesar Ghali",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "ACM SIGCOMM Computer Communication Review",
+        "pub_date": "2014/10/10",
+        "description": "In contrast to today's IP-based host-oriented Internet architecture, Information-Centric Networking (ICN) emphasizes content by making it directly addressable and routable. Named Data Networking (NDN) architecture is an instance of ICN that is being developed as a candidate next-generation Internet architecture. By opportunistically caching content within the network, NDN appears to be well-suited for large-scale content distribution and for meeting the needs of increasingly mobile and bandwidth-hungry applications that dominate today's Internet. One key feature of NDN is the requirement for each content object to be digitally signed by its producer. Thus, NDN should be, in principle, immune to distributing fake (aka \"poisoned\") content. However, in practice, this poses two challenges for detecting fake content in NDN routers: (1) overhead due to signature verification and certificate chain traversal, and (2) lack of\u00a0\u2026",
+        "citations": 201
+    },
+    {
+        "title": "CCN-KRS: A Key Resolution Service for CCN",
+        "id": "-sf4IhMAAAAJ:RGFaLdJalmkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:RGFaLdJalmkC",
+        "authors": [
+            "JJ Garcia-Luna-Aceves",
+            "P Mahadevan",
+            "E Uzun",
+            "S Sevilla"
+        ],
+        "pub_source": "",
+        "pub_date": "2014/9/24",
+        "description": "A key feature of the Content Centric Networking (CCN) architecture is the requirement for each piece of content to be individually signed by its publisher. Thus, CCN should, in principle, be immune to distributing fake content. However, in practice, the network cannot easily detect and drop fake content as the trust context (ie, the public keys that need to be trusted for verifying the content signature) is an application-dependent concept. CCN provides mechanisms for consumers to request a piece of content restricted by its signer\u2019s public key or the cryptographic digest of the content object to avoid receiving fake content. However, it does not provide any mechanisms to learn this critical information prior to requesting the content. In this paper, we introduce a scalable Key Resolution Service (KRS) that can securely store and serve security information (eg, public key certificates of publishers) for a namespace in CCN. We implement KRS as a service for CCN in ndnSIM, a ns-3 module, and discuss and evaluate such a distributed service. We demonstrate the feasibility and scalability of our design via simulations driven by realtraffic traces."
+    },
+    {
+        "title": "CCN-krs: A key resolution service for ccn",
+        "id": "-sf4IhMAAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Priya Mahadevan",
+            "Ersin Uzun",
+            "Spencer Sevilla",
+            "JJ Garcia-Luna-Aceves"
+        ],
+        "pub_source": "Proceedings of the 1st ACM Conference on Information-Centric Networking",
+        "pub_date": "2014/9/24",
+        "description": "A key feature of the Content Centric Networking (CCN) architecture is the requirement for each piece of content to be individually signed by its publisher. Thus, CCN should, in principle, be immune to distributing fake content. However, in practice, the network cannot easily detect and drop fake content as the trust context (i.e., the public keys that need to be trusted for verifying the content signature) is an application-dependent concept. CCN provides mechanisms for consumers to request a piece of content restricted by its signer's public key or the cryptographic digest of the content object to avoid receiving fake content. However, it does not provide any mechanisms to learn this critical information prior to requesting the content. In this paper, we introduce a scalable Key Resolution Service (KRS) that can securely store and serve security information (e.g., public key certificates of publishers) for a namespace in CCN\u00a0\u2026",
+        "citations": 189
+    },
+    {
+        "title": "Encryption messaging system",
+        "id": "-sf4IhMAAAAJ:4MWp96NkSFoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:4MWp96NkSFoC",
+        "authors": [
+            "T Sexton",
+            "E Uzun",
+            "E Mykletun"
+        ],
+        "pub_source": "US Patent 8,837,739",
+        "pub_date": "2014/9/16",
+        "description": "This invention provides a user friendly, email encryption system allowing users to send and receive encrypted mes sages for registered and unregistered users. Encrypted mes sages can be sent to registered or non-registered users by transmitting the encrypted message to cloud system servers. The cloud system servers acquire certificates from certificate authorities or any end-to-end exchange of keys between the sender and the recipient of the encrypted message. For regis tered users, messages sent by senders are encrypted by the sender and sent to the cloud system servers which decrypt the message and re-encrypt the message with the recipient\u2019s key. For non-registered users, once the encrypted message is decrypted at the cloud system servers, another message is sent to the non-registered informing them that an encrypted mes sage awaits them if they select a link in the message which allows them to\u00a0\u2026",
+        "citations": 64
+    },
+    {
+        "title": "A fuzzy commitment approach to privacy preserving behavioral targeting",
+        "id": "-sf4IhMAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Shantanu Rane",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Proceedings of the ACM MobiCom workshop on Security and privacy in mobile environments",
+        "pub_date": "2014/9/11",
+        "description": "This paper describes a privacy-preserving framework for delivering coupons to users that approximately satisfy a predefined behavioral profile. The framework is designed to be non-interactive, i.e., vendor-side communication occurs only when it pushes coupons out to the users that it regards as potential customers. User privacy is protected by performing all targeting operations on the end-user's device. The protocol is based on a fuzzy commitment primitive that is realized using error correcting codes. The central idea is that a user is able to extract the coupon if her behavioral profile approximately matches the vendor's target profile. Unless the coupon is redeemed, the vendor discovers no information about the user's behavioral profile. The error correction coding framework enforces a natural tradeoff between the privacy of the vendor and the specificity of targeting. In other words, if the vendor wants to target a\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "RFID reader revocation checking using low power attached displays",
+        "id": "-sf4IhMAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "G Tsudik",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 8,710,952",
+        "pub_date": "2014/4/29",
+        "description": "A method of authenticating a radio frequency identification (RFID) reader to efficiently and timely check of revocation status of the RFID reader includes the steps of checking whether a given certificate is expired or revoked, and allowing a user of an RFID tag to verify that the credentials and revocation status information reported to the tag by reader is correct and current/valid before permitting information transmission from the RFID tag to the reader. An RFID tag includes a passively powered display and a user activatable control which allows the method to be carried out with the tag. The tag may include encrypted communication ability and automatic certificate revocation list checking.(This method is applicable not just to RFID but to any technology involving purely passive operation, ie, where the tag obtains power from a reader).",
+        "citations": 8
+    },
+    {
+        "title": "Needle in a haystack: Mitigating content poisoning in named-data networking",
+        "id": "-sf4IhMAAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Cesar Ghali",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Proceedings of NDSS workshop on security of emerging networking technologies (SENT)",
+        "pub_date": "2014/2/23",
+        "description": "Named-Data Networking (NDN) is a candidate next-generation Internet architecture designed to address some limitations of the current IP-based Internet. NDN uses the pull model for content distribution, whereby content is first explicitly requested before being delivered. Efficiency is obtained via routerbased aggregation of closely spaced requests for popular content and content caching in routers. Although it reduces latency and increases bandwidth utilization, router caching makes the network susceptible to new cache-centric attacks, such as content poisoning. In this paper, we propose a ranking algorithm for cached content that allows routers to distinguish good and (likely) bad content. This ranking is based on statistics collected from consumers\u2019 actions following delivery of content objects. Experimental results support our assertion that the proposed ranking algorithm can effectively mitigate content poisoning attacks.",
+        "citations": 296
+    },
+    {
+        "title": "Flexible end-to-end content security in CCN",
+        "id": "-sf4IhMAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Christopher A Wood",
+            "Ersin Uzun"
+        ],
+        "pub_source": "2014 IEEE 11th Consumer Communications and Networking Conference (CCNC)",
+        "pub_date": "2014/1/10",
+        "description": "Content-centric networking (CCN) project, a flavor of information-centric networking (ICN), decouples data from its source by shifting the emphasis from hosts and interfaces to information. As a result, content becomes directly accessible and routable within the network. In this data-centric paradigm, techniques for maintaining content confidentiality and privacy typically rely on cryptographic techniques similar to those used in modern digital rights management (DRM) applications, which often require multiple consumer-to-producer (end-to-end) messages to be transmitted to establish identities, acquire licenses, and access encrypted content. In this paper, we present a secure content distribution architecture for CCN that is based on proxy re-encryption. Our design provides strong end-to-end content security and reduces the number of protocol messages required for user authentication and key retrieval. Unlike widely\u00a0\u2026",
+        "citations": 253
+    },
+    {
+        "title": "What\u2019s the gist? privacy-preserving aggregation of user profiles",
+        "id": "-sf4IhMAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Igor Bilogrevic",
+            "Julien Freudiger",
+            "Emiliano De Cristofaro",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Computer Security-ESORICS 2014: 19th European Symposium on Research in Computer Security, Wroclaw, Poland, September 7-11, 2014. Proceedings, Part II 19",
+        "pub_date": "2014",
+        "description": "Over the past few years, online service providers have started gathering increasing amounts of personal information to build user profiles and monetize them with advertisers and data brokers. Users have little control of what information is processed and are often left with an all-or-nothing decision between receiving free services or refusing to be profiled. This paper explores an alternative approach where users only disclose an aggregate model \u2013 the \u201cgist\u201d \u2013 of their data. We aim to preserve data utility and simultaneously provide user privacy. We show that this approach can be efficiently supported by letting users contribute encrypted and differentially-private data to an aggregator. The aggregator combines encrypted contributions and can only extract an aggregate model of the underlying data. We evaluate our framework on a dataset of 100,000 U.S. users obtained from the U.S. Census Bureau and show\u00a0\u2026",
+        "citations": 37
+    },
+    {
+        "title": "DoS & DDoS in Named Data Networking",
+        "id": "-sf4IhMAAAAJ:vRqMK49ujn8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:vRqMK49ujn8C",
+        "authors": [
+            "Ersin Uzun",
+            "Paolo Gasti",
+            "Gene Tsudik",
+            "Lixia Zhang"
+        ],
+        "pub_source": "Computer Communications and Networks (ICCCN), 2013 22nd International Conference on",
+        "pub_date": "2013/7/30",
+        "citations": 629
+    },
+    {
+        "title": "Transaction Verification on RFID Enabled Payment and Transaction Instruments",
+        "id": "-sf4IhMAAAAJ:wbdj-CoPYUoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:wbdj-CoPYUoC",
+        "authors": [
+            "G Tsudik",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent App. 13/782,827",
+        "pub_date": "2013/7/11",
+        "description": "A display enabled RFID tag (DERT) receives transaction details from the reader. DERT verifies that the details match their counterparts in the reader public key certificate. The process is aborted in case of a mismatch. DERT extracts and displays user-verifiable data. It then enters a countdown stage that lasts for a predetermined duration. A user observes the transaction information and, if the transaction amount and other details are deemed correct, presses an accept button provided on the DERT before the timer runs out. DERT signs the time-stamped transaction statement and sends it to the reader. This signed statement is then sent to the payment gateway and eventually to the financial institution that issued the payment DERT.",
+        "citations": 3
+    },
+    {
+        "title": "Privacy in content-oriented networking: Threats and countermeasures",
+        "id": "-sf4IhMAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Abdelberi Chaabane",
+            "Emiliano De Cristofaro",
+            "Mohamed Ali Kaafar",
+            "Ersin Uzun"
+        ],
+        "pub_source": "ACM SIGCOMM Computer Communication Review",
+        "pub_date": "2013/7/1",
+        "description": "As the Internet struggles to cope with scalability, mobility, and security issues, new network architectures are being proposed to better accommodate the needs of modern systems and applications. In particular, Content-Oriented Networking (CON) has emerged as a promising next-generation Internet architecture: it sets to decouple content from hosts, at the network layer, by naming data rather than hosts. CON comes with a potential for a wide range of benefits, including reduced congestion and improved delivery speed by means of content caching, simpler configuration of network devices, and security at the data level. However, it remains an interesting open question whether or not, and to what extent, this emerging networking paradigm bears new privacy challenges. In this paper, we provide a systematic privacy analysis of CON and the common building blocks among its various architectural instances in order\u00a0\u2026",
+        "citations": 152
+    },
+    {
+        "title": "Interest flooding attack and countermeasures in named data networking",
+        "id": "-sf4IhMAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Alexander Afanasyev",
+            "Priya Mahadevan",
+            "Ilya Moiseenko",
+            "Ersin Uzun",
+            "Lixia Zhang"
+        ],
+        "pub_source": "2013 IFIP Networking Conference",
+        "pub_date": "2013/5/22",
+        "description": "Distributed Denial of Service (DDoS) attacks are an ongoing problem in today's Internet, where packets from a large number of compromised hosts thwart the paths to the victim site and/or overload the victim machines. In a newly proposed future Internet architecture, Named Data Networking (NDN), end users request desired data by sending Interest packets, and the network delivers Data packets upon request only, effectively eliminating many existing DDoS attacks. However, an NDN network can be subject to a new type of DDoS attack, namely Interest packet flooding. In this paper we investigate effective solutions to mitigate Interest flooding. We show that NDN's inherent properties of storing per packet state on each router and maintaining flow balance (i.e., one Interest packet retrieves at most one Data packet) provides the basis for effective DDoS mitigation algorithms. Our evaluation through simulations shows\u00a0\u2026",
+        "citations": 518
+    },
+    {
+        "title": "Permuting records in a database for leak detection and tracing",
+        "id": "-sf4IhMAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "B Stephenson",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 8,412,755",
+        "pub_date": "2013/4/2",
+        "description": "A method comprises receiving, by a processor, a copy of a database containing records, each record having a plurality of attributes. The method also comprises determining, by the processor, whether a first attribute in each record results in a predetermined value in modulo P when hashed with a key and determining, by the processor, whether a second attribute in each record results in the predetermined value in modulo P when hashed with a key. For a first record whose first attribute results in the predetermined value in modulo P when hashed with a key and a second record whose second attribute also results in the predetermined value in modulo P when hashed with a key, the method further comprises swapping by the processor the second attributes between the first and second records.",
+        "citations": 5
+    },
+    {
+        "title": "Deploying key management on NDN testbed",
+        "id": "-sf4IhMAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Chaoyi Bian",
+            "Zhenkai Zhu",
+            "Alexander Afanasyev",
+            "Ersin Uzun",
+            "Lixia Zhang"
+        ],
+        "pub_source": "UCLA, Peking University and PARC, Tech. Rep",
+        "pub_date": "2013/2/2",
+        "description": "II. OVERVIEW To make the testbed key deployment happen in a timely fashion, we start with a simple certification chain trust model, with the root key of the NDN testbed as a common well known trust anchor. There is a root key for the NDN testbed, which signs the keys for each site, which in turn sign keys of the users at each site. Users\u2019 keys can be used to further sign their devices and specific applications (Fig. 1). This simple design allows one to follow the trust chain to verify the legitimacy of a key, a capability much needed to meet the need for a number of usages including NDN routing and auto configuration. This document specifically focuses on getting keys published on the testbed ASAP, as a preliminary step towards understanding general trust models.",
+        "citations": 35
+    },
+    {
+        "title": "Named data networking (NDN) project 2012-2013 annual report",
+        "id": "-sf4IhMAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Van Jacobson",
+            "Jeffrey Burke",
+            "Deborah Estrin",
+            "Lixia Zhang",
+            "Beichuan Zhang",
+            "Gene Tsudik",
+            "Kimberly Claffy",
+            "Dmitri Krioukov",
+            "Dan Massey",
+            "Christos Papadopoulos",
+            "Paul Ohm",
+            "Tarek Abdelzaher",
+            "Katie Shilton",
+            "Lan Wang",
+            "Edmund Yeh",
+            "Ersin Uzun",
+            "Glenn Edens",
+            "Patrick Crowley"
+        ],
+        "pub_source": "Named Data Networking (NDN)",
+        "pub_date": "2013",
+        "description": "Today\u2019s Internet\u2019s hourglass architecture centers on a universal network layer (ie, IP) which implements the minimal functionality necessary for global interconnectivity. This thin waist enabled the Internet\u2019s explosive growth by allowing both lower and upper layer technologies to innovate independently. However, IP was designed to create a communication network, where packets named only communication endpoints. Sustained growth in e-commerce, digital media, social networking, and smartphone applications has led to dominant use of the Internet as a distribution network. Distribution networks are fundamentally more general than communication networks, and solving distribution problems via a point-to-point communication protocol is complex and error-prone.The NDN project proposes an evolution of the IP architecture that generalizes the role of this thin waist, such that packets can name objects other than communication endpoints. The name in an NDN packet can be anything\u2013an endpoint, a data chunk in a movie or a book, a command to turn on some lights, etc. This conceptually simple change allows NDN networks to use almost all of the Internet\u2019s well-tested engineering properties to solve not only end-to-end communication problems but also content distribution and control problems. Based on three decades of experience with the strengths and limitations of the current Internet architecture, the design also builds in fundamental security primitives (via signatures on all named data) and self-regulation of network traffic (via flow balance between Interest and Data packets). We recognize that any new architecture must be\u00a0\u2026",
+        "citations": 19
+    },
+    {
+        "title": "Welcome message from the PADE chairs",
+        "id": "-sf4IhMAAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "K Bauer",
+            "R Boreli",
+            "N Carlsson",
+            "Z Chen",
+            "A Francillon",
+            "J Freudiger",
+            "A Friedman",
+            "S Gambs",
+            "H Haddadi",
+            "A Hecker",
+            "P Hui",
+            "M-A Kaafar",
+            "B K\u00f6pf",
+            "A Mahanti",
+            "M \u00d6nen",
+            "Panagiotis Papadimitratos",
+            "S Ries",
+            "K Salamatian",
+            "F Schneider",
+            "A Shikfa",
+            "C Shue",
+            "T Strufe",
+            "S Uhlig",
+            "E Uzun",
+            "G Xie"
+        ],
+        "pub_source": "38th Annual IEEE Conference on Local Computer Networks, LCN 2013; Sydney, NSW; Australia; 21 October 2013 through 24 October 2013",
+        "pub_date": "2013"
+    },
+    {
+        "title": "Can Jannie verify? Usability of display-equipped RFID tags for security purposes",
+        "id": "-sf4IhMAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Alfred Kobsa",
+            "Rishab Nithyanand",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Journal of computer security",
+        "pub_date": "2013/1/1",
+        "description": "The recent emergence of RFID tags capable of performing public key operations enables a number of new applications in commerce (eg, RFID-enabled credit cards) and security (eg, ePassports and access-control badges). While the use of public key cryptography in RFID tags mitigates many difficult security issues, certain important usability-related issues remain, particularly when RFID tags are used for financial transactions or bearer identification.",
+        "citations": 10
+    },
+    {
+        "title": "Fingerprinting a database",
+        "id": "-sf4IhMAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "B Stephenson",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 8,296,342",
+        "pub_date": "2012/10/23",
+        "description": "A method comprising fingerprinting, by the at least one processor, a first copy of a database with a fingerprint. The fingerprint has at least one part in common with another fingerprint used in another copy of the database, and at least one part unique to the first copy of the database. The fingerprinting comprises swapping attributes between multiple records in the first copy of the database.",
+        "citations": 9
+    },
+    {
+        "title": "Picoda: Privacy-preserving smart coupon delivery architecture",
+        "id": "-sf4IhMAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Kurt Partridge",
+            "Manas A Pathak",
+            "Ersin Uzun",
+            "Cong Wang"
+        ],
+        "pub_source": "Proc. HotPETs",
+        "pub_date": "2012/7/13",
+        "description": "In this paper, we propose a new privacy-preserving smart coupon delivery system called PiCoDa. Like prior work on private behavioral targeted advertising, PiCoDa protects user data by performing targeting on the end-user\u2019s device. However, PiCoDa makes two more guarantees: it verifies a user\u2019s eligibility for a coupon, and it protects the vendor\u2019s privacy by not revealing the targeting strategy. To accommodate the constraints of different targeting strategies, PiCoDa provides two targeting protocols that tradeoff user privacy and vendor privacy in different ways. We show how both designs meet requirements for user privacy, vendor protection, and robustness. In addition, we present simulation results of the protocols using realistic parameters to further validate the efficiency and effectiveness of PiCoDa.",
+        "citations": 17
+    },
+    {
+        "title": "Custodian-based information sharing",
+        "id": "-sf4IhMAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Van Jacobson",
+            "Rebecca L Braynard",
+            "Tim Diebert",
+            "Priya Mahadevan",
+            "Marc Mosko",
+            "Nicholas H Briggs",
+            "Simon Barber",
+            "Michael F Plass",
+            "Ignacio Solis",
+            "Ersin Uzun",
+            "Byoung-Joon Lee",
+            "Myeong-Wuk Jang",
+            "Dojun Byun",
+            "Diana K Smetters",
+            "James D Thornton"
+        ],
+        "pub_source": "IEEE Communications Magazine",
+        "pub_date": "2012/7/6",
+        "description": "Information sharing systems such as iCloud, Dropbox, Facebook, and Twitter are ubiquitous today, but all of them depend on massive server infrastructure and always-on Internet connectivity. We have designed and implemented a sharing system that does not require infrastructure yet supports robust, distributed, secure sharing by opportunistically using any and all connectivity, local or global, permanent or transient, to communicate. One key element of this system is a new information routing model that so far has proven to be as scalable and efficient as the best of the current Internet routing protocols, while operating in an environment more complex and dynamic than they can tolerate. The new routing model is made possible by new affordances offered by information-centric networking, in particular, the open source CCN [1] release. This article describes the new system and its routing model, and provides some\u00a0\u2026",
+        "citations": 63
+    },
+    {
+        "title": "Transaction verification on rfid enabled payment and transaction instruments",
+        "id": "-sf4IhMAAAAJ:1qzjygNMrQYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:1qzjygNMrQYC",
+        "authors": [
+            "G Tsudik",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent App. 13/286,154",
+        "pub_date": "2012/5/24",
+        "description": "A display enabled RFID tag (DERT) receives transaction details from the reader. DERT verifies that the details match their counterparts in the reader public key certificate. The process is aborted in case of a mismatch. DERT extracts and displays user-verifiable data. It then enters a countdown stage that lasts for a predetermined duration. A user observes the transaction information and, if the transaction amount and other details are deemed correct, presses an accept button provided on the DERT before the timer runs out. DERT signs the time-stamped transaction statement and sends it to the reader. This signed statement is then sent to the payment gateway and eventually to the financial institution that issued the payment DERT.",
+        "citations": 16
+    },
+    {
+        "title": "Artificial record added to a database",
+        "id": "-sf4IhMAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "B Stephenson",
+            "E Uzun"
+        ],
+        "pub_source": "US Patent 8,117,220",
+        "pub_date": "2012/2/14",
+        "description": "A method comprises receiving a database containing records. The method further comprises determining a number of artificial records to add to the database to achieve a false negative mark detection rate less than a specified threshold. The method also comprises marking the database by adding the determined number of artificial records to the database. Each artificial record contains at least one value that, when used, is detectable by a third party. The false negative rate comprises a probability of failing to detect the mark in a discovered subset of the database.",
+        "citations": 8
+    },
+    {
+        "title": "ANDaNA: Anonymous named data networking application",
+        "id": "-sf4IhMAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Steven DiBenedetto",
+            "Paolo Gasti",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "NDSS",
+        "pub_date": "2012/2/6",
+        "description": "Content-centric networking -- also known as information-centric networking (ICN) -- shifts emphasis from hosts and interfaces (as in today's Internet) to data. Named data becomes addressable and routable, while locations that currently store that data become irrelevant to applications. Named Data Networking (NDN) is a large collaborative research effort that exemplifies the content-centric approach to networking. NDN has some innate privacy-friendly features, such as lack of source and destination addresses on packets. However, as discussed in this paper, NDN architecture prompts some privacy concerns mainly stemming from the semantic richness of names. We examine privacy-relevant characteristics of NDN and present an initial attempt to achieve communication privacy. Specifically, we design an NDN add-on tool, called ANDaNA, that borrows a number of features from Tor. As we demonstrate via experiments, it provides comparable anonymity with lower relative overhead.",
+        "citations": 168
+    },
+    {
+        "title": "Bitter to better\u2014how to make bitcoin a better currency",
+        "id": "-sf4IhMAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Simon Barber",
+            "Xavier Boyen",
+            "Elaine Shi",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Financial Cryptography and Data Security: 16th International Conference, FC 2012, Kralendijk, Bonaire, Februray 27-March 2, 2012, Revised Selected Papers 16",
+        "pub_date": "2012",
+        "description": "Bitcoin is a distributed digital currency which has attracted a substantial number of users. We perform an in-depth investigation to understand what made Bitcoin so successful, while decades of research on cryptographic e-cash has not lead to a large-scale deployment. We ask also how Bitcoin could become a good candidate for a long-lived stable currency. In doing so, we identify several issues and attacks of Bitcoin, and propose suitable techniques to address them.",
+        "citations": 1005
+    },
+    {
+        "title": "Bitter to Better\u2014How to Make Bitcoin",
+        "id": "-sf4IhMAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Simon Barber",
+            "Xavier Boyen",
+            "Elaine Shi",
+            "Ersin Uzun"
+        ],
+        "pub_source": "",
+        "pub_date": "2012",
+        "description": "Bitcoin is a distributed digital currency which has attracted a substantial number of users. We perform an in-depth investigation to understand what made Bitcoin so successful, while decades of research on cryptographic e-cash has not lead to a large-scale deployment. We ask also how Bitcoin could become a good candidate for a long-lived stable currency. In doing so, we identify several issues and attacks of Bitcoin, and propose suitable techniques to address them.",
+        "citations": 1
+    },
+    {
+        "title": "Named data networking (NDN) project 2010-2011 progress summary",
+        "id": "-sf4IhMAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Lixia Zhang",
+            "Deborah Estrin",
+            "Jeffrey Burke",
+            "Van Jacobson",
+            "James D Thornton",
+            "Ersin Uzun",
+            "Beichuan Zhang",
+            "Gene Tsudik",
+            "Dmitri Krioukov",
+            "Dan Massey",
+            "Christos Papadopoulos",
+            "Tarek Abdelzaher",
+            "Lan Wang",
+            "Patrick Crowley",
+            "Edmund Yeh"
+        ],
+        "pub_source": "PARC, http://www. nameddata. net/ndn-ar2011. html, Tech. Rep",
+        "pub_date": "2011/11",
+        "description": "During the first year of our NSF-funded Named-Data Networking project, we mainly focused on understanding how appropriate naming can facilitate application development and network service delivery. We obtain that understanding through development and experimental deployment of pilot applications. This investigation enables us to identify a set of general principles and guidelines for naming in NDN networks, and to translate these into naming conventions implemented in system libraries. Library implementation operationalizes what we have learned in a form that supports consistent reuse, to simplify future application development and accelerate progress.The opaqueness of names to the network and their significance of application concerns enables the design and development of the NDN architecture to proceed in parallel with our research into name structure, name discovery and namespace\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Named data networking (NDN) project 2011-2012 annual report",
+        "id": "-sf4IhMAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Lixia Zhang",
+            "Deborah Estrin",
+            "Jeffrey Burke",
+            "Van Jacobson",
+            "James D Thornton",
+            "Ersin Uzun",
+            "Beichuan Zhang",
+            "Gene Tsudik",
+            "Dan Massey",
+            "Christos Papadopoulos",
+            "Paul Ohm",
+            "Tarek Abdelzaher",
+            "Katie Shilton",
+            "Lan Wang",
+            "Edmund Yeh",
+            "Patrick Crowley"
+        ],
+        "pub_source": "Named Data Netw",
+        "pub_date": "2011/9",
+        "description": "This annual report of the Named Data Networking (NDN) project summarizes our second year research achievements and future plans. Chapter 1 briefly reviews the NDN architectural model. Chapter 2 gives an overview of our research plan, describes the milestones reached through our second year\u2019s effort. Chapter 3 gives a detailed description of the activities and findings in each of the project\u2019s research areas. The heart of the Internet architecture is a simple, universal network layer (IP) which implements all the functionality necessary for global interconnectivity. This \u201cthin waist\u201d was the key enabler of the Internet\u2019s explosive growth but one of its design choices is the root cause of today\u2019s Internet problems. The Internet was designed as a communication network so the only entities that could be named in its packets were communication endpoints. Recent growth in e-commerce, digital media, social networking, and smartphone applications has resulted in the Internet primarily being used as a distribution network. Distribution networks are fundamentally more general than communication networks and solving distribution problems with a communications network is complex and error prone. NDN retains the Internet\u2019s hourglass architecture but evolves the thin waist to allow the creation of completely general distribution networks. The core element of this evolution is removing the restriction that packets can only name communication endpoints. As far as the network is concerned, the name in an NDN packet can be anything\u2014an endpoint, a chunk of movie or book, a command to turn on some lights, etc. This simple change allows NDN networks\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Anonymous named data networking application",
+        "id": "-sf4IhMAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Ersin Uzun",
+            "Steven DiBenedetto",
+            "Gene Tsudik",
+            "Paolo Gasti"
+        ],
+        "pub_source": "CCNxCon, CCN Community Meeting",
+        "pub_date": "2011/9",
+        "description": "Objective\u2022 Design a practical system for NDN that enables\u2013user privacy and anonymity\u2013censorship resistance",
+        "citations": 7
+    },
+    {
+        "title": "Pairing devices for social interactions: a comparative usability evaluation",
+        "id": "-sf4IhMAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Ersin Uzun",
+            "Nitesh Saxena",
+            "Arun Kumar"
+        ],
+        "pub_source": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2011/5/7",
+        "description": "When users wish to establish wireless radio communication between/among their devices, the channel has to be bootstrapped first. The process of setting up a secure communication channel between two previously unassociated devices is referred to as \"Secure Device Pairing\". The focus of prior research on this topic has mostly been limited to \"personal pairing\" scenarios, whereby a single user controls both the devices. In this paper, we instead consider \"social pairing\" scenarios, whereby two different users establish pairing between their respective devices. We present a comprehensive study to identify methods suitable for social pairing, and comparatively evaluate the usability and security of these methods. Our results identify methods best-suited for users, in terms of efficiency, error-tolerance and of course, usability. Our work provides insights on the applicability and usability of methods for emerging social\u00a0\u2026",
+        "citations": 29
+    },
+    {
+        "title": "Enhancing cyber-physical security through data patterns",
+        "id": "-sf4IhMAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Richard Chow",
+            "Ersin Uzun",
+            "Alvaro A C\u00e1rdenas",
+            "Zhexuan Song",
+            "Sung Lee"
+        ],
+        "pub_source": "Workshop on Foundations of Dependable and Secure Cyber-Physical Systems (FDSCPS)",
+        "pub_date": "2011/4/11",
+        "description": "In this position paper, we propose a data-driven approach for security management in a network that interacts or receives inputs from physical systems\u2013including human behavior. Our goal is to leverage the unique features of cyberphysical systems. In particular we propose:(1) the use of historical data from physical systems and human behaviors to enable anomaly detection,(2) the use of contextual data from multiple and diverse sensor readings to obtain a higher-level collective vision of the network for better event correlation and decision analysis, and (3) the use of physical sensor data and human behavior to enable fine-grained, dynamic access control and implicit authentication. We outline use cases describing how our ideas can be applied in the Home Area Network (HAN).",
+        "citations": 17
+    },
+    {
+        "title": "User-aided reader revocation in PKI-based RFID systems",
+        "id": "-sf4IhMAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Rishab Nithyanand",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Journal of Computer Security",
+        "pub_date": "2011/1/1",
+        "description": "Recent emergence of RFID tags capable of performing public key operations motivates new RFID applications, including electronic travel documents, identification cards and payment instruments. In this context, public key certificates form the cornerstone of the overall system security. In this paper, we argue that one of the prominent challenges is how to handle revocation and expiration checking of RFID reader certificates. This is an important issue considering that these high-end RFID tags are geared for applications such as e-documents and contactless payment instruments. Furthermore, the problem is unique to public key-based RFID systems, since a passive RFID tag has no clock and thus cannot use (time-based) off-line methods.",
+        "citations": 12
+    },
+    {
+        "title": "Usability of display-equipped rfid tags for security purposes",
+        "id": "-sf4IhMAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Alfred Kobsa",
+            "Rishab Nithyanand",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Computer Security\u2013ESORICS 2011: 16th European Symposium on Research in Computer Security, Leuven, Belgium, September 12-14, 2011. Proceedings 16",
+        "pub_date": "2011",
+        "description": "The recent emergence of RFID tags capable of performing public key operations has enabled a number of new applications in commerce (e.g., RFID-enabled credit cards) and security (e.g., ePassports and access-control badges). While the use of public key cryptography in RFID tags mitigates many difficult security issues, certain important usability-related issues remain, particularly when RFID tags are used for financial transactions or for bearer identification. In this paper, we focus exclusively on techniques with user involvement for secure user-to-tag authentication, transaction verification, reader expiration and revocation checking, as well as association of RFID tags with other personal devices. Our approach is based on two factors: (1) recent advances in hardware and manufacturing have made it possible to mass-produce inexpensive passive display-equipped RFID tags, and (2) high-end\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "SUDOKU: Secure and usable deployment of keys on wireless sensors",
+        "id": "-sf4IhMAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Matthias Wilhelm",
+            "Ivan Martinovic",
+            "Ersin Uzun",
+            "Jens B Schmitt"
+        ],
+        "pub_source": "2010 6Th IEEE workshop on secure network protocols",
+        "pub_date": "2010/10/5",
+        "description": "Initial deployment of secrets plays a crucial role in any security design, but especially in hardware constrained wireless sensor networks. Many key management schemes assume either manually pre-installed shared secrets or keys authenticated with the aid of out-of-band channels. While manually installing secret keys affects the practicability of the key deployment, out-of-band channels require additional interfaces of already hardware-limited wireless sensor nodes. In this work, we present a key deployment protocol that uses pair-wise ephemeral keys generated from physical layer information which subsequently enables an authenticated exchange of public keys. Hence, this work presents an elegant solution to the key deployment problem without requiring more capabilities than already available on common low-cost devices. To justify the feasibility of this solution, we implement and experimentally evaluate the\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Groupthink: Usability of secure group association for wireless devices",
+        "id": "-sf4IhMAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Rishab Nithyanand",
+            "Nitesh Saxena",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Proceedings of the 12th ACM international conference on Ubiquitous computing",
+        "pub_date": "2010/9/26",
+        "description": "A fairly common modern setting entails users, each in possession of a personal wireless device, wanting to communicate securely, via their devices. If these users (and their devices) have no prior association, a new security context must be established. In order to prevent potential attacks, the initial context (association) establishment process must involve only the intended devices and their users. A number of methods for initial secure association of two devices have been proposed; their usability factors have been explored and compared extensively. However, a more challenging problem of initial secure association of a group of devices (and users) has not received much attention. Although a few secure group association methods have been proposed, their usability aspects have not been studied, especially, in a comparative manner. This paper discusses desirable features and evaluation criteria for secure\u00a0\u2026",
+        "citations": 50
+    },
+    {
+        "title": "Usable bootstrapping of secure ad hoc communication",
+        "id": "-sf4IhMAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Ersin Uzun"
+        ],
+        "pub_source": "University of California, Irvine",
+        "pub_date": "2010/1/1",
+        "description": "Many security services rely on trusted third parties (TTPs), such as off-line Certification Authorities (CA-s) or online key servers, to enable authentication and secure communication among devices and their users. However, in many applications it is impractical to assume the existence of such trusted TTPs. In particular, some applications require direct communication between two or more wireless personal devices that have no prior context and no common point of trust or pre-shared secrets.  In this thesis, we look into the problem of establishing secure ad-hoc communication among devices that have no prior security context or a TTP. The main research contributions of this thesis are: (1) Show how to establish secure ad-hoc communication over a short-range wireless communication channel using three new approaches each having some obvious advantages over the currently available solutions. (a) We\u00a0\u2026"
+    },
+    {
+        "title": "Readers behaving badly: Reader revocation in PKI-based RFID systems",
+        "id": "-sf4IhMAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Rishab Nithyanand",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Computer Security\u2013ESORICS 2010: 15th European Symposium on Research in Computer Security, Athens, Greece, September 20-22, 2010. Proceedings 15",
+        "pub_date": "2010",
+        "description": "Recent emergence of RFID tags capable of performing public key operations motivates new RFID applications, including electronic travel documents, identification cards and payment instruments. In this context, public key certificates form the cornerstone of the overall system security. In this paper, we argue that one of the prominent challenges is how to handle revocation and expiration checking of RFID reader certificates. This is an important issue considering that these high-end RFID tags are geared for applications such as e-documents and contactless payment instruments. Furthermore, the problem is unique to public key-based RFID systems, since a passive RFID tag has no clock and thus cannot use (time-based) off-line methods. In this paper, we address the problem of reader certificate expiration and revocation in PKI-Based RFID systems. We begin by observing an important distinguishing\u00a0\u2026",
+        "citations": 31
+    },
+    {
+        "title": "A comparative study of secure device pairing methods",
+        "id": "-sf4IhMAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Arun Kumar",
+            "Nitesh Saxena",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Pervasive and Mobile Computing",
+        "pub_date": "2009/12/1",
+        "description": "\u201cSecure Device Pairing\u201d or \u201cSecure First Connect\u201d is the process of bootstrapping a secure channel between two previously unassociated devices over some (usually wireless) human-imperceptible communication channel. Absence of prior security context and common trust infrastructure open the door for the so-called Man-in-the-Middle and Evil Twin attacks. Mitigation of these attacks requires some level of user involvement in the device pairing process. Prior research yielded a number of technically sound methods relying on various auxiliary human-perceptible out-of-band channels, e.g.,\u00a0visual, acoustic and tactile. Such methods engage the user in authenticating information exchanged over the human-imperceptible channel, thus defending against MiTM\u00a0attacks and forming the basis for secure pairing. This paper reports on a comprehensive and comparative evaluation of notable secure device pairing\u00a0\u2026",
+        "citations": 114
+    },
+    {
+        "title": "Alice meets bob: A comparative usability study of wireless device pairing methods for a\" two-user\" setting",
+        "id": "-sf4IhMAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Arun Kumar",
+            "Nitesh Saxena",
+            "Ersin Uzun"
+        ],
+        "pub_source": "arXiv preprint arXiv:0907.4743",
+        "pub_date": "2009/7/27",
+        "description": "When users want to establish wireless communication between/among their devices, the channel has to be bootstrapped first. To prevent any malicious control of or eavesdropping over the communication, the channel is desired to be authenticated and confidential. The process of setting up a secure communication channel between two previously unassociated devices is referred to as \"Secure Device Pairing\". When there is no prior security context, e.g., shared secrets, common key servers or public key certificates, device pairing requires user involvement into the process. The idea usually involves leveraging an auxiliary human-perceptible channel to authenticate the data exchanged over the insecure wireless channel. We observe that the focus of prior research has mostly been limited to pairing scenarios where a single user controls both the devices. In this paper, we consider more general and emerging \"two-user\" scenarios, where two different users establish pairing between their respective devices. Although a number of pairing methods exists in the literature, only a handful of those are applicable to the two-user setting. We present the first study to identify the methods practical for two-user pairing scenarios, and comparatively evaluate the usability of these methods. Our results identify methods best-suited for users, in terms of efficiency, error-tolerance and of course, usability. Our work sheds light on the applicability and usability of pairing methods for emerging two-user scenarios, a topic largely ignored so far.",
+        "citations": 9
+    },
+    {
+        "title": "Serial hook-ups: a comparative usability study of secure device pairing methods",
+        "id": "-sf4IhMAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Alfred Kobsa",
+            "Rahim Sonawalla",
+            "Gene Tsudik",
+            "Ersin Uzun",
+            "Yang Wang"
+        ],
+        "pub_source": "Proceedings of the 5th Symposium on Usable Privacy and Security",
+        "pub_date": "2009/7/15",
+        "description": "Secure Device Pairing is the bootstrapping of secure communication between two previously unassociated devices over a wireless channel. The human-imperceptible nature of wireless communication, lack of any prior security context, and absence of a common trust infrastructure open the door for Man-in-the-Middle (aka Evil Twin) attacks. A number of methods have been proposed to mitigate these attacks, each requiring user assistance in authenticating information exchanged over the wireless channel via some human-perceptible auxiliary channels, e.g., visual, acoustic or tactile. In this paper, we present results of the first comprehensive and comparative study of eleven notable secure device pairing methods. Usability measures include: task performance times, ratings on System Usability Scale (SUS), task completion rates, and perceived security. Study subjects were controlled for age, gender and prior\u00a0\u2026",
+        "citations": 101
+    },
+    {
+        "title": "Caveat eptor: A comparative study of secure device pairing methods",
+        "id": "-sf4IhMAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Arun Kumar",
+            "Nitesh Saxena",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "2009 IEEE International Conference on Pervasive Computing and Communications",
+        "pub_date": "2009/3/9",
+        "description": "ldquoSecure Device Pairingrdquo is the process of bootstrapping a secure channel between two previously unassociated devices over a (usually wireless) human-imperceptible communication channel. Lack of prior security context and common trust infrastructure open the door for Man-in-the-Middle (also known as Evil Twin) attacks. Mitigation of these attacks requires user involvement in the device pairing process. Prior research yielded a number of interesting methods utilizing various auxiliary human-perceptible channels, e.g., visual, acoustic or tactile. These methods engage the user in authenticating information exchanged over human-imperceptible channels, thus mitigating MiTM attacks and forming the basis for secure pairing. We present the first comprehensive comparative evaluation of notable secure device pairing methods. Our results identify methods best-suited for a given combination of devices and\u00a0\u2026",
+        "citations": 102
+    },
+    {
+        "title": "On the usability of secure association of wireless devices based on distance bounding",
+        "id": "-sf4IhMAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Mario Cagalj",
+            "Nitesh Saxena",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Cryptology and Network Security: 8th International Conference, CANS 2009, Kanazawa, Japan, December 12-14, 2009. Proceedings 8",
+        "pub_date": "2009",
+        "description": "When users wish to establish wireless communication between their devices, the channel needs to be bootstrapped first. Usually, the channel is desired to be authenticated and confidential, in order to mitigate any malicious control of or eavesdropping over the communication. When there is no prior security context, such as, shared secrets, common key servers or public key certificates, device association necessitates some level of user involvement into the process. A wide variety of user-aided security association techniques have been proposed in the past. A promising set of techniques require out-of-band communication between the devices (e.g., auditory, visual, or tactile). The usability evaluation of such techniques has been an active area of research. In this paper, our focus is on the usability of an alternative method of secure association \u2013 Integrity regions (I-regions) [40] \u2013 based on distance\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Using audio in secure device pairing",
+        "id": "-sf4IhMAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Michael T Goodrich",
+            "Michael Sirivianos",
+            "John Solis",
+            "Claudio Soriente",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "International Journal of Security and Networks",
+        "pub_date": "2009/1/1",
+        "description": "Secure pairing of electronic devices is an important issue that must be addressed in many contexts. In the absence of prior security context, the need to involve the user in the pairing process is a prominent challenge. In this paper, we investigate the use of the audio channel for human-assisted device pairing. First we assume a common (insecure) wireless channel between devices. We then obviate the assumption of a pre-existing common channel with a single-channel device pairing approach only based on audio. Both approaches are applicable to a wide range of devices and place light burden on the user.",
+        "citations": 47
+    },
+    {
+        "title": "Secure pairing of interface constrained devices",
+        "id": "-sf4IhMAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Claudio Soriente",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "International Journal of Security and Networks",
+        "pub_date": "2009/1/1",
+        "description": "Secure initial pairing of electronic gadgets is a challenging problem because of the usual lack of a common security infrastructure and the threat of so-called Man-in-the-Middle (MiTM) attacks. A number of techniques have been proposed to address the problem, but many are not applicable to devices lacking required interfaces, such as displays or speakers. In this paper, we introduce a new secure device pairing concept that involves using the human body either as the communication medium for \u2013 or the source of \u2013 the common secret. We implement the concept as a suite of practical pairing protocols for interface constrained devices.",
+        "citations": 32
+    },
+    {
+        "title": "Security of relational databases in business outsourcing",
+        "id": "-sf4IhMAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Ersin Uzun",
+            "Bryan Stephenson"
+        ],
+        "pub_source": "HP Labs Report HPL-2008-168",
+        "pub_date": "2008",
+        "description": "For most corporations the volume of sensitive data used by outsourcing providers continues to increase. As the number of different entities having access to a database increases, it gets harder to prevent and trace-back data leakage. We address the problems of proving ownership and unauthorized data distribution (leakage) for relational databases. We propose three techniques that altogether may be used to detect, deter and trace-back data leaks from relational databases. We use business process outsourcing scenarios as the descriptive use case, but our techniques are equally applicable in other use cases when a relational database is shared among many parties and its confidentiality and authenticity needs to be protected. Previous work has shown how to watermark and fingerprint numerical relational data to prove ownership and track unauthorized redistributions respectively. This work represents the first attempt to find more general solutions that can practically accommodate relational data with non-numerical or error sensitive attributes that are common in corporate databases.",
+        "citations": 15
+    },
+    {
+        "title": "HAPADEP: human-assisted pure audio device pairing",
+        "id": "-sf4IhMAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Claudio Soriente",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Information Security: 11th International Conference, ISC 2008, Taipei, Taiwan, September 15-18, 2008. Proceedings 11",
+        "pub_date": "2008",
+        "description": "The number and diversity of personal electronic gadgets have been steadily increasing but there has been fairly little progress in secure pairing of such devices. The pairing challenge revolves around establishing on-the-fly secure communication without any trusted (on- or off-line) third parties between devices that have no prior association. One basic approach to counter Man-in-the-Middle (MiTM) attacks in such setting is to involve the user in the pairing process. Previous research yielded some interesting secure pairing techniques, some of which ask too much of the human user, while others assume availability of specialized equipment (e.g., wires, photo or video cameras) on personal devices. Furthermore, all prior methods assumed an established insecure channel over a common digital (human-imperceptible) communication medium, such as infrared, 802.11 or Bluetooth. In this paper we\u00a0\u2026",
+        "citations": 180
+    },
+    {
+        "title": "Framework for comparative usability testing of distributed applications",
+        "id": "-sf4IhMAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Kari Kostiainen",
+            "Ersin Uzun",
+            "N Asokan",
+            "Philip Ginzboorg"
+        ],
+        "pub_source": "Security User Studies: Methodologies and Best Practices Workshop",
+        "pub_date": "2007/3/20",
+        "description": "Comparative usability tests are highly useful when the optimal method to perform a certain user task needs to be selected from several alternatives. However, organizing comparative usability tests is laborious, since either complete application implementations or partial user interface mockups need to be implemented for each tested method. Testing distributed applications requires even more work, since implementing mere user interface mockups is not enough; networking functionality needs to be implemented as well to achieve the real user experience. In this paper we present a usability test framework for one distributed application type: pairing methods. Our framework supports automated test sessions, automatic test data collection and error condition simulation. Developing new pairing method mockups for user testing is easy and fast using the framework, and existing pairing method implementations can be plugged to the framework for testing with minimal changes.",
+        "citations": 18
+    },
+    {
+        "title": "Usability analysis of secure pairing methods",
+        "id": "-sf4IhMAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Ersin Uzun",
+            "Kristiina Karvonen",
+            "Nadarajah Asokan"
+        ],
+        "pub_source": "International Conference on Financial Cryptography and Data Security",
+        "pub_date": "2007/2/12",
+        "description": "Setting up security associations between end-user devices is a challenging task when it needs to be done by ordinary users. The increasing popularity of powerful personal electronics with wireless communication abilities has made the problem more urgent than ever before. During the last few years, several solutions have appeared in the research literature. Several standardization bodies have also been working on improved setup procedures. All these protocols provide certain level of security, but several new questions arise, such as \u201dhow to implement this protocol so that it is easy to use?\u201d and \u201dis it still secure when used by a non-technical person?\u201d In this paper, we attempt to answer these questions by carrying out a comparative usability evaluation of selected methods to derive some insights into the usability and security of these methods as well as strategies for implementing them.",
+        "citations": 193
+    },
+    {
+        "title": "BEDA: Button-enabled device pairing",
+        "id": "-sf4IhMAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Claudio Soriente",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Cryptology ePrint Archive",
+        "pub_date": "2007",
+        "description": "Secure initial pairing of electronic gadgets is a challenging problem, especially considering lack of any common security infrastructure. The main security issue is the threat of so-called Man-in-the-Middle (MiTM) attacks, whereby an attacker inserts itself into the pairing protocol by impersonating one of the legitimate parties. A number of interesting techniques have been proposed, all of which involve the user in the pairing process. However, they are inapplicable to many common scenarios where devices to-be-paired do not possess required interfaces, such as displays, speakers, cameras or microphones. In this paper, we introduce BEDA (Button-Enabled Device Association), a protocol suite for secure pairing devices with minimal user interfaces. The most common and minimal interface available on wide variety of devices is a single button. BEDA protocols can accommodate pairing scenarios where one (or even both) devices only have a single button as their\" user interface\". Our usability study demonstrates that BEDA protocols involve very little human burden and are quite suitable for ordinary users.",
+        "citations": 116
+    },
+    {
+        "title": "Loud and clear: Human-verifiable authentication based on audio",
+        "id": "-sf4IhMAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Michael T Goodrich",
+            "Michael Sirivianos",
+            "John Solis",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "26th IEEE International Conference on Distributed Computing Systems (ICDCS'06)",
+        "pub_date": "2006/7/4",
+        "description": "Secure pairing of electronic devices that lack any previous association is a challenging problem which has been considered in many contexts and in various flavors. In this paper, we investigate the use of audio for human-assisted authentication of previously un-associated devices. We develop and evaluate a system we call Loud-and-Clear (L&C) which places very little demand on the human user. L&C involves the use of a text-to-speech (TTS) engine for vocalizing a robust-sounding and syntactically-correct (English-like) sentence derived from the hash of a device\u2019s public key. By coupling vocalization on one device with the display of the same information on another device, we demonstrate that L&C is suitable for secure device pairing (e.g., key exchange) and similar tasks. We also describe several common use cases, provide some performance data for our prototype implementation and discuss the security\u00a0\u2026",
+        "citations": 345
+    },
+    {
+        "title": "A reputation-based trust management system for P2P networks",
+        "id": "-sf4IhMAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Ali Aydin Selcuk",
+            "Ersin Uzun",
+            "Mark Resat Pariente"
+        ],
+        "pub_source": "IEEE International Symposium on Cluster Computing and the Grid, 2004. CCGrid 2004.",
+        "pub_date": "2004/4/19",
+        "description": "The open and anonymous nature of a P2P network makes it an ideal medium for attackers to spread malicious content. In this paper we describe a reputation-based trust management protocol for P2P networks where users rate the reliability of parties they deal with, and share this information with their peers. The protocol helps establish trust among good peers as well as identifying the malicious ones. Results of various simulation experiments show that the proposed system can be highly effective in preventing the spread of malicious content in P2P networks.",
+        "citations": 445
+    },
+    {
+        "title": "SANALDA: A Source Authenticating Network Architecture Limiting DoS Attacks",
+        "id": "-sf4IhMAAAAJ:ML0RJ9NH7IQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:ML0RJ9NH7IQC",
+        "authors": [
+            "Michael Sirivianos",
+            "Ersin Uzun",
+            "Ines Viskic"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "We present a novel and incrementally deployable network architecture, aiming at preventing IP spoofing and DoS attacks. Our design prevents forged IP packets from entering the network and accessing the destination service, while assuring simple and fast access to compliant users. Our system enforces user authentication on the IP level, periodically stamping each IP packet with a unique, identity-based signature of the sender. Spoofed packets are detected as soon as they arrive at the source authenticating router, by detecting discrepancies between signatures in the packet headers and their declared IP address or by checking special markings. In addition, we use capabilities to enable the receivers to decide which senders are allowed to send traffic. Hence, our architecture limits the impact of DoS attacks, which use either spoofed or non-spoofed IP traffic. To the best of our knowledge, no prior work has used Identity Based Signatures for IP host authentication. We propose an IBS-based solution that addresses a broad range of network vulnerabilities. We implemented our design as a router module to measure the associated performance degradation and demonstrate its potential for Internet-wide deployment."
+    },
+    {
+        "title": "This file was downloaded from: http://eprints. qut. edu. au/69169",
+        "id": "-sf4IhMAAAAJ:0KyAp5RtaNEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:0KyAp5RtaNEC",
+        "authors": [
+            "Simon Barber",
+            "Xavier Boyen",
+            "Elaine Shi",
+            "Ersin Uzun"
+        ],
+        "pub_source": "Science",
+        "pub_date": "",
+        "description": "Bitcoin is a distributed digital currency which has attracted a substantial number of users. We perform an in-depth investigation to understand what made Bitcoin so successful, while decades of research on cryptographic e-cash has not lead to a large-scale deployment. We ask also how Bitcoin could become a good candidate for a long-lived stable currency. In doing so, we identify several issues and attacks of Bitcoin, and propose suitable techniques to address them."
+    },
+    {
+        "title": "AC3N: An API and Service for Anonymous Communication in Content-Centric Networking (Extended Version)",
+        "id": "-sf4IhMAAAAJ:5Ul4iDaHHb8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:5Ul4iDaHHb8C",
+        "authors": [
+            "Gene Tsudik",
+            "Ersin Uzun",
+            "Christopher A Wood"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Privacy problems that stem from a lack of truly anonymous communication in today\u2019s Internet are exacerbated by growing evidence of large-scale network packet interception and eavesdropping [12]. Internet users have a limited set of tools available at their disposal to enable better communication, including Tor [3] and new protocols such as tcpcrypt [8, 9] and DNS-over-TLS [32]. Content-Centric Networking (CCN) is an emerging (inter-) networking architecture with the goal of becoming an alternative to the IP-based Internet. Such an architecture must at least have parity with IP based solutions for anonymous communication. Thus, there is a clear demand for a CCN analog to Tor and related protocols. ANDaNA (Anonymous Named Data Networking Application) was the initial attempt to satisfy this demand for CCNs in the context of the legacy Named Data Networking (NDN) architecture\u2013an instance of CCN. However, its elementary design and hasty implementation led to performance and usability issues that hinder practical use. In this paper, we introduce AC3N: Anonymous Communication for Content-Centric Networking, a substantially evolved and improved incarnation of ANDaNA. AC3N supports high-throughput and low-latency anonymous content retrieval in modern CCNs, for both unidirectional and bidirectional settings. We discuss the design, implementation, performance, and anonymity properties of AC3N. Our experimental results indicate that AC3N incurs very low overhead while providing anonymity features analogous to Tor."
+    },
+    {
+        "title": "BEDA",
+        "id": "-sf4IhMAAAAJ:tS2w5q8j5-wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:tS2w5q8j5-wC",
+        "authors": [
+            "Claudio Soriente",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Secure initial pairing of electronic gadgets is a challenging problem because of the usual lack of a common security infrastructure and the threat of so-called Man-in-the-Middle (MiTM) attacks, whereby an attacker inserts itself into the pairing protocol by impersonating one of the legitimate parties. A number of interesting techniques have been proposed, all of which involve the user in the pairing process. However, they are inapplicable to many common scenarios where devices to-be-paired do not possess required interfaces, such as displays, speakers, cameras or microphones. In this paper, we introduce BEDA (Button-Enabled Device Association), a protocol suite for secure pairing devices with minimal user interfaces. The most common and minimal interface available on wide variety of devices is a single button. BEDA protocols can accommodate pairing scenarios where one (or even both) devices only have a single button as their \u201cuser interface\u201d. Our usability study demonstrates that BEDA protocols involve very little human burden and are quite suitable for ordinary users."
+    },
+    {
+        "title": "CCNx 1.0 Elements of Trust",
+        "id": "-sf4IhMAAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:blknAaTinKkC",
+        "authors": [
+            "Ersin Uzun",
+            "Cesar Ghali",
+            "Gene Tsudik"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "In contrast to today\u2019s IP-based host-oriented Internet architecture, Information-Centric Networking (ICN) emphasizes content by making it directly addressable and routable. CCNx is an instance of ICN designed by PARC as a reference implementation. By opportunistically caching content within the network (in routers) and providing security at the network layer, CCNx appears to be well-suited for large-scale content distribution, internet of things and for meeting the needs of increasingly mobile and bandwidth-hungry applications that dominate today\u2019s Internet. One key feature of the original CCNx design is the requirement for each content object to be digitally signed by its producer. Thus, CCNx should be, in principle, immune to distributing fake (aka \u201cpoisoned\u201d) content. However, in practice, this poses two challenges for detecting fake content in CCNx routers:(1) overhead due to signature verification and certificate\u00a0\u2026"
+    },
+    {
+        "title": "Group Key Distribution Schemes for Secure Multicast in Mobile Ad Hoc Networks",
+        "id": "-sf4IhMAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Ersin Uzun"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "In this paper, we give a brief overview of several recent proposals that address the problem of group key distribution in secure multicasting over mobile ad hoc networks. We discuss the requirements and challenges raised from multicast in ad hoc networks in general and group key distribution over mobile ad hoc networks in particular. We also give the analysis of each proposal in terms of efficiency, security and completeness."
+    },
+    {
+        "title": "CHECK THE DATE: Reader Revocation in PKI-Based RFID Systems",
+        "id": "-sf4IhMAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=-sf4IhMAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Rishab Nithyanand",
+            "Gene Tsudik",
+            "Ersin Uzun"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "One prominent open problem with RFID tags that support public key cryptography is revocation of reader certificates. This is an important issue considering that highend RFID tags are geared for public key applications such as e-documents and contactless payment instruments. Furthermore, the problem is unique to public key-based RFID systems, since tags have no clock and thus cannot use traditional (time-based) off-line revocation checking methods. Whereas, on-line methods require unrealistic connectivity assumptions. We address the problem of reader revocation in PKI-Based RFID systems. We begin by observing an important distinguishing feature of personal RFID tags used in authentication, access control or payment applications-the involvement of a human user. We then take advantage of the user\u2019s awareness and presence to construct a simple, efficient, secure and (most importantly) feasible solution for reader revocation checking. And finally, we evaluate our solution via a user study and a discussion of its application feasibility. In our approach, the main extra feature is the requirement for a small passive on-tag display. However, modern low-power display technology is low-cost and appealing for other security purposes such as user-to-tag authentication and transaction verification."
+    }
+]

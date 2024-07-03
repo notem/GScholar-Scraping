@@ -1,0 +1,1947 @@
+[
+    {
+        "title": "A First Look into Targeted Clickbait and its Countermeasures: The Power of Storytelling",
+        "id": "icDo19sAAAAJ:Amrzk_ktLr0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:Amrzk_ktLr0C",
+        "authors": [
+            "Ankit Shrestha",
+            "Audrey Flood",
+            "Saniat Sohrawardi",
+            "Matthew Wright",
+            "Mahdi Nasrullah Al-Ameen"
+        ],
+        "pub_source": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2024/5/11",
+        "description": "Clickbait headlines work through superlatives and intensifiers, creating information gaps to increase the relevance of their associated links that direct users to time-wasting and sometimes even malicious websites. This approach can be amplified using targeted clickbait that takes publicly available information from social media to align clickbait to users\u2019 preferences and beliefs. In this work, we first conducted preliminary studies to understand the influence of targeted clickbait on users\u2019 clicking behavior. Based on our findings, we involved 24 users in the participatory design of story-based warnings against targeted clickbait. Our analysis of user-created warnings led to four design variations, which we evaluated through an online survey over Amazon Mechanical Turk. Our findings show the significance of integrating information with persuasive narratives to create effective warnings against targeted clickbait. Overall\u00a0\u2026"
+    },
+    {
+        "title": "Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video content",
+        "id": "icDo19sAAAAJ:-ZoC36zw86wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:-ZoC36zw86wC",
+        "authors": [
+            "Saniat Javid Sohrawardi",
+            "Y Kelly Wu",
+            "Andrea Hickerson",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2024/5/11",
+        "description": "The evolving landscape of manipulated media, including the threat of deepfakes, has made information verification a daunting challenge for journalists. Technologists have developed tools to detect deepfakes, but these tools can sometimes yield inaccurate results, raising concerns about inadvertently disseminating manipulated content as authentic news. This study examines the impact of unreliable deepfake detection tools on information verification. We conducted role-playing exercises with 24 US journalists, immersing them in complex breaking-news scenarios where determining authenticity was challenging. Through these exercises, we explored questions regarding journalists\u2019 investigative processes, use of a deepfake detection tool, and decisions on when and what to publish. Our findings reveal that journalists are diligent in verifying information, but sometimes rely too heavily on results from deepfake\u00a0\u2026"
+    },
+    {
+        "title": "SoK: A critical evaluation of efficient website fingerprinting defenses",
+        "id": "icDo19sAAAAJ:SEKBqlyTJecC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:SEKBqlyTJecC",
+        "authors": [
+            "Nate Mathews",
+            "James K Holland",
+            "Se Eun Oh",
+            "Mohammad Saidur Rahman",
+            "Nicholas Hopper",
+            "Matthew Wright"
+        ],
+        "pub_source": "2023 IEEE Symposium on Security and Privacy (SP)",
+        "pub_date": "2023/5/21",
+        "description": "Recent website fingerprinting attacks have been shown to achieve very high performance against traffic through Tor. These attacks allow an adversary to deduce the website a Tor user has visited by simply eavesdropping on the encrypted communication. This has consequently motivated the development of many defense strategies that obfuscate traffic through the addition of dummy packets and/or delays. The efficacy and practicality of many of these recent proposals have yet to be scrutinized in detail. In this study, we re-evaluate nine recent defense proposals that claim to provide adequate security with low-overheads using the latest Deep Learning-based attacks. Furthermore, we assess the feasibility of implementing these defenses within the current confines of Tor. To this end, we additionally provide the first on-network implementation of the DynaFlow defense to better assess its real-world utility.",
+        "citations": 29
+    },
+    {
+        "title": "Poster: Towards Continual Learning for Malware Classification",
+        "id": "icDo19sAAAAJ:V63Ir2N1OTwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:V63Ir2N1OTwC",
+        "authors": [
+            "Mohammad Saidur Rahman",
+            "Scott E Coull",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Symposium on Security & Privacy",
+        "pub_date": "2023/5"
+    },
+    {
+        "title": "On the limitations of continual learning for malware classification",
+        "id": "icDo19sAAAAJ:JhbybO29vGQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:JhbybO29vGQC",
+        "authors": [
+            "Mohammad Saidur Rahman",
+            "Scott Coull",
+            "Matthew Wright"
+        ],
+        "pub_source": "Conference on Lifelong Learning Agents",
+        "pub_date": "2022/11/28",
+        "description": "Malicious software (malware) classification offers a unique challenge for continual learning (CL) regimes due to the volume of new samples received on a daily basis and the evolution of malware to exploit new vulnerabilities. On a typical day, antivirus vendors receive hundreds of thousands of unique pieces of software, both malicious and benign, and over the course of the lifetime of a malware classifier, more than a billion samples can easily accumulate. Given the scale of the problem, sequential training using continual learning techniques could provide substantial benefits in reducing training and storage overhead. To date, however, there has been no exploration of CL applied to malware classification tasks. In this paper, we study 11 CL techniques applied to three malware tasks covering common incremental learning scenarios, including task, class, and domain incremental learning (IL). Specifically, using two realistic, large-scale malware datasets, we evaluate the performance of the CL methods on both binary malware classification (Domain-IL) and multi-class malware family classification (Task-IL and Class-IL) tasks. To our surprise, continual learning methods significantly underperformed naive {\\em Joint} replay of the training data in nearly all settings\u2013in some cases reducing accuracy by more than 70 percentage points. A simple approach of selectively replaying 20% of the stored data achieves better performance, with 50% of the training time compared to {\\em Joint} replay. Finally, we discuss potential reasons for the unexpectedly poor performance of the CL techniques, with the hope that it spurs further research on developing\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Evaluating robustness of sequence-based deepfake detector models by adversarial perturbation",
+        "id": "icDo19sAAAAJ:TNEldfgDb5MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:TNEldfgDb5MC",
+        "authors": [
+            "Shaikh Akib Shahriyar",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 1st Workshop on Security Implications of Deepfakes and Cheapfakes",
+        "pub_date": "2022/5/30",
+        "description": "Deepfake videos are getting better in quality and can be used for dangerous disinformation campaigns. The pressing need to detect these videos has motivated researchers to develop different types of detection models. Among them, the models that utilize temporal information (i.e., sequence-based models) are more effective at detection than the ones that only detect intra-frame discrepancies. Recent work has shown that the latter detection models can be fooled with adversarial examples, leveraging the rich literature on crafting adversarial (still) images. It is less clear, however, how well these attacks will work on sequence-based models that operate on information taken over multiple frames. In this paper, we explore the effectiveness of the Fast Gradient Sign Method (FGSM) and the Carlini-Wagner L2-norm attack to fool sequence-based deepfake detector models in both the white-box and black-box settings\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "DeepCoFFEA: Improved flow correlation attacks on Tor via metric learning and amplification",
+        "id": "icDo19sAAAAJ:0paDrhnEFY0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:0paDrhnEFY0C",
+        "authors": [
+            "Se Eun Oh",
+            "Taiji Yang",
+            "Nate Mathews",
+            "James K Holland",
+            "Mohammad Saidur Rahman",
+            "Nicholas Hopper",
+            "Matthew Wright"
+        ],
+        "pub_source": "2022 IEEE Symposium on Security and Privacy (SP)",
+        "pub_date": "2022/5/22",
+        "description": "End-to-end flow correlation attacks are among the oldest known attacks on low-latency anonymity networks, and are treated as a core primitive for traffic analysis of Tor. However, despite recent work showing that individual flows can be correlated with high accuracy, the impact of even these state-of-the-art attacks is questionable due to a central drawback: their pairwise nature, requiring comparison between N 2  pairs of flows to deanonymize N users. This results in a combinatorial explosion in computational requirements and an asymptotically declining base rate, leading to either high numbers of false positives or vanishingly small rates of successful correlation. In this paper, we introduce a novel flow correlation attack, DeepCoFFEA, that combines two ideas to overcome these drawbacks. First, DeepCoFFEA uses deep learning to train a pair of feature embedding networks that respectively map Tor and exit flows\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "On improving the memorability of system-assigned recognition-based passwords",
+        "id": "icDo19sAAAAJ:w-fwKiQwpQAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:w-fwKiQwpQAC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Sonali T Marne",
+            "Kanis Fatema",
+            "Matthew Wright",
+            "Shannon Scielzo"
+        ],
+        "pub_source": "Behaviour & Information Technology",
+        "pub_date": "2022/4/4",
+        "description": "User-chosen passwords reflecting common strategies and patterns ease memorisation but offer uncertain and often weak security, while system-assigned passwords provide higher security guarantee but suffer from poor memorability. We thus examine the technique to enhance password memorability that incorporates a scientific understanding of long-term memory. In particular, we examine the efficacy of providing users with verbal cues\u2014real-life facts corresponding to system-assigned keywords. We also explore the usability gain of including images related to the keywords along with verbal cues. In our multi-session lab study with 52 participants, textual recognition-based scheme offering verbal cues had a significantly higher login success rate (94.23%) compared to the control condition, i.e. textual recognition without verbal cues (61.54%). When users were provided with verbal cues, adding images contributed\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Gradient Frequency Modulation for Visually Explaining Video Understanding Models",
+        "id": "icDo19sAAAAJ:RmcNAhKkducC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:RmcNAhKkducC",
+        "authors": [
+            "Xinmiao Lin",
+            "Wentao Bao",
+            "Matthew Wright",
+            "Yu Kong"
+        ],
+        "pub_source": "Proceedings of the 2021 British Machine Vision Conference (BMVC)",
+        "pub_date": "2021/11/22",
+        "description": "In many applications, it is essential to understand why a machine learning model makes the decisions it does, but this is inhibited by the black-box nature of state-of-the-art neural networks. Because of this, increasing attention has been paid to explainability in deep learning, including in the area of video understanding. Due to the temporal dimension of video data, the main challenge of explaining a video action recognition model is to produce spatiotemporally consistent visual explanations, which has been ignored in the existing literature. In this paper, we propose Frequency-based Extremal Perturbation (F-EP) to explain a video understanding model's decisions. Because the explanations given by perturbation methods are noisy and non-smooth both spatially and temporally, we propose to modulate the frequencies of gradient maps from the neural network model with a Discrete Cosine Transform (DCT). We show in a range of experiments that F-EP provides more spatiotemporally consistent explanations that more faithfully represent the model's decisions compared to the existing state-of-the-art methods.",
+        "citations": 1
+    },
+    {
+        "title": "What a shame: Smart assistant voice command fingerprinting utilizing deep learning",
+        "id": "icDo19sAAAAJ:_TjUWtciUekC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:_TjUWtciUekC",
+        "authors": [
+            "Jack Hyland",
+            "Conrad Schneggenburger",
+            "Nick Lim",
+            "Jake Ruud",
+            "Nate Mathews",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 20th Workshop on Workshop on Privacy in the Electronic Society",
+        "pub_date": "2021/11/15",
+        "description": "It is estimated that by the year 2024, the total number of systems equipped with voice assistant software will exceed 8.4 billion devices globally. While these devices provide convenience to consumers, they suffer from a myriad of security issues. This paper highlights the serious privacy threats exposed by information leakage in a smart assistant's encrypted network traffic metadata. To investigate this issue, we have collected a new dataset composed of dynamic and static commands posed to an Amazon Echo Dot using data collection and cleaning scripts we developed. Furthermore, we propose the Smart Home Assistant Malicious Ensemble model (SHAME) as the new state-of-the-art Voice Command Fingerprinting classifier. When evaluated against several datasets, our attack correctly classifies encrypted voice commands with up to 99.81% accuracy on Google Home traffic and 95.2% accuracy on Amazon Echo\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "A look into user privacy andthird-party applications in Facebook",
+        "id": "icDo19sAAAAJ:QYmifXMdJWgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:QYmifXMdJWgC",
+        "authors": [
+            "Sovantharith Seng",
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Information & Computer Security",
+        "pub_date": "2021/8/3",
+        "description": "PurposeA huge amount of personal and sensitive data are shared on Facebook, which makes it a prime target for attackers. Adversaries can exploit third-party applications connected to a user\u2019s Facebook profiles (i.e. Facebook apps) to gain access to this personal information. Users\u2019 lack of knowledge and the varying privacy policies of these apps make them further vulnerable to information leakage. However, little has been done to identify mismatches between users\u2019 perceptions and the privacy policies of Facebook apps. This paper aims to address this challenge in the work.Design/methodology/approachThe authors conducted a lab study with 31 participants, where the authors received data on how they share information on Facebook, their Facebook-related security and privacy practices and their perceptions on the privacy aspects of 65 frequently-used Facebook apps in terms of data collection, sharing and\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "A first look into users\u2019 perceptions of facial recognition in the physical world",
+        "id": "icDo19sAAAAJ:nj26e0utjpAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:nj26e0utjpAC",
+        "authors": [
+            "Sovantharith Seng",
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Computers & Security",
+        "pub_date": "2021/6/1",
+        "description": "Facial recognition (FR) technology is being adopted in both private and public spheres for a wide range of reasons, from ensuring physical safety to providing personalized shopping experiences. It is not clear yet, though, how users perceive this emerging technology in terms of usefulness, risks, and comfort. We begin to address these questions in this paper. In particular, we conducted a vignette-based study with 314 participants on Amazon Mechanical Turk to investigate their perceptions of facial recognition in the physical world, based on thirty-five scenarios across eight different contexts of FR use. We found that users do not have a binary answer towards FR adoption. Rather, their perceptions are grounded in the specific contexts in which FR will be applied. The participants considered a broad range of factors, including control over facial data, the utility of FR, the trustworthiness of organizations using FR, and\u00a0\u2026",
+        "citations": 19
+    },
+    {
+        "title": "Locimotion: Towards learning a strong authentication secret in a single session",
+        "id": "icDo19sAAAAJ:XUAslYVNQLQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:XUAslYVNQLQC",
+        "authors": [
+            "Jayesh Doolani",
+            "Matthew Wright",
+            "Rajesh Setty",
+            "SM Taiabul Haque"
+        ],
+        "pub_source": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2021/5/6",
+        "description": "In this work, we design and evaluate LociMotion, a training interface to learn a strong authentication secret in a single session. LociMotion automatically takes a random password with twelve lowercase letters (56-bit entropy) to generate the training interface. It first leverages users\u2019 spatial and visual (declarative) memory by showing them a video clip based on the method of loci, and then consolidates the learning process by having them play a computer game that leverages their motor (procedural) memory. The results of a memorability study with 300 participants showed that LociMotion had a significantly higher recall success rate than a control condition. A second study with 200 participants demonstrated the effectiveness of LociMotion over a period of time (99%, 96%, and 81% recall success rates after 1, 4, and 18 days, respectively). LociMotion offers an alternative to the spaced repetition technique, as it does\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "GANDaLF: GAN for Data-Limited Fingerprinting.",
+        "id": "icDo19sAAAAJ:eLRq4zTgah0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:eLRq4zTgah0C",
+        "authors": [
+            "Se Eun Oh",
+            "Nate Mathews",
+            "Mohammad Saidur Rahman",
+            "Matthew Wright",
+            "Nicholas Hopper"
+        ],
+        "pub_source": "Proceedings on Privacy Enhancing Technologies (PoPETs)",
+        "pub_date": "2021",
+        "description": "Abstract We introduce Generative Adversarial Networks for Data-Limited Fingerprinting (GANDaLF), a new deep-learning-based technique to perform Website Fingerprinting (WF) on Tor traffic. In contrast to most earlier work on deep-learning for WF, GANDaLF is intended to work with few training samples, and achieves this goal through the use of a Generative Adversarial Network to generate a large set of \u201cfake\u201d data that helps to train a deep neural network in distinguishing between classes of actual training data. We evaluate GANDaLF in low-data scenarios including as few as 10 training instances per site, and in multiple settings, including fingerprinting of website index pages and fingerprinting of non-index pages within a site. GANDaLF achieves closed-world accuracy of 87% with just 20 instances per site (and 100 sites) in standard WF settings. In particular, GANDaLF can outperform Var-CNN and Triplet Fingerprinting (TF) across all settings in subpage fingerprinting. For example, GANDaLF outperforms TF by a 29% margin and Var-CNN by 38% for training sets using 20 instances per site.",
+        "citations": 34
+    },
+    {
+        "title": "Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces",
+        "id": "icDo19sAAAAJ:WgvcDLhf7hwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:WgvcDLhf7hwC",
+        "authors": [
+            "Mohammad Saidur Rahman",
+            "Mohsen Imani",
+            "Nate Mathews",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Transactions on Information Forensics and Security",
+        "pub_date": "2020/11/20",
+        "description": "Website Fingerprinting (WF) is a type of traffic analysis attack that enables a local passive eavesdropper to infer the victim's activity, even when the traffic is protected by a VPN or an anonymity system like Tor. Leveraging a deep-learning classifier, a WF attacker can gain over 98% accuracy on Tor traffic. In this paper, we explore a novel defense, Mockingbird, based on the idea of adversarial examples that have been shown to undermine machine-learning classifiers in other domains. Since the attacker gets to design and train his attack classifier based on the defense, we first demonstrate that at a straightforward technique for generating adversarial-example based traces fails to protect against an attacker using adversarial training for robust classification. We then propose Mockingbird, a technique for generating traces that resists adversarial training by moving randomly in the space of viable traces and not following\u00a0\u2026",
+        "citations": 92
+    },
+    {
+        "title": "Detecting adversarial patches with class conditional reconstruction networks",
+        "id": "icDo19sAAAAJ:-BKJ5vZJwzMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:-BKJ5vZJwzMC",
+        "authors": [
+            "Perry Deng",
+            "Mohammad Saidur Rahman",
+            "Matthew Wright"
+        ],
+        "pub_source": "arXiv preprint arXiv:2011.05850",
+        "pub_date": "2020/11/11",
+        "description": "Defending against physical adversarial attacks is a rapidly growing topic in deep learning and computer vision. Prominent forms of physical adversarial attacks, such as overlaid adversarial patches and objects, share similarities with digital attacks, but are easy for humans to notice. This leads us to explore the hypothesis that adversarial detection methods, which have been shown to be ineffective against adaptive digital adversarial examples, can be effective against these physical attacks. We use one such detection method based on autoencoder architectures, and perform adversarial patching experiments on MNIST, SVHN, and CIFAR10 against a CNN architecture and two CapsNet architectures. We also propose two modifications to the EM-Routed CapsNet architecture, Affine Voting and Matrix Capsule Dropout, to improve its classification performance. Our investigation shows that the detector retains some of its effectiveness even against adaptive adversarial patch attacks. In addition, detection performance tends to decrease among all the architectures with the increase of dataset complexity.",
+        "citations": 2
+    },
+    {
+        "title": "Weaponizing unicodes with deep learning-identifying homoglyphs with weakly labeled data",
+        "id": "icDo19sAAAAJ:MnogvFdIBdwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:MnogvFdIBdwC",
+        "authors": [
+            "Perry Deng",
+            "Cooper Linsky",
+            "Matthew Wright"
+        ],
+        "pub_source": "2020 IEEE International Conference on Intelligence and Security Informatics (ISI)",
+        "pub_date": "2020/11/9",
+        "description": "Visually similar characters, or homoglyphs, can be used to perform social engineering attacks or to evade spam and plagiarism detectors. It is thus important to understand the capabilities of an attacker to identify homoglyphs - particularly ones that have not been previously spotted - and leverage them in attacks. We investigate a deep-learning model using embedding learning, transfer learning, and augmentation to determine the visual similarity of characters and thereby identify potential homoglyphs. Our approach uniquely takes advantage of weak labels that arise from the fact that most characters are not homoglyphs. Our model drastically outperforms the Normal-ized Compression Distance approach on pairwise homoglyph identification, for which we achieve an average precision of 0.97. We also present the first attempt at clustering homoglyphs into sets of equivalence classes, which is more efficient than\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "A Forensically Sound Method of Identifying Downloaders and Uploaders in Freenet",
+        "id": "icDo19sAAAAJ:654Jc7Ppz2kC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:654Jc7Ppz2kC",
+        "authors": [
+            "Brian N Levine",
+            "Marc Liberatore",
+            "Brian Lynn",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2020/10/30",
+        "description": "The creation and distribution of child sexual abuse materials (CSAM) involves a continuing violation of the victims? privacy beyond the original harms they document. A large volume of these materials is distributed via the Freenet anonymity network: in our observations, nearly one third of requests on Freenet were for known CSAM. In this paper, we propose and evaluate a novel approach for investigating these violations of exploited childrens' privacy. Our forensic method distinguishes whether or not a neighboring peer is the actual uploader or downloader of a file or merely a relayer. Our method requires analysis of the traffic sent to a single, passive node only. We evaluate our method extensively. Our in situ measurements of actual CSAM requests show an FPR of 0.002 \u00b1 0.003 for identifying downloaders. And we show an FPR of 0.009 \u00b1 0.018, a precision of 1.00 \u00b1 0.01, and a TPR of 0.44 \u00b1 0.01 for identifying\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "They Might NOT Be Giants: Crafting Black-Box Adversarial Examples Using Particle Swarm Optimization",
+        "id": "icDo19sAAAAJ:VBDT71xRUdcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:VBDT71xRUdcC",
+        "authors": [
+            "Rayan Mosli",
+            "Matthew Wright",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "European Symposium on Research in Computer Security",
+        "pub_date": "2020/9/14",
+        "description": "As machine learning is deployed in more settings, including in security-sensitive applications such as malware detection, the risks posed by adversarial examples that fool machine-learning classifiers have become magnified. Black-box attacks are especially dangerous, as they only require the attacker to have the ability to query the target model and observe the labels it returns, without knowing anything else about the model. Current black-box attacks either have low success rates, require a high number of queries, produce adversarial images that are easily distinguishable from their sources, or are not flexible in controlling the outcome of the attack. In this paper, we present AdversarialPSO, (Code available: https://github.com/rhm6501/AdversarialPSOImages) a black-box attack that uses few queries to create adversarial examples with high success rates. AdversarialPSO is based on Particle Swarm Optimization, a\u00a0\u2026",
+        "citations": 23
+    },
+    {
+        "title": "Leveraging edges and optical flow on faces for deepfake detection",
+        "id": "icDo19sAAAAJ:HoDPlbN_d1QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:HoDPlbN_d1QC",
+        "authors": [
+            "Akash Chintha",
+            "Aishwarya Rao",
+            "Saniat Sohrawardi",
+            "Kartavya Bhatt",
+            "Matthew Wright",
+            "Raymond Ptucha"
+        ],
+        "pub_source": "IEEE International Joint Conference on Biometrics (IJCB)",
+        "pub_date": "2020/9",
+        "description": "Deepfakes can be used maliciously to sway public opinion, defame an individual, or commit fraud. Hence, it is vital for journalists and social media platforms, as well as the general public, to be able to detect deepfakes. Existing deepfake detection methods, while highly accurate on datasets they have been trained on, falter in open-world scenarios due to different deepfake generations algorithms, video formats, and compression levels. In this paper, we seek to address this by building on the XceptionNet-based deepfake detection technique that utilizes convolutional latent representations with recurrent structures. In particular, we explore how to leverage a combination of visual frames, edge maps, and dense optical flow maps together as inputs to this architecture. We evaluate these techniques using the FaceForensics++ and DFDC-mini datasets. We also perform extensive studies to evaluate the robustness of our\u00a0\u2026",
+        "citations": 32
+    },
+    {
+        "title": "Tik-Tok: The utility of packet timing in website fingerprinting attacks",
+        "id": "icDo19sAAAAJ:oE_QS-WwsdAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:oE_QS-WwsdAC",
+        "authors": [
+            "Mohammad Saidur Rahman",
+            "Payap Sirinam",
+            "Nate Mathews",
+            "Kantha Girish Gangadhara",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings on Privacy Enhancing Technologies (PoPETs)",
+        "pub_date": "2020/8",
+        "description": "A passive local eavesdropper can leverage Website Fingerprinting (WF) to deanonymize the web browsing activity of Tor users. The value of timing information to WF has often been discounted in recent works due to the volatility of low-level timing information. In this paper, we more carefully examine the extent to which packet timing can be used to facilitate WF attacks. We first propose a new set of timing-related features based on burst-level characteristics to further identify more ways that timing patterns could be used by classifiers to identify sites. Then we evaluate the effectiveness of both raw timing and directional timing which is a combination of raw timing and direction in a deep-learning-based WF attack. Our closed-world evaluation shows that directional timing performs best in most of the settings we explored, achieving: (i) 98.4% in undefended Tor traffic; (ii) 93.5% on WTF-PAD traffic, several points higher than when only directional information is used; and (iii) 64.7% against onion sites, 12% higher than using only direction. Further evaluations in the open-world setting show small increases in both precision (+2%) and recall (+6%) with directional-timing on WTF-PAD traffic. To further investigate the value of timing information, we perform an information leakage analysis on our proposed handcrafted features. Our results show that while timing features leak less information than directional features, the information contained in each feature is mutually exclusive to one another and can thus improve the robustness of a classifier.",
+        "citations": 120
+    },
+    {
+        "title": "Recurrent convolutional structures for audio spoof and video deepfake detection",
+        "id": "icDo19sAAAAJ:Y0RG-0fxPaAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:Y0RG-0fxPaAC",
+        "authors": [
+            "Akash Chintha",
+            "Bao Thai",
+            "Saniat Javid Sohrawardi",
+            "Kartavya Bhatt",
+            "Andrea Hickerson",
+            "Matthew Wright",
+            "Raymond Ptucha"
+        ],
+        "pub_source": "IEEE Journal of Selected Topics in Signal Processing",
+        "pub_date": "2020/6/1",
+        "description": "Deepfakes, or artificially generated audiovisual renderings, can be used to defame a public figure or influence public opinion. With the recent discovery of generative adversarial networks, an attacker using a normal desktop computer fitted with an off-the-shelf graphics processing unit can make renditions realistic enough to easily fool a human observer. Detecting deepfakes is thus becoming important for reporters, social media platforms, and the general public. In this work, we introduce simple, yet surprisingly efficient digital forensic methods for audio spoof and visual deepfake detection. Our methods combine convolutional latent representations with bidirectional recurrent structures and entropy-based cost functions. The latent representations for both audio and video are carefully chosen to extract semantically rich information from the recordings. By feeding these into a recurrent framework, we can detect both\u00a0\u2026",
+        "citations": 155
+    },
+    {
+        "title": "DeFaking Deepfakes: Understanding Journalists\u2019 Needs for Deepfake Detection",
+        "id": "icDo19sAAAAJ:jtOrAYjvdewC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:jtOrAYjvdewC",
+        "authors": [
+            "Saniat Javid Sohrawardi",
+            "Sovantharith Seng",
+            "Akash Chintha",
+            "Bao Thai",
+            "Andrea Hickerson",
+            "Raymond Ptucha",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of SOUPS 2020 Poster Session",
+        "pub_date": "2020",
+        "description": "Although the concern over deliberately inaccurate news is not new in media, the emergence of deepfakes\u2014manipulated audio and video generated using artificial intelligence\u2014changes the landscape of the problem. As these manipulations become more convincing, they can be used to place public figures into manufactured scenarios, effectively making it appear that anybody could say anything. Even if the public does not believe these are real, it will generally make video evidence appear less reliable as a source of validation, such that people no long trust anything they see. This increases the pressure on trusted agents in the media to help validate video and audio for the general public. To support this, we propose to develop a robust and an intuitive system to help journalists detect deepfakes. This paper presents a study of the perceptions, current procedures, and expectations of journalists regarding such a tool. We then combine technical knowledge of media forensics and the findings of the study to design a system for detection of deepfake videos that is usable by, and useful for, journalists.",
+        "citations": 16
+    },
+    {
+        "title": "Triplet fingerprinting: More practical and portable website fingerprinting with n-shot learning",
+        "id": "icDo19sAAAAJ:43B52WW2E64C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:43B52WW2E64C",
+        "authors": [
+            "Payap Sirinam",
+            "Nate Mathews",
+            "Mohammad Saidur Rahman",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2019/11/6",
+        "description": "Website Fingerprinting (WF) attacks pose a serious threat to users' online privacy, including for users of the Tor anonymity system. By exploiting recent advances in deep learning, WF attacks like Deep Fingerprinting (DF) have reached up to 98% accuracy. The DF attack, however, requires large amounts of training data that needs to be updated regularly, making it less practical for the weaker attacker model typically assumed in WF. Moreover, research on WF attacks has been criticized for not demonstrating attack effectiveness under more realistic and more challenging scenarios. Most research on WF attacks assumes that the testing and training data have similar distributions and are collected from the same type of network at about the same time. In this paper, we examine how an attacker could leverage N-shot learning---a machine learning technique requiring just a few training samples to identify a given class\u00a0\u2026",
+        "citations": 178
+    },
+    {
+        "title": "Poster: Evaluating security metrics for website fingerprinting",
+        "id": "icDo19sAAAAJ:q09DtPQ_434C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:q09DtPQ_434C",
+        "authors": [
+            "Nate Mathews",
+            "Mohammad Saidur Rahman",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2019/11/6",
+        "description": "The website fingerprinting attack allows a low-resource attacker to compromise the privacy guarantees provided by privacy enhancing tools such as Tor. In response, researchers have proposed defenses aimed at confusing the classification tools used by attackers. As new, more powerful attacks are frequently developed, raw attack accuracy has proven inadequate as the sole metric used to evaluate these defenses. In response, two security metrics have been proposed that allow for evaluating defenses based on hand-crafted features often used in attacks. Recent state-of-the-art attacks, however, use deep learning models capable of automatically learning abstract feature representations, and thus the proposed metrics fall short once again. In this study we examine two security metrics and (1) show how these methods can be extended to evaluate deep learning-based website fingerprinting attacks, and (2\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Poster: Understanding User's Decision to Interact with Potential Phishing Posts on Facebook using a Vignette Study",
+        "id": "icDo19sAAAAJ:-LHtoeeytlUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:-LHtoeeytlUC",
+        "authors": [
+            "Sovantharith Seng",
+            "Huzeyfe Kocabas",
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2019/11/6",
+        "description": "Facebook remains the largest social media platform on the Internet with over one billion active monthly users. A variety of personal and sensitive data is shared on the platform, which makes it a prime target for attackers. Increasingly, we see phishing attacks that take advantage of users' lack of security knowledge, deceiving victims by using fake or compromised accounts to share malicious posts. These attacks may slip undetected by the Facebook defense system, exposing users to potentially be phished or have their devices infected with drive-by downloads and malware. Only a few studies have been conducted to date to understand how users interact with attacks like this in Facebook. In our prior work, we conducted a study to address this challenge using a simulated interface and think-aloud protocol. In this study, we aim to make further progress in understanding the impact of different factors on users' clicking\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Poster: Towards robust open-world detection of deepfakes",
+        "id": "icDo19sAAAAJ:JavbeY_VQWIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:JavbeY_VQWIC",
+        "authors": [
+            "Saniat Javid Sohrawardi",
+            "Akash Chintha",
+            "Bao Thai",
+            "Sovantharith Seng",
+            "Andrea Hickerson",
+            "Raymond Ptucha",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 2019 ACM SIGSAC conference on computer and communications security",
+        "pub_date": "2019/11/6",
+        "description": "There is heightened concern over deliberately inaccurate news. Recently, so-called deepfake videos and images that are modified by or generated by artificial intelligence techniques have become more realistic and easier to create. These techniques could be used to create fake announcements from public figures or videos of events that did not happen, misleading mass audiences in dangerous ways. Although some recent research has examined accurate detection of deepfakes, those methodologies do not generalize well to real-world scenarios and are not available to the public in a usable form. In this project, we propose a system that will robustly and efficiently enable users to determine whether or not a video posted online is a deepfake. We approach the problem from the journalists' perspective and work towards developing a tool to fit seamlessly into their workflow. Results demonstrate accurate detection\u00a0\u2026",
+        "citations": 53
+    },
+    {
+        "title": "Poster: video fingerprinting in tor",
+        "id": "icDo19sAAAAJ:-qpA3cGbmHsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:-qpA3cGbmHsC",
+        "authors": [
+            "Mohammad Saidur Rahman",
+            "Nate Matthews",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2019/11/6",
+        "description": "Over 8 million users rely on the Tor network each day to protect their anonymity online. Unfortunately, Tor has been shown to be vulnerable to the website fingerprinting attack, which allows an attacker to deduce the website a user is visiting based on patterns in their traffic. The state-of-the-art attacks leverage deep learning to achieve high classification accuracy using raw packet information. Work thus far, however, has examined only one type of media delivered over the Tor network: web pages, and mostly just home pages of sites. In this work, we instead investigate the fingerprintability of video content served over Tor. We collected a large new dataset of network traces for 50 YouTube videos of similar length. Our preliminary experiments utilizing a convolutional neural network model proposed in prior works has yielded promising classification results, achieving up to 55% accuracy. This shows the potential to\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Modified relay selection and circuit selection for faster Tor",
+        "id": "icDo19sAAAAJ:UKB2i6g6GNMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:UKB2i6g6GNMC",
+        "authors": [
+            "Mohsen Imani",
+            "Mehrdad Amirabadi",
+            "Matthew Wright"
+        ],
+        "pub_source": "IET Communications",
+        "pub_date": "2019/10",
+        "description": "Users of the Tor anonymity system suffer from less\u2010than\u2010ideal performance, in part because circuit building and selection processes are not tuned for speed. In this study, the authors examine both the process of selecting among pre\u2010built circuits and the process of selecting the path of relays for use in building new circuits to improve performance while maintaining anonymity. First, the authors show that having three pre\u2010built circuits available allows the Tor client to identify fast circuits and improves median time to first byte (TTFB) by 15% over congestion\u2010aware routing, the current state\u2010of\u2010the\u2010art method. Second, they propose a new path selection algorithm that includes broad geographic location information together with bandwidth to reduce delays. In shadow simulations, 20% faster median TTFB and 11% faster median total download times over congestion\u2010aware routing for accessing web page\u2010sized objects\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Understanding Feature Discovery in Website Fingerprinting Attacks",
+        "id": "icDo19sAAAAJ:j6V8Syvup0UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:j6V8Syvup0UC",
+        "authors": [
+            "Nate Mathews",
+            "Payap Sirinam",
+            "Matthew Wright"
+        ],
+        "pub_source": "2018 IEEE Western New York Image and Signal Processing Workshop (WNYISPW)",
+        "pub_date": "2018/10",
+        "description": "The Tor anonymity system is vulnerable to website fingerprinting attacks that can reveal users Internet browsing behavior. The state-of-the-art website fingerprinting attacks use convolutional neural networks to automatically extract features from packet traces. One such attack undermines an efficient fingerprinting defense previously considered a candidate for implementation in Tor. In this work, we study the use of neural network attribution techniques to visualize activity in the attack's model. These visualizations, essentially heatmaps of the network, can be used to identify regions of particular sensitivity and provide insight into the features that the model has learned. We then examine how these heatmaps may be used to create a new website fingerprinting defense that applies random padding to the website trace with an emphasis towards highly fingerprintable regions. This defense reduces the attacker's accuracy\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Deep fingerprinting: Undermining website fingerprinting defenses with deep learning",
+        "id": "icDo19sAAAAJ:2_BaaiyHPJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:2_BaaiyHPJIC",
+        "authors": [
+            "Payap Sirinam",
+            "Mohsen Imani",
+            "Marc Juarez",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM Conference on Computer and Communications Security (CCS 2018)",
+        "pub_date": "2018/10",
+        "description": "Website fingerprinting enables a local eavesdropper to determine which websites a user is visiting over an encrypted connection. State-of-the-art website fingerprinting attacks have been shown to be effective even against Tor. Recently, lightweight website fingerprinting defenses for Tor have been proposed that substantially degrade existing attacks: WTF-PAD and Walkie-Talkie. In this work, we present Deep Fingerprinting (DF), a new website fingerprinting attack against Tor that leverages a type of deep learning called Convolutional Neural Networks (CNN) with a sophisticated architecture design, and we evaluate this attack against WTF-PAD and Walkie-Talkie. The DF attack attains over 98% accuracy on Tor traffic without defenses, better than all prior attacks, and it is also the only attack that is effective against WTF-PAD with over 90% accuracy. Walkie-Talkie remains effective, holding the attack to just 49.7\u00a0\u2026",
+        "citations": 462
+    },
+    {
+        "title": "Poster: Adversarial Traces for Website Fingerprinting Defense",
+        "id": "icDo19sAAAAJ:0Kh4an1R61UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:0Kh4an1R61UC",
+        "authors": [
+            "Mohsen Imani",
+            "Mohammad Saidur Rahman",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (CCS '18)",
+        "pub_date": "2018/10",
+        "citations": 20
+    },
+    {
+        "title": "Understanding users\u2019 decision of clicking on posts in facebook with implications for phishing",
+        "id": "icDo19sAAAAJ:rDsFeusoTZkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:rDsFeusoTZkC",
+        "authors": [
+            "Sovantharith Seng",
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Workshop on Technology and Consumer Protection (ConPro 18)",
+        "pub_date": "2018/5",
+        "description": "Facebook, the largest social networking site (SNS) with over one billion active monthly users, has been woven into the everyday life of many people. While this platform has drastically improved how we interact with one another, it has also opened up a multitude of security and privacy issues. For example, online attackers are increasingly employing phishing attacks on Facebook, seeking to fool their victims by posing as friends using fake or compromised accounts. These attacks are hard to recognize by the Facebook defense system and users alike, and few studies give any insight into how users interact with such attacks. In this study, we take the first step to understand how users react and decide whether to click when they encounter SNS posts with links, including possibly suspicious links. We found that users decide to interact with shared contents based on their relationship with the post author (from whose account the post is shared; perhaps compromised). At the same time, they mostly ignore the location of the shared post (eg, post author\u2019s wall or target user\u2019s wall), and any context pointing to a post possibly being suspicious. We also explored the potential of showing a visual warning for suspicious posts. Although our simple warning system failed to prevent users from clicking on suspicious posts altogether, it did reduce the likelihood of users clicking on such posts. Based on our findings, we identified the scope of future work to protect users against phishing attacks in SNSes.",
+        "citations": 18
+    },
+    {
+        "title": "Poster: Using Packet Timing in Website Fingerprinting",
+        "id": "icDo19sAAAAJ:4uoR24qA-WYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:4uoR24qA-WYC",
+        "authors": [
+            "Mohammad Saidur Rahman",
+            "Kantha Girish Gangadhara",
+            "Payap Sirinam",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Symposium on Security and Privacy (S&P '18)",
+        "pub_date": "2018"
+    },
+    {
+        "title": "Poster: Website Fingerprinting Attacks with Timing-based Features using Capsule Networks",
+        "id": "icDo19sAAAAJ:71d7Y1FijdoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:71d7Y1FijdoC",
+        "authors": [
+            "Payap Sirinam",
+            "Mohammad Saidur Rahman",
+            "Kantha Girish Gangadhara",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Symposium on Security and Privacy (S&P '18)",
+        "pub_date": "2018"
+    },
+    {
+        "title": "Towards predicting efficient and anonymous Tor circuits",
+        "id": "icDo19sAAAAJ:gnsKu8c89wgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:gnsKu8c89wgC",
+        "authors": [
+            "Armon Barton",
+            "Mohsen Imani",
+            "Jiang Ming",
+            "Matthew Wright"
+        ],
+        "pub_source": "27th USENIX Security Symposium (USENIX Security '18)",
+        "pub_date": "2018",
+        "description": "The Tor anonymity system provides online privacy for millions of users, but it is slower than typical web browsing. To improve Tor performance, we propose PredicTor, a path selection technique that uses a Random Forest classifier trained on recent measurements of Tor to predict the performance of a proposed path. If the path is predicted to be fast, then the client builds a circuit using those relays. We implemented PredicTor in the Tor source code and show through live Tor experiments and Shadow simulations that PredicTor improves Tor network performance by 11% to 23% compared to Vanilla Tor and by 7% to 13% compared to the previous state-of-the-art scheme. Our experiments show that PredicTor is the first path selection algorithm to dynamically avoid highly congested nodes during times of high congestion and avoid long-distance paths during times of low congestion. We evaluate the anonymity of PredicTor using standard entropy-based and time-to-first-compromise metrics, but these cannot capture the possibility of leakage due to the use of location in path selection. To better address this, we propose a new anonymity metric called CLASI: Client Autonomous System Inference. CLASI is the first anonymity metric in Tor that measures an adversary's ability to infer client Autonomous Systems (ASes) by fingerprinting circuits at the network, country, and relay level. We find that CLASI shows anonymity loss for location-aware path selection algorithms, where entropy-based metrics show little to no loss of anonymity. Additionally, CLASI indicates that PredicTor has similar sender AS leakage compared to the current Tor path selection\u00a0\u2026",
+        "citations": 23
+    },
+    {
+        "title": "Guard Sets in Tor using AS Relationships.",
+        "id": "icDo19sAAAAJ:3WNXLiBY60kC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:3WNXLiBY60kC",
+        "authors": [
+            "Mohsen Imani",
+            "Armon Barton",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings on Privacy Enhancing Technologies (PoPETs)",
+        "pub_date": "2018",
+        "description": "The mechanism for picking guards in Tor suffers from security problems like guard fingerprinting and from performance issues. To address these issues, Hayes and Danezis proposed the use of guard sets, in which the Tor system groups all guards into sets, and each client picks one of these sets and uses its guards. Unfortunately, guard sets frequently need nodes added or they are broken up due to fluctuations in network bandwidth. In this paper, we first show that these breakups create opportunities for malicious guards to join many guard sets by merely tuning the bandwidth they make available to Tor, and this greatly increases the number of clients exposed to malicious guards. To address this problem, we propose a new method for forming guard sets based on Internet location. We construct a hierarchy that keeps clients and guards together more reliably and prevents guards from easily joining arbitrary guard sets. This approach also has the advantage of confining an attacker with access to limited locations on the Internet to a small number of guard sets. We simulate this guard set design using historical Tor data in the presence of both relay-level adversaries and network-level adversaries, and we find that our approach is good at confining the adversary into few guard sets, thus limiting the impact of attacks.",
+        "citations": 14
+    },
+    {
+        "title": "LiLAC: Lightweight low-latency anonymous chat",
+        "id": "icDo19sAAAAJ:9o6PfxSMcEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:9o6PfxSMcEIC",
+        "authors": [
+            "John P Podolanko",
+            "Revanth Pobala",
+            "Hussain Mucklai",
+            "George Danezis",
+            "Matthew Wright"
+        ],
+        "pub_source": "2017 IEEE Symposium on Privacy-Aware Computing (PAC)",
+        "pub_date": "2017/8/1",
+        "description": "Low latency anonymity systems, like Tor and I2P, support private online communications, but offer limited protection against powerful adversaries with widespread eavesdropping capabilities. It is known that general-purpose communications, such as web and file transfer, are difficult to protect in that setting. However, online instant messaging only requires a low bandwidth and we show it to be amenable to strong anonymity protections. In this paper, we describe the design and engineering of LiLAC, a Lightweight Low-latency Anonymous Chat service, that offers both strong anonymity and a lightweight client-side presence. LiLAC implements a set of anonymizing relays, and offers stronger anonymity protections by applying dependent link padding on top of constant-rate traffic flows. This leads to a key trade-off between the system's bandwidth overhead and end-to-end delay along the circuit, which we study\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "A Wide-Area Testbed for Tor",
+        "id": "icDo19sAAAAJ:WGv8Og3F3KgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:WGv8Og3F3KgC",
+        "authors": [
+            "Roger Dingledine",
+            "David Goulet",
+            "Prateek Mittal",
+            "Nicholas Feamster",
+            "Rob Jansen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Hot Topics in Privacy Enhancing Technologies (HotPETs)",
+        "pub_date": "2017/7"
+    },
+    {
+        "title": "Learning System-assigned Passwords: A Preliminary Study on the People with Learning Disabilities",
+        "id": "icDo19sAAAAJ:E2bRg1zSkIsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:E2bRg1zSkIsC",
+        "authors": [
+            "Sonali Tukaram Marne",
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. Workshop on Inclusive Privacy and Security (WIPS)",
+        "pub_date": "2017/7",
+        "description": "With an increase in cyber attacks, including online password guessing attacks, system-assigned password schemes are studied as alternatives to traditional user-chosen textual passwords. While people with learning disabilities face difficulty in memorizing new information, it is not clear yet if system-assigned passwords would be usable for them. We begin to address this gap with this preliminary study, where we leveraged a recently-proposed graphical authentication scheme that offers multiple cues (visual, verbal, spatial, audio) to memorize system-assigned random passwords. In our single-session study with 14 participants having different types of learning disabilities, all of them could effectively learn system-assigned passwords, and were able to successfully log in using that authentication secret within just one attempt. Based on our findings, we outline the directions for future research in evaluating the authentication performance of people with learning disabilities.",
+        "citations": 12
+    },
+    {
+        "title": "Exploring the potential of GeoPass: A geographic location-password scheme",
+        "id": "icDo19sAAAAJ:sYWwZaPVD1oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:sYWwZaPVD1oC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Interacting with Computers",
+        "pub_date": "2017/7/1",
+        "description": "Password schemes based on online map locations are an emerging topic in authentication research. GeoPass is a promising such scheme, as it provides satisfactory resilience against online guessing and showed high memorability (97%) in a single-password laboratory study. In this article, we investigate more deeply into the potential of GeoPass through four separate studies. First, in a 2-month-long field study, we found that users in a real-world setting remembered their location passwords 96.1% of the time and showed improvement with more login sessions. Then, in a study of interference effects in Geopass, in which each participant had to remember four separate location passwords, we found that memorability was <70%, with 41.5% of login failures due to interference. Based on these findings, we propose to address interference issues in GeoPass with mental stories, where users are asked to create a\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "The evaluation of circuit selection methods on Tor",
+        "id": "icDo19sAAAAJ:8O4vDxvErlEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:8O4vDxvErlEC",
+        "authors": [
+            "Mohsen Imani",
+            "Mehrdad Amirabadi",
+            "Matthew Wright"
+        ],
+        "pub_source": "arXiv preprint arXiv:1706.06457",
+        "pub_date": "2017/6/17",
+        "description": "Tor provides anonymity online by routing traffic through encrypted tunnels, called circuits, over paths of anonymizing relays. To enable users to connect to their selected destination servers without waiting for the circuit to be build, the Tor client maintains a few circuits at all times. Nevertheless, Tor is slower to use than directly connecting to the destination server. In this paper, we propose to have the Tor client measure the performance of the pre-built circuits and select the fastest circuits for users to send their traffic over. To this end, we define and evaluate nine metrics for selecting which pre-built circuit to use based on different combinations of circuit length, Round Trip Time (RTT), and congestion. We also explore the effect on performance of the number of pre-built circuits at the time of the selection. Through whole-network experiments in Shadow, we show that using circuit RTT with at least three pre-built circuits allows the Tor client to identify fast circuits and improves median time to first byte (TTFB) by 22% over Tor and 15% over congestion-aware routing, the state-of-the-art in Tor circuit selection. We evaluate the security of the proposed circuit selection mechanism against both a relay-level and a network-level adversary and find no loss of security compared with Tor.",
+        "citations": 1
+    },
+    {
+        "title": "Poster: Experimental Evaluation of Website Fingerprinting using Deep Learning",
+        "id": "icDo19sAAAAJ:p-HGrieyzrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:p-HGrieyzrAC",
+        "authors": [
+            "Payap Sirinam",
+            "Mohsen Imani",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. IEEE Symposium on Security and Privacy (Oakland)",
+        "pub_date": "2017/5"
+    },
+    {
+        "title": "Poster: Phishing on Facebook",
+        "id": "icDo19sAAAAJ:xIusEVNJREcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:xIusEVNJREcC",
+        "authors": [
+            "Sovantharith Seng",
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. IEEE Symposium on Security and Privacy (Oakland), May 2017",
+        "pub_date": "2017/5"
+    },
+    {
+        "title": "Poster: Fingerprinting Hidden Service Circuits from a Tor Middle Relay",
+        "id": "icDo19sAAAAJ:CLhUwle04lcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:CLhUwle04lcC",
+        "authors": [
+            "Marc Juarez",
+            "Rob Jansen",
+            "Rafael G\u00e1lvez",
+            "Tariq Elahi",
+            "Claudia Diaz",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. IEEE Symposium on Security and Privacy (Oakland)",
+        "pub_date": "2017/5",
+        "description": "Kwon et al. recently showed that circuit fingerprinting attacks could be used to identify hidden service circuits, which is a key step towards linking Tor users and their activity online. In this paper, we explore an improvement to their attack that uses random forests, which achieves similar accuracy while being more robust to simple countermeasures against it. Additionally, we perform our attack from a middle node, for which an attacker needs less resources and can leverage guard fingerprinting to deanonymize users. Our evaluation shows the attack can be effectively deployed at the middle with 99.98% accuracy.",
+        "citations": 4
+    },
+    {
+        "title": "Poster: Guard Sets in Tor Using AS Relationships",
+        "id": "icDo19sAAAAJ:ZOYfmFL0FrgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:ZOYfmFL0FrgC",
+        "authors": [
+            "Mohsen Imani",
+            "Armon Barton",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. IEEE Symposium on Security and Privacy (Oakland)",
+        "pub_date": "2017/5"
+    },
+    {
+        "title": "Poster: PredicTor: Predicting Fast Circuits for A Faster User Experience in Tor",
+        "id": "icDo19sAAAAJ:WHBERAHVdrEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:WHBERAHVdrEC",
+        "authors": [
+            "Armon Barton",
+            "Mohsen Imani",
+            "Jiang Ming",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. IEEE Symposium on Security and Privacy (Oakland)",
+        "pub_date": "2017/5"
+    },
+    {
+        "title": "Countering Double-Spend Attacks on Bitcoin Fast-Pay Transactions",
+        "id": "icDo19sAAAAJ:CC3C2HR4nz8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:CC3C2HR4nz8C",
+        "authors": [
+            "John P. Podolanko",
+            "Jiang Ming",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. Workshop on Technology and Consumer Protection (ConPro)",
+        "pub_date": "2017/5",
+        "description": "Bitcoin is a Proof-of-Work-based payment system that does not rely on a trusted authority. As its popularity grows, more businesses are starting to accept it as payment, including services like fast food restaurants and vending machines that must deliver goods soon upon payment. Unfortunately, these fast pay scenarios are vulnerable to fraudulent double-spending of Bitcoins. To protect consumers from having to cover the costs of these attacks, there is a growing need to find countermeasures to such attacks that are scalable and realistic to deploy. Several possible countermeasures have been proposed in prior work but not evaluated carefully. In this paper, we analyze these countermeasures and simulate their effects in a scaled Bitcoin P2P network using the Shadow framework. We find that integrating several of these countermeasures into an enhanced observer can be effective in detecting and alerting a vendor to an incoming double-spend attack in less than 28 seconds on average in our model.",
+        "citations": 15
+    },
+    {
+        "title": "Statistical Detection of Downloaders in Freenet",
+        "id": "icDo19sAAAAJ:wgKq3sYidysC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:wgKq3sYidysC",
+        "authors": [
+            "Brian N Levine",
+            "Marc Liberatore",
+            "Brian Lynn",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. IEEE International Workshop on Privacy Engineering (IWPE)",
+        "pub_date": "2017/5",
+        "description": "Images posted to file-sharing networks without a person\u2019s permission can remain available indefinitely. When the image is sexually explicit and involves a child, the scale of this privacy violation grows tremendously worse and can have repercussions for the victim\u2019s whole life. Providing investigators with tools that can identify the perpetrators of child pornography (CP) trafficking is critical to addressing these violations. Investigators are interested in identifying these perpetrators on Freenet, which supports the anonymous publication and retrieval of data and is widely used for CP trafficking. We confirmed that 70,000 manifests posted to public forums dedicated to child sexual abuse contained tens of thousands of known CP images including infants and toddlers. About 35% of traffic on Freenet was for these specific manifests. In this paper, we propose and evaluate a novel approach for investigating these privacy violations. In particular, our approach aims to distinguish whether a neighboring peer is the actual requester of a file or just forwarding the requests for other peers. Our method requires only a single peer that passively analyzes the traffic it is sent by a neighbor. We derive a Bayesian framework that models the observer\u2019s decision for whether the neighbor is the downloader, and we show why the sum traffic from downloaders relayed by the neighbor is not a significant source of false positives. We validate our model in simulation, finding near perfect results, and we validate our approach by applying it to real CP-related manifests and actual packet data from Freenet, for which we find a false positive rate of about 2%. Given these results, we\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "(Work in Progress) An Insight into the Authentication Performance and Security Perception of Older Users",
+        "id": "icDo19sAAAAJ:8rLWgkbgOXQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:8rLWgkbgOXQC",
+        "authors": [
+            "Sovantharith Seng",
+            "Sadia Ahmed",
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proc. Usable Security Mini-Conference (USEC)",
+        "pub_date": "2017/2",
+        "description": "Older users (aged 55 and over) are generally thought to have limited knowledge in online security; additionally, their declining cognitive and perceptive abilities can further expose them to digital attacks. Despite these risks and the growing older population, little has been studied about older users\u2019 security performance, perception, and behavior. We begin to address this gap with this preliminary study. First, we studied older users\u2019 ability to memorize passwords through a multisession user study with seven participants at a local retirement community. For this study, we leveraged a recently-proposed graphical authentication scheme that offers multiple cues (visual, verbal, spatial) to memorize system-assigned random passwords. To tailor this password scheme to an older population, we build on prior work in cognitive psychology that has been done to understand older users\u2019 needs. Second, we conducted a survey to further learn about their security perceptions and practices. Based on what we have learned and the challenges that we have faced during our study, we offer guidelines for other researchers interested in designing new systems and conducting usability study with older population, and we also outline the future work for our ongoing research."
+    },
+    {
+        "title": "Distributed detection of sensor worms using sequential analysis and remote software attestations",
+        "id": "icDo19sAAAAJ:r56sNq9gaawC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:r56sNq9gaawC",
+        "authors": [
+            "Jun-Won Ho",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Access",
+        "pub_date": "2017/1/5",
+        "description": "Recent work has demonstrated that self-propagating worms are a real threat to sensor networks. Since worms can enable an adversary to quickly compromise an entire sensor network, they must be detected and stopped as quickly as possible. To meet this need, we propose a worm propagation detection scheme for sensor networks. The proposed scheme applies a sequential analysis to detect worm propagation by leveraging the intuition that a worm's communication pattern is different from benign traffic. In particular, a worm in a sensor network requires a long sequence of packets propagating hop-by-hop to each new infected node in turn. We thus have detectors that observe communication patterns in the network, a worm spreading hop-by-hop will quickly create chains of connections that would not be seen in normal traffic. Once detector nodes identify the worm propagation pattern, they initiate remote\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Learning system-assigned passwords (up to 56 bits) in a single registration session with the methods of cognitive psychology",
+        "id": "icDo19sAAAAJ:RJujIP1NYNUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:RJujIP1NYNUC",
+        "authors": [
+            "SM Taiabul Haque",
+            "Mahdi Nasrullah Al-Ameen",
+            "S Scielzo",
+            "M Wright"
+        ],
+        "pub_source": "Usable Security (USEC)",
+        "pub_date": "2017",
+        "description": "System-assigned random passwords offer security guarantees against guessing attacks but suffer from poor memorability. In this work, we review the cognitive psychology literature and identify two training methods appropriate to aid users in memorizing system-assigned passwords. The method of loci exploits users\u2019 spatial and visual memory, while the link method helps users by creating a chain of memory cues. We developed techniques to automatically take a given random password and generate training aids (videos) based on each of these methods. The results of a memorability study showed that both methods were significantly better than a control condition (no training) and that the method of loci had a login success rate of 86%, a high value for any recall-based study with system-assigned passwords. With a registration time of 160 seconds and a median login time of 9 seconds, this method holds promise as a direction to addressing the usability-security trade-off in user authentication. We further extend this idea to help users memorize long system-assigned random passwords that offer almost crypto-level security and conduct a second memorability study. The results of this study demonstrated that with the help of a password hint, 81% of participants were able to recall the password after a week. This indicates that the method of loci can be leveraged to help users memorize cryptographically-strong secret in just one session, and thus offers a more viable alternative to the spaced repetition technique, which involves dozens of sessions of user training.",
+        "citations": 14
+    },
+    {
+        "title": "Split-Pipeline Model for Worm Propagation over IoT",
+        "id": "icDo19sAAAAJ:JIEWM9yDoCIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:JIEWM9yDoCIC",
+        "authors": [
+            "Miri Choi",
+            "Jaewon Jang",
+            "Yeeji Kwon",
+            "Subeen Lim",
+            "Jun-Won Ho",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 6th International Conference on the Internet of Things",
+        "pub_date": "2016/11/7",
+        "description": "With the Internet of Things (IoT), the prevalence of wirelessly connected, low-resource devices could mean many poorly secured targets for attackers. Automated attacks, such as worms, may be particularly prevalent threats. An IoT worm may have trouble, however, with robust and stealthy propagation in such lossy wireless networks with lower resource nodes. To mitigate this problem, we propose a split-pipeline model, in which worm codes are broken into multiple fragments and propagated in a fragment-by-fragment manner, where the reassembled fragments can be used to infect benign nodes. Secret sharing is used for the split-reassemble process, since it both conceals the codes and allows for full recovery of the code even if some fragments are lost in transmission under lossy wireless networks. Furthermore, each fragment of the worm code is transmitted in a pipeline architecture for faster propagation.",
+        "citations": 1
+    },
+    {
+        "title": "Leveraging autobiographical memory for two-factor online authentication",
+        "id": "icDo19sAAAAJ:_n8fIOMweQoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:_n8fIOMweQoC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "S M Taiabul Haque",
+            "Matthew Wright"
+        ],
+        "pub_source": "Information & Computer Security",
+        "pub_date": "2016/10/10",
+        "description": "PurposeTwo-factor authentication is being implemented more broadly to improve security against phishing, shoulder surfing, keyloggers and password guessing attacks. Although passwords serve as the first authentication factor, a common approach to implementing the second factor is sending a one-time code, either via e-mail or text message. The prevalence of smartphones, however, creates security risks in which a stolen phone leads to user\u2019s accounts being accessed. Physical tokens such as RSA\u2019s SecurID create extra burdens for users and cannot be used on many accounts at once. This study aims to improve the usability and security for two-factor online authentication.Design/methodology/approachThe authors propose a novel second authentication factor that, similar to passwords, is also based on something the user knows but operates similarly to a one-time code for security purposes. The authors\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "WTF-PAD: Toward an Efficient Website Fingerprinting Defense",
+        "id": "icDo19sAAAAJ:1Aeql8wG3wEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:1Aeql8wG3wEC",
+        "authors": [
+            "Marc Juarez",
+            "Mohsen Imani",
+            "Mike Perry",
+            "Claudia Diaz",
+            "Matthew Wright"
+        ],
+        "pub_source": "ESORICS",
+        "pub_date": "2016/9",
+        "citations": 295
+    },
+    {
+        "title": "iPersea: Towards improving the Sybil-resilience of social DHT",
+        "id": "icDo19sAAAAJ:-fu4zM_6qcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:-fu4zM_6qcIC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "Journal of Network and Computer Applications",
+        "pub_date": "2016/8/1",
+        "description": "P2P systems are highly susceptible to Sybil attacks, in which an attacker creates a large number of identities and uses them to control a substantial fraction of the system. Persea is the most recent approach towards designing a social network based Sybil-resistant DHT. Unlike prior Sybil-resistant P2P systems based on social networks, Persea does not rely on two key assumptions: (i) that the social network is fast mixing, and (ii) that there is a small ratio of attack edges to honest peers. Both assumptions have been shown to be unreliable in real social networks. The hierarchical distribution of node IDs in Persea confines a large attacker botnet to a considerably smaller region of the ID space than in a normal P2P system and its replication mechanism lets a peer to retrieve the desired results even if a given region is occupied by attackers. However, Persea system suffers from certain limitations, since it cannot handle\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "DeNASA: Destination-naive AS-awareness in anonymous communications",
+        "id": "icDo19sAAAAJ:LlXTz_FrCmAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:LlXTz_FrCmAC",
+        "authors": [
+            "Armon Barton",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings on Privacy Enhancing Technologies (PoPETs)",
+        "pub_date": "2016/7",
+        "description": "Prior approaches to AS-aware path selection in Tor do not consider node bandwidth or the other characteristics that Tor uses to ensure load balancing and quality of service. Further, since the AS path from the client\u2019s exit to her destination can only be inferred once the destination is known, the prior approaches may have problems constructing circuits in advance, which is important for Tor performance. In this paper, we propose and evaluate DeNASA, a new approach to ASaware path selection that is destination-naive, in that it does not need to know the client\u2019s destination to pick paths, and that takes advantage of Tor\u2019s circuit selection algorithm. To this end, we first identify the most probable ASes to be traversed by Tor streams. We call this set of ASes the Suspect AS list and find that it consists of eight highest ranking Tier 1 ASes. Then, we test the accuracy of Qiu and Gao AS-level path inference on identifying the presence of these ASes in the path, and we show that inference accuracy is 90%. We develop an AS-aware algorithm called DeNASA that uses Qiu and Gao inference to avoid Suspect ASes. DeNASA reduces Tor stream vulnerability by 74%. We also show that DeNASA has performance similar to Tor. Due to the destination-naive property, time to first byte (TTFB) is close to Tor\u2019s, and due to leveraging Tor\u2019s bandwidthweighted relay selection, time to last byte (TTLB) is also similar to Tor\u2019s.",
+        "citations": 56
+    },
+    {
+        "title": "Towards Improving the Memorability of System-assigned Random Passwords",
+        "id": "icDo19sAAAAJ:MqTxh1vmwXEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:MqTxh1vmwXEC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Sonali Marne Kanis Fatema",
+            "Sadia Ahmed",
+            "Sovantharith Seng",
+            "Matthew Wright",
+            "Shannon Scielzo"
+        ],
+        "pub_source": "Who Are You?! Adventures in Authentication (WAY)",
+        "pub_date": "2016/6/22",
+        "description": "Given the choice, users produce passwords reflecting common strategies and patterns that ease recall but o er uncertain and often weak security. Addressing this usability-security tension in user authentication remains the key research issue in password studies for decades. In our research, we aim to understand how humans' cognitive abilities could be leveraged to design more secure and memorable authentication schemes. To achieve this goal, we draw upon multiple theories from cognitive psychology and implement them in the context of improving memorability for system-assigned random passwords."
+    },
+    {
+        "title": "Exploiting temporal dynamics in sybil defenses",
+        "id": "icDo19sAAAAJ:k8to_Y4Q4_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:k8to_Y4Q4_EC",
+        "authors": [
+            "Changchang Liu",
+            "Peng Gao",
+            "Matthew Wright",
+            "Prateek Mittal"
+        ],
+        "pub_source": "Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security (CCS '15)",
+        "pub_date": "2015/10/12",
+        "description": "Sybil attacks present a significant threat to many Internet systems and applications, in which a single adversary inserts multiple colluding identities in the system to compromise its security and privacy. Recent work has advocated the use of social-network-based trust relationships to defend against Sybil attacks. However, most of the prior security analyses of such systems examine only the case of social networks at a single instant in time. In practice, social network connections change over time, and attackers can also cause limited changes to the networks. In this work, we focus on the temporal dynamics of a variety of social-network-based Sybil defenses. We describe and examine the effect of novel attacks based on: (a) the attacker's ability to modify Sybil-controlled parts of the social-network graph, (b) his ability to change the connections that his Sybil identities maintain to honest users, and (c) taking advantage of\u00a0\u2026",
+        "citations": 39
+    },
+    {
+        "title": "Towards Making Random Passwords Memorable: Leveraging Users' Cognitive Ability Through Multiple Cues",
+        "id": "icDo19sAAAAJ:NhqRSupF_l8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:NhqRSupF_l8C",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Shannon Scielzo",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM Conference on Human Factors in Computing Systems (CHI)",
+        "pub_date": "2015/4",
+        "description": "Given the choice, users produce passwords reflecting common strategies and patterns that ease recall but offer uncertain and often weak security. System-assigned passwords provide measurable security but suffer from poor memorability. To address this usability-security tension, we argue that systems should assign random passwords but also help with memorization and recall. We investigate the feasibility of this approach with CuedR, a novel cued-recognition authentication scheme that provides users with multiple cues (visual, verbal, and spatial) and lets them choose the cues that best fit their learning process for later recognition of system-assigned keywords. In our lab study, all 37 of our participants could log in within three attempts one week after registration (mean login time: 38.0 seconds). A pilot study on using multiple CuedR passwords also showed 100% recall within three attempts. Based on our\u00a0\u2026",
+        "citations": 66
+    },
+    {
+        "title": "Leveraging real-life facts to make random passwords more memorable",
+        "id": "icDo19sAAAAJ:w0odbtu79TwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:w0odbtu79TwC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Kanis Fatema",
+            "Matthew Wright",
+            "Shannon Scielzo"
+        ],
+        "pub_source": "Computer Security--ESORICS 2015: 20th European Symposium on Research in Computer Security, Vienna, Austria, September 21-25, 2015, Proceedings, Part II 20",
+        "pub_date": "2015",
+        "description": "User-chosen passwords fail to provide adequate security. System-assigned random passwords are more secure but suffer from memorability problems. We argue that the system should remove this burden from users by assisting with the memorization of randomly assigned passwords. To meet this need, we aim to apply the scientific understanding of long-term memory. In particular, we examine the efficacy of augmenting a system-assigned password scheme based on textual recognition by providing users with verbal cues\u2014real-life facts corresponding to the assigned keywords. In addition, we explore the usability gain of including images related to the keywords along with the verbal cues. We conducted a multi-session in-lab user study with 52 participants, where each participant was assigned three different passwords, each representing one study condition. Our results show that the textual recognition\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "The impact of cues and user interaction on the memorability of system-assigned recognition-based graphical passwords",
+        "id": "icDo19sAAAAJ:P5F9QuxV20EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:P5F9QuxV20EC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Kanis Fatema",
+            "Matthew Wright",
+            "Shannon Scielzo"
+        ],
+        "pub_source": "Eleventh Symposium On Usable Privacy and Security (SOUPS 2015)",
+        "pub_date": "2015",
+        "description": "User-chosen passwords reflecting common strategies and patterns ease memorization, but oer uncertain and often weak security. System-assigned passwords provide higher security, and thus in commercially deployed graphical-password systems (eg, Passfaces), images are randomly assigned by the system. It is difficult, however, for many users to remember system-assigned passwords. We argue that this is because existing password schemes do not fully leverage humans' cognitive strengths, and we thus examine techniques to enhance password memorability that incorporate scientic understanding of long-term memory. In our study, we examine the efficacy of spatial cues (fixed position of images), verbal cues (phrases/facts related to the images), and employing user interaction (learning images through writing a short description at registration) to improve the memorability of passwords based on face images and object images. We conducted a multi-session in-lab user study with 56 participants, where each participant was assigned seven different graphical passwords, each representing one study condition. One week after registration, participants had a 98% login success rate for a scheme offering spatial and verbal cues, while the scheme based on user interaction had a 95% login success rate for face images and a 93% login success rate for object images. All of these were significantly higher than the control conditions representing existing graphical password schemes. These findings contribute to our understanding of the impact of cues and user interaction on graphical passwords, and they show a promising direction for future\u00a0\u2026",
+        "citations": 22
+    },
+    {
+        "title": "Multiple-Password Interference in the GeoPass User Authentication Scheme",
+        "id": "icDo19sAAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "NDSS Workshop on Usable Security (USEC)",
+        "pub_date": "2015",
+        "description": "Password schemes based on selecting locations in an online map are an emerging topic in user authentication research. GeoPass is the most promising such scheme, as it provides satisfactory resilience against online guessing and showed high memorability (97%) for a single location-password. No multiplepassword interference study, however, has been conducted to see if GeoPass or any other location-based password scheme is suitable for real-world deployment, where users have to remember multiple passwords. In this paper, we report the results of two separate multiple-password studies on GeoPass, each conducted over the span of three weeks. In the first study, we aim to understand the effects of interference on GeoPass scheme, where we found that users remembered location-passwords in less than 70% of login sessions, with 41.5% of login failures due to interference effects. Through a detailed analysis, we identify why interferences occur for location-passwords, and based on our findings, we propose to leverage mental stories to address the interference issue. We then perform a second interference study on modified GeoPass scheme to test the efficacy of our approach, where we found that the login success rate was greater than 97% and 3.4% of login attempts failed because of interference effects.",
+        "citations": 17
+    },
+    {
+        "title": "iPersea: The Improved Persea with Sybil Detection Mechanism",
+        "id": "icDo19sAAAAJ:DwFgw5hZUzMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:DwFgw5hZUzMC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2014/12",
+        "description": "P2P systems are highly susceptible to Sybil attacks, in which an attacker creates a large number of identities and uses them to control a substantial fraction of the system. Persea is the most recent approach towards designing a social network based Sybil-resistant DHT. Unlike prior Sybil-resistant P2P systems based on social networks, Persea does not rely on two key assumptions:(i) that the social network is fast mixing, and (ii) that there is a small ratio of attack edges to honest peers. Both assumptions have been shown to be unreliable in real social networks. The hierarchical distribution of node IDs in Persea confines a large attacker botnet to a considerably smaller region of the ID space than in a normal P2P system and its replication mechanism lets a peer to retrieve the desired results even if a given region is occupied by attackers. However, Persea system suffers from certain limitations, since it cannot handle\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Hierarchy of users\u05f3 web passwords: Perceptions, practices and susceptibilities",
+        "id": "icDo19sAAAAJ:dfsIfKJdRG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:dfsIfKJdRG4C",
+        "authors": [
+            "SM Taiabul Haque",
+            "Matthew Wright",
+            "Shannon Scielzo"
+        ],
+        "pub_source": "International Journal of Human-Computer Studies",
+        "pub_date": "2014/12/1",
+        "description": "In this study, we propose a hierarchy of password importance, and we use an experiment to examine the degree of similarity between passwords for lower-level (e.g. news portal) and higher-level (e.g. banking) websites in this hierarchy. We asked subjects to construct passwords for websites at both levels. Leveraging the lower-level passwords along with a dictionary attack, we successfully cracked almost one-third of the subjects\u05f3 higher-level passwords. In a survey, subjects reported frequently reusing higher-level passwords, with or without modifications, as well as using a similar process to construct both levels of passwords. We thus conclude that unsafely shared or leaked lower-level passwords can be used by attackers to crack higher-level passwords.",
+        "citations": 48
+    },
+    {
+        "title": "A Comprehensive Study of the GeoPass User Authentication Scheme",
+        "id": "icDo19sAAAAJ:AubyX3KqGToC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:AubyX3KqGToC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2014/8",
+        "description": "Before deploying a new user authentication scheme, it is critical to subject the scheme to comprehensive study. Few works, however, have undertaken such a study. Recently, Thorpe et al. proposed GeoPass, the most promising of a class of user authentication schemes based on geographic locations in online maps. Their study showed very high memorability (97%) and satisfactory resilience against online guessing, which means that GeoPass has compelling features for real-world use. No comprehensive study, however, has been conducted for GeoPass or any other location-based password scheme. In this paper, we present a systematic approach for the detailed evaluation of a password system, which we implement to study GeoPass. We conducted three separate studies to evaluate the suitability of GeoPass for widespread use. First, we performed a field study over two months, in which users in a real-world\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "QA: Towards the solution of usability-security tension in user authentication",
+        "id": "icDo19sAAAAJ:4OULZ7Gr8RgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:4OULZ7Gr8RgC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "SM Haque",
+            "Matthew Wright"
+        ],
+        "pub_source": "arXiv preprint arXiv:1407.7277",
+        "pub_date": "2014/7/27",
+        "description": "Users often choose passwords that are easy to remember but also easy to guess by attackers. Recent studies have revealed the vulnerability of textual passwords to shoulder surfing and keystroke loggers. It remains a critical challenge in password research to develop an authentication scheme that addresses these security issues, in addition to offering good memorability. Motivated by psychology research on humans' cognitive strengths and weaknesses, we explore the potential of cognitive questions as a way to address the major challenges in user authentication. We design, implement, and evaluate Q-A, a novel cognitive-question-based password system that requires a user to enter the letter at a given position in her answer for each of six personal questions (e.g. \"What is the name of your favorite childhood teacher?\"). In this scheme, the user does not need to memorize new, artificial information as her authentication secret. Our scheme offers 28 bits of theoretical password space, which has been found sufficient to prevent online brute-force attacks. Q-A is also robust against shoulder surfing and keystroke loggers. We conducted a multi-session in-lab user study to evaluate the usability of Q-A; 100% of users were able to remember their Q-A password over the span of one week, although login times were high. We compared our scheme with random six character passwords and found that login success rate in Q-A was significantly higher. Based on our results, we suggest that Q-A would be most appropriate in contexts that demand high security and where logins occur infrequently (e.g., online bank accounts).",
+        "citations": 6
+    },
+    {
+        "title": "Dovetail: Stronger anonymity in next-generation Internet routing",
+        "id": "icDo19sAAAAJ:yD5IFk8b50cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:yD5IFk8b50cC",
+        "authors": [
+            "Jody Sankey",
+            "Matthew Wright"
+        ],
+        "pub_source": "Privacy Enhancing Technologies Symposium (PETS 2014)",
+        "pub_date": "2014/7/16",
+        "description": "Given current research initiatives advocating \u201cclean slate\u201d Internet designs, researchers have the opportunity to design an internetwork layer routing protocol that provides efficient anonymity by decoupling identity from network location. Prior work in anonymity for the next-generation Internet fully trusts the user\u2019s ISP. We propose Dovetail, which provides anonymity against an active attacker located at any single point within the network, including the user\u2019s ISP. A major design challenge is to provide this protection without including an applicationlayer proxy in data transmission. We address this in path construction by using a matchmaker node (an end host) to overlap two path segments at a dovetail node (a router). The dovetail then trims away part of the path so that data transmission bypasses the matchmaker. We develop a systematic mechanism to measure the topological anonymity of our designs, and\u00a0\u2026",
+        "citations": 55
+    },
+    {
+        "title": "Applying Psychometrics to Measure User Comfort when Constructing a Strong Password",
+        "id": "icDo19sAAAAJ:fPk4N6BV_jEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:fPk4N6BV_jEC",
+        "authors": [
+            "SM Taiabul Haque",
+            "Shannon Scielzo",
+            "Matthew Wright"
+        ],
+        "pub_source": "Symposium on Usable Privacy and Security (SOUPS 2014)",
+        "pub_date": "2014/7/9",
+        "description": "As mobile devices become increasingly common for accessing services online, the security of these services in turn depends more on password entry on these devices. Unfortunately, users are not comfortable with existing textual password entry mechanisms on mobile phone handsets. In this study, we investigate this issue of user comfort from the viewpoint of psychometrics. By applying standard techniques of psychometrics, we develop a questionnaire (known as a scale in psychometrics) that measures the comfort of constructing a strong password when using a particular interface. We establish the essential psychometric properties (reliability and validity) of this scale and demonstrate how the scale can be used to profile password construction interfaces of popular smartphone handsets. We also theoretically conceptualize user comfort across different dimensions and use confirmatory factor analysis to verify our theory. Finally, we highlight several issues related to scale development and discuss how psychometric approaches may be useful in general for measuring various subjective concepts that are related to usable security.",
+        "citations": 19
+    },
+    {
+        "title": "QA: Towards the Solution of Usability-Security Tension in User Authentication",
+        "id": "icDo19sAAAAJ:yNlG6JgpFqoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:yNlG6JgpFqoC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "SM Taiabul Haque",
+            "Matthew Wright"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2014/7",
+        "description": "Users often choose passwords that are easy to remember but also easy to guess by attackers. Recent studies have revealed the vulnerability of textual passwords to shoulder surfing and keystroke loggers. It remains a critical challenge in password research to develop an authentication scheme that addresses these security issues, in addition to offering good memorability. Motivated by psychology research on humans' cognitive strengths and weaknesses, we explore the potential of cognitive questions as a way to address the major challenges in user authentication. We design, implement, and evaluate QA, a novel cognitive-question-based password system that requires a user to enter the letter at a given position in her answer for each of six personal questions (eg\" What is the name of your favorite childhood teacher?\"). In this scheme, the user does not need to memorize new, artificial information as her\u00a0\u2026"
+    },
+    {
+        "title": "Mobile application security",
+        "id": "icDo19sAAAAJ:u_35RYKgDlwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:u_35RYKgDlwC",
+        "authors": [
+            "Ying-Dar Lin",
+            "Chun-Ying Huang",
+            "Matthew Wright",
+            "Georgios Kambourakis"
+        ],
+        "pub_source": "Computer",
+        "pub_date": "2014/6/18",
+        "description": "With a multitude of mobile apps available in the market, most users are unaware of the security risks they bring. Strategies for coping with the diversity of these threats deserve a closer look.",
+        "citations": 26
+    },
+    {
+        "title": "Design and evaluation of Persea, a Sybil-resistant DHT",
+        "id": "icDo19sAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM Symposium on Information, Computer and Communications Security (ASIACCS 2014)",
+        "pub_date": "2014/6/4",
+        "description": "P2P systems are inherently vulnerable to Sybil attacks, in which an attacker creates a large number of identities and uses them to control a substantial fraction of the system. We propose Persea, a novel P2P system that derives its Sybil resistance by assigning IDs through a bootstrap tree, the graph of how nodes have joined the system through invitations. Unlike prior Sybil-resistant P2P systems based on social networks, Persea does not rely on two key assumptions: (1) that the social network is fast mixing and (2) that there is a small ratio of attack edges to honest nodes. Both assumptions have been shown to be unreliable in real social networks. A node joins Persea when it gets an invitation from an existing node in the system. The inviting node assigns a node ID to the joining node and gives it a chunk of node IDs for further distribution. For each chunk of ID space, the attacker needs to socially engineer a\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Using Data Mules to Preserve Source Location Privacy in Wireless Sensor Networks",
+        "id": "icDo19sAAAAJ:M05iB0D1s5AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:M05iB0D1s5AC",
+        "authors": [
+            "Mayank Raj",
+            "Na Li",
+            "Donggang Liu",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "Pervasive and Mobile Computing",
+        "pub_date": "2014/4",
+        "description": "Abstract Wireless Sensor Networks (WSNs) have many promising applications for monitoring critical regions, like military surveillance and wildlife monitoring. In such applications, it is critical to protect the location of the source sensor that generates the data, as exposure of this information usually reveals the location of the object being monitored. Traditional security mechanisms, like encryption, have been proven to be ineffective as the location of the source can also be revealed by analyzing the traffic flow in the network. In this paper, we investigate the source-location privacy issue. We first propose a realistic semi-global eavesdropping attack model and show its effectiveness in compromising an existing source-location preserving technique. Furthermore, to measure source location privacy against the semi-global eavesdropper, we define a model for \u03b1-angle anonymity. Additionally, we design a new protocol\u00a0\u2026",
+        "citations": 66
+    },
+    {
+        "title": "ReDS: A Framework for Reputation-Enhanced DHTs (Supplementary Material)",
+        "id": "icDo19sAAAAJ:uWy0R8PweswC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:uWy0R8PweswC",
+        "authors": [
+            "Ruj Akavipat",
+            "Mahdi N Al-Ameen",
+            "Apu Kapadia",
+            "Zahid Rahman",
+            "Roman Schlegel",
+            "Matthew Wright"
+        ],
+        "pub_source": "",
+        "pub_date": "2014/2",
+        "description": "\u2022 Section 2 provides a detailed description of A-Boost, the local mode of Halo-ReDS that we compare the collaborative mode against in our simulation experiments.\u2022 Section 3 briefly analyzes the effect of collaborative mode on path length in Halo-ReDS.\u2022 Section 4 provides a detailed description of the Kad-ReDS algorithm."
+    },
+    {
+        "title": "Fast and energy-efficient technique for jammed region mapping in wireless sensor networks",
+        "id": "icDo19sAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Nabila Rahman",
+            "Matthew Wright",
+            "Donggang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:1401.7002",
+        "pub_date": "2014/1/27",
+        "description": "Wireless sensor networks (WSNs) have great practical importance for surveillance systems to perform monitoring by acquiring and sending information on any intrusion in a secured area. Requirement of very little human intervention is one of the most desirable features of WSNs, thus making it a cheaper and safer alternative for securing large areas such as international borders. Jamming attacks in WSNs can be applied to disrupt communications among the sensor nodes in the network. Since it is difficult to prevent jamming attacks, detection and mapping out the jammed regions is critical to overcome this problem. In a security monitoring scenario, the network operators will be able to take proper measures against jamming once the jammed regions in the network are known to them. It is also desirable to keep the interactions of the sensor nodes in the network minimal, as they are low powered devices and need to conserve their resources. In this paper we propose a light-weight technique for faster mapping of the jammed regions. We minimize the load on the sensors by removing the actual responsibility of mapping from the network to the central base station (BS). After a few nodes report to the BS, it carries out the task of mapping of the jammed regions in the network. We use our simulation results to compare our proposed system with the existing techniques and also to measure the performance of our system. Our results show that the jammed regions in a network can be mapped from fewer nodes reporting to the base station.",
+        "citations": 8
+    },
+    {
+        "title": "Password Construction and Management Strategies of the Online Users of Bangladesh: A Demographic Comparison with the Users of the First-World Countries",
+        "id": "icDo19sAAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "S M Taiabul Haque",
+            "Tauhidul Alam",
+            "Mamoon Al-Rasheed",
+            "Matthew Wright"
+        ],
+        "pub_source": "Workshop on Human and Technology (WHAT)",
+        "pub_date": "2013/12",
+        "description": "In this paper, we report on a study of the password construction and management strategies of advanced online users in Bangladesh. The study involved a survey of 75 undergraduate Computer Science students from two different universities. Their responses suggest that even these advanced online users are not aware of some generally accepted good password practices. Our findings are also compared with the responses of various user studies that have been conducted among the users in first-world countries. The Bangladeshi users in our study, who have fewer passwords than first-world users, are more likely to write down passwords and share passwords less frequently. They also do not change their passwords regularly. On the other hand, users in our study generate passwords with fewer personally meaningful words and numbers than first-world users, and a majority of our participants do not use\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Passwords and interfaces: Towards creating stronger passwords by using mobile phone handsets",
+        "id": "icDo19sAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "SM Haque",
+            "Matthew Wright",
+            "Shannon Scielzo"
+        ],
+        "pub_source": "ACM Workshop on Security and Privacy in Smartphones & Mobile Devices (SPSM)",
+        "pub_date": "2013/11/8",
+        "description": "Entering a password on a mobile phone requires more effort than entering it on a PC keyboard, especially when using capital letters, digits, and special characters that are considered important for strong passwords. In this study, we examine how these factors affect the construction of passwords on input-constrained devices such as mobile phones. We conducted a between-group experiment with 72 students from the University of Texas at Arlington (UTA), in which we asked the participants to construct new passwords using PC keyboards and mobile phones with different keypad layouts. Passwords constructed by using PC keyboards were stronger than those constructed by touchscreen keypads. Surprisingly, passwords that were constructed by mobile phones with physical keyboards were stronger than those constructed by PC keyboards. We also designed a custom layout for the touchscreen keypad that offers\u00a0\u2026",
+        "citations": 22
+    },
+    {
+        "title": "Mitigating jamming attacks in wireless broadcast systems",
+        "id": "icDo19sAAAAJ:RGFaLdJalmkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:RGFaLdJalmkC",
+        "authors": [
+            "Qi Dong",
+            "Donggang Liu",
+            "Matthew Wright"
+        ],
+        "pub_source": "Wireless Networks",
+        "pub_date": "2013/11/1",
+        "description": "Wireless communications are vulnerable to signal jamming attacks. Spread spectrum mitigates these attacks by spreading normal narrowband signals over a much wider band of frequencies and forcing jammers who do not know the spreading pattern to expend much more effort to launch the attack. In broadcast systems, however, jammers can easily find out the spread pattern by compromising just a single receiver. Several group-based ideas have been proposed to deal with compromised receivers; they can tolerate up to t malicious receivers by adding 2t extra copies for each broadcast message. In this paper, we propose a novel scheme with random channel sharing. This scheme reduces the communication cost from 2t to (1\u00a0+\u00a0p)t extra copies, where p determines the channel sharing probability (0\u00a0<\u00a0p\u00a0<\u00a01). In addition, it does not increase the hardware complexity as it does not require a receiver to\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "ReDS: A Framework for Reputation-Enhanced DHTs",
+        "id": "icDo19sAAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Ruj Akavipat",
+            "M Al-Ameen",
+            "Apu Kapadia",
+            "Zahid Rahman",
+            "Roman Schlegel",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Transactions on Parallel and Distributed Systems (TPDS)",
+        "pub_date": "2013/9",
+        "description": "Distributed hash tables (DHTs), such as Chord and Kademlia, offer an efficient means to locate resources in peer-to-peer networks. Unfortunately, malicious nodes on a lookup path can easily subvert such queries. Several systems, including Halo (based on Chord) and Kad (based on Kademlia), mitigate such attacks by using redundant lookup queries. Much greater assurance can be provided; we present Reputation for Directory Services (ReDS), a framework for enhancing lookups in redundant DHTs by tracking how well other nodes service lookup requests. We describe how the ReDS technique can be applied to virtually any redundant DHT including Halo and Kad. We also study the collaborative identification and removal of bad lookup paths in a way that does not rely on the sharing of reputation scores, and we show that such sharing is vulnerable to attacks that make it unsuitable for most applications of\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "Pisces: Anonymous Communication Using Social Networks",
+        "id": "icDo19sAAAAJ:a0OBvERweLwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:a0OBvERweLwC",
+        "authors": [
+            "Prateek Mittal",
+            "Matthew Wright",
+            "Nikita Borisov"
+        ],
+        "pub_source": "ISOC Network and Distributed Systems Security Symposium (NDSS 2013)",
+        "pub_date": "2013/2/26",
+        "description": "The architectures of deployed anonymity systems such as Tor suffer from two key problems that limit user's trust in these systems. First, paths for anonymous communication are built without considering trust relationships between users and relays in the system. Second, the network architecture relies on a set of centralized servers. In this paper, we propose Pisces, a decentralized protocol for anonymous communications that leverages users' social links to build circuits for onion routing. We argue that such an approach greatly improves the system's resilience to attackers. A fundamental challenge in this setting is the design of a secure process to discover peers for use in a user's circuit. All existing solutions for secure peer discovery leverage structured topologies and cannot be applied to unstructured social network topologies. In Pisces, we discover peers by using random walks in the social network graph with a bias away from highly connected nodes to prevent a few nodes from dominating the circuit creation process. To secure the random walks, we leverage the reciprocal neighbor policy: if malicious nodes try to exclude honest nodes during peer discovery so as to improve the chance of being selected, then honest nodes can use a tit-for-tat approach and reciprocally exclude the malicious nodes from their routing tables. We describe a fully decentralized protocol for enforcing this policy, and use it to build the Pisces anonymity system. Using theoretical modeling and experiments on real-world social network topologies, we show that (a) the reciprocal neighbor policy mitigates active attacks that an adversary can perform, (b) our decentralized\u00a0\u2026",
+        "citations": 72
+    },
+    {
+        "title": "Mimic: An active covert channel that evades regularity-based detection",
+        "id": "icDo19sAAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "Kush Kothari",
+            "Matthew Wright"
+        ],
+        "pub_source": "Computer Networks",
+        "pub_date": "2013/2/26",
+        "description": "A covert timing channel is a hidden communication channel based on network timing that an attacker can use to sneak secrets out of a secure system. Active covert channels, in which the attacker uses a program to automatically generate innocuous traffic to use as a medium for embedding the covert channel, are especially problematic, as they allow the attacker to output large amounts of secret data. Further, it is relatively easy to create an active covert channel that outputs traffic with the same delay distribution as legitimate traffic. However, these channels are generally detectable due to their regularity \u2013 as they are generate by a computer program, they do not have the variations found in human-generated traffic. In this work, we show how to build a an active covert channel that generates traffic in a purposefully irregular manner. In particular, we propose Mimic, an active covert channel that mimics both the shape\u00a0\u2026",
+        "citations": 38
+    },
+    {
+        "title": "Persea: A Sybil-resistant social DHT",
+        "id": "icDo19sAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Mahdi N Al-Ameen",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM Conference on Data and Application Security and Privacy (CODASPY 2013)",
+        "pub_date": "2013/2/18",
+        "description": "P2P systems are inherently vulnerable to Sybil attacks, in which an attacker can have a large number of identities and use them to control a substantial fraction of the system. We propose Persea, a novel P2P system that is more robust against Sybil attacks than prior approaches. Persea derives its Sybil resistance by assigning IDs through a bootstrap tree, the graph of how nodes have joined the system through invitations. More specifically, a node joins Persea when it gets an invitation from an existing node in the system. The inviting node assigns a node ID to the joining node and gives it a chunk of node IDs for further distribution. For each chunk of ID space, the attacker needs to socially engineer a connection to another node already in the system. This hierarchical distribution of node IDs confines a large attacker botnet to a considerably smaller region of the ID space than in a normal P2P system. Persea uses a\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "A study of user password strategy for multiple accounts",
+        "id": "icDo19sAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "S M Taiabul Haque",
+            "Matthew Wright",
+            "Shannon Scielzo"
+        ],
+        "pub_source": "ACM Conference on Data and Application Security and Privacy (CODASPY 2013)",
+        "pub_date": "2013/2/18",
+        "description": "Despite advances in biometrics and other technologies, passwords remain the most commonly used means of authentication in computer systems. Users maintain different security levels for different passwords. In this study, we examine the degree of similarity among passwords of different security levels of a user. We conducted a laboratory experiment with 80 students from the University of Texas at Arlington (UTA). We asked the subjects to construct new passwords for websites of different security levels. We collected the lower-level passwords (e.g., passwords for online news sites) constructed by the subjects, combined them with a comprehensive wordlist, and performed dictionary attacks on their constructed passwords from the higher-level sites (e.g., banking websites). We could successfully crack almost one-third of their constructed passwords from the higher-level sites with this method. This suggests that, if a\u00a0\u2026",
+        "citations": 74
+    },
+    {
+        "title": "Poster: Simulation Results",
+        "id": "icDo19sAAAAJ:0urtJCGzaFQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:0urtJCGzaFQC",
+        "authors": [
+            "Nabila Rahman",
+            "Matthew Wright",
+            "John Davis",
+            "Eric Manuel"
+        ],
+        "pub_source": "UT Arlington Research Experience for Teachers 600, 1000",
+        "pub_date": "2013"
+    },
+    {
+        "title": "Distributed Detection of Replica Node Attacks",
+        "id": "icDo19sAAAAJ:RdUpO4xyVKMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:RdUpO4xyVKMC",
+        "authors": [
+            "Jun-Won Ho",
+            "Donggang Liu",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "Distributed Sensor Networks: Sensor Networking and Applications (2nd Ed.)",
+        "pub_date": "2013",
+        "description": "Wireless sensor networks are an important tool in security-sensitive scenarios, such as battle field surveillance, nuclear and chemical attack detection, intrusion detection, flood detection, weather forecasting, traffic surveillance, and patient monitoring [1]. In such scenarios, protecting the network from adversaries who seek to undermine the network\u2019s operations or steal its sensitive information is critical to the network\u2019s mission. is task is made difficult, however, by the nature of the network\u2019s deployment. Generally, the network operator deploys a base station and a set of small sensor devices in the network field. e sensor devices form ad hoc networks, collaborate with each other to sense the phenomena associated with the assigned missions, and then send the sensory data to the base station. e sensors are deployed in potentially hostile environments where enemies may be present. Since wireless sensor networks\u00a0\u2026"
+    },
+    {
+        "title": "Privacy enhancing technologies",
+        "id": "icDo19sAAAAJ:tSVUDDkujAIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:tSVUDDkujAIC",
+        "authors": [
+            "Emiliano De Cristofaro",
+            "Matthew Wright"
+        ],
+        "pub_source": "Springer Berlin Heidelberg",
+        "pub_date": "2013",
+        "description": "Either through a deliberate desire for surveillance or an accidental consequence of design, there are a growing number of systems and applications that record and process sensitive information. As a result, the role of privacy-enhancing technologies becomes increasingly crucial, whether adopted by individuals to avoid intrusion in their private life, or by system designers to offer protection to their users.The 14th Privacy Enhancing Technologies Symposium (PETS 2014) addressed the need for better privacy by bringing together experts in privacy and systems research, cryptography, censorship resistance, and data protection, facilitating the collaboration needed to tackle the challenges faced in designing and deploying privacy technologies.",
+        "citations": 8
+    },
+    {
+        "title": "SDA-2H: Understanding the Value of Background Cover Against Statistical Disclosure",
+        "id": "icDo19sAAAAJ:abG-DnoFyZgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:abG-DnoFyZgC",
+        "authors": [
+            "Mahdi Nasrullah Al-Ameen",
+            "Charles Gatz",
+            "Matthew Wright"
+        ],
+        "pub_source": "Journal of Networks",
+        "pub_date": "2012/12",
+        "description": "The statistical disclosure attack (SDA) is an effective method for compromising the anonymity of users in a mix based system. Cover traffic, in the form of fake or dummy messages sent by other users of the mix, is an effective defense to make the task of the attacker difficult. Our aim is to examine the effect that background cover - the cover traffic sent by other users - has on the effectiveness of statistical disclosure attacks. Since the original SDA does not explicitly account for background traffic volumes, we developed an extension to the SDA called SDA-2H that uses this information to improve upon the SDA. Based on this attack, we are able to quantify the importance of background cover traffic, which we show in simulation to be effective in many scenarios.",
+        "citations": 3
+    },
+    {
+        "title": "CRISP: Collusion-resistant incentive-compatible routing and forwarding in opportunistic networks",
+        "id": "icDo19sAAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:blknAaTinKkC",
+        "authors": [
+            "Umair Sadiq",
+            "Mohan Kumar",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM 2012)",
+        "pub_date": "2012/10/21",
+        "description": "In opportunistic environments, tasks such as content sharing and service execution among remote devices are facilitated by relays (devices with short-range wireless connectivity) that receive data, move around, and then forward the data. To achieve high throughput, it is important to secure forwarding and provide incentives for participation by relays. However, it is extremely challenging to monitor the behavior of relays in an opportunistic network due to sparse connectivity. Existing schemes do not work when selfish/malicious relays collude with each other to forge routing metrics, drop useful data, flood the network, or earn extra reward. The credit scheme presented in this paper is the first in which routing as well as forwarding are incentive compatible. To design the scheme, the data transfer and loss in an opportunistic network are modeled as a non-linear generalized flow network. Then, optimality conditions for\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "ZoneTrust: Fast zone-based node compromise detection and revocation in wireless sensor networks using sequential hypothesis testing",
+        "id": "icDo19sAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Jun-Won Ho",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "IEEE Transactions on Dependable and Secure Computing (TDSC)",
+        "pub_date": "2012/7",
+        "description": "Due to the unattended nature of wireless sensor networks, an adversary can physically capture and compromise sensor nodes and then mount a variety of attacks with the compromised nodes. To minimize the damage incurred by the compromised nodes, the system should detect and revoke them as soon as possible. To meet this need, researchers have recently proposed a variety of node compromise detection schemes in wireless ad hoc and sensor networks. For example, reputation-based trust management schemes identify malicious nodes but do not revoke them due to the risk of false positives. Similarly, software-attestation schemes detect the subverted software modules of compromised nodes. However, they require each sensor node to be attested periodically, thus incurring substantial overhead. To mitigate the limitations of the existing schemes, we propose a zone-based node compromise detection\u00a0\u2026",
+        "citations": 81
+    },
+    {
+        "title": "Privacy Enhancing Technologies: 12th International Symposium, PETS 2012, Vigo, Spain, July 11-13, 2012, Proceedings",
+        "id": "icDo19sAAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Simone Fischer-H\u00fcbner",
+            "Matthew Wright"
+        ],
+        "pub_source": "Springer",
+        "pub_date": "2012/6/28",
+        "description": "Privacy and anonymity are increasingly important in the online world. Corporations, governments, and other organizations are realizing and exploiting their power to track users and their behavior. Approaches to protecting individuals, groups, but also companies and governments from profiling and censorship include decentralization, encryption, distributed trust, and automated policy disclosure.The 2012 Privacy Enhancing Technologies Symposium (PETS 2012) addressed the design and realization of such privacy services for the Internet and other data systems and communication networks by bringing together privacy and anonymity experts from around the world to discuss recent advances and new perspectives."
+    },
+    {
+        "title": "Fast jamming detection in sensor networks",
+        "id": "icDo19sAAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Kartik Siddhabathula",
+            "Qi Dong",
+            "Donggang Liu",
+            "Matthew Wright"
+        ],
+        "pub_source": "2012 IEEE International Conference on Communications (ICC)",
+        "pub_date": "2012/6/10",
+        "description": "Wireless Sensor Networks (WSN) are vulnerable to jamming attacks where an adversary injects strong noises to interfere with the normal transmission. It is crucial to detect such jamming attacks as fast as possible. Existing studies have shown that an effective indicator of jamming is the packet delivery ratio (PDR). However, current PDR-based schemes use the end-to-end packet delivery ratio, which requires one to observe communication for a long time before a good decision is made. In this paper, we propose collaborative detection, which evaluates the packet delivery ratio in an given area instead of a pair of nodes. The intuition is that the attacker often jams an area of his interest, not just two specific nodes. The benefit is that we can detect jamming attacks in a much faster way. We have evaluated the performance of our idea on TelosB motes. The results show that we can effectively and quickly detect jamming\u00a0\u2026",
+        "citations": 23
+    },
+    {
+        "title": "Selective Grouping Algorithm For Low Latency Anonymous Systems",
+        "id": "icDo19sAAAAJ:RgMnzfD6kpIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:RgMnzfD6kpIC",
+        "authors": [
+            "Vishal Gupta",
+            "M Wright"
+        ],
+        "pub_source": "University of Texas at Arlington",
+        "pub_date": "2012/5",
+        "description": "ACKNOWLEDGEMENTS This thesis would not have been possible without the guidance and support of my supervisor Dr Matthew Wright. I would also like to thank Dr. Vassilis Athitsos and Dr. Gergely Zaruba for taking time to serve on my thesis committee. I would also like to thank my student colleagues in the iSec lab for always being ready to help. Finally, I thank my parents for their unconditional love and support all this time. April 30, 2012 iv",
+        "citations": 1
+    },
+    {
+        "title": "Distributed detection of mobile malicious node attacks in wireless sensor networks",
+        "id": "icDo19sAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Jun-Won Ho",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "Ad Hoc Networks",
+        "pub_date": "2012/5/1",
+        "description": "In wireless sensor networks, sensor nodes are usually fixed to their locations after deployment. However, an attacker who compromises a subset of the nodes does not need to abide by the same limitation. If the attacker moves his compromised nodes to multiple locations in the network, such as by employing simple robotic platforms or moving the nodes by hand, he can evade schemes that attempt to use location to find the source of attacks. In performing DDoS and false data injection attacks, he takes advantage of diversifying the attack paths with mobile malicious nodes to prevent network-level defenses. For attacks that disrupt or undermine network protocols like routing and clustering, moving the misbehaving nodes prevents them from being easily identified and blocked. Thus, mobile malicious node attacks are very dangerous and need to be detected as soon as possible to minimize the damage they can\u00a0\u2026",
+        "citations": 60
+    },
+    {
+        "title": "Protecting location privacy in sensor networks against a global eavesdropper",
+        "id": "icDo19sAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Kiran Mehta",
+            "Donggang Liu",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Transactions on Mobile Computing (TMC)",
+        "pub_date": "2012/2",
+        "description": "While many protocols for sensor network security provide confidentiality for the content of messages, contextual information usually remains exposed. Such contextual information can be exploited by an adversary to derive sensitive information such as the locations of monitored objects and data sinks in the field. Attacks on these components can significantly undermine any network application. Existing techniques defend the leakage of location information from a limited adversary who can only observe network traffic in a small region. However, a stronger adversary, the global eavesdropper, is realistic and can defeat these existing techniques. This paper first formalizes the location privacy issues in sensor networks under this strong adversary model and computes a lower bound on the communication overhead needed for achieving a given level of location privacy. The paper then proposes two techniques to\u00a0\u2026",
+        "citations": 228
+    },
+    {
+        "title": "Using data mules to preserve source location privacy in wireless sensor networks",
+        "id": "icDo19sAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Na Li",
+            "Mayank Raj",
+            "Donggang Liu",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "International Conference on Distributed Computing and Networking (ICDCN 2012)",
+        "pub_date": "2012/1/1",
+        "citations": 66
+    },
+    {
+        "title": "EnPassant: Anonymous routing for disruption\u2010tolerant networks with applications in assistive environments",
+        "id": "icDo19sAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Gauri Vakde",
+            "Radhika Bibikar",
+            "Zhengyi Le",
+            "Matthew Wright"
+        ],
+        "pub_source": "Security and Communication Networks",
+        "pub_date": "2011/11/1",
+        "description": "Disruption\u2010tolerant networking holds a great deal of potential for making communications easier and more flexible in pervasive assistive environments. However, security and privacy must be addressed to make these communications acceptable with respect to protecting patient privacy. We propose EnPassant, a system for using disruption\u2010tolerant networking in privacy\u2010preserving way. EnPassant uses concepts from anonymous communications, re\u2010routing messages through groups of peer nodes to hide the relation between the sources and destinations. We describe a set of protocols that explore a practical range of tradeoffs between privacy and communication costs by modifying how closely the protocol adheres to the optimal predicted path. We also describe the cryptographic tools needed to facilitate changes in\u2010group membership. Finally, we present the results of extensive trace\u2010based simulation\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "An analysis of the statistical disclosure attack and receiver-bound cover",
+        "id": "icDo19sAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Nayantara Mallesh",
+            "Matthew Wright"
+        ],
+        "pub_source": "Computers & Security",
+        "pub_date": "2011/11/1",
+        "description": "Anonymous communications provides an important privacy service by keeping passive eavesdroppers from linking communicating parties. However, an attacker can use long-term statistical analysis of traffic sent to and from such a system to link senders with their receivers. Cover traffic is an effective, but somewhat limited, counter strategy against this attack. Earlier work in this area proposes that privacy-sensitive users generate and send cover traffic to the system. However, users are not online all the time and cannot be expected to send consistent levels of cover traffic; use of inconsistent cover traffic drastically reduces its impact. We propose that the anonymity system generate cover traffic that mimics the sending patterns of users in the system. This receiver-bound cover (RBC) helps to make up for users that aren\u2019t there, confusing the attacker. To study the statistical disclosure attack and different cover traffic\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Poster: Shaping network topology for privacy and performance",
+        "id": "icDo19sAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Nayantara Mallesh",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM Conference on Computer and Communications Security (CCS 2011)",
+        "pub_date": "2011/10/17",
+        "description": "While it is important to design anonymity systems to be robust against attacks, it is also important to provide good performance to users. We explore ways to improve the security and performance of anonymity systems by building both security and performance properties into the network topology. In particular, we study an expander graph based network topology and apply link-based performance metrics in order to build the topology graph. Such a network can be constructed to have enhanced performance and similar security properties to restricted route topologies with random links. Results show that a sparse, D-regular expander graph topology provides nearly the same security, as measured by the likelihood of an incoming stream exiting through any node in the network, as with a fully-connected graph. Further, when the expander graph is constructed with a bias towards faster links, there is a considerable gain\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "#h00t: Censorship resistant microblogging",
+        "id": "icDo19sAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Dustin Bachrach",
+            "Christopher Nunu",
+            "Dan S Wallach",
+            "Matthew Wright"
+        ],
+        "pub_source": "arXiv preprint arXiv:1109.6874",
+        "pub_date": "2011/9/30",
+        "description": "Microblogging services such as Twitter are an increasingly important way to communicate, both for individuals and for groups through the use of hashtags that denote topics of conversation. However, groups can be easily blocked from communicating through blocking of posts with the given hashtags. We propose #h00t, a system for censorship resistant microblogging. #h00t presents an interface that is much like Twitter, except that hashtags are replaced with very short hashes (e.g., 24 bits) of the group identifier. Naturally, with such short hashes, hashtags from different groups may collide and #h00t users will actually seek to create collisions. By encrypting all posts with keys derived from the group identifiers, #h00t client software can filter out other groups' posts while making such filtering difficult for the adversary. In essence, by leveraging collisions, groups can tunnel their posts in other groups' posts. A censor could not block a given group without also blocking the other groups with colliding hashtags. We evaluate the feasibility of #h00t through traces collected from Twitter, showing that a single modern computer has enough computational throughput to encrypt every tweet sent through Twitter in real time. We also use these traces to analyze the bandwidth and anonymity tradeoffs that would come with different variations on how group identifiers are encoded and hashtags are selected to purposefully collide with one another.",
+        "citations": 12
+    },
+    {
+        "title": "Economic incentives for protecting digital rights online",
+        "id": "icDo19sAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "N Boris Margolin",
+            "Brian Neil Levine",
+            "James D Miller",
+            "Matthew Wright"
+        ],
+        "pub_source": "Electronic Commerce Research and Applications",
+        "pub_date": "2011/9/1",
+        "description": "Once electronic content\u2014such as a password to access a website\u2019s resources\u2014has been released, it is very difficult to prevent it from being shared. This disclosure often represents economic harm to the content\u2019s owner and others. Most attempts to prevent unauthorized sharing of digital content have been based on technology or legal punishments, but these approaches are not always applicable (as with passwords) or fast enough to prevent harm (as with the use of legal punishments). We propose the use of economic incentives to both limit and detect unauthorized sharing. This approach has the advantage of not requiring watermarking, encryption, or other traditional digital rights management techniques. Our protocol, called SPIES, is applicable to content that is shared to a limited extent and that meets several economic conditions. These conditions apply for many forms of content that are currently protected\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Fast detection of mobile replica node attacks in wireless sensor networks using sequential hypothesis testing",
+        "id": "icDo19sAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Jun-Won Ho",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "IEEE Transactions on Mobile Computing (TMC)",
+        "pub_date": "2011/6",
+        "description": "Due to the unattended nature of wireless sensor networks, an adversary can capture and compromise sensor nodes, make replicas of them, and then mount a variety of attacks with these replicas. These replica node attacks are dangerous because they allow the attacker to leverage the compromise of a few nodes to exert control over much of the network. Several replica node detection schemes have been proposed in the literature to defend against such attacks in static sensor networks. However, these schemes rely on fixed sensor locations and hence do not work in mobile sensor networks, where sensors are expected to move. In this work, we propose a fast and effective mobile replica node detection scheme using the Sequential Probability Ratio Test. To the best of our knowledge, this is the first work to tackle the problem of replica node attacks in mobile sensor networks. We show analytically and through\u00a0\u2026",
+        "citations": 115
+    },
+    {
+        "title": "Liquid: A detection-resistant covert timing channel based on IPD shaping",
+        "id": "icDo19sAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Robert J Walls",
+            "Kush Kothari",
+            "Matthew Wright"
+        ],
+        "pub_source": "Computer Networks",
+        "pub_date": "2011/4/25",
+        "description": "Covert timing channels provide a way to surreptitiously leak information from an entity in a higher-security level to an entity in a lower level. The difficulty of detecting or eliminating such channels makes them a desirable choice for adversaries that value stealth over throughput. When one considers the possibility of such channels transmitting information across network boundaries, the threat becomes even more acute. A promising technique for detecting covert timing channels focuses on using entropy-based tests. This method is able to reliably detect known covert timing channels by using a combination of entropy and conditional entropy to detect anomalies in shape and regularity, respectively. This dual approach is intended to make entropy-based detection robust against both current and future channels. In this work, we show that entropy-based detection can be defeated by a channel that intelligently and\u00a0\u2026",
+        "citations": 56
+    },
+    {
+        "title": "The dynamics of Salsa: A robust structured P2P system",
+        "id": "icDo19sAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Safwan Mahmud Khan",
+            "Nayantara Mallesh",
+            "Arjun Nambiar",
+            "Matthew Wright"
+        ],
+        "pub_source": "Network Protocols and Algorithms",
+        "pub_date": "2011/1/16",
+        "description": "Salsa is a structured peer-to-peer system that is designed to perform robust and reliable lookups. It uses a distributed hash table based on hashes of the nodes\u2019 IP addresses to organize the nodes into groups. With a virtual tree structure, limited knowledge of other",
+        "citations": 4
+    },
+    {
+        "title": "Empirical tests of anonymous voice over IP",
+        "id": "icDo19sAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Marc Liberatore",
+            "Bikas Gurung",
+            "Brian Neil Levine",
+            "Matthew Wright"
+        ],
+        "pub_source": "Journal of Network and Computer Applications",
+        "pub_date": "2011/1/1",
+        "description": "Voice over IP (VoIP) is an important service on the Internet, and privacy for VoIP calls will be increasingly important for many people. Providing this privacy, however, is challenging, as anonymity services can be slow and unpredictable. In this paper, we propose a method for extending onion-routing style anonymity protocols for supporting anonymous VoIP (aVoIP) traffic with reasonable performance. We report the results of extensive experimentation across 210 globally placed PlanetLab proxies which shows that paths for reasonable aVoIP quality would need to be selected carefully. Our design includes an algorithm for the measurement and selection of paths for reasonable aVoIP performance and an analysis of the potential for attackers to take advantage of this algorithm to improve existing attacks. We show that aVoIP could be developed in an onion routing system with reasonable performance guarantees and\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Selective cross correlation in passive timing analysis attacks against low-latency mixes",
+        "id": "icDo19sAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Titus Abraham",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE Global Telecommunications Conference (GLOBECOM 2010)",
+        "pub_date": "2010/12/6",
+        "description": "A mix is a communication proxy that hides the relationship between incoming and outgoing messages. Routing traffic through a path of mixes is a powerful tool for providing privacy. When mixes are used for interactive communication, such as VoIP and web browsing, attackers can undermine user privacy by observing timing information along the path. Mixes can prevent these attacks by inserting dummy packets (cover traffic) to obfuscate timing information in each stream. A recently proposed defense called adaptive padding makes cover traffic more effective by ensuring that statistically unusual gaps between packets are partially filled in with dummy packets. In this work, we propose Selective Cross Correlation (SCC), an attack that an eavesdropper could employ to de-anonymize users despite the use of adaptive padding. The main insight of our approach is that, with the defense, the timings at one end of the\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Privacy protection in location-sharing services",
+        "id": "icDo19sAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Fei Xu",
+            "Jingsha He",
+            "Matthew Wright",
+            "Jing Xu"
+        ],
+        "pub_source": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
+        "pub_date": "2010/10/22",
+        "description": "With the fast development in mobile computing devices, location-sensing technology and wireless communication, new applications for share users' real-time location information are developing at an amazing pace. Location privacy is of utmost concern for location-sharing services. There is already a full agreement that users would like to have the complete control over their location information. Existing privacy protection methods often let users specify their privacy peferences to the service provider and thus not only fail to consider the dynamic nature of privacy preferences but also fail to protect user privacy from service provider. In this paper, we propose an user-centric privacy access control method. By separating sensitive privacy polices apart from standard privacy policies, which are now stored at user side and therefore fully under user's control, we demonstrate that our system can provide users with a flexible\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "ReDS: Reputation for directory services in P2P systems",
+        "id": "icDo19sAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Ruj Akavipat",
+            "Apurv Dhadphale",
+            "Apu Kapadia",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM Workshop on Insider Threats (WIT 2010)",
+        "pub_date": "2010/10/8",
+        "description": "P2P systems rely on directory services for locating peers with the desired content and services. Directory services are themselves decentralized, such as with distributed hash tables (DHTs) that allow for efficient locating of objects without a centralized directory. As a system distributed over a diverse set of untrusted nodes, however, directory services must be resilient to adversarial behavior by such malicious insiders. While redundancy-based DHTs such as Salsa and Halo mitigate the effects of adversarial behavior, they incur substantial overhead due to redundant lookups. We propose Reputation for Directory Services (ReDS), a framework for using reputation management to enhance the security and reduce the costs of redundancy-based DHTs in the face of insider attacks. We present ReDS designs for both Salsa and Halo, and we show that peers can significantly boost the success rates of directory lookups by\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Towards modeling the behavior of physical intruders in a region monitored by a wireless sensor network",
+        "id": "icDo19sAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Pranav Krishnamoorthy",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 3rd ACM Workshop on Artificial Intelligence and Security (AISec '10)",
+        "pub_date": "2010/10/8",
+        "description": "A priority task for homeland security is the coverage of large spans of open border that cannot be continuously physically monitored for intrusion. Low-cost monitoring solutions based on wireless sensor networks have been identified as an effective means to perform perimeter monitoring. An ad-hoc wireless sensor network scattered near a border could be used to perform surveillance over a large area with relatively little human intervention. Determining the effectiveness of such an autonomous network in detecting and thwarting an intelligent intruder is a difficult task. We propose a model for an intelligent attacker that attempts to find a detection-free path in a region with sparse sensing coverage. In particular, we apply reinforcement learning (RL) - a machine learning approach - for our model. RL algorithms are well suited for scenarios in which specifying and finding an optimal solution is difficult. By using RL, our\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Evading stepping-stone detection under the cloak of streaming media with SNEAK",
+        "id": "icDo19sAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Jaideep D Padhye",
+            "Kush Kothari",
+            "Madhu Venkateshaiah",
+            "Matthew Wright"
+        ],
+        "pub_source": "Computer Networks",
+        "pub_date": "2010/9/15",
+        "description": "Network-based intrusions have become a serious threat to the users of the Internet. To help cover their tracks, attackers launch attacks from a series of previously compromised systems called stepping stones. Timing correlations on incoming and outgoing packets can lead to detection of the stepping stone and can be used to trace the attacker through each link. Prior work has sought to counter the possibility of the attacker employing chaff packets and randomized delays. To date, however, researchers have not accounted for the full range of techniques that a sophisticated attacker could apply. In this work, we show that such an attacker could avoid detection by the best known stepping-stone detection methods. We propose a simple buffering technique that could be used by an attacker on a stepping stone to evade detection. This technique makes the timing of packets in the output flow of the stepping stone entirely\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "The reverse statistical disclosure attack",
+        "id": "icDo19sAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Nayantara Mallesh",
+            "Matthew Wright"
+        ],
+        "pub_source": "Information Hiding (IH 2010)",
+        "pub_date": "2010/6/28",
+        "description": "Statistical disclosure is a well-studied technique that an attacker can use to uncover relations between users in mix-based anonymity systems. Prior work has focused on finding the receivers to whom a given targeted user sends. In this paper, we investigate the effectiveness of statistical disclosure in finding all of a users\u2019 contacts, including those from whom she receives messages. To this end, we propose a new attack called the Reverse Statistical Disclosure Attack (RSDA). RSDA uses observations of all users sending patterns to estimate both the targeted user\u2019s sending pattern and her receiving pattern. The estimated patterns are combined to find a set of the targeted user\u2019s most likely contacts. We study the performance of RSDA in simulation using different mix network configurations and also study the effectiveness of cover traffic as a countermeasure. Our results show that that RSDA outperforms the\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "ReDS: Reputation for directory services in P2P systems",
+        "id": "icDo19sAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Matthew Wright",
+            "Apu Kapadia",
+            "Mohan Kumar",
+            "Apurv Dhadphale"
+        ],
+        "pub_source": "Workshop on Cyber Security and Information Intelligence Research (CSIIR 2010)",
+        "pub_date": "2010/4/21",
+        "description": "Peer-to-peer (P2P) architectures are gaining popularity and importance for applications ranging from massive-scale Internet content delivery to mobile social networks. Such P2P systems must provide directory services for locating peers with the desired content and services. These directory services are themselves decentralized, such as with distributed hash tables (DHTs), which allow for efficient locating of objects without any centralized directory. Being a distributed system over a diverse set of untrusted nodes, however, such directory services must be resilient to adversarial behavior. Otherwise, the entire P2P system can be crippled by manipulating or simply denying access to resources. We propose Reputation for Directory Services (ReDS), a framework for using reputation management to enhance the security of finding information in distributed systems. While previous reputation systems have addressed\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "ReSCo: A middleware component for reliable service composition in pervasive systems",
+        "id": "icDo19sAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Brent Lagesse",
+            "Mohan Kumar",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE International Conference on Pervasive Computing and Communications (PERCOM 2010 Workshops)",
+        "pub_date": "2010/3/29",
+        "description": "Service composition schemes create high-level application services by combining several basic services. Service composition schemes for dynamic, open systems, such as those found in pervasive environments, must be cognizant of the possibility of failures and attacks. In open systems, it is seldom feasible to guarantee the reliability of each node prior to access; however, there may be several possible ways to compose the same high-level service, each having a different (though possibly overlapping) set of nodes that can satisfy the composition. We approach this problem with a Reliable Service Composition middleware component, ReSCo, to determine trustworthy compositions and nodes for service composition in dynamic, open systems. ReSCo is a modular, adaptive middleware component that selects from possible composition paths and nodes to enhance reliability of service compositions. ReSCo can\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Distributed detection of replica node attacks with group deployment knowledge in wireless sensor networks",
+        "id": "icDo19sAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Jun-Won Ho",
+            "Donggang Liu",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "Ad Hoc Networks",
+        "pub_date": "2009/11/1",
+        "description": "Several protocols have been proposed to mitigate the threat against wireless sensor networks due to an attacker finding vulnerable nodes, compromising them, and using these nodes to eavesdrop or undermine the operation of the network. A more dangerous threat that has received less attention, however, is that of replica node attacks, in which the attacker compromises a node, extracts its keying materials, and produces a large number of replicas to be spread throughout the network. Such attack enables the attacker to leverage the compromise of a single node to create widespread effects on the network. To defend against these attacks, we propose distributed detection schemes to identify and revoke replicas. Our schemes are based on the assumption that nodes are deployed in groups, which is realistic for many deployment scenarios. By taking advantage of group deployment knowledge, the proposed\u00a0\u2026",
+        "citations": 107
+    },
+    {
+        "title": "ZoneTrust: Fast zone-based node compromise detection and revocation in sensor networks using sequential analysis",
+        "id": "icDo19sAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Jun-Won Ho",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "IEEE International Symposium on Reliable Distributed Systems (SRDS 2009)",
+        "pub_date": "2009/9/27",
+        "description": "Due to the unattended nature of wireless sensor networks, an adversary can physically capture and compromise sensor nodes and then mount a variety of attacks with these compromised nodes. To minimize the damage incurred by compromised nodes, the system should detect and revoke them as soon as possible. To meet this need, we propose a zone-based node compromise detection and revocation scheme in sensor networks. The main idea of the proposed scheme is to use the sequential hypothesis testing to detect suspect regions in which compromised nodes are likely placed. In these suspect regions, the network operator performs software attestation against sensor nodes, leading to the detection and revocation of the compromised nodes. Through analysis and simulation, we show that the proposed scheme provides effective and robust node compromise detection and revocation capability with little\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "anon.next: A framework for privacy in the next-generation Internet",
+        "id": "icDo19sAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Matthew Wright"
+        ],
+        "pub_source": "Hot Topics in Privacy Enhancing Technologies (HotPETs)",
+        "pub_date": "2009/8"
+    },
+    {
+        "title": "PEON: Privacy-enhanced opportunistic networks with applications in assistive environments",
+        "id": "icDo19sAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Zhengyi Le",
+            "Gauri Vakde",
+            "Matthew Wright"
+        ],
+        "pub_source": "Workshop on Privacy and Security in Pervasive e-Health and Assistive Environments (PSPAE 2009)",
+        "pub_date": "2009/6/9",
+        "description": "Opportunistic Networking holds a great deal of potential for making communications easier and more flexible in pervasive assistive environments. However, security and privacy must be addressed to make these communications acceptable with respect to protecting patient privacy. In this position paper, we propose Privacy-Enhanced Opportunistic Networking (PEON), a system for using opportunistic networking in privacy-preserving way. PEON uses concepts from anonymous communications, rerouting messages through groups of peer nodes to hide the relation between the sources and destinations. By modifying group size, we can trade off between privacy and communication overhead. Further, individual nodes can make a similar trade off by changing the number of intermediate groups. We describe the cryptographic tools needed to facilitate changes in group membership and the design of simulation\u00a0\u2026",
+        "citations": 31
+    },
+    {
+        "title": "The design and lessons of the ASCENT security teaching lab",
+        "id": "icDo19sAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Jun-Won Ho",
+            "Nayantara Mallesh",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 13th Colloquium for Information Systems Security Education",
+        "pub_date": "2009/6",
+        "description": "The ASCENT security teaching lab provides both graduate students and undergraduate students at the University of Texas at Arlington with an opportunity to get hands-on education in both attack and defense. We developed the lab over a two-year period and have learned valuable lessons from its development and use by students. In this article, we examine the design of the lab infrastructure and the use of laptops, the design of exercises, the role of virtualization, and the use of capture the flag exercises. We also discuss the use of our labs in classes conducted at a large software company in India.",
+        "citations": 11
+    },
+    {
+        "title": "Fast detection of replica node attacks in mobile sensor networks using sequential analysis",
+        "id": "icDo19sAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Jun-Won Ho",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "IEEE INFOCOM 2009",
+        "pub_date": "2009/4/19",
+        "description": "Due to the unattended nature of wireless sensor networks, an adversary can capture and compromise sensor nodes, generate their replicas, and thus mount a variety of attacks with these replicas. Such attacks are dangerous because they allow the attacker to leverage the compromise of a few nodes to exert control over much of the network. Several replica node detection schemes have been proposed in the literature to defend against such attacks in static sensor networks. However, these schemes rely on fixed sensor locations and hence do not work in mobile sensor networks, where sensors are expected to move. In this work, we propose a fast and effective mobile replica node detection scheme using the Sequential Probability Ratio Test. To the best of our knowledge, this is the first work to tackle the problem of replica node attacks in mobile sensor networks. We show analytically and through simulation\u00a0\u2026",
+        "citations": 147
+    },
+    {
+        "title": "Distributed detection of replicas with deployment knowledge in wireless sensor networks",
+        "id": "icDo19sAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Jun-Won Ho",
+            "Donggang Liu",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "IEEE PerCom Workshop on Sensor Networks and Systems for Pervasive Computing (PerSeNS)",
+        "pub_date": "2009/3/9",
+        "description": "A number of protocols have been developed to mitigate the threat against wireless sensor networks of an attacker finding nodes, compromising them, and using these nodes to eavesdrop or undermine the operation of the network. A more dangerous threat that has received less attention, however, is that of replica nodes, in which the attacker compromises a node, extracts its keying materials, and produces a large number of replicas that he can spread throughout the network. This attack enables the attacker to leverage the compromise of a single node to create widespread effects on the network. To defend against these attacks, we propose distributed detection mechanisms to find and revoke replicas. Our schemes are based on the assumption that nodes are deployed in groups, which is realistic for many deployment scenarios. By taking advantage of group deployment knowledge, our schemes perform replica\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "DTT: A distributed trust toolkit for pervasive systems",
+        "id": "icDo19sAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Brent Lagesse",
+            "Mohan Kumar",
+            "Justin Mazzola Paluska",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE International Conference on Pervasive Computing and Communications (PerCom 2009)",
+        "pub_date": "2009/3/9",
+        "description": "Effective security mechanisms are essential to the widespread deployment of pervasive systems. Much of the research focus on security in pervasive computing has revolved around distributed trust management. While such mechanisms are effective in specific environments, there is no generic framework for deploying and extending these mechanisms over a variety of pervasive systems. We present the design and implementation of a novel framework called distributed trust toolkit (DTT), for implementing and evaluating trust mechanisms in pervasive systems. The DTT facilitates the extension and adaptation of trust mechanisms by abstracting trust mechanisms into interchangeable components. Furthermore, the DTT provides a set of tools and interfaces to ease implementation of trust mechanisms and facilitate their execution on a variety of platforms and networks. In addition to the adaptability and extensibility\u00a0\u2026",
+        "citations": 28
+    },
+    {
+        "title": "Fast detection of node replication attacks in mobile sensor networks",
+        "id": "icDo19sAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "Jun-Won Ho",
+            "Matthew Wright",
+            "Sajal K Das"
+        ],
+        "pub_source": "IEEE ICNP",
+        "pub_date": "2008/10",
+        "citations": 115
+    },
+    {
+        "title": "AREX: An adaptive system for secure resource access in mobile P2P systems",
+        "id": "icDo19sAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Brent Lagesse",
+            "Mohan Kumar",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE International Conference on Peer-to-Peer Computing (P2P 2008)",
+        "pub_date": "2008/9/8",
+        "description": "In open environments, such as mobile peer-to-peer systems, participants may need to access resources from unknown users. A critical security concern in such systems is the access of faulty resources, thereby wasting the requester's time and energy and possibly causing damage to her system. A common approach to mitigating the problem involves reputation mechanisms; however, since reputation relies on cooperation, a reputation mechanism's effectiveness can be significantly diminished in hostile environments. Reputation systems also require substantial communication among peers leading to: i) vulnerability to errors caused by intermittent connectivity; ii) message delivery disruptions caused by malicious peers; and iii) energy sapping message overheads. In this paper, we present AREX, a low-cost, adaptive mechanism designed to provide security for peers in hostile and uncertain environments, which are\u00a0\u2026",
+        "citations": 29
+    },
+    {
+        "title": "Studying timing analysis on the Internet with SubRosa",
+        "id": "icDo19sAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Hatim Daginawala",
+            "Matthew Wright"
+        ],
+        "pub_source": "Privacy Enhancing Technologies Symposium (PETS 2008)",
+        "pub_date": "2008/7/23",
+        "description": "Timing analysis poses a significant threat to anonymity systems that wish to support low-latency applications like Web browsing, instant messaging, and Voice over IP (VoIP). Research into timing analysis so far has been done through simulations or unrealistic local area networks. We developed SubRosa, an experimental platform for studying timing analysis attacks and defenses in low-latency anonymity systems. We present results of experiments on PlanetLab, a globally distributed network testbed. Our experiments validate the major conclusions, but not the detailed results, obtained by prior simulation studies. We also propose a new lightweight defense based on the principles of mix design called \u03b3-buffering and show the limitations of this approach. Finally, motivated by our experimental results, we introduce spike analysis, a new timing analysis technique that takes advantage of unusual delays in a\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Passive-logging attacks against anonymous communications systems",
+        "id": "icDo19sAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Matthew K Wright",
+            "Micah Adler",
+            "Brian Neil Levine",
+            "Clay Shields"
+        ],
+        "pub_source": "ACM Transactions on Information and System Security (TISSEC)",
+        "pub_date": "2008/5/1",
+        "description": "Using analysis, simulation, and experimentation, we examine the threat against anonymous communications posed by passive-logging attacks. In previous work, we analyzed the success of such attacks under various assumptions. Here, we evaluate the effects of these assumptions more closely. First, we analyze the Onion Routing-based model used in prior work in which a fixed set of nodes remains in the system indefinitely. We show that for this model, by removing the assumption of uniformly random selection of nodes for placement in the path, initiators can greatly improve their anonymity. Second, we show by simulation that attack times are significantly lower in practice than bounds given by analytical results from prior work. Third, we analyze the effects of a dynamic membership model, in which nodes are allowed to join and leave the system; we show that all known defenses fail more quickly when the\u00a0\u2026",
+        "citations": 56
+    },
+    {
+        "title": "Location privacy in sensor networks against a global eavesdropper",
+        "id": "icDo19sAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Kiran Mehta",
+            "Donggang Liu",
+            "Matthew Wright"
+        ],
+        "pub_source": "IEEE International Conference on Network Protocols (ICNP 2007)",
+        "pub_date": "2007/10/16",
+        "description": "While many protocols for sensor network security provide confidentiality for the content of messages, contextual information usually remains exposed. Such information can be critical to the mission of the sensor network, such as the location of a target object in a monitoring application, and it is often important to protect this information as well as message content. There have been several recent studies on providing location privacy in sensor networks. However, these existing approaches assume a weak adversary model where the adversary sees only local network traffic. We first argue that a strong adversary model, the global eavesdropper, is often realistic in practice and can defeat existing techniques. We then formalize the location privacy issues under this strong adversary model and show how much communication overhead is needed for achieving a given level of privacy. We also propose two techniques that\u00a0\u2026",
+        "citations": 318
+    },
+    {
+        "title": "Countering statistical disclosure with receiver-bound cover traffic",
+        "id": "icDo19sAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Nayantara Mallesh",
+            "Matthew Wright"
+        ],
+        "pub_source": "European Symposium on Research in Computer Security (ESORICS 2007)",
+        "pub_date": "2007/1/1",
+        "description": "Anonymous communications provides an important privacy service by keeping passive eavesdroppers from linking communicating parties. However, using long-term statistical analysis of traffic sent to and from such a system, it is possible to link senders with their receivers. Cover traffic is an effective, but somewhat limited, counter strategy against this attack. Earlier work in this area proposes that privacy-sensitive users generate and send cover traffic to the system. However, users are not online all the time and cannot be expected to send consistent levels of cover traffic, drastically reducing the impact of cover traffic. We propose that the mix generate cover traffic that mimics the sending patterns of users in the system. This receiver-bound cover helps to make up for users that aren\u2019t there, confusing the attacker. We show through simulation how this makes it difficult for an attacker to discern cover from real\u00a0\u2026",
+        "citations": 33
+    },
+    {
+        "title": "Salsa",
+        "id": "icDo19sAAAAJ:xm1hsP5ya-EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:xm1hsP5ya-EC",
+        "authors": [
+            "Arjun Nambiar",
+            "Matthew Wright"
+        ],
+        "pub_source": "Proceedings of the 13th ACM conference on Computer and communications security",
+        "pub_date": "2006/10/30",
+        "description": "Salsa | CiNii Research CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u8a73\u7d30\u3078\u79fb\u52d5 \u691c\u7d22\n\u30d5\u30a9\u30fc\u30e0\u3078\u79fb\u52d5 \u8ad6\u6587\u30fb\u30c7\u30fc\u30bf\u3092\u3055\u304c\u3059 \u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 English \n\u691c\u7d22 \u30bf\u30a4\u30c8\u30eb \u4eba\u7269/\u56e3\u4f53\u540d \u6240\u5c5e\u6a5f\u95a2 ISSN DOI \u671f\u9593 ~ \u672c\u6587\u30ea\u30f3\u30af \u672c\u6587\u30ea\u30f3\u30af\u3042\u308a \u30c7\u30fc\u30bf\u30bd\u30fc\u30b9 JaLC \nIRDB Crossref DataCite NDL NDL-Digital RUDA JDCat NINJAL CiNii Articles CiNii Books \nCiNii Dissertations DBpedia Nikkei BP KAKEN Integbio \u516c\u5171\u30c7\u30fc\u30bf\u30ab\u30bf\u30ed\u30b0 \u3059\u3079\u3066 \u7814\u7a76\u30c7\u30fc\u30bf \n\u8ad6\u6587 \u672c \u535a\u58eb\u8ad6\u6587 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8 Salsa DOI Web Site \u88ab\u5f15\u7528\u6587\u732e2\u4ef6 Arjun Nambiar University of \nTexas at Arlington, Arlington, TX Matthew Wright University of Texas at Arlington, Arlington, TX \n\u66f8\u8a8c\u4e8b\u9805 \u30bf\u30a4\u30c8\u30eb\u5225\u540d a structured approach to large-scale anonymity \u53ce\u9332\u520a\u884c\u7269 Proceedings \nof the 13th ACM conference on Computer and communications security Proceedings of \nthe 13th ACM conference on Computer and communications security 2006-10-30 ACM \u2026"
+    },
+    {
+        "title": "Salsa: A structured approach to large-scale anonymity",
+        "id": "icDo19sAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Arjun Nambiar",
+            "Matthew Wright"
+        ],
+        "pub_source": "ACM Conference on Computer and Communications Security (CCS 2006)",
+        "pub_date": "2006/10/30",
+        "description": "Highly distributed anonymous communications systems have the promise to reduce the effectiveness of certain attacks and improve scalability over more centralized approaches. Existing approaches, however, face security and scalability issues. Requiring nodes to have full knowledge of the other nodes in the system, as in Tor and Tarzan, limits scalability and can lead to intersection attacks in peer-to-peer configurations. MorphMix avoids this requirement for complete system knowledge, but users must rely on untrusted peers to select the path. This can lead to the attacker controlling the entire path more often than is acceptable.To overcome these problems, we propose Salsa, a structured approach to organizing highly distributed anonymous communications systems for scalability and security. Salsa is designed to select nodes to be used in anonymous circuits randomly from the full set of nodes, even though\u00a0\u2026",
+        "citations": 202
+    },
+    {
+        "title": "Building reliable mix networks with fair exchange",
+        "id": "icDo19sAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Michael K Reiter",
+            "XiaoFeng Wang",
+            "Matthew Wright"
+        ],
+        "pub_source": "Applied Cryptography and Network Security: Third International Conference, ACNS 2005, New York, NY, USA, June 7-10, 2005. Proceedings 3",
+        "pub_date": "2005",
+        "description": "In this paper we present techniques by which each mix in a mix network can be paid for its services by message senders, in a way that ensures fairness and without sacrificing anonymity. We describe a payment mechanism for use in mix networks, and use this payment scheme in fair exchange mechanisms for both connection-based and message-based mix networks. In connection-based mix networks, our protocols achieve fairness in a weak sense: no player can benefit from stopping the exchange prematurely. In message-based mix networks, by taking advantage of each mix\u2019s next-hop neighbor as a rational third party, our exchange protocol guarantees strict fairness between initiators and mixes: either both parties successfully exchange payment and service or neither gains anything.",
+        "citations": 24
+    },
+    {
+        "title": "The predecessor attack: An analysis of a threat to anonymous communications systems",
+        "id": "icDo19sAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Matthew K Wright",
+            "Micah Adler",
+            "Brian Neil Levine",
+            "Clay Shields"
+        ],
+        "pub_source": "ACM Transactions on Information and System Security (TISSEC)",
+        "pub_date": "2004/11/11",
+        "description": "There have been a number of protocols proposed for anonymous network communication. In this paper, we investigate attacks by corrupt group members that degrade the anonymity of each protocol over time. We prove that when a particular initiator continues communication with a particular responder across path reformations, existing protocols are subject to the attack. We use this result to place an upper bound on how long existing protocols, including Crowds, Onion Routing, Hordes, Web Mixes, and DC-Net, can maintain anonymity in the face of the attacks described. This provides a basis for comparing these protocols against each other. Our results show that fully connected DC-Net is the most resilient to these attacks, but it suffers from scalability issues that keep anonymity group sizes small. We also show through simulation that the underlying topography of the DC-Net affects the resilience of the protocol: as\u00a0\u2026",
+        "citations": 314
+    },
+    {
+        "title": "Analysis of an incentives-based secrets protection system",
+        "id": "icDo19sAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "N Boris Margolin",
+            "Matthew K Wright",
+            "Brian Neil Levine"
+        ],
+        "pub_source": "ACM Workshop on Digital Rights Management (DRM 2004)",
+        "pub_date": "2004/10/25",
+        "description": "Once electronic content has been released it is very difficult to prevent copies of the content from being widely distributed. Such distribution can cause economic harm to the content's copyright owner and others. Our protocol, SPIES, allows one party to sell a secret to second party and provides an economic incentive for two parties to limit sharing of a secret between themselves. We do not use watermarking or traditional DRM mechanisms. We focus on content which is to be shared between two parties only, which is valuable, and which only needs to be protected for a limited amount of time. Examples include passwords to a subscription service, pre-release of media for review, or content shared but bound by a non disclosure agreement. With SPIES, any possesor of the content can receive a portion of the funds placed in escrow by the two legitimate possesors. We analyze this system and show that the best\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "SPIES: Secret protection incentive-based escrow system",
+        "id": "icDo19sAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "N Boris Margolin",
+            "M Wright",
+            "Brian N Levine"
+        ],
+        "pub_source": "Proc. P2PEcon Workshop",
+        "pub_date": "2004/6",
+        "description": "Once electronic content has been released, it is very difficult to prevent perfect copies of the content from being widely distributed, which can cause economic harm to the content\u2019s owner and others. We focus on content which is to be shared to a limited extent, which is valuable, and which only needs to be protected for a limited amount of time, such as trade secrets. For such content we provide an economic incentive to limit sharing, without using DRM or watermarking. In our protocol, a quantity of money is placed in escrow, and anyone can get a portion of it by providing proof of knowledge of the content. Since payments become smaller as more individuals give proof, it is in the interest of those with access to the content to prevent further sharing.",
+        "citations": 4
+    },
+    {
+        "title": "Guardian: A framework for privacy control in untrusted environments",
+        "id": "icDo19sAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "N Boris Margolin",
+            "MK Wright",
+            "Brian Neil Levine"
+        ],
+        "pub_source": "June 2004. Technical Report 04-37 (University of Massachusetts, Amherst)",
+        "pub_date": "2004/6",
+        "description": "Keeping control over private and sensitive information can be difficult when using systems operated by an untrusted party, such as publicly-available machines. To allow users to access private information while using such systems, we introduce the Guardian, a framework for using a PDA as a proxy for all interactions between the untrusted system and sources of potentially private information. In this framework, the user primarily interacts with the untrusted client system user interface and keyboard, does not need to install software on the client, and uses standard applications such as web browsers. The PDA functions as a privacy firewall, keeping potentially private information from the untrusted machine and network. We implemented a basic Guardian proxy in Perl, a platform-independent language available on both the Windows PocketPC-based and Sharp Zaurus Linux-based PDA platforms. Our implementation\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Timing attacks in low-latency mix systems",
+        "id": "icDo19sAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Brian N Levine",
+            "Michael K Reiter",
+            "Chenxi Wang",
+            "Matthew Wright"
+        ],
+        "pub_source": "Financial Cryptography (FC 2004)",
+        "pub_date": "2004/2/9",
+        "description": "A mix is a communication proxy that attempts to hide the correspondence between its incoming and outgoing messages. Timing attacks are a significant challenge for mix-based systems that wish to support interactive, low-latency applications. However, the potency of these attacks has not been studied carefully. In this paper, we investigate timing analysis attacks on low-latency mix systems and clarify the threat they pose. We propose a novel technique, defensive dropping, to thwart timing attacks. Through simulations and analysis, we show that defensive dropping can be effective against attackers who employ timing analysis.",
+        "citations": 473
+    },
+    {
+        "title": "Defending anonymous communications against passive logging attacks",
+        "id": "icDo19sAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Matthew Wright",
+            "Micah Adler",
+            "Brian Neil Levine",
+            "Clay Shields"
+        ],
+        "pub_source": "IEEE Symposium on Security and Privacy (S&P 2003)",
+        "pub_date": "2003/5/11",
+        "description": "We study the threat that passive logging attacks pose to anonymous communications. Previous work analyzed these attacks under limiting assumptions. We first describe a possible defense that comes from breaking the assumption of uniformly random path selection. Our analysis shows that the defense improves anonymity in the static model, where nodes stay in the system, but fails in a dynamic model, in which nodes leave and join. Additionally, we use the dynamic model to show that the intersection attack creates a vulnerability in certain peer-to-peer systems for anonymous communications. We present simulation results that show that attack times are significantly lower in practice than the upper bounds given by previous work. To determine whether users' Web traffic has communication patterns required by the attacks, we collected and analyzed the Web requests of users. We found that, for our study frequent\u00a0\u2026",
+        "citations": 235
+    },
+    {
+        "title": "An analysis of the degradation of anonymous protocols",
+        "id": "icDo19sAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=icDo19sAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Matthew Wright",
+            "Micah Adler",
+            "Brian N. Levine",
+            "Clay Shields"
+        ],
+        "pub_source": "ISOC Symposium on Network and Distributed Systems Security (NDSS 2002)",
+        "pub_date": "2002/2/6",
+        "description": "There have been a number of protocols proposed for anonymous network communication. In this paper we investigate attacks by corrupt group members that degrade the anonymity of each protocol over time. We prove that when a particular initiator continues communication with a particular responder across path reformations, existing protocols are subject to the attack. We use this result to place an upper bound on how long existing protocols, including Crowds, Onion Routing, Hordes, Web Mixes, and DC-Net, can maintain anonymity in the face of the attacks described. Our results show that fully-connected DC-Net is the most resilient to these attacks, but it suffers from scalability issues that keep anonymity group sizes small. Additionally, we show how violating an assumption of the attack allows malicious users to setup other participants to falsely appear to be the initiator of a connection.",
+        "citations": 298
+    }
+]

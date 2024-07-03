@@ -1,0 +1,161 @@
+"Taxonomy-Based Human Error Assessment for Senior Software Engineering Students"
+BS Meyers, A Meneely - Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1, 2024
+
+"What Happens When We Fuzz? Investigating OSS-Fuzz Bug History"
+BN Keller, BS Meyers, A Meneely - 2023 IEEE/ACM 20th International Conference on Mining Software Repositories (MSR), 2023
+
+"Examining penetration tester behavior in the collegiate penetration testing competition"
+BS Meyers, SF Almassari, BN Keller, A Meneely - ACM Transactions on Software Engineering and Methodology (TOSEM), 2022
+
+"How Long Do Vulnerabilities Live in the Code? A {Large-Scale} Empirical Measurement Study on {FOSS} Vulnerability Lifetimes"
+N Alexopoulos, M Brack, JP Wagner, T Grube, M Mühlhäuser - 31st USENIX Security Symposium (USENIX Security 22), 2022
+
+"Who are vulnerability reporters? a large-scale empirical study on floss"
+N Alexopoulos, A Meneely, D Arnouts, M Mühlhäuser - Proceedings of the 15th ACM/IEEE international symposium on empirical software engineering and measurement (ESEM), 2021
+
+"An automated post-mortem analysis of vulnerability relationships using natural language word embeddings"
+BS Meyers, A Meneely - Procedia Computer Science, 2021
+
+"Characterizing attacker behavior in a cybersecurity penetration testing competition"
+N Munaiah, A Rahman, J Pelletier, L Williams, A Meneely - 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2019
+
+"Data-driven insights from vulnerability discovery metrics"
+N Munaiah, A Meneely - 2019 IEEE/ACM Joint 4th International Workshop on Rapid Continuous Software Engineering and 1st International Workshop on Data-Driven Decisions, Experimentation and Evolution (RCoSE/DDrEE), 2019
+
+"Pragmatic characteristics of security conversations: an exploratory linguistic analysis"
+BS Meyers, N Munaiah, A Meneely, E Prud'hommeaux - 2019 IEEE/ACM 12th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE), 2019
+
+"Systematization of Vulnerability Discovery Knowledge: Review Protocol"
+N Munaiah, A Meneely - arXiv preprint arXiv:1902.03331, 2019
+
+"A cybersecurity dataset derived from the national collegiate penetration testing competition"
+N Munaiah, J Pelletier, S Su, SJ Yang, A Meneely - HICSS Symposium on cybersecurity big data analytics, 2019
+
+"Attack surface definitions: A systematic literature review"
+C Theisen, N Munaiah, M Al-Zyoud, JC Carver, A Meneely, L Williams - Information and Software Technology 104, 94-103, 2018
+
+"A dataset for identifying actionable feedback in collaborative software development"
+BS Meyers, N Munaiah, E Prud’Hommeaux, A Meneely, J Wolff, CO Alm, P Murukannaiah - Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), 2018
+
+"A domain-independent model for identifying security requirements"
+N Munaiah, A Meneely, PK Murukannaiah - 2017 IEEE 25th International Requirements Engineering Conference (RE), 2017
+
+"Do bugs foreshadow vulnerabilities? An in-depth study of the chromium project"
+N Munaiah, F Camilo, W Wigham, A Meneely, M Nagappan - Empirical Software Engineering, 2017
+
+"Natural Language Insights from Code Reviews that Missed a Vulnerability: A Large Scale Study of Chromium"
+N Munaiah, BS Meyers, CO Alm, A Meneely, PK Murukannaiah, E Prud’hommeaux, J Wolff, Y Yu - Engineering Secure Software and Systems: 9th International Symposium, ESSoS 2017, Bonn, Germany, July 3-5, 2017, Proceedings 9, 2017
+
+"Examining the relationship between security metrics and user ratings of mobile apps: A case study"
+DE Krutz, N Munaiah, A Meneely, SA Malachowsky - Proceedings of the International Workshop on App Market Analytics, 2016
+
+"The impact of cross-platform development approaches for mobile applications from the user's perspective"
+IT Mercado, N Munaiah, A Meneely - Proceedings of the International Workshop on App Market Analytics, 2016
+
+"Vulnerability severity scoring and bounties: Why the disconnect?"
+N Munaiah, A Meneely - Proceedings of the 2nd International Workshop on Software Analytics, 2016
+
+"Beyond the attack surface: Assessing security risk with random walks on call graphs"
+N Munaiah, A Meneely - Proceedings of the 2016 ACM Workshop on Software PROtection, 2016
+
+"Are intrusion detection studies evaluated consistently? a systematic literature review"
+N Munaiah, A Meneely, R Wilson, B Short - RIT Scholar Works. Sep, 2016
+
+"Security cannot be measured"
+A Meneely - Perspectives on Data Science for Software Engineering, 2016
+
+"Actionable metrics are better metrics"
+A Meneely - Perspectives on Data Science for Software Engineering, 2016
+
+"An insider threat activity in a software security course"
+DE Krutz, A Meneely, SA Malachowsky - 2015 IEEE Frontiers in Education Conference (FIE), 2015
+
+"Do bugs foreshadow vulnerabilities? a study of the chromium project"
+F Camilo, A Meneely, M Nagappan - 2015 IEEE/ACM 12th Working Conference on Mining Software Repositories, 2015
+
+"Analyzing Security Data"
+A Meneely - The Art and Science of Analyzing Software Data, 2015
+
+"An empirical investigation of socio-technical code review metrics and security vulnerabilities"
+A Meneely, ACR Tejeda, B Spates, S Trudeau, D Neuberger, K Whitlock, C Ketant, K Davis - Proceedings of the 6th International Workshop on Social Software Engineering, 2014
+
+"Teaching Web Engineering using a project component"
+DE Krutz, A Meneely - 2013 IEEE Frontiers in Education Conference (FIE), 2013
+
+"When a patch goes bad: Exploring the properties of vulnerability-contributing commits"
+A Meneely, H Srinivasan, A Musa, AR Tejeda, M Mokary, B Spates - 2013 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, 2013
+
+"Vulnerability of the day: Concrete demonstrations for software engineering undergraduates"
+A Meneely, S Lucidi - 2013 35th international conference on software engineering (icse), 2013
+
+"Validating software metrics: A spectrum of philosophies"
+A Meneely, B Smith, L Williams - ACM Transactions on Software Engineering and Methodology (TOSEM) 21 (4), 1-28, 2013
+
+"Interactive churn metrics: socio-technical variants of code churn"
+A Meneely, O Williams - ACM SIGSOFT Software Engineering Notes, 2012
+
+"Developing an applied, security-oriented computing curriculum"
+M Lukowiak, A Meneely, SP Radziszowski, JR Vallino, CA Wood - 2012 ASEE Annual Conference & Exposition, 2012
+
+"Appendix B: iTrust electronic health care system case study"
+A Meneely, B Smith, L Williams - Software and Systems Traceability, 2012
+
+"Article 24 (28 pages)-Validating Software Metrics: A Spectrum of Philosophies"
+A Meneely, B Smith, L Williams - ACM Transactions on Software Engineering andMethodology-TOSEM, 2012
+
+"Does adding manpower also affect quality? an empirical, longitudinal analysis"
+A Meneely, P Rotella, L Williams - Proceedings of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering, 2011
+
+"Socio-technical developer networks: Should we trust our measurements?"
+A Meneely, L Williams - Proceedings of the 33rd international conference on software engineering, 2011
+
+"Challenges for protecting the privacy of health information: required certification can leave common vulnerabilities undetected"
+B Smith, A Austin, M Brown, JT King, J Lankford, A Meneely, L Williams - Proceedings of the second annual workshop on Security and privacy in medical and home-care systems, 2010
+
+"Strengthening the empirical analysis of the relationship between Linus' Law and software security"
+A Meneely, L Williams - Proceedings of the 2010 ACM-IEEE international symposium on empirical software engineering and measurement, 2010
+
+"Evaluating complexity, code churn, and developer activity metrics as indicators of software vulnerabilities"
+Y Shin, A Meneely, L Williams, JA Osborne - IEEE transactions on software engineering, 2010
+
+"Improving developer activity metrics with issue tracking annotations"
+A Meneely, M Corcoran, L Williams - Proceedings of the 2010 ICSE Workshop on Emerging Trends in Software Metrics, 2010
+
+"Protection poker: The new software security" game""
+L Williams, A Meneely, G Shipley - IEEE Security & Privacy, 2010
+
+"On the use of issue tracking annotations for improving developer activity metrics"
+A Meneely, L Williams - Advances in Software Engineering, 2010
+
+"Software metrics validation criteria: A systematic literature review"
+A Meneely, B Smith, LA Williams - North Carolina State University. Dept. of Computer Science, 2010
+
+"Secure open source collaboration: an empirical study of linus' law"
+A Meneely, L Williams - Proceedings of the 16th ACM conference on Computer and communications security, 2009
+
+"On preparing students for distributed software development with a synchronous, collaborative development platform"
+A Meneely, L Williams - Proceedings of the 40th ACM technical symposium on Computer science education, 2009
+
+"Protection poker: Structuring software security risk assessment and knowledge transfer"
+L Williams, M Gegick, A Meneely - Engineering Secure Software and Systems: First International Symposium ESSoS 2009, Leuven, Belgium, February 4-6, 2009. Proceedings 1, 2009
+
+"Predicting failures with developer networks and social network analysis"
+A Meneely, L Williams, W Snipes, J Osborne - Proceedings of the 16th ACM SIGSOFT International Symposium on Foundations of software engineering, 2008
+
+"ROSE: a repository of education-friendly open-source projects"
+A Meneely, L Williams, EF Gehringer - Proceedings of the 13th annual conference on Innovation and technology in computer science education, 2008
+
+"iTrust medical care requirements specification"
+L Williams, T Xie, A Meneely, L Hayward, J King - Versions of September 3rd 2010, 2008
+
+"Evaluating a suite of developer activity metrics as measures of security vulnerabilities"
+A Meneely, LA Williams - North Carolina State University. Dept. of Computer Science, 2008
+
+"Jazz Sangam: A real-time tool for distributed pair programming on a team development platform"
+JVS Devide, A Meneely, C Ho, L Williams, M Devetsikiotis - Proceedings of Infrastructure for Research on Collaborative Software Engineering (IReCoSE), 2008
+
+"On Increasing System Test Effectiveness through a Test Case Prioritization Model Using Static Metrics and System Failure Data"
+L Williams, W Snipes, A Meneely - Reliability Analysis of System Failure Data Workshop, 2007
+
+"Fifteen compilers in fifteen days"
+JD Frens, A Meneely - ACM SIGCSE Bulletin, 2006

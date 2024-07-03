@@ -1,0 +1,86 @@
+"Complementing Vehicle Trajectories Using Two Camera Viewpoints"
+K Nakano, M Nakazawa, M Zuzak - 2024 IEEE International Conference on Consumer Electronics (ICCE), 2024
+
+"Fusion is Not Enough: Single Modal Attack on Fusion Models for 3D Object Detection"
+Z Cheng, H Choi, S Feng, JC Liang, G Tao, D Liu, M Zuzak, X Zhang - The Twelfth International Conference on Learning Representations, 2023
+
+"Security-Aware Resource Binding to Enhance Logic Obfuscation"
+M Zuzak, Y Liu, A Srivastava - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023
+
+"Fusion is not enough: single-modal attacks to compromise fusion models in autonomous driving"
+Z Cheng, H Choi, J Liang, S Feng, G Tao, D Liu, M Zuzak, X Zhang - arXiv preprint arXiv:2304.14614, 2023
+
+"Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators"
+H Xu, D Liu, C Merkel, M Zuzak - arXiv preprint arXiv:2304.06017, 2023
+
+"Low overhead system-level obfuscation through hardware resource sharing"
+D Xing, M Zuzak, A Srivastava - 2023 24th International Symposium on Quality Electronic Design (ISQED), 2023
+
+"A combined logical and physical attack on logic obfuscation"
+M Zuzak, Y Liu, I McDaniel, A Srivastava - Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design, 2022
+
+"A black-box sensitization attack on SAT-hard instances in logic obfuscation"
+I McDaniel, M Zuzak, A Srivastava - 2022 IEEE 40th International Conference on Computer Design (ICCD), 2022
+
+"A Survey on Side-Channel-based Reverse Engineering Attacks on Deep Neural Networks"
+Y Liu, M Zuzak, D Xing, I McDaniel, P Mittu, O Ozbay, A Akib, A Srivastava - 2022 IEEE 4th International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2022
+
+"Designing Effective Logic Obfuscation: Exploring Beyond Gate-Level Boundaries"
+MJ Zuzak - University of Maryland, College Park, 2022
+
+"Independent Verification and Validation of Security-Aware EDA Tools and IP"
+B Tan, S Garg, R Karri, Y Liu, M Zuzak, A Chakraborty, A Srivastava, O Aramoon, Q Xu, G Qu, A Porter, J Szep, W Savage - 2021 58th ACM/IEEE Design Automation Conference (DAC), 2021
+
+"Neural Trojans"
+Y Liu, A Mondal, A Chakraborty, M Zuzak, N Jacobsen, D Xing, A Srivastava - Encyclopedia of Cryptography, Security and Privacy, 2021
+
+"Evaluating the Security of Logic-Locked Probabilistic Circuits"
+M Zuzak, A Mondal, A Srivastava - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021
+
+"Robust and attack resilient logic locking with a high application-level impact"
+Y Liu, M Zuzak, Y Xie, A Chakraborty, A Srivastava - ACM Journal on Emerging Technologies in Computing Systems (JETC), 2021
+
+"Enhancing Processor Design Obfuscation Through Security-Aware On-Chip Memory and Data Path Design"
+M Zuzak, A Srivastava - Cryptology ePrint Archive, 2021
+
+"A Resource Binding Approach to Logic Obfuscation"
+M Zuzak, Y Liu, A Srivastava - 2021 58th ACM/IEEE Design Automation Conference (DAC), 2021
+
+"Obfusgem: Enhancing processor design obfuscation through security-aware on-chip memory and data path design"
+M Zuzak, A Srivastava - Proceedings of the International Symposium on Memory Systems, 2020
+
+"Trace logic locking: Improving the parametric space of logic locking"
+M Zuzak, Y Liu, A Srivastava - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020
+
+"StatSAT: A Boolean satisfiability based attack on logic-locked probabilistic circuits"
+A Mondal, M Zuzak, A Srivastava - 2020 57th ACM/IEEE Design Automation Conference (DAC), 2020
+
+"Benchmarking at the frontier of hardware security: Lessons from logic locking"
+B Tan, R Karri, N Limaye, A Sengupta, O Sinanoglu, MM Rahman, S Bhunia, D Duvalsaint, A Rezaei, Y Shen, H Zhou, L Li, A Orailoglu, Z Han, A Benedetti, L Brignone, M Yasin, J Rajendran, M Zuzak, A Srivastava, U Guin, C Karfa, K Basu, VV Menon, M French, P Song, F Stellari, G Nam, P Gadfort, A Althoff, J Tostenrude, S Fazzari, E Breckenfeld, K Plaks - arXiv preprint arXiv:2006.06806, 2020
+
+"A survey on neural trojans"
+Y Liu, A Mondal, A Chakraborty, M Zuzak, N Jacobsen, D Xing, A Srivastava - 2020 21st International Symposium on Quality Electronic Design (ISQED), 2020
+
+"Strong anti-SAT: Secure and effective logic locking"
+Y Liu, M Zuzak, Y Xie, A Chakraborty, A Srivastava - 2020 21st International Symposium on Quality Electronic Design (ISQED), 2020
+
+"Provable Detection and Location of Hardware Trojans with Linear Hybrid Cellular Automata"
+M Zuzak, M Fitelson, S Montano, A Srivastava - Government Microcircuit Applications and Critical Technology Conference (GOMACTech), 2020
+
+"Nested mimd-simd parallelization for heterogeneous microprocessors"
+D Gerzhoy, X Sun, M Zuzak, D Yeung - ACM Transactions on Architecture and Code Optimization (TACO), 2019
+
+"Keynote: A disquisition on logic locking"
+A Chakraborty, NG Jayasankaran, Y Liu, J Rajendran, O Sinanoglu, A Srivastava, Y Xie, M Yasin, M Zuzak - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2019
+
+"Memory locking: An automated approach to processor design obfuscation"
+M Zuzak, A Srivastava - 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2019
+
+"HMCTherm: A cycle-accurate HMC simulator integrated with detailed power and thermal simulation"
+Z Yang, M Zuzak, A Srivastava - Proceedings of the International Symposium on Memory Systems, 2018
+
+"Exploiting multi-loop parallelism on heterogeneous microprocessors"
+M Zuzak, D Yeung - Proceedings of the 10th International Workshop on Programmability and Architectures for Heterogeneous Multicores, 2017
+
+"Exploiting nested parallelism in heterogeneous computing systems"
+MJ Zuzak - University of Maryland, College Park, 2016

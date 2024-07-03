@@ -1,0 +1,20 @@
+"DAISY: Dynamic-Analysis-Induced Source Discovery for Sensitive Data"
+X Zhang, J Heaps, R Slavin, J Niu, T Breaux, X Wang - ACM Transactions on Software Engineering and Methodology, 2023
+
+"Predart: Towards automatic oracle prediction of object placements in augmented reality testing"
+T Rafi, X Zhang, X Wang - Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering, 2022
+
+"A study of user privacy in Android mobile AR apps"
+X Yang, X Zhang - Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering, 2022
+
+"ConDySTA: Context-Aware Dynamic Supplement to Static Taint Analysis"
+X Zhang, X Wang, R Slavin, J Niu - 2021 IEEE 42nd Symposium on Security and Privacy (S&P), 2021
+
+"How does misconfiguration of analytic services compromise mobile privacy?"
+X Zhang, X Wang, R Slavin, T Breaux, J Niu - Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering, 2020
+
+"Privacy assurance for android augmented reality apps"
+X Zhang, R Slavin, X Wang, J Niu - 2019 IEEE 24th Pacific Rim International Symposium on Dependable Computing (PRDC), 2019
+
+"Toward a reliability measurement framework automated using deep learning"
+J Heaps, X Zhang, X Wang, T Breaux, J Niu - Proceedings of the 6th Annual Symposium on Hot Topics in the Science of Security, 2019

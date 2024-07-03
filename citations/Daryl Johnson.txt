@@ -1,0 +1,155 @@
+"DRONESCAPE: Distributed Rapid On-site NEtwork Self-deploying Cellular Advanced Phone Environment"
+D Johnson, B Stackpole - 2019 International Conference on Computational Science and Computational Intelligence (CSCI), 2019
+
+"Covert Channel over Network Time Protocol"
+A Ameri, D Johnson - International Conference on Cryptography, Security, and Privacy Proceedings(ICCSP'17), 2017
+
+"Covert Channel using Man-In-The-Middle over HTTPS"
+M Johnson, P Lutz, D Johnson - The 2016 International Conference on Computational Science and Computational Intelligence(CSCI’16), 2016
+
+"Producing and evaluating crowdsourced computer security attack trees"
+D Bogaard, S Goel, S Kandari, D Johnson, G Markowsky, B Stackpole - 2016 IEEE Symposium on Technologies for Homeland Security (HST), 2016
+
+"Client-initiated HTTP covert channels using relays"
+G Daneault, D Johnson - 2016 4th International Symposium on Digital Forensic and Security (ISDFS), 2016
+
+"An Extended Discussion on a High-Capacity Covert Channel for the Android Operating System"
+T Heard, D Johnson - International Journal of Computing, 2016
+
+"Exploring a high-capacity covert channel on the Android operating system"
+T Heard, D Johnson, B Stackpole - Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS), 2015 IEEE 8th International Conference on, 2015
+
+"A Covert Channel in the Worldwide Public Switched Telephone Network Dial Plan"
+B Harmat, J Stroud, D Johnson - 10th Annual Symposium on Information Assurance (ASIA’15), 2015
+
+"Crowdsourcing Computer Security Attack Trees"
+M Tentilucci, N Roberts, S Kandari, D Johnson, D Bogaard, B Stackpole, G Markowsky - 10th Annual Symposium on Information Assurance (ASIA’15), 2015
+
+"A New Covert Channel over Cellular Voice Channel in Smartphones"
+B Aloraini, D Johnson, B Stackpole, S Mishra - arXiv preprint arXiv:1504.05647, 2015
+
+"The Security Implications of IMSI Catchers"
+B Harmat, J Stroud, D Johnson, B Stackpole, S Perez-Hardy - Proceedings of the International Conference on Security and Management (SAM), 2015
+
+"Covert Channel over Apple iBeacon"
+J Priest, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2015
+
+"Covert Channel Using ICMPv6 and IPv6 Addressing"
+G Ackerman, D Johnson, B Stackpole - Proceedings of the International Conference on Security and Management (SAM), 2015
+
+"Covert Channels in SSL Session Negotiation Headers"
+J Merrill, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2015
+
+"Covert Channel using the IP Timestamp Option of an IPv4 Packet"
+H Alsaffar, D Johnson - The International Conference on Electrical and Bio-medical Engineering, Clean Energy and Green Computing, 2015
+
+"A Channel for Exchanging Information Covertly using Game Save File in Prison Architect"
+H Assayari, D Johnson - 9th Annual Symposium on Information Assurance (ASIA’14), 2014
+
+"Google Maps KML Covert Channel"
+A Sabernick, D Johnson - IEEE Annual Symposium on Information Assurance (ASIA), 2014
+
+"Leveraging public posts and comments as covert channels"
+S Dearstyne, D Johnson - Systems, Signals and Image Processing (IWSSIP), 2014 International Conference on, 2014
+
+"Passwords in Public: Dictionary Attacks, Password Selection and Password Meters"
+T Madiraju, W Stackpole, D Johnson, Y Pan - International Joint Conference on Computer, Information, and Systems Sciences and Engineering (CISSE 14), 2014
+
+"Performance of Meshed Tree Protocols for Loop Avoidance in Switched Networks"
+K Sharma, B Stackpole, D Johnson, N Shenoy, B Hartpence - International Journal on Advances in Networks and Services Volume 7, Number 3 & 4, 2014, 2014
+
+"MODBUS Covert channel"
+C Leonardo, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2014
+
+"A Behavior-Based Covert Channel in a MMO"
+B Rowe, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2014
+
+"Audio Steganography Using Stereo Wav Channels"
+DC Farmer, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2014
+
+"Natural Selection in Virtualization Environments: A Decade of Lessons from Academia"
+SBH B., J D., M S. - EISTA’13: The 11th International Conference on Education and Information Systems, Technologies and Applications, 2013
+
+"Natural Selection in Virtualization Environments: A Decade of Lessons from Academia"
+B Hartpence, D Johnson, S Mason, B Stackpole - The 11th International Conference on Education and Information Systems, Technologies and Applications (EISTA’13), 2013
+
+"XSS Cookie Injection Covert Channel"
+K Feeney, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2013
+
+"SSDP Covert Channel"
+W Delva, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2013
+
+"Composite Covert Channels through EVE Online"
+R Radford, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2013
+
+"The 2013 NECCDC-Lessons Learned"
+G Markowsky, D Johnson, A Moody, R Soucy, W Stackpole - Proceedings of the International Conference on Security and Management (SAM), 2013
+
+"NAT Denial of Service: An Analysis of Translation Table Behavior on Multiple Platforms"
+aMSW N., H B., J D. - SAM'12 - The 2012 International Conference on Security and Management, 2012
+
+"Employing Entropy in the Detection and Monitoring of Network Covert Channels"
+C Sanders, J Valletta, B Yuan, D Johnson, P Lutz - The 2012 International Conference on Security and Management, 2012
+
+"Browser Web Storage Vulnerability Investigation: HTML5 localStorage Object"
+D Bogaard, D Johnson, R Parody - The 2012 International Conference on Security and Management, 2012
+
+"A Physical Channel in a Digital World"
+M Deffenbaugh, D Johnson, B Yuan, P Lutz - The 2012 International Conference on Security and Management, 2012
+
+"NAT Denial of Service: An Analysis of Translation Table Behavior on Multiple Platforms"
+N Winemiller, B Hartpence, D Johnson, S Mishra - The 2012 International Conference on Security and Management (SAM'12), 2012
+
+"Covert Channel in the BitTorrent Tracker Protocol"
+J Desimone, D Johnson, B Yuan, P Lutz - The 2012 International Conference on Security and Management (SAM'12), 2012
+
+"UPnP Port Manipulation as a Covert Channel"
+S Monette, D Johnson, P Lutz, B Yuan - Proceedings of the International Conference on Security and Management (SAM), 2012
+
+"A Covert Channel in TTL Field of DNS Packets"
+C Hoffman, D Johnson, B Yuan, P Lutz - The 2012 International Conference on Security and Management, 2012
+
+"Forensic Acquisition and Analysis of VMware Virtual Hard Disks"
+M Hirwani, Y Pan, B Stackpole, D Johnson - The 2012 International Conference on Security and Management, 2012
+
+"Audio Steganography Using High Frequency Noise Introduction"
+D Wheeler, D Johnson, B Yuan, P Lutz - The 2012 International Conference on Security and Management, 2012
+
+"A Covert Channel Over Transport Layer Source Ports"
+J Gimbi, D Johnson, P Lutz, B Yuan - The 2012 International Conference on Security and Management, 2012
+
+"A Behavior Based Covert Channel within Anti-Virus Updates"
+D Anthony, D Johnson, P Lutz, B Yuan - The 2012 International Conference on Security and Management, 2012
+
+"Webpage Source Based Covert Channel"
+T Madiraju, D Johnson, B Yuan, P Lutz - The 2012 International Conference on Security and Management, 2012
+
+"Covert Channel in the BitTorrent Tracker Protocol"
+J Desimone, D Johnson, B Yuan, P Lutz - The 2012 International Conference on Security and Management, 2012
+
+"Developing Small Team-based Cyber Security Exercises"
+B Mauer, W Stackpole, D Johnson - Proceedings of the International Conference on Security and Management (SAM), 2012
+
+"Third Party Application Forensics on Apple Mobile Devices"
+A Levinson, B Stackpole, D Johnson - System Sciences (HICSS), 2011 44th Hawaii International Conference on, 2011
+
+"A HTTP cookie covert channel"
+W Huba, B Yuan, D Johnson, P Lutz - Proceedings of the 4th international conference on Security of information and networks, 2011
+
+"A Re-examination of Network Address Translation Security."
+B Hartpence, D Johnson - Security and Management, 2010
+
+"A Covert channel in RTP protocol"
+C Forbes, B Yuan, D Johnson, P Lutz - Computational Intelligence: Proceedings of the 9th International FLINS Conference, 2010
+
+"ICMP covert channel resiliency"
+K Stokes, B Yuan, D Johnson, P Lutz - Technological Developments in Networking, Education and Automation, 2010
+
+"Covert channels in the HTTP network protocol: Channel characterization and detecting Man-in-the-Middle attacks"
+E Brown, B Yuan, D Johnson, P Lutz - The Proceedings of the 5th International Conference on Information Warfare and Security: The Air Force Institute of Technology, Wright-Patterson AFB, Ohio, USA, 8-9 April 2010, 2010
+
+"Behavior-based covert channel in cyberspace"
+D Johnson, P Lutz, B Yuan - Intelligent decision making systems, 2010
+
+"Network and systems security, a collaborative approach"
+S Mason, D Johnson, L Troell - Proceedings of the 5th conference on Information technology education, 2004

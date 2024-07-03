@@ -1,0 +1,119 @@
+"Comprehensive Analysis of Consistency and Robustness of Machine Learning Models in Malware Detection"
+S Kasarapu, D Bhusal, N Rastogi, SMP Dinakarrao - Proceedings of the Great Lakes Symposium on VLSI 2024, 2024
+
+"SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory"
+D Bhusal, MT Alam, L Nguyen, A Mahara, Z Lightcap, R Frazier, R Fieblinger, GL Torales, N Rastogi - arXiv preprint arXiv:2405.20441, 2024
+
+"PASA: Attack Agnostic Unsupervised Adversarial Detection using Prediction & Attribution Sensitivity Analysis"
+D Bhusal, MT Alam, MK Veerabhadran, M Clifford, S Rampazzi, N Rastogi - Accepted: IEEE Euro S&P 2024, 2024
+
+"POSTER: MORPH: Towards Automated Concept Drift Adaptation for Malware Detection"
+MT Alam, R Fieblinger, A Mahara, N Rastogi - NDSS 2024-arXiv preprint arXiv:2401.12790, 2024
+
+"Emergent (In) Security of Multi-Cloud Environments"
+M Reece, TL Jr, S Mittal, N Rastogi, J Dykstra, A Sampson - ACSAC 2024:arXiv preprint arXiv:2311.01247, 2023
+
+"Looking beyond IoCs: Automatically extracting attack patterns from external CTI"
+MT Alam, D Bhusal, Y Park, N Rastogi - Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses, 2023
+
+"SoK: Modeling Explainability in Security Analytics for Interpretability, Trustworthiness, and Usability"
+D Bhusal, R Shin, AA Shewale, MKM Veerabhadran, M Clifford, S Rampazzi, N Rastogi - Proceedings of the 18th International Conference on Availability, Reliability and Security, 2023
+
+"Towards A Quantitative Risk Assessment of Physical Adversarial Attacks in the AV Perception Domain"
+T Chakraborty, SH Bhupathiraju, D Bhusal, M Clifford, S Rampazzi, N Rastogi, QA Chen - 32nd USENIX Security Symposium, 2023
+
+"Systemic Risk and Vulnerability Analysis of Multi-cloud Environments"
+M Reece, TEL Jr, M Stoffolano, A Sampson, J Dykstra, S Mittal, N Rastogi - arXiv preprint arXiv:2306.01862, 2023
+
+"Graph-based Approach for Studying Spread of Radical Online Sentiment"
+L Nguyen, N Rastogi - WebConf'23 Companion: Companion Proceedings of the ACM Web Conference 2023, 2023
+
+"Cyber Threat Intelligence for SOC Analysts"
+N Rastogi, MT Alam - 1st Workshop on SOC Operations and Construction (WOSOC) 2023, Network and Distributed System Security 2023, 2023
+
+"G-VARS: Towards Personalized Risk Assessments by Analyzing Gun Violence Susceptibility with Personal Knowledge Graphs."
+D Bhusal, S Rampazzi, M Clifford, N Rastogi - IEEE Data Eng. Bull., 2023
+
+"Persona Aware Strategy Towards Building a Comprehensive Semantic Data Layer: A Resource for Marginalized US STEM Graduate Students"
+N Keshan - Rensselaer Polytechnic Institute, 2023
+
+"TINKER: A framework for Open source Cyberthreat Intelligence"
+N Rastogi, S Dutta, A Gittens, M Zaki, C Aggarwal - 21st International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom'22), 2022
+
+"Explaining RADAR features for detecting spoofing attacks in Connected Autonomous Vehicles"
+N Rastogi, S Rampazzi, M Clifford, M Heller, M Bishop, K Levitt - AAAI'22 - Explainable Agency in Artificial Intelligence 2022, 2022
+
+"Adversarial Patterns: Building Robust Android Malware Classifiers"
+D Bhusal, N Rastogi - Under Review, 2022
+
+"Incorporating External Knowledge into Food Representation and Recommendation"
+D Li - Rensselaer Polytechnic Institute, 2022
+
+"Semantic Technologies for Clinically Relevant Personal Health Applications"
+C Chen, D Gruen, J Harris, J Hendler, DL McGuinness, M Monti, N Rastogi, O Seneviratne, MJ Zaki - Personal Health Informatics, 2022
+
+"Bias Impact Analysis of AI in Consumer Mobile Health Technologies: Legal, Technical, and Policy"
+K Gloria, N Rastogi, S DeGroff - Under Review, 2022
+
+"Contextual Security: A Critical Shift in Performing Threat Intelligence"
+N Rastogi - USENIX Enigma 2022, 2022
+
+"An Ontology-driven Knowledge Graph for Android Malware"
+R Christian, S Dutta, Y Park, N Rastogi - Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, 2021
+
+"Malware knowledge graph generation"
+S Dutta, N Rastogi, D Yee, C Gu, Q Ma - arXiv preprint arXiv:2102.05583, 2021
+
+"DANTE: Predicting Insider Threat using LSTM on system logs"
+Q Ma, N Rastogi - IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020
+
+"Applying Learning and Semantics for Personalized Food Recommendations⋆"
+N Rastogi, O Seneviratne, Y Chen, J Harris, D Li, A Subburathinam, R Jian, M Goulet, Y Zhou, O Minhas, J Okun, A Hill, C Chen, D Gruen - International Semantic Web Conference (ISWC 2020), 2020
+
+"MalONT: An ontology for malware threat intelligence"
+N Rastogi, S Dutta, MJ Zaki, A Gittens, C Aggarwal - SIGKDD Conference on Knowledge Discovery and Data Mining - International Workshop on Deployable Machine Learning for Security Defense, 2020
+
+"Personal Health Knowledge Graphs for Patients"
+N Rastogi, MJ Zaki - The Knowledge Graph Conference- Personal Health Knowledge Graphs, 2020
+
+"FoodKG Enabled Q&A Application."
+S Haussmann, Y Chen, O Seneviratne, N Rastogi, J Codella, C Chen, DL McGuinness, MJ Zaki - 2019 International Semantic Web Conference, 2019
+
+"Exploring Information Centrality for Intrusion Detection in Large Networks"
+N Rastogi - 19th Annual Security Conference - Cybersecurity Workforce Development Challenges, 2018
+
+"A network intrusion detection system (NIDS) based on information centrality to identify systemic cyber attacks in large systems"
+N Rastogi - Rensselaer Polytechnic Institute, 2018
+
+"Tech in Crisis: Filter Bubbles and Fake News"
+D DiFranzo, K Gloria-Garcia, N Rastogi - ACM XRDS, 2017
+
+"Managing crises, one text at a time"
+RR Divekar, N Rastogi - XRDS: Crossroads, The ACM Magazine for Students, 2017
+
+"Online censorship, cyberattacks, and access to information"
+N Rastogi - XRDS: Crossroads, The ACM Magazine for Students, 2017
+
+"Tech for crises"
+RR Divekar, N Rastogi - XRDS: Crossroads, The ACM Magazine for Students 23 (3), 8-9, 2017
+
+"Serving people in crisis to make the world a better place"
+N Rastogi, RR Divekar - XRDS: Crossroads, The ACM Magazine for Students, 2017
+
+"WhatsApp security and role of metadata in preserving privacy"
+N Rastogi, J Hendler - 12th International Conference on Cyber Warfare and Security 6817, 269-275, 2017
+
+"Graph Analytics for anomaly detection in homogeneous wireless networks-A Simulation Approach"
+N Rastogi, J Hendler - arXiv preprint arXiv:1701.06823, 2017
+
+"The art and design of autonomous machines"
+N Rastogi, A Scoică - XRDS: Crossroads, The ACM Magazine for Students, 2016
+
+"Security and privacy of performing data analytics in the cloud: a three-way handshake of technology, policy, and management"
+N Rastogi, MJK Gloria, J Hendler - Journal of Information Policy, 2015
+
+"Secure scheme during vertical handoff in integrated heterogeneous wireless systems"
+N Rastogi, Q Zeng, X Li - 2011 Wireless Telecommunications Symposium (WTS), 2011
+
+"A Novel Security Scheme during Vertical Handoff in Integrated Heterogeneous Wireless Networks"
+N Rastogi - University of Cincinnati, 2009

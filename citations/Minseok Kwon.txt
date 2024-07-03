@@ -1,0 +1,173 @@
+"PredictDDL: Reusable Workload Performance Prediction for Distributed Deep Learning"
+K Assogba, E Lima, MM Rafique, M Kwon - 2023 IEEE International Conference on Cluster Computing (CLUSTER), 2023
+
+"Predictable Internet Clients and In-Switch Deep Packet Inspection"
+S Gupta, D Gosain, M Kwon, HB Acharya - 2023 32nd International Conference on Computer Communications and Networks (ICCCN), 2023
+
+"Towards Greener Data Centers via Programmable Data Plane"
+G Grigoryan, M Kwon - 2023 IEEE 24th International Conference on High Performance Switching and Routing (HPSR), 2023
+
+"DeeP4R: Deep Packet Inspection in P4 using Packet Recirculation"
+S Gupta, D Gosain, M Kwon, HB Acharya - IEEE INFOCOM 2023-IEEE Conference on Computer Communications, 2023
+
+"Simple deep packet inspection with p4"
+S Gupta, D Gosain, G Grigoryan, M Kwon, H Acharya - 2021 IEEE 29th International Conference on Network Protocols (ICNP), 2021
+
+"NASCon: Network-Aware Server Consolidation for server-centric wireless datacenters"
+SA Mamun, A Ganguly, PP Markopoulos, M Kwon, A Kwasinski - Sustainable Computing: Informatics and Systems, 2021
+
+"What can ail thee: New and old security vulnerabilities of wireless datacenters"
+SA Mamun, A Ganguly, PP Markopoulos, A Kwasinski, M Kwon - GLOBECOM 2020-2020 IEEE Global Communications Conference, 2020
+
+"Extending the control plane of container orchestrators for I/O virtualization"
+G Grigoryan, M Kwon, MM Rafique - 2020 2nd International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC), 2020
+
+"CuVPP: Filter-based Longest Prefix Matching in Software Data Planes"
+M Kwon, KP Neupane, J Marshall, MM Rafique - 2020 IEEE International Conference on Cluster Computing (CLUSTER), 2020
+
+"Security vulnerabilities of server-centric wireless datacenters"
+SA Mamun, A Ganguly, PP Markopoulos, A Kwasinski, M Kwon - 2020 IEEE Conference on Communications and Network Security (CNS), 2020
+
+"Boosting FIB Caching Performance with Aggregation"
+G Grigoryan, Y Liu, M Kwon - Proceedings of the 29th International Symposium on High-Performance Parallel and Distributed Computing, 2020
+
+"Two-Way Trees: A Distributed Algorithm for Efficient Replica Search and Placement"
+G Park, M Kwon, R Tamilselvan, S Lee - Symposium on Algorithmic Principles of Computer Systems, 2020
+
+"iload: In-network load balancing with programmable data plane"
+G Grigoryan, Y Liu, M Kwon - Proceedings of the 15th International Conference on emerging Networking EXperiments and Technologies, 2019
+
+"Proof-carrying network code"
+C Skalka, J Ring, D Darais, M Kwon, S Gupta, K Diller, S Smolka, N Foster - Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2019
+
+"Container orchestration by kubernetes for rdma networking"
+C Link, J Sarran, G Grigoryan, M Kwon, MM Rafique, WR Carithers - 2019 IEEE 27th International Conference on Network Protocols (ICNP), 2019
+
+"Network-aware server consolidation for wireless data centers"
+SA Mamun, A Ganguly, M Kwon, A Kwasinski, PP Markopoulos - 2019 10th International Conference on Networks of the Future (NoF), 2019
+
+"A fingerprint-based bloom filter with deletion capabilities"
+M Kwon, V Shankar, S Pontarelli, P Reviriego - 2019 European Conference on Networks and Communications (EuCNC), 2019
+
+"Detecting BGP route anomalies with deep learning"
+K McGlynn, H Acharya, M Kwon - IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2019
+
+"On Securing Healthcare with Software-Defined Networks"
+S Gupta, H Acharya, M Kwon - IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2019
+
+"PFCA: A programmable FIB caching architecture"
+G Grigoryan, Y Liu - Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems, 2018
+
+"Position-aware cuckoo filters"
+M Kwon, V Shankar, P Reviriego - Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems, 2018
+
+"Performance evaluation of a power-efficient and robust 60 GHz wireless server-to-server datacenter network"
+SA Mamun, SG Umamaheswaran, A Ganguly, M Kwon, A Kwasinski - IEEE Transactions on Green Communications and Networking, 2018
+
+"Reducing power consumption of datacenter networks with 60ghz wireless server-to-server links"
+SG Umamaheswaran, SA Mamun, A Ganguly, M Kwon, A Kwasinski - GLOBECOM 2017-2017 IEEE Global Communications Conference, 2017
+
+"Use of Cuckoo filters with FD. Io VPP for software IPv6 routing lookup"
+M Kwon, S Vajpayee, P Vijayaragavan, A Dhuliya, J Marshall - Proceedings of the SIGCOMM Posters and Demos, 2017
+
+"An energy-efficient, wireless top-of-rack to top-of-rack datacenter network using 60GHz links"
+SA Mamun, SG Umamaheswaran, SS Chandrasekaran, MS Shamim, A Ganguly, M Kwon - 2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), 2017
+
+"A length-aware cuckoo filter for faster IP lookup"
+M Kwon, P Reviriego, S Pontarelli - 2016 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2016
+
+"Dynamic vehicular route guidance using traffic prediction information"
+K Kim, M Kwon, J Park, Y Eun - Mobile Information Systems, 2016
+
+"The cloudlet accelerator: Bringing mobile-cloud face recognition into real-time"
+N Powers, A Alling, K Osolinsky, T Soyata, M Zhu, H Wang, H Ba, W Heinzelman, J Shi, M Kwon - 2015 IEEE Globecom Workshops (GC Wkshps), 2015
+
+"A tutorial on network latency and its measurements"
+M Kwon - Enabling real-time mobile cloud computing through emerging technologies, 272-293, 2015
+
+"Use of network latency profiling and redundancy for cloud server selection"
+M Kwon, Z Dou, W Heinzelman, T Soyata, H Ba, J Shi - 2014 IEEE 7th International Conference on Cloud Computing, 2014
+
+"Accelerating mobile-cloud computing: A survey"
+T Soyata, H Ba, W Heinzelman, M Kwon, J Shi - Communication Infrastructures for Cloud Computing, 2014
+
+"Integrating highly-capable corobots into a computing curriculum"
+Z Butler, RK Raj, M Kwon - 2013 IEEE Frontiers in Education Conference (FIE), 2013
+
+"An enhanced bloom filter for longest prefix matching"
+G Park, M Kwon - 2013 IEEE/ACM 21st International Symposium on Quality of Service (IWQoS), 2013
+
+"Cloud-vision: Real-time face recognition using a mobile-cloudlet-cloud acceleration architecture"
+T Soyata, R Muraleedharan, C Funai, M Kwon, W Heinzelman - 2012 IEEE symposium on computers and communications (ISCC), 2012
+
+"COMBAT: mobile-Cloud-based cOmpute/coMmunications infrastructure for BATtlefield applications"
+T Soyata, R Muraleedharan, J Langdon, C Funai, S Ames, M Kwon, W Heinzelman - Modeling and Simulation for Defense Systems and Applications VII, 2012
+
+"On providing successful research experiences for undergraduates"
+RJ Bailey, H Bischof, M Kwon, T Miller, RK Raj - 2011 Frontiers in Education Conference (FIE), 2011
+
+"Work in progress—An immersion course concentration in mobile web computing"
+CJ Romanowski, RK Raj, M Kwon - 2011 Frontiers in Education Conference (FIE), 2011
+
+"Prediction-based virtual instance migration for balanced workload in the cloud datacenters"
+S Daniel, M Kwon - Dept Comput Sci (GCCIS), Rochester Inst Technol, Rochester, NY, USA, Tech Rep, 2011
+
+"Distributed tries for load balancing in peer-to-peer systems"
+G Park, M Kwon - 2010 IEEE 18th International Workshop on Quality of Service (IWQoS), 2010
+
+"Synergy: An overlay internetworking architecture and implementation"
+M Kwon, S Fahmy - Journal of Communications and Networks, 2010
+
+"Secure routing in peer-to-peer distributed hash tables"
+K Needels, M Kwon - Proceedings of the 2009 ACM symposium on Applied Computing, 2009
+
+"Vulnerabilities of the Real-time transport (RTP) protocol for voice over IP (VoIP) traffic"
+M Adams, M Kwon - 2009 6th IEEE Consumer Communications and Networking Conference, 2009
+
+"Characterization of acoustic imaging noise-induced hemodynamic response as a function of noise intensity in human auditory cortex fMRI at 3.0 T"
+M Kwon - Purdue University, 2009
+
+"Work in progress-using a mobile robots laboratory to teach advanced computing concepts"
+Z Butler, M Kwon, RK Raj - 2008 38th Annual Frontiers in Education Conference, 2008
+
+"RODMRP: Resilient on-demand multicast routing protocol"
+D Pathirana, M Kwon - 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW'07), 2007
+
+"Characterizing overlay multicast networks and their costs"
+S Fahmy, M Kwon - IEEE/ACM transactions on networking, 2007
+
+"Phyllo: a peer-to-peer overlay security framework"
+W Heinbockel, M Kwon - 1st IEEE ICNP Workshop on Secure Network Protocols, 2005.(NPSec)., 2005
+
+"Synergy: an overlay internetworking architecture"
+M Kwon, S Fahmy - Proceedings. 14th International Conference on Computer Communications and Networks, 2005. ICCCN 2005., 2005
+
+"Path-aware overlay multicast"
+M Kwon, S Fahmy - Computer Networks, 2005
+
+"Designing and characterizing overlay networks"
+M Kwon - Purdue University, 2004
+
+"On TCP reaction to explicit congestion notification"
+M Kwon, S Fahmy - Journal of High Speed Networks, 2004
+
+"Toward Cooperative Inter-overlay Networks"
+M Kwon, S Fahmy - Proceedings of ICNP, 2003
+
+"Toward cooperative inter-overlay networking"
+M Kwon - Poster in IEEE ICNP, Nov. 2003, 2003
+
+"Comparison of load-based and queue-based active queue management algorithms"
+M Kwon, S Fahmy - Quality of Service over Next-Generation Internet, 2002
+
+"Topology-aware overlay networks for group communication"
+M Kwon, S Fahmy - Proceedings of the 12th international workshop on Network and operating systems support for digital audio and video, 2002
+
+"TCP increase/decrease behavior with explicit congestion notification (ECN)"
+M Kwon, S Fahmy - 2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No. 02CH37333), 2002
+
+"Experience with software watermarking"
+J Palsberg, S Krishnaswamy, M Kwon, D Ma, Q Shao, Y Zhang - Proceedings 16th Annual Computer Security Applications Conference (ACSAC'00), 2000
+
+"Regionalism and integration"
+F Butler - The globalization of world politics: an introduction to international relations, 1997

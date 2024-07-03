@@ -1,0 +1,416 @@
+"Achieving diversity in AI-focused graduate research traineeships"
+CO Alm, E Rantanen, K Shinohara, F Sahin, C BaileyShea, R Bailey - Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2, 2024
+
+"Measuring Temporal Awareness for Human-Aware AI"
+MA Gray, Z Yong, A Wasti, EM Rantanen, JR Heard - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2023
+
+"Rapid development of a hospital checklist in a time of COVID-19"
+G Lintern, A Motavalli, Z Chua, EM Rantanen, SC Peres, D Boorman - Ergonomics in Design, 2022
+
+"Cognitive Engineering Modeling of Phishing"
+T Bragg, EM Rantanen, JM Pelletier, E Rashedi - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022
+
+"Machine Learning in Healthcare: Two Case Studies"
+R Kang, EM Rantanen, EA Youngstrom - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022
+
+"Attention control in a demanding dynamic time-sharing environment: An eye-tracking study"
+J Kulomäki, L Oksama, E Rantanen, J Hyönä - Attention, Perception, & Psychophysics, 2022
+
+"1442 December 2022-Human Factors"
+H Muslim, E Muth, J Muttart, E Naddoz, K Nestler, D O’Hare, E O’Neill, T Oron-Gilad, F Oswald, M Paasuke, K Panesar, J Park, W Park, A Parush, E Patterson, T Peck, J Pekkanen, O Pennacchio, F Peressotti, E Phillips, B Pitts, R Proctor, P Rajivan, E Rantanen, M Regan, A Reiner, K Richardson, S Riggs, S Roberts, Y Saito, A Salas, D Salvucci, S Samuel, P Sanderson, K Satterfield, J Sauer, M Schall, F Schieber, W Schoppek, B Seppelt, M Smith, T Smith, S Snow, C Sommerich, D Souders, A Sourelli, D Srinivasan, RS Amant, MS John, M Stainer, J Stapel, R Stevens, L Stirling, T Stoffregen, N Stone, T Strybel, I Stutts, J Szalma, N Tenhundfeld, E Teoh, JG Trafton, P Tsang, O Tyagi, R Tyrrell, A Vanacore, H Vasquez, R Veerabhadrappa, V Venkatraman, K Vu, M Wang, X Wang, N Ward, B Weaver, S Weech, D Weed, S Werner, C Wickens, D Wiegmann, N Wiggermann, M Wiklund, J Wildman, G Wilson, MD Wilson, B Wolfe, A Wooldridge, Y Xiao, K Xie, A Xiong, X Xu, S Yahoodik, S Yang, XJ Yang, X Yang, W Yin, K Young, D Yu, Y Zhang, Y Zhang - Human Factors, 2022
+
+"Practitioner-Educator Model for Human Factors/Ergonomics Education"
+KS Karn, EM Rantanen, RJ Branaghan, MF Rayo, CA Sanchez, HC Lum - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2021
+
+"Student Perspectives on Changing Requirements for Human Factors Engineering Education"
+BY Zhang, EM Rantanen, M Chignell - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2021
+
+"Ethics Education of Human Factors Engineers for Responsible AI Development"
+EM Rantanen, JD Lee, K Darveau, DB Miller, J Intriligator, BD Sawyer - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2021
+
+"Organizational Safety in Airline Operations"
+E Rantanen, E Hujibrechts - 80th International Symposium on Aviation Psychology, 2021
+
+"The education of the human factors engineer in the age of data science"
+D Hannon, E Rantanen, B Sawyer, A Hughes, K Darveau, R O’Donnell, J Intriligator, JD Lee - Proceedings of the human factors and ergonomics society annual meeting, 2020
+
+"Interdisciplinary Human Factors Curricula for Individualized, Independent Study"
+EM Rantanen, H Khammash, JC Hall - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2020
+
+"Tracking the identity of moving words: Stimulus complexity and familiarity affects tracking accuracy"
+J Hyönä, L Oksama, E Rantanen - Applied Cognitive Psychology, 2020
+
+"A human factors engineering education perspective on data science, machine learning and automation"
+D Hannon, E Rantanen, B Sawyer, R Ptucha, A Hughes, K Darveau, JD Lee - Proceedings of the human factors and ergonomics society annual meeting, 2019
+
+"Decluttering Geographic Data View Displays"
+EM Rantanen, L Hochberg, M Di, D Klabjan - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2018
+
+"Cross-training in design and human factors"
+E Rantanen, A Rantanen, M Lau - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2018
+
+"Data properties underlying human monitoring performance"
+EM Rantanen, E Fokoué, K Gegner, J Haut, TJ Overbye - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2017
+
+"A Software Tool for Cognitive Work Analysis"
+DP Hingu, S Muthukrishnan, EM Rantanen, G Lintern - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2017
+
+"Practitioner operational challenges and priorities"
+EM Rantanen, KE Fennell, J Russi, JR Dougherty - Advances in Aviation Psychology, Volume 2, 2017
+
+"Workload in nursing"
+J Umansky, E Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2016
+
+"Trends in knowledge and skill expectations for new human factors professionals"
+EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2016
+
+"Education of future human factors professionals"
+E Rantanen, D Boehm-Davis, LN Boyle, D Hannon, JD Lee - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2016
+
+"Usability of incident reporting systems: preliminary results of a case study"
+P Wiele, E Rantanen - Proceedings of the International Symposium on Human Factors and Ergonomics in Health Care, 2015
+
+"Learning of location-identity bindings: Development of Level 1 situation awareness in an air traffic control-like task"
+A Nalbandian, E Rantanen - 18th International Symposium on Aviation Psychology, 2015
+
+"Power grid visualization by means of optimization"
+M Di, D Klabjan, E Rantanen - INFORMS Annual Meeting, 2014
+
+"Usability of human factors standards"
+A Swaminathan, E Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2014
+
+"Linguistic Analysis of Archival Human Factors Jobs Data"
+L Hochberg, R Johar, E Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2014
+
+"Usability of Human Factors Research in Design: Advice from Users of Science to Producers of Science"
+E Rantanen, K Karn, N Wiggermann, C Koch, M Lau, A Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2014
+
+"Towards automatic annotation of clinical decision-making style"
+L Hochberg, CO Alm, EM Rantanen, Q Yu, CM DeLong, A Haake - Proceedings of LAW VIII-The 8th Linguistic Annotation Workshop, 2014
+
+"Linguistic analysis of clinical communications: A novel method for study of diagnostic errors"
+E Rantanen, CO Alm, T Worrell, N Valentage, N Iuliucci - Proceedings of the International Symposium on Human Factors and Ergonomics in Health Care, 2014
+
+"Decision style in a clinical reasoning corpus"
+L Hochberg, CO Alm, EM Rantanen, CM DeLong, A Haake - Proceedings of BioNLP 2014, 2014
+
+"Practicing relevant skills in the classroom: Advice from experts in the industry to professors"
+EM Rantanen, DJ Colombo, SM Miller, AL Alexander, FC Lacson, AD Andre - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2013
+
+"Archival human factors jobs database as a tool for tracking trends in skills and knowledge expectations in the labor market"
+E Rantanen, C Claeys, D Roder, W Moroney - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2013
+
+"Development of a Jobs Database for Tracking Knowledge and Skills Expectations in the Workplace"
+EM Rantanen, C Claeys, D Roder - Development, 2013
+
+"Stress in medical residency: cognitive work analysis and a literature review"
+DT Nystrom, EM Rantanen, G Lintern - Proceedings of the International Symposium on Human Factors and Ergonomics …, 2013
+
+"Eye contact and video-mediated communication: A review"
+LS Bohannon, AM Herbert, JB Pelz, EM Rantanen - Displays 34 (2), 177-185, 2013
+
+"Communication Sequences in Controller Pilot Communications"
+J Histon, E Rantanen, CO Alm - 17th International Symposium on Aviation Psychology, 2013
+
+"Student perceptions of their educational and skill needs in the workplace"
+WF Moroney, EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2012
+
+"Employers’ expectations for education and skills of new human factors/ergonomics professionals"
+EM Rantanen, WF Moroney - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2012
+
+"Human Factors Validation of NextGen Technologies and Procedures"
+EM Rantanen - Advances in Human Aspects of Aviation, 2012
+
+"Air Traffic Control Voice Data Analysis to Validate NextGen Procedures"
+J Histon, E Rantanen, CO Alm - Advances in Human Aspects of Aviation, 129, 2012
+
+"Conflict resolution maneuvers in air traffic control: Investigation of operational data"
+EM Rantanen, CD Wickens - The International Journal of Aviation Psychology, 2012
+
+"Human factors evaluation of pharmacy operations"
+E Rantanen, J Deeter, S Burke, Y Wang - 2012 symposium on human factors and ergonomics in health care: Bridging the gap. Santa Monica: HFES, 2012
+
+"Human reliability analysis in healthcare"
+J Deeter, E Rantanen - Proceedings of symposium on human factors and ergonomics in health care, 2012
+
+"Analysis of hospital oncology department pharmacy operations"
+E Rantanen, J Deeter, S Burke, Y Wang - Proceedings of Symposium on Human Factors and Ergonomics in Health Care, 2012
+
+"28 The Effect of Crowding on the Workload and the Perception of Workload in a Community Emergency Department"
+S Schneider, K Coles, E Rantanen, R Fairbanks - Annals of Emergency Medicine, 2011
+
+"Individual differences in the effect of vertical separation on conflict detection in air traffic control"
+S Stankovic, S Loft, E Rantanen, N Ponomarenko - The International Journal of Aviation Psychology, 2011
+
+"User experience with cybercollaboration technologies"
+EM Rantanen, JL Smagner - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2011
+
+"Educational and skill needs of new human factors/ergonomics professionals"
+EM Rantanen, WF Moroney - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2011
+
+"Data Mining Techniques to Derive Human and System Performance Measures of Air Traffic Control from Operational Data"
+E Rantanen, E Fokoue - 16th International Symposium on Aviation Psychology, 2011
+
+"Conflict Detection in Air Traffic Conrol: Distuinguishing Between Judgments of Conflict Risk and Intervention Decisions"
+S Stankovic, E Rantanen, N Ponomarenko - 16th International Symposium on Aviation Psychology, 2011
+
+"Are There Standard Conflict Resolution Maneuvers in Air Traffic Control?"
+EM Rantanen, CD Wickens - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2010
+
+"Multiple identity tracking and entropy in an ATC-like task"
+RM Hope, EM Rantanen, L Oksama - Proceedings of the human factors and ergonomics society annual meeting, 2010
+
+"Gestural interaction with in-vehicle audio and climate controls"
+C Chung, E Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2010
+
+"The impact of time efficacy on air traffic controller situation awareness and mental workload"
+J Yang, EM Rantanen, K Zhang - The International Journal of Aviation Psychology, 2009
+
+"Creativity and design: Creativity's new definition and its relationship to design"
+SJ Brougher, EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2009
+
+"Do velocity vectors support multiple object tracking?"
+K Oinonen, L Oksama, E Rantanen, J Hyönä - Proceedings of the human factors and ergonomics society annual meeting, 2009
+
+"Measurement of temporal awareness in air traffic control"
+EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2009
+
+"Maneuver Stereotypes in Airborne Conflict Resolutions"
+EM Rantanen, CD Wickens, D Keller - 2009 International Symposium on Aviation Psychology, 2009
+
+"Determinants of Conflict Risk Judgments in Air Traffic Control"
+S Stankovic, E Rantanen, N Ponomarenko, S Loft - 2009 International Symposium on Aviation Psychology, 2009
+
+"Cognitive task analysis of electric power system control center operations"
+EM Rantanen, JA Winkle, TJ Overbye - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 52 …, 2008
+
+"Designing external aids that support older pilots' communication"
+D Morrow, C Wickens, E Rantanen, D Chang, J Marcus - The International Journal of Aviation Psychology, 2008
+
+"Development of air traffic control measures database"
+EM Rantanen, PM Vlach - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 51 …, 2007
+
+"Evaluation of a software implementation of the cognitive reliability and error analysis method (CREAM)"
+RD Serwy, EM Rantanen - Proceedings of the human factors and ergonomics society annual meeting 51 …, 2007
+
+"Electric power control center visualization using geographic data views"
+TJ Overbye, EM Rantanen, S Judd - 2007 iREP Symposium-Bulk Power System Dynamics and Control-VII. Revitalizing Operational Reliability, 2007
+
+"Effects of air traffic geometry on pilots' conflict detection with cockpit display of traffic information"
+X Xu, EM Rantanen - Human factors, 2007
+
+"Those Who Shield Others Are Users Too! Experience from User Studies of Security SysAdmins"
+W Yurcik, R Thompson, E Rantanen - CHI Work. Secur. User Stud, 2007
+
+"Command line or pretty lines? Comparing textual and visual interfaces for intrusion detection"
+RS Thompson, EM Rantanen, W Yurcik, BP Bailey - Proceedings of the SIGCHI conference on Human factors in computing systems, 2007
+
+"Effects of conflict alerting system reliability and task difficulty on pilots' conflict detection with cockpit display of traffic information"
+X Xu, CD Wickens, EM Rantanen - Ergonomics, 2007
+
+"Relative Importance of Conflict Geometry Variables in Influencing Pilots’ Conflict Detection Using a Cockpit Display of Traffic Information"
+X Xu, EM Rantanen, Y Huo - 2007 International Symposium on Aviation Psychology, 2007
+
+"Evaluation of the SEEV model of visual attention allocation in ATC applications"
+A Schriver, E Rantanen - 2007 International symposium on aviation psychology, 2007
+
+"Temporal awareness in ATC: Literature review and a proposed model"
+EM Rantanen - 2007 International Symposium on Aviation Psychology, 570, 2007
+
+"Aviation Technologies and Human Error: a Research Literature Database and Analysis"
+CM Johnson, EM Rantanen, SL Moment - 2007 International Symposium on Aviation Psychology, 2007
+
+"If you can't beat'em, join'em: combining text and visual interfaces for security-system administration"
+W Yurcik, RS Thompson, MB Twidale, EM Rantanen - interactions, 2007
+
+"Stockastic hybrid models with applications to air traffic management"
+A Naseri, N Neogi, E Rantanen - AIAA Guidance, Navigation and Control Conference and Exhibit, 2007
+
+"Evaluation of airspace complexity and dynamic density metrics derived from operational data"
+EM Rantanen, A Naseri, N Neogi - Air Traffic Control Quarterly, 2007
+
+"A Framework for Evaluation of University Human Factors Curricula"
+EM Rantanen, PM Vlach - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2006
+
+"Development of Air Traffic Control Measurement Database"
+EM Rantanen - Human Factors Division, Institute of Aviation, University of Illinois at …, 2006
+
+"Developing criteria for recognizing excellence in undergraduate human factors education"
+LG Shattuck, AM Bisantz, RD Gilson, WF Moroney, E Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 50 (6 …, 2006
+
+"Comparison of pilots' and controllers' conflict resolution maneuver preferences"
+EM Rantanen, J Yang, S Yin - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2006
+
+"Network intrusion detection cognitive task analysis: Textual and visual tool usage and recommendations"
+RS Thompson, EM Rantanen, W Yurcik - Proceedings of the human factors and ergonomics society annual meeting 50 (5 …, 2006
+
+"Human factors issues in implementation of advanced aviation technologies: A case of false alerts and cockpit displays of traffic information"
+LC Thomas, EM Rantanen - Theoretical Issues in Ergonomics Science, 2006
+
+"Five‐dimensional taxonomy to relate human errors and technological interventions in a human factors literature database"
+EM Rantanen, BO Palmer, DA Wiegmann, KM Musiorski - Journal of the American Society for Information Science and Technology, 2006
+
+"En Route Controller Task Prioritization Research to Support CE-6 Human Performance Modeling: Analysis of High-fidelity Simulation Data. Phase II"
+EM Rantanen, SJ Yeakel, KS Steelman - University of Illinois at Urbana-Champaign, Human Factors Division, 2006
+
+"Hierarchical conflict detection in air traffic control"
+EM Rantanen, A Nunes - The International Journal of Aviation Psychology, 2005
+
+"Designing external aids that support older pilot performance"
+D Morrow, D Chang, C Wickens, E Rantanen, L Raquel - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 49 (2 …, 2005
+
+"Time-based modeling of human performance"
+EM Rantanen, BR Levinthal - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 49 …, 2005
+
+"Incremental transfer and cost effectiveness of groundbased flight trainers in university aviation programs"
+EM Rantanen, DA Talleur - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 49 (7 …, 2005
+
+"Effect of air traffic controller taskload and temporal awareness on task prioritization"
+EM Rantanen, BR Levinthal - 2005 International Symposium on Aviation Psychology, 2005
+
+"External Aids and Age Differences in Pilot Communication"
+D Morrow, D Chang, C Wickens, E Rantanen, L Raquel - 2005 International Symposium on Aviation Psychology, 2005
+
+"Pilots' Conflict Detection with Imperfect Conflict Alerting System for the Cockpit Display of Traffic Information"
+X Xu, CD Wickens, EM Rantanen - 2005 International Symposium on Aviation Psychology, 2005
+
+"Teams, teamwork, and automation in air traffic control"
+PW Maynard, EM Rantanen - 2005 International Symposium on Aviation Psychology, 2005
+
+"The effectiveness of a personal computer aviation training device (PCATD), a flight training device (FTD), and an airplane in conducting instrument proficiency checks"
+HL Taylor, DA Talleur, EM Rantanen, TWE Jr - 2005 International Symposium on Aviation Psychology, 2005
+
+"The impact of sector characteristics and aircraft count on air traffic control communications and workload"
+EM Rantanen, PW Maynard, D Özhan - 2005 International Symposium on Aviation Psychology, 2005
+
+"Transfer of training effectiveness of a flight training device (FTD)"
+HL Taylor, DA Talleur, TWE Jr, EM Rantanen - 2005 International Symposium on Aviation Psychology, 2005
+
+"Objective pilot performance measurement: A literature review and taxonomy of metrics"
+N Johnson, E Rantanen - Proceedings of the 13th International Symposium of Aviation Psychology, 2005
+
+"Time delays in air traffic control communication loop: effect on controller performance and workload"
+EM Rantanen, JS McCarley, X Xu - The International Journal of Aviation Psychology, 2004
+
+"An electronic instruction manual and checklist for steam boiler start-up"
+S Tokuda, EM Rantanen, JCGd Sather - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2004
+
+"Criterion setting for objective, Fourier analysis based pilot performance metrics"
+NR Johnson, EM Rantanen, DA Talleur - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2004
+
+"Measurement of taskload and performance in a dynamic multi-task experiment"
+BR Levinthal, EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 48 (3 …, 2004
+
+"Book review of control theory for humans: quantitative approaches to modeling performance by RJ Jagacinski and JM Flach, Mahwah, NJ: Lawrence Erlbaum (2003), pp. xiii+ 379, 99 …"
+EM Rantanen - Theoretical Issues in Ergonomics Science, 2004
+
+"Developing and validating human factors certification criteria for cockpit displays of traffic information avionics"
+EM Rantanen, CD Wickens, X Xu, LC Thomas - No. AHFD-04-1/FAA-04-1). Savoy, IL: University of Illinois, Aviation Human Factors Division, 2004
+
+"The effectiveness of personal computer aviation training device, a flight training device, and an airplane in conducting instrument proficiency checks: volume 2: objective …"
+E Rantanen, N Johnson, D Talleur - Final Technical Report AHFD-04-16/FAA-04-6, 2004
+
+"Imperfect conflict alerting systems for the cockpit display of traffic information"
+X Xu, CD Wickens, EM Rantanen - University of Illinois at Urbana-Champaign, Aviation Human Factors Division, 2004
+
+"Estimation of conflict risk using cockpit displays of traffic information"
+X Xu, EM Rantanen, CD Wickens - University of Illinois at Urbana-Champaign, Aviation Human Factors Division, 2004
+
+"A Human Factors Database for Matching Human Errors and Technological Interventions"
+EM Rantanen, DA Wiegmann, BO Palmer, KM Musiorski - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2003
+
+"Special Projects in Undergraduate Human Factors Courses: Evaluation of Power Plant Boiler Control Interface"
+EM Rantanen, JCGd Sather - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2003
+
+"Human factors considerations in the design of an aircraft maintenance hangar"
+EM Rantanen, TA Butts, DS Wojtowicz, ML Webb, AK Marin - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2003
+
+"Timing of discrete actions: Evidence for perceptual dominance in human performance"
+X Xu, EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2003
+
+"Personal computer aviation training devices: Their effectiveness for maintaining instrument currency"
+DA Talleur, HL Taylor, TWE Jr, E Rantanen, GL Bradshaw - The International Journal of Aviation Psychology, 2003
+
+"Imperfect automation in aviation traffic alerts: A review of conflict detection algorithms and their implications for human factors research"
+LC Thomas, CD Wickens, EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 47 (3 …, 2003
+
+"Conflict detection in air traffic control: A task analysis, a literature review, and a need for further research"
+X Xu, EM Rantanen - Proceedings of the 12th International Symposium on Aviation Psychology, 1289 …, 2003
+
+"Drift in blind reciprocal aiming movements"
+EM Rantanen, DA Rosenbaum - Motor Control, 2003
+
+"Measurement of the visual field"
+EM Rantanen - Perceptual and Motor Skills, 2003
+
+"Effectiveness of personal computers to meet recency of experience requirements"
+HL Taylor, D Talleur, G Bradshaw, TE Jr, E Rantanen, C Hulin, L Lendrum - United States. Department of Transportation. Federal Aviation Administration …, 2003
+
+"Comparison of the Effectiveness of a Personal Computer Aviation Training Device, a Flight Training Device, and an Airplane in Conducting Instrument Proficiency Checks"
+TWE Jr, HL Taylor, DA Talleur, EM Rantanen - 12th International Symposium on Aviation Psychology, 2003University of Illinois, Urbana-Champaign, 2003
+
+"Human Factors Implications of Air Traffic Management Procedures and Algorithms"
+EM Rantanen, WJ Davis - 12th International Symposium on Aviation Psychology, 2003University of Illinois, Urbana-Champaign, 2003
+
+"Taxonomies of measures in air traffic control research"
+EM Rantanen, A Nunes - 12th International Symposium on Aviation Psychology, 2003University of Illinois, Urbana-Champaign, 2003
+
+"Incremental training effectiveness of personal computers used for instrument training"
+HL Taylor, DA Talleur, TWE Jr, EM Rantanen, GL Bradshaw, SI Phillips - 12th International Symposium on Aviation Psychology, 2003University of Illinois, Urbana-Champaign, 2003
+
+"The Impact of Communication Delays on Air Traffic Controllers' Vectoring Performance"
+EM Rantanen, JS McCarley, X Xu - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2002
+
+"Pilot error in copying air traffic control clearances"
+EM Rantanen, NK Kokayeff - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2002
+
+"Incremental training effectiveness of personal computer aviation training devices (PCATD) used for instrument training"
+HL Taylor, D Talleur, TE Jr, E Rantanen, G Bradshaw, S Phillips - University of Illinois at Urbana-Champaign, Aviation Research Lab, 2002
+
+"Human performance in timing of discrete actions"
+EM Rantanen, X Xu - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2001
+
+"Design considerations for web-based applications"
+L Wroblewski, EM Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting 45 …, 2001
+
+"Derivation of pilot performance measures from flight data recorder information"
+EM Rantanen, DA Talleur, HL Taylor, GL Bradshaw, TWE Jr, L Lendrum, CL Hulin, I Savoy - 11th International Symposium on Aviation Psychology, 2001
+
+"Measurement of pilot performance during instrument flight using flight data recorders"
+E Rantanen, D Talleur - International Journal of Aviation Research and Development, 2001
+
+"Computerized Electoral Ballot Design Using a Touch Screen"
+AA Ebbing, EM Rantanen - Proceedings of the Human Factors and Ergonomics Society... Annual Meeting, 2001
+
+"Web-Based Information Management: An Open Portal Interface Solution."
+L Wroblewski, EM Rantanen - Human Computer Interaction International Conference, 2001
+
+"Effectiveness of a personal computer aviation training device(PCATD) for maintaining instrument currency"
+DA Talleur, HL Taylor, GL Bradshaw, TWE Jr, E Rantanen, L Lendrum, CL Hulin - Focusing Attention on Aviation Safety, 2001
+
+"Variability and drift in blind reaching movements"
+EM Rantanen - The Pennsylvania State University, 2000
+
+"The effect of mental workload on the visual field size and shape"
+EM Rantanen, JH Goldberg - Ergonomics, 1999
+
+"Modeling air traffic controller selection test battery tasks"
+E Rantanen, H Thomas - International Symposium on Aviation Psychology, 10 th, Columbus, OH, 1999
+
+"A Hypertext Database for the Design of Visual Inspection Operations"
+JH Goldberg, XP Kotval, E Rantanen - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 1996
+
+"The Effect of Mental Workload on the Size and Shape of the Visual Field"
+EM Rantanen - Pennsylvania State University, 1996
+
+"Perception of symmetry in polygon displays"
+E Rantanem, JH Goldberg - NPIC&HMIT, 1996
+
+"Applying Quality Function Deployment to Air Traffic Control Curriculum at Embry-Riddle Aeronautical University"
+EM Rantanen, GL Spach - Annual Air Traffic Control Association Fall Conference Proceedings, 1995
+
+"The role of dynamic memory in air traffic controllers situation awareness"
+E Rantanen - Situational awareness in complex systems, 1994
+
+"The effect of active and passive control on air traffic controller dynamic memory"
+EM Rantanen - Embry-Riddle Aeronautical University, 1993

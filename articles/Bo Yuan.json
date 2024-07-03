@@ -1,0 +1,1320 @@
+[
+    {
+        "title": "Fuzzy Reasoning",
+        "id": "utrtn3cAAAAJ:uoRD4RTSUPoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:uoRD4RTSUPoC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "In this introductory section we touch upon the main characteristics of the inferential methods of fuzzy logic, which are discussed in detail later in this chapter. We focus particularly on the nature of all deductive methods as procedures to derive, within a formal system for the representation of declarative statements and their relations, valid conclusions from valid premises. We stress that, despite connotations suggested by its name and of much confusion in the literature, the deductive methods of fuzzy reasoning are sound, rational procedures rather than mere heuristic approximations of the classical inferential procedures of two-valued logic."
+    },
+    {
+        "title": "Vagueness and Uncertainty",
+        "id": "utrtn3cAAAAJ:5rMqqAh47xYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:5rMqqAh47xYC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "This section is on vague concepts: those context-dependent concepts exhibiting an intrinsic tolerance to small variations and that intermingle with their negations."
+    },
+    {
+        "title": "Fuzzy Models",
+        "id": "utrtn3cAAAAJ:J4E9jCG1tHUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:J4E9jCG1tHUC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "The section offers a concise introduction to fuzzy models by identifying the key features of fuzzy models and highlighting the issues of granular computing and information granules viewed here as generic building blocks of such models. We also elaborate on the main classes of fuzzy models; the taxonomy introduced relies on various ways in which information granules are linked together. Verification and validation issues of fuzzy models are studied. The question of interaction of fuzzy models with the modeling environment is addressed and cast in the framework of linguistic (granular) encoding and decoding pursuits."
+    },
+    {
+        "title": "Fuzzy Sets: Concepts and Characterizations",
+        "id": "utrtn3cAAAAJ:DGzKIA18-3YC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:DGzKIA18-3YC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "This section presents an overview of the fundamental concepts that are discussed in detail in subsequent sections of this chapter. We first present a brief characterization of the notion of a fuzzy set, commenting upon its significance as the basis of a methodology to represent properties that an object may possess to various degrees while allowing modeling of complex systems at various levels of resolution or granularity."
+    },
+    {
+        "title": "Possibility theory",
+        "id": "utrtn3cAAAAJ:HKviVsUxM5wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:HKviVsUxM5wC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "Possibility theory was coined by L A Zadeh in the late 1970s as an approach to model flexible restrictions constructed from vague pieces of information, described by means of fuzzy sets. Possibility theory is a nonclassical theory of uncertainty, different from probability theory. This brief introduction discusses the basic elements of the theory: possibility and necessity measures (as well as two other set functions associated with a possibility distribution), the minimum-specificity principle which underlies the whole theory, the relations to and differences from the other uncertainty frameworks, and the combination, projection, and conditioning of possibility distributions, as well as the evaluation of fuzzy events.",
+        "citations": 1
+    },
+    {
+        "title": "Fuzzy Set Calculus",
+        "id": "utrtn3cAAAAJ:VjBpw8Hezy4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:VjBpw8Hezy4C",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "In this section we will discuss some of the most fundamental concepts in fuzzy sets: the interpretation and elicitation of membership functions, the calculus of fuzzy relations, and the definition of fuzzy numbers and fuzzy algebras."
+    },
+    {
+        "title": "Handbook of fuzzy computation",
+        "id": "utrtn3cAAAAJ:IHkkN1K1AlAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:IHkkN1K1AlAC",
+        "authors": [
+            "Enrique Ruspini",
+            "Piero Bonissone",
+            "Witold Pedrycz"
+        ],
+        "pub_source": "CRC Press",
+        "pub_date": "2020/3/5",
+        "description": "This handbook provides information about fundamental aspects of the field and explores the myriad applications of fuzzy logic techniques and methods. It presents basic conceptual considerations and case studies of applications of fuzzy computation. The book covers the fundamental concepts and techniques for system modeling, information processing, intelligent system design, decision analysis, statistical analysis, pattern recognition, automated learning, and system control and identification. It also discusses the combination of fuzzy computation techniques with other computational intelligence approaches such as neural and evolutionary computation.",
+        "citations": 229
+    },
+    {
+        "title": "Basic concepts and history of fuzzy set theory and fuzzy logic",
+        "id": "utrtn3cAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "The principal difference between classical sets and fuzzy sets is described and the motivation for introducing fuzzy sets is discussed. Basic concepts of classical set theory and fuzzy set theory are introduced and compared. The connection between fuzzy set theory and fuzzy logic is discussed and basic components of fuzzy logic are introduced. A brief overview of the history of fuzzy set theory is presented.",
+        "citations": 8
+    },
+    {
+        "title": "Operations on fuzzy sets",
+        "id": "utrtn3cAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "Properties of fuzzy complements, intersections (T-norms), and unions (T-conorms) are introduced and illustrated by respective classes of each of these types of operation. Their representations in terms of generators and the associated methods for generating new operations are described. Pairs of dual fuzzy intersections and unions that satisfy some specified laws are discussed. Properties of general aggregation operations on fuzzy sets are introduced and some important types of aggregation operations distinct from T-norms and T-conorms are examined. They include averaging operations of various types (weighted generalized means, ordered weighted averages or OWA operations, medians or \u03bb-averages, norm operations) and compensative operations.",
+        "citations": 6
+    },
+    {
+        "title": "They might not be giants crafting black-box adversarial examples using particle swarm optimization",
+        "id": "utrtn3cAAAAJ:rpSJNIKeXWsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:rpSJNIKeXWsC",
+        "authors": [
+            "Rayan Mosli",
+            "Matthew Wright",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "Computer Security\u2013ESORICS 2020: 25th European Symposium on Research in Computer Security, ESORICS 2020, Guildford, UK, September 14\u201318, 2020, Proceedings, Part II 25",
+        "pub_date": "2020",
+        "description": "As machine learning is deployed in more settings, including in security-sensitive applications such as malware detection, the risks posed by adversarial examples that fool machine-learning classifiers have become magnified. Black-box attacks are especially dangerous, as they only require the attacker to have the ability to query the target model and observe the labels it returns, without knowing anything else about the model. Current black-box attacks either have low success rates, require a high number of queries, produce adversarial images that are easily distinguishable from their sources, or are not flexible in controlling the outcome of the attack. In this paper, we present AdversarialPSO, (Code available: https://github.com/rhm6501/AdversarialPSOImages) a black-box attack that uses few queries to create adversarial examples with high success rates. AdversarialPSO is based on Particle Swarm Optimization, a\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "They might not be giants: Crafting black-box adversarial examples with fewer queries using particle swarm optimization",
+        "id": "utrtn3cAAAAJ:tgTmbKTkO1IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:tgTmbKTkO1IC",
+        "authors": [
+            "Rayan Mosli",
+            "Matthew Wright",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "arXiv preprint arXiv:1909.07490",
+        "pub_date": "2019/9/16",
+        "description": "Machine learning models have been found to be susceptible to adversarial examples that are often indistinguishable from the original inputs. These adversarial examples are created by applying adversarial perturbations to input samples, which would cause them to be misclassified by the target models. Attacks that search and apply the perturbations to create adversarial examples are performed in both white-box and black-box settings, depending on the information available to the attacker about the target. For black-box attacks, the only capability available to the attacker is the ability to query the target with specially crafted inputs and observing the labels returned by the model. Current black-box attacks either have low success rates, requires a high number of queries, or produce adversarial examples that are easily distinguishable from their sources. In this paper, we present AdversarialPSO, a black-box attack that uses fewer queries to create adversarial examples with high success rates. AdversarialPSO is based on the evolutionary search algorithm Particle Swarm Optimization, a populationbased gradient-free optimization algorithm. It is flexible in balancing the number of queries submitted to the target vs the quality of imperceptible adversarial examples. The attack has been evaluated using the image classification benchmark datasets CIFAR-10, MNIST, and Imagenet, achieving success rates of 99.6%, 96.3%, and 82.0%, respectively, while submitting substantially fewer queries than the state-of-the-art. We also present a black-box method for isolating salient features used by models when making classifications. This method, called\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "On the viability of data collection using Google Rapid Response for enterprise-level malware research",
+        "id": "utrtn3cAAAAJ:ufKn5pxu7C0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:ufKn5pxu7C0C",
+        "authors": [
+            "Rayan Mosli",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "Digital Investigation",
+        "pub_date": "2018/7/1",
+        "description": "With the increasing number of attacks on enterprises, which often involves the deployment of some form of malware, an automated method for performing large-scale triage has become essential to the timely resolution of an incident. The purpose of this project is to combine the data collection capabilities of Google Rapid Response (GRR) with the flexible automation of Cuckoo Sandbox, to collect data for training machine learning models that perform triage on enterprise machines. To evaluate the viability of this approach, we investigate the artifacts that can be collected using GRR and whether they provide salient features for triage automation. Furthermore, we consider the speed of data collection and the consistency of the collected data when scaling the analysis environment to include more machines. Moreover, we develop multiple simulations of benign computer usage for both generating the benign dataset\u00a0\u2026"
+    },
+    {
+        "title": "A behavior-based approach for malware detection",
+        "id": "utrtn3cAAAAJ:wkm4DBaukwsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:wkm4DBaukwsC",
+        "authors": [
+            "Rayan Mosli",
+            "Rui Li",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "Advances in Digital Forensics XIII: 13th IFIP WG 11.9 International Conference, Orlando, FL, USA, January 30-February 1, 2017, Revised Selected Papers 13",
+        "pub_date": "2017",
+        "description": "Malware is the fastest growing threat to information technology systems. Although a single absolute solution for defeating malware is improbable, a stacked arsenal against malicious software enhances the ability to maintain security and privacy. This research attempts to reinforce the anti-malware arsenal by studying a behavioral activity common to software \u2013 the use of handles. The characteristics of handle usage by benign and malicious software are extracted and exploited in an effort to distinguish between the two classes. An automated malware detection mechanism is presented that utilizes memory forensics, information retrieval and machine learning techniques. Experimentation with a malware dataset yields a malware detection rate of 91.4% with precision and recall of 89.8% and 91.1%, respectively.",
+        "citations": 45
+    },
+    {
+        "title": "Automated malware detection using artifacts in forensic memory images",
+        "id": "utrtn3cAAAAJ:oAywNP-vUhwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:oAywNP-vUhwC",
+        "authors": [
+            "Rayan Mosli",
+            "Rui Li",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "2016 IEEE Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2016/5/10",
+        "description": "Malware is one of the greatest and most rapidly growing threats to the digital world. Traditional signature-based detection is no longer adequate to detect new variants and highly targeted malware. Furthermore, dynamic detection is often circumvented with anti-VM and/or anti-debugger techniques. Recently heuristic approaches have been explored to enhance detection accuracy while maintaining the generality of a model to detect unknown malware samples. In this paper, we investigate three feature types extracted from memory images - registry activity, imported libraries, and API function calls. After evaluating the importance of the different features, different machine learning techniques are implemented to compare performances of malware detection using the three feature types, respectively. The highest accuracy achieved was 96%, and was reached using a support vector machine model, fitted on data\u00a0\u2026",
+        "citations": 88
+    },
+    {
+        "title": "Recommending people to follow using asymmetric factor models with social graphs",
+        "id": "utrtn3cAAAAJ:eFf2swCANGcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:eFf2swCANGcC",
+        "authors": [
+            "Tianle Ma",
+            "Yujiu Yang",
+            "Liangwei Wang",
+            "Bo Yuan"
+        ],
+        "pub_source": "Soft Computing in Industrial Applications: Proceedings of the 17th Online World Conference on Soft Computing in Industrial Applications",
+        "pub_date": "2014",
+        "description": "Traditional recommendation techniques often rely on the user-item rating matrix, which explicitly represents a user\u2019s preference among items. Recent studies on recommendations in the scenario of social networks still largely follow this principle. However, the challenge of recommending people to follow in social networks has yet to be studied thoroughly. In this paper, by using the utility instead of ratings and randomly sampling the negative cases in the recommendation log to create a balanced training dataset, we apply the popular matrix factorization techniques to predict whether a user will follow the person recommended or not. The asymmetric factor models are built with an extended item set incorporating the social graph information, which greatly improves the prediction accuracy. Other factors such as sequential patterns, CTR bias, and temporal dynamics are also exploited, which produce promising\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Towards a web tracking profiling algorithm",
+        "id": "utrtn3cAAAAJ:UxriW0iASnsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:UxriW0iASnsC",
+        "authors": [
+            "William Huba",
+            "Bo Yuan",
+            "Yin Pan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2013 IEEE International Conference on Technologies for Homeland Security (HST)",
+        "pub_date": "2013/11/12",
+        "description": "Accurate tracking of web attackers can be used to identify and monitor repeat offenders, and to allow defenders to deter and/or retaliate against the attackers. Tracking of web clients has been difficult since HTTP is a stateless protocol. Existing methods are limited to the current session and are not designed to track a client long-term or through different environments. This paper evaluates and rates the most popular methods of tracking web users in terms of the uniqueness of the information provided by them, and how well they preserve information when a client attempts to remove them. The tracking methods are then combined using a profiling algorithm to correlate all of the available information into a single profile. The algorithm is designed with different weights for each method. Test results demonstrate that this approach accurately determines the correct profile for a client in situations where the individual\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Measure oriented training: a targeted approach to imbalanced classification problems",
+        "id": "utrtn3cAAAAJ:Nufq_to8ts0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:Nufq_to8ts0C",
+        "authors": [
+            "Bo Yuan",
+            "Wenhuang Liu"
+        ],
+        "pub_source": "Frontiers of Computer Science",
+        "pub_date": "2012/10",
+        "description": "Since the overall prediction error of a classifier on imbalanced problems can be potentially misleading and biased, alternative performance measures such as G-mean and F-measure have been widely adopted. Various techniques including sampling and cost sensitive learning are often employed to improve the performance of classifiers in such situations. However, the training process of classifiers is still largely driven by traditional error based objective functions. As a result, there is clearly a gap between themeasure according to which the classifier is evaluated and how the classifier is trained. This paper investigates the prospect of explicitly using the appropriate measure itself to search the hypothesis space to bridge this gap. In the case studies, a standard threelayer neural network is used as the classifier, which is evolved by genetic algorithms (GAs) with G-mean as the objective function. Experimental\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Employing Entropy in the detection and monitoring of network covert channels",
+        "id": "utrtn3cAAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "Chaim Sanders",
+            "Jacob Valletta",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Proceedings of the 2012 International Conference on Security and Management, Jaipur, India",
+        "pub_date": "2012/10",
+        "description": "The detection of covert channels has quickly become a vital need due to their pervasive nature and the increasing popularity of the Internet. In recent years, new and innovative methods have been proposed to aid in the detection of covert channels. Existing detection schemes are often too specific and are ineffective against new covert channels. In this paper, we expound upon previous work done with timing channels and apply it to detecting covert storage channels. Our approach is based on the assumption that the entropy of covert channels will vary from that of previously observed, legitimate, communications. This change in the entropy of a process provides us with a method for identifying storage channels. Using this assumption we created proof of concept code capable of detecting various covert storage channels. The results of our experiments demonstrate that we can successfully detect existing and\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Layout-based substitution tree indexing and retrieval for mathematical expressions",
+        "id": "utrtn3cAAAAJ:cFHS6HbyZ2cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:cFHS6HbyZ2cC",
+        "authors": [
+            "Thomas Schellenberg",
+            "Bo Yuan",
+            "Richard Zanibbi"
+        ],
+        "pub_source": "Document Recognition and Retrieval XIX",
+        "pub_date": "2012/1/23",
+        "description": "We introduce a new system for layout-based (LATEX) indexing and retrieval of mathematical expressions using substitution trees. Substitution trees can efficiently store and find expressions based on the similarity of their symbols, symbol layout, sub-expressions and size. We describe our novel implementation and some of our modifications to the substitution tree indexing and retrieval algorithms. We provide an experiment testing our system against the TF-IDF keyword-based system of Zanibbi and Yuan and demonstrate that, in many cases, the quality of search results returned by both systems is comparable (overall means, substitution tree vs. keywordbased: 100% vs. 89% for top 1; 48% vs. 51% for top 5; 22% vs. 28% for top 20). Overall, we present a promising first attempt at layout-based substitution tree indexing and retrieval for mathematical expressions and believe that this method will prove beneficial to the\u00a0\u2026",
+        "citations": 39
+    },
+    {
+        "title": "A physical channel in a digital world",
+        "id": "utrtn3cAAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Michael D Deffenbaugh",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "Gaming has always been a very prevalent part of our society. There is a long history of using various board games as methods of covert communication, from what we could call \u201cdifferential\u201d communication (ie the movement of pieces constitutes the \u201clanguage\u201d) to the idea of \u201cgame state\u201d communication (where the current state of all the manipulatable objects in the game world represents a message). For many years we have seen covert channels in games like chess, checkers and other simple board games and even evolution to more \u201ccomplex\u201d computer games like magnetron. Enter the 21st century and the advent of the high performance personal computer.",
+        "citations": 6
+    },
+    {
+        "title": "Audio Steganography Using High Frequency Noise Introduction",
+        "id": "utrtn3cAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "David Wheeler",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "",
+        "pub_date": "2012",
+        "description": "This paper presents a new method of audio steganography that allows character data to be encoded into audio in a way that is indiscernible to prying third-parties. Unlike typical methods of audio steganography that propose storage by modifying the least significant bits or the phase of the audio data, this approach makes use of frequency ranges that are undetectable to the human ear. The method proposed in this paper provides for a reasonably high-bandwidth and is resistant to common detection and prevention techniques.",
+        "citations": 7
+    },
+    {
+        "title": "Webpage source based covert channel",
+        "id": "utrtn3cAAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "Tarun Madiraju",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2012",
+        "description": "Covert Channels can be used for enabling hidden communication mechanisms that can facilitate secret message transfer. This paper presents a new covert channel based on the HTML source of a webpage. The new covert channel while featuring high bandwidth also demonstrates high imperceptibility as it doesn\u2019t involve any modifications to the source or the visibility of the webpage and is independent of timing of page requests. The availability of page source for a webpage on the Internet makes this covert channel easy to implement and effective.",
+        "citations": 1
+    },
+    {
+        "title": "UPnp Port Manipulation as a Covert Channel",
+        "id": "utrtn3cAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Steven Monette",
+            "Daryl Johnson",
+            "Peter Lutz",
+            "Bo Yuan"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2012",
+        "description": "Port knocking traditionally has been a technique used from external connections to convey information to or request services from an internal private network [1]. UPnP as a standard allows for devices and services to open ports on network devices in order to enable functionality [2]. By combining these two techniques it is possible to port knock internally, opening ports for an intended viewer on an external network device. This paper proposes a covert channel using this technique to exfiltrate data or broadcast messages from a system behind a UPnP device to any Internet connected system.",
+        "citations": 1
+    },
+    {
+        "title": "Covert channel in the bittorrent tracker protocol",
+        "id": "utrtn3cAAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Joseph Desimone",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2012",
+        "description": "Covert channels have the unique quality of masking evidence that a communication has ever occurred between two parties. For spies and terrorist cells, this quality can be the difference between life and death. However, even the detection of communications in a botnet could be troublesome for its creators. To evade detection and prevent insights into the size and members of a botnet, covert channels can be used. A botnet should rely on covert channels built on ubiquitous protocols to blend in with legitimate traffic. In this paper, we propose a covert channel built on the BitTorrent peer-to-peer protocol. In a simple application, this covert channel can be used to discretely and covertly send messages between two parties. However, this covert channel can also be used to stealthily distribute commands or the location of a command and control server for use in a botnet.",
+        "citations": 11
+    },
+    {
+        "title": "A covert channel in ttl field of dns packets",
+        "id": "utrtn3cAAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Christopher Hoffman",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "",
+        "pub_date": "2012",
+        "description": "Covert channels are used as a means of secretly transferring information when there is a need to hide the fact that communication is taking place. With the vast amount of traffic on the internet, network protocols have become a common vehicle for covert channels, typically hiding information in the header fields of packets. Domain name service (DNS) packets contain a 32-bit time to live (TTL) fields for each response record. This is the number of seconds the entry is valid for before caching servers remove the entry. There is no prescribed value for this field making it an ideal covert carrier.",
+        "citations": 7
+    },
+    {
+        "title": "A covert channel over transport layer source ports",
+        "id": "utrtn3cAAAAJ:g5m5HwL7SMYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:g5m5HwL7SMYC",
+        "authors": [
+            "James Gimbi",
+            "Daryl Johnson",
+            "Peter Lutz",
+            "Bo Yuan"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "Covert communication is a rapidly expanding field of research with significant impact on the security theater. These communication methods, or \u201ccovert channels\u201d, can be applied in a number of ways, including as a mechanism for an attacker to leak data from a monitored system or network. This paper sets out to contribute to this field by introducing a new covert channel which operates over transport layer protocols. The mechanism is flexible, covert, and has the potential to operate at relatively high bandwidth. In addition, this paper proposes a number of encoding schemes which can be used in conjunction with this channel to improve its bandwidth and covertness.",
+        "citations": 4
+    },
+    {
+        "title": "A behavior based covert channel within anti-virus updates",
+        "id": "utrtn3cAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "D Anthony",
+            "D Johnson",
+            "P Lutz",
+            "B Yuan"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2012",
+        "description": "This paper presents a new behavior based covert channel utilizing the database update mechanism of anti-virus software. It is highly covert due to unattended, frequent, automatic signature database update operations performed by the software. The design of the covert channel is described; its properties are discussed and demonstrated by a reference implementation. This paper uses these points to strengthen the inclusion of behavior-based covert channels within standard covert channel taxonomy.",
+        "citations": 4
+    },
+    {
+        "title": "A http cookie covert channel",
+        "id": "utrtn3cAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "William Huba",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Proceedings of the 4th International Conference on Security of Information and Networks",
+        "pub_date": "2011/11/14",
+        "description": "This paper presents a new covert channel based on Google Analytic web cookies in HTTP protocol. The new covert channel is difficult to disrupt and is capable of reasonably high bandwidths. The Google Analytic framework is used by over half of the most popular web sites currently on the Internet; its ubiquitousness across the web implies a great impact of this covert.",
+        "citations": 11
+    },
+    {
+        "title": "Construction of trainable semantic vectors and clustering, classification, and searching using trainable semantic vectors",
+        "id": "utrtn3cAAAAJ:iKswqCX-FLkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:iKswqCX-FLkC",
+        "authors": [
+            "RJ Calistri-Yeh",
+            "B Yuan",
+            "GB Osborne",
+            "DL Snyder"
+        ],
+        "pub_source": "US Patent 8,024,331",
+        "pub_date": "2011/9/20",
+        "description": "An apparatus and method are disclosed for producing a semantic representation of information in a semantic space. The information is first represented in a table that stores values which indicate a relationship with predetermined cat egories. The categories correspond to dimensions in the semantic space. The significance of the information with respect to the predetermined categories is then determined. A trainable semantic vector (TSV) is constructed to provide a semantic representation of the information. The TSV has dimensions equal to the number of predetermined categories and represents the significance of the information relative to each of the predetermined categories. Various types of manipulation and analysis, such as searching, classification, and clustering, can Subsequently be performed on a semantic level.",
+        "citations": 93
+    },
+    {
+        "title": "Advertisement placement method and system using semantic analysis",
+        "id": "utrtn3cAAAAJ:BqipwSGYUEgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:BqipwSGYUEgC",
+        "authors": [
+            "RJ Calistri-Yeh",
+            "W Ruan",
+            "CP Mah",
+            "ML Howatt",
+            "ME McKenna",
+            "MJ Forrester",
+            "..."
+        ],
+        "pub_source": "US Patent 7,912,868",
+        "pub_date": "2011/3/22",
+        "description": "An advertisement placement method and system for relating an advertisement to a dataset based on a trainable semantic vector (TSV) associated with the dataset and respective semantic representations of the advertisements. The trainable semantic vector associated with the dataset is generated based on at least one data point included in the dataset and known relationships between predetermined data points and prede termined categories. A comparison process is performed to determine a similarity between the trainable semantic vector associated with the dataset and the semantic representation associated with each of the plurality of advertisements. The system selectively relates one or more of the advertisements with the dataset based on a result of the comparison process. The selected advertisement or advertisements may be dis played with the dataset.",
+        "citations": 66
+    },
+    {
+        "title": "Keyword and image-based retrieval of mathematical expressions",
+        "id": "utrtn3cAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Richard Zanibbi",
+            "Bo Yuan"
+        ],
+        "pub_source": "Document Recognition and Retrieval XVIII",
+        "pub_date": "2011/1/24",
+        "description": "Two new methods for retrieving mathematical expressions using conventional keyword search and expression images are presented. An expression-level TF-IDF (term frequency-inverse document frequency) approach is used for keyword search, where queries and indexed expressions are represented by keywords taken from LATEX strings. TF-IDF is computed at the level of individual expressions rather than documents to increase the precision of matching. The second retrieval technique is a form of Content-Based Image Retrieval (CBIR). Expressions are segmented into connected components, and then components in the query expression and each expression in the collection are matched using contour and density features, aspect ratios, and relative positions. In an experiment using ten randomly sampled queries from a corpus of over 22,000 expressions, precision-at-k (k = 20) for the keyword-based\u00a0\u2026",
+        "citations": 38
+    },
+    {
+        "title": "A HTTP cookie covert channel",
+        "id": "utrtn3cAAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz",
+            "William Huba"
+        ],
+        "pub_source": "",
+        "pub_date": "2011",
+        "description": "This paper presents a new covert channel based on Google Analytic web cookies in HTTP protocol. The new covert channel is difficult to disrupt and is capable of reasonably high bandwidths. The Google Analytic framework is used by over half of the most popular web sites currently on the Internet; its ubiquitousness across the web implies a great impact of this covert channel."
+    },
+    {
+        "title": "Network Security Auditing",
+        "id": "utrtn3cAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Yin Pan",
+            "Bo Yuan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Network Security, Administration and Management: Advancing Technology and Practice",
+        "pub_date": "2011",
+        "description": "As people increasingly rely on computer systems and networks for services such as online banking, online shopping, and socialization, information security for identity protection and privacy has become more important today than ever. Businesses and organizations are also obligated to provide such security to comply with state and federal laws and regulations. Managing security risks and ensuring compliance with information security regulations and industry standards have become important for businesses and organizations. Security auditing is an effective process to assess policies, procedures, and controls in identifying risks associated with networks and various operating systems. This chapter emphasizes network security audits and discusses various auditing procedures and technologies to identify and examine threats and vulnerabilities in computer networks, and to determine how to assess and manage\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Behavior-based covert channel in cyberspace",
+        "id": "utrtn3cAAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Daryl Johnson",
+            "Peter Lutz",
+            "Bo Yuan"
+        ],
+        "pub_source": "Intelligent decision making systems",
+        "pub_date": "2010",
+        "description": "Many covert channels take advantages of weaknesses, flaws, or unused data fields in network protocols. In this paper, a behavior-based covert channel, that takes advantages of behavior of an application, is presented along with a formal definition in the framework of finite state machines. The behavior-based covert channel is application specific and lies at the application layer of the network OSI model, which makes the detection of this type of covert channel much more difficult. A detailed sample implementation demonstrates an example of this type of covert channel in the form of a simple online two-person game.The potential of this type of covert channel is also discussed.",
+        "citations": 23
+    },
+    {
+        "title": "A covert channel in RTP protocol",
+        "id": "utrtn3cAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:mB3voiENLucC",
+        "authors": [
+            "CHRISTOPHER FORBES",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Computational Intelligence: Foundations and Applications",
+        "pub_date": "2010",
+        "description": "A new covert channel over the RTP protocol is designed and implemented by modifying the timestamp value in the RTP header. Due to the high frequency of RTP packets, the covert channel has a high bit-rate, theoretically up to 350 bps. The broad use of RTP for multimedia applications such as VoIP, provides abundant opportunities to such a covert channel to exist. By using the RTP header, many of the challenges present for covert channels using the RTP payload are avoided. A reference implementation of this covert channel is presented. Bit-rates of up to 325 bps were observed. The channel is very difficult to detect due to expected variations in the timestamp field and the flexible nature of RTP.",
+        "citations": 2
+    },
+    {
+        "title": "ICMP covert channel resiliency",
+        "id": "utrtn3cAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Kristian Stokes",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Technological Developments in Networking, Education and Automation",
+        "pub_date": "2010",
+        "description": "The ICMP protocol has been widely used and accepted as a covert channel. While the ICMP protocol is very simple to use, modern security approaches such as Firewalls, deep-packet inspection and intrusion detection systems threaten the use of ICMP for a reliable means for a covert channel. This study explores the modern usefulness of ICMP with typical security measures in place. Existing ICMP covert channel solutions are examined for compliance with standard RFCs and resiliency with modern security approaches.",
+        "citations": 10
+    },
+    {
+        "title": "Covert channels in the HTTP network protocol: Channel characterization and detecting Man-in-the-Middle attacks",
+        "id": "utrtn3cAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Erik Brown",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Journal of Information Warfare",
+        "pub_date": "2010/1/1",
+        "description": "Network covert channels allow two entities to communicate stealthily. Hypertext Transfer Protocol (HTTP), accounting for approximately half of all traffic on the Internet (Burke, 2007), has become the de facto standard for hiding network covert channels. Proliferation of covert channels throughout the World Wide Web has brought both challenges and enhancements to the area of Information Warfare. This paper defines a set of common characteristics, then classifies and analyzes several known and new covert channels in HTTP with respect to these characteristics. Lastly, this paper proposes that there are beneficial applications of network covert channels, such as detecting Man-in-the-Middle attacks.",
+        "citations": 46
+    },
+    {
+        "title": "An evolutionary approach to underwater sensor deployment",
+        "id": "utrtn3cAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Erik F Golen",
+            "Bo Yuan",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "Proceedings of the 11th Annual conference on Genetic and evolutionary computation",
+        "pub_date": "2009/7/8",
+        "description": "Underwater acoustic sensor deployment for military surveillance is a significant challenge due to the inherent difficulties posed by the underwater channel in terms of sensing and communications between sensors, as well as the exorbitant cost of the sensors. Thus, these sensors must be deployed as efficiently as possible. The proposed Underwater Sensor Deployment Evolutionary Algorithm (USDEA) considers six important factors that have not yet been simultaneously considered due to the ensuing complexity of the problem. Sensing capability tradeoffs are shown through simulation of two sensor network topologies, mesh and cluster.",
+        "citations": 9
+    },
+    {
+        "title": "Underwater sensor deployment using an evolutionary algorithm",
+        "id": "utrtn3cAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Erik F Golen",
+            "Bo Yuan",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "Proceedings of the 2009 International Conference on Wireless Communications and Mobile Computing: Connecting the World Wirelessly",
+        "pub_date": "2009/6/21",
+        "description": "Underwater sensor deployment is a significant challenge due to the inherent difficulties posed by the underwater channel in terms of sensing and communications between sensors. In addition, monetary constraints arising from the cost of sensors and deploying them, limit the number of available sensors. As a result, these sensors must be deployed as efficiently as possible. This work presents the Underwater Sensor Deployment Evolutionary Algorithm (USDEA), which uses environmental data and several factors not simultaneously considered, due to the ensuing complexity, including sensing and communications range, to generate highly capable underwater sensor fields. Tradeoffs in field sensing capabilities are shown through a simulation study for two popular sensor network topologies, mesh and cluster.",
+        "citations": 14
+    },
+    {
+        "title": "ICMP convert channel resiliency",
+        "id": "utrtn3cAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Kristian Stokes"
+        ],
+        "pub_source": "",
+        "pub_date": "2009"
+    },
+    {
+        "title": "Construction of trainable semantic vectors and clustering, classification, and searching using trainable semantic vectors",
+        "id": "utrtn3cAAAAJ:It0W0vAlS5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:It0W0vAlS5QC",
+        "authors": [
+            "RJ Calistri-Yeh",
+            "B Yuan",
+            "GB Osborne",
+            "DL Snyder"
+        ],
+        "pub_source": "US Patent 7,406,456",
+        "pub_date": "2008/7/29",
+        "description": "An apparatus and method are disclosed for producing a semantic representation of information in a semantic space. The information is first represented in a table that stores values which indicate a relationship with predetermined cat egories. The categories correspond to dimensions in the semantic space. The significance of the information with respect to the predetermined categories is then determined. A trainable semantic vector (TSV) is constructed to provide a semantic representation of the information. The TSV has dimensions equal to the number of predetermined categories and represents the significance of the information relative to each of the predetermined categories. Various types of manipulation and analysis, such as searching, classification, and clustering, can Subsequently be performed on a semantic level.",
+        "citations": 64
+    },
+    {
+        "title": "Construction of trainable semantic vectors and clustering, classification, and searching using trainable semantic vectors",
+        "id": "utrtn3cAAAAJ:yZoBfgUKqwcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:yZoBfgUKqwcC",
+        "authors": [
+            "RJ Calistri-Yeh",
+            "B Yuan",
+            "GB Osborne",
+            "DL Snyder"
+        ],
+        "pub_source": "US Patent 7,299,247",
+        "pub_date": "2007/11/20",
+        "description": "An apparatus and method are disclosed for producing a semantic representation of information in a semantic space. The information is first represented in a table that stores values which indicate a relationship with predetermined categories. The categories correspond to dimensions in the semantic space. The significance of the information with respect to the predetermined categories is then determined. A trainable semantic vector (TSV) is constructed to provide a semantic representation of the information. The TSV has dimensions equal to the number of predetermined categories and represents the significance of the information relative to each of the predetermined categories. Various types of manipulation and analysis, such as searching, classification, and clustering, can subsequently be performed on a semantic level.",
+        "citations": 28
+    },
+    {
+        "title": "Secure communications with an asymptotic secrecy model",
+        "id": "utrtn3cAAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Bo Yuan"
+        ],
+        "pub_source": "Knowledge-Based Systems",
+        "pub_date": "2007/6/1",
+        "description": "As knowledge based systems become more sophisticated, communications between systems or among their subsystems often conducted over public channels such as the Internet, wireless medium, etc. To secure communications over public channels, the most often used method is Diffie and Hellman\u2019s public key infrastructure approach. This method requires a trusted third party to verify identifies, which does not play well with independent knowledge based systems, especially in the case of autonomous agents. In this paper, we proposes an asymptotic secrecy model to secure communications between and within knowledge based systems over public channels. The new model assumes that adversaries are storage space bounded, but not computationally bounded. At the initial phase of the secret communication, both parties exchange a large amount of random bits so that adversaries are not able to save all of\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "An Asymptotic Secrecy Model and Intelligent Systems",
+        "id": "utrtn3cAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Bo Yuan"
+        ],
+        "pub_source": "Retrieved from",
+        "pub_date": "2007",
+        "description": "This paper proposes a new model for secure communication channels between two parties. The new model assumes that adversaries are storage space bounded, but not computationally bounded. At the initial phase of the secret communication, both parties exchange a large amount of random bits so that adversaries are not able to save them due to the storage space limitation. Each party only saves received data. At the second phase, each party regenerates the random bits, combines with received data, and generates an encryption key iteratively with a one-way hash function. The key is, then, used to encrypt the first transmission from one party to the other. After each transmission, the key is updated iteratively based on data received. The relationships between the model and intelligent systems are discussed.",
+        "citations": 1
+    },
+    {
+        "title": "Fuzzy set theory",
+        "id": "utrtn3cAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "George J Klir"
+        ],
+        "pub_source": "Wiley-IEEE Press",
+        "pub_date": "2006",
+        "description": "Relevant concepts of fuzzy set theory are introduced in this chapter to make the book self-contained. The focus is on standard fuzzy sets, but an overview of well-known nonstandard fuzzy sets is also included. The following concepts are covered for standard fuzzy sets: <?jws-char entity=\u03b1 unicode=\u00bf html=?>-cut representation, operations on fuzzy sets, fuzzy numbers and fuzzy arithmetic, fuzzy relations, approximate reasoning, and basic ideas regarding fuzzy systems.",
+        "citations": 16
+    },
+    {
+        "title": "A covert channel in packet switching data networks",
+        "id": "utrtn3cAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "Proceedings of the Second Upstate New York Workshop on Communications and Networking",
+        "pub_date": "2005/11",
+        "description": "This paper presents a covert communication channel that exists in virtually all forms of packet switching data networks. On the one hand, this covert channel, if used properly, can potentially enhance the overall security of data communications over networks. On the other hand, the covert channel can also potentially become a back door to access a destination computer, and hence becomes a security hazard to the computer. A simple protocol is specified for communications on the covert channel. A modified TFTP application is also presented to demonstrate how to use the covert channel to convey secret messages or to enhance the integrity of data communications. The application also illustrates a back door that leaks client\u2019s data files without user notification. A sliding entropy method is also introduced to detect some cases of covert channels.",
+        "citations": 17
+    },
+    {
+        "title": "An Asymptotic Secrecy Model and Its Applications in Sensor Networks",
+        "id": "utrtn3cAAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "Bo Yuan"
+        ],
+        "pub_source": "",
+        "pub_date": "2005",
+        "description": "This paper proposes a new model for secure communication channels between two parties. The new model assumes that adversaries are storage space bounded, but not computationally bounded. At the initial phase of the secret communication, both parties exchange a large amount of random bits so that adversaries are not able to save them due to the storage space limitation. Each party only saves received data. At the second phase, each party regenerates the random bits, combines them with received data, and generates an encryption key iteratively with a one-way hash function. The key is then used to encrypt the future transmissions from one party to the other. After each transmission, the key is updated iteratively based on data received. Applications of the new model are also discussed."
+    },
+    {
+        "title": "Construction of trainable semantic vectors and clustering, classification, and searching using trainable semantic vectors",
+        "id": "utrtn3cAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "RJ Calistri-Yeh",
+            "B Yuan",
+            "GB Osborne",
+            "DL Snyder"
+        ],
+        "pub_source": "US Patent 6,751,621",
+        "pub_date": "2004/6/15",
+        "description": "Semantic representation of information in a semantic space. The information is first represented in a table that stores values which indicate a relationship with predetermined categories. The categories correspond to dimensions in the Semantic space. The Significance of the information with respect to the predetermined categories is then determined. A trainable semantic vector (TSV) is constructed to provide a semantic representation of the information. The TSV has dimensions equal to the number of predetermined categories and represents the Significance of the information relative to each of the predetermined categories. Various types of manipulation and analysis, Such as Searching, classification, and clustering, can Subsequently be performed on a Semantic level.",
+        "citations": 386
+    },
+    {
+        "title": "Hardware implementations of fuzzy membership functions, operations, and inference",
+        "id": "utrtn3cAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Djuro G Zrilic",
+            "Jaime Ramirez-Angulo",
+            "Bo Yuan"
+        ],
+        "pub_source": "Computers & Electrical Engineering",
+        "pub_date": "2000/1/17",
+        "description": "In this paper, we propose several novel hardware circuits that can be used to design fuzzy logic systems. First, five different fuzzifying circuits, which can be easily embedded into other systems, are presented. Then, two novel defuzzifying schemes based on voltage and charge modes are introduced. Transconductance multipliers are employed to implement a voltage-mode defuzzifier while op amplifiers with floating gates are used to realize a charge-mode defuzzifier. Experimental results and layouts of fabricated chips are also presented. Finally, two novel designs of MIN and MAX circuits are discussed.",
+        "citations": 22
+    },
+    {
+        "title": "Modeling and simulation",
+        "id": "utrtn3cAAAAJ:hEXC_dOfxuUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:hEXC_dOfxuUC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Handbook of Fuzzy Computation",
+        "pub_date": "2020/3/5",
+        "description": "The mathematical formula of granule-based models is given with special emphasis on modeling techniques. For notational simplicity only the single-output case is considered; however, extension to the multi-output case is straightforward. Considering that the crisp and fuzzy inputs can be handled in a similar manner, we assume crisp inputs unless otherwise stated.",
+        "citations": 3
+    },
+    {
+        "title": "Designing pixel-oriented visualization techniques: Theory and applications",
+        "id": "utrtn3cAAAAJ:cdwqcPQS8ssC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:cdwqcPQS8ssC",
+        "authors": [
+            "Daniel A Keim"
+        ],
+        "pub_source": "IEEE Transactions on visualization and computer graphics",
+        "pub_date": "2000/1",
+        "description": "Visualization techniques are of increasing importance in exploring and analyzing large amounts of multidimensional information. One important class of visualization techniques which is particularly interesting for visualizing very large multidimensional data sets is the class of pixel-oriented techniques. The basic idea of pixel-oriented visualization techniques is to represent as many data objects as possible on the screen at the same time by mapping each data value to a pixel of the screen and arranging the pixels adequately. A number of different pixel-oriented visualization techniques have been proposed in recent years and it has been shown that the techniques are useful for visual data exploration in a number of different application contexts. In this paper, we discuss a number of issues which are important in developing pixel-oriented visualization techniques. The major goal of this article is to provide a formal\u00a0\u2026",
+        "citations": 702
+    },
+    {
+        "title": "Fuzzy system and fuzzy logic\u2013theory and practice",
+        "id": "utrtn3cAAAAJ:1xBWf43XMUgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:1xBWf43XMUgC",
+        "authors": [
+            "GJ Klir",
+            "B Yuan"
+        ],
+        "pub_source": "Englewood Cliffs, NJ: Prentice Hall",
+        "pub_date": "1998",
+        "citations": 14
+    },
+    {
+        "title": "An intelligent fuzzy control system",
+        "id": "utrtn3cAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Bo Yuan",
+            "Djuro G Zrilic"
+        ],
+        "pub_source": "1997 Annual Meeting of the North American Fuzzy Information Processing Society-NAFIPS (Cat. No. 97TH8297)",
+        "pub_date": "1997/9/21",
+        "description": "We propose a new architecture of an intelligent fuzzy control system. The basic idea of the system is based on analyzing error responses of a fuzzy control system to adjust its parameters properly. Two simulation results have shown that the proposed system is promising.",
+        "citations": 2
+    },
+    {
+        "title": "Intelligent hybrid systems: fuzzy logic, neural networks, and genetic algorithms",
+        "id": "utrtn3cAAAAJ:_9Xh93LWpsYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:_9Xh93LWpsYC",
+        "authors": [
+            "Da Ruan"
+        ],
+        "pub_source": "Kluwer Academic Publishers",
+        "pub_date": "1997/9/1",
+        "description": "1 Introduction 60 2 Max-min operator networks and fuzzy 8 rule 62 3 Theoretical results 68 4 Fuzzy bidirectional associative memory 73 5 Max-times operator networks 75 6 An extended fuzzy neuron and network 77 7 Relationship with t-norm and t-conorm 80 8 A novel training algorithm-extended fuzzy 8 rule I 81 9 Simulation results 84",
+        "citations": 146
+    },
+    {
+        "title": "Simplified realisation of delta-sigma decoder",
+        "id": "utrtn3cAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Dj Zrilic",
+            "G Petrovic",
+            "Bo Yuan"
+        ],
+        "pub_source": "Electronics Letters",
+        "pub_date": "1997/8/28",
+        "description": "Conclusions: The application of the double logarithmic quantisation of the Walsh spectrum to real ECGs provides results quite comparable with those obtained for a simulated normal sinus rhythm. In a practical environment, and especially in the case of off-line processing where the optimum number of bits used can be determined a priori, the superior performance already found with respect to more conventional Walsh function ECG compression techniques is confirmed.",
+        "citations": 8
+    },
+    {
+        "title": "Bayesian inference of fuzzy probabilities",
+        "id": "utrtn3cAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Yin Pan",
+            "Bo Yuan"
+        ],
+        "pub_source": "International Journal of General System",
+        "pub_date": "1997/6/1",
+        "description": "In this paper, we propose a new method to generalize Bayesian methods both for fuzzy likelihood and fuzzy prior probabilities. Based on interval Bayesian inference developed by Pan and Klir [1996], the proposed method overcomes the difficulty in developing a normalized fuzzy Bayesian inference recognized in the literature [Friihwirth-Schnatter, 1993].",
+        "citations": 55
+    },
+    {
+        "title": "Fuzzy set theory: foundations and applications",
+        "id": "utrtn3cAAAAJ:u_mOZUIutIEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:u_mOZUIutIEC",
+        "authors": [
+            "George J Klir",
+            "Ute St. Clair",
+            "Bo Yuan"
+        ],
+        "pub_source": "Prentice-Hall, Inc.",
+        "pub_date": "1997/4/1",
+        "description": "Recently, a consumer product testing organization tested some cameras that used fuzzy controllers for focusing, and noted that the cameras took fuzzy pictures. The number of products on the market that contain technology based on fuzzy logic and fuzzy set theory is rapidly increasing. Apparently, most applications using fuzzy controllers are more successful than those cameras. Therefore, the appearance of an introductory book such as this, on fuzzy logic and fuzzy set theory, is timely. In the introduction, the authors explain how the notion of fuzziness relates to the uncertainty of measurements and the vagueness of natural language, and they distinguish fuzziness from probability. The next two chapters briefly cover classical logic and set theory. While logical quantifiers are introduced, logical inference is explained only for propositional logic, and the treatment of set theory does not go much beyond Venn diagrams\u00a0\u2026",
+        "citations": 1040
+    },
+    {
+        "title": "Universal approximation of mamdani fuzzy controllers and fuzzy logical controllers",
+        "id": "utrtn3cAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Bo Yuan",
+            "George J Klir"
+        ],
+        "pub_source": "NASA University Research Centers Technical Advances in Education, Aeronautics, Space, Autonomy, Earth and Environment",
+        "pub_date": "1997/2/1",
+        "description": "In this paper, we first distinguish two types of fuzzy controllers, Mamdani fuzzy controllers and fuzzy logical controllers. Mamdani fuzzy controllers are based on the idea of interpolation while fuzzy logical controllers are based on fuzzy logic in its narrow sense, i.e., fuzzy propositional logic. The two types of fuzzy controllers treat IF-THEN rules differently. In Mamdani fuzzy controllers, rules are treated disjunctively. In fuzzy logic controllers, rules are treated conjunctively. Finally, we provide a unified proof of the property of universal approximation for both types of fuzzy controllers.",
+        "citations": 2
+    },
+    {
+        "title": "Piecewise Linear Membership Function Generator-Divider Approach",
+        "id": "utrtn3cAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Ron Hart",
+            "Gene Martinez",
+            "Bo Yuan",
+            "Djuro Zrilic",
+            "Jaime Ramirez"
+        ],
+        "pub_source": "NASA University Research Centers Technical Advances in Education, Aeronautics, Space, Autonomy, Earth and Environment",
+        "pub_date": "1997/2/1",
+        "description": "In this paper a simple, inexpensive, membership function circuit for fuzzy controllers is presented. The proposed circuit may be used to generate a general trapezoidal membership function. The slope and horizontal shift are fully programmable parameters.",
+        "citations": 1
+    },
+    {
+        "title": "Various Hardware Implementations of Membership Function Generators",
+        "id": "utrtn3cAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Djuro G Zrilic",
+            "Jaime Ramirez-Angulo",
+            "Bo Yuan"
+        ],
+        "pub_source": "NASA University Research Centers Technical Advances in Education, Aeronautics, Space, Autonomy, Earth and Environment,",
+        "pub_date": "1997",
+        "description": "The choice of fuzzy set membership functions affects how well fuzzy systems approximate functions. The most common types of fuzzy membership functions are: triangular, trapezoids and Gaussian functions. In this paper, we propose a unified solution in hardware implementations of a wide variety of membership functions of fuzzy set. This provides designers more flexibility in designing fuzzy systems."
+    },
+    {
+        "title": "Hardware implementation of membership function-look-up table approach",
+        "id": "utrtn3cAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Tim Peterson",
+            "Djuro Zrilic",
+            "Jaime Ramirez",
+            "Bo Yuan"
+        ],
+        "pub_source": "NASA University Research Centers Technical Advances in Education, Aeronautics, Space, Autonomy, Earth and Environment,",
+        "pub_date": "1997",
+        "description": "Time critical applications require high processing speeds and fast reconfiguration of membership function parameters. Often these requirements present a dichotomy to designers and trade off results in severe consequences to the applied solution. In addition, the behavioral complexity of control systems determines the characteristic of the controller. To cope with a wide range of applications where processing speed is of prime interest, parallel architecture of the inference processor is the most direct solution. In this paper, considering that the primary aim of hardware implementation is the realization of high speed processing, we introduce a look-up table approach, which can realize high speed fuzzy-logic inference.",
+        "citations": 1
+    },
+    {
+        "title": "Data-driven identification of key variables",
+        "id": "utrtn3cAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Bo Yuan",
+            "George Klir"
+        ],
+        "pub_source": "Intelligent Hybrid Systems: Fuzzy Logic, Neural Networks, and Genetic Algorithms",
+        "pub_date": "1997",
+        "description": "In this chapter, we investigate the following problem: given a data set involving n variables, determine key variables that contribute most to a specific partition of this data set. This problem has a broad applicability, even though it emerged in the context of a particular engineering application\u2014the process of manufacturing electric circuit boards. Two distinct approaches are used for dealing with the problem, each resulting in a particular algorithm. Both algorithms employ evolutionary computation. The first approach is based on the well-known fuzzy c-means algorithm. The principal idea is that we use the full class of Mahalanobis distances, each of which weights the variables involved in a particular way. Using this class of distances, we search by an evolutionary algorithm for the optimal distance\u2014one under which the fuzzy c-means algorithm produces a fuzzy partition of the given data set that is\u00a0\u2026",
+        "citations": 26
+    },
+    {
+        "title": "Bayesian inference based on fuzzy probabilities",
+        "id": "utrtn3cAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Yin Pan",
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Proceedings of IEEE 5th International Fuzzy Systems",
+        "pub_date": "1996/9/11",
+        "description": "We propose fuzzy Bayesian inference on the basis of interval Bayesian inference developed by Pan and Klir. The proposed method overcomes the difficulty in developing a normalized fuzzy Bayesian inference recognized in the literature.",
+        "citations": 18
+    },
+    {
+        "title": "A Review of: \u201cINTELLIGENT DECISION SUPPORT\u201d: Handbook of Applications and Advances of the Rough Set Theory, edited by Roman Slowinski, Kluwer\u00a0\u2026",
+        "id": "utrtn3cAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "BO YUAN"
+        ],
+        "pub_source": "International Journal Of General System 25 (2), 176-177",
+        "pub_date": "1996/8/1",
+        "description": "This book is the eleventh volume in the series\" System Theory, Knowledge Engineering and Problem Solving\". It can be considered as a continuation of\" Rough Sets: Theoretical Aspects of Reasoning About Data\" which is the ninth volume in the same series [Pawlak, 19911. While the previous book focuses on theoretical foundations of rough set theory, this book deals with the most rccent developments and successful applications.Rough set theory is one of currently active research areas dealing with uncertain and imprecise knowledge. The concept of a rough set was first introduced by Pawlak [1982]. However, the idea of a rough set was already presented in 1976 in Shafer's book on evidence theory [Shafer, 19761. In general, a rough set is an imprecise representation of a given set, either crisp or fuzzy, by a lower and upper approximations in terms of equivalence classes that are induced from an equivalence\u00a0\u2026"
+    },
+    {
+        "title": "Constructing fuzzy measures: a new method and its application to cluster analysis",
+        "id": "utrtn3cAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Bo Yuan",
+            "George J Klir"
+        ],
+        "pub_source": "Proceedings of North American Fuzzy Information Processing",
+        "pub_date": "1996/6/19",
+        "description": "We first prove that for a given set of data there exists a fuzzy measure fitting exactly the data if and only if there exists an exact solution of the associated fuzzy relation equation. Secondly, we continue to study the special neural network we proposed in Proc. IFSA'95 World Congress, pp. 61-64 (1995), and describe a learning algorithm for obtaining an approximate fuzzy measure when no one exactly fits the data. Finally, we propose a clustering method based on fuzzy measures and integrals. A benchmark data set, the well-known Iris data set, is adopted to illustrate the method.",
+        "citations": 22
+    },
+    {
+        "title": "A Projection Inequality",
+        "id": "utrtn3cAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Bo Yuan",
+            "George J Klir",
+            "Jiri Fridrich"
+        ],
+        "pub_source": "SIAM Review",
+        "pub_date": "1996/6",
+        "description": "A Projection Inequality | SIAM Review Skip to main content logo Brought to you byGoogle Inc \nSearch Search This Journal Anywhere Books Journals Proceedings Quick Search in Journals \nEnter Search Terms Search Quick Search anywhere Enter Search Terms Search Quick \nSearch anywhere Enter Search Terms Search Quick Search anywhere Enter Search Terms \nSearch Quick Search anywhere Enter Search Terms Search Advanced Search Register Sign \nIn Skip main navigation Menu Journals SIAM Review Multiscale Modeling & Simulation SIAM \nJournal on Applied Algebra and Geometry SIAM Journal on Applied Dynamical Systems SIAM \nJournal on Applied Mathematics SIAM Journal on Computing SIAM Journal on Control and \nOptimization SIAM Journal on Discrete Mathematics SIAM Journal on Financial Mathematics \nSIAM Journal on Imaging Sciences SIAM Journal on Mathematical Analysis SIAM Journal \u2026",
+        "citations": 1
+    },
+    {
+        "title": "Reasoning with propositional knowledge based on fuzzy neural logic",
+        "id": "utrtn3cAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Wangming Wu",
+            "Hoon\u2010Heng Teh",
+            "Bo Yuan"
+        ],
+        "pub_source": "International journal of intelligent systems",
+        "pub_date": "1996/5",
+        "description": "In this article, a new kind of reasoning for propositional knowledge, which is based on the fuzzy neural logic initialed by Teh, is introduced. A fundamental theorem is presented showing that any fuzzy neural logic network can be represented by operations: bounded sum, complement, and scalar product. Propositional calculus of fuzzy neural logic is also investigated. Linear programming problems risen from the propositional calculus of fuzzy neural logic show a great advantage in applying fuzzy neural logic to answer imprecise questions in knowledge\u2010based systems. An example is reconsidered here to illustrate the theory. \u00a9 1996 John Wiley & Sons, Inc.",
+        "citations": 5
+    },
+    {
+        "title": "Fuzzy Sets, Fuzzy Logic, and Fuzzy Systems. Advances in Fuzzy Systems\u2014Applications and Theory",
+        "id": "utrtn3cAAAAJ:xii_ZKWM4-0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:xii_ZKWM4-0C",
+        "authors": [
+            "Lofti A Zadeh",
+            "GJ Klir",
+            "B Yuan"
+        ],
+        "pub_source": "World Scientific Publishing, Singapore. doi",
+        "pub_date": "1996",
+        "citations": 43
+    },
+    {
+        "title": "Approximate Reasoning Based on Regular Inference Functions",
+        "id": "utrtn3cAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "W Wu",
+            "Y Bo"
+        ],
+        "pub_source": "JOURNAL OF FUZZY MATHEMATICS",
+        "pub_date": "1996",
+        "citations": 1
+    },
+    {
+        "title": "Instructor's Manual to Accompany Fuzzy Sets and Fuzzy Logic: Theory and Applications",
+        "id": "utrtn3cAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Prentice Hall PTR",
+        "pub_date": "1996"
+    },
+    {
+        "title": "Data-driven identification of key variables: a fuzzy set approach",
+        "id": "utrtn3cAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Bo Yuan"
+        ],
+        "pub_source": "State University of New York at Binghamton",
+        "pub_date": "1996",
+        "description": "In this dissertation, we investigate a problem raised from a real-world application, surface mount manufacturing. The problem can be abstracted as a general problem: to identify key variables that contribute to a partition of a given data set. We have developed two algorithms that can be applied to dealing with this problem. Both algorithms are based on fuzzy sets, fuzzy measures, fuzzy integrals, and evolutionary strategies.",
+        "citations": 1
+    },
+    {
+        "title": "On nonspecificity of fuzzy sets with continuous membership functions",
+        "id": "utrtn3cAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century",
+        "pub_date": "1995/10/22",
+        "description": "A measure of nonspecificity is proposed for fuzzy sets with continuous membership functions defined, in general, on the n-dimensional Euclidean space R/sup n/. The proposed measure is restricted to fuzzy sets that are convex. The measure is justified in terms of the usual axiomatic requirements.",
+        "citations": 52
+    },
+    {
+        "title": "Bayesian inference based upon fuzzy events",
+        "id": "utrtn3cAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Bo Yuan",
+            "George J Klir"
+        ],
+        "pub_source": "Proceedings of 3rd International Symposium on Uncertainty Modeling and Analysis and Annual Conference of the North American Fuzzy Information Processing Society",
+        "pub_date": "1995/9/17",
+        "description": "The purpose of the paper is to show that, contrary to the claims of some probabilists of the Bayesian trade, probability theory relates to fuzzy set theory in a similar way as it relates to classical set theory. Examining the well known proof by R.T. Cox (1946), whose aim is to justify the rules of classical Bayesian inference, we point to some weaknesses of the proof and show that it does not exclude the possibility of alternative rules of Bayesian inference based on fuzzy events.",
+        "citations": 4
+    },
+    {
+        "title": "Evolutionary fuzzy c-means clustering algorithm",
+        "id": "utrtn3cAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Bo Yuan",
+            "George J Klir",
+            "John F Swan-Stone"
+        ],
+        "pub_source": "Proceedings of 1995 IEEE International Conference on Fuzzy Systems.",
+        "pub_date": "1995/3/20",
+        "description": "In this paper, a new approach to fuzzy clustering is introduced. This approach, which is based on the application of an evolutionary strategy to the fuzzy c-means clustering algorithm, utilizes the relationship between the various definitions of distance and structures implied in each given data set. As soon as a particular definition of distance is chosen, a particular structure in the data set is implied. Therefore, the search for a structure in given data can be viewed as a search for an appropriate definition of distance. We describe an evolutionary algorithm for determining the \"best\" distance for given data, where the criterion of goodness is defined in terms of the performance of the fuzzy c-means clustering method. We discuss relevant theoretical aspects as well as experimental results that characterize the utility of the proposed algorithm.< >",
+        "citations": 100
+    },
+    {
+        "title": "MP and invariant MP approximations of fuzzy inference rules",
+        "id": "utrtn3cAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Wangming Wu",
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "International Journal of General systems",
+        "pub_date": "1995/2/1",
+        "description": "It is well-known that the composition rule of inference which was introduced by Zadeh [1973], does not satisfy the inference rule, modus ponens, in general. It seems a disadvantage of applying it. However, in this paper, we show that we can make modus ponens satisfied by slightly modifying the original IF-THEN rules in the rule base. That is, we can obtain an approximation of the original rules on which modus ponens holds. The related concepts such as MP approximations and invariant MP approximations are introduced. Their properties are investigated. The second issue of this paper is about the invariance of rule adding of a rule base. It is found that in some cases, the function of a rule base is not changed by adding a new rule into the base which is obtained from the base. The relationships between the invariant MP approximation and the invariance of rule addi\u0144g are investigated.",
+        "citations": 1
+    },
+    {
+        "title": "On normal form based interval-valued fuzzy sets and their applications to approximate reasoning",
+        "id": "utrtn3cAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Bo Yuan",
+            "Yin Pan",
+            "Wangming Wu"
+        ],
+        "pub_source": "International Journal of General Systems",
+        "pub_date": "1995/2/1",
+        "description": "In this paper, normal form based interval-valued fuzzy sets, which is initiated by Turksen in 1986, are investigated. It is shown that DNF(\u2022)\u00a0\u2286\u00a0CNF(\u2022) holds for a newly introduced family, called g-family, of conjugate pairs of t-norms and t-conorms. Interval-valued fuzzy set (IVFS) based approximate reasoning is also studied. The generalized compositional rule of inference (GCRI) is applied into interval-valued reasoning. It is proved that Modus Ponens and Syllogism hold for IVFS based GCRI, and we conclude that using GCRI with respect to the g-family is quite reasonable for IVFS based approximate reasoning.",
+        "citations": 30
+    },
+    {
+        "title": "Fuzzy logic: Theory and applications",
+        "id": "utrtn3cAAAAJ:E8ajGqO0XoUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:E8ajGqO0XoUC",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Upper Saddle River, New Jersey NJ",
+        "pub_date": "1995",
+        "citations": 262
+    },
+    {
+        "title": "Prentice hall New Jersey",
+        "id": "utrtn3cAAAAJ:e3CVSTJ63dQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:e3CVSTJ63dQC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Fuzzy sets and fuzzy logic",
+        "pub_date": "1995",
+        "citations": 96
+    },
+    {
+        "title": "Fuzzy sets and fuzzy logic",
+        "id": "utrtn3cAAAAJ:vjZqxyZ7hS4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:vjZqxyZ7hS4C",
+        "authors": [
+            "J Klir George",
+            "Yuan Bo"
+        ],
+        "pub_source": "Editorial Prentice Hall",
+        "pub_date": "1995",
+        "citations": 6
+    },
+    {
+        "title": "Sets and Fuzzy Logic: Theory and Applications",
+        "id": "utrtn3cAAAAJ:cF7EPgIk0B4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:cF7EPgIk0B4C",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Fuzzy Prentice Hall, Upper Saddle River",
+        "pub_date": "1995",
+        "citations": 24
+    },
+    {
+        "title": "B., YUAN",
+        "id": "utrtn3cAAAAJ:nU66GSXDKhoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:nU66GSXDKhoC",
+        "authors": [
+            "George J Klir"
+        ],
+        "pub_source": "Fuzzy Sets and Fuzzy Logic\u2013Theory and Applications",
+        "pub_date": "1995",
+        "citations": 69
+    },
+    {
+        "title": "Fuzzy sets and fuzzy logic. 1995",
+        "id": "utrtn3cAAAAJ:NXYAu82O0W8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:NXYAu82O0W8C",
+        "authors": [
+            "GJ Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Prentice Hall New Jersey",
+        "pub_date": "1995",
+        "citations": 20
+    },
+    {
+        "title": "Data analysis based on evolutionary fuzzy c-means clustering",
+        "id": "utrtn3cAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Bo Yuan",
+            "George Klir"
+        ],
+        "pub_source": "Proceedings of Joint Conference on Information Science",
+        "pub_date": "1995"
+    },
+    {
+        "title": "Constructing fuzzy measures from given data",
+        "id": "utrtn3cAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "GJ Klir",
+            "B Yuan",
+            "JF Swan-Stone"
+        ],
+        "pub_source": "Proc. of the VIth IFSA World Congress, Sao Paulo, Brasil",
+        "pub_date": "1995",
+        "citations": 9
+    },
+    {
+        "title": "Fuzzy sets and fuzzy logic",
+        "id": "utrtn3cAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Prentice hall 4, 1-12",
+        "pub_date": "1995/1",
+        "description": "Fuzzy Sets and Fuzzy Logic is a true magnum opus. An enlargement of Fuzzy Sets, Uncertainty, and Information-an earlier work of Professor Klir and Tina Folger-Fuzzy Sets and Fuzzy Logic addresses practically every significant topic in the broad expanse of the union of fuzzy set theory and fuzzy logic. To me Fuzzy Sets and Fuzzy Logic is a remarkable achievement; it covers its vast territory with impeccable authority, deep insight and a meticulous attention to detail. To view Fuzzy Sets and Fuzzy Logic in a proper perspective, it is necessary to clarify a point of semantics which relates to the meanings of fuzzy sets and fuzzy logic. A frequent source of misunderstanding fins to do with the interpretation of fuzzy logic. The problem is that the term fuzzy logic has two different meanings. More specifically, in a narrow sense, fuzzy logic, FLn, is a logical system which may be viewed as an extension and generalization of classical multivalued logics. But in a wider sense, fuzzy logic, FL, is almost synonymous with the theory of fuzzy sets. In this context, what is important t& recognize is that (a) FLw is much broader than FL, and subsumes FL, as one of its branches;(b) the agenda of FLn is very different from the agendas of classical multivalued logics; and (c) at this juncture, the term fuzzy logic is usually used in its wide rather than narrow sense, effectively equating fuzzy logic with FLT,, In Fuzzy Sets and Fuzzy Logic, fuzzy logic is interpreted in a sense that is close to FLw. However, to avoid misunderstanding, the title refers to both fuzzy sets and fuzzy logic. Underlying the organization of Fuzzy Sets and Fuzzy Logic is a fundamental fact, namely, that any field\u00a0\u2026",
+        "citations": 17594
+    },
+    {
+        "title": "A generalization of Sugeno Integrals",
+        "id": "utrtn3cAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Bo Yuan",
+            "George J Klir"
+        ],
+        "pub_source": "NAFIPS/IFIS/NASA'94. Proceedings of the First International Joint Conference of The North American Fuzzy Information Processing Society Biannual Conference. The Industrial Fuzzy Control and Intellige",
+        "pub_date": "1994/12/18",
+        "description": "In this paper, we generalize the definition of Sugeno integrals by utilizing the so-called median operations, which are a special kind of aggregation operations. The generalized integrals, which we call median integrals, possess almost all common properties of Sugeno integrals. The properties of median integrals are investigated and their significance is discussed.< >",
+        "citations": 15
+    },
+    {
+        "title": "Elkan goes wrong-again",
+        "id": "utrtn3cAAAAJ:nOiSByfp82kC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:nOiSByfp82kC",
+        "authors": [
+            "George Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "IEE\u00e7 Expert",
+        "pub_date": "1994/8/1",
+        "description": "Elkan\u2019s article has three basic parts: a mathematical part consisting of one definition and one theorem; a discussion of the roles played by fuzzy logic in expert systems and control systems (based upon the mathematical part); and his appraisal of the roles of fuzzy logic and its likely significance in the future. Here we discuss the major fallacies we found in the first two; due to space limitations, we will not address the third, though we disagree with almost all of the author\u2019s opinions. As is well known, Elkan\u2019s article is a revised version of his original paper, published last year. These two versions are not fully compatible, especially in the mathematical part. Here, we point out discrepancies between the two versions and address both alternatives.In Definition 1, Elkan introduces a particular system of fuzzy logic by choosing the standard fuzzy operators for conjunction, disjunction, and negation, and by requiring that \u201ct (A)= t\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "The paradoxical success of fuzzy logic",
+        "id": "utrtn3cAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Charles Elkan",
+            "HR Berenji",
+            "B Chandrasekaran",
+            "CJS De Silva",
+            "Y Attikiouzel",
+            "D Dubois",
+            "H Prade",
+            "P Smets",
+            "C Freksa",
+            "ON Garcia",
+            "GJ Klir",
+            "Bo Yuan",
+            "EH Mamdani",
+            "FJ Pelletier",
+            "EH Ruspini",
+            "B Turksen",
+            "N Vadiee",
+            "M Jamshidi",
+            "Pei-Zhuang Wang",
+            "Sie-Keng Tan",
+            "Shaohua Tan",
+            "RR Yager",
+            "LA Zadeh"
+        ],
+        "pub_source": "IEEE expert",
+        "pub_date": "1994/8",
+        "description": "Fuzzy logic methods have been used successfully in many real-world applications, but the foundations of fuzzy logic remain under attack. Taken together, these two facts constitute a paradox. A second paradox is that almost all of the successful fuzzy logic applications are embedded controllers, while most of the theoretical papers on fuzzy methods deal with knowledge representation and reasoning. I hope to resolve these paradoxes by identifying which aspects of fuzzy logic render it useful in practice, and which aspects are inessential. My conclusions are based on a mathematical result, on a survey of literature on the use of fuzzy logic in heuristic control and in expert systems, and on practical experience in developing expert systems.< >",
+        "citations": 465
+    },
+    {
+        "title": "Responses to Elkan (George J. Klir, Bo Yuan)",
+        "id": "utrtn3cAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "IEEE Intelligent Systems",
+        "pub_date": "1994/7/1",
+        "description": "Elkan\u2019s article has three basic parts: a mathematical part consisting of one definition and one theorem; a discussion of the roles played by fuzzy logic in expert systems and control systems (based upon the mathematical part); and his appraisal of the roles of fuzzy logic and its likely significance in the future. Here we discuss the major fallacies we found in the first two; due to space limitations, we will not address the third, though we disagree with almost all of the author\u2019s opinions. As is well known, Elkan\u2019s article is a revised version of his original paper, published last year. These two versions are not fully compatible, especially in the mathematical part. Here, we point out discrepancies between the two versions and address both alternatives.In Definition 1, Elkan introduces a particular system of fuzzy logic by choosing the standard fuzzy operators for conjunction, disjunction, and negation, and by requiring that \u201ct (A)= t\u00a0\u2026"
+    },
+    {
+        "title": "Approximate solutions of systems of fuzzy relation equations",
+        "id": "utrtn3cAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Proceedings of 1994 IEEE 3rd International Fuzzy Systems Conference",
+        "pub_date": "1994/6/26",
+        "description": "We generalize our previous results regarding approximate solutions of fuzzy relation equations (Yuan and Klir, 1993) to systems of fuzzy relation equations. By employing the equality index proposed by Gottwald (1985), we introduce a goodness measure of the performance of approximate solutions and derive a lower bound and an upper bound of solvability of systems of fuzzy relation equations. We also show that our results generalize those presented for one-dimensional fuzzy relation equations (Nola et al., 1989).< >",
+        "citations": 38
+    },
+    {
+        "title": "Responses to Elkan-The Paradoxical Success of Fuzzy Logic",
+        "id": "utrtn3cAAAAJ:8p8iYwVyaVcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:8p8iYwVyaVcC",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "IEEE Expert-Intelligent Systems and Their Applications",
+        "pub_date": "1994"
+    },
+    {
+        "title": "Generalized fuzzy method-of-cases",
+        "id": "utrtn3cAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Bo Yuan",
+            "Yin Pan"
+        ],
+        "pub_source": "International Journal of Approximate Reasoning",
+        "pub_date": "1993/9/1",
+        "description": "In this paper, a more generalized version of fuzzy method-of-cases that was initiated by Ruan Da, E. E. Kerre, et al. in [1] is introduced. The validity of generalized fuzzy method-of-cases (GFMC for short) is investigated under various implication operators.",
+        "citations": 2
+    },
+    {
+        "title": "On approximate solutions of fuzzy relation equations",
+        "id": "utrtn3cAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "B Yuan",
+            "G Klir"
+        ],
+        "pub_source": "Proc Twelfth NAFIPS Workshop",
+        "pub_date": "1993/8/22",
+        "citations": 6
+    },
+    {
+        "title": "On measures of conflict among set-valued statements",
+        "id": "utrtn3cAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "George J Klir",
+            "Bo Yuan"
+        ],
+        "pub_source": "Proceedings of the 1993 World Congress on Neural Networks",
+        "pub_date": "1993/7/11",
+        "citations": 17
+    },
+    {
+        "title": "Fuzzy ideals on a distributive lattice",
+        "id": "utrtn3cAAAAJ:vRqMK49ujn8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:vRqMK49ujn8C",
+        "authors": [
+            "Yuan Bo",
+            "Wu Wangming"
+        ],
+        "pub_source": "Fuzzy sets and systems",
+        "pub_date": "1990/4/13",
+        "description": "We investigate the relationship between fuzzy ideals and fuzzy congruences on a distributive lattice and obtain that the lattice of fuzzy ideals is isomorphic to the lattice of fuzzy congruence on a generalized Boolean algebra. Finally, consider the products of fuzzy ideals.",
+        "citations": 201
+    },
+    {
+        "title": "Homomorphisms and isomorphisms of fuzzy subalgebras",
+        "id": "utrtn3cAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "B Yuan"
+        ],
+        "pub_source": "J. Shanghai Teachers' Univ",
+        "pub_date": "1987",
+        "citations": 5
+    },
+    {
+        "title": "The MAPIT Patent-TSV System",
+        "id": "utrtn3cAAAAJ:KxtntwgDAa4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=utrtn3cAAAAJ:KxtntwgDAa4C",
+        "authors": [
+            "Randy Calistri-Yeh",
+            "Bo Yuan"
+        ],
+        "pub_source": "Version",
+        "pub_date": "",
+        "citations": 10
+    }
+]

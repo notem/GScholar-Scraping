@@ -1,0 +1,260 @@
+"Community Needs and Assets: A Computational Analysis of Community Conversations"
+MTA Chowdhury, N Sharma, AR KhudaBukhsh - Proceedings of the International AAAI Conference on Web and Social Media, 2024
+
+"Community Needs and Assets: A Computational Analysis of Community Conversations"
+MTA Chowdhury, N Sharma, AR KhudaBukhsh - arXiv e-prints, 2024
+
+"Infrastructure Ombudsman: Mining Future Failure Concerns from Structural Disaster Response"
+MTA Chowdhury, S Datta, N Sharma, AR KhudaBukhsh - arXiv preprint arXiv:2402.13528, 2024
+
+"Infrastructure Ombudsman: Mining Future Failure Concerns from Structural Disaster Response"
+MTA Chowdhury, S Datta, N Sharma, AR KhudaBukhsh - arXiv e-prints, 2024
+
+"Third-party software library migration at the method-level using multi-objective evolutionary search"
+N Deshpande, MW Mkaouer, A Ouni, N Sharma - Swarm and Evolutionary Computation, 2024
+
+"Community Asset Ontology for Modeling Community Data using Information Extraction"
+MTA Chowdhury, N Sharma - Proceedings of the 2022 6th International Conference on Natural Language Processing and Information Retrieval, 2022
+
+"Community Learning: Understanding A Community Through NLP for Positive Impact"
+MTA Chowdhury, N Sharma - arXiv preprint arXiv:2210.00590, 2022
+
+"Community Learning: Understanding A Community Through NLP for Positive Impact"
+MTA Chowdhury, N Sharma - arXiv e-prints, 2022
+
+"Online Learning Using Incomplete Execution Data for Self-Adaptive Service-Oriented Systems"
+N Deshpande, N Sharma, Q Yu, DE Krutz - 2022 IEEE International Conference on Web Services (ICWS), 2022
+
+"Search-based third-party library migration at the method-level"
+N Deshpande, MW Mkaouer, A Ouni, N Sharma - International Conference on the Applications of Evolutionary Computation (Part of EvoStar), 2022
+
+"LotRec: A Recommender for Urban Vacant Lot Conversion"
+MTA Chowdhury, N Sharma - arXiv preprint arXiv:2202.02481, 2022
+
+"Citizenly: A platform to encourage data-driven decision making for the community by the community"
+MTA Chowdhury, N Sharma - 2021 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), 2021
+
+"R-CASS: Using algorithm selection for self-adaptive service oriented systems"
+N Deshpande, N Sharma, Q Yu, DE Krutz - 2021 IEEE International Conference on Web Services (ICWS), 2021
+
+"Algorithm selection using transfer learning"
+N Deshpande, N Sharma - Proceedings of the Genetic and Evolutionary Computation Conference Companion, 2021
+
+"Creating an Inclusive, Vibrant Learning Environment within a Large Software Engineering Program–Experiential Learning Experiences Created for Students, Faculty, and Senior …"
+MB Bailey, N Sharma, L Verschage, TT Conlon - 2021 CoNECD, 2021
+
+"Composition algorithm adaptation in service oriented systems"
+N Deshpande, N Sharma - European Conference on Software Architecture, 2020
+
+"Effects of GA4+ 7+ BA and CPPU on russeting and fruit quality in apple (Malus Ã—domestica)"
+S Sharma, N Sharma, D Sharma, N Chauhan - The Indian Journal of Agricultural Sciences, 2020
+
+"Impact of small and medium enterprises on employment generation in Kaduna State Nigeria"
+M Shettima, N Sharma, P Banerji - Indian Journal of Science and Technology, 2020
+
+"Evaluation of Parent Support Program on Attention-Deficit/Hyperactivity Disorder Symptoms in Young Children: a randomized controlled trial"
+N Sharma, S Sharma, D Singh, N Krishnamurthy - EUROPEAN JOURNAL OF NEUROLOGY, 2020
+
+"Influence of chemical fruit thinning on thinning level, fruit yield and quality in nectarine cv. may fire"
+N Sharma - Indian Journal of Ecology, 2020
+
+"Predicting the influence of urban vacant lots on neighborhood property values"
+MF Rahman, P Murukannaiah, N Sharma - CEUR Workshop Proceedings, 2020
+
+"Effect of Soil Working Techniques on Moisture Conservation, Growth, Yield and Fruit Cracking of Pomegranate (Punica granatum L.) cv. Kandhari"
+P Sahu, N Sharma - Int. J. Curr. Microbiol. App. Sci, 2019
+
+"Perﬂuoroalkyl substances (PFASs) uptake by willow plants and effects on photosynthesis"
+I Shrestha, G Barion, N Sharma, A Trentin, T Vamerali, A Masi, R Ghisi - Atti del convegno SICA, 2018
+
+"Plant treatment with Perfluoroalkyl Substances (PFASs): Uptake and effects on growth and morphology"
+S Misra, N Sharma, P Magnabosco, SD Vecchi, S Millan, A Trentin, T Vamerali, R Ghisi, A Masi - Atti del XXXV Convegno SICA “La ricerca in chimica agraria. Integrazione dello studio dei sistemi suolo, pianta e ambiente", 2017
+
+"Effect of growth regulators and pruning on, fruit size and quality of nectarine."
+N Sharma - Indian Journal of Ecology, 2017
+
+"Plants treatment with Perfluoroalkyl Substances (PFASs): uptake and effects on growth and morphology"
+N Sharma, S Mishra, P Magnabosco, S Millan, A Trentin, R Ghisi, A Masi - Proceedings 7th International Contaminated Site Remediation Conference, 2017
+
+"Biochemical and proteomic analyses in Arabidopsis thaliana plants treated with sulfadiazine"
+N Sharma, G Arrigoni, A Trentin, C Franchin, S Giaretta, A Masi, R Ghisi - Atti del XXXV Convegno SICA “La ricerca in chimica agraria. Integrazione dello studio dei sistemi suolo, pianta e ambiente", 2017
+
+"Development and characterization of novel gastroretentive raft forming floating film of atenolol"
+N Sharma, R Awasthi - Indian Drugs, 2015
+
+"Performance comparison of distance and density based clustering algorithm (ddcsa) v/s normal technique to analyze power consumption and network lifetime of wireless sensor networks"
+N Sharma, M Rani, A Nayyar - Int J Curr Eng Technol, 2014
+
+"Cloud Testing: A Review Article"
+R Batra, N Sharma - International Journal of Computer Science and Mobile Computing 3 (6), 314-319, 2014
+
+"A comprehensive review of distance and density based cluster head selection schemes"
+N Sharma, A Nayyar - International Journal of Computer Science and Mobile Computing 3, 204-211, 2014
+
+"Cloud capability estimation and recommendation in black-box environments using benchmark-based approximation"
+G Jung, N Sharma, F Goetz, T Mukherjee - 2013 IEEE Sixth International Conference on Cloud Computing, 2013
+
+"Cloudadvisor: A recommendation-as-a-service platform for cloud configuration and pricing"
+G Jung, T Mukherjee, S Kunde, H Kim, N Sharma, F Goetz - 2013 IEEE Ninth World Congress on Services, 2013
+
+"Optimizing ordered throughput using autonomic cloud bursting schedulers"
+S Kailasam, N Gnanasambandam, J Dharanipragada, N Sharma - IEEE Transactions on Software Engineering, 2013
+
+"Iron deficiency without anaemia: Do not wait for the haemoglobin to drop?"
+D Rattehalli, L Pickard, C Tselepis, N Sharma, TH Iqbal - Health Policy and Technology 2 (1), 45-58, 2013
+
+"Applications of artificial neural network in solar thermal systems: a review"
+N Sharma, MK Chauhan, R Kumar - Proc. of the National Conference on Trends and Advances in Mechanical …, 2012
+
+"Design and evaluation of decentralized online clustering"
+A Quiroz, M Parashar, N Gnanasambandam, N Sharma - ACM Transactions on Autonomous and Adaptive Systems (TAAS), 2012
+
+"Performance Comparison of Wireless Mobile Ad-Hoc Networks on the basis of Various Simulation Parameters"
+B Vermani, N Sharma, B Yadav - International Journal of Latest trebds in Engineering and technology, 2012
+
+"Towards simplifying and automating business process lifecycle management in hybrid clouds"
+H Liu, Y Charif, G Jung, A Quiroz, F Goetz, N Sharma - 2012 IEEE 19th International Conference on Web Services, 2012
+
+"Preventing Direct Communication between a Sensor and Sink Node with the Help of Hybrid Network Topology for Energy Conservation in Wireless Sensor Network"
+S Singal, N Sharma - International Journal of Computer Applications, 2012
+
+"EFFECT OF HORIZONTAL RETENTION GROOVES ON TOOTH DENTURE BASE BOND: IN-VITRO STUDY."
+R Luthra, R Gupta, D Vashisht, N Sharma, R Gupta - Indian Journal of Dental Sciences, 2011
+
+"Inter-Country Variations in Economic Welfare and Economic Costs and their Relation with Economic Development: Some Evidence from 58 Countries"
+N Sharma - Journal of Income & Wealth (The), 2011
+
+"Problems of Inefficient Routes in Network Mobility in Wireless Multihop Gateway Networks and their Resolution"
+N Sharma, N Sharma, D Malik - International Journal of Electronics Engineering, 2011
+
+"Optimizing service level agreements for autonomic cloud bursting schedulers"
+S Kailasam, N Gnanasambandam, J Dharanipragada, N Sharma - 2010 39th International Conference on Parallel Processing Workshops, 2010
+
+"Toward high performance computing in unconventional computing environments"
+B Rood, N Gnanasambandam, MJ Lewis, N Sharma - Proceedings of the 19th ACM International Symposium on High Performance Distributed Computing, 2010
+
+"Autonomic policy adaptation using decentralized online clustering"
+A Quiroz, M Parashar, N Gnanasambandam, N Sharma - Proceedings of the 7th international conference on Autonomic computing, 2010
+
+"Physiotherapy in the management of diabetes mellitus: utility and benefits"
+S Kalra, B Kalra, N Sharma, S Sharma - The Internet Journal of Pain, Symptom Control and Palliative Care, 2010
+
+"OVSF Code Assignment Schemes at the Forward Link of wcdm a Systems"
+D Saini, N Sharma - International Journal of Computers and Applications, 2010
+
+"Towards autonomic workload provisioning for enterprise grids and clouds"
+A Quiroz, H Kim, M Parashar, N Gnanasambandam, N Sharma - 2009 10th IEEE/ACM International Conference on Grid Computing, 2009
+
+"Robust clustering analysis for the management of self-monitoring distributed systems"
+A Quiroz, N Gnanasambandam, M Parashar, N Sharma - Cluster Computing, 2009
+
+"Clustering analysis for the management of self-monitoring device networks"
+A Quiroz, M Parashar, N Gnanasambandam, N Sharma - 2008 International Conference on Autonomic Computing, 2008
+
+"Designing file replication schemes for peer-to-peer file sharing systems"
+J Ni, J Lin, SJ Harrington, N Sharma - 2008 IEEE International Conference on Communications, 2008
+
+"Effect of plant growth regulators on fruit set, yield and fruit quality in pear cv. Baggugosha."
+N Sharma, S Karan - Asian Journal of Horticulture, 2008
+
+"Reclamation of ash ponds and cultivation of Jatropha curcas using arbuscular mycorrhiza fungi as technology demonstration for biofuel production and environmental cleaning in …"
+N Sharma - Expert seminar on Jatropha curcas L. Agronomy and genetics, 2007
+
+"Effect on germination on raised bed and sunken bed nursery in different provenances of Jatropha curcas L"
+N Sharma - Expert seminar on Jatropha curcas L. Agronomy and genetics, 2007
+
+"Agronomy: Jatropha pruning/flowering induction"
+N Sharma, A Sarraf - Expert seminar on Jatropha curcas L. Agronomy and genetics, 2007
+
+"Plantation management: activities/labour costs"
+N Sharma, A Sarraf - Expert seminar on Jatropha curcas L. Agronomy and genetics, 2007
+
+"Collaborative Self-Organization by devices providing document services-a Multi-Agent perspective"
+N Gnanasambandam, N Sharma, SR Kumara, H Liu - 2006 IEEE International Conference on Autonomic Computing, 2006
+
+"Deriving inter-country welfare inferences from national income estimates: Some methodological aspects"
+N Sharma - The Journal of Income and Wealth, 2006
+
+"The Journal of income and wealth, Vol. 28, No. 1, January-June 2006 DERIVING INTER-COUNTRY WELFARE INFERENCES FROM NATIONAL INCOME ESTIMATES: SOME METHODOLOGICAL ASPECTS"
+N Sharma - The Journal of Income and Wealth, 2006
+
+"Prevalence and control of pathogenic contamination in some sewage irrigated vegetable, forage and grain crops"
+R Yadav, P Minhas, N Sharma, P Joshi - Not Available, 2006
+
+"A Multi Agent System Framework for. NET"
+N Sharma - University of Canberra., 2006
+
+"Collaborative Self-Organization by Devices in a Service-Oriented Environment"
+N Gnanasambandam, N Sharma - IIE Annual Conference. Proceedings, 2006
+
+"A Multi-agent Framework for. NET"
+N Sharma, D Sharma - International Conference on Knowledge-Based and Intelligent Information and Engineering Systems, 2005
+
+"Detection of Phytophthora ramorum in camellia leaves by isolation, ELISA, nested and real-time PCR"
+R Bulluck, G Parra, P Shiel, P Berger, D Kaplan, W Li, K Zeller, L Levy, J Keller, M Reddy, N Sharma, M Dennis, J Stack, J Pierzynski - Phytopathology, 2005
+
+"Strawberry scrotum"
+I Singh, N Singh, N Sharma, S Agarwal, R Tandon - Medknow Publications on behalf of Association of Surgeons of India, 2005
+
+"The role of tumour necrosis factor-alpha in iron metabolism"
+C Tselepis, A Laftah, M Brookes, N Sharma, S Hughes, T Iqbal - GASTROENTEROLOGY, 2005
+
+"A role for TNF-alpha in iron metabolism"
+A Laftah, N Sharma, M Brookes, S Hughes, T Iqbal, C Tselepis - GUT, 2005
+
+"Hematospermia (ejaculatory duct calculus)–an unusual cause"
+I Singh, N Sharma, N Singh, R Gangas - International urology and nephrology, 2003
+
+"FULL & FREE DOWNLOAD LINK IS AVAILABLE FROM:-"
+I Singh, N Sharma, N Singh - J Urol, 2003
+
+"Upregulation of duodenal protein expression of divalent metal transporter 1 protein in untreated coeliac disease may be due to a switch to a more mature mucosal epithelial …"
+JR Butterworth, J Bastin, A Townsend, N Sharma, C Tselepis, B Cooper, T Iqbal - Gastroenterology, 2003
+
+"Abstract Device Platform"
+N Sharma, X Xu, D Pravin - Research Challenges, Academia/Industry Working Conference on, 2000
+
+"Quality changes in buffalo meat and liver during storage in ice pack"
+N Sharma, A Sen - Indian Veterinary Journal (India), 2000
+
+"Effect of plane of nutrition on nutrient utilization in pregnant buffalo heifers."
+T Chauhan, N Sharma, S Dahiya, B Punia, O Hooda, D Lall - Buffalo Journal, 2000
+
+"Effect of plane of nutrition on milk yield, composition and nutrient utilization in lactating buffaloes in their early lactation."
+T Chauhan, N Sharma, S Dahiya, R Gupta, U Arora, D Lall - Buffalo Journal, 2000
+
+"Design and experimental investigation of high speed squirrel cage induction motor"
+R Anbarasu, R Gupta, N Sharma, G Gauthaman, A Wankhede, P Chavda, J Nataraj, B Bhattacharjee - Proceedings of International Conference on Power Electronics, Drives and Energy Systems for Industrial Growth, 1996
+
+"Experimental investigations on high speed solid and composite rotor induction motor"
+N Sharma, R Anbarasu, J Nataraj, A Dangore, B Bhattacharjee - Proceedings of International Conference on Power Electronics, Drives and Energy Systems for Industrial Growth, 1996
+
+"Experimental investigations on high speed solid and composite rotor induction motor"
+N Sharma, R Anbarasu, J Nataraj, A Dangore, B Bhattacharjee - Institute of Electrical and Electronics Engineers, Inc., Piscataway, NJ …, 1995
+
+"The PIER Parallel FEA Program Generator"
+N Sharma - 13th Annual ASME International Computers in Engineering Conference, 1993
+
+"Automating FEA programming"
+N Sharma - NASA. Ames Research Center, Working Notes from the 1992 AAAI Workshop on Automating Software Design. Theme: Domain Specific Software Design, 1992
+
+"Generating finite element programs for shared memory multiprocessors"
+N Sharma, PS Wang - ASME-PUBLICATIONS-PVP, 1992
+
+"Generating Finite Element Programs for Shared Memory Machines"
+N Sharma, PS Wang - Proceedings of the Fifth SIAM Conference on Parallel Processing for Scientific Computing, 1991
+
+"A NOVEL POLYHYDROXYFLAVONE GLUCOSIDE FROM A-TYLOSIA-SCARABAEOIDES LEAVES"
+R Gupta, N Sharma, S AGARWAL, R Thappa - INDIAN JOURNAL OF CHEMISTRY SECTION B-ORGANIC CHEMISTRY INCLUDING MEDICINAL …, 1990
+
+"Generating finite element programs for Warp machine"
+N Sharma - Bau et al.[21], 1988
+
+"Symbolic derivation and automatic generation of parallel routines for finite element analysis"
+N Sharma, PS Wang - International Symposium on Symbolic and Algebraic Computation, 1988
+
+"Automatic Generation of Parallel Routines in Finite Element Analysis"
+N Sharma - Kent State University, 1988
+
+"Organic Pigments and Their Use in Polymeric Material"
+N Sharma, S Mishra - Pop. Plast.,, 1987

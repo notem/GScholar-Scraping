@@ -1,0 +1,50 @@
+"Code red: A nuclear nightmare-navigating ransomware response at an Eastern European power plant"
+N Madhira, JM Pelletier, D Johnson, S Mishra - Journal of Information Technology Teaching Cases, 2024
+
+"A Canary in the Voting Booth: Attacks on a Virtual Voting Machine"
+M Madden, D Szafaran, P Gray, J Pelletier, T Selker - International Conference on Digital Forensics and Cyber Crime, 2023
+
+"A Tree-Mapped Taxonomy of Blockchain Attacks"
+E Lubes, JM Pelletier - 2023 7th Cyber Security in Networking Conference (CSNet), 233-237, 2023
+
+"A Look into the Vulnerable Future of Medical Devices Through Assessment of a tDCS Gaming Device"
+A Drabkin, JM Pelletier - 2023 IEEE 11th International Conference on Serious Games and Applications for Health (SeGAH), 2023
+
+"A Common Pentest Output Schema for Business Intelligence System Ingestion"
+S Sharma, JM Pelletier, B Stackpole - 2023 46th MIPRO ICT and Electronics Convention (MIPRO), 2023
+
+"Secure, Accessible, Virtual Voting Infrastructure (SAVVI): Reducing Barriers for Disabled and Overseas Voters"
+T Selker, J Pelletier - 2023 46th MIPRO ICT and Electronics Convention (MIPRO), 2023
+
+"Cognitive Engineering Modeling of Phishing"
+T Bragg, EM Rantanen, JM Pelletier, E Rashedi - Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022
+
+"The pentest method for business intelligence"
+PS Reddy, J Pelletier - 2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO), 2022
+
+"Characterizing attacker behavior in a cybersecurity penetration testing competition"
+N Munaiah, A Rahman, J Pelletier, L Williams, A Meneely - 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2019
+
+"Modeling e-learner Satisfaction: The Role of Online Customer Experience"
+J Santa, N Hair, J Pelletier - 2019 Marketing in Higher Education Track, Academy of Marketing Conference, London, 2019
+
+"A cybersecurity dataset derived from the National Collegiate Penetration Testing Competition"
+N Munaiah, JM Pelletier, SS Su, S Yang, A& Meneely - Hawaii International Conference on System Sciences (HICSS): Maui, HI, 2019
+
+"Online customer experience in e-learning: Understanding the antecedents and outcomes of perspective graduate student’s website interactions when selecting a place of higher …"
+N Hair, J Santa, JM Pelletier - Online Learning Consortium: Accelerate 2018: Orlando, FL, 2018
+
+"Creating a broad pipeline of student venture opportunities: Augmenting students’ limited opportunity recognition abilities"
+R DeMartino, JM Pelletier - 2018 Global Consortium of Entrepreneurship Centers Conference: Chicago, IL, 2018
+
+"The race to field and secure autonomous combat units"
+J Pelletier - 2018 USENIX Summit on Hot Topics in Security: Baltimore, MD, 2018
+
+"Optimizing alternative futures: Assuring security in the event of machine superintelligence."
+J Pelletier, M Shita - 2018 International Conference on Intelligent Computing and Big Data (IBII): Houston, TX, 2018
+
+"Longitudinal analysis of information security incident spillover effects"
+JM Pelletier - Journal of Management Science and Business Intelligence, 2017
+
+"Effects of data breaches on sector-wide systematic risk in financial, technology, healthcare and services sectors"
+JM Pelletier - Capella University, 2017

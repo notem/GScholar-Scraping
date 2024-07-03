@@ -1,0 +1,944 @@
+[
+    {
+        "title": "Direct server-to-server wireless data center network and method thereof",
+        "id": "QSMgBHwAAAAJ:BqipwSGYUEgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:BqipwSGYUEgC",
+        "authors": [
+            "A Ganguly",
+            "M Kwon",
+            "A Kwasinski",
+            "SA Mamun",
+            "SG Umamaheswaran"
+        ],
+        "pub_source": "US Patent 11,950,304",
+        "pub_date": "2024/4/2",
+        "description": "A wireless server-to-server datacenter network architecture uses wireless links to eliminate the need for power-hungry switching fabric of traditional fat-tree based datacenter networks. The server-to-server wireless datacenter network (S2S-WiDCN) requires Line-of-Sight (LoS) between servers to establish direct communication links. Utilizing this LoS links, a horizontal-first routing algorithm is developed which, will establish fast communication links between any pair of communicating servers in the data center. The wireless links can be realized in millimeter-wave (such as 30, 60, 120 GHz) or THz (such as 300 GHz) frequency bands. The use of antenna-arrays to create beam-steering towards communicating servers is necessary to establish the direct server-to-server links. In the presence of an obstruction such as an IT technician, the LoS between communicating servers may be blocked. To address this issue, an\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "PredictDDL: Reusable Workload Performance Prediction for Distributed Deep Learning",
+        "id": "QSMgBHwAAAAJ:zA6iFVUQeVQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:zA6iFVUQeVQC",
+        "authors": [
+            "Kevin Assogba",
+            "Eduardo Lima",
+            "M Mustafa Rafique",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2023 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "pub_date": "2023/10/31",
+        "description": "Accurately predicting the training time of deep learning (DL) workloads is critical for optimizing the utilization of data centers and allocating the required cluster resources for completing critical model training tasks before a deadline. The state-of-the-art prediction models, e.g., Ernest and Cherrypick, treat DL workloads as black boxes, and require running the given DL job on a fraction of the dataset. Moreover, they require retraining their prediction models every time a change occurs in the given DL workload. This significantly limits the reusability of prediction models across DL workloads with different deep neural network (DNN) architectures. In this paper, we address this challenge and propose a novel approach where the prediction model is trained only once for a particular dataset type, e.g., ImageNet, thus completely avoiding tedious and costly retraining tasks for predicting the training time of new DL workloads\u00a0\u2026"
+    },
+    {
+        "title": "Predictable Internet Clients and In-Switch Deep Packet Inspection",
+        "id": "QSMgBHwAAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Sahil Gupta",
+            "Devashish Gosain",
+            "Minseok Kwon",
+            "Hrishikesh B Acharya"
+        ],
+        "pub_source": "2023 32nd International Conference on Computer Communications and Networks (ICCCN)",
+        "pub_date": "2023/7/24",
+        "description": "Deep packet inspection (DPI) is important for network security and is currently provided by complex black-box firewalls. This raises the question: Can network administrators build their own DPI-capable filter using a standard programmable switch? The common answer is that standard switches support P4, which allows users to specify how to parse packet headers, but not packet payload fields (e.g. URL) thus DPI tasks, like URL filtering, require dedicated middleboxes. In this paper, we challenge this common answer. First, we demonstrate that clients send packets with a predictable structure, so a P4 switch can perform some DPI (enough for URL filtering). Second, we demonstrate a URL-filtering firewall completely in the data plane, with no external help from the SDN controller, firewalls, etc. and no custom logic. Our proof-of-concept, P4Wall, handles multiple protocols (HTTP, HTTPS, DNS) with high performance\u00a0\u2026"
+    },
+    {
+        "title": "Towards Greener Data Centers via Programmable Data Plane",
+        "id": "QSMgBHwAAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "Garegin Grigoryan",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2023 IEEE 24th International Conference on High Performance Switching and Routing (HPSR)",
+        "pub_date": "2023/6/5",
+        "description": "The energy demands of data centers are increasing and are expected to grow exponentially. Reducing the energy consumption of data centers decreases operational expenses, as well as their carbon footprint. We design techniques to reduce data center power consumption by leveraging Software-Defined Networking (SDN) and programmable data plane concepts. Relying solely on in-data plane registers, our proposed system P4Green consolidates traffic in the least number of network switches and shifts workloads to the servers with the available renewable energy. Unlike existing SDN-based solutions, P4Green\u2019s operation does not depend on a centralized controller, making the system scalable and failure-resistant. Our proof-of-concept simulations show that traffic consolidation can reduce data centers\u2019 aggregation switch usage by 36% compared to standard data center load balancing techniques, while\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "DeeP4R: Deep Packet Inspection in P4 using Packet Recirculation",
+        "id": "QSMgBHwAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Sahil Gupta",
+            "Devashish Gosain",
+            "Minseok Kwon",
+            "Hrishikesh B Acharya"
+        ],
+        "pub_source": "IEEE INFOCOM 2023-IEEE Conference on Computer Communications",
+        "pub_date": "2023/5/17",
+        "description": "Software-defined networks are useful for multiple tasks, including firewalling, telemetry, and flow analysis. In particular, the P4 language makes it possible to carry out some simple packet processing tasks in the data plane, i.e., on the switch itself (without real-time support from the SDN controller or a server). However, owing to the limitations of packet parsing in P4, these tasks involve only the packet headers. In this paper, we present a novel approach that allows Deep Packet Inspection (DPI) \u2013 i.e., inspection of the packet payload \u2013 in the data plane, using P4 alone. We make use of the fact that in P4, a switch can clone and recirculate packets. One copy (clone) can be recirculated, slicing off a byte in each round, and using a finite-state machine to check if a target string has yet been seen. If the target string is found, the other copy (original packet) is discarded; if not, it is passed through. Our approach allows us to\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Simple deep packet inspection with p4",
+        "id": "QSMgBHwAAAAJ:ldfaerwXgEUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:ldfaerwXgEUC",
+        "authors": [
+            "Sahil Gupta",
+            "Devashish Gosain",
+            "Garegin Grigoryan",
+            "Minseok Kwon",
+            "HB Acharya"
+        ],
+        "pub_source": "2021 IEEE 29th International Conference on Network Protocols (ICNP)",
+        "pub_date": "2021/11/1",
+        "description": "The P4 language allows \"protocol-independent packet parsing\" in network switches, and makes many operations possible in the data plane. But P4 is not built for Deep Packet Inspection \u2013 it can only \"parse\" well-defined packet headers, not free-form headers as seen in HTTPS etc. Thus some very important use cases, such as application-layer firewalls, are considered impossible for P4. This demonstration shows that this limitation is not strictly true: switches, that support only standard P4, are able to independently perform tasks such as blocking specific URLs (without using non-standard \"extern\" components, help from the SDN controller, or rerouting to a firewall). As more Internet infrastructure becomes SDN-compatible, in future, switches may perform simple application-layer firewall tasks.",
+        "citations": 2
+    },
+    {
+        "title": "NASCon: Network-Aware Server Consolidation for server-centric wireless datacenters",
+        "id": "QSMgBHwAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Sayed Ashraf Mamun",
+            "Amlan Ganguly",
+            "Panos P Markopoulos",
+            "Minseok Kwon",
+            "Andres Kwasinski"
+        ],
+        "pub_source": "Sustainable Computing: Informatics and Systems",
+        "pub_date": "2021/3/1",
+        "description": "Servers in datacenter are underutilized due to over-provisioning, which contributes heavily toward high-power consumption of the datacenters. Server consolidation can drastically reduce power consumption of datacenters by reducing the number of active servers. However, server consolidation alone can adversely affect network performance. Recently, wireless datacenters using millimeter-wave communications have been proposed and shown to drastically reduce power consumption of networking equipment. Therefore, server-consolidation strategies should leverage novel datacenter network-architectures to minimize power consumption with minimal impact on performance. We present network-aware bandwidth-constrained server consolidation algorithm called Network-Aware Server Consolidation (NASCon), for wireless datacenters that can reduce the power consumption up to 37%. In wireless datacenter\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "What can ail thee: New and old security vulnerabilities of wireless datacenters",
+        "id": "QSMgBHwAAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "Sayed Ashraf Mamun",
+            "Amlan Ganguly",
+            "Panos P Markopoulos",
+            "Andres Kwasinski",
+            "Minseok Kwon"
+        ],
+        "pub_source": "GLOBECOM 2020-2020 IEEE Global Communications Conference",
+        "pub_date": "2020/12/7",
+        "description": "Utilizing millimeter wave (mmWave) wireless communication in wireless datacenter networks, the power consumption of the networking equipment can be reduced drastically. However, security of a datacenter is one of the highest design priorities. Many studies on the security of wired datacenters including identifying the possible threats and solutions have been explored in the literature. On the contrary, being an emerging technology, no study has been conducted on the security for the wireless datacenters. Being a wireless system, it has the potential to inherit many of the threats of a typical wireless network. So, in order to successfully realize wireless datacenter architectures, it is essential to do an extensive investigation of the system from a security perspective. In this paper, we study both existing as well as novel threats and their impact on the wireless datacenter network. In addition to these conventional threats\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Extending the control plane of container orchestrators for I/O virtualization",
+        "id": "QSMgBHwAAAAJ:35N4QoGY0k4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:35N4QoGY0k4C",
+        "authors": [
+            "Garegin Grigoryan",
+            "Minseok Kwon",
+            "M Mustafa Rafique"
+        ],
+        "pub_source": "2020 2nd International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "pub_date": "2020/11/12",
+        "description": "Single Root Input/Output Virtualization (SR-IOV) is a standard technology for forking a single PCI express device and providing it to applications while ensuring performance isolation. It enables container orchestrators to share a limited number of physical network interfaces without incurring significant virtualization overhead. The allocation of virtualized network devices to containers, however, needs to be more configurable based on the bandwidth needs of running applications. Moreover, container orchestrators' network control over the virtualized interfaces is limited by the abilities of SR-IOV. We explore the design considerations for a system with controlled SR-IOV virtualization and present ConRDMA, a novel architecture that enables fine control of RDMA virtualization for containers. Our evaluation shows that ConRDMA enables containers to use RDMA allocated bandwidth more efficiently and to select best\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "CuVPP: Filter-based Longest Prefix Matching in Software Data Planes",
+        "id": "QSMgBHwAAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "Minseok Kwon",
+            "Krishna Prasad Neupane",
+            "John Marshall",
+            "M Mustafa Rafique"
+        ],
+        "pub_source": "2020 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "pub_date": "2020/9/14",
+        "description": "Programmability in the data plane has become increasingly important as virtualization is introduced into networking and software-defined networking becomes more prevalent. Yet, the performance of programmable data planes on commodity hardware is a major concern, in light of ever-increasing network speed and routing table size. This paper focuses on IP lookup, specifically the longest prefix matching for IPv6 addresses, which is a major performance bottleneck in programmable switches. As a solution, the paper presents CuVPP, a programmable switch that uses packet batch processing and cache locality for both instructions and data by leveraging Vector Packet Processing (VPP). We thoroughly evaluate CuVPP with both real network traffic and file-based lookup on a commodity hardware server connected via 80 Gbps network links and compare its performance with the other popular approaches. Our\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Security vulnerabilities of server-centric wireless datacenters",
+        "id": "QSMgBHwAAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Sayed Ashraf Mamun",
+            "Amlan Ganguly",
+            "Panos P Markopoulos",
+            "Andres Kwasinski",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2020 IEEE Conference on Communications and Network Security (CNS)",
+        "pub_date": "2020/6/29",
+        "description": "Wireless datacenter network is an emerging technology. Recent works have shown that by utilizing millimeter wave (mmWave) wireless communication, the power consumption of the networking equipment of datacenters can be reduced drastically. However, security of a datacenter is one of the highest design priorities. Many studies on the security of wired datacenters including identifying the possible threats and solutions have been explored in the literature. On the contrary, being an emerging technology, no study has been conducted on the security for the wireless datacenters. Moreover, being a wireless system, it also inherits most of the threats of a typical wireless system if not all. So, in order to successfully realize wireless datacenter architectures, it is essential to do an extensive investigation of the system from a security perspective. In this paper, we have done an extensive study on the possible threats and\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Boosting FIB Caching Performance with Aggregation",
+        "id": "QSMgBHwAAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "Garegin Grigoryan",
+            "Yaoqing Liu",
+            "Minseok Kwon"
+        ],
+        "pub_source": "Proceedings of the 29th International Symposium on High-Performance Parallel and Distributed Computing",
+        "pub_date": "2020/6/23",
+        "description": "In the era of high-performance cloud computations, networks need to ensure fast packet forwarding. This task is carried by TCAM forwarding chips that perform line-rate Longest Prefix Matches in a Forwarding Information Base (FIB). However, with the increasing number of prefixes in IPv4 and IPv6 routing tables the price of TCAM increases as well. In this work, we present a novel FIB compression technique by adding an aggregation layer into a FIB caching architecture. In Combined FIB Caching and Aggregation (CFCA), cache-hit ratio is maximized up to 99.94% with only 2.50% entries of the FIB, while the churn in TCAM is reduced by more than 40% compared to low-churn FIB aggregation techniques.",
+        "citations": 3
+    },
+    {
+        "title": "Two-Way Trees: A Distributed Algorithm for Efficient Replica Search and Placement",
+        "id": "QSMgBHwAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Gahyun Park",
+            "Minseok Kwon",
+            "Ramprasad Tamilselvan",
+            "Seungjoon Lee"
+        ],
+        "pub_source": "Symposium on Algorithmic Principles of Computer Systems",
+        "pub_date": "2020",
+        "description": "We revisit a distributed caching protocol called random trees for hot spot relieving and low latency in large-scale networks. We propose a new version of random trees called two-way (random) trees that improve the logarithmic lookup path length  with high probability, where d is the degree and N is the size of the tree. Yet, all the optimal properties of random trees are preserved such as balanced workload and the minimum storage requirement without additional communication or computational cost. Two-way trees achieve these by separating trees for lookup and replication. A two-way tree is constructed in a fully distributed and maintenance-free manner, without a-priori known file popularity distributions. We present theoretical models to analyze the maximum workload of any server, and provide provable bounds comparable to the maximum load of a well-known balls into bins problem and a natural queueing\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "iload: In-network load balancing with programmable data plane",
+        "id": "QSMgBHwAAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "Garegin Grigoryan",
+            "Yaoqing Liu",
+            "Minseok Kwon"
+        ],
+        "pub_source": "Proceedings of the 15th International Conference on emerging Networking EXperiments and Technologies",
+        "pub_date": "2019/12/9",
+        "description": "Several cloud service and data center providers have announced plans to transition towards environmental-friendly green computing. From a computer networking perspective, such transition requires novel routing approaches over traditional networking protocols, more specifically, end-host-driven load balancing. For example, an end-host may issue a request to change its load, based on its current CPU load or energy availability. Our solution, iLoad, collects such requests from end-hosts and computes the routes entirely in the data plane, providing more efficient and reliable operation of a network.",
+        "citations": 8
+    },
+    {
+        "title": "Proof-carrying network code",
+        "id": "QSMgBHwAAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:blknAaTinKkC",
+        "authors": [
+            "Christian Skalka",
+            "John Ring",
+            "David Darais",
+            "Minseok Kwon",
+            "Sahil Gupta",
+            "Kyle Diller",
+            "Steffen Smolka",
+            "Nate Foster"
+        ],
+        "pub_source": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2019/11/6",
+        "description": "Computer networks often serve as the first line of defense against malicious attacks. Although there are a growing number of tools for defining and enforcing security policies in software-defined networks (SDNs), most assume a single point of control and are unable to handle the challenges that arise in networks with multiple administrative domains. For example, consumers may want want to allow their home IoT networks to be configured by device vendors, which raises security and privacy concerns. In this paper we propose a framework called Proof-Carrying Network Code (PCNC) for specifying and enforcing security in SDNs with interacting administrative domains. Like Proof-Carrying Authorization (PCA), PCNC provides methods for managing authorization domains, and like Proof-Carrying Code (PCC), PCNC provides methods for enforcing behavioral properties of network programs. We develop theoretical\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Container orchestration by kubernetes for rdma networking",
+        "id": "QSMgBHwAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Coleman Link",
+            "Jesse Sarran",
+            "Garegin Grigoryan",
+            "Minseok Kwon",
+            "M Mustafa Rafique",
+            "Warren R Carithers"
+        ],
+        "pub_source": "2019 IEEE 27th International Conference on Network Protocols (ICNP)",
+        "pub_date": "2019/10/8",
+        "description": "With the widespread usage of containerized virtualization in data centers and clouds, it is important to enabling high-throughput and zero-copy data transfer between those containers. Remote Direct Memory Access (RDMA) allows bypassing the kernel for packet processing by offloading it to specific RDMA-enabled NICs. The existing solutions enabling RDMA with containers are either based on custom container orchestrators (e.g., FreeFlow) or lack the ability for the control plane to manage the underlying RDMA traffic (e.g., Kubernetes RDMA plug-in via SR-IOV). The work in this paper builds off of previous work in Kubernetes to make an architecture that allows control over bandwidth requirements of RDMA within a Kubernetes cluster.",
+        "citations": 8
+    },
+    {
+        "title": "Network-aware server consolidation for wireless data centers",
+        "id": "QSMgBHwAAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Sayed Ashraf Mamun",
+            "Amlan Ganguly",
+            "Minseok Kwon",
+            "Andres Kwasinski",
+            "Panos P Markopoulos"
+        ],
+        "pub_source": "2019 10th International Conference on Networks of the Future (NoF)",
+        "pub_date": "2019/10/1",
+        "description": "Servers in a data center are underutilized due to overprovisioning which contributes heavily toward the high-power consumption of the data centers. Server consolidation can drastically reduce the power consumption of data centers by engaging fewer servers and keeping the unused servers in deep sleep. However, server consolidation alone can adversely affect network performance. Recently, wireless data centers using high-speed millimeter-wave (mmWave) communications have been proposed and shown to drastically reduce the power consumption of the networking equipment. Therefore, server-consolidation strategies should leverage the novel data center network architectures to minimize power consumption with minimal impact on performance. Neither novel server consolidation algorithms for wireless data centers nor the impact of server consolidation on wireless data centers have been explored so far\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A fingerprint-based bloom filter with deletion capabilities",
+        "id": "QSMgBHwAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Minseok Kwon",
+            "Vijay Shankar",
+            "Salvatore Pontarelli",
+            "Pedro Reviriego"
+        ],
+        "pub_source": "2019 European Conference on Networks and Communications (EuCNC)",
+        "pub_date": "2019/6/18",
+        "description": "One drawback of Bloom filters is the inability to delete items due to hash collisions. Counting Bloom filters address this drawback using counters at the expense of increased filter size. Other alternatives like the Deletable Bloom Filter (DlBF) or the Ternary Bloom Filter (TBF) have been proposed to maintain a small filter size while supporting deletions of elements with some probability. These structures offer different trade-offs between deletability, false positive rate and filter size. In this paper, we propose a new filter called the D-FP (Deletable Fingerprint) Bloom filter that stores two-bit fingerprints, instead of a single bit or a counter, that can indicate whether the item can be deleted. By using the fingerprints, the D-FP Bloom filter provides lower false positive rates than the TBF at low filter occupancies and better deletability than the DlBF thus providing more options to desginers that want to trade-off both parameters. In\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Detecting BGP route anomalies with deep learning",
+        "id": "QSMgBHwAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Kyle McGlynn",
+            "HB Acharya",
+            "Minseok Kwon"
+        ],
+        "pub_source": "IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+        "pub_date": "2019/4/29",
+        "description": "Fake or mistaken BGP updates can cause serious damage to Internet routing. We note that an expert network administrator can develop a \u201cgut feeling\u201d that lets them identify mistaken or attack updates. Might it be possible to capture such intuition in a learning-based anomaly detection mechanism? Our idea is that good route updates share characteristics which bad updates do not, and even if such characteristics are subtle (i.e. cannot be captured in clear rules), they can be learned. More specifically, an auto-encoder (trained on known-good BGP routing data) will successfully encode good route updates, but will perform more poorly with random or malicious updates. In our system, we use two auto-encoders, each trained to detect a specific type of anomalous BGP update. If either auto-encoder performs poorly (i.e. shows large differences between input and output), we report the BGP update as likely-anomalous\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "On Securing Healthcare with Software-Defined Networks",
+        "id": "QSMgBHwAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Sahil Gupta",
+            "HB Acharya",
+            "Minseok Kwon"
+        ],
+        "pub_source": "IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+        "pub_date": "2019/4/29",
+        "description": "The Internet of Things can offer great advantages to healthcare. For instance, rapid data collection and action not only make it possible to respond rapidly to crisis, but also improve patient quality of life (for example, a diabetes patient with a smart insulin pump need not worry about being home for doses). Yet, IoT also introduces system and network security issues. In this paper, we explore the question of IoT security in healthcare. We begin by surveying the IoT attack surface and its implications for Healthcare, and discussing existing solutions and their shortcomings. Finally, we propose that a centralized solution, based on software defined networks, could alleviate some of these concerns.",
+        "citations": 3
+    },
+    {
+        "title": "PFCA: A programmable FIB caching architecture",
+        "id": "QSMgBHwAAAAJ:RYcK_YlVTxYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:RYcK_YlVTxYC",
+        "authors": [
+            "Garegin Grigoryan",
+            "Yaoqing Liu"
+        ],
+        "pub_source": "Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems",
+        "pub_date": "2018/7/23",
+        "description": "Ternary Content-Addressable Memory (TCAM) chips are used to store Forwarding Information Bases (FIB) in modern routers. TCAM provides next hop lookup for IP packets at the line-rate. However, TCAM is expensive and energy-consuming; in addition, the constant FIB growth may lead to TCAM overflow problem. Yet only a small portion of FIB entries carries the most of the network traffic. Thus, FIB caching, namely, installing the most popular entries in a fast memory, e.g., TCAM, may significantly minimize TCAM usage. In this work, we leverage the concept of the programmable data plane to design a Programmable FIB Caching Architecture (PFCA) with two levels of cache. We present a pipeline-based algorithm to detect the least popular prefixes in a cache for victim eviction. We tested the prototype of PFCA using real traffic traces and an FIB with more than 599K entries. Our results show that PFCA achieves 99\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "Position-aware cuckoo filters",
+        "id": "QSMgBHwAAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Minseok Kwon",
+            "Vijay Shankar",
+            "Pedro Reviriego"
+        ],
+        "pub_source": "Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems",
+        "pub_date": "2018/7/23",
+        "description": "Cuckoo filters have been recently proposed as an efficient structure to perform approximate membership checks. In this paper, it is shown that the false positive rate of a cuckoo filter can be reduced by storing in addition to the fingerprint the information that tell us if a given fingerprint has been inserted in the first or the second bucket. This improvement of the cuckoo filter is denoted as Position Aware (PA) cuckoo filter.",
+        "citations": 4
+    },
+    {
+        "title": "Performance evaluation of a power-efficient and robust 60 GHz wireless server-to-server datacenter network",
+        "id": "QSMgBHwAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Sayed Ashraf Mamun",
+            "Sree Gowrishankar Umamaheswaran",
+            "Amlan Ganguly",
+            "Minseok Kwon",
+            "Andres Kwasinski"
+        ],
+        "pub_source": "IEEE Transactions on Green Communications and Networking",
+        "pub_date": "2018/5/18",
+        "description": "Datacenters have become the digital backbone of the modern world. To support the growing demands on bandwidth, datacenter networks (DCNs) consume an increasing amount of power. Additionally, the complex cabling in traditional datacenters poses design and maintenance challenges and increases the energy cost of the cooling infrastructure by obstructing the flow of chilled air. In this paper, we present a wireless server-to-server datacenter network architecture using millimeter-wave links to eliminate the need for power-hungry switching fabric of traditional fat-tree based datacenter networks. The server-to-server wireless datacenter network (S2S-WiDCN) architecture requires line-of-sight (LoS) between servers to establish direct communication links. However, in the presence of an obstruction such as an IT technician, the LoS may be blocked. To address this issue, we propose a novel obstruction-aware\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "Reducing power consumption of datacenter networks with 60ghz wireless server-to-server links",
+        "id": "QSMgBHwAAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Sree Gowrishankar Umamaheswaran",
+            "Sayed Ashraf Mamun",
+            "Amlan Ganguly",
+            "Minseok Kwon",
+            "Andres Kwasinski"
+        ],
+        "pub_source": "GLOBECOM 2017-2017 IEEE Global Communications Conference",
+        "pub_date": "2017/12/4",
+        "description": "Datacenters have become the digital backbone of the modern society and consume enormous amounts of power. Significant portion of the power consumption is due to the power hungry switching fabric necessary for communication in the datacenter. Additionally, the complex cabling in traditional datacenters pose design and maintenance challenges and increase the energy cost of the cooling infrastructure by obstructing the flow of chilled air. In this work we address these problems of traditional datacenters by designing a server-to-server wireless datacenter network (DCN). We propose design methodologies for the use of 60GHz unlicensed millimeter-wave bands to establish direct communication links between servers in a DCN without the need for a conventional fabric. This will reduce the power consumption of the DCN significantly. We first demonstrate that such a power-efficient wireless DCN can sustain the\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Use of Cuckoo filters with FD. Io VPP for software IPv6 routing lookup",
+        "id": "QSMgBHwAAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Minseok Kwon",
+            "Shailesh Vajpayee",
+            "Pragash Vijayaragavan",
+            "Arjun Dhuliya",
+            "John Marshall"
+        ],
+        "pub_source": "Proceedings of the SIGCOMM Posters and Demos",
+        "pub_date": "2017/8/22",
+        "description": "The filter technologies, e.g., Bloom filters, have been used for IP lookup for their compactness and efficiency. We investigate the performance of cuckoo filters with Cisco's VPP (Vector Packet Processing) for IP lookup. We also introduce a variant called a length-aware cuckoo filter that treats incoming IP addresses discriminatively, and study its performance with VPP. As proof-of-concept, we implement cuckoo filters with VPP, and test them on both functions and performance with focus on the ip6-input node in VPP.",
+        "citations": 8
+    },
+    {
+        "title": "An energy-efficient, wireless top-of-rack to top-of-rack datacenter network using 60GHz links",
+        "id": "QSMgBHwAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Sayed Ashraf Mamun",
+            "Sree Gowrishankar Umamaheswaran",
+            "Siva Shankar Chandrasekaran",
+            "Md Shahriar Shamim",
+            "Amlan Ganguly",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",
+        "pub_date": "2017/6/21",
+        "description": "Datacenters have become the digital backbone of the modern society and consume enormous amounts of power. Significant portion of the power consumption is due to the power hungry switching fabric necessary for communication in the datacenter. Additionally, the complex cabling in traditional datacenters pose design and maintenance challenges and increase the energy cost of the cooling infrastructure by obstructing the flow of chilled air. Recent research on wireless datacenters have proposed interconnecting rows of racks at the top-of-rack (ToR) level via wireless links to eliminate the need for complex network of power hungry routers and cables. Links are established using either highly directional phased array antennas or narrow-beam horned antennas between those ToR entities. ToR-to-ToR wireless links have also been used to augment existing wired networks, improving overall performance\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "A length-aware cuckoo filter for faster IP lookup",
+        "id": "QSMgBHwAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Minseok Kwon",
+            "Pedro Reviriego",
+            "Salvatore Pontarelli"
+        ],
+        "pub_source": "2016 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+        "pub_date": "2016/4/10",
+        "description": "A cuckoo filter is a highly efficient data structure that provides approximate set-membership testing and addresses some drawbacks of a Bloom filter such as deletion and space overhead. Motivated by the application of Bloom filters to IP lookup, and in general, fast packet processing at routers, we propose a new filter called a length-aware cuckoo filter (LACF), for faster IP lookup with limited extra storage requirement. LACF uses different numbers of hash functions to store and search for entries based on the prefix length popularity of routing entries. Our preliminary results show that LACF reduces the false positive rates for IP lookup by a factor of up to two, with less than 1% storage increase. As future work, we will implement LACF in real network routers, and validate its effectiveness as an IP packet forwarding mechanism.",
+        "citations": 31
+    },
+    {
+        "title": "Dynamic vehicular route guidance using traffic prediction information",
+        "id": "QSMgBHwAAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Kwangsoo Kim",
+            "Minseok Kwon",
+            "Jaegeun Park",
+            "Yongsoon Eun"
+        ],
+        "pub_source": "Mobile Information Systems",
+        "pub_date": "2016",
+        "description": "We propose a dynamic vehicular routing algorithm with traffic prediction for improved routing performance. The primary idea of our algorithm is to use real\u2010time as well as predictive traffic information provided by a central routing controller. In order to evaluate the performance, we develop a microtraffic simulator that provides road networks created from real maps, routing algorithms, and vehicles that travel from origins to destinations depending on traffic conditions. The performance is evaluated by newly defined metric that reveals travel time distributions more accurately than a commonly used metric of mean travel time. Our simulation results show that our dynamic routing algorithm with prediction outperforms both Static and Dynamic without prediction routing algorithms under various traffic conditions and road configurations. We also include traffic scenarios where not all vehicles comply with our dynamic routing\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "The cloudlet accelerator: Bringing mobile-cloud face recognition into real-time",
+        "id": "QSMgBHwAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Nathaniel Powers",
+            "Alexander Alling",
+            "Kiara Osolinsky",
+            "Tolga Soyata",
+            "Meng Zhu",
+            "Haoliang Wang",
+            "He Ba",
+            "Wendi Heinzelman",
+            "Jiye Shi",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2015 IEEE Globecom Workshops (GC Wkshps)",
+        "pub_date": "2015/12/6",
+        "description": "A mobile-cloud architecture provides a practical platform for performing face recognition on a mobile device. However, using a mobile-cloud architecture to perform real-time face recognition presents several challenges including resource limitations and long network delays. In this paper, we determine three approaches for accelerating the execution of the face recognition application by utilizing an intermediate device called a cloudlet. We study in detail one of these approaches, using the cloudlet to perform pre-processing, and quantify the maximum attainable acceleration. Our experimental results show up to a 128x improvement in response time when appropriate cloudlet hardware is used.",
+        "citations": 47
+    },
+    {
+        "title": "A tutorial on network latency and its measurements",
+        "id": "QSMgBHwAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Minseok Kwon"
+        ],
+        "pub_source": "Enabling real-time mobile cloud computing through emerging technologies, 272-293",
+        "pub_date": "2015",
+        "description": "Internet latency is crucial in providing reliable and efficient networked services when servers are placed in geographically diverse locations. The trend of mobile, cloud, and distributed computing accelerates the importance of accurate latency measurement due to its nature of rapidly changing locations and interactivity. Accurately measuring latency, however, is not easy due to lack of testing resources, the sheer volume of collected data points, the tedious and repetitive aspect of measurement practice, clock synchronization, and network dynamics. This chapter discusses the techniques that use PlanetLab to measure latency in the Internet, its underlying infrastructure, representative latency results obtained from experiments, and how to use these measure latencies. The chapter covers 1) details of using PlanetLab, 2) the Internet infrastructure that causes the discrepancy between local and global latencies, and 3\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "Use of network latency profiling and redundancy for cloud server selection",
+        "id": "QSMgBHwAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Minseok Kwon",
+            "Zuochao Dou",
+            "Wendi Heinzelman",
+            "Tolga Soyata",
+            "He Ba",
+            "Jiye Shi"
+        ],
+        "pub_source": "2014 IEEE 7th International Conference on Cloud Computing",
+        "pub_date": "2014/6/27",
+        "description": "As servers are placed in diverse locations in networked services today, it becomes vital to direct a client's request to the best server(s) to achieve both high performance and reliability. In this distributed setting, non-negligible latency and server availability become two major concerns, especially for highly-interactive applications. Profiling latencies and sending redundant data have been investigated as solutions to these issues. The notion of a cloudlet in mobile-cloud computing is also relevant in this context, as the cloudlet can supply these solution approaches on behalf of the mobile. In this paper, we investigate the effects of profiling and redundancy on latency when a client has a choice of multiple servers to connect to, using measurements from real experiments and simulations. We devise and test different server selection and data partitioning strategies in terms of profiling and redundancy. Our key findings are\u00a0\u2026",
+        "citations": 60
+    },
+    {
+        "title": "Accelerating mobile-cloud computing: A survey",
+        "id": "QSMgBHwAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Tolga Soyata",
+            "He Ba",
+            "Wendi Heinzelman",
+            "Minseok Kwon",
+            "Jiye Shi"
+        ],
+        "pub_source": "Communication Infrastructures for Cloud Computing",
+        "pub_date": "2014",
+        "description": "With the recent advances in cloud computing and the capabilities of mobile devices, the state-of-the-art of mobile computing is at an inflection point, where compute-intensive applications can now run on today\u2019s mobile devices with limited computational capabilities. This is achieved by using the communications capabilities of mobile devices to establish high-speed connections to vast computational resources located in the cloud. While the execution scheme based on this mobile-cloud collaboration opens the door to many applications that can tolerate response times on the order of seconds and minutes, it proves to be an inadequate platform for running applications demanding real-time response within a fraction of a second. In this chapter, the authors describe the state-of-the-art in mobile-cloud computing as well as the challenges faced by traditional approaches in terms of their latency and energy efficiency\u00a0\u2026",
+        "citations": 81
+    },
+    {
+        "title": "Integrating highly-capable corobots into a computing curriculum",
+        "id": "QSMgBHwAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Zack Butler",
+            "Rajendra K Raj",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2013 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2013/10/23",
+        "description": "Robots are typically used at the college level either as a pedagogic platform for introductory programming or for more advanced courses in robotics. With robots becoming cheaper and more plentiful, personal interactions with them will become more commonplace. This project therefore takes the position that undergraduate computing students need the opportunity to explore core computing concepts in a robotics context. Specifically, we will give students the ability to work alongside teams of highly capable and easily programmable corobots, a term used to identify robots that work side by side with humans, rather than being completely autonomous and isolated. A modular approach is used to incorporate corobotics into various computer science (CS) courses such as first-year computing, networking, and data management, thus permitting the students to see these corobots in multiple contexts. This work-in\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "An enhanced bloom filter for longest prefix matching",
+        "id": "QSMgBHwAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Gahyun Park",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2013 IEEE/ACM 21st International Symposium on Quality of Service (IWQoS)",
+        "pub_date": "2013/6/3",
+        "description": "A Bloom filter is a succinct data structure for membership queries. While the filter enables a compact storage, it allows false positives when queried and exhibits an inherent tradeoff between the false positive rate and space complexity. Among many applications, IP address lookup shows promise for improvement using on-chip Bloom filters; however, high false positive rates may cause more off-chip memory access and degrade the performance significantly. We introduce a new Bloom filter called the length-aware Bloom filter (LABF) for multiple pattern matching problems. The primary idea is to explore the discrepancy in length distribution between the set of patterns and the set of prefixes of input text that are examined against the patterns. While maintaining the simplicity, LABFs outperform the standard Bloom filter when the pattern lengths are nonuniformly distributed in a wide range. Such pattern length\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Cloud-vision: Real-time face recognition using a mobile-cloudlet-cloud acceleration architecture",
+        "id": "QSMgBHwAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Tolga Soyata",
+            "Rajani Muraleedharan",
+            "Colin Funai",
+            "Minseok Kwon",
+            "Wendi Heinzelman"
+        ],
+        "pub_source": "2012 IEEE symposium on computers and communications (ISCC)",
+        "pub_date": "2012/7/1",
+        "description": "Face recognition applications for airport security and surveillance can benefit from the collaborative coupling of mobile and cloud computing as they become widely available today. This paper discusses our work with the design and implementation of face recognition applications using our mobile-cloudlet-cloud architecture named MOCHA and its initial performance results. The challenge lies with how to perform task partitioning from mobile devices to cloud and distribute compute load among cloud servers (cloudlet) to minimize the response time given diverse communication latencies and server compute powers. Our preliminary simulation results show that optimal task partitioning algorithms significantly affect response time with heterogeneous latencies and compute powers. Motivated by these results, we design, implement, and validate the basic functionalities of MOCHA as a proof-of-concept, and develop\u00a0\u2026",
+        "citations": 551
+    },
+    {
+        "title": "COMBAT: mobile-Cloud-based cOmpute/coMmunications infrastructure for BATtlefield applications",
+        "id": "QSMgBHwAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Tolga Soyata",
+            "Rajani Muraleedharan",
+            "Jonathan Langdon",
+            "Colin Funai",
+            "Scott Ames",
+            "Minseok Kwon",
+            "Wendi Heinzelman"
+        ],
+        "pub_source": "Modeling and Simulation for Defense Systems and Applications VII",
+        "pub_date": "2012/5/7",
+        "description": "The amount of data processed annually over the Internet has crossed the zetabyte boundary, yet this Big Data cannot be efficiently processed or stored using today's mobile devices. Parallel to this explosive growth in data, a substantial increase in mobile compute-capability and the advances in cloud computing have brought the state-of-the- art in mobile-cloud computing to an inflection point, where the right architecture may allow mobile devices to run applications utilizing Big Data and intensive computing. In this paper, we propose the MObile Cloud-based Hybrid Architecture (MOCHA), which formulates a solution to permit mobile-cloud computing applications such as object recognition in the battlefield by introducing a mid-stage compute- and storage-layer, called the cloudlet. MOCHA is built on the key observation that many mobile-cloud applications have the following characteristics: 1) they are compute\u00a0\u2026",
+        "citations": 90
+    },
+    {
+        "title": "On providing successful research experiences for undergraduates",
+        "id": "QSMgBHwAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Reynold J Bailey",
+            "Hans-Peter Bischof",
+            "Minseok Kwon",
+            "Tracy Miller",
+            "Rajendra K Raj"
+        ],
+        "pub_source": "2011 Frontiers in Education Conference (FIE)",
+        "pub_date": "2011/10/12",
+        "description": "This paper presents strategies for providing successful Research Experiences for Undergraduates (REU). The authors have advised several undergraduates on research for the past few years, and have jointly supervised around twenty-five students, over two summers, on a project funded by an NSF-funded REU program in areas relating to the visualization of astrophysical data using high performance file systems. Several of these student projects have led to research publications. The paper briefly motivates the need for research in modern computing and engineering education. It then presents specific details about the development of summer REU programs including how to: secure funding and institutional support; plan a summer program including the design of scalable research projects; develop strategies to advertise and recruit students, especially from underrepresented groups; create a dynamic research\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Work in progress\u2014An immersion course concentration in mobile web computing",
+        "id": "QSMgBHwAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Carol J Romanowski",
+            "Rajendra K Raj",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2011 Frontiers in Education Conference (FIE)",
+        "pub_date": "2011/10/12",
+        "description": "In the modern world of computing, diverse mobile devices connect to the internet and typically share data stored within the cloud. To live and succeed in this world, it is imperative that all majors, especially engineering majors, have an in-depth, not introductory, understanding of topics in mobile web computing. This paper explores the design and development of an immersion concentration of courses in these topics as part of general education at our institution. The concentration consists of courses that introduce hands-on programming of mobile devices; the issues in and the impact of architectural and distributed computing; and finally secure data management, privacy, and legal issues in mobile web computing. All of these courses focus on developing critical thinking, modern communication, contemporary issues, and life-long learning issues in the context of hands-on mobile computing. This work-in-progress\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Prediction-based virtual instance migration for balanced workload in the cloud datacenters",
+        "id": "QSMgBHwAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Shibu Daniel",
+            "Minseok Kwon"
+        ],
+        "pub_source": "Dept Comput Sci (GCCIS), Rochester Inst Technol, Rochester, NY, USA, Tech Rep",
+        "pub_date": "2011",
+        "description": "Datacenters in the cloud today provide virtualized resources of CPU, memory, disk, and networks so that millions of users can use the services at the same time in an efficient and scalable way. One of the major challenges in these datacenters is load balancing and shifting. As a huge number of requests are sent to a particular datacenter or a group of servers are asked to process more than their fair share, some of the servers are overloaded, slowed down, hot spots are created, and even hardware failures may occur. This unbalanced load in the end deteriorates the performance of the entire system easily. In this paper, we propose a load balancer that aims at alleviating hot spots and distributing the load from overloaded servers to underutilized servers. Our load balancer monitors the loads of the servers, detects indications of overloading, then migrates virtual instances from overloaded servers to target servers. We\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Distributed tries for load balancing in peer-to-peer systems",
+        "id": "QSMgBHwAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Gahyun Park",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2010 IEEE 18th International Workshop on Quality of Service (IWQoS)",
+        "pub_date": "2010/6/16",
+        "description": "In structured peer-to-peer (p2p) systems, distributed hash tables (DHTs) often partition the ID space into disjoint intervals with each interval assigned to the corresponding node. While nodes join and leave dynamically, one of the hard challenges posed by DHTs is load balancing across the ID space. Tries are known to be a viable data structure such that a balanced trie implies balanced intervals in the ID space. We establish a distributed trie as a deployable overlay network that connects the IDs of participating nodes. We propose a decentralized, efficient, and low-cost algorithm that balances ID intervals in DHTs using the trie. Our scheme allows a node to join or leave the system at a low cost, R + \u0398(log log n), where R denotes the message routing cost in DHTs and n is the number of nodes. Compared to the prior ID assignment schemes that require R + \u0398(log n) at best for the same operations, our new algorithm\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Synergy: An overlay internetworking architecture and implementation",
+        "id": "QSMgBHwAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "Journal of Communications and Networks",
+        "pub_date": "2010/4",
+        "description": "A multitude of overlay network designs for resilient routing, multicasting, quality of service, content distribution, storage, and object location have been proposed. Overlay networks offer several attractive features, including ease of deployment, flexibility, adaptivity, and an infrastructure for collaboration among hosts. In this paper, we explore cooperation among co-existing, possibly heterogeneous, overlay networks. We discuss a spectrum of cooperative forwarding and information sharing services, and investigate the associated scalability, heterogeneity, and security problems. Motivated by these services, we design Synergy, a utility-based overlay internetworking architecture that fosters overlay cooperation. Our architecture promotes fair peering relationships to achieve synergism. Results from Internet experiments with cooperative forwarding overlays indicate that our Synergy prototype improves delay, throughput\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Energy Aware Multimedia Sensor Networks",
+        "id": "QSMgBHwAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Manan Mehta",
+            "Minseok Kwon",
+            "Hans-Peter Bischof",
+            "James Heliotis"
+        ],
+        "pub_source": "",
+        "pub_date": "2009/4/28",
+        "description": "The accessibility of the low cost multimedia hardware such as CMOS cameras has fostered growth of wireless multimedia sensor networks (WMSN). Wireless multimedia sensor networks have a great role to play in surveillance and monitoring applications. In these kinds of applications, various sensors are deployed over the region to monitor some kind of anomaly. Once an anomaly is detected, video sensors start video capturing the anomaly and transmit burst of real time streaming data over the network. During surveillance mode (monitoring), there is less amount of data flowing through the network. Even if there is no significant network traffic, all the nodes remain active and drain significant amount of energy. We can use this characteristic of surveillance network and add energy awareness to the network. We can save the energy by judiciously putting some of the nodes in dormant condition such that the overall\u00a0\u2026"
+    },
+    {
+        "title": "Secure routing in peer-to-peer distributed hash tables",
+        "id": "QSMgBHwAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Keith Needels",
+            "Minseok Kwon"
+        ],
+        "pub_source": "Proceedings of the 2009 ACM symposium on Applied Computing",
+        "pub_date": "2009/3/8",
+        "description": "Distributed hash tables (DHTs) provide efficient and scalable lookup mechanisms for locating data in peer-to-peer (p2p) networks. Several issues, however, prevent DHT-based p2p networks from being widely deployed -- one of which is security. Malicious peers may modify, drop, misroute lookup requests, or even collude to deny the availability of target data. To address these security concerns, we propose an extension to Chord named Sechord. The main idea is that the source can determine whether the next hop is valid or invalid by estimating how far the next hop is from its finger pointer. If the next hop is too far away from the finger pointer, especially compared to the average distance between two consecutive peers, the source can infer some ongoing malicious activities. Our modifications require no trust between two nodes except node join. Moreover, each node utilizes locally available information to evaluate\u00a0\u2026",
+        "citations": 27
+    },
+    {
+        "title": "Vulnerabilities of the Real-time transport (RTP) protocol for voice over IP (VoIP) traffic",
+        "id": "QSMgBHwAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Mike Adams",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2009 6th IEEE Consumer Communications and Networking Conference",
+        "pub_date": "2009/1/10",
+        "description": "Over the past decade, Voice over IP (VoIP) has revolutionalized the telecommunications industry. VoIP has become more prevalent than ever, and consequently more users have switched to IP-based data networks for their telephone use from the analogue Public Switched Telephone Network (PSTN). One challenge, though, is to secure and protect these VoIP connections. In this paper, we investigate a new approach to demonstrate the vulnerability of VoIP connections. Our approach monitors real-time data streams (e.g., RTP), and inserts packets containing fraudulent voice data at expected times estimated from the monitoring. As false packets are well-aligned with original packets, we can maximize the effects of the test while minimizing the number of inserted packets. This minimal number of false packets also helps eschew the detection efforts of denial-of- service defense mechanisms. Our results indicate that\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Characterization of acoustic imaging noise-induced hemodynamic response as a function of noise intensity in human auditory cortex fMRI at 3.0 T",
+        "id": "QSMgBHwAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Minseok Kwon"
+        ],
+        "pub_source": "Purdue University",
+        "pub_date": "2009",
+        "description": "Acoustic imaging noise (AIN) associated with fast gradient switching during image acquisition is a confounding factor in auditory fMRI experiments. AIN interferes with the perception of desired stimuli as well as inducing hemodynamic responses that distort the responses to the desired stimuli. Moreover, non-linear behavior of the HDR to stimuli of varying intensities and durations make analysis of fMRI data more problematic. Therefore, characterization of the pure HDRs induced by AIN as a function of intensity of AIN may improve the analysis of responses to the desired auditory stimuli."
+    },
+    {
+        "title": "Work in progress-using a mobile robots laboratory to teach advanced computing concepts",
+        "id": "QSMgBHwAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Zack Butler",
+            "Minseok Kwon",
+            "Rajendra K Raj"
+        ],
+        "pub_source": "2008 38th Annual Frontiers in Education Conference",
+        "pub_date": "2008/10/22",
+        "description": "It is widely believed that one reason that the current generation of college students are not majoring in computing because such majors are viewed as uninteresting and not relevant. This WIP paper describes a curricular proof-of-concept project that attempts to integrate diverse computing concepts to increase and retain student interest in computing. We are developing a flexible mobile robots laboratory, not to teach introductory computing concepts but instead to teach intermediate and advanced computing topics such as networking, database management and distributed security. The essence of our approach is twofold: to provide exciting and physically-grounded projects in required intermediate-level courses, and to integrate the teaching of advanced computing topics into single courses, for example, networking with database management, and not merely defer such topics to capstone courses or projects. Such\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "RODMRP: Resilient on-demand multicast routing protocol",
+        "id": "QSMgBHwAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Dhammika Pathirana",
+            "Minseok Kwon"
+        ],
+        "pub_source": "21st International Conference on Advanced Information Networking and Applications Workshops (AINAW'07)",
+        "pub_date": "2007/5/21",
+        "description": "ODMRP (on-demand multicast routing protocol) [S. Lee et al., 1999] [S.J. Lee et al., 2000] [S. Ho et al., 2000] is a popular multicast protocol for wireless ad hoc networks. The strengths of ODMRP are simplicity, high packet delivery ratio, and non-dependency on a specific unicast protocol. ODMRP floods a route request over the entire network to select a set of forwarding nodes for packet delivery. However, a single forwarding path is vulnerable to node failures, which are common due to the dynamic nature of mobile ad hoc networks. Furthermore, a set of misbehaving or malicious nodes can create network partitions and mount denial-of-service (DoS) attacks. We propose a ODMRP-based wireless multicast protocol named RODMRP that offers more reliable forwarding paths in face of node and network failures. A subset of the nodes that are not on forwarding paths rebroadcast received packets to nodes in their\u00a0\u2026",
+        "citations": 30
+    },
+    {
+        "title": "Characterizing overlay multicast networks and their costs",
+        "id": "QSMgBHwAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Sonia Fahmy",
+            "Minseok Kwon"
+        ],
+        "pub_source": "IEEE/ACM transactions on networking",
+        "pub_date": "2007/4/16",
+        "description": "Overlay networks among cooperating hosts have recently emerged as a viable solution to several challenging problems, including multicasting, routing, content distribution, and peer-to-peer services. Application-level overlays, however, incur a performance penalty over router-level solutions. This paper quantifies and explains this performance penalty for overlay multicast trees via: 1) Internet experimental data; 2) simulations; and 3) theoretical models. We compare a number of overlay multicast protocols with respect to overlay tree structure, and underlying network characteristics. Experimental data and simulations illustrate that the mean number of hops and mean per-hop delay between parent and child hosts in overlay trees generally decrease as the level of the host in the overlay tree increases. Overlay multicast routing strategies, overlay host distribution, and Internet topology characteristics are identified as\u00a0\u2026",
+        "citations": 128
+    },
+    {
+        "title": "Resilient-ODMRP: Resilient On-Demand Multicast Routing Protocol",
+        "id": "QSMgBHwAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Dhammika Pathirana",
+            "Minseok Kwon"
+        ],
+        "pub_source": "",
+        "pub_date": "2007",
+        "description": "ODMRP (On-Demand Multicast Routing Protocol)[5][7][1] is a popular multicast protocol for wireless ad hoc networks. The strengths of ODMRP are simplicity, high packet delivery ratio, and non-dependency on a specific unicast protocol. ODMRP floods a route request over the entire network to select a set of forwarding nodes for packet delivery. However, a single forwarding path is vulnerable to node failures, which are common due to the dynamic nature of mobile ad hoc networks. Furthermore, a set of misbehaving or malicious nodes can create network partitions and mount Denial-of-Service (DoS) attacks. We propose a ODMRP-based wireless multicast protocol named Resilient-ODMRP that offers more reliable forwarding paths in face of node and network failures. A subset of the nodes that are not on forwarding paths rebroadcast received packets to nodes in their neighborhoods to overcome perceived node\u00a0\u2026"
+    },
+    {
+        "title": "Phyllo: a peer-to-peer overlay security framework",
+        "id": "QSMgBHwAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "William Heinbockel",
+            "Minseok Kwon"
+        ],
+        "pub_source": "1st IEEE ICNP Workshop on Secure Network Protocols, 2005.(NPSec).",
+        "pub_date": "2005/11/6",
+        "description": "Despite the success of peer-to-peer systems, a majority of their overlay architectures are vulnerable to exploitation. Some of the features for improved performance have created security holes that attackers can breach to gain control of the network. De facto network security solutions (e.g., trusted servers, encryption, and firewalls) offer little assistance, as they are often not compatible with the open and decentralized structure of peer-to-peer networks. To address overlay security problems, we propose Phyllo, a node-partitioning framework that isolates untrusted nodes from the core network. Yet, the isolated nodes can still participate in peer-to-peer communications. Our partitioning scheme also allows nodes to move between partitions, while introducing marginal performance overheads. Our experimental results indicate that Phyllo supports more reliable message delivery in the presence of malicious nodes.",
+        "citations": 10
+    },
+    {
+        "title": "Synergy: an overlay internetworking architecture",
+        "id": "QSMgBHwAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "Proceedings. 14th International Conference on Computer Communications and Networks, 2005. ICCCN 2005.",
+        "pub_date": "2005/10/17",
+        "description": "A multitude of overlay network designs for resilient routing, multicasting, quality of service, content distribution, storage, and object location have been recently proposed. Overlay networks offer several attractive features, including ease of deployment, flexibility, adaptivity, and an infrastructure for collaboration among hosts. In this paper, we explore cooperation among co-existing, possibly heterogeneous, overlay networks. We design Synergy, a utility-based overlay internetworking architecture that fosters overlay cooperation. Our architecture promotes fair peering relationships to achieve synergism. Results from Internet experiments with cooperative forwarding overlays indicate that our Synergy prototype improves delay, throughput, and loss performance, while maintaining the autonomy and heterogeneity of individual overlay networks.",
+        "citations": 56
+    },
+    {
+        "title": "Path-aware overlay multicast",
+        "id": "QSMgBHwAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "Computer Networks",
+        "pub_date": "2005/1/14",
+        "description": "We investigate a heuristic application-level (overlay) multicast approach, which we refer to as Topology Aware Grouping (TAG). TAG exploits underlying network topology data to construct overlay multicast networks. Specifically, TAG uses the overlap among routes from the source to group members to construct an efficient overlay network in a distributed, low-overhead manner. We can easily integrate TAG with delay and bandwidth bounds to construct overlays that satisfy application requirements. We study the properties of TAG, and quantify its economies of scale factor, compared to unicast and IP multicast. In addition, we compare TAG with delay-first and bandwidth-first Narada/End System Multicast (ESM) in a variety of simulation configurations. We also implement and experiment with TAG on the PlanetLab wide-area platform. Our results demonstrate the effectiveness of our heuristic in reducing delays and\u00a0\u2026",
+        "citations": 63
+    },
+    {
+        "title": "Designing and characterizing overlay networks",
+        "id": "QSMgBHwAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Minseok Kwon"
+        ],
+        "pub_source": "Purdue University",
+        "pub_date": "2004",
+        "description": "As widely adopted technologies tend to be ossified, Internet Service Providers (ISPs) are reluctant to adapt their core infrastructure to accommodate novel technologies. Overlay networks have emerged as a new strategy to suggest ways of introducing disruptive technology under these circumstances. Overlays can be used as a vehicle to implement new functionalities between the core IP networks and end-user computers, without the support from the ISPs. Several types of overlay networks for resilient routing, multicasting, quality of service, content distribution, storage, and object location have recently been proposed."
+    },
+    {
+        "title": "On TCP reaction to explicit congestion notification",
+        "id": "QSMgBHwAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "Journal of High Speed Networks",
+        "pub_date": "2004/1/1",
+        "description": "We investigate the behavior of a new response strategy to TCP Explicit Congestion Notification (ECN). The new strategy is more aggressive in the short term, but preserves TCP long term behavior\u2013without modifying the router ECN marking rate. A more aggressive short term behavior gives incentives for hosts to become ECN\u2010compliant. ECN serves as an early warning sign in this case. Our analysis demonstrates the effectiveness of the new TCP ECN behavior. Simulation results with short/long lived FTP, UDP and HTTP connections, multiple bottleneck configurations, and various TCP flavors and parameters, demonstrate higher throughput and reduced oscillations with the new response strategy.",
+        "citations": 8
+    },
+    {
+        "title": "Toward Cooperative Inter-overlay Networks",
+        "id": "QSMgBHwAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "Proceedings of ICNP",
+        "pub_date": "2003/11",
+        "description": "Over the past few years, overlay networks have emerged as a paradigm for sharing information and easily deploying disruptive technology. Overlay solutions have been introduced for multicasting, inter-domain routing, content distribution, content storage, quality of service, and peer-to-peer networking problems. Since overlays are easy to deploy, several diverse overlay networks may simultaneously exist in the Internet. These overlay networks may compete for the same resources on shared hosts and underlying network links and routers. The overlays may also have heterogeneous performance and service goals, such as minimum latency versus maximum bandwidth, and multicast distribution versus unicast forwarding. The possibility of cooperation among overlay networks to enhance their collective performance thus emerges. This cooperation may not only improve performance, but also enable sharing\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Toward cooperative inter-overlay networking",
+        "id": "QSMgBHwAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Minseok Kwon"
+        ],
+        "pub_source": "Poster in IEEE ICNP, Nov. 2003",
+        "pub_date": "2003",
+        "citations": 18
+    },
+    {
+        "title": "Comparison of load-based and queue-based active queue management algorithms",
+        "id": "QSMgBHwAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "Quality of Service over Next-Generation Internet",
+        "pub_date": "2002/7/1",
+        "description": "A number of active queue management algorithms have been studied since Random Early Detection (RED) was first introduced in 1993. While analytical and experimental studies have debated whether dropping/marking should be based on average or instantaneous queue length or, alternatively, based on input and output rates (or queue length slope), the merits and drawbacks of the proposed algorithms, and the effect of load-based versus queue-based control have not been adequately examined. In particular, only RED has been tested in realistic configurations and in terms of user metrics, such as response times and average delays. In this paper, we examine active queue management (AQM) that uses both load and queuing delay to determine its packet drop/mark probabilities.  This class of algorithms, which we call load/delay controllers (LDC), has the advantage of controlling the queuing delay as well as\u00a0\u2026",
+        "citations": 58
+    },
+    {
+        "title": "Topology-aware overlay networks for group communication",
+        "id": "QSMgBHwAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "Proceedings of the 12th international workshop on Network and operating systems support for digital audio and video",
+        "pub_date": "2002/5/12",
+        "description": "We propose an application level multicast approach, Topology Aware Grouping (TAG), which exploits underlying network topology information to build efficient overlay networks among multicast group members. TAG uses information about path overlap among members to construct a tree that reduces the overlay relative delay penalty, and reduces the number of duplicate copies of a packet on the same link. We study the properties of TAG, and model and experiment with its economies of scale factor to quantify its benefits compared to unicast and IP multicast. We also compare the TAG approach with the ESM approach in a variety of simulation configurations including a number of real Internet topologies and generated topologies. Our results indicate the effectiveness of the algorithm in reducing delays and duplicate packets, with reasonable algorithm time and space complexities.",
+        "citations": 290
+    },
+    {
+        "title": "TCP increase/decrease behavior with explicit congestion notification (ECN)",
+        "id": "QSMgBHwAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No. 02CH37333)",
+        "pub_date": "2002/4/28",
+        "description": "We investigate the effect of TCP explicit congestion notification (ECN) with a new response strategy that is more aggressive in the short term, but preserves TCP long term behavior, without modifying the router marking rate. A less aggressive ECN decrease gives more incentives for end systems to become ECN-compliant, as ECN serves as an early warning sign in this case. Our analysis and simulation results demonstrate the effectiveness of the new algorithm in improving throughput and reducing fluctuations. We model a multiple bottleneck scenario with various types of traffic, and evaluate the effect of a number of parameters, including TCP flavor, increase/decrease parameters, buffer size, and random early detection (RED) parameters.",
+        "citations": 35
+    },
+    {
+        "title": "Experience with software watermarking",
+        "id": "QSMgBHwAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Jens Palsberg",
+            "Sowmya Krishnaswamy",
+            "Minseok Kwon",
+            "Di Ma",
+            "Qiuyun Shao",
+            "Yi Zhang"
+        ],
+        "pub_source": "Proceedings 16th Annual Computer Security Applications Conference (ACSAC'00)",
+        "pub_date": "2000/12/11",
+        "description": "There are at least four US patents on software watermarking, and an idea for further advancing the state of the art was presented by C. Collberg and C. Thomborsen (1999). The new idea is to embed a watermark in dynamic data structures, thereby protecting against many program-transformation attacks. Until now there have been no reports on practical experience with this technique. We have implemented and experimented with a watermarking system for Java based on the ideas of Collberg and Thomborsen. Our experiments show that watermarking can be done efficiently with moderate increases in code size, execution times and heap-space usage, while making the watermarked code resilient to a variety of program-transformation attacks. For a particular representation of watermarks, the time to retrieve a watermark is on the order of one minute per megabyte of heap space. Our implementation is not designed\u00a0\u2026",
+        "citations": 233
+    },
+    {
+        "title": "Regionalism and integration",
+        "id": "QSMgBHwAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Fiona Butler"
+        ],
+        "pub_source": "The globalization of world politics: an introduction to international relations",
+        "pub_date": "1997",
+        "citations": 63
+    },
+    {
+        "title": "File Input and Output",
+        "id": "QSMgBHwAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Minseok Kwon"
+        ],
+        "pub_source": "Rochester Institute of Technology, 0",
+        "pub_date": ""
+    },
+    {
+        "title": "Exploiting Semantic Localities to Improve Peer-to-Peer Search",
+        "id": "QSMgBHwAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Ajitabh Sharan",
+            "Minseok Kwon"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Today many users run file sharing applications on peer-to-peer networks to find their favorite music, movie titles, and software. A query from a peer is relayed to next peers until the query reaches the peer that contains correct data. Searching in peer-to-peer networks is a challenge for the following reasons: 1) huge data size, 2) complex management required, 3) dynamic network conditions, and 4) distributed systems. Moreover, a blind and uninformed search may lead to performance degradation due to its redundancy and resource wastes. To address these weaknesses, Distributed Hash Table (DHT) has been proposed to place tight constraints on node placement. DHT-based approaches, however, does not consider content relations (or locality).We propose a new peer-to-peer model that utilizes locality in the network to mitigate the complexity in data searching. Here, locality is a logical semantic categorization of\u00a0\u2026"
+    },
+    {
+        "title": "Track on Internet Services, Systems and Applications (ISSA)",
+        "id": "QSMgBHwAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Kevin Almeroth",
+            "Byung Choi",
+            "Michele Colajanni",
+            "Minaxi Gupta",
+            "Khaled Harfoush",
+            "Eunjin Jung",
+            "Jasleen Kaur",
+            "Ewa Kusmierek",
+            "Minseok Kwon",
+            "Chad Mano",
+            "Sumesh Philip",
+            "Guillaume Pierre",
+            "Christian Poellabauer",
+            "Narasimha Reddy",
+            "Kamil Sarac",
+            "Aaron Striegel",
+            "Sara Tucci-Piergiovanni",
+            "Lisong Xu",
+            "Praveen Yalagandula",
+            "Stefano Avallone",
+            "Fernando Boavida"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Technical Program Committee Page 1 Technical Program Committee (Grouped by Tracks) \nTrack on Emerging Wireless Technologies and Platforms (EWTP) Antonios Alexiou, University \nof Patras Chen-Mou Cheng, National Taiwan University Kun-chan Lan, National Cheng Kung \nUniversity Scott Nettles, University of Texas at Austin Qiang Ni, Brunel University Hongyi Wu, \nUniversity of Louisiana at Lafayette Hsiao-Chun Wu, Louisiana State University Murtaza \nZafer, IBM T. J Watson Research Track on Internet Services, Systems and Applications (ISSA) \nKevin Almeroth, University of California, Santa Barbara Byung Choi, Michigan Technological \nUniversity Michele Colajanni, University of Modena Minaxi Gupta, Indiana University Khaled \nHarfoush, North Carolina State University Eunjin Jung, The University of Iowa Jasleen Kaur, \nUniversity of North Carolina at Chapel Hill Ewa Kusmierek, Poznan Supercomputing and \u2026"
+    },
+    {
+        "title": "On the Effectiveness of Route-aware Overlay Multicast",
+        "id": "QSMgBHwAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=QSMgBHwAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Minseok Kwon",
+            "Sonia Fahmy"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "We investigate a heuristic application-level (overlay) multicast approach, which we refer to as Topology Aware Grouping (TAG). TAG exploits underlying network topology data to construct overlay multicast networks. TAG uses information about overlap in routes from the source among group members to set up the overlay network in a distributed, low-overhead manner. We can easily integrate TAG with delay and bandwidth bounds to construct overlays that satisfy application requirements. We study the properties of TAG, and quantify its economies of scale factor, compared to unicast and IP multicast. In addition, we compare TAG with delay-first and bandwidth-first Narada/End System Multicast (ESM) in a variety of simulation configurations. We also implement and experiment with TAG on the PlanetLab wide-area platform. Our results demonstrate the effectiveness of our heuristic in reducing delays and duplicate\u00a0\u2026"
+    }
+]

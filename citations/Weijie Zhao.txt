@@ -1,0 +1,146 @@
+"Token-wise Influential Training Data Retrieval for Large Language Models"
+H Lin, J Long, Z Xu, W Zhao - arXiv preprint arXiv:2405.11724, 2024
+
+"GUITAR: Gradient Pruning toward Fast Neural Ranking"
+W Zhao, S Tan, P Li - arXiv preprint arXiv:2312.16828, 2023
+
+"Machine unlearning in gradient boosting decision trees"
+H Lin, JW Chung, Y Lao, W Zhao - Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023
+
+"Building K-Anonymous User Cohorts with Consecutive Consistent Weighted Sampling (CCWS)"
+X Zheng, W Zhao, X Li, P Li - Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2023
+
+"Asymmetric Hashing for Fast Ranking via Neural Network Measures"
+KD Doan, S Tan, W Zhao, P Li - Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2023
+
+"Blockwise Feature Interaction in Recommendation Systems"
+W Zhao, P Li - arXiv preprint arXiv:2306.15881, 2023
+
+"Pb-Hash: Partitioned b-bit Hashing"
+P Li, W Zhao - arXiv preprint arXiv:2306.15944, 2023
+
+"Practice with Graph-based ANN Algorithms on Sparse Data: Chi-square Two-tower model, HNSW, Sign Cauchy Projections"
+P Li, W Zhao, C Wang, Q Xia, A Wu, L Peng - arXiv preprint arXiv:2306.07607, 2023
+
+"On the convergence of decentralized adaptive gradient methods"
+X Chen, B Karimi, W Zhao, P Li - Asian Conference on Machine Learning, 2023
+
+"Feature Fusion Network for Personalized Online Advertising Systems"
+W Zhao, P Yang, D Li, X Shen, L Liu, P Li - 2022 IEEE International Conference on Big Data (Big Data), 2022
+
+"FeatureBox: Feature engineering on GPUs for massive-scale ads systems"
+W Zhao, X Jiao, X Luo, J Li, B Karimi, P Li - 2022 IEEE International Conference on Big Data (Big Data), 2022
+
+"PaddleBox: Communication-Efficient TeraByte-Scale Model Training Framework for Online Advertising"
+W Zhao, X Jiao, M Hu, X Li, X Zhang, P Li - 2022 IEEE International Conference on Big Data (Big Data), 2022
+
+"Constrained Approximate Similarity Search on Proximity Graph"
+W Zhao, S Tan, P Li - arXiv preprint arXiv:2210.14958, 2022
+
+"GCWSNet: Generalized consistent weighted sampling for scalable and accurate training of neural networks"
+P Li, W Zhao - Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022
+
+"Integrity authentication in tree models"
+W Zhao, Y Lao, P Li - Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022
+
+"pGMM Kernel Regression and Comparisons with Boosted Trees"
+P Li, W Zhao - arXiv preprint arXiv:2207.08667, 2022
+
+"Package for fast abc-boost"
+P Li, W Zhao - arXiv preprint arXiv:2207.08770, 2022
+
+"Deepauth: A dnn authentication framework by model-unique and fragile signature embedding"
+Y Lao, W Zhao, P Yang, P Li - Proceedings of the AAAI Conference on Artificial Intelligence, 2022
+
+"Proximity graph maintenance for fast online nearest neighbor search"
+Z Xu, W Zhao, S Tan, Z Zhou, P Li - arXiv preprint arXiv:2206.10839, 2022
+
+"Fast ABC-Boost: A unified framework for selecting the base class in multi-class classification"
+P Li, W Zhao - arXiv preprint arXiv:2205.10927, 2022
+
+"Identification for deep neural network: Simply adjusting few weights!"
+Y Lao, P Yang, W Zhao, P Li - 2022 IEEE 38th International Conference on Data Engineering (ICDE), 2022
+
+"Multi-task and multi-scene unified ranking model for online advertising"
+S Tan, M Li, W Zhao, Y Zheng, X Pei, P Li - 2021 IEEE International Conference on Big Data (Big Data), 2021
+
+"Fast neural ranking on bipartite graph indices"
+S Tan, W Zhao, P Li - Proceedings of the VLDB Endowment, 2021
+
+"Norm adjusted proximity graph for fast inner product retrieval"
+S Tan, Z Xu, W Zhao, H Fei, Z Zhou, P Li - Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021
+
+"Multi-type textual reasoning for product-aware answer generation"
+Y Feng, Z Ren, W Zhao, M Sun, P Li - Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021
+
+"Agile and accurate CTR prediction model training for massive-scale online advertising systems"
+Z Xu, D Li, W Zhao, X Shen, T Huang, X Li, P Li - Proceedings of the 2021 international conference on management of data, 2021
+
+"TIRA in baidu image advertising"
+T Yu, X Yang, Y Jiang, H Zhang, W Zhao, P Li - 2021 IEEE 37th International Conference on Data Engineering (ICDE), 2021
+
+"Consistent sampling through extremal process"
+P Li, X Li, G Samorodnitsky, W Zhao - Proceedings of the Web Conference 2021, 2021
+
+"Lira: Learnable, imperceptible and robust backdoor attacks"
+K Doan, Y Lao, W Zhao, P Li - Proceedings of the IEEE/CVF international conference on computer vision, 2021
+
+"Distributed Hierarchical GPU Parameter Server for Massive Scale Deep Learning Ads Systems"
+W Zhao, D Xie, R Jia, Y Qian, R Ding, M Sun, P Li - Proceedings of the 3rd MLSys Conference, Austin, TX, USA, 2020., 2020
+
+"Thunder: a fast coordinate selection solver for sparse learning"
+S Ren, W Zhao, P Li - Advances in Neural Information Processing Systems, 2020
+
+"SONG: Approximate Nearest Neighbor Search on GPU"
+W Zhao, S Tan, P Li - ICDE' 20, 2020
+
+"AIBox: CTR prediction model training on a single node"
+W Zhao, J Zhang, D Xie, Y Qian, R Jia, P Li - Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019
+
+"Machine learning applied to retrieval of temperature and concentration distributions from infrared emission measurements"
+T Ren, MF Modest, A Fateev, G Sutton, W Zhao, F Rusu - Applied Energy, 2019
+
+"Distributed caching for processing raw arrays"
+W Zhao, F Rusu, B Dong, K Wu, AY Ho, P Nugent - Proceedings of the 30th International Conference on Scientific and Statistical Database Management, 2018
+
+"Distributed Caching for Complex Querying of Raw Arrays"
+W Zhao, F Rusu, B Dong, K Wu, AY Ho, P Nugent - arXiv preprint arXiv:1803.06089, 2018
+
+"iPTF Archival Search for Fast Optical Transients"
+AY Ho, S Kulkarni, PE Nugent, W Zhao, F Rusu, SB Cenko, V Ravi, MM Kasliwal, DA Perley, SM Adams, EC Bellm, P Brady, C Fremling, A Gal-Yam, DA Kann, D Kaplan, RR Laher, F Masci, EO Ofek, J Sollerman, A Urban - The Astrophysical Journal Letters, 2018
+
+"Advanced Database Techniques for Processing Scientific Multi-Dimensional Data"
+W Zhao - University of California, Merced, 2018
+
+"Automatic identification and classification of Palomar Transient Factory astrophysical objects in GLADE"
+W Zhao, F Rusu, K Wu, P Nugent - International Journal of Computational Science and Engineering, 2018
+
+"Illuminating gravitational waves: a concordant picture of photons from a neutron star merger"
+M Kasliwal, E Nakar, L Singer, D Kaplan, D Cook, AV Sistine, R Lau, C Fremling, O Gottlieb, J Jencson, S Adams, U Feindt, K Hotokezaka, S Ghosh, D Perley, P Yu, T Piran, J Allison, G Anupama, A Balasubramanian, K Bannister, J Bally, J Barnes, S Barway, E Bellm, V Bhalerao, D Bhattacharya, N Blagorodnova, J Bloom, P Brady, C Cannella, D Chatterjee, S Cenko, B Cobb, C Copperwheat, A Corsi, K De, D Dobie, S Emery, P Evans, O Fox, D Frail, C Frohmaier, A Goobar, G Hallinan, F Harrison, G Helou, T Hinderer, A Ho, A Horesh, W Ip, R Itoh, D Kasen, H Kim, N Kuin, T Kupfer, C Lynch, K Madsen, P Mazzali, A Miller, K Mooley, T Murphy, C Ngeow, D Nichols, S Nissanke, P Nugent, E Ofek, H Qi, R Quimby, S Rosswog, F Rusu, E Sadler, P Schmidt, J Sollerman, I Steele, A Williamson, Y Xu, L Yan, Y Yatsu, C Zhang, W Zhao - Science, 2017
+
+"Incremental view maintenance over array data"
+W Zhao, F Rusu, B Dong, K Wu, P Nugent - Proceedings of the 2017 ACM International Conference on Management of Data, 2017
+
+"OLA-RAW: scalable exploration over raw data"
+Y Cheng, W Zhao, F Rusu - arXiv preprint arXiv:1702.00358, 2017
+
+"Bi-Level Online Aggregation on Raw Data"
+Y Cheng, W Zhao, F Rusu - SSDBM 2017, 2017
+
+"ArrayUDF: User-Defined Scientific Data Analysis on Arrays"
+B Dong, K Wu, S Byna, J Liu, W Zhao, F Rusu - HPDC 2017, 2017
+
+"Similarity Join over Array Data"
+W Zhao, F Rusu, B Dong, K Wu - SIGMOD '16, 2016
+
+"Vertical partitioning for query processing over raw data"
+W Zhao, Y Cheng, F Rusu - Proceedings of the 27th International Conference on Scientific and Statistical Database Management, 2015
+
+"Workload-driven vertical partitioning for effective query processing over raw data"
+W Zhao, Y Cheng, F Rusu - arXiv preprint arXiv:1503.08946, 2015
+
+"A novel iris patterns matching algorithm of weighted polar frequency correlation"
+W Zhao, L Jiang - International Symposium on Optoelectronic Technology and Application 2014: Image Processing and Pattern Recognition, 2014
+
+"An application of scale-invariant feature transform in iris recognition"
+W Zhao, X Chen, J Cheng, L Jiang - 2013 IEEE/ACIS 12th International Conference on Computer and Information Science (ICIS), 2013

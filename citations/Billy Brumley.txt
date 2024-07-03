@@ -1,0 +1,155 @@
+"Investigating child sexual abuse material availability, searches, and users on the anonymous Tor network for a public health intervention strategy"
+J Nurmi, A Paju, BB Brumley, T Insoll, AK Ovaska, V Soloveva, N Vaaranen-Valkonen, M Aaltonen, D Arroyo - Scientific Reports, 2024
+
+"Contribuciones a la implementaciÃ³n de sistemas electrÃ³nicos digitales embebidos sobre hardware reconfigurable"
+C Sarmiento, AC Aldaya, S Santiago, EI Junior, TC Pimenta, BB Brumley - Anales de la Academia de Ciencias de Cuba, 2023
+
+"Malware Finances and Operations: a Data-Driven Study of the Value Chain for Infections and Compromised Access"
+J Nurmi, M Niemelä, BB Brumley - Proceedings of the 18th International Conference on Availability, Reliability and Security, 2023
+
+"SoK: A Systematic Review of TEE Usage for Developing Trusted Applications"
+A Paju, MO Javed, J Nurmi, J Savimäki, B McGillion, BB Brumley - Proceedings of the 18th International Conference on Availability …, 2023
+
+"{OpenSSLNTRU}: Faster post-quantum {TLS} key exchange"
+DJ Bernstein, BB Brumley, M Chen, N Tuveri - 31st USENIX Security Symposium (USENIX Security 22), 2022
+
+"{HyperDegrade}: From {GHz} to {MHz} Effective {CPU} Frequencies"
+AC Aldaya, BB Brumley - 31st USENIX Security Symposium (USENIX Security 22), 2022
+
+"Attestation Waves: Platform Trust via Remote Power Analysis"
+IM Delgado-Lozano, MC Martínez-Rodríguez, A Bakas, BB Brumley, A Michalas - International Conference on Cryptology and Network Security, 2021
+
+"A formula for disaster: a unified approach to elliptic curve special-point-based attacks"
+V Sedlacek, J Chi-Domínguez, J Jancar, BB Brumley - International Conference on the Theory and Application of Cryptology and Information Security, 2021
+
+"SoK: Remote power analysis"
+MC Martínez-Rodríguez, IM Delgado-Lozano, BB Brumley - Proceedings of the 16th International Conference on Availability, Reliability and Security, 2021
+
+"Set it and forget it! Turnkey ECC for instant integration"
+D Belyavsky, BB Brumley, J Chi-Domínguez, L Rivera-Zamarripa, I Ustinov - Proceedings of the 36th Annual Computer Security Applications Conference, 2020
+
+"Déjà Vu: Side-Channel Analysis of Mozilla's NSS"
+SU Hassan, I Gridin, IM Delgado-Lozano, CP García, J Chi-Domínguez, AC Aldaya, BB Brumley - Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security, 2020
+
+"Online template attacks: Revisited"
+AC Aldaya, BB Brumley - arXiv preprint arXiv:2007.05337, 2020
+
+"From A to Z: Projective coordinates leakage in the wild"
+AC Aldaya, CP García, BB Brumley - IACR Transactions on Cryptographic Hardware and Embedded Systems, 2020
+
+"When one vulnerable primitive turns viral: Novel single-trace attacks on ECDSA and RSA"
+AC Aldaya, BB Brumley - Cryptology ePrint Archive, 2020
+
+"Start your ENGINEs: dynamically loadable contemporary crypto"
+N Tuveri, BB Brumley - 2019 IEEE Cybersecurity Development (SecDev), 2019
+
+"Certified Side Channels"
+CP García, N Tuveri, I Gridin, AC Aldaya, BB Brumley - arXiv e-prints, 2019
+
+"Memory tampering attack on binary GCD based inversion algorithms"
+AC Aldaya, BB Brumley, AJC Sarmiento, S Sánchez-Solano - International Journal of Parallel Programming, 2019
+
+"Port contention for fun and profit"
+AC Aldaya, BB Brumley, Su Hassan, CP García, N Tuveri - 2019 IEEE Symposium on Security and Privacy (SP), 2019
+
+"Batch binary weierstrass"
+BB Brumley, Su Hassan, A Shaindlin, N Tuveri, K Vuojärvi - Progress in Cryptology–LATINCRYPT 2019: 6th International Conference on Cryptology and Information Security in Latin America, Santiago de Chile, Chile, October 2–4, 2019, Proceedings 6, 2019
+
+"Triggerflow: Regression testing by advanced execution path inspection"
+I Gridin, CP García, N Tuveri, BB Brumley - Detection of Intrusions and Malware, and Vulnerability Assessment: 16th International Conference, DIMVA 2019, Gothenburg, Sweden, June 19–20, 2019, Proceedings 16, 2019
+
+"Side-channel analysis of SM2: A late-stage featurization case study"
+N Tuveri, Su Hassan, CP García, BB Brumley - Proceedings of the 34th Annual Computer Security Applications Conference, 2018
+
+"Cache-timing attacks on RSA key generation"
+AC Aldaya, CP García, LMA Tapia, BB Brumley - Cryptology ePrint Archive, 2018
+
+"{Constant-Time} Callees with {Variable-Time} Callers"
+CP García, BB Brumley - 26th USENIX Security Symposium (USENIX Security 17), 2017
+
+"Amplifying side channels through performance degradation"
+T Allan, BB Brumley, K Falkner, JVd Pol, Y Yarom - Proceedings of the 32nd Annual Conference on Computer Security Applications, 2016
+
+"Make sure DSA signing exponentiations really are constant-time"
+CP García, BB Brumley, Y Yarom - Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security, 2016
+
+"Secure IT Systems"
+BB Brumley, J Röning, Brumley - Springer International Publishing, 2016
+
+"WHIRLBOB, the Whirlpool Based Variant of STRIBOB: Lighter, Faster, and Constant Time"
+MO Saarinen, BB Brumley - Secure IT Systems: 20th Nordic Conference, NordSec 2015, Stockholm, Sweden, October 19–21, 2015, Proceedings, 2015
+
+"Faster Binary Curve Software: A Case Study"
+BB Brumley - Secure IT Systems: 20th Nordic Conference, NordSec 2015, Stockholm, Sweden, October 19–21, 2015, Proceedings, 2015
+
+"Cache storage attacks"
+BB Brumley - Topics in Cryptology–-CT-RSA 2015: The Cryptographer's Track at the RSA Conference 2015, San Francisco, CA, USA, April 20-24, 2015. Proceedings, 2015
+
+"Faster software for fast endomorphisms"
+BB Brumley - Constructive Side-Channel Analysis and Secure Design: 6th International Workshop, COSADE 2015, Berlin, Germany, April 13-14, 2015. Revised Selected Papers 6, 2015
+
+"Faster 128-EEA3 and 128-EIA3 software"
+R Avanzi, BB Brumley - Information Security: 16th International Conference, ISC 2013, Dallas, Texas, November 13-15, 2013, Proceedings, 2015
+
+"Secure and fast implementations of two involution ciphers"
+BB Brumley - Information Security Technology for Applications: 15th Nordic Conference on Secure IT Systems, NordSec 2010, Espoo, Finland, October 27-29, 2010, Revised Selected Papers 15, 2012
+
+"Practical realisation and elimination of an ECC-related software bug attack"
+BB Brumley, M Barbosa, D Page, F Vercauteren - Topics in Cryptology–CT-RSA 2012: The Cryptographers’ Track at the RSA Conference 2012, San Francisco, CA, USA, February 27–March 2, 2012. Proceedings, 2012
+
+"Remote timing attacks are still practical"
+BB Brumley, N Tuveri - European Symposium on Research in Computer Security, 2011
+
+"Bit-sliced binary normal basis multiplication"
+BB Brumley, D Page - 2011 IEEE 20th Symposium on Computer Arithmetic, 2011
+
+"Practical realisation and elimination of an ECC-related software bug attack"
+BB Brumley, M Barbosa, D Page, F Vercauteren - Cryptology ePrint Archive, 2011
+
+"Covert timing channels, caching, and cryptography"
+BB Brumley - Aalto University, 2011
+
+"New results on instruction cache attacks"
+O Acıiçmez, BB Brumley, P Grabher - International workshop on cryptographic hardware and embedded systems, 2010
+
+"Consecutive S-box lookups: A Timing Attack on SNOW 3G"
+BB Brumley, RM Hakala, K Nyberg, S Sovio - Information and Communications Security: 12th International Conference, ICICS 2010, Barcelona, Spain, December 15-17, 2010. Proceedings 12, 2010
+
+"Conversion algorithms and implementations for Koblitz curve cryptography"
+BB Brumley, KU Jarvinen - IEEE Transactions on computers, 2009
+
+"On modular decomposition of integers"
+BB Brumley, K Nyberg - Progress in Cryptology–AFRICACRYPT 2009: Second International Conference on Cryptology in Africa, Gammarth, Tunisia, June 21-25, 2009. Proceedings 2, 2009
+
+"Cache-timing template attacks"
+BB Brumley, RM Hakala - Advances in Cryptology–ASIACRYPT 2009: 15th International Conference on the Theory and Application of Cryptology and Information Security, Tokyo, Japan, December 6-10, 2009. Proceedings 15, 2009
+
+"Attacks on message stream encryption"
+BB Brumley, J Valkonen - Proceedings of the 13th Nordic Workshop on Secure IT Systems, 2008
+
+"Implementing Cryptography for Packet Level Authentication."
+BB Brumley - Security and Management, 2008
+
+"Fast point decompression for standard elliptic curves"
+BB Brumley, KU Järvinen - European Public Key Infrastructure Workshop, 2008
+
+"Differential properties of elliptic curves and blind signatures"
+BB Brumley, K Nyberg - Information Security: 10th International Conference, ISC 2007, Valparaíso, Chile, October 9-12, 2007. Proceedings 10, 2007
+
+"Koblitz curves and integer equivalents of Frobenius expansions"
+BB Brumley, K Järvinen - Selected Areas in Cryptography: 14th International Workshop, SAC 2007, Ottawa, Canada, August 16-17, 2007, Revised Selected Papers 14, 2007
+
+"Efficient Elliptic Curve Algorithms for Compact Digital Signatures"
+BB Brumley - HELSINKI UNIVERSITY OF TECHNOLOGY, 2006
+
+"Efficient three-term simultaneous elliptic scalar multiplication with applications"
+BB Brumley - Proceedings of the 11th Nordic Workshop on Secure IT Systems—NordSec, 2006
+
+"Blinding Self-Certified Key Issuing Protocols Using Elliptic Curves"
+BB Brumley - December, 2006
+
+"Left-to-Right Signed-Bit τ-Adic Representations of n Integers (Short Paper)"
+BB Brumley - Information and Communications Security: 8th International Conference, ICICS 2006, Raleigh, NC, USA, December 4-7, 2006. Proceedings 8, 2006
+
+"A3/A8 & COMP128"
+B Brumley - T-79.514 Special Course on Cryptology, 2004

@@ -1,0 +1,1111 @@
+[
+    {
+        "title": "Investigating child sexual abuse material availability, searches, and users on the anonymous Tor network for a public health intervention strategy",
+        "id": "7QX0AQYAAAAJ:XiSMed-E-HIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:XiSMed-E-HIC",
+        "authors": [
+            "Juha Nurmi",
+            "Arttu Paju",
+            "Billy Bob Brumley",
+            "Tegan Insoll",
+            "Anna K Ovaska",
+            "Valeriia Soloveva",
+            "Nina Vaaranen-Valkonen",
+            "Mikko Aaltonen",
+            "David Arroyo"
+        ],
+        "pub_source": "Scientific Reports",
+        "pub_date": "2024/4/3",
+        "description": "Tor is widely used for staying anonymous online and accessing onion websites; unfortunately, Tor is popular for distributing and viewing illicit child sexual abuse material (CSAM). From 2018 to 2023, we analyse 176,683 onion domains and find that one-fifth share CSAM. We find that CSAM is easily available using 21 out of the 26 most-used Tor search engines. We analyse 110,133,715 search sessions from the Ahmia.fi search engine and discover that 11.1% seek CSAM. When searching CSAM by age, 40.5% search for 11-year-olds and younger; 11.0% for 12-year-olds; 8.2% for 13-year-olds; 11.6% for 14-year-olds; 10.9% for 15-year-olds; and 12.7% for 16-year-olds. We demonstrate accurate filtering for search engines, introduce intervention, show a questionnaire for CSAM users, and analyse 11,470 responses. 65.3% of CSAM users first saw the material when they were children themselves, and half of the\u00a0\u2026"
+    },
+    {
+        "title": "Contribuciones a la implementaci\u00c3\u00b3n de sistemas electr\u00c3\u00b3nicos digitales embebidos sobre hardware reconfigurable",
+        "id": "7QX0AQYAAAAJ:p2g8aNsByqUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:p2g8aNsByqUC",
+        "authors": [
+            "Cabrera Sarmiento",
+            "Alejandro Cabrera Aldaya",
+            "S\u00c3 Santiago",
+            "Egidio Ieno Junior",
+            "Tales Cleber Pimenta",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Anales de la Academia de Ciencias de Cuba",
+        "pub_date": "2023/10/31",
+        "description": "Introducci\u00c3\u00b3n: Los sistemas electr\u00c3\u00b3nicos embebidos sobre dispositivos de hardware reconfigurable posibilitan la realizaci\u00c3\u00b3n de implementaciones h\u00c3bridas hardware/software que permiten acelerar mediante hardware las funciones de mayor latencia, por lo que constituye un campo de investigaci\u00c3\u00b3n actual el desarrollo de arquitecturas hardware parametrizables que posibiliten su utilizaci\u00c3\u00b3n en diversas aplicaciones. El objetivo de este trabajo es presentar diferentes contribuciones en este campo relacionadas con la aceleraci\u00c3\u00b3n de funciones de procesamiento de im\u00c3\u00a1 genes y funciones criptogr\u00c3\u00a1 ficas, as\u00c3 como en la detecci\u00c3\u00b3n de posibles vulnerabilidades ante diferentes tipos de ataques."
+    },
+    {
+        "title": "Malware Finances and Operations: a Data-Driven Study of the Value Chain for Infections and Compromised Access",
+        "id": "7QX0AQYAAAAJ:OU6Ihb5iCvQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:OU6Ihb5iCvQC",
+        "authors": [
+            "Juha Nurmi",
+            "Mikko Niemel\u00e4",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Proceedings of the 18th International Conference on Availability, Reliability and Security",
+        "pub_date": "2023/8/29",
+        "description": "We investigate the criminal market dynamics of infostealer malware and publish three evidence datasets on malware infections and trade. We justify the value chain between illicit enterprises using the datasets, compare the prices and added value, and use the value chain to identify the most effective countermeasures.  We begin by examining infostealer malware victim logs shared by actors on hacking forums, and extract victim information and mask sensitive data to protect privacy. We find access to these same victims for sale at Genesis Market. This technically sophisticated marketplace provides its own browser to access victim\u2019s online accounts. We collect a second dataset and discover that 91% of prices fall between 1\u201320 US dollars, with a median of 5 US dollars.  Database Market sells access to compromised online accounts. We produce yet another dataset, finding 91% of prices fall between 1\u201330 US\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "SoK: A Systematic Review of TEE Usage for Developing Trusted Applications",
+        "id": "7QX0AQYAAAAJ:uWQEDVKXjbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:uWQEDVKXjbEC",
+        "authors": [
+            "Arttu Paju",
+            "Muhammad Owais Javed",
+            "Juha Nurmi",
+            "Juha Savim\u00e4ki",
+            "Brian McGillion",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Proceedings of the 18th International Conference on Availability\u00a0\u2026",
+        "pub_date": "2023/8/29",
+        "description": "Trusted Execution Environments (TEEs) are a feature of modern central processing units (CPUs) that aim to provide a high assurance, isolated environment in which to run workloads that demand both confidentiality and integrity. Hardware and software components in the CPU isolate workloads, commonly referred to as Trusted Applications (TAs), from the main operating system (OS). This article aims to analyse the TEE ecosystem, determine its usability, and suggest improvements where necessary to make adoption easier. To better understand TEE usage, we gathered academic and practical examples from a total of 223 references. We summarise the literature and provide a publication timeline, along with insights into the evolution of TEE research and deployment. We categorise TAs into major groups and analyse the tools available to developers. Lastly, we evaluate trusted container projects, test performance\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "{OpenSSLNTRU}: Faster post-quantum {TLS} key exchange",
+        "id": "7QX0AQYAAAAJ:yD5IFk8b50cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:yD5IFk8b50cC",
+        "authors": [
+            "Daniel J Bernstein",
+            "Billy Bob Brumley",
+            "Ming-Shing Chen",
+            "Nicola Tuveri"
+        ],
+        "pub_source": "31st USENIX Security Symposium (USENIX Security 22)",
+        "pub_date": "2022",
+        "description": "Google's CECPQ1 experiment in 2016 integrated a post-quantum key-exchange algorithm, newhope1024, into TLS 1.2. The Google-Cloudflare CECPQ2 experiment in 2019 integrated a more efficient key-exchange algorithm, ntruhrss701, into TLS 1.3.",
+        "citations": 19
+    },
+    {
+        "title": "{HyperDegrade}: From {GHz} to {MHz} Effective {CPU} Frequencies",
+        "id": "7QX0AQYAAAAJ:zA6iFVUQeVQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:zA6iFVUQeVQC",
+        "authors": [
+            "Alejandro Cabrera Aldaya",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "31st USENIX Security Symposium (USENIX Security 22)",
+        "pub_date": "2022",
+        "description": "Performance degradation techniques are an important complement to side-channel attacks. In this work, we propose HYPERDEGRADE\u2014a combination of previous approaches and the use of simultaneous multithreading (SMT) architectures. In addition to the new technique, we investigate the root causes of performance degradation using cache eviction, discovering a previously unknown slowdown origin. The slowdown produced is significantly higher than previous approaches, which translates into an increased time granularity for FLUSH+ RELOAD attacks. We evaluate HYPERDEGRADE on different Intel microarchitectures, yielding significant slowdowns that achieve, in select microbenchmark cases, three orders of magnitude improvement over state-of-the-art. To evaluate the efficacy of performance degradation in side-channel amplification, we propose and evaluate leakage assessment metrics. The results evidence that HYPERDEGRADE increases time granularity without a meaningful impact on trace quality. Additionally, we designed a fair experiment that compares three performance degradation strategies when coupled with FLUSH+ RELOAD from an attacker perspective. We developed an attack on an unexploited vulnerability in OpenSSL in which HYPERDEGRADE excels\u2014reducing by three times the number of required FLUSH+ RELOAD traces to succeed. Regarding cryptography contributions, we revisit the recently proposed Raccoon attack on TLS-DH key exchanges, demonstrating its application to other protocols. Using HYPERDEGRADE, we developed an end-to-end attack that shows how a Raccoon-like attack can\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Attestation Waves: Platform Trust via Remote Power Analysis",
+        "id": "7QX0AQYAAAAJ:cFHS6HbyZ2cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:cFHS6HbyZ2cC",
+        "authors": [
+            "Ignacio M Delgado-Lozano",
+            "Macarena C Mart\u00ednez-Rodr\u00edguez",
+            "Alexandros Bakas",
+            "Billy Bob Brumley",
+            "Antonis Michalas"
+        ],
+        "pub_source": "International Conference on Cryptology and Network Security",
+        "pub_date": "2021/12/9",
+        "description": "Attestation is a strong tool to verify the integrity of an untrusted system. However, in recent years, different attacks have appeared that are able to mislead the attestation process with treacherous practices as memory copy, proxy, and rootkit attacks, just to name a few. A successful attack leads to systems that are considered trusted by a verifier system, while the prover has bypassed the challenge. To mitigate these attacks against attestation methods and protocols, some proposals have considered the use of side-channel information that can be measured externally, as it is the case of electromagnetic (EM) emanation. Nonetheless, these methods require the physical proximity of an external setup to capture the EM radiation.In this paper, we present the possibility of performing attestation by using the side-channel information captured by a sensor or peripheral that lives in the same System-on-Chip (SoC) than the\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A formula for disaster: a unified approach to elliptic curve special-point-based attacks",
+        "id": "7QX0AQYAAAAJ:abG-DnoFyZgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:abG-DnoFyZgC",
+        "authors": [
+            "Vladimir Sedlacek",
+            "Jes\u00fas-Javier Chi-Dom\u00ednguez",
+            "Jan Jancar",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "International Conference on the Theory and Application of Cryptology and Information Security",
+        "pub_date": "2021/12/1",
+        "description": "The Refined Power Analysis, Zero-Value Point, and Exceptional Procedure attacks introduced side-channel techniques against specific cases of elliptic curve cryptography. The three attacks recover bits of a static ECDH key adaptively, collecting information on whether a certain multiple of the input point was computed. We unify and generalize these attacks in a common framework, and solve the corresponding problem for a broader class of inputs. We also introduce a version of the attack against windowed scalar multiplication methods, recovering the full scalar instead of just a part of it. Finally, we systematically analyze elliptic curve point addition formulas from the Explicit-Formulas Database, classify all non-trivial exceptional points, and find them in new formulas. These results indicate the usefulness of our tooling, which we released publicly, for unrolling formulas and finding special points, and\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "SoK: Remote power analysis",
+        "id": "7QX0AQYAAAAJ:u_35RYKgDlwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:u_35RYKgDlwC",
+        "authors": [
+            "Macarena C Mart\u00ednez-Rodr\u00edguez",
+            "Ignacio M Delgado-Lozano",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Proceedings of the 16th International Conference on Availability, Reliability and Security",
+        "pub_date": "2021/8/17",
+        "description": "In recent years, numerous attacks have appeared that aim to steal secret information from their victim using the power side-channel vector, yet without direct physical access. These attacks are called Remote Power Attacks or Remote Power Analysis, utilizing resources that are natively present inside the victim environment. However, there is no unified definition about the limitations that a power attack requires to be defined as remote. This paper aims to propose a unified definition and concrete threat models to clearly differentiate remote power attacks from non-remote ones. Additionally, we collect the main remote power attacks performed so far from the literature, and the principal proposed countermeasures to avoid them. The search of such countermeasures denoted a clear gap in preventing remote power attacks at the technical level. Thus, the academic community must face an important challenge to avoid this\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Set it and forget it! Turnkey ECC for instant integration",
+        "id": "7QX0AQYAAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Dmitry Belyavsky",
+            "Billy Bob Brumley",
+            "Jes\u00fas-Javier Chi-Dom\u00ednguez",
+            "Luis Rivera-Zamarripa",
+            "Igor Ustinov"
+        ],
+        "pub_source": "Proceedings of the 36th Annual Computer Security Applications Conference",
+        "pub_date": "2020/12/7",
+        "description": "Historically, Elliptic Curve Cryptography (ECC) is an active field of applied cryptography where recent focus is on high speed, constant time, and formally verified implementations. While there are a handful of outliers where all these concepts join and land in real-world deployments, these are generally on a case-by-case basis: e.g. a library may feature such X25519 or P-256 code, but not for all curves. In this work, we propose and implement a methodology that fully automates the implementation, testing, and integration of ECC stacks with the above properties. We demonstrate the flexibility and applicability of our methodology by seamlessly integrating into three real-world projects: OpenSSL, Mozilla\u2019s NSS, and the GOST OpenSSL Engine, achieving roughly 9.5x, 4.5x, 13.3x, and 3.7x speedup on any given curve for key generation, key agreement, signing, and verifying, respectively. Furthermore, we showcase\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "D\u00e9j\u00e0 Vu: Side-Channel Analysis of Mozilla's NSS",
+        "id": "7QX0AQYAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Sohaib Ul Hassan",
+            "Iaroslav Gridin",
+            "Ignacio M Delgado-Lozano",
+            "Cesar Pereida Garc\u00eda",
+            "Jes\u00fas-Javier Chi-Dom\u00ednguez",
+            "Alejandro Cabrera Aldaya",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2020/10/30",
+        "description": "Recent work on Side Channel Analysis (SCA) targets old, well-known vulnerabilities, even previously exploited, reported, and patched in high-profile cryptography libraries. Nevertheless, researchers continue to find and exploit the same vulnerabilities in old and new products, highlighting a big issue among vendors: effectively tracking and fixing security vulnerabilities when disclosure is not done directly to them. In this work, we present another instance of this issue by performing the first library-wide SCA security evaluation of Mozilla's NSS security library. We use a combination of two independently-developed SCA security frameworks to identify and test security vulnerabilities. Our evaluation uncovers several new vulnerabilities in NSS affecting DSA, ECDSA, and RSA cryptosystems. We exploit said vulnerabilities and implement key recovery attacks using signals---extracted through different techniques such as\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Online template attacks: Revisited",
+        "id": "7QX0AQYAAAAJ:D03iK_w7-QYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:D03iK_w7-QYC",
+        "authors": [
+            "Alejandro Cabrera Aldaya",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "arXiv preprint arXiv:2007.05337",
+        "pub_date": "2020/7/10",
+        "description": "An online template attack (OTA) is a powerful technique previously used to attack elliptic curve scalar multiplication algorithms. This attack has only been analyzed in the realm of power consumption and EM side channels, where the signals leak related to the value being processed. However, microarchitecture signals have no such feature, invalidating some assumptions from previous OTA works. In this paper, we revisit previous OTA descriptions, proposing a generic framework and evaluation metrics for any side-channel signal. Our analysis reveals OTA features not previously considered, increasing its application scenarios and requiring a fresh countermeasure analysis to prevent it. In this regard, we demonstrate that OTAs can work in the backward direction, allowing to mount an augmented projective coordinates attack with respect to the proposal by Naccache, Smart and Stern (Eurocrypt 2004). This demonstrates that randomizing the initial targeted algorithm state does not prevent the attack as believed in previous works. We analyze three libraries libgcrypt, mbedTLS, and wolfSSL using two microarchitecture side channels. For the libgcrypt case, we target its EdDSA implementation using Curve25519 twist curve. We obtain similar results for mbedTLS and wolfSSL with curve secp256r1. For each library, we execute extensive attack instances that are able to recover the complete scalar in all cases using a single trace. This work demonstrates that microarchitecture online template attacks are also very powerful in this scenario, recovering secret information without knowing a leakage model. This highlights the importance of developing\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "From A to Z: Projective coordinates leakage in the wild",
+        "id": "7QX0AQYAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Alejandro Cabrera Aldaya",
+            "Cesar Pereida Garc\u00eda",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "IACR Transactions on Cryptographic Hardware and Embedded Systems",
+        "pub_date": "2020/6/19",
+        "description": "At EUROCRYPT 2004, Naccache et al. showed that the projective coordinates representation of the resulting point of an elliptic curve scalar multiplication potentially allows to recover some bits of the scalar. However, this attack has received little attention by the scientific community, and the status of deployed mitigations to prevent it in widely adopted cryptography libraries is unknown. In this paper, we aim to fill this gap, by analyzing several cryptography libraries in this context. To demonstrate the applicability of the attack, we use a side-channel attack to exploit this vulnerability within libgcrypt in the context of ECDSA. To the best of our knowledge, this is the first practical attack instance. It targets the insecure binary extended Euclidean algorithm implementation using a microarchitectural side-channel attack that allows recovering the projective representation of the output point of scalar multiplication during ECDSA signature generation. We captured 100k traces to estimate the number of traces an attacker would need to compromise the libgcrypt ECDSA implementation, resulting in less than 2k for commonly used elliptic curve secp256r1, demonstrating the attack feasibility. During exploitation, we found two additional vulnerabilities. However, we remark the purpose of this paper is not merely exploiting a library but about providing an analysis on the projective coordinates vulnerability status in widely deployed open-source libraries, filling a gap between its original description in the academic literature and the adoption of countermeasures to thwart it in real-world applications.",
+        "citations": 22
+    },
+    {
+        "title": "NTRU Prime: round-3 updates",
+        "id": "7QX0AQYAAAAJ:P5F9QuxV20EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:P5F9QuxV20EC",
+        "authors": [
+            "Daniel J Bernstein",
+            "Billy Bob Brumley",
+            "Ming-Shing Chen",
+            "Chitchanok Chuengsatiansup",
+            "Tanja Lange",
+            "Adrian Marotzke",
+            "Bo-Yuan Peng",
+            "Nicola Tuveri",
+            "Christine van Vredendaal",
+            "Bo-Yin Yang"
+        ],
+        "pub_source": "",
+        "pub_date": "2020",
+        "description": "2021 D\u2019Anvers\u2013Batsleer:\u201cWe first improve the state-of-the-art multitarget decryption failure attack using a levelled approach\u201d, point out \u201cthree inaccuracies in the directional failure boosting calculation for the simplified scheme of [11]\u201d, show that \u201cthis traditional approach of calculating the directional failure boosting cost is not directly applicable to practical schemes such as Kyber and Saber due to compression of the ciphertexts\u201d, etc.",
+        "citations": 3
+    },
+    {
+        "title": "When one vulnerable primitive turns viral: Novel single-trace attacks on ECDSA and RSA",
+        "id": "7QX0AQYAAAAJ:35N4QoGY0k4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:35N4QoGY0k4C",
+        "authors": [
+            "Alejandro Cabrera Aldaya",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Cryptology ePrint Archive",
+        "pub_date": "2020",
+        "description": "Microarchitecture based side-channel attacks are common threats nowadays. Intel SGX technology provides a strong isolation from an adversarial OS, however, does not guarantee protection against side-channel attacks. In this paper, we analyze the security of the mbedTLS binary GCD algorithm, an implementation that offers interesting challenges when compared for example with OpenSSL, due to the usage of very tight loops in the former. Using practical experiments we demonstrate the mbedTLS binary GCD implementation is vulnerable to side-channel analysis using the SGX-Step framework against mbedTLS based SGX enclaves. We analyze the security of some use cases of this algorithm in this library, resulting in the discovery of a new vulnerability in the ECDSA code path that allows a single-trace attack against this implementation. This vulnerability is three-fold interesting:* It resides in the implementation of a countermeasure which makes it more dangerous due to the false state of security the countermeasure currently offers.* It reduces mbedTLS ECDSA security to an integer factorization problem.* An unexpected GCD call inside the ECDSA code path compromises the countermeasure. We also cover an orthogonal use case, this time inside the mbedTLS RSA code path during the computation of a CRT parameter when loading a private key. The attack also exploits the binary GCD implementation threat, showing how a single vulnerable primitive leads to multiple vulnerabilities. We demonstrate both security threats with end-to-end attacks using 1000 trials each, showing in both cases single-trace attacks can be achieved with\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Start your ENGINEs: dynamically loadable contemporary crypto",
+        "id": "7QX0AQYAAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Nicola Tuveri",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "2019 IEEE Cybersecurity Development (SecDev)",
+        "pub_date": "2019/9/23",
+        "description": "Software ever-increasingly relies on building blocks implemented by security libraries, which provide access to evolving standards, protocols, and cryptographic primitives. These libraries are often subject to complex development models and long decision-making processes, which limit the ability of contributors to participate in the development process, hinder the deployment of scientific results and pose challenges for OS maintainers. In this paper, focusing on OpenSSL as a de-facto standard, we analyze these limits, their impact on the security of modern systems, and their significance for researchers. We propose the OpenSSL ENGINE API as a tool in a framework to overcome these limits, describing how it fits in the OpenSSL architecture, its features, and a technical review of its internals. We evaluate our methodology by instantiating libsuola, a new ENGINE providing support for emerging cryptographic\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Certified Side Channels",
+        "id": "7QX0AQYAAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Cesar Pereida Garc\u00eda",
+            "Nicola Tuveri",
+            "Iaroslav Gridin",
+            "Alejandro Cabrera Aldaya",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2019/9",
+        "description": "We demonstrate that the format in which private keys are persisted impacts Side Channel Analysis (SCA) security. Surveying several widely deployed software libraries, we investigate the formats they support, how they parse these keys, and what runtime decisions they make. We uncover a combination of weaknesses and vulnerabilities, in extreme cases inducing completely disjoint multi-precision arithmetic stacks deep within the cryptosystem level for keys that otherwise seem logically equivalent. Exploiting these vulnerabilities, we design and implement key recovery attacks utilizing signals ranging from electromagnetic (EM) emanations, to granular microarchitecture cache timings, to coarse traditional wall clock timings.",
+        "citations": 25
+    },
+    {
+        "title": "Memory tampering attack on binary GCD based inversion algorithms",
+        "id": "7QX0AQYAAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Alejandro Cabrera Aldaya",
+            "Billy Bob Brumley",
+            "Alejandro J Cabrera Sarmiento",
+            "Santiago S\u00e1nchez-Solano"
+        ],
+        "pub_source": "International Journal of Parallel Programming",
+        "pub_date": "2019/8/15",
+        "description": "In the field of cryptography engineering, implementation-based attacks are a major concern due to their proven feasibility. Fault injection is one attack vector, nowadays a major research line. In this paper, we present how a memory tampering-based fault attack can be used to severely limit the output space of binary GCD based modular inversion algorithm implementations. We frame the proposed attack in the context of ECDSA showing how this approach allows recovering the private key from only one signature, independent of the key size. We analyze two memory tampering proposals, illustrating how this technique can be adapted to different implementations. Besides its application to ECDSA, it can be extended to other cryptographic schemes and countermeasures where binary GCD based modular inversion algorithms are employed. In addition, we describe how memory tampering-based fault attacks\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Port contention for fun and profit",
+        "id": "7QX0AQYAAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "Alejandro Cabrera Aldaya",
+            "Billy Bob Brumley",
+            "Sohaib ul Hassan",
+            "Cesar Pereida Garc\u00eda",
+            "Nicola Tuveri"
+        ],
+        "pub_source": "2019 IEEE Symposium on Security and Privacy (SP)",
+        "pub_date": "2019/5/19",
+        "description": "Simultaneous Multithreading (SMT) architectures are attractive targets for side-channel enabled attackers, with their inherently broader attack surface that exposes more per physical core microarchitecture components than cross-core attacks. In this work, we explore SMT execution engine sharing as a side-channel leakage source. We target ports to stacks of execution units to create a high-resolution timing side-channel due to port contention, inherently stealthy since it does not depend on the memory subsystem like other cache or TLB based attacks. Implementing our channel on Intel Skylake and Kaby Lake architectures featuring Hyper-Threading, we mount an end-to-end attack that recovers a P-384 private key from an OpenSSL-powered TLS server using a small number of repeated TLS handshake attempts. Furthermore, we show that traces targeting shared libraries, static builds, and SGX enclaves are\u00a0\u2026",
+        "citations": 256
+    },
+    {
+        "title": "Batch binary weierstrass",
+        "id": "7QX0AQYAAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Sohaib ul Hassan",
+            "Alex Shaindlin",
+            "Nicola Tuveri",
+            "Kide Vuoj\u00e4rvi"
+        ],
+        "pub_source": "Progress in Cryptology\u2013LATINCRYPT 2019: 6th International Conference on Cryptology and Information Security in Latin America, Santiago de Chile, Chile, October 2\u20134, 2019, Proceedings 6",
+        "pub_date": "2019",
+        "description": "Bitslicing is a programming technique that offers several attractive features, such as timing attack resistance, high amortized performance in batch computation, and architecture independence. On the symmetric crypto side, this technique sees wide real-world deployment, in particular for block ciphers with naturally parallel modes. However, the asymmetric side lags in application, seemingly due to the rigidity of the batch computation requirement. In this paper, we build on existing bitsliced binary field arithmetic results to develop a tool that optimizes performance of binary fields at any size on a given architecture. We then provide an ECC layer, with support for arbitrary binary curves. Finally, we integrate into our novel dynamic OpenSSL engine, transparently exposing the batch results to the OpenSSL library and linking applications to achieve significant performance and security gains for key pair\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Triggerflow: Regression testing by advanced execution path inspection",
+        "id": "7QX0AQYAAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "Iaroslav Gridin",
+            "Cesar Pereida Garc\u00eda",
+            "Nicola Tuveri",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Detection of Intrusions and Malware, and Vulnerability Assessment: 16th International Conference, DIMVA 2019, Gothenburg, Sweden, June 19\u201320, 2019, Proceedings 16",
+        "pub_date": "2019",
+        "description": "Cryptographic libraries often feature multiple implementations of primitives to meet both the security needs of handling private information and the performance requirements of modern services when the handled information is public. OpenSSL, the de-facto standard free and open source cryptographic library, includes mechanisms to differentiate the confidential data and its control flow, including run-time flags, designed for hardening against timing side-channels, but repeatedly accidentally mishandled in the past. To analyze and prevent these accidents, we introduce Triggerflow, a tool for tracking execution paths that, assisted by source annotations, dynamically analyzes the binary through the debugger. We validate this approach with case studies demonstrating how adopting our method in the development pipeline would have promptly detected such accidents. We further show-case the value of the\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Side-channel analysis of SM2: A late-stage featurization case study",
+        "id": "7QX0AQYAAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Nicola Tuveri",
+            "Sohaib ul Hassan",
+            "Cesar Pereida Garc\u00eda",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Proceedings of the 34th Annual Computer Security Applications Conference",
+        "pub_date": "2018/12/3",
+        "description": "SM2 is a public key cryptography suite originating from Chinese standards, including digital signatures and public key encryption. Ahead of schedule, code for this functionality was recently mainlined in OpenSSL, marked for the upcoming 1.1.1 release. We perform a security review of this implementation, uncovering various deficiencies ranging from traditional software quality issues to side-channel risks. To assess the latter, we carry out a side-channel security evaluation and discover that the implementation hits every pitfall seen for OpenSSL's ECDSA code in the past decade. We carry out remote timings, cache timings, and EM analysis, with accompanying empirical data to demonstrate secret information leakage during execution of both digital signature generation and public key decryption. Finally, we propose, implement, and empirically evaluate countermeasures.",
+        "citations": 24
+    },
+    {
+        "title": "Rotation-based cipher",
+        "id": "7QX0AQYAAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "B BRUMLEY",
+            "R Avanzi"
+        ],
+        "pub_source": "",
+        "pub_date": "2018/11/28",
+        "description": "H04L9/06\u2014Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols the encryption apparatus using shift registers or memories for block-wise or stream coding, eg DES systems or RC4; Hash functions; Pseudorandom sequence generators"
+    },
+    {
+        "title": "Cache-timing attacks on RSA key generation",
+        "id": "7QX0AQYAAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Alejandro Cabrera Aldaya",
+            "Cesar Pereida Garc\u00eda",
+            "Luis Manuel Alvarez Tapia",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Cryptology ePrint Archive",
+        "pub_date": "2018",
+        "description": "During the last decade, constant-time cryptographic software has quickly transitioned from an academic construct to a concrete security requirement for real-world libraries. Most of OpenSSL's constant-time code paths are driven by cryptosystem implementations enabling a dedicated flag at runtime. This process is perilous, with several examples emerging in the past few years of the flag either not being set or software defects directly mishandling the flag. In this work, we propose a methodology to analyze security-critical software for side-channel insecure code path traversal. Applying our methodology to OpenSSL, we identify three new code paths during RSA key generation that potentially leak critical algorithm state. Exploiting one of these leaks, we design, implement, and mount a single trace cache-timing attack on the GCD computation step. We overcome several hurdles in the process, including but not limited to:(1) granularity issues due to word-size operands to the GCD function;(2) bulk processing of desynchronized trace data;(3) non-trivial error rate during information extraction; and (4) limited high-confidence information on the modulus factors. Formulating lattice problem instances after obtaining and processing this limited information, our attack achieves roughly a 27% success rate for key recovery using the empirical data from 10K trials.",
+        "citations": 74
+    },
+    {
+        "title": "Apparatus and method for protecting message data",
+        "id": "7QX0AQYAAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "D Jacobson",
+            "B Brumley"
+        ],
+        "pub_source": "US Patent 9,729,325",
+        "pub_date": "2017/8/8",
+        "description": "Disclosed is a method for protecting message data. In the method, the message data is padded with padding bits generated based on a deterministic function performed on the message data. The padded message data is compressed to generate compressed data. A length of the compressed data is dependent on the padding bits. The compressed data is encrypted to generate encrypted message data."
+    },
+    {
+        "title": "Apparatus and method for protecting message data",
+        "id": "7QX0AQYAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "DM Jacobson",
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent 9,673,983",
+        "pub_date": "2017/6/6",
+        "description": "Disclosed is a method for protecting message data. In the method, the message data is padded with padding bits generated based on a deterministic function performed on the message data. The padded message data is compressed to generate compressed data. A length of the compressed data is dependent on the padding bits. The compressed data is encrypted to generate encrypted message data.",
+        "citations": 8
+    },
+    {
+        "title": "Apparatus and method for protecting message data",
+        "id": "7QX0AQYAAAAJ:f2IySw72cVMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:f2IySw72cVMC",
+        "authors": [
+            "DM Jacobson",
+            "BB BRUMLEY"
+        ],
+        "pub_source": "",
+        "pub_date": "2017/4/19",
+        "description": "H04L9/32\u2014Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, eg authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentialsH04L9/3236\u2014Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, eg authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials using cryptographic hash functions"
+    },
+    {
+        "title": "Semi-deterministic digital signature generation",
+        "id": "7QX0AQYAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent 9,621,525",
+        "pub_date": "2017/4/11",
+        "description": "Various features pertain to digital signatures for use in signing messages. In one aspect, a digital signature is generated based on a nonce derived using a per-message salt value, particularly a salt selected to provide a semi-deterministic nonce (ie a nonce that is neither fully deterministic nor completely random.) In one example, the nonce is generated by concatenating the salt value with a long-term private key and then applying the result to a key derivation function along with a hash of the message to be signed. The salt value may be, eg, a counter, a context-specific message or may be randomly generated within a restricted range of values (relative to a full range of values associated with the particular digital signature generation protocol used to generate a digital signature from the nonce.)",
+        "citations": 33
+    },
+    {
+        "title": "{Constant-Time} Callees with {Variable-Time} Callers",
+        "id": "7QX0AQYAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Cesar Pereida Garc\u00eda",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "26th USENIX Security Symposium (USENIX Security 17)",
+        "pub_date": "2017",
+        "description": "Side-channel attacks are a serious threat to security-critical software. To mitigate remote timing and cache-timing attacks, many ubiquitous cryptography software libraries feature constant-time implementations of cryptographic primitives. In this work, we disclose a vulnerability in OpenSSL 1.0. 1u that recovers ECDSA private keys for the standardized elliptic curve P-256 despite the library featuring both constant-time curve operations and modular inversion with microarchitecture attack mitigations. Exploiting this defect, we target the errant modular inversion code path with a cache-timing and improved performance degradation attack, recovering the inversion state sequence. We propose a new approach of extracting a variable number of nonce bits from these sequences, and improve upon the best theoretical result to recover private keys in a lattice attack with as few as 50 signatures and corresponding traces. As far as we are aware, this is the first timing attack against OpenSSL ECDSA that does not target scalar multiplication, the first side-channel attack on crypto-systems leveraging P-256 constant-time scalar multiplication and furthermore, we extend our attack to TLS and SSH protocols, both linked to OpenSSL for P-256 ECDSA signing.",
+        "citations": 70
+    },
+    {
+        "title": "Countermeasures against side-channel attacks on cryptographic algorithms using permutations",
+        "id": "7QX0AQYAAAAJ:pyW8ca7W8N0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:pyW8ca7W8N0C",
+        "authors": [
+            "GUO Xiaofei",
+            "X Guo",
+            "BB BRUMLEY"
+        ],
+        "pub_source": "",
+        "pub_date": "2016/12/14",
+        "description": "G09C1/00\u2014Apparatus or methods whereby a given sequence of signs, eg an intelligible text, is transformed into an unintelligible sequence of signs by transposing the signs or groups of signs or by replacing them by others according to a predetermined system"
+    },
+    {
+        "title": "Amplifying side channels through performance degradation",
+        "id": "7QX0AQYAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Thomas Allan",
+            "Billy Bob Brumley",
+            "Katrina Falkner",
+            "Joop Van de Pol",
+            "Yuval Yarom"
+        ],
+        "pub_source": "Proceedings of the 32nd Annual Conference on Computer Security Applications",
+        "pub_date": "2016/12/5",
+        "description": "Interference between processes executing on shared hardware can be used to mount performance-degradation attacks. However, in most cases, such attacks offer little benefit for the adversary. In this paper, we demonstrate that software-based performance-degradation attacks can be used to amplify side-channel leaks, enabling the adversary to increase both the amount and the quality of information captured. We identify a new information leak in the OpenSSL implementation of the ECDSA digital signature algorithm, albeit seemingly unexploitable due to the limited granularity of previous trace procurement techniques. To overcome this imposing hurdle, we combine the information leak with a microarchitectural performance-degradation attack that can slow victims down by a factor of over 150. We demonstrate how this combination enables the amplification of a side-channel sufficiently to exploit this new\u00a0\u2026",
+        "citations": 130
+    },
+    {
+        "title": "Fine grained memory protection to thwart memory overrun attacks",
+        "id": "7QX0AQYAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "A Gantman",
+            "A Can",
+            "B Brumley",
+            "B Rosenberg"
+        ],
+        "pub_source": "US Patent App. 14/696,229",
+        "pub_date": "2016/10/27",
+        "description": "A way is provided to protect memory blocks from unauthorized access from executable instructions by defining various sets of instructions that are specifically bound to operate on defined memory blocks and inhibited from operating in other memory blocks. For instance, executable code may include a plurality of distinct read and write instructions where each read and/or write instruction is specific to one memory access tag from a plurality of different memory access tags. Memory blocks are also established and each memory block is associated with one of the plurality of different memory access tags. Consequently, if a first read and/or write instruction, associated with a first memory access tag, attempts to access a memory block associated with a different memory access tag, then execution of the first read and/or write instruction is inhibited or aborted."
+    },
+    {
+        "title": "Make sure DSA signing exponentiations really are constant-time",
+        "id": "7QX0AQYAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Cesar Pereida Garc\u00eda",
+            "Billy Bob Brumley",
+            "Yuval Yarom"
+        ],
+        "pub_source": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2016/10/24",
+        "description": "TLS and SSH are two of the most commonly used protocols for securing Internet traffic. Many of the implementations of these protocols rely on the cryptographic primitives provided in the OpenSSL library. In this work we disclose a vulnerability in OpenSSL, affecting all versions and forks (e.g. LibreSSL and BoringSSL) since roughly October 2005, which renders the implementation of the DSA signature scheme vulnerable to cache-based side-channel attacks. Exploiting the software defect, we demonstrate the first published cache-based key-recovery attack on these protocols: 260 SSH-2 handshakes to extract a 1024/160-bit DSA host key from an OpenSSH server, and 580 TLS 1.2 handshakes to extract a 2048/256-bit DSA key from an stunnel server.",
+        "citations": 87
+    },
+    {
+        "title": "Techniques for preventing physical attacks on contents of memory",
+        "id": "7QX0AQYAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "VK Deivasigamani",
+            "LG Lundblade",
+            "S Anand",
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent App. 15/043,294",
+        "pub_date": "2016/10/13",
+        "description": "Techniques for providing countermeasures against physical attacks on the contents of off-chip memory are provided in which a pseudo-internal memory resistant to physical attack is used. The pseudo-internal memory is mapped to an address space such that the pseudo-internal memory appears to be on-chip memory to a processor or a system on a chip (SoC). A method for protecting sensitive data according to these techniques includes presenting, by a pseudo-internal memory module of a SoC, an address space as internal memory of the SoC, where the address space comprises memory located off-chip from the system on a chip, receiving a data write request at the pseudo-internal memory module from a component of the SoC, encrypting data associated with the data write request using the pseudo-internal memory module to generate encrypted data, and writing the encrypted data to the memory located off\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Data integrity protection from rollback attacks for use with systems employing message authentication code tags",
+        "id": "7QX0AQYAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "BB Brumley",
+            "VK Deivasigamani",
+            "SN Anand"
+        ],
+        "pub_source": "US Patent 9,460,312",
+        "pub_date": "2016/10/4",
+        "description": "One feature pertains to an efficient procedure for storing data units in a storage device that allows for authentication of data units to prevent rollback attacks and other attacks such as cut-and-paste attacks. In one aspect, a message authentication code (MAC) is generated or otherwise obtained based on a primary key, a data unit to be stored, a corresponding index for the data unit (such as a page index) and a secondary key for the corresponding data unit, which is generated for each new write operation. The MAC and the corresponding data unit are stored in a bulk storage device such as a relatively insecure off-chip storage. Secondary keys are stored in a separate storage device such as a more secure on-chip storage. In some examples, new secondary keys are generated upon each data write based on a non-zero random or pseudorandom value.",
+        "citations": 3
+    },
+    {
+        "title": "Dynamic encryption keys for use with XTS encryption systems employing reduced-round ciphers",
+        "id": "7QX0AQYAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "BB Brumley",
+            "VK Deivasigamani",
+            "SN Anand"
+        ],
+        "pub_source": "US Patent 9,405,919",
+        "pub_date": "2016/8/2",
+        "description": "One feature pertains to encrypting data to improve data con fidentiality. In one aspect, a modified form of XTS encryption is provided for use with reduced-round block ciphers. A data unit index of data to be applied to the reduced-round cipher is encrypted under a secret key to generate or otherwise obtain a modified secret key for applying to the reduced-round cipher. That is, data to be encrypted by the reduced-round cipher is not encrypted under a static key but is instead encrypted under a dynamic key that varies according to the index of the data. If an attacker were to derive the value of the key applied to the reduced-round cipher by analyzing data encrypted by the cipher, the attacker would only obtain the dynamic key corresponding to one particular data unit index, rather than a global static key applied to an entire address space. Decryption procedures are also described.",
+        "citations": 9
+    },
+    {
+        "title": "Hardware-based stack control information protection",
+        "id": "7QX0AQYAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "CE Acar",
+            "EJ Plondke",
+            "RJ Turner",
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent 9,390,264",
+        "pub_date": "2016/7/12",
+        "description": "Techniques for protecting contents of a stack associated with a processor are provided. The techniques include a method including receiving a store instruction from a software program being executed by the processor, the store instruction including control information associated with a subroutine, altering the control information to generate secured control information responsive to receiving the store instruction from the software program, storing the secured control information on the stack, receiving a load instruction from the software program; and responsive to receiving the load instruction from the software program, loading the secured control information from the stack, altering the secured control information to recover the control information, and returning the control information to the software program.",
+        "citations": 10
+    },
+    {
+        "title": "Elliptic curve point multiplication procedure resistant to side-channel information leakage",
+        "id": "7QX0AQYAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "DM Jacobson",
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent 9,391,773",
+        "pub_date": "2016/7/12",
+        "description": "One feature pertains to elliptic curve (EC) point multiplication for use in generating digital signatures. In one aspect, a scalar multiplier (k) of a base point (P) of order (n) is selected on an elliptic curve for use with EC point multiplication. An integer value (r) is then randomly generated from within a range of values constrained so that, regardless of the particular value of (r) obtained within the range, EC point multiplication procedures performed using the scalar multiplier (k) summed with a product of the integer multiplier (r) and the order (n) consume device resources independent of the value of the scalar multiplier (k) to thereby reduce or eliminate side-channel leakage. This may be achieved by determining the range of values for r so that the bit position of the most significant bit of k+(r* n) will be even and fixed for a particular elliptic curve."
+    },
+    {
+        "title": "Rotation-based cipher",
+        "id": "7QX0AQYAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "B Brumley",
+            "R Avanzi"
+        ],
+        "pub_source": "US Patent App. 14/616,110",
+        "pub_date": "2016/4/14",
+        "description": "A cipher employs rotation of a substitution box (S-Box) value to provide both confusion and diffusion. In some aspects, for each iteration of an iterative cipher, a subset of a state value is expanded to calculate a rotation distance for rotating an S-Box value, whereby the rotated S-Box value is combined with the state value and the new state value is rotated for the next iteration. Advantageously, the cipher may be implemented in software (or other code) using conventional instructions, and without the need for large S-Box lookup tables.",
+        "citations": 9
+    },
+    {
+        "title": "Method for protecting the integrity of a fixed-length data structure",
+        "id": "7QX0AQYAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "AW Dent",
+            "CE Acar",
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent 9,298,947",
+        "pub_date": "2016/3/29",
+        "description": "International Search Report and Written Opinion\u2014PCT/US2014/014148 ISA/EPO May 13, 2014. Nguyen LH, et al.,\" Short-output universal hash functions and their use in fast and secure message authentication'. International Asso ciation for Cryptologic Research, vol. 20120404: 154833, Feb. 28. 2012, pp. 1-18, XP061005721, retrieved on Feb. 28, 2012).* cited by examiner",
+        "citations": 17
+    },
+    {
+        "title": "Secure IT Systems",
+        "id": "7QX0AQYAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Juha R\u00f6ning",
+            "Brumley"
+        ],
+        "pub_source": "Springer International Publishing",
+        "pub_date": "2016",
+        "description": "The NordSec conferences were started in 1996 with the aim of bringing together researchers and practitioners in the field of computer security in the Nordic countries, thereby establishing a forum for discussions and cooperation between universities, industry, and computer societies. Over the years, NordSec has developed into an international conference that takes place in the Nordic countries on a round-robin basis. It has also become a key meeting venue for Nordic university teachers and students with an interest in security research.These proceedings contain the papers presented at NordSec 2016: the 21st Nordic Conference on Secure IT Systems held during November 2\u20134, 2016, in Oulu, Finland. The venue was the University of Oulu, co-located with the 10th International Crisis Management Workshop and Oulu Winter School. Of the 49 total submissions received by the July 8 extended deadline, 43 met the\u00a0\u2026"
+    },
+    {
+        "title": "Countermeasures against side-channel attacks on cryptographic algorithms",
+        "id": "7QX0AQYAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "X Guo",
+            "X Guo",
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent App. 14/171,558",
+        "pub_date": "2015/8/6",
+        "description": "Techniques for encrypting data are provided that can be used to help prevent side-channel attacks on the cryptographic algorithms. An example method according to these techniques includes permuting an order of first intermediate data according to a predetermined permutation to produce permuted intermediate data. The first inter mediate data is output by one or more first stages of a cryptographic algorithm. The method also includes permuting a key to be used by one or more second stages of a cryptographic algorithm according to the predetermined permutation, applying the one or more second stages of a cryptographic algorithm to the permuted intermediate data to generate second intermediate data, the one or more second stages of the cryptographic algorithm using the permuted key, and permuting the second intermediate data according to an inverse permutation of the predetermined permutation to\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Message authentication using a universal hash function computed with carryless multiplication",
+        "id": "7QX0AQYAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "BB Brumley",
+            "AW Dent"
+        ],
+        "pub_source": "US Patent 9,065,632",
+        "pub_date": "2015/6/23",
+        "description": "A method for authenticating a message by a wireless device is described. The wireless device obtains the input message. The wireless device generates a keystream. The wireless device computes a message authentication code using the keystream and a universal hash function. The universal hash function is computed using carryless multiplication.",
+        "citations": 6
+    },
+    {
+        "title": "Linear feedback shift register (LFSR)",
+        "id": "7QX0AQYAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "R Avanzi",
+            "BB Brumley"
+        ],
+        "pub_source": "US Patent 9,026,791",
+        "pub_date": "2015/5/5",
+        "description": "A wireless communication device is described. The wireless communication device includes a linear feedback shift register. The linear feedback shift register is initialized. The linear feedback shift register is a word based odd characteristic linear feedback shift register. The linear feedback shift register includes multiple 64-bit registers. A feedback function output is generated using the 64-bit registers. The feedback function output is placed into a highest register of the linear feedback shift register."
+    },
+    {
+        "title": "WHIRLBOB, the Whirlpool Based Variant of STRIBOB: Lighter, Faster, and Constant Time",
+        "id": "7QX0AQYAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Markku-Juhani O Saarinen",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Secure IT Systems: 20th Nordic Conference, NordSec 2015, Stockholm, Sweden, October 19\u201321, 2015, Proceedings",
+        "pub_date": "2015",
+        "description": "WHIRLBOB, also known as STRIBOBr2, is an AEAD (Authenticated Encryption with Associated Data) algorithm derived from STRIBOBr1 and the Whirlpool hash algorithm. WHIRLBOB/STRIBOBr2 is a second round candidate in the CAESAR competition. As with STRIBOBr1, the reduced-size Sponge design has a strong provable security link with a standardized hash algorithm. The new design utilizes only the LPS or \u03c1 component of Whirlpool in flexibly domain-separated BLNK Sponge mode. The number of rounds is increased from 10 to 12 as a countermeasure against Rebound Distinguishing attacks. The 8 \u00d78 - bit S-Box used by Whirlpool and WHIRLBOB is constructed from 4 \u00d74 - bit \u201cMiniBoxes\u201d. We report on fast constant-time Intel SSSE3 and ARM NEON SIMD WHIRLBOB implementations that keep full miniboxes in registers and access them via SIMD shuffles. This is an efficient countermeasure\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Faster Binary Curve Software: A Case Study",
+        "id": "7QX0AQYAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Secure IT Systems: 20th Nordic Conference, NordSec 2015, Stockholm, Sweden, October 19\u201321, 2015, Proceedings",
+        "pub_date": "2015",
+        "description": "For decades, elliptic curves over binary fields appear in numerous standards including those mandated by NIST, SECG, and ANSI X9.62. Many popular security protocols such as TLS explicitly support these named curves, along with implementations of those protocols such as OpenSSL and NSS. Over the past few years, research in improving the performance and/or security of these named curve implementations has pushed forward the state-of-the-art: e.g. projective lambda coordinates (Oliveira et al.) and commodity microprocessors featuring carryless multiplication instructions for native polynomial arithmetic (Intel, ARM, Qualcomm). This work aggregates some of these new techniques as well as classical ones to bring an existing library closer to the state-of-the art. Using OpenSSL as a case study to establish the practical impact of these techniques on real systems, results show significant performance\u00a0\u2026"
+    },
+    {
+        "title": "Cache storage attacks",
+        "id": "7QX0AQYAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Topics in Cryptology\u2013-CT-RSA 2015: The Cryptographer's Track at the RSA Conference 2015, San Francisco, CA, USA, April 20-24, 2015. Proceedings",
+        "pub_date": "2015",
+        "description": "Covert channels are a fundamental concept for cryptanalytic side-channel attacks. Covert timing channels use latency to carry data, and are the foundation for timing and cache-timing attacks. Covert storage channels instead utilize existing system bits to carry data, and are not historically used for cryptanalytic side-channel attacks. This paper introduces a new storage channel made available through cache debug facilities on some embedded microprocessors. This channel is then extended to a cryptanalytic side-channel attack on AES software.",
+        "citations": 17
+    },
+    {
+        "title": "Faster software for fast endomorphisms",
+        "id": "7QX0AQYAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Constructive Side-Channel Analysis and Secure Design: 6th International Workshop, COSADE 2015, Berlin, Germany, April 13-14, 2015. Revised Selected Papers 6",
+        "pub_date": "2015",
+        "description": "GLV curves (Gallant et al.) have performance advantages over standard elliptic curves, using half the number of point doublings for scalar multiplication. Despite their introduction in 2001, implementations of the GLV method have yet to permeate widespread software libraries. Furthermore, side-channel vulnerabilities, specifically cache-timing attacks, remain unpatched in the OpenSSL code base since the first attack in 2009 (Brumley and Hakala) even still after the most recent attack in 2014 (Benger et al.). This work reports on the integration of the GLV method in OpenSSL for curves from 160 to 256\u00a0bits, as well as deploying and evaluating two side-channel defenses. Performance gains are up\u00a0to 51\u00a0%, and with these improvements GLV curves are now the fastest elliptic curves in OpenSSL for these bit sizes.",
+        "citations": 15
+    },
+    {
+        "title": "Faster 128-EEA3 and 128-EIA3 software",
+        "id": "7QX0AQYAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Roberto Avanzi",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Information Security: 16th International Conference, ISC 2013, Dallas, Texas, November 13-15, 2013, Proceedings",
+        "pub_date": "2015",
+        "description": "The 3GPP Task Force recently supplemented mobile LTE network security with an additional set of confidentiality and integrity algorithms, namely 128-EEA3 and 128-EIA3 built on top of ZUC, a new keystream generator. We contribute two techniques to improve the software performance of these algorithms. We show how delayed modular reduction increases the efficiency of the LFSR feedback function, yielding performance gains for ZUC and thus both 128-EEA3 and 128-EIA3. We also show how to leverage carryless multiplication to evaluate the universal hash function making up the core of 128-EIA3. Our software implementation results on Qualcomm\u2019s Hexagon DSP architecture indicate significant performance gains when employing these techniques: up\u00a0to roughly a 2.4-fold and a 4-fold throughput improvement for 128-EEA3 and 128-EIA3, respectively.",
+        "citations": 10
+    },
+    {
+        "title": "Method for protecting the integrity of a fixed-length data structure",
+        "id": "7QX0AQYAAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "CE ACAR",
+            "BB BRUMLEY"
+        ],
+        "pub_source": "",
+        "pub_date": "2014/8/14",
+        "description": "G06F21/71\u2014Protecting specific internal or peripheral components, in which the protection of a component leads to protection of the entire computer to assure secure computing or processing of information"
+    },
+    {
+        "title": "Secure and fast implementations of two involution ciphers",
+        "id": "7QX0AQYAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Information Security Technology for Applications: 15th Nordic Conference on Secure IT Systems, NordSec 2010, Espoo, Finland, October 27-29, 2010, Revised Selected Papers 15",
+        "pub_date": "2012",
+        "description": "Anubis and Khazad are closely related involution block ciphers. Building on two recent AES software results, this work presents a number of constant-time software implementations of Anubis and Khazad for processors with a byte-vector shuffle instruction, such as those that support SSSE3. For Anubis, the first is serial in the sense that it employs only one cipher instance and is compatible with all standard block cipher modes. Efficiency is largely due to the S-box construction that is simple to realize using a byte shuffler. The equivalent for Khazad runs two parallel instances in counter mode. The second for each cipher is a parallel bit-slice implementation in counter mode.",
+        "citations": 9
+    },
+    {
+        "title": "Practical realisation and elimination of an ECC-related software bug attack",
+        "id": "7QX0AQYAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Billy B Brumley",
+            "Manuel Barbosa",
+            "Dan Page",
+            "Frederik Vercauteren"
+        ],
+        "pub_source": "Topics in Cryptology\u2013CT-RSA 2012: The Cryptographers\u2019 Track at the RSA Conference 2012, San Francisco, CA, USA, February 27\u2013March 2, 2012. Proceedings",
+        "pub_date": "2012",
+        "description": "We analyse and exploit implementation features in OpenSSL version 0.9.8g which permit an attack against ECDH-based functionality. The attack, although more general, can recover the entire (static) private key from an associated SSL server via 633 adaptive queries when the NIST curve P-256 is used. One can view it as a software-oriented analogue of the bug attack concept due to Biham et al. and, consequently, as the first bug attack to be successfully applied against a real-world system. In addition to the attack and a posteriori countermeasures, we show that formal verification, while rarely used at present, is a viable means of detecting the features which the attack hinges on. Based on the security implications of the attack and the extra justification posed by the possibility of intentionally incorrect implementations in collaborative software development, we conclude that applying and extending the coverage of\u00a0\u2026",
+        "citations": 51
+    },
+    {
+        "title": "Remote timing attacks are still practical",
+        "id": "7QX0AQYAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Nicola Tuveri"
+        ],
+        "pub_source": "European Symposium on Research in Computer Security",
+        "pub_date": "2011/9/12",
+        "description": "For over two decades, timing attacks have been an active area of research within applied cryptography. These attacks exploit cryptosystem or protocol implementations that do not run in constant time. When implementing an elliptic curve cryptosystem with a goal to provide side-channel resistance, the scalar multiplication routine is a critical component. In such instances, one attractive method often suggested in the literature is Montgomery\u2019s ladder that performs a fixed sequence of curve and field operations. This paper describes a timing attack vulnerability in OpenSSL\u2019s ladder implementation for curves over binary fields. We use this vulnerability to steal the private key of a TLS server where the server authenticates with ECDSA signatures. Using the timing of the exchanged messages, the messages themselves, and the signatures, we mount a lattice attack that recovers the private key. Finally, we describe\u00a0\u2026",
+        "citations": 353
+    },
+    {
+        "title": "Bit-sliced binary normal basis multiplication",
+        "id": "7QX0AQYAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Dan Page"
+        ],
+        "pub_source": "2011 IEEE 20th Symposium on Computer Arithmetic",
+        "pub_date": "2011/7/25",
+        "description": "The performance of many cryptographic primitives is reliant on efficient algorithms and implementation techniques for arithmetic in binary fields. While dedicated hardware support for said arithmetic is an emerging trend, the study of software-only implementation techniques remains important for legacy or non-equipped processors. One such technique is that of software-based bit-slicing. In the context of binary fields, this is an interesting option since there is extensive previous work on bit-oriented designs for arithmetic in hardware, such designs are intuitively well suited to bit-slicing in software. In this paper we harness previous work, using it to investigate bit-sliced, software-only implementation arithmetic for binary fields, over a range of practical field sizes and using a normal basis representation. We apply our results to demonstrate significant performance improvements for a stream cipher, and over the frequently\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Practical realisation and elimination of an ECC-related software bug attack",
+        "id": "7QX0AQYAAAAJ:u9iWguZQMMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:u9iWguZQMMsC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Manuel Barbosa",
+            "Dan Page",
+            "Frederik Vercauteren"
+        ],
+        "pub_source": "Cryptology ePrint Archive",
+        "pub_date": "2011",
+        "description": "We analyse and exploit implementation features in OpenSSL version 0.9. 8g which permit an attack against ECDH-based functionality. The attack, although more general, can recover the entire (static) private key from an associated SSL server via  adaptive queries when the NIST curve P-256 is used. One can view it as a software-oriented analogue of the bug attack concept due to Biham et al. and, consequently, as the first bug attack to be successfully applied against a real-world system. In addition to the attack and a posteriori countermeasures, we show that formal verification, while rarely used at present, is a viable means of detecting the features which the attack hinges on. Based on the security implications of the attack and the extra justification posed by the possibility of intentionally incorrect implementations in collaborative software development, we conclude that applying and extending the coverage of formal verification to augment existing test strategies for OpenSSL-like software should be deemed a worthwhile, long-term challenge.",
+        "citations": 5
+    },
+    {
+        "title": "Cache-timing attacks and shared contexts",
+        "id": "7QX0AQYAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Billy Bob Brumley",
+            "Nicola Tuveri"
+        ],
+        "pub_source": "",
+        "pub_date": "2011",
+        "description": "Cache-timing attacks recover algorithm state by exploiting the fact that the latency of retrieving data from memory is essentially governed by the availability of said data in the processor\u2019s cache. Efficient and effective countermeasures to these attacks are needed. A shared memory context is a mechanism for reusing dynamically allocated memory. Focusing on public key cryptography within OpenSSL and its implementation of shared contexts, this paper examines the ability of a shared context to aid in mitigation of cache-timing attacks. The results are pessimistic towards this approach.",
+        "citations": 6
+    },
+    {
+        "title": "Covert timing channels, caching, and cryptography",
+        "id": "7QX0AQYAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Aalto University",
+        "pub_date": "2011",
+        "description": "Side-channel analysis is a cryptanalytic technique that targets not the formal description of a cryptographic primitive but the implementation of it. Examples of side-channels include power consumption or timing measurements. This is a young but very active field within applied cryptography. Modern processors are equipped with numerous mechanisms to improve the average performance of a program, including but not limited to caches. These mechanisms can often be used as side-channels to attack software implementations of cryptosystems. This area within side-channel analysis is called microarchitecture attacks, and those dealing with caching mechanisms cache-timing attacks. This dissertation presents a number of contributions to the field of side-channel analysis. The introductory portion consists of a review of common cache architectures, a literature survey of covert channels focusing mostly on covert timing channels, and a literature survey of cache-timing attacks, including selective related results that are more generally categorized as side-channel attacks such as traditional timing attacks. This dissertation includes eight publications relating to this field. They contain contributions in areas such as side-channel analysis, data cache-timing attacks, instruction cache-timing attacks, traditional timing attacks, and fault attacks. Fundamental themes also include attack mitigations and efficient yet secure software implementation of cryptosystems. Concrete results include, but are not limited to, four practical side-channel attacks against OpenSSL, each implemented and leading to full key recovery.",
+        "citations": 7
+    },
+    {
+        "title": "New results on instruction cache attacks",
+        "id": "7QX0AQYAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Onur Ac\u0131i\u00e7mez",
+            "Billy Bob Brumley",
+            "Philipp Grabher"
+        ],
+        "pub_source": "International workshop on cryptographic hardware and embedded systems",
+        "pub_date": "2010/8/17",
+        "description": "We improve instruction cache data analysis techniques with a framework based on vector quantization and hidden Markov models. As a result, we are capable of carrying out efficient automated attacks using live I-cache timing data. Using this analysis technique, we run an I-cache attack on OpenSSL\u2019s DSA implementation and recover keys using lattice methods. Previous I-cache attacks were proof-of-concept: we present results of an actual attack in a real-world setting, proving these attacks to be realistic. We also present general software countermeasures, along with their performance impact, that are not algorithm specific and can be employed at the kernel and/or compiler level.",
+        "citations": 272
+    },
+    {
+        "title": "Consecutive S-box lookups: A Timing Attack on SNOW 3G",
+        "id": "7QX0AQYAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Risto M Hakala",
+            "Kaisa Nyberg",
+            "Sampo Sovio"
+        ],
+        "pub_source": "Information and Communications Security: 12th International Conference, ICICS 2010, Barcelona, Spain, December 15-17, 2010. Proceedings 12",
+        "pub_date": "2010",
+        "description": "We present a cache-timing attack on the SNOW\u00a03G stream cipher. The attack has extremely low complexity and we show it is capable of recovering the full cipher state from empirical timing data in a matter of seconds, requiring no known keystream and only observation of a small number of cipher clocks. The attack exploits the cipher using the output from an S-box as input to another S-box: we show that the corresponding cache-timing data almost uniquely determines said S-box input. We mention other ciphers with similar structure where this attack applies, such as the K2 cipher currently under standardization consideration by ISO. Our results yield new insights into the secure design and implementation of ciphers with respect to side-channels. We also give results of a bit-slice implementation as a countermeasure.",
+        "citations": 30
+    },
+    {
+        "title": "Conversion algorithms and implementations for Koblitz curve cryptography",
+        "id": "7QX0AQYAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Kimmo U Jarvinen"
+        ],
+        "pub_source": "IEEE Transactions on computers",
+        "pub_date": "2009/9/22",
+        "description": "In this paper, we discuss conversions between integers and tau-adic expansions and we provide efficient algorithms and hardware architectures for these conversions. The results have significance in elliptic curve cryptography using Koblitz curves, a family of elliptic curves offering faster computation than general elliptic curves. However, in order to enable these faster computations, scalars need to be reduced and represented using a special base-tau expansion. Hence, efficient conversion algorithms and implementations are necessary. Existing conversion algorithms require several complicated operations, such as multiprecision multiplications and computations with large rationals, resulting in slow and large implementations in hardware and microcontrollers with limited instruction sets. Our algorithms are designed to utilize only simple operations, such as additions and shifts, which are easily implementable on\u00a0\u2026",
+        "citations": 43
+    },
+    {
+        "title": "Studies on elliptic curve cryptography engineering",
+        "id": "7QX0AQYAAAAJ:dfsIfKJdRG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:dfsIfKJdRG4C",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "",
+        "pub_date": "2009",
+        "description": "Studies on elliptic curve cryptography engineering Learning Centre Studies on elliptic curve \ncryptography engineering | Login Aaltodoc \u2192 1c Lisensiaatinty\u00f6t / Licentiate theses \u2192 [lic] \nTeknillinen korkeakoulu / TKK \u2192 View Item Studies on elliptic curve cryptography engineering Title: \nStudies on elliptic curve cryptography engineering Tutkimuksia elliptisten k\u00e4yrien \nsalausmenetelmien toteutustekniikoista Author(s): Brumley, Billy Bob Date: 2009 Language: en \nPages: v + 34 s. + liitt. 70 Department: Tietojenk\u00e4sittelytieteen laitos Major/Subject: \nTietojenk\u00e4sittelyteoria Supervising professor(s): Nyberg, Kaisa Keywords: public key cryptography, \njulkisen avaimen salausmenetelm\u00e4t, elliptic curves, elliptiset k\u00e4yr\u00e4t, cache-timing attacks, \nv\u00e4limuistihy\u00f6kk\u00e4ykset OEVS yes \u00bb Show full item record Permanent link to this item: \nhttp://urn.fi/URN:NBN:fi:aalto-202104155983 Email this Export to RefWorks QR Code Print BibTex \u2026"
+    },
+    {
+        "title": "On modular decomposition of integers",
+        "id": "7QX0AQYAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Kaisa Nyberg"
+        ],
+        "pub_source": "Progress in Cryptology\u2013AFRICACRYPT 2009: Second International Conference on Cryptology in Africa, Gammarth, Tunisia, June 21-25, 2009. Proceedings 2",
+        "pub_date": "2009",
+        "description": "At Crypto 2001, Gallant et al. showed how to exploit fast endomorphisms on some specific classes of elliptic curves to obtain fast scalar multiplication. The GLV method works by decomposing scalars into two small portions using multiplications, divisions, and rounding operations in the rationals. We present a new simple method based on the extended Euclidean algorithm that uses notably different operations than that of traditional decomposition. We obtain strict bounds on each component. Additionally, we examine the use of random decompositions, useful for key generation or cryptosystems requiring ephemeral keys. Specifically, we provide a complete description of the probability distribution of random decompositions and give bounds for each component in such a way that ensures a concrete level of entropy. This is the first analysis on distribution of random decompositions in GLV allowing the\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Cache-timing template attacks",
+        "id": "7QX0AQYAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Risto M Hakala"
+        ],
+        "pub_source": "Advances in Cryptology\u2013ASIACRYPT 2009: 15th International Conference on the Theory and Application of Cryptology and Information Security, Tokyo, Japan, December 6-10, 2009. Proceedings 15",
+        "pub_date": "2009",
+        "description": "Cache-timing attacks are a serious threat to security-critical software. We show that the combination of vector quantization and hidden Markov model cryptanalysis is a powerful tool for automated analysis of cache-timing data; it can be used to recover critical algorithm state such as key material. We demonstrate its effectiveness by running an attack on the elliptic curve portion of OpenSSL (0.9.8k and under). This involves automated lattice attacks leading to key recovery within hours. We carry out the attack on live cache-timing data without simulating the side channel, showing these attacks are practical and realistic.",
+        "citations": 215
+    },
+    {
+        "title": "Attacks on message stream encryption",
+        "id": "7QX0AQYAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Jukka Valkonen"
+        ],
+        "pub_source": "Proceedings of the 13th Nordic Workshop on Secure IT Systems",
+        "pub_date": "2008/10",
+        "description": "Message Stream Encryption (MSE) provides obfuscation, data confidentiality, and limited authentication to BitTorrent clients. Although obfuscation of header and payload data was the main design goal of MSE, users understandably still expect data confidentiality and authentication from their BitTorrent clients. In this paper, we present numerous attacks on the MSE protocol itself, independent of clients. We then test many popular BitTorrent clients for vulnerability to these attacks, resulting in a number of serious vulnerabilities in popular clients. These results are timely and significant due to the high penetration rate of BitTorrent clients.",
+        "citations": 10
+    },
+    {
+        "title": "Implementing Cryptography for Packet Level Authentication.",
+        "id": "7QX0AQYAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Security and Management",
+        "pub_date": "2008/7/15",
+        "description": "Packet Level Authentication (PLA) is a novel countermeasure against distributed denial-of-service attacks. Each packet sent across a network has a digital signature and public key attached to it, allowing each hop along the route to verify the authenticity of packets. This requires high-speed elliptic curve cryptography (ECC) to improve throughput. In this paper, we present a software solution of cryptography for PLA using the combination of Koblitz curves to increase throughput and implicit certificates to decrease storage and computation overhead. A software implementation is presented, built on OpenSSL libraries and extending the OpenSSL API to support not only fast ECC using Koblitz curves, but implicit certificates and fast signature verifications using implicit certificates as well. Software implementation results of these API extensions are provided, yielding significant speedup of elliptic curve operations.",
+        "citations": 9
+    },
+    {
+        "title": "Fast point decompression for standard elliptic curves",
+        "id": "7QX0AQYAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Billy Bob Brumley",
+            "Kimmo U J\u00e4rvinen"
+        ],
+        "pub_source": "European Public Key Infrastructure Workshop",
+        "pub_date": "2008/6/16",
+        "description": "Many standard elliptic curves (e.g. NIST, SECG, ANSI X9.62, WTLS, ...) over the finite field  have p a prime of Mersenne-like form\u2014this yields faster field arithmetic. Point compression cuts the storage requirement for points (public keys) in half and is hence desirable. Point decompression in turn involves a square root computation. Given the special Mersenne-like form of a prime, in this paper we examine the problem of efficiently computing square roots in the base field. Although the motivation comes from standard curves, our analysis is for fast square roots in any arbitrary Mersenne-like prime field satisfying . Using well-known methods from number theory, we present a general strategy for fast square root computation in these base fields. Significant speedup in the exponentiation is achieved compared to general methods for exponentiation. Both software and hardware implementation\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "Differential properties of elliptic curves and blind signatures",
+        "id": "7QX0AQYAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Kaisa Nyberg"
+        ],
+        "pub_source": "Information Security: 10th International Conference, ISC 2007, Valpara\u00edso, Chile, October 9-12, 2007. Proceedings 10",
+        "pub_date": "2007",
+        "description": "Differential uniformity is an important property of cryptographic building blocks used in the design of symmetric ciphers. In this paper it is proved that certain canonical mappings on elliptic curves are differentially uniform. The main observation of this paper is that the impersonation attack against the implicit certificate scheme of Ateniese and de Medeiros does not work if a differentially uniform mapping is used in the scheme. This phenomenon is analyzed in the slightly more general context of a partially blind signature scheme, which is a new cryptographic primitive that seems to gain security properties from differentially uniform mappings.",
+        "citations": 6
+    },
+    {
+        "title": "Koblitz curves and integer equivalents of Frobenius expansions",
+        "id": "7QX0AQYAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Kimmo J\u00e4rvinen"
+        ],
+        "pub_source": "Selected Areas in Cryptography: 14th International Workshop, SAC 2007, Ottawa, Canada, August 16-17, 2007, Revised Selected Papers 14",
+        "pub_date": "2007",
+        "description": "Scalar multiplication on Koblitz curves can be very efficient due to the elimination of point doublings. Modular reduction of scalars is commonly performed to reduce the length of expansions, and \u03c4-adic Non-Adjacent Form (NAF) can be used to reduce the density. However, such modular reduction can be costly. An alternative to this approach is to use a random \u03c4-adic NAF, but some cryptosystems (e.g. ECDSA) require both the integer and the scalar multiple. This paper presents an efficient method for computing integer equivalents of random \u03c4-adic expansions. The hardware implications are explored, and an efficient hardware implementation is presented. The results suggest significant computational efficiency gains over previously documented methods.",
+        "citations": 18
+    },
+    {
+        "title": "Efficient Elliptic Curve Algorithms for Compact Digital Signatures",
+        "id": "7QX0AQYAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "HELSINKI UNIVERSITY OF TECHNOLOGY",
+        "pub_date": "2006/11/27",
+        "description": "Elliptic curves are attractive due to the reduced size of keys and signatures. Improving the verification speed of such signatures has been the subject of much research. This thesis explores compact digital signatures using elliptic curves. A survey of normal basis field multiplication methods is done, as well as memory requirement and performance analysis for software implementation. An easily implementable alternative to \u03c4-adic Joint Sparse Form is presented, as well as an algorithm for generating low-weight joint \u03c4-adic representations of an arbitrary number of integers. A computationally efficient method for carrying out self-certified, identity-based signature verifications is given, as well as a more secure key issuing protocol."
+    },
+    {
+        "title": "Efficient three-term simultaneous elliptic scalar multiplication with applications",
+        "id": "7QX0AQYAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Proceedings of the 11th Nordic Workshop on Secure IT Systems\u2014NordSec",
+        "pub_date": "2006/10",
+        "description": "An application of n-term Joint Sparse Form to three-term simultaneous elliptic scalar multiplication is presented. This is shown to significantly improve performance in comparison to processing the scalar multiplications individually. A practical application of the results is provided using Self-Certified signatures. These results are particularly useful when compact and fast signatures are needed.",
+        "citations": 22
+    },
+    {
+        "title": "Blinding Self-Certified Key Issuing Protocols Using Elliptic Curves",
+        "id": "7QX0AQYAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "December",
+        "pub_date": "2006",
+        "description": "Self-Certified keys provide an attractive alternative to traditional certificate-based public key infrastructures. Many self-certified key issuing protocols strive to blind trusted third parties to users\u2019 private keys. One such key issuing protocol is based on the Nyberg-Rueppel signature scheme, but requires a proof of knowledge to avoid impersonation attacks. This paper describes a version of this protocol that uses elliptic curves and eliminates the impersonation attacks and the proof of knowledge.",
+        "citations": 1
+    },
+    {
+        "title": "Left-to-Right Signed-Bit \u03c4-Adic Representations of n Integers (Short Paper)",
+        "id": "7QX0AQYAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "Information and Communications Security: 8th International Conference, ICICS 2006, Raleigh, NC, USA, December 4-7, 2006. Proceedings 8",
+        "pub_date": "2006",
+        "description": "Koblitz curves are often used in digital signature schemes where signature verifications need to be computed efficiently. Simultaneous elliptic scalar multiplication is a useful method of carrying out such verifications. This paper presents an efficient alternative to \u03c4-adic Joint Sparse Form that moves left-to-right for computations involving two points. A generalization of this algorithm is then presented for generating a low joint weight representation of an arbitrary number of integers.",
+        "citations": 7
+    },
+    {
+        "title": "A3/A8 & COMP128",
+        "id": "7QX0AQYAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Billy Brumley"
+        ],
+        "pub_source": "T-79.514 Special Course on Cryptology",
+        "pub_date": "2004",
+        "description": "\u2022 How can we detect a collision in the second round? Since each byte depends only upon 2 bytes of the previous rounds output, a collision in the second round will propagate throughout the rest of the algorithm, causing a collision in the response as well.(huge weakness)",
+        "citations": 11
+    },
+    {
+        "title": "LNCS 13115 Secure IT Systems",
+        "id": "7QX0AQYAAAAJ:NhqRSupF_l8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:NhqRSupF_l8C",
+        "authors": [
+            "Nicola Tuveri",
+            "Antonis Michalas",
+            "Billy Bob Brumley"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "The NordSec conferences were started in 1996 with the aim of bringing together researchers and practitioners within computer security in the Nordic countries, thereby establishing a forum for discussions and cooperation between universities, industry, and computer societies. Over the years, NordSec has developed into an international conference that takes place in the Nordic countries on a round-robin basis. It has also become a key meeting venue for Nordic university teachers and students with an interest in security research.These proceedings contain the papers presented at NordSec 2021: The 26th Nordic Conference on Secure IT Systems held virtually, due to COVID-19 restrictions, during November 29\u201330, 2021. The conference was organized by the Network and Information Security (NISEC) group at Tampere University, Finland. All of the 29 submissions received by the extended deadline (August 31\u00a0\u2026"
+    },
+    {
+        "title": "PC Chairs",
+        "id": "7QX0AQYAAAAJ:EUQCXRtRnyEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:EUQCXRtRnyEC",
+        "authors": [
+            "Alina Oprea",
+            "Thorsten Holz",
+            "Adam Aviv",
+            "Davide Balzarotti",
+            "Gilles Barthe",
+            "Lujo Bauer",
+            "Karthikeyan Bhargavan",
+            "Antonio Bianchi",
+            "Nataliia Bielova",
+            "Battista Biggio",
+            "Eric Bodden",
+            "Joseph Bonneau",
+            "Kevin Borgolte",
+            "Ioana Boureanu",
+            "Billy Brumley",
+            "Chris Brzuska",
+            "Kevin Butler",
+            "Brent Byunghoon Kang",
+            "Srdjan Capkun",
+            "Nicholas Carlini",
+            "David Cash",
+            "Lorenzo Cavallaro",
+            "Melissa Chase",
+            "Rahul Chatterjee",
+            "Nicolas Christin",
+            "Henry Corrigan-Gibbs",
+            "Manuel Costa",
+            "Cas Cremers",
+            "Weidong Cui",
+            "Rachel Cummings",
+            "Anupam Das",
+            "Nathan Dautenhahn",
+            "Emiliano De Cristofaro",
+            "Brendan Dolan-Gavitt",
+            "Adam Doup\u00e9",
+            "Markus D\u00fcrmuth",
+            "Giulia Fanti",
+            "Sebastian Faust",
+            "Kassem Fawaz",
+            "Tobias Fiebig",
+            "Anders Fogh"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Program Committee Toggle navigation IEEE Computer Society Digital Library Jobs Tech News \nResource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE \nComputer Society Digital Library My Subscriptions Magazines Journals Conference \nProceedings Institutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News \nResource Center Press Room Advertising About Us Cart All Advanced Search Conference \nCover Image Download 1.Home 2.Proceedings 3.sp 2021 Program Committee 2021, pp. 29-31, \nDOI Bookmark: 10.1109/SP40001.2021.00121 Keywords Authors Abstract Provides a listing of \ncurrent committee members and society officers. Program Committee PC Chairs Alina Oprea, \nNortheastern University Thorsten Holz, Ruhr-Universit\u00e4t Bochum PC Members Adam Aviv, The \nGeorge Washington University Davide Balzarotti, Eurecom Gilles Barthe, MPI-SP and IMDEA \u2026"
+    },
+    {
+        "title": "NTRU Prime: round 3 20201007",
+        "id": "7QX0AQYAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Billy Bob Brumley",
+            "Ming-Shing Chen",
+            "Chitchanok Chuengsatiansup",
+            "Tanja Lange",
+            "Adrian Marotzke",
+            "Nicola Tuveri",
+            "Christine van Vredendaal",
+            "Bo-Yin Yang"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "A 2015 algorithm breaks dimension-N SVP (under plausible assumptions) in time 2 (c+ o (1)) N as N\u2192\u221e with c\u2248 0.292. See [21]. For comparison, the best algorithm known just five years earlier had a much worse c\u2248 0.415, and the best algorithm known just ten years before that took time 2\u0398 (N log N).Gentry\u2019s original FHE system at STOC 2009, with standard \u201ccyclotomic\u201d choices of rings, is now known (again under plausible assumptions) to be broken in polynomial time by a quantum algorithm. See [46]. Peikert claimed in 2015 that the weakness in Gentry\u2019s system was specific to Gentry\u2019s short generators and inapplicable to Ideal-SVP:"
+    },
+    {
+        "title": "Pushing elliptic curve speed limits in OpenSSL",
+        "id": "7QX0AQYAAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Nicola Tuveri",
+            "Billy Bob Brumley",
+            "Patrick Longa"
+        ],
+        "pub_source": "Booklet of Abstracts",
+        "pub_date": "",
+        "description": "Public key, or asymmetric, cryptography represents a major revolution in modern cryptography and the enabling factor in most modern digital communications and many other technologies based on online and offline authentication and authorization schemes. One of the main disadvantages of asymmetric cryptography over symmetric cryptography is the cost in terms of computation and memory required; elliptic curve cryptography (ECC), suggested independently by Miller [7] and Koblitz [4] since 1985, has seen increasingly wide adoption due to the vast improvements on both cost factors while providing the same level of security of \u201ctraditional\u201d public key cryptography. Nonetheless, asymmetric cryptography continues to be computationally expensive: new curves have been recently proposed to further improve ECC performances, and we focus our research on Curve25519 [2] and FourQ [3]. These two curves attain considerable performance improvements by taking into account hardware and implementation factors in the mathematical design of the curves, addressing the optimization of the underlying field operations and reducing the number of group operations involved in scalar multiplications.During our research we focus on OpenSSL, a popular software library widely adopted to provide cryptographic security, and measure the performance of the implementation of Curve25519 included in OpenSSL 1.1. 0. Finding that it does not meet the expected speed, we propose and benchmark the integration of an alternative implementation by A. Langley [6]. We also benchmark and propose the integration of the reference implementation of the FourQ\u00a0\u2026"
+    },
+    {
+        "title": "Identity-Based Cryptography",
+        "id": "7QX0AQYAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=7QX0AQYAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Billy Brumley"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Instead of verifying public keys from a TTP signature, extract the public key using the user\u2019s identity (ID)(Girault 91). Reduced storage: a TTP signature on a key is no longer needed. Computationally efficient: keys can be extracted using only 1 exponentation (scalar mult), while verifying public keys from a signature takes 2."
+    }
+]

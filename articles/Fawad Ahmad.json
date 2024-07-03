@@ -1,0 +1,288 @@
+[
+    {
+        "title": "VRF: Vehicle Road-side Point Cloud Fusion",
+        "id": "CcFk-6wAAAAJ:XiSMed-E-HIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:XiSMed-E-HIC",
+        "authors": [
+            "Kaleem Nawaz Khan",
+            "Ali Khalid",
+            "Yash Turkar",
+            "Karthik Dantu",
+            "Fawad Ahmad"
+        ],
+        "pub_source": "Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services",
+        "pub_date": "2024/6/3",
+        "description": "Autonomous vehicles and human drivers are prone to line-of-sight limitations. Road-side mounted 3D sensors like LiDARs can augment a vehicle's on-board perception. However, this entails fusing 3D frames at low latency and high accuracy. Road-side and vehicle 3D frames are captured from different viewpoints. This adversely affects alignment accuracy and can be computationally expensive. To this end, VRF optimizes for both latency and accuracy by decoupling the alignment process into indirect and direct alignments. First, VRF indirectly aligns the 3D frames by aligning them to a common reference point i.e., a vehicle's on-board 3D map. Then, it directly aligns the two point clouds to refine this alignment. To ensure high accuracy, it incorporates novel offline registration and alignment accuracy forecasting modules. To ensure low latency, it uses a fast fusion pipeline that caches previous and offline\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes",
+        "id": "CcFk-6wAAAAJ:u9iWguZQMMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:u9iWguZQMMsC",
+        "authors": [
+            "Weiwu Pang",
+            "Chunyu Xia",
+            "Branden Leong",
+            "Fawad Ahmad",
+            "Jeongyeup Paek",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "Proceedings of the 29th Annual International Conference on Mobile Computing and Networking",
+        "pub_date": "2023/10/2",
+        "description": "Tracking the position and orientation, or pose, of a viewing device enables AR applications to accurately embed virtual content in physical spaces. Mobile OSs track pose by matching device camera images against street-level imagery. Thus, pose tracking is often unavailable at off-street pedestrian locations. UbiPose enables pose tracking at such locations using aerial meshes, generated from satellite imagery, that are likely to be more widely available at these locations. However, matching a camera image against an aerial mesh can be error-prone, even with modern neural matchers. These neural components are also compute-intensive. UbiPose contains a novel pose tracking pipeline that runs entirely on a mobile device using fast-path optimizations designed to accept or reject pose estimates in many cases, without sacrificing accuracy. Experiments on real-world traces show that it achieves tracking accuracy\u00a0\u2026"
+    },
+    {
+        "title": "AeroTraj: Trajectory Planning for Fast, and Accurate 3D Reconstruction Using a Drone-based LiDAR",
+        "id": "CcFk-6wAAAAJ:M05iB0D1s5AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:M05iB0D1s5AC",
+        "authors": [
+            "Fawad Ahmad",
+            "Christina Suyong Shin",
+            "Rajrup Ghosh",
+            "John D'Ambrosio",
+            "Eugene Chai",
+            "Karthikeyan Sundaresan",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+        "pub_date": "2023/9/27",
+        "description": "This paper presents AeroTraj, a system that enables fast, accurate, and automated reconstruction of 3D models of large buildings using a drone-mounted LiDAR. LiDAR point clouds can be used directly to assemble 3D models if their positions are accurately determined. AeroTraj uses SLAM for this, but must ensure complete and accurate reconstruction while minimizing drone battery usage. Doing this requires balancing competing constraints: drone speed, height, and orientation. AeroTraj exploits building geometry in designing an optimal trajectory that incorporates these constraints. Even with an optimal trajectory, SLAM's position error can drift over time, so AeroTraj tracks drift in-flight by offloading computations to the cloud and invokes a re-calibration procedure to minimize error. AeroTraj can reconstruct large structures with centimeter-level accuracy and with an average end-to-end latency below 250 ms\u00a0\u2026"
+    },
+    {
+        "title": "iDriving: Toward Safe and Efficient Infrastructure-directed Autonomous Driving",
+        "id": "CcFk-6wAAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "Fawad Ahmad",
+            "Christina Shin",
+            "Weiwu Pang",
+            "Jacob Cashman",
+            "Branden Leong",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "arXiv preprint arXiv:2207.08930",
+        "pub_date": "2022/7/18",
+        "description": "Autonomous driving will become pervasive in the coming decades. iDriving improves the safety of autonomous driving at intersections and increases efficiency by improving traffic throughput at intersections. In iDriving, roadside infrastructure remotely drives an autonomous vehicle at an intersection by offloading perception and planning from the vehicle to roadside infrastructure. To achieve this, iDriving must be able to process voluminous sensor data at full frame rate with a tail latency of less than 100 ms, without sacrificing accuracy. We describe algorithms and optimizations that enable it to achieve this goal using an accurate and lightweight perception component that reasons on composite views derived from overlapping sensors, and a planner that jointly plans trajectories for multiple vehicles. In our evaluations, iDriving always ensures safe passage of vehicles, while autonomous driving can only do so 27% of the time. iDriving also results in 5x lower wait times than other approaches because it enables traffic-light free intersections.",
+        "citations": 1
+    },
+    {
+        "title": "Method and apparatus for a context-aware crowd-sourced sparse high definition map",
+        "id": "CcFk-6wAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "F Ahmad",
+            "QIU Hang",
+            "R Govindan",
+            "DK Grimm",
+            "F Bai"
+        ],
+        "pub_source": "US Patent 11,313,696",
+        "pub_date": "2022/4/26",
+        "description": "A vehicle is described, and includes an on-board controller, an extra-vehicle communication system, a GPS sensor, a spatial monitoring system, and a navigation system that employs an on-vehicle navigation map. Operation includes capturing a 3D sensor representation of a field of view and an associated GPS location, executing a feature extraction routine, executing a semantic segmentation of the extracted features, executing a simultaneous location and mapping (SLAM) of the extracted features, executing a context extraction from the simultaneous location and mapping of the extracted features, and updating the on-vehicle navigation map based thereon. A parsimonious map representation is generated based upon the updated on-vehicle navigation map, and is communicated to a second, off-board controller. The second controller executes a sparse map stitching to update a base navigation map based upon\u00a0\u2026"
+    },
+    {
+        "title": "ARES: Accurate, autonomous, near real-time 3D reconstruction using drones",
+        "id": "CcFk-6wAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Fawad Ahmad",
+            "Christina Shin",
+            "Rajrup Ghosh",
+            "John D'Ambrosio",
+            "Eugene Chai",
+            "Karthik Sundaresan",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "arXiv preprint arXiv:2104.08634",
+        "pub_date": "2021/4/17",
+        "description": "Drones will revolutionize 3D modeling. A 3D model represents an accurate reconstruction of an object or structure. This paper explores the design and implementation of ARES, which provides near real-time, accurate reconstruction of 3D models using a drone-mounted LiDAR; such a capability can be useful to document construction or check aircraft integrity between flights. Accurate reconstruction requires high drone positioning accuracy, and, because GPS can be in accurate, ARES uses SLAM. However, in doing so it must deal with several competing constraints: drone battery and compute resources, SLAM error accumulation, and LiDAR resolution. ARES uses careful trajectory design to find a sweet spot in this constraint space, a fast reconnaissance flight to narrow the search area for structures, and offloads expensive computations to the cloud by streaming compressed LiDAR data over LTE. ARES reconstructs large structures to within 10s of cms and incurs less than 100 ms compute latency.",
+        "citations": 3
+    },
+    {
+        "title": "Crowd-sensed point cloud map",
+        "id": "CcFk-6wAAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "F Ahmad",
+            "QIU Hang",
+            "F Bai",
+            "R Govindan"
+        ],
+        "pub_source": "US Patent 10,529,089",
+        "pub_date": "2020/1/7",
+        "description": "Systems and method are provided for controlling an autono mous vehicle. In one embodiment, a method includes: receiving sensor data from a sensor of the vehicle; deter mining a three dimensional point cloud map segment from the sensor data; determining a vehicle pose associated with the three-dimensional point cloud map segment; determin ing a pose difference based on the vehicle pose, another vehicle pose, and a two-step process, wherein the two-step process includes computing a coarse-granularity pose dif ference, and computing a fine-granularity pose difference; aligning the three dimensional point cloud map segment with another three dimensional point cloud map segment associated with the other vehicle pose based on the pose difference; and controlling the vehicle based on the aligned three dimensional point cloud map segments. 20 Claims, 7 Drawing Sheets",
+        "citations": 18
+    },
+    {
+        "title": "CarMap: Fast 3D Feature Map Updates for Automobiles",
+        "id": "CcFk-6wAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Fawad Ahmad",
+            "Hang Qiu",
+            "Ray Eells",
+            "Fan Bai",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "17th USENIX Symposium on Networked Systems Design and Implementation (NSDI 20)",
+        "pub_date": "2020",
+        "description": "Autonomous vehicles need an accurate, up-to-date, 3D map to localize themselves with respect to their surroundings. Today, map collection runs infrequently and uses a fleet of specialized vehicles. In this paper, we explore a different approach: near-real time crowd-sourced 3D map collection from vehicles with advanced sensors (LiDAR, stereo cameras). Our main technical challenge is to find a lean representation of a 3D map such that new map segments, or updates to existing maps, are compact enough to upload in near real-time over a cellular network. To this end, we develop CarMap, which finds a parsimonious representation of a feature map, contains novel object filtering and position-based feature matching techniques to improve localization robustness, and incorporates a novel stitching algorithm to combine map segments from multiple vehicles for unmapped regions and an efficient map-update operation for updating existing map regions. Evaluations show that CarMap takes less than a second (0.6 seconds) to update a map, reduces map sizes by 75\u00d7 relative to competing strategies, has higher localization accuracy, and is able to localize in corner cases (eg, multi-lane scenarios) when other approaches fail.",
+        "citations": 62
+    },
+    {
+        "title": "Augmented vehicular reality: Enabling extended vision for future automobiles",
+        "id": "CcFk-6wAAAAJ:cFHS6HbyZ2cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:cFHS6HbyZ2cC",
+        "authors": [
+            "Hang Qiu",
+            "Fawad Ahmad",
+            "Fan Bai",
+            "Marco Gruteser",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "GetMobile: Mobile Computing and Communications",
+        "pub_date": "2019/5/2",
+        "description": "Autonomous vehicle prototypes today come with line-of-sight depth perception sensors like 3D cameras. These 3D sensors are used for improving vehicular safety in autonomous driving, but have fundamentally limited visibility due to occlusions, sensing range, and extreme weather and lighting conditions. To improve visibility and performance, we explore a capability called Augmented Vehicular Reality (AVR). AVR broadens the vehicle's visual horizon by enabling it to wirelessly share visual information with other nearby vehicles. We show that AVR is feasible using off-the-shelf wireless technologies, and it can qualitatively change the decisions made by autonomous vehicle path planning algorithms. Our AVR prototype achieves positioning accuracies that are within a few percentages of car lengths and lane widths, and it is optimized to process frames at 30fps.",
+        "citations": 5
+    },
+    {
+        "title": "Quicksketch: Building 3d representations in unknown environments using crowdsourcing",
+        "id": "CcFk-6wAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Fawad Ahmad",
+            "Hang Qiu",
+            "Xiaochen Liu",
+            "Fan Bai",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "2018 21st International Conference on Information Fusion (Fusion)",
+        "pub_date": "2018/7/10",
+        "description": "Disaster and emergency response operations require rapid situational assessment of the affected area for timely and efficient rescue operations. A 3D map, collected after a disaster, can provide such awareness, but constructing this map quickly is a significant challenge. In this paper, we explore the design of a capability called QuickSketch that rapidly builds 3D representations of an unknown environment using crowdsourcing. QuickSketch employs multiple vehicles equipped with 3D sensors (stereo cameras) to explore different areas of an unknown territory and then combines 3D data from all the vehicles to build a single 3D map. QuickSketch annotates the 3D map with important landmarks and enables rapid contextualization of visual intelligence (photos) received from first responders and disaster victims to guarantee timely backup and rescue operations. Our evaluation results show that QuickSketch can\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "AVR: Augmented Vehicular Reality",
+        "id": "CcFk-6wAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Hang Qiu",
+            "Fawad Ahmad",
+            "Fan Bai",
+            "Marco Gruteser",
+            "Ramesh Govindan"
+        ],
+        "pub_source": "Proceedings of the 16th Annual International Conference on Mobile Systems, Applications, and Services",
+        "pub_date": "2018/6/10",
+        "description": "Autonomous vehicle prototypes today come with line-of-sight depth perception sensors like 3D cameras. These 3D sensors are used for improving vehicular safety in autonomous driving, but have fundamentally limited visibility due to occlusions, sensing range, and extreme weather and lighting conditions. To improve visibility and performance, not just for autonomous vehicles but for other Advanced Driving Assistance Systems (ADAS), we explore a capability called Augmented Vehicular Reality (AVR). AVR broadens the vehicle's visual horizon by enabling it to wirelessly share visual information with other nearby vehicles, but requires the design of novel relative positioning techniques, new perspective transformation methods, approaches to isolate and predict the motion of dynamic objects in order to hide latency, and adaptive transmission strategies to cope with wireless bandwidth variability. We show that AVR\u00a0\u2026",
+        "citations": 138
+    },
+    {
+        "title": "Augmented vehicular reality: Enabling extended vision for future vehicles",
+        "id": "CcFk-6wAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Hang Qiu",
+            "Fawad Ahmad",
+            "Ramesh Govindan",
+            "Marco Gruteser",
+            "Fan Bai",
+            "Gorkem Kar"
+        ],
+        "pub_source": "Proceedings of the 18th International Workshop on Mobile Computing Systems and Applications",
+        "pub_date": "2017/2/21",
+        "description": "Like today's autonomous vehicle prototypes, vehicles in the future will have rich sensors to map and identify objects in the environment. For example, many autonomous vehicle prototypes today come with line-of-sight depth perception sensors like 3D cameras. These cameras are used for improving vehicular safety in autonomous driving, but have fundamentally limited visibility due to occlusions, sensing range, and extreme weather and lighting conditions. To improve visibility and performance, not just for autonomous vehicles but for other Advanced Driving Assistance Systems (ADAS), we explore a capability called Augmented Vehicular Reality (AVR). AVR broadens the vehicle's visual horizon by enabling it to share visual information with other nearby vehicles, but requires careful techniques to align coordinate frames of reference, and to detect dynamic objects. Preliminary evaluations hint at the feasibility of\u00a0\u2026",
+        "citations": 50
+    },
+    {
+        "title": "Shortest processing time scheduling to reduce traffic congestion in dense urban areas",
+        "id": "CcFk-6wAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Fawad Ahmad",
+            "Sahibzada Ali Mahmud",
+            "Faqir Zarrar Yousaf"
+        ],
+        "pub_source": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+        "pub_date": "2016/2/23",
+        "description": "Traffic congestion is not only a cause of nuisance for general commuters but also a factor that has a measurable impact on the economy if not handled proactively. When congestion increases, the waiting time for commuters increases which results in wasted fuel and wasted time. Wasted fuel adds to the import bill of a country and lost time results in loss of productivity. Traffic can be regulated at various points in order to reduce congestion and eliminate bottleneck areas. In this paper, we propose the use of conventional scheduling to regulate traffic at intersections in order to reduce congestion. We propose minimum destination distance first (MDDF) and minimum average destination distance first (MADDF) algorithms and compare them with some of the relevant existing scheduling algorithms. The proposed algorithms can not only be easily implemented on low cost hardware but also show better performance and\u00a0\u2026",
+        "citations": 60
+    },
+    {
+        "title": "Poster: Accurate Vehicle Detection in Intelligent Transportation Systems (ITS) using Wireless Magnetic Sensors",
+        "id": "CcFk-6wAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Fawad Ahmad",
+            "Sahibzada Ali Mahmud"
+        ],
+        "pub_source": "Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems",
+        "pub_date": "2015/11/1",
+        "description": "Wireless Sensor Networks (WSN) have emerged as a suitable solution for real-time vehicle data collection in many ITS applications. We propose the use of magnetometers in conjunction with WSN for real-time vehicle data collection. Magnetometers when used as sensor nodes offer advantages over other vehicle sensing technologies that include cost-effectiveness, energy efficiency, resistance to changes in environmental conditions, ease of re-deployment and flexibility. In this paper we present our prototype of a wireless magnetic sensor, algorithms for vehicle detection, vehicle speed estimation and vehicle length estimation and quantify their performance. Results from field evaluations prove the feasibility of our proposed solution for accurate vehicle data collection.",
+        "citations": 3
+    },
+    {
+        "title": "Real time evaluation of shortest remaining processing time based schedulers for traffic congestion control using wireless sensor networks",
+        "id": "CcFk-6wAAAAJ:OU6Ihb5iCvQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:OU6Ihb5iCvQC",
+        "authors": [
+            "Fawad Ahmad",
+            "Irfan Khan",
+            "Sahibzada Ali Mahmud",
+            "Gul M Khan",
+            "Faqir Zarrar Yousaf"
+        ],
+        "pub_source": "2013 International Conference on Connected Vehicles and Expo (ICCVE)",
+        "pub_date": "2013/12/2",
+        "description": "Pre-timed traffic signals are inefficient in optimizing the traffic flow throughout the day, resulting in greater waiting times at the intersections particularly in congested urban areas during peak hours. Traffic actuated signals use real time traffic data obtained from sensors at the intersections to service queues intelligently. We developed a test bed for the real time evaluation of adaptive traffic light control algorithms using the microscopic traffic simulation open source software, SUMO (Simulation of Urban Mobility), and the AVR 32-bit microcontroller. An interface was developed between SUMO and the AVR microcontroller in which we used the simulation data generated by SUMO as an input to the microcontroller which executed the scheduling algorithms and sent commands back to SUMO for changing the states of the traffic signals accordingly. We implemented four scheduling algorithms in SUMO through the AVR\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Feasibility of deploying wireless sensor based road side solutions for intelligent transportation systems",
+        "id": "CcFk-6wAAAAJ:dfsIfKJdRG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:dfsIfKJdRG4C",
+        "authors": [
+            "Fawad Ahmad",
+            "Abdul Basit",
+            "Hussain Ahmad",
+            "Sahibzada Ali Mahmud",
+            "Gul M Khan",
+            "Faqir Zarrar Yousaf"
+        ],
+        "pub_source": "2013 international conference on connected vehicles and expo (ICCVE)",
+        "pub_date": "2013/12/2",
+        "description": "The effectiveness of Intelligent Transportation Systems depends on the accuracy and timely reliable provisioning of real time data supplied by traffic data collection mechanisms. Data collection through wireless sensor networks is a very effective approach due to their easy installation, low cost, processing capabilities, small size, flexibility, and wireless communication capabilities. WSN are used in ITS for smart parking lots, adaptive traffic light control, accident avoidance and traffic estimation etc. In this paper we propose a WSN based road side communication architecture and system that can be utilized for the intelligent control and management of vehicular traffic at road intersections. In the proposed architecture, the end nodes are carried by vehicles that communicate with road side units, which in turn send the data to the coordinator module at the intersection. We introduce a reliable and robust channel switching\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "Implementation of shortest remaining processing time based schedulers on a 32 bit serial based processing platform",
+        "id": "CcFk-6wAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Fawad Ahmad",
+            "Muhammad Ali",
+            "Sahibzada Ali Mahmud",
+            "Gul M Khan",
+            "Faqir Zarrar Yousaf"
+        ],
+        "pub_source": "2013 International Conference on Connected Vehicles and Expo (ICCVE)",
+        "pub_date": "2013/12/2",
+        "description": "Vehicle-actuated traffic light controllers react to changes in traffic density throughout the day in order to optimize traffic flow effectively using traffic light control algorithms. Microscopic simulators are typically used to determine the performance of a traffic control scheme/algorithm by studying their effect on the relevant traffic parameters such as average waiting time, average travel time etc. However, the only method for real time evaluation of the control algorithms on physical platforms is to use pseudo-random number generation as input traffic data. In this paper we propose the use of a 32-bit serial based processing platform for the real time evaluation of traffic control schemes that utilizes accurate traffic data generated from a microscopic traffic simulator. This integrated platform can be used to evaluate traffic control algorithms more accurately and realistically since the algorithms are evaluated using traffic simulation\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Shortest remaining processing time based schedulers for reduction of traffic congestion",
+        "id": "CcFk-6wAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=CcFk-6wAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Fawad Ahmad",
+            "Sahibzada Ali Mahmud",
+            "Gul M Khan",
+            "Faqir Zarrar Yousaf"
+        ],
+        "pub_source": "2013 International Conference on Connected Vehicles and Expo (ICCVE)",
+        "pub_date": "2013/12/2",
+        "description": "The main reason for traffic congestion at intersections in urban areas is non-actuated traffic light controllers which aren't equipped with capabilities to handle changes in the traffic flow throughout the day. Actuated traffic light controllers monitor the traffic conditions in real time and are equipped appropriately to react to varying changes in traffic flows thus reducing traffic congestion. We propose to use scheduling in actuated traffic light control to reduce traffic congestion and optimize traffic flow. We propose two traffic scheduling algorithms, Minimum Destination Distance First (MDDF) and Minimum Average Destination Distance First (MADDF) and compare their performance with existing scheduling algorithms as well as non-actuated traffic lights to curb long waiting times in queues at intersections. The simulation results proved the utility of the MDDF and MADDF algorithms since they were able to reduce the average\u00a0\u2026",
+        "citations": 20
+    }
+]

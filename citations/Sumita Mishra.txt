@@ -1,0 +1,194 @@
+"Code red: A nuclear nightmare-navigating ransomware response at an Eastern European power plant"
+N Madhira, JM Pelletier, D Johnson, S Mishra - Journal of Information Technology Teaching Cases, 2024
+
+"Enhancing Computing Curricular Outcomes and Student Accomplishments Through Collegiate Competitions"
+V Anand, NA Bolton, P Calyam, R Chadha, RK Raj, S Mishra - Proceedings of the ACM Conference on Global Computing Education Vol 1, 2023
+
+"A distributed approach to privacy-preservation and integrity assurance of smart metering data"
+G Wagh, S Mishra - Proceedings of the 14th ACM International Conference on Future Energy Systems, 2023
+
+"Sm-div: A smart metering distributed privacy framework with integrity verification"
+G Wagh, S Mishra - 2023 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2023
+
+"A Privacy Safeguarding Framework for the Smart Grid"
+GS Wagh - Rochester Institute of Technology, 2023
+
+"A Distributed Privacy-Preserving Integrity Verification Framework for the Smart Grid"
+GS Wagh, S Mishra - 2022 IEEE International Symposium on Technologies for Homeland Security (HST), 2022
+
+"Internet of Healthcare Things (IoHT): Towards a Digital Chain of Custody"
+L Donga, RK Raj, S Mishra - 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI), 2022
+
+"Interactive range queries for healthcare data under differential privacy"
+A Alnemari, RK Raj, CJ Romanowski, S Mishra - 2021 IEEE 9th International Conference on Healthcare Informatics (ICHI), 2021
+
+"Divide & conquer: A privacy safeguarding framework for the smart grid"
+GS Wagh, S Mishra - ICC 2021-IEEE International Conference on Communications, 2021
+
+"Targeted discreditation attack against trust management in connected vehicles"
+G Twardokus, J Ponicki, S Baker, P Carenzo, H Rahbari, S Mishra - ICC 2021-IEEE International Conference on Communications, 2021
+
+"A cyber-resilient privacy framework for the smart grid with dynamic billing capabilities"
+GS Wagh, S Mishra - 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020
+
+"A distributed privacy preserving framework for the smart grid"
+GS Wagh, S Gupta, S Mishra - 2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2020
+
+"Protecting personally identifiable information (PII) in critical infrastructure data using differential privacy"
+A Alnemari, RK Raj, CJ Romanowski, S Mishra - 2019 IEEE International Symposium on Technologies for Homeland Security (HST), 2019
+
+"Quantifying the costs of data breaches"
+S Dongre, S Mishra, C Romanowski, M Buddhadev - Critical Infrastructure Protection XIII: 13th IFIP WG 11.10 International Conference, ICCIP 2019, Arlington, VA, USA, March 11–12, 2019, Revised Selected Papers 13, 2019
+
+"Building robust risk management as a method of situational awareness at the local level"
+J Schneider, C Romanowski, S Mishra, RK Raj, S Dobie - 2018 IEEE International Symposium on Technologies for Homeland Security (HST), 2018
+
+"Protecting infrastructure data via enhanced access control, blockchain and differential privacy"
+A Alnemari, S Arodi, VR Sosa, S Pandey, C Romanowski, R Raj, S Mishra - Critical Infrastructure Protection XII: 12th IFIP WG 11.10 International Conference, ICCIP 2018, Arlington, VA, USA, March 12-14, 2018, Revised Selected Papers 12, 2018
+
+"CyberCSP: Integrating cybersecurity into the computer science principles course"
+S Mishra, RK Raj, P Tymann, J Fagan, S Miller - 2017 IEEE Frontiers in Education Conference (FIE), 2017
+
+"Board# 133: Gamifying Cybersecurity Course Content for Entry Level Students"
+Y Pan, S Mishra, DI Schwartz - 2017 ASEE Annual Conference & Exposition, 2017
+
+"How do faculty partner while teaching interdisciplinary CS+ X courses: Models and experiences"
+D Mir, S Mishra, P Ruvolo, L Pollock, S Engen - Journal of computing sciences in colleges, 2017
+
+"On the analysis of collaborative anonymity set formation (CASF) method for privacy in the smart grid"
+S Afrin, S Mishra - 2017 IEEE International Symposium on Technologies for Homeland Security (HST), 2017
+
+"Building forward: strategic community resilience"
+J Schneider, C Romanowski, S Mishra, RK Raj, M McGuiness, B Swartz - 2017 IEEE International Symposium on Technologies for Homeland Security (HST), 2017
+
+"Gamifying course modules for entry level students"
+Y Pan, S Mishra, D Schwartz - Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education, 2017
+
+"Using access control to mitigate insider threats to healthcare systems"
+S Alshehri, S Mishra, RK Raj - 2016 IEEE international conference on healthcare informatics (ICHI), 2016
+
+"An anonymized authentication framework for smart metering data privacy"
+S Afrin, S Mishra - 2016 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2016
+
+"Formalizing anonymity-delay tradeoffs in smart grid networks"
+B Lipton, S Mishra - 2016 IEEE Smart Energy Grid Engineering (SEGE), 2016
+
+"Mapping a community resilience management system: building operational knowledge"
+J Schneider, C Romanowski, R Raj, S Mishra, J Aleckna, K Wang - 2016 IEEE Symposium on Technologies for Homeland Security (HST), 2016
+
+"Response and recovery: A quantitative approach to emergency management"
+C Romanowski, J Schneider, S Mishra, R Raj, R Rosario, K Stein, B Solanki - 2016 IEEE Symposium on Technologies for Homeland Security (HST), 2016
+
+"A multidisciplinary predictive model for managing critical infrastructure disruptions"
+C Romanowski, R Raj, J Schneider, S Mishra, B Brooks, J Pardee, B Bhole, N Robalino - Critical Infrastructure Protection X: 10th IFIP WG 11.10 International Conference, ICCIP 2016, Arlington, VA, USA, March 14-16, 2016, Revised Selected Papers 10, 2016
+
+"Regional response to large-scale emergency events: Building on historical data"
+C Romanowski, R Raj, J Schneider, S Mishra, V Shivshankar, S Ayengar, F Cueva - International Journal of Critical Infrastructure Protection, 2015
+
+"A new covert channel over cellular voice channel in smartphones"
+B Aloraini, D Johnson, B Stackpole, S Mishra - arXiv preprint arXiv:1504.05647, 2015
+
+"On building cybersecurity expertise in critical infrastructure protection"
+S Mishra, RK Raj, CJ Romanowski, J Schneider, A Critelli - 2015 IEEE International Symposium on Technologies for Homeland Security (HST), 2015
+
+"Measurement of locality specific resilience"
+J Schneider, C Romanowski, RK Raj, S Mishra, K Stein - 2015 IEEE International Symposium on Technologies for Homeland Security (HST …, 2015
+
+"Gamified digital forensics course modules for undergraduates"
+Y Pan, D Schwartz, S Mishra - 2015 IEEE Integrated STEM Education Conference, 2015
+
+"Information management and decision support in critical infrastructure emergencies at the local level"
+CJ Romanowski, S Mishra, RK Raj, T Howles, J Schneider - 2013 IEEE International Conference on Technologies for Homeland Security (HST), 2013
+
+"Towards a web tracking profiling algorithm"
+W Huba, B Yuan, Y Pan, S Mishra - 2013 IEEE International Conference on Technologies for Homeland Security (HST), 2013
+
+"A curricular framework for critical infrastructure protection education for engineering, technology and computing majors"
+S Mishra, CJ Romanowski, RK Raj, T Howles, J Schneider - 2013 IEEE Frontiers in Education Conference (FIE), 2013
+
+"Advanced Forensics Labs to Meet Computer Forensics Challenges Due to Technological Advancements"
+Y Pan, S Mishra - Journal of The Colloquium for Information Systems Security Education, 2013
+
+"Insider threat mitigation and access control in healthcare systems"
+S Alshehri, S Mishra, R Raj - Technical Report, Dochester Institute of Technology, 2013
+
+"A survey of identity and handoff management approaches for the future Internet"
+H Tuncer, S Mishra, N Shenoy - Computer communications 36 (1), 63-79, 2012
+
+"Game-based forensics course for first year students"
+Y Pan, S Mishra, B Yuan, B Stackpole, D Schwartz - Proceedings of the 13th annual conference on Information technology education, 2012
+
+"E-mail Behavior Profiling based on Attachment Type and Language"
+O Polatcan, S Mishra, Y Pan - 6th Annual Symposium on Information Assurance (ASIA’11), 2011
+
+"A holistic, modular approach to infuse cybersecurity into undergraduate computing degree programs"
+T Howles, C Romanowski, S Mishra, RK Raj - Annual Symposium On Information Assurance (ASIA), Albany, NY, 2011
+
+"Improving reliability of jamming attack detection in ad hoc networks"
+G Thamilarasu, S Mishra, R Sridhar - International Journal of Communication Networks and Information Security, 2011
+
+"Network Security Auditing"
+Y Pan, B Yuan, S Mishra - Network Security, Administration and Management: Advancing Technology and Practice, 2011
+
+"On the effects of deployment imprecision on underwater sensor connectivity"
+EF Golen, S Mishra, N Shenoy - Proceedings of the 5th International Workshop on Underwater Networks, 2010
+
+"An underwater sensor allocation scheme for a range dependent environment"
+EF Golen, S Mishra, N Shenoy - Computer Networks, 2010
+
+"Teaching high-assurance internet protocol encryption (haipe) using opnet modeler simulation tool"
+TH Oh, S Mishra, Y Pan - Proceedings of the 10th ACM conference on SIG-information technology education, 2009
+
+"Vertical handoff and mobility management for seamless integration of heterogeneouswireless access technologies"
+N Shenoy, S Mishra - Heterogeneous Wireless Access Networks: Architectures and Protocols, 2008
+
+"A cross-layer approach to detect jamming attacks in wireless ad hoc networks"
+G Thamilarasu, S Mishra, R Sridhar - MILCOM 2006-2006 IEEE Military Communications conference, 2006
+
+"A cross-layer based intrusion detection approach for wireless ad hoc networks"
+G Thamilarasu, A Balasubramanian, S Mishra, R Sridhar - IEEE International Conference on Mobile Adhoc and Sensor Systems Conference, 2005., 2005
+
+"Security for energy constrained RFID system"
+V Natarajan, A Balasubramanian, S Mishra, R Sridhar - Fourth IEEE Workshop on Automatic Identification Advanced Technologies (AutoID'05), 2005
+
+"Wireless security protocol using a low cost pseudo random number generator"
+K Ramakrishnan, A Balasubramanian, S Mishra, R Sridhar - MILCOM 2005-2005 IEEE Military Communications Conference, 2005
+
+"Secure key management for NASA space communication"
+A Balasubramanian, S Mishra, R Sridhar - ICNS conference, 2005
+
+"Analysis of a hybrid key management solution for ad hoc networks"
+A Balasubramanian, S Mishra, R Sridhar - IEEE Wireless Communications and Networking Conference, 2005, 2005
+
+"A robust header compression technique for wireless ad hoc networks"
+R Sridharan, R Sridhar, S Mishra - ACM SIGMOBILE Mobile Computing and Communications Review, 2003
+
+"Efficient dynamic load balancing algorithms using iCAR systems: a generalized framework"
+E Yanmaz, OK Tonguz, S Mishra, H Wu, C Qiao - Proceedings IEEE 56th Vehicular Technology Conference, 2002
+
+"Impact of the Number of ISM-band Ad hoc Relay Channels on the Performance of iCAR Systems"
+E Yanmaz, OK Tonguz, S Mishra, H Wu, C Qiao - Vehicular Technology Conference. IEEE 55th Vehicular Technology Conference. VTC Spring 2002 (Cat. No. 02CH37367), 2002
+
+"Paging communication for locating mobile users"
+S Mishra, OK Tonguz - Wiley Encyclopedia of Electrical and Electronics Engineering, 2001
+
+"New metric for analyzing multi-step paging schemes in mobile networks"
+S Mishra, O Tonguz - IEEE VTS 53rd Vehicular Technology Conference, Spring 2001. Proceedings (Cat. No. 01CH37202), 2001
+
+"Intelligent paging in wireless networks: random mobility models and grouping algorithms for locating subscribers"
+OK Tonguz, S Mishra, R Josyula - 1999 IEEE 49th Vehicular Technology Conference (Cat. No. 99CH36363), 1999
+
+"Impact of random user motion on locating subscribers in mobile networks"
+OK Tonguz, S Mishra, R Josyula - 1999 IEEE International Conference on Personal Wireless Communications (Cat. No. 99TH8366), 1999
+
+"A simple analytical framework for location management in personal communication systems"
+OK Tonguz, S Mishra, H Jung - IEEE transactions on vehicular technology, 1998
+
+"Analysis of intelligent paging in personal communication systems"
+S Mishra, O Tonguz - Electronics Letters, 1998
+
+"Most recent interaction area and speed-based intelligent paging in PCS"
+S Mishra, O Tonguz - 1997 IEEE 47th Vehicular Technology Conference. Technology in Motion, 1997
+
+"Efficient location management in PCS"
+H Jung, S Mishra, OK Tonguz - Proceedings of 6th International Symposium on Personal, Indoor and Mobile Radio Communications, 1995

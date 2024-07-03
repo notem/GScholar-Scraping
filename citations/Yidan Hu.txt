@@ -1,0 +1,59 @@
+"“I can see your password”: A case study about cybersecurity risks in mid-air interactions of mixed reality-based smart manufacturing applications"
+W Yang, X Dengxiong, X Wang, Y Hu, Y Zhang - Journal of Computing and Information Science in Engineering, 2024
+
+"Authenticating Outsourced Location-Based Skyline Queries under Shortest Path Distance"
+Y Hu, Y Dong, W Chen, Y Dong, R Zhang - 2023 IEEE Conference on Communications and Network Security (CNS), 2023
+
+"Location Inference under Temporal Correlation"
+Y Dong, Y Hu, A Aseeri, D Li, R Zhang - 2023 32nd International Conference on Computer Communications and Networks (ICCCN), 2023
+
+"Sybil Detection in Connected Vehicle Systems via Angle-of-Arrival Estimation"
+T Ma, Y Hu, A Aseeri, M Nejad, R Zhang - 2023 IEEE International Conference on Mobility, Operations, Services and Technologies (MOST), 2023
+
+"Continuous Indoor Tracking via Differential RSS Fingerprinting"
+Y Li, Y Hu, A Aseeri, Y Dong, R Zhang - 2022 IEEE 19th International Conference on Mobile Ad Hoc and Smart Systems (MASS), 2022
+
+"Freshness authentication for outsourced multi-version key-value stores"
+Y Hu, X Yao, R Zhang, Y Zhang - IEEE Transactions on Dependable and Secure Computing, 2022
+
+"Impos: An image-based indoor positioning system"
+Y Li, RH Kambhamettu, Y Hu, R Zhang - 2022 IEEE 19th Annual Consumer Communications & Networking Conference (CCNC), 2022
+
+"Secure outsourced top-k selection queries against untrusted cloud service providers"
+X Yu, Y Hu, R Zhang, Z Yan, Y Zhang - 2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS), 2021
+
+"Secure and privacy-preserving database-driven dynamic spectrum sharing"
+Y Hu - University of Delaware, 2021
+
+"KV-Fresh: Freshness authentication for outsourced multi-version key-value stores"
+Y Hu, R Zhang, Y Zhang - IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 2020
+
+"A spatiotemporal approach for secure crowdsourced radio environment map construction"
+Y Hu, R Zhang - IEEE/ACM Transactions on Networking, 2020
+
+"Secure indoor positioning against signal strength attacks via optimized multi-voting"
+Y Li, Y Hu, R Zhang, Y Zhang, T Hedgpeth - Proceedings of the International Symposium on Quality of Service, 2019
+
+"Differentially-private incentive mechanism for crowdsourced radio environment map construction"
+Y Hu, R Zhang - IEEE INFOCOM 2019-IEEE Conference on Computer Communications, 2019
+
+"Secure rss-fingerprint-based indoor positioning: Attacks and countermeasures"
+L Yuan, Y Hu, Y Li, R Zhang, Y Zhang, T Hedgpeth - 2018 IEEE Conference on Communications and Network Security (CNS), 2018
+
+"DisLoc: A convex partitioning based approach for distributed 3-D localization in wireless sensor networks"
+J Fan, Y Hu, TH Luan, M Dong - IEEE Sensors Journal, 2017
+
+"Secure crowdsourced radio environment map construction"
+Y Hu, R Zhang - 2017 IEEE 25th International Conference on Network Protocols (ICNP), 2017
+
+"BlueAer: A fine-grained urban PM2. 5 3D monitoring system using mobile sensing"
+Y Hu, G Dai, J Fan, Y Wu, H Zhang - IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer Communications, 2016
+
+"Arm motion recognition and exercise coaching system for remote interaction"
+H Zeng, Y Hu, J Fan, H Hu, Z Gao, Q Fang - Mobile Information Systems, 2016
+
+"A Mobile Sensing System for Urban PM2.5 Monitoring with Adaptive Resolution"
+H Guo, G Dai, J Fan, Y Wu, F Shen, Y Hu - Journal of Sensors, 2016
+
+"An estimated method of urban PM2. 5 concentration distribution for a mobile sensing system"
+Y Hu, J Fan, H Zhang, X Chen, G Dai - Pervasive and Mobile Computing, 2016

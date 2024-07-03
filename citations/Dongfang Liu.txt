@@ -1,0 +1,191 @@
+"Prototypical Transformer as Unified Motion Learners"
+C Han, Y Lu, G Sun, JC Liang, Z Cao, Q Wang, Q Guan, SA Dianat, RM Rao, T Geng, Z Tao, D Liu - arXiv preprint arXiv:2406.01559, 2024
+
+"ClusterFomer: Clustering As A Universal Visual Learner"
+J Liang, Y Cui, Q Wang, T Geng, W Wang, D Liu - Advances in Neural Information Processing Systems, 2024
+
+"Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?"
+C Han, Q Wang, Y Cui, W Wang, L Huang, S Qi, D Liu - arXiv preprint arXiv:2401.12902, 2024
+
+"Image Translation as Diffusion Visual Programmers"
+C Han, JC Liang, Q Wang, M Rabbani, S Dianat, R Rao, YN Wu, D Liu - arXiv preprint arXiv:2401.09742, 2024
+
+"Promotion: Prototypes as motion learners"
+Y Lu, D Liu, Q Wang, C Han, Y Cui, Z Cao, X Zhang, YV Chen, H Fan - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024
+
+"Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval"
+J Wang, G Sun, P Wang, D Liu, S Dianat, M Rabbani, R Rao, Z Tao - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024
+
+"Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning"
+S Dong, Y Feng, Q Yang, Y Huang, D Liu, H Fan - arXiv preprint arXiv:2312.00360, 2023
+
+"APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-trained Language Models"
+Q Wang, Y Mao, J Wang, H Yu, S Nie, S Wang, F Feng, L Huang, X Quan, Z Xu, D Liu - Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, 2023
+
+"Reformulating graph kernels for self-supervised space-time correspondence learning"
+Z Qin, X Lu, D Liu, X Nie, Y Yin, J Shen, AC Loui - IEEE Transactions on Image Processing, 2023
+
+"CML-MOTS: Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation"
+Y Cui, C Han, D Liu - arXiv preprint arXiv:2311.00987, 2023
+
+"GeneSegNet: a deep learning framework for cell segmentation by integrating gene expression and imaging"
+Y Wang, W Wang, D Liu, W Hou, T Zhou, Z Ji - Genome Biology, 2023
+
+"Fusion is Not Enough: Single Modal Attack on Fusion Models for 3D Object Detection"
+Z Cheng, H Choi, S Feng, JC Liang, G Tao, D Liu, M Zuzak, X Zhang - The Twelfth International Conference on Learning Representations, 2023
+
+"Prompt learns prompt: exploring knowledge-aware generative prompt collaboration for video captioning"
+L Yan, C Han, Z Xu, D Liu, Q Wang - Proceedings of international joint conference on artificial intelligence (IJCAI), 2023
+
+"E^ 2vpt: An effective and efficient approach for visual prompt tuning"
+C Han, Q Wang, Y Cui, Z Cao, W Wang, S Qi, D Liu - arXiv preprint arXiv:2307.13770, 2023
+
+"Mixpave: Mix-prompt tuning for few-shot product attribute value extraction"
+L Yang, Q Wang, J Wang, X Quan, F Feng, Y Chen, M Khabsa, S Wang, Z Xu, D Liu - Findings of the Association for Computational Linguistics: ACL 2023, 2023
+
+"MUSTIE: Multimodal structural transformer for web information extraction"
+Q Wang, J Wang, X Quan, F Feng, Z Xu, S Nie, S Wang, M Khabsa, H Firooz, D Liu - Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2023
+
+"Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators"
+H Xu, D Liu, C Merkel, M Zuzak - Proceedings of the Great Lakes Symposium on VLSI 2023, 2023
+
+"Tripartite feature enhanced pyramid network for dense prediction"
+D Liu, J Liang, T Geng, A Loui, T Zhou - IEEE Transactions on Image Processing, 2023
+
+"Clustseg: Clustering for universal segmentation"
+J Liang, T Zhou, D Liu, W Wang - arXiv preprint arXiv:2305.02187, 2023
+
+"Fusion is not enough: single-modal attacks to compromise fusion models in autonomous driving"
+Z Cheng, H Choi, J Liang, S Feng, G Tao, D Liu, M Zuzak, X Zhang - arXiv preprint arXiv:2304.14614, 2023
+
+"Adversarial training of self-supervised monocular depth estimation against physical-world attacks"
+Z Cheng, J Liang, G Tao, D Liu, X Zhang - arXiv preprint arXiv:2301.13487, 2023
+
+"Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation"
+Y Cui, C Han, D Liu - Journal on Autonomous Transportation Systems, 2023
+
+"Transflow: Transformer as flow learner"
+Y Lu, Q Wang, S Ma, T Geng, YV Chen, H Chen, D Liu - Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2023
+
+"Coarse-to-fine video instance segmentation with factorized conditional appearance flows"
+Z Qin, X Lu, X Nie, D Liu, Y Yin, W Wang - IEEE/CAA Journal of Automatica Sinica, 2023
+
+"HIT-2: Implementing machine learning algorithms to treat bound ions in biomolecules"
+S Sun, H Xu, Y Xie, JE Sanchez, W Guo, D Liu, L Li - Computational and Structural Biotechnology Journal, 2023
+
+"Learning equivariant segmentation with instance-unique querying"
+W Wang, J Liang, D Liu - Advances in Neural Information Processing Systems, 2022
+
+"Learning to generate question by asking question: A primal-dual approach with uncommon word generation"
+Q Wang, L Yang, X Quan, F Feng, D Liu, Z Xu, S Wang, H Ma - Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, 2022
+
+"Towards unbiased label distribution learning for facial pose estimation using anisotropic spherical gaussian"
+Z Cao, D Liu, Q Wang, Y Chen - European Conference on Computer Vision, 2022
+
+"Physical attack on monocular depth estimation with optimal adversarial patches"
+Z Cheng, J Liang, H Choi, G Tao, Z Cao, D Liu, X Zhang - European conference on computer vision, 2022
+
+"Visual recognition with deep nearest centroids"
+W Wang, C Han, T Zhou, D Liu - arXiv preprint arXiv:2209.07383, 2022
+
+"HAVIT: A VR-Based Platform to Support Human-Autonomous Vehicle Interaction Study"
+X Guo, D Wan, D Liu, C Mousas, Y Chen - International Conference on Human-Computer Interaction, 2022
+
+"A triangulation-based visual localization for field robots"
+J Liang, Y Wang, Y Chen, B Yang, D Liu - IEEE/CAA Journal of Automatica Sinica, 2022
+
+"Video captioning using global-local representation"
+L Yan, S Ma, Q Wang, Y Chen, X Zhang, A Savakis, D Liu - IEEE Transactions on Circuits and Systems for Video Technology, 2022
+
+"Gl-rg: Global-local representation granularity for video captioning"
+L Yan, Q Wang, Y Cui, F Feng, X Quan, X Zhang, D Liu - arXiv preprint arXiv:2205.10706, 2022
+
+"Deep partial multiplex network embedding"
+Q Wang, Y Fang, A Ravula, R He, B Shen, J Wang, X Quan, D Liu - Companion Proceedings of the Web Conference 2022, 2022
+
+"Webformer: The web-page transformer for structure information extraction"
+Q Wang, Y Fang, A Ravula, F Feng, X Quan, D Liu - Proceedings of the ACM Web Conference 2022, 2022
+
+"HIT web server: A hybrid method to improve electrostatic calculations for biomolecules"
+S Sun, JA Lopez, Y Xie, W Guo, D Liu, L Li - Computational and Structural Biotechnology Journal, 2022
+
+"Deep robotic grasping prediction with hierarchical rgb-d fusion"
+Y Song, J Wen, D Liu, C Yu - International Journal of Control, Automation and Systems, 2022
+
+"Dg-labeler and dgl-mots dataset: Boost the autonomous driving perception"
+Y Cui, Z Cao, Y Xie, X Jiang, F Tao, YV Chen, L Li, D Liu - Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2022
+
+"Computational study on DNA repair: the roles of electrostatic interactions between uracil-DNA glycosylase (UDG) and DNA"
+Y Xie, CB Karki, J Chen, D Liu, L Li - Frontiers in Molecular Biosciences, 2021
+
+"Hierarchical attention fusion for geo-localization"
+L Yan, Y Cui, Y Chen, D Liu - ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
+
+"Densernet: Weakly supervised visual localization using multi-scale feature aggregation"
+D Liu, Y Cui, L Yan, C Mousas, B Yang, Y Chen - Proceedings of the AAAI conference on artificial intelligence, 2021
+
+"Multi-object tracking and segmentation for autonomous driving: A flow guided association approach"
+D Liu - Purdue University Graduate School, 2021
+
+"Greedy auto-augmentation for n-shot learning using deep neural networks"
+A Naghizadeh, DN Metaxas, D Liu - Neural Networks, 2021
+
+"Visual localization for autonomous driving: Mapping the accurate location in the city maze"
+D Liu, Y Cui, X Guo, W Ding, B Yang, Y Chen - 2020 25th international conference on pattern recognition (ICPR), 2021
+
+"Tf-blender: Temporal feature blender for video object detection"
+Y Cui, L Yan, Z Cao, D Liu - Proceedings of the IEEE/CVF international conference on computer vision, 2021
+
+"Sg-net: Spatial granularity network for one-stage video instance segmentation"
+D Liu, Y Cui, W Tan, Y Chen - Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021
+
+"A vector-based representation to enhance head pose estimation"
+Z Cao, Z Chu, D Liu, Y Chen - Proceedings of the IEEE/CVF Winter Conference on applications of computer vision, 2021
+
+"Multimodal aggregation approach for memory vision-voice indoor navigation with meta-learning"
+L Yan, D Liu, Y Song, C Yu - 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
+
+"Video object detection for autonomous driving: Motion-aid feature calibration"
+D Liu, Y Cui, Y Chen, J Zhang, B Fan - Neurocomputing, 2020
+
+"VR-PAVIB: The virtual reality pedestrian-autonomous vehicle interaction benchmark"
+AF Dalipi, D Liu, X Guo, Y Chen, C Mousas - 12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, 2020
+
+"Indoor navigation for mobile agents: A multimodal vision fusion model"
+D Liu, Y Cui, Z Cao, Y Chen - 2020 international joint conference on neural networks (IJCNN), 2020
+
+"A large-scale simulation dataset: Boost the detection accuracy for special weather conditions"
+D Liu, Y Cui, Z Cao, Y Chen - 2020 International joint conference on neural networks (IJCNN), 2020
+
+"Chinese university faculty members' visiting experience and professional growth in American universities"
+J Hu, K Chen, D Liu - Social Behavior and Personality: an international journal, 2020
+
+"Accurate lane detection for self-driving cars: An approach based on color filter adjustment and k-means clustering filter"
+D Liu, Y Wang, T Chen, ET Matson - International Journal of Semantic Computing, 2020
+
+"Virtual world bridges the real challenge: Automated data generation for autonomous driving"
+D Liu, Y Wang, KE Ho, Z Chu, E Matson - 2019 IEEE Intelligent Vehicles Symposium (IV), 2019
+
+"Application of color filter adjustment and k-means clustering method in lane detection for self-driving cars"
+D Liu, Y Wang, T Chen, ET Matson - 2019 Third IEEE international conference on robotic computing (IRC), 2019
+
+"The condition of poverty: A case study of low socioeconomic status on Chinese students’ National College Entrance Exam and college enrolment"
+D Liu, H Ku, TL Morgan - Asia Pacific Journal of Education, 2019
+
+"End-to-end Learning Approach for Autonomous Driving: A Convolutional Neural Network Model."
+Y Wang, D Liu, H Jeon, Z Chu, ET Matson - ICAART (2), 2019
+
+"Test anxiety: Perceptions of American community college nursing students"
+D Liu, B Xu - Empirical Research in Vocational Education and Training, 2017
+
+"An exploration of experiences of low socioeconomic Chinese students who achieved high scores on the national college entrance exam"
+D Liu - University of Northern Colorado, 2017
+
+"Strategies to promote Chinese international students’ school performance: Resolving the challenges in American higher education"
+D Liu - Asian-Pacific journal of second and foreign language education, 2016
+
+"Good Instructional Leadership: Principals' Actions to Increase Composite ACT School Scores."
+B Xu, D Liu - International Education Studies, 2016
+
+"Mitigating transitional challenges of Chinese students in US higher education."
+D Liu, LR Vogel - Higher Education Studies, 2016

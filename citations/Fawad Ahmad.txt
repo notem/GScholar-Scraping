@@ -1,0 +1,47 @@
+"VRF: Vehicle Road-side Point Cloud Fusion"
+KN Khan, A Khalid, Y Turkar, K Dantu, F Ahmad - Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services, 2024
+
+"UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes"
+W Pang, C Xia, B Leong, F Ahmad, J Paek, R Govindan - Proceedings of the 29th Annual International Conference on Mobile Computing and Networking, 2023
+
+"AeroTraj: Trajectory Planning for Fast, and Accurate 3D Reconstruction Using a Drone-based LiDAR"
+F Ahmad, CS Shin, R Ghosh, J D'Ambrosio, E Chai, K Sundaresan, R Govindan - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2023
+
+"iDriving: Toward Safe and Efficient Infrastructure-directed Autonomous Driving"
+F Ahmad, C Shin, W Pang, J Cashman, B Leong, R Govindan - arXiv preprint arXiv:2207.08930, 2022
+
+"ARES: Accurate, autonomous, near real-time 3D reconstruction using drones"
+F Ahmad, C Shin, R Ghosh, J D'Ambrosio, E Chai, K Sundaresan, R Govindan - arXiv preprint arXiv:2104.08634, 2021
+
+"CarMap: Fast 3D Feature Map Updates for Automobiles"
+F Ahmad, H Qiu, R Eells, F Bai, R Govindan - 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI 20), 2020
+
+"Augmented vehicular reality: Enabling extended vision for future automobiles"
+H Qiu, F Ahmad, F Bai, M Gruteser, R Govindan - GetMobile: Mobile Computing and Communications, 2019
+
+"Quicksketch: Building 3d representations in unknown environments using crowdsourcing"
+F Ahmad, H Qiu, X Liu, F Bai, R Govindan - 2018 21st International Conference on Information Fusion (Fusion), 2018
+
+"AVR: Augmented Vehicular Reality"
+H Qiu, F Ahmad, F Bai, M Gruteser, R Govindan - Proceedings of the 16th Annual International Conference on Mobile Systems, Applications, and Services, 2018
+
+"Augmented vehicular reality: Enabling extended vision for future vehicles"
+H Qiu, F Ahmad, R Govindan, M Gruteser, F Bai, G Kar - Proceedings of the 18th International Workshop on Mobile Computing Systems and Applications, 2017
+
+"Shortest processing time scheduling to reduce traffic congestion in dense urban areas"
+F Ahmad, SA Mahmud, FZ Yousaf - IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2016
+
+"Poster: Accurate Vehicle Detection in Intelligent Transportation Systems (ITS) using Wireless Magnetic Sensors"
+F Ahmad, SA Mahmud - Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems, 2015
+
+"Real time evaluation of shortest remaining processing time based schedulers for traffic congestion control using wireless sensor networks"
+F Ahmad, I Khan, SA Mahmud, GM Khan, FZ Yousaf - 2013 International Conference on Connected Vehicles and Expo (ICCVE), 2013
+
+"Feasibility of deploying wireless sensor based road side solutions for intelligent transportation systems"
+F Ahmad, A Basit, H Ahmad, SA Mahmud, GM Khan, FZ Yousaf - 2013 international conference on connected vehicles and expo (ICCVE), 2013
+
+"Implementation of shortest remaining processing time based schedulers on a 32 bit serial based processing platform"
+F Ahmad, M Ali, SA Mahmud, GM Khan, FZ Yousaf - 2013 International Conference on Connected Vehicles and Expo (ICCVE), 2013
+
+"Shortest remaining processing time based schedulers for reduction of traffic congestion"
+F Ahmad, SA Mahmud, GM Khan, FZ Yousaf - 2013 International Conference on Connected Vehicles and Expo (ICCVE), 2013

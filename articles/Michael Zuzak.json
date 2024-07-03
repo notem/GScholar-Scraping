@@ -1,0 +1,511 @@
+[
+    {
+        "title": "Complementing Vehicle Trajectories Using Two Camera Viewpoints",
+        "id": "dESHYYcAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Katsuaki Nakano",
+            "Minoru Nakazawa",
+            "Michael Zuzak"
+        ],
+        "pub_source": "2024 IEEE International Conference on Consumer Electronics (ICCE)",
+        "pub_date": "2024/1/6",
+        "description": "Traffic volume surveying is a crucial activity to get traffic statistics for road management and traffic congestion control. In recent years, the target environment of traffic volume surveying has become more complex, such as the fully automated surveillance of many-way intersections. Further compounding this complexity, some local governments may not be able to install a camera at a high enough elevation to capture the entire intersection due to environmental, legal, safety, or cost restrictions. Therefore, bigger objects such as buses and trucks often occlude other vehicles in the captured image. This occlusion degrades the accuracy of counting and is one of the main problems that makes the automation of traffic counting at intersections difficult. In this work, we propose a Bird\u2019s Eye View (BEV) transformation method capable of 1) removing camera distortion created by wide-angle cameras installed at lower elevations\u00a0\u2026"
+    },
+    {
+        "title": "Fusion is Not Enough: Single Modal Attack on Fusion Models for 3D Object Detection",
+        "id": "dESHYYcAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Zhiyuan Cheng",
+            "Hongjun Choi",
+            "Shiwei Feng",
+            "James Chenhao Liang",
+            "Guanhong Tao",
+            "Dongfang Liu",
+            "Michael Zuzak",
+            "Xiangyu Zhang"
+        ],
+        "pub_source": "The Twelfth International Conference on Learning Representations",
+        "pub_date": "2023/10/13",
+        "description": "Multi-sensor fusion (MSF) is widely used in autonomous vehicles (AVs) for perception, particularly for 3D object detection with camera and LiDAR sensors. The purpose of fusion is to capitalize on the advantages of each modality while minimizing its weaknesses. Advanced deep neural network (DNN)-based fusion techniques have demonstrated the exceptional and industry-leading performance. Due to the redundant information in multiple modalities, MSF is also recognized as a general defence strategy against adversarial attacks.  In this paper, we attack fusion models from the camera modality that is considered to be of lesser importance in fusion but is more affordable for attackers. We argue that the weakest link of fusion models depends on their most vulnerable modality and propose an attack framework that targets advanced camera-LiDAR fusion-based 3D object detection models through camera-only adversarial attacks.  Our approach employs a two-stage optimization-based strategy that first thoroughly evaluates vulnerable image areas under adversarial attacks, and then applies dedicated attack strategies for different fusion models to generate deployable patches. The evaluations with six advanced camera-LiDAR fusion models and one camera-only model indicate that our attacks successfully compromise all of them. Our approach can either decrease the mean average precision (mAP) of detection performance from 0.824 to 0.353 or degrade the detection score of a target object from 0.728 to 0.156, demonstrating the efficacy of our proposed attack framework. Code is available.",
+        "citations": 2
+    },
+    {
+        "title": "Security-Aware Resource Binding to Enhance Logic Obfuscation",
+        "id": "dESHYYcAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Michael Zuzak",
+            "Yuntao Liu",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "pub_date": "2023/7/11",
+        "description": "Logic obfuscation mitigates the unauthorized use of design IP by untrusted partners during integrated circuit (IC) fabrication. To do so, these techniques produce gate-level errors that derail typical applications run on the IC. Recent research has derived a link between the error rate and the Boolean satisfiability (SAT) attack resilience of logic obfuscation. As a result, it has been shown to be difficult for obfuscation to inject sufficient gate-level error to derail application-level function while maintaining resilience to SAT-style attacks. In this work, we explore use of architectural knowledge during the resource binding phase of high-level synthesis to automate the design of locked architectures capable of high-corruption and SAT resilience simultaneously. To do so, we bifurcate logic obfuscation schemes into two families based on their error profile: distributed error locking and critical minterm locking. We then develop security\u00a0\u2026"
+    },
+    {
+        "title": "Fusion is not enough: single-modal attacks to compromise fusion models in autonomous driving",
+        "id": "dESHYYcAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Zhiyuan Cheng",
+            "Hongjun Choi",
+            "James Liang",
+            "Shiwei Feng",
+            "Guanhong Tao",
+            "Dongfang Liu",
+            "Michael Zuzak",
+            "Xiangyu Zhang"
+        ],
+        "pub_source": "arXiv preprint arXiv:2304.14614",
+        "pub_date": "2023/4/28",
+        "description": "Multi-sensor fusion (MSF) is widely adopted for perception in autonomous vehicles (AVs), particularly for the task of 3D object detection with camera and LiDAR sensors. The rationale behind fusion is to capitalize on the strengths of each modality while mitigating their limitations. The exceptional and leading performance of fusion models has been demonstrated by advanced deep neural network (DNN)-based fusion techniques. Fusion models are also perceived as more robust to attacks compared to single-modal ones due to the redundant information in multiple modalities. In this work, we challenge this perspective with single-modal attacks that targets the camera modality, which is considered less significant in fusion but more affordable for attackers. We argue that the weakest link of fusion models depends on their most vulnerable modality, and propose an attack framework that targets advanced camera-LiDAR fusion models with adversarial patches. Our approach employs a two-stage optimization-based strategy that first comprehensively assesses vulnerable image areas under adversarial attacks, and then applies customized attack strategies to different fusion models, generating deployable patches. Evaluations with five state-of-the-art camera-LiDAR fusion models on a real-world dataset show that our attacks successfully compromise all models. Our approach can either reduce the mean average precision (mAP) of detection performance from 0.824 to 0.353 or degrade the detection score of the target object from 0.727 to 0.151 on average, demonstrating the effectiveness and practicality of our proposed attack framework.",
+        "citations": 8
+    },
+    {
+        "title": "Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators",
+        "id": "dESHYYcAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Hongye Xu",
+            "Dongfang Liu",
+            "Cory Merkel",
+            "Michael Zuzak"
+        ],
+        "pub_source": "arXiv preprint arXiv:2304.06017",
+        "pub_date": "2023/4/12",
+        "description": "Logic locking has been proposed to safeguard intellectual property (IP) during chip fabrication. Logic locking techniques protect hardware IP by making a subset of combinational modules in a design dependent on a secret key that is withheld from untrusted parties. If an incorrect secret key is used, a set of deterministic errors is produced in locked modules, restricting unauthorized use. A common target for logic locking is neural accelerators, especially as machine-learning-as-a-service becomes more prevalent. In this work, we explore how logic locking can be used to compromise the security of a neural accelerator it protects. Specifically, we show how the deterministic errors caused by incorrect keys can be harnessed to produce neural-trojan-style backdoors. To do so, we first outline a motivational attack scenario where a carefully chosen incorrect key, which we call a trojan key, produces misclassifications for an\u00a0\u2026"
+    },
+    {
+        "title": "Low overhead system-level obfuscation through hardware resource sharing",
+        "id": "dESHYYcAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Daniel Xing",
+            "Michael Zuzak",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2023 24th International Symposium on Quality Electronic Design (ISQED)",
+        "pub_date": "2023/4/5",
+        "description": "Logic locking techniques have been proposed to protect chip designs from malicious reverse engineering and overproduction. Stripped functionality logic locking (SFLL) has gained substantial traction as a current state of the art method, exhibiting strong resilience against a wide variety of attacks. However, secure instances of SFLL-based locking tend to have high power and area overheads, particularly in its restore units. This work presents a novel architectural approach to restore unit configuration for SFLL-like logic locking methods that treats restore units as an overhead-constrained shareable resource. We describe how resource contention caused by sharing of restore units imposes constraints on the underlying locking scheme from a graph theoretic perspective and propose both a 0-1 ILP and a heuristic clustering algorithm for finding resource-constrained shared locking configurations that satisfy these\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A combined logical and physical attack on logic obfuscation",
+        "id": "dESHYYcAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Michael Zuzak",
+            "Yuntao Liu",
+            "Isaac McDaniel",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design",
+        "pub_date": "2022/10/30",
+        "description": "Logic obfuscation protects integrated circuits from an untrusted foundry attacker during manufacturing. To counter obfuscation, a number of logical (e.g. Boolean satisfiability) and physical (e.g. electro-optical probing) attacks have been proposed. By definition, these attacks use only a subset of the information leaked by a circuit to unlock it. Countermeasures often exploit the resulting blind-spots to thwart these attacks, limiting their scalability and generalizability. To overcome this, we propose a combined logical and physical attack against obfuscation called the CLAP attack. The CLAP attack leverages both the logical and physical properties of a locked circuit to prune the keyspace in a unified and theoretically-rigorous fashion, resulting in a more versatile and potent attack. To formulate the physical portion of the CLAP attack, we derive a logical formulation that provably identifies input sequences capable of\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "A black-box sensitization attack on SAT-hard instances in logic obfuscation",
+        "id": "dESHYYcAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Isaac McDaniel",
+            "Michael Zuzak",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2022 IEEE 40th International Conference on Computer Design (ICCD)",
+        "pub_date": "2022/10/23",
+        "description": "Logic obfuscation is a prominent approach to protect intellectual property within integrated circuits during fabrication. In response to logic obfuscation, the Boolean satisfiability attack was developed and demonstrated to unlock a great deal of existing obfuscation configurations. This drove the development of new SAT-resistant obfuscation countermeasures. Some of these, including Full-Lock and InterLock, resist SAT attacks by inserting SAT-hard instances, rapidly scaling the runtime of each SAT attack iteration. In this work, we demonstrate that while such countermeasures resist SAT-style attack strategies, an attacker with access to the inputs and outputs of the SAT-hard instance Full-Lock has inserted into an oracle circuit can infer the design\u2019s intended functionality in linear time, thereby unlocking the circuit. We also observe that this class of obfuscation leaves most of the original design topology intact and show\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A Survey on Side-Channel-based Reverse Engineering Attacks on Deep Neural Networks",
+        "id": "dESHYYcAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Yuntao Liu",
+            "Michael Zuzak",
+            "Daniel Xing",
+            "Isaac McDaniel",
+            "Priya Mittu",
+            "Olsan Ozbay",
+            "Abir Akib",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2022 IEEE 4th International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "pub_date": "2022/6/13",
+        "description": "Hardware side-channels have been exploited to leak sensitive information. With the emergence of deep learning, their hardware platforms have also been scrutinized for side-channel information leakage. It has been shown that the structure, weights, and input samples of deep neural networks (DNN) can all be the victim of reverse engineering attacks that rely on side-channel information leakage. In this paper, we survey existing work on hardware side-channel-based reverse engineering attacks on DNNs as well as the countermeasures.",
+        "citations": 3
+    },
+    {
+        "title": "Designing Effective Logic Obfuscation: Exploring Beyond Gate-Level Boundaries",
+        "id": "dESHYYcAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Michael Jeffrey Zuzak"
+        ],
+        "pub_source": "University of Maryland, College Park",
+        "pub_date": "2022",
+        "description": "The need for high-end performance and cost savings has driven hardware design houses to outsource integrated circuit (IC) fabrication to untrusted manufacturing facilities. During fabrication, the entire chip design is exposed to these potentially malicious facilities, raising concerns of intellectual property (IP) piracy, reverse engineering, and counterfeiting. This is a major concern of both government and private organizations, especially in the context of military hardware. Logic obfuscation techniques have been proposed to prevent these supply-chain attacks. These techniques lock a chip by inserting additional key logic into combinational blocks of a circuit. The resulting design only exhibits correct functionality when a correct key is applied after fabrication. To date, the majority of obfuscation research centers on evaluating combinational constructions with gate-level criteria. However, this approach ignores critical\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Independent Verification and Validation of Security-Aware EDA Tools and IP",
+        "id": "dESHYYcAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Benjamin Tan",
+            "Siddharth Garg",
+            "Ramesh Karri",
+            "Yuntao Liu",
+            "Michael Zuzak",
+            "Abhisek Chakraborty",
+            "Ankur Srivastava",
+            "Omid Aramoon",
+            "Qian Xu",
+            "Gang Qu",
+            "Adam Porter",
+            "Jeno Szep",
+            "Warren Savage"
+        ],
+        "pub_source": "2021 58th ACM/IEEE Design Automation Conference (DAC)",
+        "pub_date": "2021/12/5",
+        "description": "Secure silicon requires a seamless integration of new tools, new IP, and design flows to help designers protect integrated circuits from increasingly sophisticated attacks. Independent Validation and Verification (IV&V) of this integrated technology is important to ensure that the tools actually deliver on their security claims when used by independent parties (i.e., people who were not involved in designing the tools). This work discusses the principles and approaches for IV&V of such a complex design environment, including validation of the security strength of the various hardware security techniques, such as combinational and sequential logic locking, Trojan Detection, side-channel mitigation, and blockchain-based asset management. The main challenge in running an IV&V effort is to ensure that the process provides rigorous, methodical and provable evaluation of the claims of not only the component tools and IP, but\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Neural Trojans",
+        "id": "dESHYYcAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Yuntao Liu",
+            "Ankit Mondal",
+            "Abhishek Chakraborty",
+            "Michael Zuzak",
+            "Nina Jacobsen",
+            "Daniel Xing",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "Encyclopedia of Cryptography, Security and Privacy",
+        "pub_date": "2021/9"
+    },
+    {
+        "title": "Evaluating the Security of Logic-Locked Probabilistic Circuits",
+        "id": "dESHYYcAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Michael Zuzak",
+            "Ankit Mondal",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "pub_date": "2021/8/12",
+        "description": "Logic locking is a design-for-security scheme to thwart attacks by an untrusted foundry. Prior work exposed the vulnerability of logic-locked circuits using Boolean satisfiability (SAT). While these attacks are effective against deterministic circuits, they cannot unlock probabilistic/approximate designs, which have become increasingly popular. In this work, we expand SAT-style attacks to locked circuits with a probabilistic behavior. We propose  StatSAT , an attack incorporating statistical techniques into the SAT attack to unlock probabilistic designs. We then propose a countermeasure, called high error rate keys (HERKs), to thwart StatSAT and other attacks on probabilistic circuits. HERKs leverage high error wires, caused by the probabilistic behavior, to hide the correct key under stochastic noise.",
+        "citations": 6
+    },
+    {
+        "title": "Robust and attack resilient logic locking with a high application-level impact",
+        "id": "dESHYYcAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Yuntao Liu",
+            "Michael Zuzak",
+            "Yang Xie",
+            "Abhishek Chakraborty",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "ACM Journal on Emerging Technologies in Computing Systems (JETC)",
+        "pub_date": "2021/5/11",
+        "description": "Logic locking is a hardware security technique aimed at protecting intellectual property against security threats in the IC supply chain, especially those posed by untrusted fabrication facilities. Such techniques incorporate additional locking circuitry within an integrated circuit (IC) that induces incorrect digital functionality when an incorrect verification key is provided by a user. The amount of error induced by an incorrect key is known as the effectiveness of the locking technique. A family of attacks known as \u201cSAT attacks\u201d provide a strong mathematical formulation to find the correct key of locked circuits. To achieve high SAT resilience (i.e., complexity of SAT attacks), many conventional logic locking schemes fail to inject sufficient error into the circuit when the key is incorrect. For example, in the case of SARLock and Anti-SAT, there are usually very few (or only one) input minterms that cause any error at the circuit\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Enhancing Processor Design Obfuscation Through Security-Aware On-Chip Memory and Data Path Design",
+        "id": "dESHYYcAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Michael Zuzak",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "Cryptology ePrint Archive",
+        "pub_date": "2021",
+        "description": "A sizable body of work has identified the importance of architecture and application level security when using logic locking, a family of module level supply chain security techniques, to secure processor ICs. However, prior logic locking research proposes configuring logic locking using only module level considerations. To begin our work, we perform a systematic design space exploration of logic locking in modules throughout a processor IC. This exploration shows that locking with only module level considerations cannot guarantee architecture/application level security, regardless of the locking technique used. To remedy this, we propose a tool-driven security-aware approach to enhance the 2 most effective candidate locking locations, on-chip memory and data path. We show that through minor design modifications of the on-chip memory and data path architecture, one can exponentially improve the architecture/application level security of prior locking art with only a modest design overhead. Underlying our design space exploration and security-aware design approach is ObfusGEM, an open-source logic locking simulation framework released with this work to quantitatively evaluate the architectural effectiveness of logic locking in custom processor architecture configurations."
+    },
+    {
+        "title": "A Resource Binding Approach to Logic Obfuscation",
+        "id": "dESHYYcAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Michael Zuzak",
+            "Yuntao Liu",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2021 58th ACM/IEEE Design Automation Conference (DAC)",
+        "pub_date": "2021",
+        "description": "Logic locking has been proposed to counter security threats during IC fabrication. Such an approach restricts unauthorized use by injecting sufficient module level error to derail application level IC functionality. However, recent research has identified a trade-off between the error rate of logic locking and its resilience to a Boolean satisfiablity (SAT) attack. As a result, logic locking often cannot inject sufficient error to impact an IC while maintaining SAT resilience. In this work, we propose using architectural context available during resource binding to co-design architectures and locking configurations capable of high corruption and SAT resilience simultaneously. To do so, we propose 2 security-focused binding/locking algorithms and apply them to bind/lock 11 MediaBench benchmarks. The resulting circuits showed a 26x and 99x increase in the application errors of a fixed locking configuration while maintaining\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Obfusgem: Enhancing processor design obfuscation through security-aware on-chip memory and data path design",
+        "id": "dESHYYcAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Michael Zuzak",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "Proceedings of the International Symposium on Memory Systems",
+        "pub_date": "2020/9/28",
+        "description": "A sizable body of work has identified the importance of architecture and application level security when using logic locking, a family of module level supply chain security techniques, to secure processor ICs. However, prior logic locking research proposes configuring logic locking using only module level considerations. To begin our work, we perform a systematic design space exploration of logic locking in modules throughout a processor IC. This exploration shows that locking with only module level considerations cannot guarantee architecture/application level security, regardless of the locking technique used. To remedy this, we propose a tool-driven security-aware approach to enhance the 2 most effective candidate locking locations, on-chip memory and data path. We show that through minor design modifications of the on-chip memory and data path architecture, one can exponentially improve the\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Trace logic locking: Improving the parametric space of logic locking",
+        "id": "dESHYYcAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Michael Zuzak",
+            "Yuntao Liu",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "pub_date": "2020/9/18",
+        "description": "To protect against an untrusted foundry, logic locking must 1) inject sufficient error to ensure critical application failures for any wrong key (error severity) and 2) resist any attack against it (attack resilient). We begin our work by deriving a fundamental tradeoff between these two goals which exists underlying all logic locking, regardless of construction. This relationship forces integrated circuit (IC) designers to sacrifice the error severity of logic locking to increase its attack resilience and vice versa. We proceed by exploring the consequences of this tradeoff through architectural simulations of ICs incorporating locking sweeping over the derived parametric space. We find that the efficacy of logic locking is severely limited by this tradeoff. In response, we propose trace logic locking (TLL), a novel enhancement of module level logic locking which enables existing art to secure arbitrary length sequences of input minterms\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "StatSAT: A Boolean satisfiability based attack on logic-locked probabilistic circuits",
+        "id": "dESHYYcAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Ankit Mondal",
+            "Michael Zuzak",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2020 57th ACM/IEEE Design Automation Conference (DAC)",
+        "pub_date": "2020/7/20",
+        "description": "The outsourcing of chip designs for fabrication has raised concerns regarding the protection of Intellectual Property (IP) from an untrustworthy foundry. Logic locking is a design-for-security technique that has the potential to thwart attacks from such an adversary. On the other hand, the notions of approximate and probabilistic computing have been popularized due to their low energy consumption characteristics and their potential application in error-tolerant frameworks. Prior work has looked into and exposed the vulnerability of logic-locked circuits using concepts of Boolean Satisfiability (SAT), but mostly from the perspective of deterministic designs. Despite existing attack frameworks not being directly applicable, we show in this work that circuits exhibiting probabilistic behavior also face the same threat. We propose StatSAT, an attack methodology incorporating statistical techniques into the existing SAT attack, that\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Benchmarking at the frontier of hardware security: Lessons from logic locking",
+        "id": "dESHYYcAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Benjamin Tan",
+            "Ramesh Karri",
+            "Nimisha Limaye",
+            "Abhrajit Sengupta",
+            "Ozgur Sinanoglu",
+            "Md Moshiur Rahman",
+            "Swarup Bhunia",
+            "Danielle Duvalsaint",
+            "Amin Rezaei",
+            "Yuanqi Shen",
+            "Hai Zhou",
+            "Leon Li",
+            "Alex Orailoglu",
+            "Zhaokun Han",
+            "Austin Benedetti",
+            "Luciano Brignone",
+            "Muhammad Yasin",
+            "Jeyavijayan Rajendran",
+            "Michael Zuzak",
+            "Ankur Srivastava",
+            "Ujjwal Guin",
+            "Chandan Karfa",
+            "Kanad Basu",
+            "Vivek V Menon",
+            "Matthew French",
+            "Peilin Song",
+            "Franco Stellari",
+            "Gi-Joon Nam",
+            "Peter Gadfort",
+            "Alric Althoff",
+            "Joseph Tostenrude",
+            "Saverio Fazzari",
+            "Eric Breckenfeld",
+            "Kenneth Plaks"
+        ],
+        "pub_source": "arXiv preprint arXiv:2006.06806",
+        "pub_date": "2020/6/11",
+        "description": "Integrated circuits (ICs) are the foundation of all computing systems. They comprise high-value hardware intellectual property (IP) that are at risk of piracy, reverse-engineering, and modifications while making their way through the geographically-distributed IC supply chain. On the frontier of hardware security are various design-for-trust techniques that claim to protect designs from untrusted entities across the design flow. Logic locking is one technique that promises protection from the gamut of threats in IC manufacturing. In this work, we perform a critical review of logic locking techniques in the literature, and expose several shortcomings. Taking inspiration from other cybersecurity competitions, we devise a community-led benchmarking exercise to address the evaluation deficiencies. In reflecting on this process, we shed new light on deficiencies in evaluation of logic locking and reveal important future directions. The lessons learned can guide future endeavors in other areas of hardware security.",
+        "citations": 35
+    },
+    {
+        "title": "A survey on neural trojans",
+        "id": "dESHYYcAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Yuntao Liu",
+            "Ankit Mondal",
+            "Abhishek Chakraborty",
+            "Michael Zuzak",
+            "Nina Jacobsen",
+            "Daniel Xing",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2020 21st International Symposium on Quality Electronic Design (ISQED)",
+        "pub_date": "2020/3/25",
+        "description": "Neural networks have become increasingly prevalent in many real-world applications including security critical ones. Due to the high hardware requirement and time consumption to train high-performance neural network models, users often outsource training to a machine-learning-as-a-service (MLaaS) provider. This puts the integrity of the trained model at risk. In 2017, Liu et al. found that, by mixing the training data with a few malicious samples of a certain trigger pattern, hidden functionality can be embedded in the trained network which can be evoked by the trigger pattern [33]. We refer to this kind of hidden malicious functionality as neural Trojans. In this paper, we survey a myriad of neural Trojan attack and defense techniques that have been proposed over the last few years. In a neural Trojan insertion attack, the attacker can be the MLaaS provider itself or a third party capable of adding or tampering with\u00a0\u2026",
+        "citations": 89
+    },
+    {
+        "title": "Strong anti-SAT: Secure and effective logic locking",
+        "id": "dESHYYcAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Yuntao Liu",
+            "Michael Zuzak",
+            "Yang Xie",
+            "Abhishek Chakraborty",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2020 21st International Symposium on Quality Electronic Design (ISQED)",
+        "pub_date": "2020/3/25",
+        "description": "Logic locking has been proposed as strong protection of intellectual property (IP) against security threats in the IC supply chain especially when the fabrication facility is untrusted. Such techniques use additional locking circuitry to inject incorrect behavior into the digital functionality when the key is incorrect. A family of attacks known as \u201cSAT attacks\u201d provides a strong mathematical formulation to find the correct key of locked circuits. Many conventional SAT-resilient logic locking schemes fail to inject sufficient error into the circuit when the key is incorrect: there are usually very few (or only one) input minterms that cause any error at the circuit output [18], [20]\u2013[22]. The state-of-the-art stripped functionality logic locking (SFLL) [24] technique provides a wide spectrum of configurations which introduced a trade-off between security (i.e. SAT attack complexity) and effectiveness (i.e. the amount of error injected by a wrong\u00a0\u2026",
+        "citations": 52
+    },
+    {
+        "title": "Provable Detection and Location of Hardware Trojans with Linear Hybrid Cellular Automata",
+        "id": "dESHYYcAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Michael Zuzak",
+            "Michael Fitelson",
+            "Sergio Montano",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "Government Microcircuit Applications and Critical Technology Conference (GOMACTech)",
+        "pub_date": "2020"
+    },
+    {
+        "title": "Nested mimd-simd parallelization for heterogeneous microprocessors",
+        "id": "dESHYYcAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Daniel Gerzhoy",
+            "Xiaowu Sun",
+            "Michael Zuzak",
+            "Donald Yeung"
+        ],
+        "pub_source": "ACM Transactions on Architecture and Code Optimization (TACO)",
+        "pub_date": "2019/12/17",
+        "description": "Heterogeneous microprocessors integrate a CPU and GPU on the same chip, providing fast CPU-GPU communication and enabling cores to compute on data \u201cin place.\u201d This permits exploiting a finer granularity of parallelism on the integrated GPUs, and enables the use of GPUs for accelerating more complex and irregular codes. One challenge, however, is exposing enough parallelism such that both the CPU and GPU are effectively utilized to achieve maximum gain. In this article, we propose exploiting nested parallelism for integrated CPU-GPU chips. We look for loop structures in which one or more regular data parallel loops are nested within a parallel outer loop that can contain irregular code (e.g., with control divergence). By scheduling the outer loop on multiple CPU cores, multiple dynamic instances of the inner regular loop(s) can be scheduled on the GPU cores. This boosts GPU utilization and\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "Keynote: A disquisition on logic locking",
+        "id": "dESHYYcAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Abhishek Chakraborty",
+            "Nithyashankari Gummidipoondi Jayasankaran",
+            "Yuntao Liu",
+            "Jeyavijayan Rajendran",
+            "Ozgur Sinanoglu",
+            "Ankur Srivastava",
+            "Yang Xie",
+            "Muhammad Yasin",
+            "Michael Zuzak"
+        ],
+        "pub_source": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "pub_date": "2019/9/30",
+        "description": "The fabless business model has given rise to many security threats, including piracy of intellectual property (IP), overproduction, counterfeiting, reverse engineering (RE), and hardware Trojans (HT). Such threats severely undermine the benefits of the fabless model. Among the countermeasures developed to thwart piracy and RE attacks, logic locking has emerged as a promising and versatile solution that is being adopted by both academia and industry. The idea behind logic locking is to lock the design using a \u201ckeying\u201d mechanism; only the rightful owner has control over the locked design. Therefore, the design remains nonfunctional without the knowledge of the key. In this article, we survey the evolution of logic locking over the last decade. We introduce various \u201ccat-and-mouse\u201d games involved in logic locking along with its novel applications-including, processor pipelines, graphics processing units (GPUs), and\u00a0\u2026",
+        "citations": 109
+    },
+    {
+        "title": "Memory locking: An automated approach to processor design obfuscation",
+        "id": "dESHYYcAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Michael Zuzak",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)",
+        "pub_date": "2019/7/15",
+        "description": "Conventional logic obfuscation techniques largely focus on locking the functionality of combinational modules. However, for processor design obfuscation, module-level errors are tangential to the fundamental adversarial goal: to produce a processor capable of running useful applications. As noted in previous work such as SFLL, module-level locking poses the following problem: high corruption in a locked module results in a high application-level error rate, but fundamentally leads to SAT attack susceptibility. Therefore, for combinational, module-level locking, increases in application-level error rates are accompanied by a corresponding increase in SAT susceptibility and vice versa. To address this, we introduce an automated and attack-resistant obfuscation technique, called memory locking, which targets on-chip SRAM. We demonstrate the application-level effectiveness of memory locking through system-level\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "HMCTherm: A cycle-accurate HMC simulator integrated with detailed power and thermal simulation",
+        "id": "dESHYYcAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Zhiyuan Yang",
+            "Michael Zuzak",
+            "Ankur Srivastava"
+        ],
+        "pub_source": "Proceedings of the International Symposium on Memory Systems",
+        "pub_date": "2018/10/1",
+        "description": "The hybrid memory cube (HMC) is a type of 3D stacked memory which is promising to overcome the \"memory wall\" problem of the conventional DRAM. However, the operating temperature of the HMC can be very high thus degrading the performance and even causing malfunction of the HMC. Therefore, fine-grained thermal-aware management (TM) techniques for HMCs are gaining increasing research interests. In order to design an efficient TM technique, a myriad of simulations should be performed at the early stage. However, current TM simulations for HMCs depend on complex frameworks which involve different tools. These conventional frameworks are very inefficient due to the heavy workload of generating and transferring intermediate data. In order to address this problem, we propose HMCTherm, a cycle-accurate simulator for the HMC with the integration of detailed power and thermal estimation\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Exploiting multi-loop parallelism on heterogeneous microprocessors",
+        "id": "dESHYYcAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Michael Zuzak",
+            "Donald Yeung"
+        ],
+        "pub_source": "Proceedings of the 10th International Workshop on Programmability and Architectures for Heterogeneous Multicores",
+        "pub_date": "2017/1",
+        "description": "Heterogeneous microprocessors integrate CPUs and GPUs on the same chip, providing fast CPU-GPU communication and enabling cores to compute on data \u201cin place.\u201d These advantages will permit integrated GPUs to exploit a smaller unit of parallelism. But one challenge will be exposing sufficient parallelism to keep all of the on-chip compute resources fully utilized. In this paper, we argue that integrated CPU-GPU chips should exploit parallelism from multiple loops simultaneously. One example of this is nested parallelism in which one or more inner SIMD loops are nested underneath a parallel outer (non-SIMD) loop. By scheduling the parallel outer loop on multiple CPU cores, multiple dynamic instances of the inner SIMD loops can be scheduled on the GPU cores. This boosts GPU utilization and parallelizes the non-SIMD code. Our preliminary results show exploiting such multi-loop parallelism provides a 3.12 x performance gain over exploiting parallelism from individual loops one at a time.",
+        "citations": 2
+    },
+    {
+        "title": "Exploiting Nested Parallelism on Heterogeneous Processors",
+        "id": "dESHYYcAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Michael Zuzak"
+        ],
+        "pub_source": "",
+        "pub_date": "2016",
+        "description": "Heterogeneous computing systems have become common in modern processor architectures. These systems, such as those released by AMD, Intel, and Nvidia, include both CPU and GPU cores on a single die available with reduced communication overhead compared to their discrete predecessors. Currently, discrete CPU/GPU systems are limited, requiring larger, regular, highly-parallel workloads to overcome the communication costs of the system. Without the traditional communication delay assumed between GPUs and CPUs, we believe non-traditional workloads could be targeted for GPU execution. Specifically, this thesis focuses on the execution model of nested parallel workloads on heterogeneous systems. We have designed a simulation flow which utilizes widely used CPU and GPU simulators to model heterogeneous computing architectures. We then applied this simulator to non-traditional GPU workloads using different execution models. We also have proposed a new execution model for nested parallelism allowing users to exploit these heterogeneous systems to reduce execution time."
+    },
+    {
+        "title": "Exploiting nested parallelism in heterogeneous computing systems",
+        "id": "dESHYYcAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Michael Jeffrey Zuzak"
+        ],
+        "pub_source": "University of Maryland, College Park",
+        "pub_date": "2016",
+        "description": "Heterogeneous computing systems have become common in modern processor architectures. These systems, such as those released by AMD, Intel, and Nvidia, include both CPU and GPU cores on a single die available with reduced communication overhead compared to their discrete predecessors. Currently, discrete CPU/GPU systems are limited, requiring larger, regular, highly-parallel workloads to overcome the communication costs of the system. Without the traditional communication delay assumed between GPUs and CPUs, we believe non-traditional workloads could be targeted for GPU execution. Specifically, this thesis focuses on the execution model of nested parallel workloads on heterogeneous systems. We have designed a simulation flow which utilizes widely used CPU and GPU simulators to model heterogeneous computing architectures. We then applied this simulator to non-traditional GPU\u00a0\u2026"
+    },
+    {
+        "title": "Benchmarking at the Frontier of Hardware Security: Lessons from Logic Locking",
+        "id": "dESHYYcAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dESHYYcAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Md Moshiur Rahman",
+            "Swarup Bhunia",
+            "Alex Orailoglu",
+            "Zhaokun Han",
+            "Austin Benedetti",
+            "Luciano Brignone",
+            "Muhammad Yasin",
+            "Jeyavijayan Rajendran",
+            "Michael Zuzak",
+            "Ankur Srivastava",
+            "Ujjwal Guin",
+            "Chandan Karfa",
+            "Kanad Basu",
+            "Franco Stellari",
+            "Gi-Joon Nam",
+            "Peter Gadfort",
+            "Alric Althoff",
+            "Joseph Tostenrude",
+            "Saverio Fazzari",
+            "Eric Breckenfeld",
+            "Ken Plaks"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Integrated circuits (ICs) are the foundation of all computing systems. They comprise high-value hardware intellectual property (IP) that are at risk of piracy, reverseengineering, and modifications while making their way through the geographically-distributed IC supply chain. On the frontier of hardware security are various design-for-trust techniques that claim to protect designs from untrusted entities across the design flow. Logic locking is one technique that promises protection from the gamut of threats in IC manufacturing. In this work, we perform a critical review of logic locking techniques in the literature, and expose several shortcomings. Taking inspiration from other cybersecurity competitions, we devise a communityled benchmarking exercise to address the evaluation deficiencies. In reflecting on this process, we shed new light on deficiencies in evaluation of logic locking and reveal important future directions. The lessons learned can guide future endeavors in other areas of hardware security."
+    }
+]

@@ -1,0 +1,2170 @@
+[
+    {
+        "title": "System and method for obfuscation of sequential logic through encryption",
+        "id": "aY0gRagAAAAJ:kz9GbA2Ns4gC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:kz9GbA2Ns4gC",
+        "authors": [
+            "MT Kurdziel",
+            "SM Farris",
+            "M Lukowiak",
+            "S Radziszowski"
+        ],
+        "pub_source": "US Patent App. 17/865,519",
+        "pub_date": "2024/1/18",
+        "description": "Systems and methods for protecting intellectual property of a circuit via obfuscation of logic through encryption. The methods comprise: analyzing a combinational circuit (CC) to identify first logic gates that perform first function (s) which is (are) implementable by LUT (s); dividing CC a first portion comprising the first logic gates and a second portion comprising remaining logic gates; protecting gate logic of the first portion by at least storing information implementing the first function (s) in an encrypted LUT format in a memory device of the circuit such that the first function (s) is (are) obfuscated when the circuit is in an at-rest state; and interfacing the remaining logic gates with the memory device such that the circuit is configured to generate an output in accordance with operations of the combinational circuit using the information stored in the encrypted LUT format."
+    },
+    {
+        "title": "Designing and Delivering a Post-Quantum Cryptography Course",
+        "id": "aY0gRagAAAAJ:M7yex6snE4oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:M7yex6snE4oC",
+        "authors": [
+            "Thomas J Borrelli",
+            "Monika Polak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2024",
+        "description": "The security of many commonly used cryptographic protocols, especially public-key cryptosystems, would be compromised if general-purpose, large-scale, fault-tolerant quantum computers become a reality. In this paper we present our experience developing and launching a course in Post-Quantum Cryptography (PQC). PQC refers to cryptographic systems that are secure against both quantum and classical computers. Such systems may be achieved through classical (ie non-quantum) means. Because of progress in the design of quantum computers and the ongoing National Institute of Standards and Technology (NIST) process to develop post-quantum cryptographic systems, we realized that there is a need to design a course that covers the consequences of developments in quantum computing (QC), the threats of QC to currently used cryptographic schemes, and how to mitigate those threats by developing quantum-resistant schemes. We designed a new course that is attracting students interested in the future of cryptography and computing security/cybersecurity. We first offered it as an MS-level graduate course, also open to upper-level undergraduates, in Spring 2022, and followed with the second offering in Spring 2023. The course covers the PQC algorithm design process, the consequences of QC, some computationally hard problems and then discusses selected proposals for post-quantum cryptosystems designed to be resistant to known classical and quantum attacks. Three main types of such designs include lattice-based,"
+    },
+    {
+        "title": "Some Upper Bounds on Ramsey Numbers Involving ",
+        "id": "aY0gRagAAAAJ:VaXvl8Fpj5cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:VaXvl8Fpj5cC",
+        "authors": [
+            "Luis Boza",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:2311.13582",
+        "pub_date": "2023/11/22",
+        "description": "We obtain some new upper bounds on the Ramsey numbers of the form $R(\\underbrace{C_4,\\ldots,C_4}_m,G_1,\\ldots,G_n)$, where  and  are arbitrary graphs. We focus on the cases of 's being complete, star  or book graphs , where . If , then our main upper bound theorem implies that $$R(C_4,B_k) \\le R(C_4,K_{1,k})+\\left\\lceil\\sqrt{R(C_4,K_{1,k})}\\right\\rceil+1.$$ Our techniques are used to obtain new upper bounds in several concrete cases, including: , , , , , , and , and also ."
+    },
+    {
+        "title": "The Complexity of\u00a0-Arrowing",
+        "id": "aY0gRagAAAAJ:LI9QrySNdTsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:LI9QrySNdTsC",
+        "authors": [
+            "Zohair Raza Hassan",
+            "Edith Hemaspaandra",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "International Symposium on Fundamentals of Computation Theory",
+        "pub_date": "2023/9/18",
+        "description": "For fixed nonnegative integers k and , the -Arrowing problem asks whether a given graph, G, has a red/blue coloring of E(G) such that there are no red copies of  and no blue copies of . The problem is trivial when , but has been shown to be coNP-complete when . In this work, we show that the problem remains coNP-complete for all pairs of k and , except (3,\u00a04), and when .Our result is only the second hardness result for (F,\u00a0H)-Arrowing for an infinite family of graphs and the first for 1-connected graphs. Previous hardness results for (F,\u00a0H)-Arrowing depended on constructing graphs that avoided the creation of too many copies of F and H, allowing easier analysis of the reduction. This is clearly unavoidable with paths and thus requires a more careful approach. We define and prove the existence of special graphs that we refer to as \u201ctransmitters.\u201d Using transmitters, we construct gadgets for three distinct\u00a0\u2026"
+    },
+    {
+        "title": "Array-Based Statistical Analysis of the MK-3 Customizable Authenticated Encryption Algorithm",
+        "id": "aY0gRagAAAAJ:lmc2jWPfTJgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:lmc2jWPfTJgC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2023/8/29",
+        "description": "To provide security autonomy capability, such that different users can have independent variants of the encryption algorithm, MK-3 is designed to be customizable. Two levels of customization are supported, Factory Customization and Field Customization. Customization is done by modifying functions and function parameters in the algorithm to yield unique cipher functions while preserving the algorithm\u2019s cryptographic security. The main goal of this work is to present the results from the statistical analysis of the customizable MK-3 encryption cypher, focusing on field customized mixers. We recall the main components of the MK-3 algorithm and overview a subset of available factory and field customizations for MK-3. We test the main instances of the field customized versions and give a general argument for their desired statistical properties expected from an encryption cypher."
+    },
+    {
+        "title": "On Some Generalized Vertex Folkman Numbers",
+        "id": "aY0gRagAAAAJ:4MWp96NkSFoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:4MWp96NkSFoC",
+        "authors": [
+            "Zohair Raza Hassan",
+            "Yu Jiang",
+            "David E Narv\u00e1ez",
+            "Stanis\u0142aw Radziszowski",
+            "Xiaodong Xu"
+        ],
+        "pub_source": "Graphs and Combinatorics",
+        "pub_date": "2023/8",
+        "description": "For a graph G and integers , the expression  means that for any r-coloring of the vertices of G there exists a monochromatic -clique in G for some color . The vertex Folkman numbers are defined as  is H-free and , where H is a graph. Such vertex Folkman numbers have been extensively studied for  with . If  for all i, then we use notation .Let  be the complete graph  missing one edge, i.e. . In this work we focus on vertex Folkman numbers with , in particular for  and . A result by Ne\u0161et\u0159il and R\u00f6dl from 1976 implies that  is well defined for any . We present a new and more direct proof of this fact. The simplest but already intriguing case is that of , for which we establish the upper bound of 135 by using the -free process. We obtain the exact values and bounds for a few other small cases of\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "The Complexity of -Arrowing",
+        "id": "aY0gRagAAAAJ:MLfJN-KU85MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:MLfJN-KU85MC",
+        "authors": [
+            "Zohair Raza Hassan",
+            "Edith Hemaspaandra",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:2307.10510",
+        "pub_date": "2023/7/20",
+        "description": "For fixed nonnegative integers  and , the -Arrowing problem asks whether a given graph, , has a red/blue coloring of  such that there are no red copies of  and no blue copies of . The problem is trivial when , but has been shown to be coNP-complete when . In this work, we show that the problem remains coNP-complete for all pairs of  and , except , and when . Our result is only the second hardness result for -Arrowing for an infinite family of graphs and the first for 1-connected graphs. Previous hardness results for -Arrowing depended on constructing graphs that avoided the creation of too many copies of  and , allowing easier analysis of the reduction. This is clearly unavoidable with paths and thus requires a more careful approach. We define and prove the existence of special graphs that we refer to as ``transmitters.'' Using transmitters, we construct gadgets for three distinct cases: 1)  and , 2) , and 3) . For -Arrowing we show a polynomial-time algorithm by reducing the problem to 2SAT, thus successfully categorizing the complexity of all -Arrowing problems."
+    },
+    {
+        "title": "Power Analysis Attacks on the Customizable MK-3 Authenticated Encryption Algorithm",
+        "id": "aY0gRagAAAAJ:b1wdh0AR-JQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:b1wdh0AR-JQC",
+        "authors": [
+            "Peter Fabinski",
+            "Steve Farris",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "2023 30th International Conference on Mixed Design of Integrated Circuits and System (MIXDES)",
+        "pub_date": "2023/6/29",
+        "description": "MK-3 is an authenticated encryption scheme based on the duplex sponge construction, suitable for both hardware and software. It provides broad factory and field customization features. The same security claims are valid for the original and all recommended customizations. Extensive security analyses of MK-3 were performed in our previous work: differential, linear, cube, and brute force attacks, as well as statistical analysis. In this work we report on new experiments involving Correlation Power Analysis (CPA), which is considered one of the most powerful side-channel attack (SCA) techniques. Two CPA attacks on MK-3 were developed: the first directly after the key absorption, and the second after the S-boxes in the first round of IV absorption. In the first attack, under strong assumptions about an attacker's capability to collect traces, we can recover 128 of the 512 state bits in a physical test on an FPGA. The\u00a0\u2026"
+    },
+    {
+        "title": "Statistical Analysis of the MK-3 Customizable Authenticated Encryption",
+        "id": "aY0gRagAAAAJ:EYYDruWGBe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:EYYDruWGBe4C",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2022-2022 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2022/11/28",
+        "description": "To provide security autonomy capability, such that different users can have independent variants of the encryption algorithm, MK-3 is designed to be customizable. Two levels of customization are supported, Factory Customization and Field Customization. Customization is done by modifying functions and function parameters in the algorithm to yield differing cipher functions while preserving the algorithm's security. The main goal of this work is to present the results from the statistical analysis of the customizable MK-3 encryption scheme, focusing on field customized mixers. We recall the main components of the MK-3 algorithm and overview a subset of available factory and field customizations for MK-3. We test the main instances of the field customized versions and give a general argument for their desired statistical properties expected from an encryption scheme.",
+        "citations": 1
+    },
+    {
+        "title": "Memory Protection with Dynamic Authentication Trees",
+        "id": "aY0gRagAAAAJ:vbGhcppDl1QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:vbGhcppDl1QC",
+        "authors": [
+            "Matthew Millar",
+            "Marcin \u0141ukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "2022 29th International Conference on Mixed Design of Integrated Circuits and System (MIXDES)",
+        "pub_date": "2022/6/23",
+        "description": "As embedded devices increase in use and handle more critical information and functionalities, the importance of security grows even greater. Defense against bus attacks such as spoofing, splicing, and replay attacks is of particular concern. Traditional memory authentication techniques, such as hashes and message authentication codes, require significant amounts of on-chip memory and introduce a large performance impact when protecting off-chip memory during run-time. Balanced authentication trees such as the well-known Merkle tree or TEC-Tree can be used to reduce this cost. This work proposes a new method of dynamic authentication trees, which updates a tree structure based on a processor's memory access pattern. An HDL model for use in an FPGA has been developed as a transparent and highly customizable AXI-4 memory controller. The performance of our tree design is comparable to that of\u00a0\u2026"
+    },
+    {
+        "title": "Solving the Cross Domain Problem with Functional Encryption",
+        "id": "aY0gRagAAAAJ:Z5m8FVwuT1cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Z5m8FVwuT1cC",
+        "authors": [
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Steve Farris",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2021-2021 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2021/11/29",
+        "description": "A Cross Domain Problem (CDP) is the question of how to securely access and exchange information between the domains of varying security levels. A Cross Domain Solution (CDS) addresses the CDP by designing the framework and protocols for such access and transfers. Most existing CDS methods rely on policies and trusted parties to manage different security levels. A CDS that can function in the presence of untrusted parties is a challenge. Functional Encryption (FE) is an encryption scheme in which a secret key allows one to compute a specific function of plaintext from the ciphertext. FE is a generalization of identity-based and attribute-based encryption frameworks. General and simultaneously practical FE is an emerging area, and only special types of encryption schemes and functions are effectively handled within existing systems. We apply the concepts of FE to explore a new solution to the CDP, and\u00a0\u2026"
+    },
+    {
+        "title": "Cross-domain information transfer system and associated methods",
+        "id": "aY0gRagAAAAJ:vDijr-p_gm4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:vDijr-p_gm4C",
+        "authors": [
+            "MT Kurdziel",
+            "SM Farris",
+            "P Bajorski",
+            "AR Kaminsky",
+            "M Lukowiak",
+            "..."
+        ],
+        "pub_source": "US Patent 11,115,395",
+        "pub_date": "2021/9/7",
+        "description": "A cross-domain information transfer system includes a key distribution center that generates private encryption keys and a signature key pair as a secret signing and secret verifying key for an attribute associated with a given domain. A sender device generates ciphertext from plaintext based upon the private encryption key, appends an attribute for a given domain to the ciphertext, generates ciphertext with a concealed attribute based upon the secret signing key and broadcasts the ciphertext with the concealed attribute. Domain gateway devices each receive a respective secret verifying key for an associated attribute, receive the ciphertext with the concealed attribute from the untrusted network, and use the secret verifying key to determine if the concealed attribute matches the attribute associated with the domain gateway device, and, when so, pass the ciphertext to at least one receiver device coupled with the\u00a0\u2026"
+    },
+    {
+        "title": "Hardware Obfuscation of the 16-bit S-box in the MK-3 Cipher",
+        "id": "aY0gRagAAAAJ:BUYA1_V_uYcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:BUYA1_V_uYcC",
+        "authors": [
+            "Jason Blocklove",
+            "Steve Farris",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2021 28th International Conference on Mixed Design of Integrated Circuits and System",
+        "pub_date": "2021/6/24",
+        "description": "At different stages of the Integrated Circuit (IC) lifecycle there are attacks which threaten to compromise the integrity of the design through piracy, reverse engineering, hardware Trojan insertion, side channel analysis, and other physical attacks. Some of the most notable challenges in this field deal specifically with Intellectual Property (IP) theft and reverse engineering attacks. One method by which some of these concerns can be addressed is by introducing hardware obfuscation to the design in various forms. In this work we evaluate the effectiveness of a few different forms of netlist-level hardware obfuscation of a 16-bit substitution box component of a customizable cipher MK-3. These obfuscation methods were attacked using a satisfiability (SAT) attack, which is able to iteratively rule out classes of keys at once. This has been shown to be very effective against many forms of hardware obfuscation. A method to\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Star-Critical Ramsey Numbers for Cycles Versus",
+        "id": "aY0gRagAAAAJ:t7zJ5fGR-2UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:t7zJ5fGR-2UC",
+        "authors": [
+            "Chula J Jayawardene",
+            "David Narv\u00e1ez",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Discussiones Mathematicae Graph Theory",
+        "pub_date": "2021",
+        "description": "Given three graphs G, H and K we write K\u2192(G, H), if in any red/blue coloring of the edges of K there exists a red copy of G or a blue copy of H. The Ramsey number r (G, H) is defined as the smallest natural number n such that Kn\u2192(G, H) and the star-critical Ramsey number r\u2217(G, H) is defined as the smallest positive integer k such that Kn\u2212 1\u2294 K1, k\u2192(G, H), where n is the Ramsey number r (G, H). When n\u2265 3, we show that r\u2217(Cn, K4)= 2n except for r\u2217(C3, K4)= 8 and r\u2217(C4, K4)= 9. We also characterize all Ramsey critical r (Cn, K4) graphs.",
+        "citations": 6
+    },
+    {
+        "title": "Customizable encryption/decryption algorithm",
+        "id": "aY0gRagAAAAJ:evX43VCCuoAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:evX43VCCuoAC",
+        "authors": [
+            "MT Kurdziel",
+            "SM Farris",
+            "AR Kaminsky",
+            "SP Radziszowski",
+            "MX Lukowiak",
+            "..."
+        ],
+        "pub_source": "US Patent 10,666,437",
+        "pub_date": "2020/5/26",
+        "description": "Systems (100) and methods (700) for customizing a cryptographic algorithm. The methods comprise: providing an electronic device with the cryptographic algorithm implementing a permutation function \u0192 configured to produce a first keystream using bits input thereto, the permutation function \u0192 comprising a round function \u0192round consisting of a mixing layer in which input bits are combined together; and customizing the mixing layer of the permutation function \u0192 while the electronic device is in the field. The mixing layer is customized by: receiving, by the electronic device, a first user-software interaction for entering a first bit string comprising a plurality of first arbitrary bits; breaking the first bit string into a plurality of equal length segments each comprising only a portion of the plurality of first bits; and translating each of the equal length segments into irreducible polynomial coefficients and/or an irreducible polynomial\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Pietrzak Verifiable Delay Functions",
+        "id": "aY0gRagAAAAJ:9Nmd_mFXekcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:9Nmd_mFXekcC",
+        "authors": [
+            "Joe Netti",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2020/5/5",
+        "description": "Verifiable delay functions (VDF) create efficiently verifiable and unique proofs of work. Verifiable Delay Functions are first formally defined by Boneh et. al in the paper \u201cVerifiable Delay Functions.\u201d In this paper they formally define the characteristics of VDFs to have three properties. A VDF computation takes a certain amount of time to compute (\u201cdelay\u201d) and there are no efficiency gains from parallelizing the computation. This amount of time is easily parameterizable based on the use case. VDFs must create proofs of work that are efficiently verifiable (\u201cverifiable\u201d). Lastly, each puzzle must have a single deterministic solution (\u201cfunction\u201d).[1, 2].These three features are essential for distinguishing VDFs from prior cryptographic constructions. Bitcoin delay can be seen as a Verifiable Delay (except that can be parallelized). Proofs of Sequential Work (POSW) first introduced in 2013 is a Verifiable Delay that cannot be\u00a0\u2026"
+    },
+    {
+        "title": "Design of a flexible Sch\u00f6nhage-Strassen FFT polynomial multiplier with high-level synthesis to accelerate HE in the cloud",
+        "id": "aY0gRagAAAAJ:fEOibwPWpKIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:fEOibwPWpKIC",
+        "authors": [
+            "Kevin Millar",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig)",
+        "pub_date": "2019/12/9",
+        "description": "Homomorphic Encryption (HE) allows for encrypted data to be sent to, stored, and operated on by untrusted parties without the risk of privacy compromise. The benefits and applications of HE are far reaching, especially in regard to cloud computing. However, current HE solutions require a large number of resource intensive arithmetic operations such as high precision, high degree polynomial multiplication. This work aims to accelerate the multi-precision arithmetic operations used in HE with specific focus on an implementation of the Sch\u00f6nhage-Strassen Fast Fourier Transform (FFT)-based multiplication algorithm. It is planned to be incorporated into a larger HE library of arithmetic functions tuned for High-Level Synthesis (HLS) that enables flexible solutions for hardware/software systems on reconfigurable cloud resources. The developed FFT based polynomial multiplier exhibits flexibility in the selection of HE\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Exploring the application of homomorphic encryption to a cross domain solution",
+        "id": "aY0gRagAAAAJ:z_wVstp3MssC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:z_wVstp3MssC",
+        "authors": [
+            "Cody Tinker",
+            "Kevin Millar",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2019-2019 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2019/11/12",
+        "description": "A Cross Domain Solution (CDS) is a means of secure information exchange that provides the ability to access or transfer digital data between varying security domains. Most existing CDS methods focus on risk management policies that rely on using protected or trusted parties to process the information in order to solve this problem. A CDS that is able to function in the presence of untrusted parties is a challenge. We apply the concepts of homomorphic encryption (HE) to explore a new solution to the CDS problem. We built a practical software case study application using the Yet Another Somewhat Homomorphic Encryption Scheme (YASHE) around the specific challenge of evaluating the gateway bypass condition on encrypted data. We assess the feasibility of such an application through performance and memory profiling in order to find a parameter selection that ensures proper homomorphic evaluation. The\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Failed power domination on graphs",
+        "id": "aY0gRagAAAAJ:uLbwQdceFCQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:uLbwQdceFCQC",
+        "authors": [
+            "Abraham Glasser",
+            "Bonnie Jacob",
+            "Emily Lederman",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1909.02057",
+        "pub_date": "2019/9/4",
+        "description": "Let $G$ be a simple graph with vertex set $V$ and edge set $E$, and let $S \\subseteq V$. The \\emph{open neighborhood} of $v \\in V$, $N(v)$, is the set of vertices adjacent to $v$; the \\emph{closed neighborhood} is given by $N[v] = N(v) \\cup \\{v\\}$. The \\emph{open neighborhood} of $S$, $N(S)$, is the union of the open neighborhoods of vertices in $S$, and the \\emph{closed neighborhood} of $S$ is $N[S] = S \\cup N(S)$. The sets $ \\mathcal{P}^i(S), i \\geq 0$, of vertices \\emph{monitored} by $S$ at the $i^{\\ {th}}$ step are given by $\\mathcal{P}^0(S) = N[S]$ and $\\mathcal{P}^{i+1}(S) = \\mathcal{P}^i(S) \\bigcup\\left\\{ w : \\{ w \\} = N[v] \\backslash \\mathcal{P}^i(S) \\ { for some } v \\in \\mathcal{P}^i(S) \\right\\}$. If there exists $j$ such that $\\mathcal{P}^j(S) = V$, then $S$ is called a \\emph{power dominating set}, PDS, of $G$. We introduce and discuss the \\emph{failed power domination number} of a graph $G$, $\\bar{\\gamma}_p(G)$, the largest cardinality of a set that is not a PDS. We prove that $\\bar{\\gamma}_p(G)$ is NP-hard to compute, determine graphs in which every vertex is a PDS, and compare $\\bar{\\gamma}_p(G)$ to similar parameters.",
+        "citations": 4
+    },
+    {
+        "title": "On a diagonal conjecture for classical Ramsey numbers",
+        "id": "aY0gRagAAAAJ:PR6Y55bgFSsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:PR6Y55bgFSsC",
+        "authors": [
+            "Meilian Liang",
+            "Stanis\u0142aw Radziszowski",
+            "Xiaodong Xu"
+        ],
+        "pub_source": "Discrete Applied Mathematics",
+        "pub_date": "2019/8/31",
+        "description": "Abstract Let R (k 1,\u2026, k r) denote the classical r-color Ramsey number for integers k i\u2265 2. The Diagonal Conjecture (DC) for classical Ramsey numbers poses that if k 1,\u2026, k r are integers no smaller than 3 and k r\u2212 1\u2264 k r, then R (k 1,\u2026, k r\u2212 2, k r\u2212 1\u2212 1, k r+ 1)\u2264 R (k 1,\u2026, k r). We obtain some implications of this conjecture, present evidence for its validity, and discuss related problems. Let R r (k) stand for the r-color Ramsey number R (k,\u2026, k). It is known that lim r\u2192\u221e R r (3) 1\u2215 r exists, either finite or infinite, the latter conjectured by Erd\u0151s. This limit is related to the Shannon capacity of complements of K 3-free graphs. We prove that if DC holds, and lim r\u2192\u221e R r (3) 1\u2215 r is finite, then lim r\u2192\u221e R r (k) 1\u2215 r is finite for every integer k\u2265 3.",
+        "citations": 3
+    },
+    {
+        "title": "Flexible HLS-based implementation of the Karatsuba multiplier targeting homomorphic encryption schemes",
+        "id": "aY0gRagAAAAJ:35r97b3x0nAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:35r97b3x0nAC",
+        "authors": [
+            "Michael J Foster",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2019 MIXDES-26th International Conference\" Mixed Design of Integrated Circuits and Systems\"",
+        "pub_date": "2019/6/27",
+        "description": "Custom accelerators for high-precision integer arithmetic are increasingly used in compute-intensive applications, in particular homomorphic encryption schemes. This work seeks to advance a strategy for faster deployment of these accelerators using the process of high-level synthesis (HLS). Insights from existing number theory software libraries and custom hardware accelerators are used to develop a scalable implementation of Karatsuba modular polynomial multiplication. The accelerator generated from this implementation by the high-level synthesis tool Vivado HLS achieves significant speedup over the implementations available in the highly-optimized FLINT software library. This is an important first step towards a larger goal of enabling HLS-based homomorphic encryption in the cloud.",
+        "citations": 7
+    },
+    {
+        "title": "On some edge Folkman numbers, small and large",
+        "id": "aY0gRagAAAAJ:_Re3VWB3Y0AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:_Re3VWB3Y0AC",
+        "authors": [
+            "Jenny M Kaufmann",
+            "Henry J Wickus",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Involve, a Journal of Mathematics",
+        "pub_date": "2019/5/22",
+        "description": "Edge Folkman numbers F e (G 1, G 2; k) can be viewed as a generalization of more commonly studied Ramsey numbers. F e (G 1, G 2; k) is defined as the smallest order of any K k-free graph F such that any red-blue coloring of the edges of F contains either a red G 1 or a blue G 2. In this note, first we discuss edge Folkman numbers involving graphs J s= K s\u2212 e, including the results F e (J 3, K n; n+ 1)= 2 n\u2212 1, F e (J 3, J n; n)= 2 n\u2212 1, and F e (J 3, J n; n+ 1)= 2 n\u2212 3. Our modification of computational methods used previously in the study of classical Folkman numbers is applied to obtain upper bounds on F e (J 4, J 4; k) for all k> 4.",
+        "citations": 3
+    },
+    {
+        "title": "Array-Based Statistical Analysis of the MK-3 Authenticated Encryption Scheme",
+        "id": "aY0gRagAAAAJ:UHK10RUVsp4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:UHK10RUVsp4C",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2018/10/29",
+        "description": "Authenticated encryption (AE) schemes are symmetric key cryptographic methods that support confidentiality, integrity and source authentication. There are many AE algorithms in existence today, in part thanks to the CAESAR competition for authenticated encryption, which is in its final stage. In our previous work we introduced a novel AE algorithm MK-3 (not part of the CAESAR competition), which is based on the duplex sponge construction and it is using novel large 16\u00d716 AES-like S-boxes. Unlike most AE schemes, MK-3 scheme provides additional customization features for users who desire unique solutions. This makes it well suited for government and military applications. In this paper, we develop a new array-based statistical analysis approach to evaluate randomness of cryptographic primitives and show its effectiveness in the analysis of MK-3. One of the strengths of this method is that it focuses on the\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Customization modes for the Harris MK-3 authenticated encryption algorithm",
+        "id": "aY0gRagAAAAJ:dQ2og3OwTAUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:dQ2og3OwTAUC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM)",
+        "pub_date": "2018/10/29",
+        "description": "MK-3 is a new proprietary authenticated encryption algorithm based on the duplex sponge construction. To provide security autonomy capability, such that different users can have sovereign variants of the encryption algorithm, MK-3 is designed to be customizable. Two levels of customization are supported, Factory Customization and Field Customization. Customization is done by modifying functions and function parameters in the algorithm to yield differing cipher functions while preserving the algorithm's security. This paper describes the MK-3 algorithm's customization options and discusses results of testing designed to verify security autonomy among the customized variants.",
+        "citations": 6
+    },
+    {
+        "title": "On the nonexistence of some generalized Folkman numbers",
+        "id": "aY0gRagAAAAJ:SdhP9T11ey4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:SdhP9T11ey4C",
+        "authors": [
+            "Xiaodong Xu",
+            "Meilian Liang",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Graphs and Combinatorics",
+        "pub_date": "2018/9",
+        "description": "For an undirected simple graph G, we write  if and only if for everyred-blue coloring of its vertices there exists a red  or a blue . Thegeneralized vertex Folkman number  is defined as the smallest integer n for which there exists an H-free graph G of order n such that . The generalized edge Folkman numbers  are defined similarly, when colorings of the edges are considered. We show that  and  are well defined for . We prove the nonexistence of  for some H, in particular for , where  is the book graph of k triangular pages, and for . We pose three problems ongeneralized Folkman numbers, including the existence question of edge Folkmannumbers ,  and . Our results lead to some general inequalities involving two-color and multicolor\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "A note on upper bounds for some generalized Folkman numbers",
+        "id": "aY0gRagAAAAJ:WqliGbK-hY8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:WqliGbK-hY8C",
+        "authors": [
+            "Xiaodong Xu",
+            "Meilian Liang",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Discussiones Mathematicae Graph Theory",
+        "pub_date": "2018",
+        "description": "We present some new constructive upper bounds based on product graphs for generalized vertex Folkman numbers. They lead to new upper bounds for some special cases of generalized edge Folkman numbers, including the cases Fe (K3, K4\u2212 e; K5)\u2264 27 and Fe (K4\u2212 e, K4\u2212 e; K5)\u2264 51. The latter bound follows from a construction of a K5-free graph on 51 vertices, for which every edge coloring with two colors contains a monochromatic K4\u2212 e.",
+        "citations": 4
+    },
+    {
+        "title": "Some Folkman problems",
+        "id": "aY0gRagAAAAJ:W5xh706n7nkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:W5xh706n7nkC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "X Xu",
+            "M Liang"
+        ],
+        "pub_source": "Chromatic vertex Folkman numbers, Existence and non-existence, Computational challenges. CanaDAM, Toronto",
+        "pub_date": "2017/6",
+        "description": "Some Folkman Problems [1.7ex] - chromatic vertex Folkman numbers [.5ex] existence, \ncomputational challenges [1ex] Page 1 Some Folkman Problems chromatic vertex Folkman \nnumbers existence, computational challenges Stanis\u0142aw Radziszowski Department of Computer \nScience Rochester Institute of Technology, NY joint work with Xiaodong Xu and Meilian Liang \nDisCoMathS, 18 September 2020 Henrietta NY 1/24 Page 2 Plan of Talk \u25b6 On the most wanted \nFolkman number (16 min) Aleksander Soifer The Mathematical Coloring Book, first edition \n2009. second edition in making, 2021, with expanded Folkman theme. \u25b6 Chromatic vertex \nFolkman problems (32 min) XLR The Electronic Journal of Combinatorics, 27(3) (2020) P3.53. \nfirst draft 2015, hick-ups, revisions, out 9/4/2020. 2/24 Page 3 Erdos and Hajnal Research \nProblem 2-5, JCT 2, p. 105, 1967 Construct a graph G which does not contain a complete \u2026",
+        "citations": 3
+    },
+    {
+        "title": "Neural networks and the search for a quadratic residue detector",
+        "id": "aY0gRagAAAAJ:9vf0nzSNQJEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:9vf0nzSNQJEC",
+        "authors": [
+            "Michael Potter",
+            "Leon Reznik",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2017 International Joint Conference on Neural Networks (IJCNN)",
+        "pub_date": "2017/5/14",
+        "description": "This paper investigates the feasibility of employing artificial neural network techniques for solving fundamental cryptography problems, taking quadratic residue detection as an example. The problem of quadratic residue detection is one which is well known in both number theory and cryptography. While it garners less attention than problems such as factoring or discrete logarithms, it is similar in both difficulty and importance. No polynomial-time algorithm is currently known to the public by which the quadratic residue status of one number modulo another may be determined. This work leverages machine learning algorithms in an attempt to create a detector capable of solving instances of the problem more efficiently. A variety of neural networks, currently at the forefront of machine learning methodologies, were compared to see if any were capable of consistently outperforming random guessing as a mechanism for\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Computers in Ramsey Theory; Testing, Constructions and Nonexistence",
+        "id": "aY0gRagAAAAJ:nrtMV_XWKgEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:nrtMV_XWKgEC",
+        "authors": [
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2017",
+        "description": "Computers in Ramsey Theory Ramsey theory is often regarded as the study of how order emerges from randomness. While originated in mathematical logic, it has applications in geometry, number theory, game theory, information theory, approximation algorithms, and other areas of mathematics and theoretical computer science. Ramsey theory studies the conditions of when a combinatorial object necessarily contains some smaller given objects. The central concept in Ramsey theory is that of arrowing, which in the case of graphs describes when colorings of larger graphs necessarily contain monochromatic copies of given smaller graphs. The role of Ramsey numbers is to quantify some of the general existential theorems in Ramsey theory, always involving arrowing. The determination of whether this arrowing holds is notoriously difficult, and thus it leads to numerous computational challenges concerning various types of Ramsey numbers and closely related Folkman numbers. This talk will overview how computers are increasingly used to study the bounds on Ramsey and Folkman numbers, and properties of Ramsey arrowing in general. This is happening in the area where traditional approaches typically call for classical computer-free proofs. It is evident that now we understand Ramsey theory much better than a few decades ago, increasingly due to computations. Further, more such progress and new insights based on computations should be anticipated."
+    },
+    {
+        "title": "Chromatic vertex Folkman numbers",
+        "id": "aY0gRagAAAAJ:PELIpwtuRlgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:PELIpwtuRlgC",
+        "authors": [
+            "Xiaodong Xu",
+            "Meilian Liang",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1612.08136",
+        "pub_date": "2016/12/24",
+        "description": "For graph  and integers , we write  if and only if for every -coloring of the vertex set  there exists a monochromatic  in  for some color . The vertex Folkman number  is defined as the smallest integer  for which there exists a -free graph  of order  such that . It is well known that if  then , where . In this paper we study such Folkman graphs  with chromatic number , which leads to a new concept of chromatic Folkman numbers. We prove constructively some existential results, among others that for all  there exist -free graphs  such that  and  has the smallest possible chromatic number  for this -color arrowing to hold. We also conjecture that, in some cases, our construction is the best possible, in particular that for every  there exists a -free graph  on  vertices with  such that .",
+        "citations": 7
+    },
+    {
+        "title": "Effectiveness of variable bit-length power analysis attacks on SHA-3 based MAC",
+        "id": "aY0gRagAAAAJ:JoZmwDi-zQgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:JoZmwDi-zQgC",
+        "authors": [
+            "Xuan D Tran",
+            "Marcin \u0141ukowiak",
+            "Stanislaw P Radziszowski"
+        ],
+        "pub_source": "MILCOM 2016-2016 IEEE Military Communications Conference",
+        "pub_date": "2016/11/1",
+        "description": "Keccak is the hash function selected by NIST as the new SHA-3 standard. Keccak is built on sponge construction, and it provides a new keyed Message Authentication Code (MAC) function called MAC-Keccak. The focus of this work was to apply the power analysis attacks that use Correlation Power Analysis (CPA) technique to extract the secret key. Our attack methodology utilizes simulated power consumption waveforms and is applied to the Keccak high-speed core hardware design from the SHA-3 competition. 1-bit, 2-bit, 4-bit, 8-bit, and 16-bit CPA selection function key guess size attacks are performed on the waveforms to compare and analyze computational effort of successful key extraction on MAC-Keccak. Our experiments confirm that the larger the selection function key guess size is used, the better the fewer traces are needed to retrieve the key, but using more computation time.",
+        "citations": 4
+    },
+    {
+        "title": "Implementing authenticated encryption algorithm MK-3 on FPGA",
+        "id": "aY0gRagAAAAJ:_B80troHkn4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:_B80troHkn4C",
+        "authors": [
+            "Gordon Werner",
+            "Steven Farris",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2016-2016 IEEE Military Communications Conference",
+        "pub_date": "2016/11/1",
+        "description": "Authenticated encryption (AE) algorithms provide both data security and integrity. While a number of AE algorithms exist, they can be inefficient and difficult to use. Recent efforts have focused on the development of secure, efficient and easy to use AE algorithms. MK-3 is one such algorithm, developed through a joint effort between Rochester Institute of Technology (RIT) and Harris Corporation. It uses the duplex construction, which builds on the sponge primitive popularized by Keccak, the SHA-3 competition winner. MK-3 is intended for hardware implementations with a novelty being the use of 16-bit substitution boxes. This paper presents the first fully parallel hardware implementation of MK-3 using Field Programmable Gate Array (FPGA). We also lay the groundwork for future design optimizations.",
+        "citations": 7
+    },
+    {
+        "title": "Customizable encryption algorithm based on a sponge construction with authenticated and non-authenticated modes of operation",
+        "id": "aY0gRagAAAAJ:wbdj-CoPYUoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:wbdj-CoPYUoC",
+        "authors": [
+            "MT Kurdziel",
+            "M Kelly",
+            "A Kaminsky",
+            "M Lukowiak",
+            "S Radziszowski"
+        ],
+        "pub_source": "US Patent 9,438,416",
+        "pub_date": "2016/9/6",
+        "description": "Systems (100) and methods (600) for generating encrypted data. The methods involve: combining a cryptographic key with state initialization bits to generate first combination bits; producing a first keystream by performing a permutation function \u0192 using the first combination bits as inputs thereto; and using the first keystream to encrypt first data (eg, authentication data or message body data) so as to produce first encrypted data. The permutation function \u0192 comprises a round function \u0192 round that is iterated R times. The round function \u0192 round consists of (1) a substitution layer in which the first combination bits are substituted with substitute bits,(2) a permutation layer in which the substitute bits are re-arranged,(3) a mixing layer in which multiple of the permutation layer are combined together, and (4) an addition layer in which a constant is added to the output of the mixing layer.",
+        "citations": 13
+    },
+    {
+        "title": "On bipartization of cubic graphs by removal of an independent set",
+        "id": "aY0gRagAAAAJ:uWQEDVKXjbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:uWQEDVKXjbEC",
+        "authors": [
+            "Hanna Furma\u0144czyk",
+            "Marek Kubale",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Discrete Applied Mathematics",
+        "pub_date": "2016/8/20",
+        "description": "We study a new problem for cubic graphs: bipartization of a cubic graph Q by deleting sufficiently large independent set I. It can be expressed as follows: Given an integer k and a connected n-vertex tripartite cubic graph Q=(V, E) with independence number \u03b1 (Q), does Q contain an independent set I of size k such that Q\u2212 I is bipartite? We are interested for which values of k the answer to this question is affirmative. We prove constructively that if \u03b1 (Q)\u2265 2 n/5, then the answer is positive for each k satisfying\u230a(n\u2212 \u03b1 (Q))/2\u230b\u2264 k\u2264 \u03b1 (Q). It remains an open question if a similar construction is possible for \u03b1 (Q)< 2 n/5. We also show that this problem with \u03b1 (Q)\u2265 2 n/5 and k satisfying\u230a n/3\u230b\u2264 k\u2264 \u03b1 (Q) can be related to semi-equitable graph 3-coloring, where one color class is of size k, and the subgraph induced by the remaining vertices is equitably 2-colored. This means that Q has a coloring of type (k,\u2308(n\u2212 k)/2\u2309,\u230a(n\u2212 k)/2\u230b).",
+        "citations": 10
+    },
+    {
+        "title": "Evaluation of homomorphic primitives for computations on encrypted data for CPS systems",
+        "id": "aY0gRagAAAAJ:Y5dfb0dijaUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Y5dfb0dijaUC",
+        "authors": [
+            "Peizhao Hu",
+            "Tamalika Mukherjee",
+            "Alagu Valliappan",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2016 Smart City Security and Privacy Workshop (SCSP-W)",
+        "pub_date": "2016/4/11",
+        "description": "In the increasingly connected world, cyber-physical systems (CPS) have been quickly adapted in many smart city applications, such as smart grids or healthcare. There will be more and more highly sensitive data important to the users being collected and processed in the cloud computing environments. Homomorphic Encryption (HE) offers a potential solution to safeguard privacy through cryptographic means while allowing the service providers to perform computations on the encrypted data. Throughout the process, only authorized users have access to the unencrypted data. In this paper, we provide an overview of three recent HE schemes, analyze the new optimization techniques, conduct performance evaluation, and share lessons learnt from the process of implementing these schemes. Our experiments indicate that the YASHE scheme outperforms the other two schemes we studied. The findings of this study\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Homomorphic proximity computation in geosocial networks",
+        "id": "aY0gRagAAAAJ:eMMeJKvmdy0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:eMMeJKvmdy0C",
+        "authors": [
+            "Peizhao Hu",
+            "Tamalika Mukherjee",
+            "Alagu Valliappan",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "2016 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+        "pub_date": "2016/4/10",
+        "description": "With the growing popularity of mobile devices that have sophisticated localization capability, it becomes more convenient and tempting to give away location data in exchange for recognition and status in the social networks. Geosocial networks, as an example, offer the ability to notify a user or trigger a service when a friend is within geographical proximity. In this paper, we present two methods to support secure distance computation on encrypted location data; that is, computing distance functions without knowing the actual coordinates of users. The underlying security is ensured by the homomorphic encryption scheme which supports computation on encrypted data. We demonstrate feasibility of the proposed approaches by conducting various performance evaluations on platforms with different specifications. We argue that the novelty of this work enables a new breed of pervasive and mobile computing concepts\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Zarankiewicz numbers and bipartite Ramsey numbers",
+        "id": "aY0gRagAAAAJ:q3oQSFYPqjQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:q3oQSFYPqjQC",
+        "authors": [
+            "Alex Collins",
+            "Alexander Riasanovsky",
+            "John Wallace",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1604.01257",
+        "pub_date": "2016/4/5",
+        "description": "The Zarankiewicz number  is the maximum size of a subgraph of  which does not contain  as a subgraph. The two-color bipartite Ramsey number  is the smallest integer  such that any coloring of the edges of  with two colors contains a  in the first color or a  in the second color. In this work, we design and exploit a computational method for bounding and computing Zarankiewicz numbers. Using it, we obtain several new values and bounds on  for . Our approach and new knowledge about  permit us to improve some of the results on bipartite Ramsey numbers obtained by Goddard, Henning and Oellermann in 2000. In particular, we compute the smallest previously unknown bipartite Ramsey number, . Moreover, we prove that up to isomorphism there exists a unique -coloring which witnesses the lower bound . We also find tight bounds on , , which currently is the smallest open case for multicolor bipartite Ramsey numbers.",
+        "citations": 13
+    },
+    {
+        "title": "On some open questions for Ramsey and Folkman numbers, Graph Theory: Favorite Conjectures and Open Problems. Volume 1, 43-62, Probl. Books in Math",
+        "id": "aY0gRagAAAAJ:kuK5TVdYjLIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:kuK5TVdYjLIC",
+        "authors": [
+            "X Xu",
+            "SP Radziszowski"
+        ],
+        "pub_source": "Springer",
+        "pub_date": "2016",
+        "citations": 5
+    },
+    {
+        "title": "Computation of the Ramsey Numbers R (C_4, K_9) and R (C_4, K_10)",
+        "id": "aY0gRagAAAAJ:5awf1xo2G04C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:5awf1xo2G04C",
+        "authors": [
+            "Stanislaw Radziszowski",
+            "Alexander Lange",
+            "Ivan Livinsky"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "2016",
+        "description": "The Ramsey number R (C4, Km) is the smallest n such that any graph on n vertices contains a cycle of length four or an independent set of order m. With the help of computer algorithms we obtain the exact values of the Ramsey numbers R (C4, K9)= 30 and R (C4, K10)= 36. New bounds for the next two open cases are also presented."
+    },
+    {
+        "title": "Ramsey Numbers of  versus Wheels and Stars",
+        "id": "aY0gRagAAAAJ:8AbLer7MMksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:8AbLer7MMksC",
+        "authors": [
+            "Yali Wu",
+            "Yongqi Sun",
+            "Rui Zhang",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Graphs and Combinatorics",
+        "pub_date": "2015/11",
+        "description": "Let  denote the maximum size of a -free graph of order . For an even integer or odd prime power , we prove that , which leads to an improvement of the upper bound on Ramsey numbers , where  is a wheel of order . By using a simple polarity graph  for a prime power , we construct the graphs whose complements do not contain  or , and then determine some exact values of  and . In particular, we prove that  for ,  for , and  for .",
+        "citations": 7
+    },
+    {
+        "title": "Constructing large S-boxes with area minimized implementations",
+        "id": "aY0gRagAAAAJ:BrmTIyaxlBUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:BrmTIyaxlBUC",
+        "authors": [
+            "Christopher A Wood",
+            "Stanislaw P Radziszowski",
+            "Marcin Lukowiak"
+        ],
+        "pub_source": "MILCOM 2015-2015 IEEE Military Communications Conference",
+        "pub_date": "2015/10/26",
+        "description": "Block ciphers are essential cryptographic primitives used for encryption in resource constrained hardware systems. Many modern block ciphers are based on the substitution permutation network (SPN) design. The substitution step is commonly the only non-linear transformation in the cipher, and is usually comprised of a permutation which applies an S-box substitution to each element of the cipher state. In hardware, the S-box implementation has a significant impact on the area consumed by the cipher. Consequently, there have been considerable research and engineering efforts to obtain compact circuit implementations of S-boxes for hardware systems. Building on past work, we present a comprehensive methodology for (1) constructing cryptographically strong affine-power S-boxes over Galois fields and (2) minimizing the VLSI technology-independent combinational logic requirements for their circuit\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Customizable sponge-based authenticated encryption using 16-bit S-boxes",
+        "id": "aY0gRagAAAAJ:LPZeul_q3PIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:LPZeul_q3PIC",
+        "authors": [
+            "Matthew Kelly",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "MILCOM 2015-2015 IEEE Military Communications Conference",
+        "pub_date": "2015/10/26",
+        "description": "Authenticated encryption (AE) is a symmetric key cryptographic scheme that aims to provide both confidentiality and data integrity. There are many AE algorithms in existence today. However, they are often far from ideal in terms of efficiency and ease of use. For this reason, there is ongoing effort to develop new AE algorithms that are secure, efficient, and easy to use.",
+        "citations": 20
+    },
+    {
+        "title": "Computational and Theoretical Problems for Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:-FonjvnnhkoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:-FonjvnnhkoC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2015/9/16",
+        "description": "From the deductive mathematics point of view most of these results are not theorems, being only descriptions of several millions of particular observations. However, I hope that they are even more important than the formal deductions from the formal axioms, providing new points of view on difficult problems where no other approaches are that efficient."
+    },
+    {
+        "title": "A note on the graphs with given small matching number",
+        "id": "aY0gRagAAAAJ:gsN89kCJA0AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:gsN89kCJA0AC",
+        "authors": [
+            "Weihua Yang",
+            "Hao Li"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "2015/8/11",
+        "description": "In this note we characterize the graphs with a given small match ing number. We characterize the graphs with minimum degree at least 2 am matching number at most 3. The characterization when the matching numbe is at most 2 strengthens the result of Lai and Yan's that characterized the non supereulerian 2-edge connected graphs with matching at most 2; Furthermore the characterization of the graphs with matching number at most 3 addresse a conjecture of Lai and Yan in [SuperEulerian graphs and matchings, Appliec Mathematics Letters 24 (2011) 1867-1869]."
+    },
+    {
+        "title": "A step forwards on the Erd\u0151s-S\u00f3s problem concerning the Ramsey numbers R(3,k)",
+        "id": "aY0gRagAAAAJ:eJXPG6dFmWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:eJXPG6dFmWUC",
+        "authors": [
+            "Rujie Zhu",
+            "Xiaodong Xu",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1507.01133",
+        "pub_date": "2015/7/4",
+        "citations": 3
+    },
+    {
+        "title": "Wheel and star-critical Ramsey numbers for quadrilateral",
+        "id": "aY0gRagAAAAJ:5Ul4iDaHHb8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:5Ul4iDaHHb8C",
+        "authors": [
+            "Yali Wu",
+            "Yongqi Sun",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Discrete Applied Mathematics",
+        "pub_date": "2015/5/11",
+        "description": "The star-critical Ramsey number r\u2217(H 1, H 2) is the smallest integer k such that every red/blue coloring of the edges of K n\u2212 K 1, n\u2212 k\u2212 1 contains either a red copy of H 1 or a blue copy of H 2, where n is the graph Ramsey number R (H 1, H 2). We study the cases of r\u2217(C 4, C n) and R (C 4, W n). In particular, we prove that r\u2217(C 4, C n)= 5 for all n\u2265 4, obtain a general characterization of Ramsey-critical (C 4, C n)-graphs, and establish the exact values of R (C 4, W n) for 9 cases of n between 18 and 44.",
+        "citations": 31
+    },
+    {
+        "title": "Affine-Power S-Boxes over Galois Fields with Area-Optimized Logic Implementations",
+        "id": "aY0gRagAAAAJ:kRWSkSYxWN8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:kRWSkSYxWN8C",
+        "authors": [
+            "Christopher Wood",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "Cryptographic S-boxes are fundamental in key-iterated substitution permutation network (SPN) designs for block ciphers. As a natural way for realizing Shannon\u2019s confusion and diffusion properties in cryptographic primitives through nonlinear and linear behavior, respectively, SPN designs served as the basis for the Advanced Encryption Standard and a variety of other block ciphers. In this work we present a methodology for minimizing the logic resources for n-bit affine-power S-boxes over Galois fields based on measurable security properties and finding corresponding area-efficient combinational implementations in hardware. Motivated by the potential need for new and larger S-boxes, we use our methodology to find area-optimized circuits for 8-and 16-bit S-boxes. Our methodology is capable of finding good upper bounds on the number of XOR and AND gate equivalents needed for these circuits, which can\u00a0\u2026"
+    },
+    {
+        "title": "Some Computational and Theoretical Problems for Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:mvPsJ3kp5DgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:mvPsJ3kp5DgC",
+        "authors": [
+            "Stanislaw P Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "We discuss some computational challenges and related open questions concerning classical Ramsey numbers. This talk overviews known constructive bounds for the difference between consecutive Ramsey numbers and presents what is known about the most studied cases including  and . Although the main problems we discuss are concerned with concrete cases, and they involve significant computational approaches, there are interesting and important theoretical questions behind each of them."
+    },
+    {
+        "title": "Electronic key management using PKI to support group key establishment in the tactical environment",
+        "id": "aY0gRagAAAAJ:XiSMed-E-HIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:XiSMed-E-HIC",
+        "authors": [
+            "MT Kurdziel",
+            "P Bajorski",
+            "A Kaminsky",
+            "M Lukowiak",
+            "S Radziszowski",
+            "..."
+        ],
+        "pub_source": "US Patent 8,873,759",
+        "pub_date": "2014/10/28",
+        "description": "Method for distributing a group session cryptographic key includes initiating at least one pairwise key distribution session including a root node (100) and at least one communication node (101-107). The method further includes performing at a communication node which has received the group session cryptographic key a propagated pairwise key distribution session with at least one of the communication nodes which has not previously received said group session cryptographic key. The propagated pairwise key distribution sessions are performed at each of the communication nodes which subsequently receives the group session cryptographic key until the group session cryptographic key has been securely provided to all authorized communication nodes.",
+        "citations": 12
+    },
+    {
+        "title": "Bounds on Shannon Capacity and Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:1qzjygNMrQYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:1qzjygNMrQYC",
+        "authors": [
+            "Xiaodong Xu",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2014/3",
+        "description": "Bounds on Shannon Capacity and Ramsey Numbers - from Product of Graphs Page 1 \nShannon Capacity Ramsey Numbers Old links between Shannon and Ramsey New links \nbetween Shannon and Ramsey Bounds on Shannon Capacity and Ramsey Numbers from \nProduct of Graphs Xiaodong Xu 1 Stanis\u0142aw Radziszowski 2 1 Guangxi Academy of Sciences \nNanning, Guangxi, China 2 Department of Computer Science Rochester Institute of \nTechnology, NY, USA March 2014 1/24 Page 2 Shannon Capacity Ramsey Numbers Old links \nbetween Shannon and Ramsey New links between Shannon and Ramsey Outline 1 Shannon \nCapacity 2 Ramsey Numbers 3 Old links between Shannon and Ramsey 4 New links between \nShannon and Ramsey Two Ramsey constructions Implications for Shannon capacity 2/24 Page \n3 Shannon Capacity Ramsey Numbers Old links between Shannon and Ramsey New links \u2026"
+    },
+    {
+        "title": "Cybersecurity education: Bridging the gap between hardware and software domains",
+        "id": "aY0gRagAAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "James Vallino",
+            "Christopher Wood"
+        ],
+        "pub_source": "ACM Transactions on Computing Education (TOCE)",
+        "pub_date": "2014/3/1",
+        "description": "With the continuous growth of cyberinfrastructure throughout modern society, the need for secure computing and communication is more important than ever before. As a result, there is also an increasing need for entry-level developers who are capable of designing and building practical solutions for systems with stringent security requirements. This calls for careful attention to algorithm choice and implementation method, as well as trade-offs between hardware and software implementations. This article describes motivation and efforts taken by three departments at Rochester Institute of Technology (Computer Engineering, Computer Science, and Software Engineering) that were focused on creating a multidisciplinary course that integrates the algorithmic, engineering, and practical aspects of security as exemplified by applied cryptography. In particular, the article presents the structure of this new course, topics\u00a0\u2026",
+        "citations": 20
+    },
+    {
+        "title": "Journal of Telecommunications System & Management",
+        "id": "aY0gRagAAAAJ:j8SEvjWlNXcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:j8SEvjWlNXcC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "Christopher Wood"
+        ],
+        "pub_source": "",
+        "pub_date": "2014",
+        "description": "A number of key management challenges are encountered when operating tactical communication systems using a group-wide shared key. A large portion of such communications occurs over low bit-rate channels, and all communication channels must be available at any moment for mission action. Current over-the-air rekeying protocols consume too much channel bit-rate to be practical for large tactical radio networks. This caused an off-line pre-placed key (PPK) approach to become most commonly used key distribution method in these environments. Unfortunately, with this key management scheme, revoking group membership requires a full intra-mission rekey, which can be dangerous in a battlefield situation. This paper introduces a new group key distribution method called Viral Electronic Key Exchange (VEKE). This paper examines the protocol as an extension to the Internet Key Exchange (IKE) protocol, but any electronic key exchange protocol can be used (Ex. IKE v2). A feature of this protocol is a parallel key distribution scheme enabled by propagating the key management role to authenticated nodes while establishing security associations across the network. We performed a comprehensive stochastic analysis to develop a model for computing the expected rekey time across the entire group, taking into account the likelihood of node jamming, channel failures, and message corruption. This model was verified with a Monte-Carlo simulation. Our results confirmed that the VEKE protocol can accomplish an over-the-air rekey in a short period of time, even over low bit-rate systems, while preserving rigid security and channel availability\u00a0\u2026"
+    },
+    {
+        "title": "Telecommunications System & Management",
+        "id": "aY0gRagAAAAJ:eq2jaN3J8jMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:eq2jaN3J8jMC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "Christopher Wood"
+        ],
+        "pub_source": "",
+        "pub_date": "2014",
+        "description": "A number of key management challenges are encountered when operating tactical communication systems using a group-wide shared key. A large portion of such communications occurs over low bit-rate channels, and all communication channels must be available at any moment for mission action. Current over-the-air rekeying protocols consume too much channel bit-rate to be practical for large tactical radio networks. This caused an off-line pre-placed key (PPK) approach to become most commonly used key distribution method in these environments. Unfortunately, with this key management scheme, revoking group membership requires a full intra-mission rekey, which can be dangerous in a battlefield situation. This paper introduces a new group key distribution method called Viral Electronic Key Exchange (VEKE). This paper examines the protocol as an extension to the Internet Key Exchange (IKE) protocol, but any electronic key exchange protocol can be used (Ex. IKE v2). A feature of this protocol is a parallel key distribution scheme enabled by propagating the key management role to authenticated nodes while establishing security associations across the network. We performed a comprehensive stochastic analysis to develop a model for computing the expected rekey time across the entire group, taking into account the likelihood of node jamming, channel failures, and message corruption. This model was verified with a Monte-Carlo simulation. Our results confirmed that the VEKE protocol can accomplish an over-the-air rekey in a short period of time, even over low bit-rate systems, while preserving rigid security and channel availability\u00a0\u2026"
+    },
+    {
+        "title": "On Some Open Questions for Ramsey and Folkman Numbers",
+        "id": "aY0gRagAAAAJ:l7t_Zn2s7bgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:l7t_Zn2s7bgC",
+        "authors": [
+            "Xiaodong Xu",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Institut Mittag-Leffler",
+        "pub_date": "2014",
+        "description": "We discuss some of our favorite open questions about Ramsey numbers and a related problem on edge Folkman numbers. For the classical two-color Ramsey numbers, we first focus on constructive bounds for the difference between consecutive Ramsey numbers. We present the history of progress on the Ramsey number R(5,\u20095) and discuss the conjecture that it is equal to 43. For the multicolor Ramsey numbers, we focus on the growth of R  r (k), in particular for k\u2009=\u20093. Two concrete conjectured cases, R(3,\u20093,\u20093,\u20093)\u2009=\u200951 and R(3,\u20093,\u20094)\u2009=\u200930, are discussed in some detail. For Folkman numbers, we present the history, recent developments, and potential future progress on F  e (3,\u20093;\u20094), defined as the smallest number of vertices in any K 4-free graph which is not a union of two triangle-free graphs. Although several problems discussed in this paper are concerned\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Stochastic Analysis and Modeling of a Tree-Based Group Key Distribution Method in Tactical Wireless Networks",
+        "id": "aY0gRagAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Peter Bajorski",
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "Christopher Wood"
+        ],
+        "pub_source": "Journal of Telecommunications Systems & Management",
+        "pub_date": "2014",
+        "description": "This paper introduces a new group key distribution method called Viral Electronic Key Exchange (VEKE). This paper examines the protocol as an extension to the Internet Key Exchange (IKE) protocol, but any electronic key exchange protocol can be used. A feature of this protocol is a parallel key distribution scheme enabled by propagating the key management role to authenticated nodes while establishing security associations across the network. We performed a comprehensive stochastic analysis to develop a model for computing the expected rekey time across the entire group, taking into account the likelihood of node jamming, channel failures, and message corruption. This model was verified with a Monte-Carlo simulation. The results confirmed that the VEKE protocol can accomplish an over-the-air rekey in a short period of time, even over low bit-rate systems, while preserving rigid security and channel\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Use of MAX-CUT for Ramsey Arrowing of Triangles",
+        "id": "aY0gRagAAAAJ:g5m5HwL7SMYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:g5m5HwL7SMYC",
+        "authors": [
+            "Alexander Lange",
+            "Stanis\u0142aw Radziszowski",
+            "Xiaodong Xu"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "2014",
+        "description": "In 1967, Erd\\H{o}s and Hajnal asked the question: Does there exist a $K_4$-free graph that is not the union of two triangle-free graphs? Finding such a graph involves solving a special case of the classical Ramsey arrowing operation. Folkman proved the existence of these graphs in 1970, and they are now called Folkman graphs. Erd\\H{o}s offered \\$100 for deciding if one exists with less than $10^{10}$ vertices. This problem remained open until 1988 when Spencer, in a seminal paper using probabilistic techniques, proved the existence of a Folkman graph of order $3\\times 10^9$ (after an erratum), without explicitly constructing it. In 2008, Dudek and R\\\"{o}dl developed a strategy to construct new Folkman graphs by approximating the maximum cut of a related graph, and used it to improve the upper bound to 941. We improve this bound first to 860 using their approximation technique and then further to 786 with the MAX-CUT semidefinite programming relaxation as used in the Goemans-Williamson algorithm.",
+        "citations": 25
+    },
+    {
+        "title": "Computation of the Ramsey Numbers R (C_4, K_9) and R (C_4, K_10)",
+        "id": "aY0gRagAAAAJ:D03iK_w7-QYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:D03iK_w7-QYC",
+        "authors": [
+            "Alexander Lange",
+            "Ivan Livinsky",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1310.3017",
+        "pub_date": "2013/10/11",
+        "description": "The Ramsey number R (C4, Km) is the smallest n such that any graph on n vertices contains a cycle of length four or an independent set of order m. With the help of computer algorithms we obtain the exact values of the Ramsey numbers R (C4, K9)= 30 and R (C4, K10)= 36. New bounds for the next two open cases are also presented.",
+        "citations": 2
+    },
+    {
+        "title": "Bounds on Shannon capacity and Ramsey numbers from product of graphs",
+        "id": "aY0gRagAAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Xiaodong Xu",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "IEEE transactions on information theory",
+        "pub_date": "2013/4/4",
+        "description": "In this paper, we study Shannon capacity of channels in the context of classical Ramsey numbers. We overview some of the results on capacity of noisy channels modeled by graphs, and how some constructions may contribute to our knowledge of this capacity. We present an improvement to the constructions by Abbott and Song and thus establish new lower bounds for a special type of multicolor Ramsey numbers. We prove that our construction implies that the supremum of the Shannon capacity over all graphs with independence number 2 cannot be achieved by any finite graph power. This can be generalized to graphs with bounded independence number.",
+        "citations": 14
+    },
+    {
+        "title": "On Some Zarankiewicz Numbers and Bipartite Ramsey Numbers for Quadrilateral",
+        "id": "aY0gRagAAAAJ:P5F9QuxV20EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:P5F9QuxV20EC",
+        "authors": [
+            "Janusz Dybizba\u0144ski",
+            "Tomasz Dzido",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1303.5475",
+        "pub_date": "2013/3/21",
+        "description": "The Zarankiewicz number  is the maximum number of edges in a subgraph of  that does not contain  as a subgraph. The bipartite Ramsey number  is the least positive integer  such that any coloring of the edges of  with  colors will result in a monochromatic copy of  in the -th color, for some , . If  for all , then we denote this number by . In this paper we obtain the exact values of some Zarankiewicz numbers for quadrilateral (), and we derive new bounds for diagonal multicolor bipartite Ramsey numbers avoiding quadrilateral. In particular, we prove that , and establish new general lower and upper bounds on .",
+        "citations": 10
+    },
+    {
+        "title": "New Computational Upper Bounds for Ramsey Numbers R(3,k)",
+        "id": "aY0gRagAAAAJ:Tiz5es2fbqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Tiz5es2fbqcC",
+        "authors": [
+            "Jan Goedgebeur",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Electronic Journal of Combinatorics",
+        "pub_date": "2013",
+        "description": "Using computational techniques we derive six new upper bounds on the classical two-color Ramsey numbers: R(3,10) <= 42, R(3,11) <= 50, R(3,13) <= 68, R(3,14) <= 77, R(3,15) <= 87, and R(3,16) <= 98. All of them are improvements by one over the previously best known bounds. Let e(3,k,n) denote the minimum number of edges in any triangle-free graph on n vertices without independent sets of order k. The new upper bounds on R(3,k) are obtained by completing the computation of the exact values of e(3,k,n) for all n with k <= 9 and for all n <= 33 for k = 10, and by establishing new lower bounds on e(3,k,n) for most of the open cases for 10 <= k <= 15. The enumeration of all graphs witnessing the values of e(3,k,n) is completed for all cases with k <= 9. We prove that the known critical graph for R(3,9) on 35 vertices is unique up to isomorphism. For the case of R(3,10), first we establish that R(3,10) = 43 if and only if e(3,10,42) = 189, or equivalently, that if R(3,10) = 43 then every critical graph is regular of degree 9. Then, using computations, we disprove the existence of the latter, and thus show that R(3,10) <= 42.",
+        "citations": 29
+    },
+    {
+        "title": "The Ramsey Number R(3,K_10-e) and Computational Bounds for R (3,G)",
+        "id": "aY0gRagAAAAJ:a0OBvERweLwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:a0OBvERweLwC",
+        "authors": [
+            "Jan Goedgebeur",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Electronic Journal of Combinatorics",
+        "pub_date": "2013",
+        "description": "Using computer algorithms we establish that the Ramsey number  is equal to 37, which solves the smallest open case for Ramsey numbers of this type. We also obtain new upper bounds for the cases of  for , and show by construction a new lower bound . The new upper bounds on  are obtained by using the values and lower bounds on  for , where  is the minimum number of edges in any triangle-free graph on  vertices without  in the complement. We complete the computation of the exact values of  for all  with  and for  with , and establish many new lower bounds on  for higher values of . Using the maximum triangle-free graph generation method, we determine two other previously unknown Ramsey numbers, namely  and . For graphs  on 10 vertices, %besides , this leaves 6 other open besides , this leaves 6 open cases of the form . The hardest among them appears to be , for which we establish the bounds .",
+        "citations": 4
+    },
+    {
+        "title": "On Some Multicolor Ramsey Numbers Involving K_3+e and K_4-e",
+        "id": "aY0gRagAAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:blknAaTinKkC",
+        "authors": [
+            "Daniel S Shetler",
+            "Michael A Wurtz",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "SIAM Journal on Discrete Mathematics",
+        "pub_date": "2012/9/4",
+        "description": "The Ramsey number  is the smallest positive integer  such that for all 3-colorings of the edges of  there is a monochromatic  in the first color,  in the second color, or  in the third color. We study the bounds on various 3-color Ramsey numbers , where . The minimal and maximal combinations of 's correspond to the classical Ramsey numbers  and , respectively, where . Here, we focus on the much less studied combinations between these two cases. Through computational and theoretical means we establish that , and by construction we raise the lower bounds on  and . For some  and  it was known that ; we prove this is true for several more cases including $R(K_3, K_3, K_4-e) = R(K_3+e, K_3+e, K_4-e)$. Ramsey numbers generalize to more colors, such as in the\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "On Some Three-Color Ramsey Numbers for Paths",
+        "id": "aY0gRagAAAAJ:1sJd4Hv_s6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:1sJd4Hv_s6UC",
+        "authors": [
+            "Janusz Dybizba\u0144ski",
+            "Tomasz Dzido",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1207.5851",
+        "pub_date": "2012/7/24",
+        "citations": 2
+    },
+    {
+        "title": "On Some Exact Values of Three-Color Ramsey Numbers for Paths",
+        "id": "aY0gRagAAAAJ:uJ-U7cs_P_0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:uJ-U7cs_P_0C",
+        "authors": [
+            "Janusz Dybizbanski",
+            "Tomasz Dzido",
+            "Stanis law Radziszowski"
+        ],
+        "pub_source": "arXiv preprint arXiv:1207.5851",
+        "pub_date": "2012/7/19",
+        "description": "Abstract For graphs G1, G2, G3, the three-color Ramsey number R (G1, G2, G3) is the smallest integer n such that if we arbitrarily color the edges of the complete graph of order n with 3 colors, then it contains a monochromatic copy of Gi in color i, for some 1\u2264 i\u2264 3. First, we prove that the conjectured equality R3 (C2n, C2n, C2n)= 4n, if true, implies that R3 (P2n+ 1, P2n+ 1, P2n+ 1)= 4n+ 1 for all n\u2265 3. We also obtain two new exact values R (P8, P8, P8)= 14 and R (P9, P9, P9)= 17, furthermore we do so without help of computer algorithms. Our results agree with a formula R (Pn, Pn, Pn)= 2n\u2212 2+(n mod 2) which was proved for sufficiently large n by Gy\u00e1rf\u00e1s, Ruszink\u00f3, S\u00e1rk\u00f6zy, and Szemer\u00e9di in 2007. This provides more evidence for the conjecture that the latter holds for all n\u2265 1."
+    },
+    {
+        "title": "Secure access for healthcare data in the cloud using ciphertext-policy attribute-based encryption",
+        "id": "aY0gRagAAAAJ:zA6iFVUQeVQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:zA6iFVUQeVQC",
+        "authors": [
+            "Suhair Alshehri",
+            "Stanis\u0142aw P Radziszowski",
+            "Rajendra K Raj"
+        ],
+        "pub_source": "Data Engineering Workshops (ICDEW), 2012 IEEE 28th International Conference on",
+        "pub_date": "2012/4/1",
+        "description": "As more and more healthcare organizations adopt electronic health records (EHRs), the case for cloud data storage becomes compelling for deploying EHR systems: not only is it inexpensive but it also provides the flexible, wide-area mobile access increasingly needed in the modern world. However, before cloud-based EHR systems can become a reality, issues of data security, patient privacy, and overall performance must be addressed. As standard encryption (including symmetric key and public key) techniques for EHR encryption/decryption cause increased access control and performance overhead, this paper proposes the use of Ciphertext-Policy Attribute-Based Encryption (CPABE) to encrypt EHRs based on healthcare providers' attributes or credentials, to decrypt EHRs, they must possess the set of attributes needed for proper access. The design and usage of a cloud-based EHR system based on CP\u00a0\u2026",
+        "citations": 136
+    },
+    {
+        "title": "Multicolor Ramsey Numbers Involving K3+ e and K4-e",
+        "id": "aY0gRagAAAAJ:J-pR_7NvFogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:J-pR_7NvFogC",
+        "authors": [
+            "Shane Shetler",
+            "Michael Wurtz",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2012/3",
+        "description": "Multicolor Ramsey Numbers Involving K3+e and K4-e Page 1 Multicolor Ramsey Numbers \nInvolving K3+e and K4-e Shane Shetler Whitworth Universtiy, Spokane, WA Michael Wurtz \nNorthwestern University, Evanston, IL Stanis\u0142aw Radziszowski Rochester Institute of \nTechnology, Rochester, NY 43rd SE CCGTC, Boca Raton March 2012 Page 2 Definitions The \nRamsey number R(G,H) = n iff n = the least positive integer such that in any 2-coloring of the \nedges of Kn there is a monochromatic G in the first color or a monochromatic H in the second \ncolor. Good Graph: A (G,H;n)-good graph is a graph on n vertices that avoids G, and avoids H in \nthe complement. Page 3 (K3,K3;5)-good graph R(K3,K3)\u22646 Page 4 R(K4,K4,K4) 128[12] - 236 \nR(J4,K4,K4) 55 - 121 R(J4,J4,K4) 33* - 60 R(K3,K4,K4) 55[15] - 79 R(J4,J4,J4) 28[7] - 30[21] \nR(K3,J4,K4) 30 - 44 R(K3,J4,J4) 21* - 27* R(K3,K3,K4) 30[14] - 31[22][23] R(K3,K3,J4) 17* R(\u2026"
+    },
+    {
+        "title": "Developing an applied, security-oriented computing curriculum",
+        "id": "aY0gRagAAAAJ:yD5IFk8b50cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:yD5IFk8b50cC",
+        "authors": [
+            "Marcin Lukowiak",
+            "Andrew Meneely",
+            "Stanis\u0142aw P Radziszowski",
+            "James R Vallino",
+            "Christopher A Wood"
+        ],
+        "pub_source": "Annual Conference of American Society for Engineering Education",
+        "pub_date": "2012",
+        "description": "Developing an Applied, Security-Oriented Computing CurriculumSoftware and hardware security is a reality that all stakeholders must face, from hardwareengineers to software developers to customers. As a direct result, the technology industry isfacing a growing need for graduates who have an understanding of security principles at varyinglevels of abstraction. These graduates will need security-oriented perspectives stemming fromboth theoretical and practical disciplines, including Software Engineering, ComputerEngineering, and Computer Science. Unfortunately, in traditional academic settings, securesoftware and hardware are typically taught by separate departments despite being intertwined inpractice. Consequently, the objective of this initiative is to prepare students to apply a security-oriented awareness to every aspect of hardware and software systems by developing a multi-disciplinary curriculum\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Computing the Ramsey Number R(K_5-P_3, K_5)",
+        "id": "aY0gRagAAAAJ:RYcK_YlVTxYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:RYcK_YlVTxYC",
+        "authors": [
+            "Jesse A Calvert",
+            "Michael J Schuster",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "2012",
+        "description": "We give a computer-assisted proof of the fact that . This solves one of the three remaining open cases in Hendry's table, which listed the Ramsey numbers for pairs of graphs on 5 vertices. We find that there exist no -good graphs containing a  on 23 or 24 vertices, where a graph  is -good if  does not contain  and the complement of  does not contain . The unique -good graph containing a  on 22 vertices is presented.",
+        "citations": 2
+    },
+    {
+        "title": "Effects of GPU and CPU Loads on Performance of CUDA Applications",
+        "id": "aY0gRagAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Maksim Bobrov",
+            "Roy Melton",
+            "S Radziszowski",
+            "M \u0141ukowiak"
+        ],
+        "pub_source": "International Conference on Parallel and Distributed Processing Techniques and Applications, PDPTA",
+        "pub_date": "2011/7",
+        "description": "General purpose computing on GPUs provides a way for certain applications to benefit from a commonly available massively parallel architecture. As such deployment becomes more widespread, multiple GPU applications will have to execute on the same hardware in systems that have only one GPU. The aggregate loads of the GPU and CPU impact the performance of each application. This work investigates the effects of CPU and GPU loads on the performance of two CUDA GPU applications with significantly different CPU-GPU interaction profiles: implementations of the AES encryption and Keccak hashing algorithms. The percentage degradation in performance of these applications from CPU and GPU loads indicates dependence on the total execution time of the application, with the greatest degradation for the shortest execution times. Performance degradations as high as 22% and 36% were observed for CPU and GPU loads, respectively.",
+        "citations": 4
+    },
+    {
+        "title": "More Constructive Lower Bounds on Classical Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Xiaodong Xu",
+            "Zehui Shao",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "SIAM Journal on Discrete Mathematics",
+        "pub_date": "2011/3/24",
+        "description": "We present several new constructive lower bounds for classical Ramsey numbers. In particular, the inequality  is proved for . The general construction permits us to prove that, for all integers k, l, with  and , the connectivity of any Ramsey-critical -graph is at least k, and if ,  and , then such graphs are Hamiltonian. New concrete lower bounds for Ramsey numbers are obtained, some with the help of computer algorithms, including: , , , , , , , , , , , and also one three-color case .",
+        "citations": 13
+    },
+    {
+        "title": "SHA-3",
+        "id": "aY0gRagAAAAJ:dTyEYWd-f8wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:dTyEYWd-f8wC",
+        "authors": [
+            "Stanis law Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2011/3",
+        "description": "A hash function H:{0, 1}\u2217\u2192{0, 1} m produces an m-bit digest of an arbitrary message, file, or even an entire file system. Typically, one wants hash functions to be easy to compute, but also infeasible to invert or to find collisions (pairs of inputs which hash to the same value). Hash functions are fundamental cryptographic primitives, and they are used extensively in authentication, preserving data integrity, digital signatures, and many other security applications. The two most widely used hash functions are MD5 (Message Digest, m= 128) and SHA-1 (Secure Hash Algorithm, m= 160), the latter supported by the US government as a standard FIPS-180-2. The collisions for MD5 were found four years ago, and by now they can be produced quickly by software available on the Net. The SHA-1 algorithm seems also to be in trouble (and other algorithms in the SHA family, with m= 256, 384,512, might follow). No collisions for SHA-1 have been found so far, but attacks much better than the simple birthday attack approach have been designed. Breaking SHA-1 soon is a likely possibility.On January 23, 2007, NIST (National Institute of Standards and Technology) announced an initiative to design a new hash for this century, the Advanced Hash Standard (AHS), to be dubbed SHA-3. The competition is open, submissions were due October 31, 2008, and it is planned to conclude in late 2012."
+    },
+    {
+        "title": "Some Ramsey Problems Involving Triangles - Computational Approach",
+        "id": "aY0gRagAAAAJ:tOudhMTPpwUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:tOudhMTPpwUC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Ramsey Theory: Yesterday, Today and Tomorrow, Progress in Mathematics",
+        "pub_date": "2011",
+        "citations": 1
+    },
+    {
+        "title": "New Bounds on Some Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Kevin Black",
+            "Daniel Leven",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematicsand Combinatorial Computing",
+        "pub_date": "2011",
+        "description": "We derive a new upper bound of 26 for the Ramsey number R (K5\u2212 P3, K5), lowering the previous upper bound of 28. This leaves 25\u2264 R (K5\u2212 P3, K5)\u2264 26, improving on one of the three remaining open cases in Hendry\u2019s table, which listed Ramsey numbers for pairs of graphs (G, H) with G and H having five vertices.",
+        "citations": 4
+    },
+    {
+        "title": "Ramsey Numbers Involving Cycles",
+        "id": "aY0gRagAAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Ramsey Theory: Yesterday, Today and Tomorrow, Progress in Mathematics",
+        "pub_date": "2011/1/1",
+        "description": "There is a vast amount of literature on Ramsey-type problems starting in 1930 with the original paper of Ramsey [Ram]. Graham, Rothschild and Spencer in their book, Ramsey Theory [GRS] and Soifer in the 2009 The Mathematical Coloring Book, Mathematics of Coloring and the Colorful Life of Its Creators [Soi] present exciting developments in the history, results and people of Ramsey theory. The subject has grown amazingly, in particular with regard to asymptotic bounds for various types of Ramsey numbers (for example, see the survey papers [GrR\u00f6; Ne\u0161; ChGra2]), but the progress on evaluating the basic numbers themselves has been very unsatisfactory for a long time.",
+        "citations": 4
+    },
+    {
+        "title": "Computing the Folkman Number F_v(2,2,2,2,2;4)",
+        "id": "aY0gRagAAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Joel Lathrop",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematicsand Combinatorial Computing",
+        "pub_date": "2011",
+        "description": "For a graph G, the expression G v\u2192(a1,..., ar) means that for any r-coloring of the vertices of G there exists a monochromatic ai-clique in G for some color i\u2208{1,..., r}. The vertex Folkman numbers are defined as Fv (a1,..., ar; q)= min {| V (G)|: G v\u2192(a1,..., ar) and Kq* G}. Of these, the only Folkman number of the form F (2,..., 2",
+        "citations": 13
+    },
+    {
+        "title": "Multi-Vertex Deletion Graph Reconstruction Numbers",
+        "id": "aY0gRagAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "David Rivshin",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "2011",
+        "description": "First posed in 1942 by Kelly and Ulam, the Graph Reconstruction Conjecture is one of the major open problems in graph theory. While the Graph Reconstruction Conjecture remains open, it has spawned a number of related questions. In the classical vertex graph recon-struction number problem a vertex is deleted in every possible way from a graph G, and then it can be asked how many (both minimum and maximum) of these subgraphs are required to reconstruct G up to isomorphism. This can then be extended to deleting k vertices in every possible way. Previous computer searches have found the 1-vertex-deletion re-construction numbers of all graphs of up to 11 vertices. In this paper computed values of k-vertex-deletion reconstruction numbers for all graphs on up to 8 vertices and k\u2264| V (G)|-2 are reported, as well as for some k for graphs on 9 vertices. Our data suggested a number of new theorems and\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Trustworthy data collection from implantable medical devices via high-speed security implementation based on IEEE 1363",
+        "id": "aY0gRagAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Fei Hu",
+            "Qi Hao",
+            "Marcin Lukowiak",
+            "Qingquan Sun",
+            "Kyle Wilhelm",
+            "Stanis\u0142aw Radziszowski",
+            "Yao Wu"
+        ],
+        "pub_source": "Information Technology in Biomedicine, IEEE Transactions on",
+        "pub_date": "2010/11",
+        "description": "Implantable medical devices (IMDs) have played an important role in many medical fields. Any failure in IMDs operations could cause serious consequences and it is important to protect the IMDs access from unauthenticated access. This study investigates secure IMD data collection within a telehealthcare [mobile health (m-health)] network. We use medical sensors carried by patients to securely access IMD data and perform secure sensor-to-sensor communications between patients to relay the IMD data to a remote doctor\u2019s server. To meet the requirements on low computational complexity, we choose N-th degree truncated polynomial ring (NTRU)-based encryption/decryption to secure IMD\u2013sensor and sensor\u2013sensor communications. An extended matryoshkas model is developed to estimate direct/indirect trust relationship among sensors. An NTRU hardware implementation in very large integrated circuit\u00a0\u2026",
+        "citations": 26
+    },
+    {
+        "title": "An overview of cryptanalysis research for the advanced encryption standard",
+        "id": "aY0gRagAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "Alan Kaminsky",
+            "Michael Kurdziel",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "2010-MILCOM 2010 MILITARY COMMUNICATIONS CONFERENCE, 1310-1316",
+        "pub_date": "2010/10/31",
+        "description": "Since its release in November 2001, the Advanced Encryption Standard (NIST FIPS-197) has been the subject of extensive cryptanalysis research. The importance of this research has intensified since AES was named, in 2003, by NSA as a Type-1 Suite B Encryption Algorithm (CNSSP-15). As such, AES is now authorized to protect classified and unclassified national security systems and information. This paper provides an overview of current cryptanalysis research on the AES cryptographic algorithm. Discussion is provided on the impact by each technique to the strength of the algorithm in national security applications. The paper is concluded with an attempt at a forecast of the usable life of AES in these applications.",
+        "citations": 59
+    },
+    {
+        "title": "PROCEEDINGS-IEEE MILITARY COMMUNICATIONS CONFERENCE MILCOM",
+        "id": "aY0gRagAAAAJ:yB1At4FlUx8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:yB1At4FlUx8C",
+        "authors": [
+            "A Richter",
+            "H Louchet",
+            "I Koltchanov",
+            "N Karelin",
+            "J Farina",
+            "A Kaminsky",
+            "S Radziszowski",
+            "M Kurdziel"
+        ],
+        "pub_source": "",
+        "pub_date": "2010"
+    },
+    {
+        "title": "NTRU-Based Confidential Data Transmission in Telemedicine Sensor Networks",
+        "id": "aY0gRagAAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "Raheem Beyah",
+            "Janise McNair",
+            "Cherita Corbett",
+            "Fei Hu",
+            "Xiaojun Cao",
+            "Kyle Wilhelm",
+            "Marcin \u0141ukowiak",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Security in Ad Hoc Networks",
+        "pub_date": "2010",
+        "citations": 1
+    },
+    {
+        "title": "Case study on FPGA performance of parallel hash functions",
+        "id": "aY0gRagAAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "Przemyslaw Zalewski",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "Przeglad Elektrotechniczny/Electrical Review",
+        "pub_date": "2010/1/1",
+        "description": "Hashing functions play a fundamental role in modern cryptography. Such functions process data to produce a small fixed size output referred to as a digest or hash. Typical applications of these functions include data integrity verification and message authentication schemes. We argue that high parallelizability of the forthcoming new SHA-3 hash standard should be a critical and achievable property of proposed algorithms. In this paper we present an FPGA design and performance analysis of a recently proposed parallelizable hash function PHASH. It is not a SHA-3 candidate but rather a hash template using tree hashing and a block cipher. The main feature of PHASH is that it is able to process multiple data blocks at once making it suitable for achieving ultra high performance. PHASH achieved a throughput over 15 Gbps using a single block cipher instance and 182 Gbps for 16 instances.",
+        "citations": 6
+    },
+    {
+        "title": "Scalable FPGA design and performance analysis of PHASH hashing function",
+        "id": "aY0gRagAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Przemyslaw Zalewski",
+            "Marcin Lukowiak",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "2009 MIXDES-16th International Conference Mixed Design of Integrated Circuits & Systems",
+        "pub_date": "2009/6/25",
+        "description": "This paper presents an FPGA design and performance analysis of a recently proposed parallelizable hash function- PHASH. The main feature of PHASH is that it is able to process multiple data blocks at once making it suitable for achieving ultra high-performance. It utilizes the W cipher, as described in the Whirlpool hashing function at its core. A Virtex-4 FX60 FPGA was used in order to verify functionality of the implementation of the algorithm in hardware. To achieve high performance, state-of-the-art Virtex-5 LX330 FPGA was used as target platform. PHASH achieved a throughput over 15 Gbps using a single W cipher instance and 182 Gbps for 16 instances. For fair comparison of the performance of PHASH with widely accepted SHA-512 and Whirlpool hashing functions we have also developed their high performance implementations targeting the same FPGA platforms. SHA-512 implementation attained a\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "The vertex and edge graph reconstruction numbers of small graphs",
+        "id": "aY0gRagAAAAJ:nb7KW1ujOQ8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:nb7KW1ujOQ8C",
+        "authors": [
+            "David Rivshin",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Australasian Journal of Combinatorics",
+        "pub_date": "2009",
+        "description": "First posed in 1942 by Kelly and Ulam, the Graph Reconstruction Conjecture is one of the major open problem in graph theory. While the Graph Reconstruction Conjecture remains open, it has spawned a number of related questions. In the classical vertex graph reconstruction number problem a vertex is deleted in every possible way from a graph G, and then it can be asked how many (both minimum and maximum) of these subgraphs are required to reconstruct G up to isomorphism. Similar questions can also be posed for the less studied case of edge deletion. For graphs in certain classes there are known formulas to quickly determine reconstruction numbers. However, for the vast majority of graphs the computation devolves to brute force exhaustive search. Previous computer searches have found the 1-vertex-deletion reconstruction numbers of all graphs of up to 10 vertices. In this paper computed values of 1\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "28 <= R (C_4,C_4,C_3,C_3) <= 36",
+        "id": "aY0gRagAAAAJ:fPk4N6BV_jEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:fPk4N6BV_jEC",
+        "authors": [
+            "Xu Xiaodong",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Utilitas Mathematica",
+        "pub_date": "2009",
+        "description": "Using four colors we construct a coloring of the edges of K 27 which has no monochromatic quadrilaterals in the first two colors and no monochromatic triangles in the other two colors. This gives a new lower bound of 28 on the Ramsey number R (C 4, C 4, C 3, C 3). We also prove an upper bound of 36 for the same number using an estimate of the maximum number of edges in C 4-free graphs.",
+        "citations": 2
+    },
+    {
+        "title": "An Improvement to Mathon\u2019s Cyclotomic Ramsey Colorings",
+        "id": "aY0gRagAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Xiaodong Xu",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Electronic Journal of Combinatorics",
+        "pub_date": "2009",
+        "description": "In this note we show how to extend Mathon's cyclotomic colorings of the edges of some complete graphs without increasing the maximum order of monochromatic complete subgraphs. This improves the well known lower bound construction for multicolor Ramsey numbers, in particular we obtain .",
+        "citations": 5
+    },
+    {
+        "title": "Bounds on Some Ramsey Numbers Involving Quadrilateral",
+        "id": "aY0gRagAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Xiaodong Xu",
+            "Zehui Shao",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "2009",
+        "description": "For graphs G_1, G_2,..., G_m the Ramsey number R (G_1, G_2,..., G_m) is defined to be the smallest integer n such that any m-coloring of the edges of the complete graph K_n must include a monochromatic G_i in color i, for some i. In this note we establish several lower and upper bounds for some Ramsey numbers involving quadrilateral C_4, including R (C_4, K_9)<= 32, 19<= R (C_4, C_4, K_4)<= 22, 31<= R (C_4, C_4, C_4, K_4)<= 50, 52<= R (C_4, K_4, K_4)<= 72, 42<= R (C_4, C_4, K_3, K_4)<= 76, and 87<=(C_4, C_4, K_4, K_4)<= 179.",
+        "citations": 11
+    },
+    {
+        "title": "NTRU\u2010based sensor network security: a low\u2010power hardware implementation perspective",
+        "id": "aY0gRagAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Fei Hu",
+            "Kyle Wilhelm",
+            "Michael Schab",
+            "Marcin Lukowiak",
+            "Stanis\u0142aw Radziszowski",
+            "Yang Xiao"
+        ],
+        "pub_source": "Security and Communication Networks",
+        "pub_date": "2009/1/1",
+        "description": "Wireless sensor network security requires the cryptography software extremely low complex and energy efficient due to the limited memory and CPU capacity in a sensor. The NTRU (Nth degree truncated polynomial ring) encrypt algorithm has been shown to provide certain advantages when designing low power and resource constrained systems, while still providing comparable security levels to higher complexity algorithms. Unlike the current works that build NTRU software in a chip, this research focuses on the hardware implementation of NTRU algorithms because hardware implementation has much higher execution speed than software implementation. In contrast to previous research, the focus is shifted away from specific optimizations but rather provides a study of many of the recommended practices and suggested optimizations with particular emphasis on polynomial arithmetic and parameter selection\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "A Case for a parallelizable hash",
+        "id": "aY0gRagAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Alan Kaminsky",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Military Communications Conference, 2008. MILCOM 2008. IEEE",
+        "pub_date": "2008/11/16",
+        "description": "On November 2, 2007, NIST (United States National Institute of Standards and Technology) announced an initiative to design a new secure hash function for this century, to be called SHA-3. The competition will be open and it is planned to conclude in 2012. These developments are quite similar to the recent history of symmetric block ciphers\u2014 breaking of the DES (Data Encryption Standard) and emergence of the AES (Advanced Encryption Standard) in 2001 as the winner of a multiyear NIST competition. In this paper we make a case that parallelizability should be one of the properties sought in the new SHA-3 design. We present a design concept for a parallelizable hash function called PHASH based on a block cipher, and we discuss PHASH\u2019s performance and security.",
+        "citations": 7
+    },
+    {
+        "title": "Reconstruction Numbers of Small Graphs",
+        "id": "aY0gRagAAAAJ:B3FOqHPlNUQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:B3FOqHPlNUQC",
+        "authors": [
+            "David Rivshin",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "2008/3/6",
+        "description": "1-Edge-Deletion Results graph order 3 4 5 6 7 8 9 10 11 not reconstructible 0 4 4 4 4 4 4 4 4 1 3 5 9 18 23 35 46 64 71 2 14 115 980 12242 274523 12004951 1018997596 3 1 6 16 31 57 81 130 167 4 2 5 4 9 10 15 5 3 3 5 6 6 1 2 2 7 1 1 8 1\u2203 ern 1"
+    },
+    {
+        "title": "Geombinatorics Journal _ Volume 16 Issue 4-April 2007",
+        "id": "aY0gRagAAAAJ:epqYDVWIO7EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:epqYDVWIO7EC",
+        "authors": [
+            "Meinhard Moller",
+            "Peter Johnson Jr",
+            "Andrew Schneider",
+            "Michael Tiemeyer",
+            "Dmytro Karabash",
+            "Alexander Soifer",
+            "Stanislaw Radziszowski",
+            "Xu Xiaodong"
+        ],
+        "pub_source": "Geombinatorics",
+        "pub_date": "2007/4/1",
+        "description": "Geombinatorics Journal _ Volume 16 Issue 4 - April 2007 | Geombinatorics Open Menu \nGeombinatorics Skip to main content Skip to main navigation menu Skip to site footer Current \nArchives Authors Contents Subscriptions Submissions About About the Journal Editorial Team \nPrivacy Statement Contact Lectures Issues of Public Interest Search Login Search 1.Home / \n2.Archives / 3.Vol. 16 No. 4 (2007): Geombinatorics Journal _ Volume 16 Issue 4 - April 2007 / \n4.Article Submissions Geombinatorics Journal _ Volume 16 Issue 4 - April 2007 Authors \nGeombinatorics Meinhard Moller Peter Johnson, Jr. Andrew Schneider Michael Tiemeyer \nDmytro Karabash Alexander Soifer Stanislaw Radziszowski Xu Xiaodong Abstract \nGeombinatorics Journal _ Volume 16 Issue 4 - April 2007 Keywords: B1(Q3)=4 by Peter Johnson \n_ Andrew Schneider _ Michael Tiemeyer On shelah-soifer class of graphs by Dmytro Karabash _ \u2026"
+    },
+    {
+        "title": "Complexity results in graph reconstruction",
+        "id": "aY0gRagAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Edith Hemaspaandra",
+            "Lane A Hemaspaandra",
+            "Stanis\u0142aw Radziszowski",
+            "Rahul Tripathi"
+        ],
+        "pub_source": "Discrete Applied Mathematics",
+        "pub_date": "2007/1/15",
+        "description": "We investigate the relative complexity of the graph isomorphism problem (GI) and problems related to the reconstruction of a graph from its vertex-deleted or edge-deleted subgraphs (in particular, deck checking (DC) and legitimate deck (LD) problems). We show that these problems are closely related for all amounts c\u2a7e1 of deletion:For many of these results, even the c=1 case was not previously known. Similar to the definition of reconstruction numbers vrn\u2203(G) [F. Harary, M. Plantholt, The graph reconstruction number, J. Graph Theory 9 (1985) 451\u2013454] and ern\u2203(G) (see [J. Lauri, R. Scapellato Topics in Graph Automorphism and Reconstruction, London Mathematical Society, Cambridge University Press, Cambridge, 2003, p. 120]), we introduce two new graph parameters, vrn\u2200(G) and ern\u2200(G), and give an example of a family {Gn}n\u2a7e4 of graphs on n vertices for which vrn\u2203(Gn)<vrn\u2200(Gn). For every k\u2a7e2 and n\u00a0\u2026",
+        "citations": 29
+    },
+    {
+        "title": "There is no 2-(22, 8, 4) block design",
+        "id": "aY0gRagAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Richard Bilous",
+            "Clement Lam",
+            "Larry Thiel",
+            "PC Li",
+            "SP Radziszowski",
+            "John van Rees",
+            "Wolfgang Holzmann",
+            "Hadi Kharagani"
+        ],
+        "pub_source": "Journal of Combinatorial Designs",
+        "pub_date": "2007",
+        "description": "In this article, we show that a 2\u2010(22,8,4) design does not exist. This result was obtained by a computer search. \u00a9 2006 Wiley Periodicals, Inc. J Combin Designs 15: 262\u2013267, 2007",
+        "citations": 13
+    },
+    {
+        "title": "Graph Reconstruction Numbers",
+        "id": "aY0gRagAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "McMullen Brian",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "2007",
+        "citations": 23
+    },
+    {
+        "title": "On the most wanted Folkman graph",
+        "id": "aY0gRagAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "Xu Xiaodong"
+        ],
+        "pub_source": "Geombinatorics",
+        "pub_date": "2007",
+        "description": "We discuss a branch of Ramsey theory concerning edge Folkman numbers. Fe (3; 3; 4) involves the smallest parameters for which the problem is open, posing the question\\What is the smallest order N of a K4-free graph, for which any 2-coloring of its edges must contain at least one monochromatic triangle?\" This is equivalent to finding the order N of the smallest K4-free graph which is not a union of two triangle-free graphs. It is known that 16 is less than or equal to N (an easy bound), and it is known through a probabilistic proof by Spencer that N is less than or equal to 3 X 10^ 9. In this paper, after overviewing related Folkman problems, we prove that 19 is less than or equal to N, and give some evidence for the bound N is less than equal to 27.",
+        "citations": 25
+    },
+    {
+        "title": "Computation of the Ramsey Number R (W5, K5)",
+        "id": "aY0gRagAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "Joshua Stinehour",
+            "Kung-Kuen Tse"
+        ],
+        "pub_source": "Bulletin of the Institute of Combinatorics and Its Applications",
+        "pub_date": "2006",
+        "description": "We determine the value of the Ramsey number R (W5, K5) to be 27, where W5= K1+ C4 is the 4-spoked wheel of order 5. This solves one of the four remaining open cases in the tables given in 1989 by George R. T. Hendry, which included the Ramsey numbers R (G, H) for all pairs of graphs G and H having five vertices, except seven entries. In addition, we show that there exists a unique up to isomorphism critical Ramsey graph for W5 versus K5. Our results are based on computer algorithms.",
+        "citations": 9
+    },
+    {
+        "title": "Computing the Folkman number F_v (2, 2, 3; 4)",
+        "id": "aY0gRagAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Jonathan Coles",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "2006",
+        "description": "We discuss a branch of Ramsey theory concerning vertex Folkman numbers and how computer algorithms have been used to compute a new Folkman number. We write G\u2192(a1,..., ak) v if for every vertex k-coloring of an undirected simple graph G, a monochromatic Kai is forced in color i\u2208{1,..., k}. The vertex Folkman number is defined as Fv (a1,..., ak; p)= min {| V (G)|: G\u2192(a1,..., ak) v\u2227 Kp\u2286 G}. Folkman showed in 1970 that this number exists for p> max {a1,..., ak}. Let m= 1+ \u03a3k i= 1 (ai\u2212 1) and a= max {a1,..., ak}, then Fv (a1,..., ak; p)= m for p> m, and Fv (a1,..., ak; p)= a+ m for p= m. For p< m the situation is more difficult and much less is known. We show here that, for a case of p= m\u2212 1, Fv (2, 2, 3; 4)= 14.",
+        "citations": 26
+    },
+    {
+        "title": "A constructive approach for the lower bounds on the Ramsey numbers R(s,t)",
+        "id": "aY0gRagAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Xu Xiaodong",
+            "Xie Zheng",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Journal of Graph Theory",
+        "pub_date": "2004/11/1",
+        "description": "Graph G is a (k,\u2009p)\u2010graph if G does not contain a complete graph on k vertices Kk, nor an independent set of order p. Given a (k,\u2009p)\u2010graph G and a (k,\u2009q)\u2010graph H, such that G and H contain an induced subgraph isomorphic to some Kk\u22121\u2010free graph M, we construct a (k,\u2009p\u2009+\u2009q\u2009\u2212\u20091)\u2010graph on n(G)\u2009+\u2009n(H)\u2009+\u2009n(M) vertices. This implies that R\u2009(k,\u2009p\u2009+\u2009q\u2009\u2212\u20091)\u2009\u2265\u2009R\u2009(k,\u2009p)\u2009+\u2009R\u2009(k,\u2009q)\u2009+\u2009n(M)\u2009\u2212\u20091, where R\u2009(s,\u2009t) is the classical two\u2010color Ramsey number. By applying this construction, and some its generalizations, we improve on 22 lower bounds for R\u2009(s,\u2009t), for various specific values of s and t. In particular, we obtain the following new lower bounds: R\u2009(4,\u200915) \u2265 153, R\u2009(6,\u20097) \u2265 111, R\u2009(6,\u200911) \u2265 253, R\u2009(7,\u200912) \u2265 416, and R\u2009(8,\u200913) \u2265 635. Most of the results did not require any use of computer algorithms. \u00a9 2004 Wiley Periodicals, Inc. J Graph Theory 47: 231\u2013239, 2004",
+        "citations": 28
+    },
+    {
+        "title": "Constructive lower bounds on classical multicolor Ramsey numbers",
+        "id": "aY0gRagAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Xu Xiaodong",
+            "Xie Zheng",
+            "Geoffrey Exoo",
+            "Stanis\u0139 Radziszowski"
+        ],
+        "pub_source": "the electronic journal of combinatorics",
+        "pub_date": "2004/4/6",
+        "description": "This paper studies lower bounds for classical multicolor Ramsey numbers, first by giving a short overview of past results, and then by presenting several general constructions establishing new lower bounds for many diagonal and off-diagonal multicolor Ramsey numbers. In particular, we improve several lower bounds for  and  for some small , including , , ,  and . Most of the new lower bounds are consequences of general constructions.",
+        "citations": 63
+    },
+    {
+        "title": "RIT Scholar Work s",
+        "id": "aY0gRagAAAAJ:SpbeaW3--B0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:SpbeaW3--B0C",
+        "authors": [
+            "Brendan McKay",
+            "Konrad Piwakowski",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "2004",
+        "description": "\"$%!'&)(! 1032 4 15 6 2 6 4 7! 103232 4 $95%!! 4 7@ d! 10CB 46 5 D! 12! FEo P A! 10CB 4D95 2!!! 10C0 4! 95 B C% 0! 10C0 4! 95 0 V2\" $ CB! 10C03B 4! WD 5 X! TS AU!! 6\" 6V2"
+    },
+    {
+        "title": "Graphs and Complexity-Complexity Results in Graph Reconstruction",
+        "id": "aY0gRagAAAAJ:XD-gHx7UXLsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:XD-gHx7UXLsC",
+        "authors": [
+            "Edith Hemaspaandra",
+            "Lane A Hemaspaandra",
+            "Stanislaw Radziszowski",
+            "Rahul Tripathi"
+        ],
+        "pub_source": "Lecture Notes in Computer Science",
+        "pub_date": "2004",
+        "description": "We investigate the relative complexity of the graph isomorphism problem (GI) and problems related to the reconstruction of a graph from its vertex-deleted or edge-deleted subgraphs. We show that the problems are rather closely related for all amounts c of deletion: 1. For all c\u2265 1, GI iso VDCc, GI iso EDCc, GI\u2264 m LVDe, and GI= so LEDC. iso iso 2. For all c\u2265 1 and k> 2, GI= s, k-VDC, and GI= k-EDCc. 3. For all c\u2265 1 and k\u2265 2, GI\u2264 m k-LVDc. In particular, for all c\u2265 1, GI 2-LVDC."
+    },
+    {
+        "title": "An Upper Bound of 62 on the Classical Ramsey Number (3, 3, 3, 3)",
+        "id": "aY0gRagAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Susan Fettes",
+            "Richard Kramer",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "2004",
+        "description": "An Upper bound of 62 on the classical Ramsey number(3,3,3,3) Page 1 Rochester Institute of \nTechnology RIT Scholar Works Articles 2004 An Upper bound of 62 on the classical Ramsey \nnumber(3,3,3,3) Susan Fettes Richard Kramer Stanislaw Radziszowski Follow this and additional \nworks at: http://scholarworks.rit.edu/article This Article is brought to you for free and open access \nby RIT Scholar Works. It has been accepted for inclusion in Articles by an authorized \nadministrator of RIT Scholar Works. For more information, please contact ritscholarworks@rit.edu. \nRecommended Citation Ars Combinatoria LXXII (2004) 41-63 Page 2 #\"% $'&( 1 032 \n46587@9A9ABDCE7F5H GI7@PQ9SR! T PVUW X1Ya` bc ` bc ` bc `'d egfihqpsru twvc xSya \nh h e3d egfi hj lkmk nly ps oph qjyanl qjyanl ivuy vif w 8vz y)vc {p h | }qjp eA qysv yavif eA v \nwp }qgh8 # hj myari y w |rihs h8 vif Page 3 # \"!s $# & \"'s )(s 0 ! 21 3 5476 498 4@ )ACBED F\u2026",
+        "citations": 32
+    },
+    {
+        "title": "Ramsey Numbers for Triangles versus Almost-Complete Graphs",
+        "id": "aY0gRagAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Brendan McKay",
+            "Konrad Piwakowski",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "2004",
+        "description": "\"$%!'&)(! 1032 4 15 6 2 6 4 7! 103232 4 $95%!! 4 7@ d! 10CB 46 5 D! 12! FEo P A! 10CB 4D95 2!!! 10C0 4! 95 B C% 0! 10C0 4! 95 0 V2\" $ CB! 10C03B 4! WD 5 X! TS AU!! 6\" 6V2",
+        "citations": 8
+    },
+    {
+        "title": "Computation of the Ramsey number R (B_3, K_5)",
+        "id": "aY0gRagAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Andrey Babak",
+            "Stanis\u0142aw Radziszowski",
+            "Kung-Kuen Tse"
+        ],
+        "pub_source": "Bulletin of the Institute of Combinatorics and Its Applications",
+        "pub_date": "2004",
+        "description": "'6$) GdfhYQxh~dVXW (YQadV W4 d dIf ('fh yfhyw YQdh adb Vhv (@ CBE xhY dIVXW(Sdy V (fg ri $ fhV (f5 fI afhdV4dYQS fhYQg7dhV (f (dY V (A fhb VXx@ CBEDGFIHQPSR YaDGF'P&F (S f fhfhg xhY V dhWXW XdIY (dYQ'd d7 v (VX 2v (f YQdh (YQ8 dhYaWC fhVS xhfhYQ U! V (x (wv (Y! YQd V (xC fhdV5~dVXW (Yab dhf (VXf dhf (PR hdY PRi e g2VXfg@ CBEPRHa PRT",
+        "citations": 14
+    },
+    {
+        "title": "On halving line arrangements",
+        "id": "aY0gRagAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Alina Beygelzimer",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Discrete Mathematics",
+        "pub_date": "2002/11/28",
+        "description": "Given a set of n points in general position in the plane, where n is even, a halving line is a line going through two of the points and cutting the remaining set of n\u2212 2 points in half. Let h (n) denote the maximum number of halving lines that can be realized by a planar set of n points. The problem naturally generalizes to pseudoconfigurations; denote the maximum number of halving pseudolines over all pseudoconfigurations of size n by h \u0302 (n). We prove that h \u0302 (12)= 18 and that the pseudoconfiguration on 12 points with the largest number of halving pseudolines is unique up to isomorphism; this pseudoconfiguration is realizable, implying h (12)= 18. We show several structural results that substantially reduce the computational effort needed to obtain the exact value of h \u0302 (n) for larger n. Using these techniques, we enumerate all topologically distinct, simple arrangements of 10 pseudolines with a marked cell. We\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "A Computational Approach for the Ramsey Numbers R (C_4, K_n)",
+        "id": "aY0gRagAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "Kung-Kuen Tse"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "2002",
+        "description": "B $4%(! &f\u00a9 f\u00aa\u00a3 f\u00aadc \u00ab\u00ac hG\u00ae cfe 5\u00b1$ bW\u00ac 3 y cf\u00b2Ihq \u00b3 e8 \u00b2\u00a3 \u00b5\u00b6 \u00aa FIHT Y gih\u00b7 bW\u00ac 3 r\u00a4 6cfh b g\u00a4 e} bW 6 U\u00aa \u00b9\u00b1hq \u00bad\u00ac C bW\u00ac cb\u00bb} \u00aaq\u00b32 \u00bc o\u00ba6 Uri f\u00aaWg\u00a4 e# U\u00bd\u00a9 bW\u00ac G 6 U 6h U\u00bd VXA \u00ba6 Ue bWcfg\u00a4 eh c3 hq\u00b5f\u00aadc \u00ab\u00ac \u00be gihq U\u00b2I f\u00aaq \u00ab\u00ac gi\u00ba~ bq 3\u00bf gie\u00c0 bW\u00ac~ \u00c1 \u00aaWh b \u00ba Ur\u00a4 f\u00aa f\u00aa\u00c2 c\u00c3 hq\u00b5 f\u00aaWc \u00ab\u00ac A g\u00a4 hq U\u00b2I f\u00aa \u00ab\u00ac g\u00a4 \u00ba bW \u00c3 g\u00a4 eC bW\u00ac hq 6\u00ba6 Ue \u00a7 \u00ba Ur\u00a4 f\u00aaux \u00c4\u00c2\u00aadc \u00ab\u00ac \u00a7 \u00c5 g\u00a4 hc HQPSRUTW V3X Y f\u00aadc \u00ab\u00ac gi\u00bdr \u00c5 E 6h e \u00c6\u00c7b \u00ba6 Ue bWcfg\u00a4 e c3 \u00ba \u00b3\u00ba r\u00a4 PR cfe \u00c8\u00ac cfh e# g\u00a4 e \u00ab\u00b6 6e 6e} b\u00c9 hq b U\u00bdm f\u00aaW \u00aa~ \u00b9\u00a9 x \u00ca} c \u00b3 cut c \u00aaW 6e cfe y U h hq ucf A hq\u00ac tS 6 \u00c0 bq\u00ac c b\u00c2 \u00bcE\u00cb~ \u00cc FIHtP R TW V\u00cd6Y \u00cc\u00ce \u00bcU\u00bcEx\u00a9 \u00cf\u00a6 e\u00c0 bW\u00ac gihv tr f\u00aaq 3 tS\u00b7 bW \u00aaW\u00b2Igie F\u00c3HQPRTWV\u00cdY\u00c3 \u00d0 \u00bcU\u00bc cfe FIHQPRTWV# \u00d16Y\u00c3 \u00d0 \u00bcf\u00d2r cfe@ 6e \u00b2I \u00aaWc bW \u00d3\u00bb c \u00aaWg\u00a4 U h \u00bdycf\u00b2Igir\u00a4 g\u00a4 h U\u00bd HtP RUTW V3XY o f\u00aaWc \u00ab\u00ac h6x \u00cf\u00a6 e \u00ab! c \u00aa bWg\u00a4 \u00ba6 r\u00a4 c \u00aau tS \u00c3 \u00ba Ue h bq\u00aaW \u00ba b\u00c9 cfr\u00a4 r HQPSRUTW V3XY o f\u00aadc \u00ab\u00ac h \u00bdj f\u00aa \u00b9C \u00d4\u00ce \u00d5Ef cfe cfrir HQPRTW V\u00cdY o f\u00aadc \u00ab\u00ac h\u00a9 Ue cb\u00a9 ri ucfh bS \u00cb \u00d6\u00bb} \u00aaqbqg\u00a4 \u00ba6 6h x\u00a9\u00d7 C Uh b\u00a9 U\u00bd bW\u00ac r \u00aaW 6hq r\u00d8bWh c \u00aaW \u00b5! cfhq 6 A Ue\u00d3 \u00ba6 U\u00b2\u00c3 \u00abbW \u00aa cfr\u00a4 U f\u00aaqgibW\u00ac \u00b2Ih x",
+        "citations": 36
+    },
+    {
+        "title": "The Ramsey Multiplicity of K_4",
+        "id": "aY0gRagAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Konrad Piwakowski",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "2001",
+        "description": "With the help of computer algorithms, we improve the lower bound on the Ramsey multiplicity of K4, and thus show that the exact value of it is equal to 9.",
+        "citations": 12
+    },
+    {
+        "title": "Towards the exact value of the Ramsey number R (3, 3, 4)",
+        "id": "aY0gRagAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Konrad Piwakowski",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Congressus Numerantium",
+        "pub_date": "2001",
+        "description": "V'W% X) Yacb7 dfehg4pi% WqgsrSi e tAuvpXewrSxyhs% b ehrS WqgsrSi mngv onpqi jsrak\" Sos v raj1 w xrnypgcjsrzi|) gAjw} Sonkzjw gckl rnyA mngAkz xrnypg~ gAkl h rnyA| 3vp rz gAjx { ks raka oSjh f yhcrSrSehpys Y GPIs pU ewrP uS C yhcrzu uS 3qu ewrs X) W WcYSehX P Wp rs Wp 6 bWA rs XW% u W% XAua% X% XA PW% XW YaW%puSew\" H rS cYa% WcY4 sW% Yspyhyf uaeh W% yhW% Yscrn H WcX 7 iAX) Wqg X) W% XAuSYa ewpy qpyh q ewr GPI1Q) RS QRa QcU W% Xyh Wpuacrn WcrS qpyh)qua WcX6 b XW% u yhW ehr GPI1Q) RS QRS TAU g YaYS XAuSyh ehr4 i XWqg uaW 3py uSW QW% YQ 7% XpYa Y4 guW% Yaip WcYar'Ya W% YSu4 WcX) YSWc uSWqg4pYvbr4 b uzguW ewru uS WcYSYa qpyh rSehX\"pyh% W% Ya r# gu 4 rn)qupX uaeh WcYSehX Wp) YSWq GPI1Q) RSQRSTAUC 3rzu rSpuSewrz rSW% 6% b) b WcX)py\" YaW% YSuSeh% WcX) b WArn uSyh H ua uSehW% X) r) Ynua'ua% Ya rS ewrF YaW% p ua) rnua% XAuSewpyd c ewru XWpuu uaW ywp) X)% y#quSua% vi7 W% X qpyh'Wp GPI1Q) RS QRS TAUX Is sWcY f ewr% X% rarS XAu Wp f WcX WcYar uSW7 X67 cYa%)pu\" r\" XW% u WcXAuapehX WcXW YaW%quaeh% Yvp ehX W% yhW% Y'sWcY t ywpYa FpX Is qRS Rn ewrPpX I1 RS WcYSehX E Wp\" Rn U% X) b RS XW% uS\" uS q rSpyhy Is RS U% X) b Is Rn W% yhW% Ya c Ya 7 XA Y GPIs Rn pU ehr b uaW'uS% rnus 3qu4 Rn U ewr",
+        "citations": 9
+    },
+    {
+        "title": "Metaheuristics and combinatorial optimization problems. M",
+        "id": "aY0gRagAAAAJ:NJ774b8OgUMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:NJ774b8OgUMC",
+        "authors": [
+            "Gerald Skidmore Scriptor"
+        ],
+        "pub_source": "thesis, University of Buffalo",
+        "pub_date": "2000",
+        "description": "Optimization problems involving a large number of finite solutions often arise in academia, government, and industry. In these problems there is a finite solution set X and a real-valued function f: X\u2192 R where we seek a solution x\u2217\u2208 X with f (x\u2217)\u2264 f (x),\u2200 x\u2208 X. Common examples include crew scheduling, vehicle routing, and VLSI routing. To find the globally optimal solution in a combinatorial optimization (CO) problem it is theoretically possible to enumerate all possible solutions and evaluate each. This approach is generally undesirable as well as intractable due to the exponential growth of most solution spaces. A simple search of any technical database will quickly demonstrate that a lot of research has been devoted over the past five or so decades to find and develop optimal or near-optimal algorithms that can quickly and efficiently find a solution without evaluating every possible solution. Through this\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Computation of the Folkman number F_e(3,3;5)",
+        "id": "aY0gRagAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Konrad Piwakowski",
+            "Stanis\u0142aw P Radziszowski",
+            "Sebastian Urba\u0144ski"
+        ],
+        "pub_source": "Journal of Graph Theory",
+        "pub_date": "1999/9/1",
+        "description": "With the help of computer algorithms, we improve the lower bound on the edge Folkman number Fe(3, 3; 5) and vertex Folkman number Fv(3, 3; 4), and, thus, show that the exact values of these numbers are 15 and 14, respectively. We also present computer enumeration of all critical graphs. \u00a9 1999 John Wiley & Sons, Inc. J Graph Theory 32: 41\u201349, 1999",
+        "citations": 67
+    },
+    {
+        "title": "2-(22, 8, 4) designs have no blocks of type 3",
+        "id": "aY0gRagAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Brendan McKay",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1999",
+        "description": "\u00a2\u00a4\u00a3 &s\u00a5\u00a6 H7E\u00a5\u00a9 \u00a7 PYc\u00a9\u00a6 qa s\u00aa\u00a4\u00abe\u00ac yw X VW df\u00a9 s fVY w c\u00aa\u00ae WX Ycw ed} wdf\u00a9 u\u00ae\u00b1'\u00b2\u00a6 \u00b3\u00b1s\u00b1'\u00b5y\u00b6 y\u00b5\u00b7 \u00b9 bcXs Y\u00a9 s\u00ae w cX V XP d} VXct \u00bae xqy's\u00bb w u'\u00abX# \u00bcy\u00bd wYx\u00ac c \u00be Xad\u00bf'c\u00a9 \u00c0 df \u00abs Y \u00bae Xi sc \u00c1u\u00c2 w u'\u00abXa i \u00c36 dfcb\u00b1'h\u00be UW xqy'P s\u00bb w ux \u00abXi \u00bcy\u00bd th Xfh w cs Xi c qy\u00a9 w XsVY YXaqsw\u00ae w W fw cXsV 6\u00c4 scX\u00c2 \u00abs\u00a9 w) \u00bdW d} VX% Xa \u00aa\u00aeed} wYXab\u00c5\u00ac c Yc\u00a9 w cX8 df\u00a9 s fV wYc\u00aa\u00ae i bcXa YqsV \u00c1\u00ba Xab\u00c4 s\u00ac yV \u00abcV Xs\u00bf's\u00ac c \u00abd}\u00abXsV) hq \u00c6 w Wdf \u00abXsVYed}\u00abew cXt YXsqa scb\u00c7 d} V\u00a9 sXa zw qa s\u00aa\u00a4\u00abe\u00ac yw d} ws% Xs\u00bf\u00a9 XsV \u00abXsV\u00bb i fV \u00aa\u00ae Xsb\u00c8 \u00b3ddf\u00bb w XsV w cX Y s\u00ac yw s\u00c0 w 6 w cX\u00c9 Pv'\u00ca\u00cb\u00c3\u00b1f\u00cc# qyedf Xsc\u00a9 sX \u00bde V Xa\u00cd'\u00ac c \u00c1Vc\u00a9 6 \u00aa\u00ae fV XP w edf\u00c2 d6 qaXa\u00a9 w\u00ac yVYu\u00c2 s\u00bb \u00b9 qs \u00abe\u00ac% w \u00aa\u00ae X} h\u00ce \u00a7 \u00a6\"@ 2\u00b9 $3 \u00a7 \u00ca\u00d0 \u00cf \u00d1 \u00d2 \u00d3 \u00d4} \u00d5\u00a2 P d\u00a4\u00abdf Vi \u00b3t\u00d6\u00d7 \u00b5Y \u00d86\u00d9 cXsV X\u00cb \u00d6\u00da P d\u00ae \u00db\u00a9 \u00dcXa Xs\u00aa\u00ae Xa\u00a9 wP YXsw\u00be s\u00bb \u00b9 \u00dd \u00deH\u00d3D\u00d5 \u00df1\u00d2\u00cb dfcb\u00d7 \u00d8\u00e0 \u00be d\u00ae \u00aai\u00ac c \u00c1w YX ws\u00bb Y\u00ac y\u00bae YX w \u00d9 s\u00bb \u00d6\u00e1\u00bdx q) df Xab \u00e2s\u00e3 \u00de \u00e4 \u00e5 \u00d2yhm \u00ca\u00e7 \u00e6 \u00b2\u00cb\u00b3t\u00db \u00b5s \u00e8 \u00b5 \u00e9 \u00cf \u00d1 \u00d2 \u00d3 \u00d4} \u00d5% W d\u00a6 bcXa Y\u00a9 s\u00a2 \u00b3t\u00d6\u00d7 \u00b5Y \u00d86 wY \u00ea\u00d6\u00eb\u00ea \u00ec\u00e7 \u00db \u00bdy Y\u00ac cqy w ed} w w cX \u00bae'qyq ed)\u00bf\u00a9 XP Y aXt \u00e86 dfcbB \u00ea \u00ed \u00ee\u00f0 \u00ef\u00c2 \u00d8\u00f2 \u00f1f \u00f3 \u00f4\u00eb \u00ee\u00c8\u00f5c\u00eaH \u00ec\u00f6 \u00e9%\u00bb i fV\u00d9 df \u00f3\u00f6 \u00f4 \u00d6\u00f7 \u00c1w \u00ea\u00f3# \u00eaH \u00ec\u00f8 \u00e6 h\u00f9\u00b1'\u00b2\u00cb\u00b3\u00b1s\u00b1'\u00b5y\u00b6 y\u00b5\u00b7 P w cXi Y\u00aa\u00ae df Xs w\u00be bcXa Y\u00a9 s\u00a2 cs YXi X \u00fac w XacqaX# \u00be\u00ac cc YX wYw Xsb \u00bd\u00fb bcXa z \u00abew X# \u00aai\u00ac cq \u00c7 W fVY\u00d7 \u00ba u\u00c7 \u00aadf\u00a9 u\u00c7 df\u00ac yw c fV sh \u00fc fV\u00a6 dfX \u00fayw Xac\u00bf\u00a9 X\u00ae cw fVYuT s\u00bb w cX6 YX) d} V qyB\u00bb i fV\u00cb\u00b1\u00dc \u00b3\u00b1s\u00b1'\u00bd\u00b6 y\u00bd\u00b7 bcXa Y\u00a9 sc a\u00bd\u00b9 WX\u00ae Xscqa s\u00ac yVydf\u00a9 sX\u00a4 w cX# VX) dfbcXsVj w qa sc Y\u00ac c \u00c1w w cX\u00c9 X \u00fayqaXa Xa\u00a9 w V XaqsXaw Y\u00ac yVY\u00bf\u00a9 Xsu\u00c0 \u00ba u\u00c0\u00bf} df8 XaXa \u00cb \u00fd\u00fe XaXs \u00ffh Xswt \u00d8 bcXac fw X\u00a4 dfu\u00b1\u00dc \u00b3d\u00b1s\u00b1'\u00bd\u00b6 y\u00bd\u00b7 bcXs Y\u00a9 shi \u00c6 wt edf\u00a2\u00a1\u00a6 \u00ec\u00f2 \u00bcs\u00bc\u00a4 \u00bae xqy'a\u00bd\u00fb dfcb X) dfqy \u00abs\u00a9 wj \u00ba Xa sc\u00a9 s \u00be w\u00a3 \u00ec \u00c3\u00b1j \u00bae xqy'ah \u00c6\u00fd\u00a5\u00a4 Pr\u00c9\u00ff w\u00d9 W\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "30 <= R (3, 3, 4) <= 31",
+        "id": "aY0gRagAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Konrad Piwakowski",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1998"
+    },
+    {
+        "title": "Subgraph counting identities and Ramsey numbers",
+        "id": "aY0gRagAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Brendan D McKay",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Theory, Series B",
+        "pub_date": "1997/3/31",
+        "description": "For each vertexvof a graphG, we consider the numbers of subgraphs of each isomorphism class which lie in the neighbourhood or complementary neighbourhood ofv. These numbers, summed overv, satisfy a series of identities that generalise some previous results of Goodman and ourselves. As sample applications, we improve the previous upper bounds on two Ramsey numbers. Specifically, we show thatR(5,\u00a05)\u2a7d49 andR(4,\u00a06)\u2a7d41. We also give some experimental evidence in support of our conjecture thatR(5,\u00a05)=43.",
+        "citations": 83
+    },
+    {
+        "title": "The Nonexistence of 4-(12, 6, 6) Designs",
+        "id": "aY0gRagAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Brendan D McKay",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Computational and Constructive Design Theory, Mathematics and Its Applications",
+        "pub_date": "1996/1/1",
+        "description": "With the help of computer algorithms we prove that there are no 4-(12, 6, 6) designs, thereby answering the last open existence question in design theory for at most 12 points. We also enumerate three families of related designs, namely the 10977 simple 3-(10, 4, 3) designs, the 67 simple 4-(11, 5, 3) designs, and the 23 simple 5-(12, 6, 3) designs. Finally, we complete the census of all possible partitions of 6-sets on 12 points into 5-(12, 6, A) designs and of 5-sets on 11 points into 4-(11, 5, A) designs.",
+        "citations": 12
+    },
+    {
+        "title": "Towards deciding the existence of 2-(22,8,4) designs",
+        "id": "aY0gRagAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Brendan McKay",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1996"
+    },
+    {
+        "title": "R(4,5) = 25",
+        "id": "aY0gRagAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Brendan D McKay",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Journal of Graph Theory",
+        "pub_date": "1995/5/1"
+    },
+    {
+        "title": "Linear programming in some Ramsey problems",
+        "id": "aY0gRagAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Brendan D McKay",
+            "Stanislaw P Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Theory, Series B",
+        "pub_date": "1994/5/1",
+        "description": "We derive new upper bounds for the classical two-color Ramsey numbers R(4, 5) \u2264 27, R(5, 5) \u2264 52, and R(4, 6) \u2264 43; the previous best upper bounds known for these numbers were 28, 53, and 44, respectively. The new bounds are obtained by solving large integer linear programs and with the help of other computer algorithms.",
+        "citations": 20
+    },
+    {
+        "title": "BRENDAN D. MCKAY",
+        "id": "aY0gRagAAAAJ:S16KYo8Pm5AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:S16KYo8Pm5AC",
+        "authors": [
+            "STANIS\u0141AW P RadziszowSKI"
+        ],
+        "pub_source": "Journal of Combinatorial Theory: Series B.",
+        "pub_date": "1994",
+        "description": "We derive new upper bounds for the classical two-color Ramsey numbers R (4, 5)\u2264 27, R (5, 5)\u2264 52, and R (4, 6)\u2264 43; the previous best upper bounds known for these numbers were 28, 53, and 44, respectively. The new bounds are obtained by solving large integer linear programs and with the help of other computer algorithms. 1994 Academic Press, Inc."
+    },
+    {
+        "title": "Small Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:OU6Ihb5iCvQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:OU6Ihb5iCvQC",
+        "authors": [
+            "SP Radziszowski"
+        ],
+        "pub_source": "E-JC, DS1 1994-2021, revision #16, http://www.combinatorics.org",
+        "pub_date": "1994",
+        "citations": 976
+    },
+    {
+        "title": "On (n, 5, 3)-Tur\u00e1n Systems",
+        "id": "aY0gRagAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Elizabeth Boyer",
+            "Donald Kreher",
+            "Stanis\u0142aw Radziszowski",
+            "Alexander Sidorenko",
+            "Jing Zou"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "1994",
+        "description": "The minimal number of triples required to represent all quintuples on an n-element set is determined for n s: 13 and all extremal constructions are found. In particular we establish that there is a unique minimal system on 13 points, namely the 52 collinear triples of the project ive plane of order 3.",
+        "citations": 16
+    },
+    {
+        "title": "Paths, cycles and wheels in graphs without antitriangles",
+        "id": "aY0gRagAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "Xia Jin"
+        ],
+        "pub_source": "Australasian Journal of Combinatorics",
+        "pub_date": "1994",
+        "description": "We investigate paths, cycles and wheels in graphs with independence number of at most 2, in particular we prove theorems characterizing all such graphs which are hamiltonian. Ramsey numbers of the form R (G, K3), for G being a path, a cycle or a wheel, are known to be 2n (G)-1, except for some small cases. In this paper we derive and count all critical graphs 1 for these Ramsey numbers.",
+        "citations": 30
+    },
+    {
+        "title": "On the Ramsey Number R (K_5-e, K_5-e)",
+        "id": "aY0gRagAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "1993",
+        "description": "Using computer algorithms we found that there exists a unique, up to isomorphism, graph on 21 points and 125 graphs on 20 points for the Ramsey number R (K5\u2013e, Ks\u2013e)= 22. We also construct all graphs on n points for the Ramsey number R (K4\u2013e, K5\u2013e)= 13 for all n< 12.",
+        "citations": 5
+    },
+    {
+        "title": "The parameters 4-(12, 6, 6) and related t-designs",
+        "id": "aY0gRagAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Donald Kreher",
+            "Dominique de Caen",
+            "Sylvia Hobart",
+            "Earl Kramer",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Australasian Journal of Combinatorics",
+        "pub_date": "1993",
+        "description": "It is shown that a 4-(12, 6, 6) design, if it exists, must be rigid. The intimate relationship of such a design with 4-(12, 5, 4) designs and 5-(12, 6, 3) designs is presented and exploited. In this endeavor we found:(i) 30 nonisomorphic 4-(12, 5, 4) designs;(ii) all cyclic 3-(11, 5, 6) designs;(iii) all 5-(12, 6, 3) designs preserved by an element of order three fixing no points and no blocks; and (iv) all 5-(12, 6, 3) designs preserved by an element of order two fixing 2 points.",
+        "citations": 8
+    },
+    {
+        "title": "Enumeration of All Simple t-(t+ 7, t+ 1, 2) Designs",
+        "id": "aY0gRagAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1992",
+        "description": "We enumerate by computer algorithms all simple t (t+ 7, t+ 1, 2) designs for 1<= t<= 5, ie for all possible t, and this enumeration is new for t>= 3. The number of nonisomorphic designs is equal to 3, 13, 27, 1 and 1 for t= 1, 2, 3, 4 and 5, respectively. We also present some properties of these designs including orders of their full automorphism groups and resolvability.",
+        "citations": 3
+    },
+    {
+        "title": "A new upper bound for the Ramsey number R (5, 5)",
+        "id": "aY0gRagAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Brendan McKay",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Australasian Journal of Combinatorics",
+        "pub_date": "1992",
+        "description": "Rfi CB Rv W! ERTU XRfPpi qsS W AC XPFW WXSVU HSVrpqvUpRfPe ip pRv i qsSVUV RTU8 rp XPFW Vr EDGF4WXSVUIHPFt pRfPpRk Adgf G 2G WXSVU Ahqf G y ASRT 5TVU Adgf GGXW4 RQ ip VWyiYDGF4WXSVU HF WyPpR AC yDp WXSVU AC tU6 XPFW t PpRTr UpR SpR9 ip pRa``'bdcfegihpciq r A XRfPpi R r AG Adf GG Adf G Ahf G Ahf GG) pR9 RTUp XRi UpR cfqRTSVc g r A RTWXrp pPpRTr wy cf R9 i XPFW brv ip pRi rp XPFW VrsDF WXSVUtHF WyPpRXvu RTWyPF r A xwv 9SpRi cfWXS5 WXusr~ RTWXrpqsusg'r VWyi r AG Adf GG Adf G Ahf GG HF G) AC HG 1 i! qsr XRTSVqRTS i! i UpR SpR9 ip pRy``gbdcie hpcfqy AW AC XPFW Eg AG%",
+        "citations": 21
+    },
+    {
+        "title": "On the covering of t-sets with (t+1)-sets: C(9,5,4) and C(10,6,5)",
+        "id": "aY0gRagAAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "D de Caen",
+            "Donald L Kreher",
+            "Stanis\u0142aw P Radziszowski",
+            "WH Mills"
+        ],
+        "pub_source": "Discrete Mathematics",
+        "pub_date": "1991/11/17",
+        "description": "Abstract A (\u03c5, k, t) covering system is a pair (X, B) where X is a \u03c5-set of points and B is a family of k-subsets, called blocks, of X such that every t-subset of X is contained in at least one block. The minimum possible number of blocks in a (\u03c5, k, t) covering system is denoted by C (\u03c5, k, t). It is proven that there are exactly three non-isomorphic systems giving C (9, 5, 4)= 30, and a unique system giving C (10, 6, 5)= 50.",
+        "citations": 21
+    },
+    {
+        "title": "The first classical Ramsey number for hypergraphs is computed",
+        "id": "aY0gRagAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Brendan D McKay",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Proceedings of the second annual ACM-SIAM Symposium on Discrete Algorithms",
+        "pub_date": "1991/3/1",
+        "description": "With the help of the computer, we have shown that in any coloring with two colors of the triangles on a set of 13 points there must exist a monochromatic tetrahedron. This proves the new upper bound R (4, 4; 3) 13. The previous best upper bound of 15 was derived independently by Giraud (1969 [2]), Schwenk (1978 [5]) and Sidorenko (1980 [6]). The first construction of a R (4, 4; 3)-good hypergraph on 12 points was presented by Isbell (1969 [3]), and the same one again more elegantly by Sidorenko (1980 [6]). We have constructed more than 200,000 R (4, 4; 3)-good hypergraphs on 12 points, but probably not the full set. R (4, 4; 3)= 13 is the first known exact value of a classical Ramsey number for hypergraphs.The solution was achieved with the help of a variety of algorithms relying on a strong connection between the colorings with two colors of the triangles on n points and the so-called Tur\u00e1n set systems T (n, 5, 4). The main criterion used to prune the search space for R (4, 4; 3)-good hypergraphs was to count the number of 4-sets containing two triangles of each color; such families of 4-sets are known to form Tur\u00e1n systems and their cardinalities must be minorized by the corresponding Tur\u00e1n numbers T (n, 5, 4). We used an innovative method for generating large families of set systems which efficiently prevents isomorphic copies of set systems being produced. This method has many potential applications to other general computer searches for elusive combinatorial configurations. As a check on the correctness of the algorithms, many of the intermediate subfamilies of R (4, 4; 3)-good hypergraphs were generated by two different methods\u00a0\u2026"
+    },
+    {
+        "title": "RIT Digital Institutional Repositor y",
+        "id": "aY0gRagAAAAJ:oNZyr7d5Mn4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:oNZyr7d5Mn4C",
+        "authors": [
+            "Stanislaw Radziszowski",
+            "Donald Kreher"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "1991",
+        "description": "Ab. l'Kt. Uti\", COInpIUr a1&orithmJ we round IhaIIhrR ww\u2022 Imique, up 10 isomorphism, papil 011 21 poirb and 12S aT1lpllJ 011 20 potnlS rOl\" the Ram. ey nlll1'lbel-R (Ks-c, Ks-e)'\" 22. We Woc~ Utnld. aD araphJOfl\" poinu rorlbe Ramsey number R (K.-c, Ks-c)= 13 ror all nS: 12.1. Introduction and Notation 11letwocolor Ramsey number R (G, H) is mesmallestinteg \u00abnsuch thatfocany graph F on'I vertices, either F contains GorP cootains/I. Recently Clapham, Exoo. Harborth. Mengersen and Sheehan U] provedthalR {Ks-e, Ks-e)= 22. Working independently (but later) with the help of computer algorithms we have obtained not only the value of R (Ks-e, Ks-e), but also the uniqueness of the critical graph for the laller number, and full enumeration of all the graphs specified in the abstracL All the critical graphs on 12 points for the number R (Kof-e, K 5-e) were found by Faudree. Rousseau and Schelp in (2J. An extensive\u00a0\u2026"
+    },
+    {
+        "title": "Minimum triangle-free graphs",
+        "id": "aY0gRagAAAAJ:4OULZ7Gr8RgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:4OULZ7Gr8RgC",
+        "authors": [
+            "SP Radziszowski",
+            "DL Kreher"
+        ],
+        "pub_source": "Ars Combinatoria",
+        "pub_date": "1991",
+        "description": "We prove that e (3, k+ 1, n)> 6 n\u201313k where e (3, k+ 1, n) is the minimum number of edges in any triangle-free graph on nvertices with no independent set of size k+ 1. To achieve this we first characterize all such graphs with exactly e (3, k+ 1, n) edges for n< 3 k. These results yield some sharp lower bounds for the independence ratiofortriangle-free graphs. In particular, the exact value of the minimal independence ratio for graphs with average degree 4 is shown to be 4/13. A slight improvement to the general upper bound for the classical Ramsey R (3, k) numbers is also obtained.",
+        "citations": 28
+    },
+    {
+        "title": "The Ramsey Numbers R (K_4-e, K_6-e) and R (K_4-e, K_7-e)",
+        "id": "aY0gRagAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "James McNamara",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Congressus Numerantium",
+        "pub_date": "1991",
+        "description": "The graph with vertices in GR; 16), whm. e edges connect points having difference equal to a cube. which was known to be extremal for the Ramsey numbers R (3, 3, J) and R (KJ. K6~), is shown to be extremal for R (I4-e, K~). The r::[y i~ fo; t: i~~ dh~ in~ i~~~:~~ drh~~~~~~~~~ atl6:~ p-fe~~~~ t~ fa\\~ shown that t~ ere is a unique gr'dph, up to graph isomorphism, which is extremal for R (I4~, K7~), viz.. the strongly refular $ chiI'm graph on 27 vertices, which has~(~~}~~ r~~ sr;. group of size 518 O. This follows easily from the result t~ at",
+        "citations": 10
+    },
+    {
+        "title": "The Number of Edges in Minimum (K_3, K_p-e, n)-good Graphs",
+        "id": "aY0gRagAAAAJ:CHSYGLWDkRkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:CHSYGLWDkRkC",
+        "authors": [
+            "Jing Zou",
+            "SP Radziszowski"
+        ],
+        "pub_source": "Congressus Numerantium",
+        "pub_date": "1990"
+    },
+    {
+        "title": "The Ramsey numbers R (K_3, K_8-e) and R (K_3, K_9-e)",
+        "id": "aY0gRagAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1990",
+        "description": "We give a general construction of a triangle free graph on 4 p points whose complement does not contain K,\u2013e for p> 4. This implies that the Ramsey number R (K3, K,\u2013e)> 4 k\u20137for k> 6. We also present a cyclic triangle free graph on 30 points whose complement does not contain Kg\u2013e. The frst construction gives lower bounds equal to the exac\u0131 values of the corresponding Ramsey numbers for k= 6, 7 and 8. The upper bounds are obuained by using cormputer algorithms. In particular, we obuain two new values of Ramsey numbers R (K3, Kg\u2013e)= 25 and R (K3, Kg\u2013e)= 3l, the bounds 36< R (K3, Ko\u2013e)< 39, and the uniqueness of extremal graphs for Ramsey numbers R (K3, K4\u2013e) and R (K2, K7\u2013e).",
+        "citations": 13
+    },
+    {
+        "title": "Constructing 6-(14, 7, 4) designs",
+        "id": "aY0gRagAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Donald Kreher",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Contemporary Mathematics",
+        "pub_date": "1990",
+        "description": "A summary of the algebraic and computational techniques used in the construction of two non-isomorphic simple 6-(14, 7, 4) designs and four non-isomorphic simple 5-(13, 6, 4) designs is presented. With the exception of the 6-(33, 8, 36) designs discovered by Magliveras and Leavitt, and the 6 (20, 9,112) designs discovered by Kramer, Leavitt and Magliveras, this is the only other small parameter situation in which a simple 6-design is known to exist.",
+        "citations": 18
+    },
+    {
+        "title": "Search algorithm for Ramsey graphs by union of group orbits",
+        "id": "aY0gRagAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Stanis\u0142aw P Radziszowski",
+            "Donald L Kreher"
+        ],
+        "pub_source": "Journal of Graph Theory",
+        "pub_date": "1988/3",
+        "description": "An algorithm for the construction of Ramsey graphs with a given automorphism group G is presented. To find a graph on n vertices with no clique of k vertices, Kk, and no independent set of l vertices, \u00afKl, k, l \u2264 n, with an automorphism group G, a Boolean formula \u03b1 based on the G\u2010orbits of k\u2010subsets and l\u2010subsets of vertices is constructed from incidence matrices belonging to G. This Boolean formula is satisfiable if and only if the desired graph exists, and each satisfying assignment to \u03b1 specifies a set of orbits of pairs of vertices whose union gives the edges of such a graph. Finding these assignments is basically equivalent to the conversion of \u03b1 from CNF to DNF (conjunctive to disjunctive normal form). Though the latter problem is NP\u2010hard, we present an \u201cefficient\u201d method to do the conversion for the formulas that appear in this particular problem. When G is taken to be the dihedral group Dn for n \u2264 101, this\u00a0\u2026",
+        "citations": 27
+    },
+    {
+        "title": "Upper bounds for some Ramsey numbers R (3, k)",
+        "id": "aY0gRagAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "Donald Kreher"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1988",
+        "citations": 26
+    },
+    {
+        "title": "Lower bounds for multi-colored Ramsey numbers from group orbits",
+        "id": "aY0gRagAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Donald Kreher",
+            "Wei Li",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1988",
+        "description": "In this paper the algorithm developed in [RK] for 2-color Ramsey numbers is generalized to multi-colored Ramsey numbers. All the cyclic graphs yielding the lower bounds R (3, 3, 4)>= 30, R (3, 3, 5)>= 45, and R (3, 4, 4)>= 55 were obtained. The two last bounds are apparently new.",
+        "citations": 18
+    },
+    {
+        "title": "On (3,k) Ramsey graphs: Theoretical and computational results",
+        "id": "aY0gRagAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "Donald Kreher"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1988",
+        "description": "A (3, k, n, e) Ramsey graph is a triangle-free graph on n vertices with e edges and no independent set of size k. Similarly, a (3, k)-,(3, k, n)-or (3, k, n, e)-graph is a (3, k, n, e) Ramsey graph for some nand e. In the first part of the paper we derive an explicit formula for the minimum number of edges in any (3, k, n)-graph for n $3 (kI), ie a partial formula for the function e (3, k, n) investigated in [3, 5, 7). We prove some general properties of minimum (3, k, n)-graphs with e (3, k, n) edges and present a construction of minimum (3, k+ 1, 3k-1, 5k-5)-graphs for k~ 2 and minimum (3, k+ 1, 3k, 5k)-graphs for k~ 4. In the second part of the paper we describe a catalogue of small Ramsey graphs: all (3, k)-graphs for k $6 and some (3, 7)-graphs including all 191 (3, 7, 22)-graphs, produced by a computer. We present for k $7 all minimum (3, k, n)-graphs and all 10 maximum (3, 7, 22)-graphs with 66 edges.",
+        "citations": 34
+    },
+    {
+        "title": "Solving subset sum problems with the L^3 algorithm",
+        "id": "aY0gRagAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Stanis\u0142aw Radziszowski",
+            "Donald Kreher"
+        ],
+        "pub_source": "Journal of Combinatorial Mathematics and Combinatorial Computing",
+        "pub_date": "1988",
+        "description": "Ideas are described that speed up the lattice basis reduction algorithm of Lenstra, Lenstra and Lovasz [11] in practice. the resulting lattice basis reduction algorithm reduces the multiprecision operations needed in previous approaches. This paper describes these ideas in detail for lattices of the particular form arising from the subset sum (exact knapsack) problem. The idea of applying the L^ 3 algorithm to the subset sum problem is due to Lagarias and Odlyzko [8]. The algorithm of this paper also uses a direct search for short vectors simultaneously with the basis reduction algorithm. Extensive computational tests show that this algorithm solves, with high probability, instances of low density subset sum problems and has two major advantages over the method of Lararias and Odlyzko: running time is an order of magnitude smaller and higher density subset sum problems are solved.",
+        "citations": 46
+    },
+    {
+        "title": "New t-designs found by basis reduction",
+        "id": "aY0gRagAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Donald Kreher",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Congressus Numerantium",
+        "pub_date": "1987",
+        "description": "At the Scvcnteenth Southeastern International Conference on Combinatorics, Graph Theory and Computing we presented a new algorithm for finding l-(v, k, A) designs without repeated blocks. The central idea of the algorithm was basis reduction. This year we report on the success we have had using it Namely, the construction of several new simple t-designs including a 4-(12, 6, 10) design, a 6-(14, 7, 4) design and 5-(28, 6, A) designs for each admissible A, A';'I (or 22).I. lntroduetlon This paper is an expository account of the new t-designs we found using the method we introduced at the Seventeenth Southeastern International Conference \uff6f\uff7e Combinatorics. Graph Theory and Computing,[8]. This method is the first usc of basis reduction for finding I-designs. The two works that inspired our development of basis redul; tion are the 1985 paper of Lagarias and Odlyzko [13] in which they usc a similar method to attack the subset sum problem and the 1973 paper of Kramer and Mesner (7) in whieh they give an algebraic formulation that expresses when a I-design can have an automorphism group. Reeall that a I-(v, k).) design (X, B) is a family of k\u00b7 subsets B called block!; from av\u00b7 set X of points sueh that every I-subset TO;;; X is contained in exaetly A of the blocks in B. II is said to be simpl/'or to have no repl'uted blocks if all of the members of B arc distinct. A",
+        "citations": 8
+    },
+    {
+        "title": "Simple 5-(28, 6, lambda) Designs from PSL_2 (27)",
+        "id": "aY0gRagAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Donald Kreher",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Annals of Descrete Mathematics",
+        "pub_date": "1987",
+        "description": "Simple 5-(28,6,\u03bb) designs with PSL2(27) as an automorphism group are constructed for each \u03bb, 2\u2264lD\u226421.",
+        "citations": 14
+    },
+    {
+        "title": "The existence of simple 6-(14,7,4) designs",
+        "id": "aY0gRagAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Donald L Kreher",
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "Journal of Combinatorial Theory, Series A",
+        "pub_date": "1986/11/30",
+        "description": "A cyclic 5-(13, 6, 4) design is constructed and is extended to a simple 6-(14, 7, 4) design via a theorem of Alltop. This design is the smallest possible nontrivial simple 6-design that can exist. Both have full automorphism group cyclic of order 13.",
+        "citations": 72
+    },
+    {
+        "title": "Finding simple t-designs by using basis reduction",
+        "id": "aY0gRagAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Donald Kreher",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Congressus Numerantium",
+        "pub_date": "1986",
+        "description": "AX-M. X [i]-0 Or I, for all i, 1 n, where A is an m by n positive integer matrix built from the required automorphism group and M is a particular m dimensional integer vector. This problem is NP-complete. We present an algorithm that searches for a solution when given an instance of this 0-1 matrix problem. This algorithm always halts in polynomial time but does not always find a solution when one exists. The problem is first converted to one of finding a particular shon vector in a lattice and then uses a lattice basis reduction: dgorithm due to AK Lenstra, HW Lenstra and L. Lov~ 1sz [9] to attempt to find it We apply this method to the search for simple t-designs with t~ 6 and duplicate the results of Leavin, Kramer and Magliveras [3, 10] in substantially shorter time. Funhermore, a new simple 6-design was found using the algorithm described in this paper.",
+        "citations": 47
+    },
+    {
+        "title": "Aritm\u00e9tica en Precisi\u00f3n M\u00faltiple para la M\u00e1quina FOONLY-F2",
+        "id": "aY0gRagAAAAJ:SP6oXDckpogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:SP6oXDckpogC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Comunicaciones T\u00e9cnicas IIMAS-UNAM M\u00e9xico,",
+        "pub_date": "1983"
+    },
+    {
+        "title": "Desarollo de la teoria de los algoritmos en paralelo y su aplicacion para la evaluacion de la maqina AHR",
+        "id": "aY0gRagAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Comunicaciones T\u00e9cnicas IIMAS-UNAM M\u00e9xico,",
+        "pub_date": "1983"
+    },
+    {
+        "title": "Bounded Alternation",
+        "id": "aY0gRagAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Comunicaciones T\u00e9cnicas IIMAS-UNAM M\u00e9xico,",
+        "pub_date": "1980",
+        "description": "Bounded alternation - CERN Document Server CERN Accelerating science Sign in \nDirectory CERN Document Server Access articles, reports and multimedia content in HEP \nMain menu Search Submit Help Personalize Your alerts Your baskets Your comments Your \nsearches Home > Bounded alternation Information Discussion (0) Files Preprint Report \nnumber COMUN-TECN-242 Title Bounded alternation If you experience any problem \nwatching the video, click the download button below Download Embed Author(s) \nRadziszowski, S Affiliation (Mexico Univ.) Imprint 24 Oct 1980. - 44 p. Subject category \nMathematical Physics and Mathematics Back to search Record created 1990-01-28, last \nmodified 2014-12-15 Similar records Add to personal basket Export as BibTeX, MARC, \nMARCXML, DC, EndNote, NLM, RefWorks CERN Document Server :: Search :: Submit :: \nPersonalize :: Help :: Privacy Notice Powered by \u2026"
+    },
+    {
+        "title": "Logic and complexity of synchronous parallel computations",
+        "id": "aY0gRagAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Institute of Computer Science, Polish Academy of Sciences",
+        "pub_date": "1979",
+        "description": "We investigate a certain model of synchronous parallelism. Syntax, semantics and complexity of programs within it are defined. We consider algorithmic properties of synchronous parallel programs in connection with sequential programs with arrays. The complexity theorem states that the class PP-time (pOlrnomial-time bounded parallel languages) is equal to P-space (languages requiring polynomial amount of memory)."
+    },
+    {
+        "title": "Programmability and P=NP Conjecture",
+        "id": "aY0gRagAAAAJ:WbkHhVStYXYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:WbkHhVStYXYC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Fundamentals of Computation Theory, LNCS",
+        "pub_date": "1977",
+        "description": "We define the time-complexity of programs (FS-expressions) in an arbitrary relational system. We extend these notions to nondeterministic programs (NFS-expressions). There are some sufficient conditions for a relational system which ensure the equivalence of the P= N P problem in that system to the classical P= N P problem for Turing machines. This implies that the P= N P problem can be solved in thc theory of programs in some relational systems.",
+        "citations": 3
+    },
+    {
+        "title": "JING ZOU* and STANISLAW P. RADZISZOWSKI",
+        "id": "aY0gRagAAAAJ:tuHXwOkdijsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:tuHXwOkdijsC",
+        "authors": [
+            "STANISLAW P RADZISZOWSKI"
+        ],
+        "pub_source": "Congressus Numerantium",
+        "pub_date": "1970",
+        "description": "We derive an explicit formula for the number of edges in the minimum (K3, Kk+ 2-e, n)-good graphs for n\u2264 13k/4-sign (k mod 4) and obtain the inequality e (K3, Kk+ 2\u2212 e, n)\u2265 6n\u2212 13k for k\u2265 6 and all positive integers n."
+    },
+    {
+        "title": "Note: Computation of the Ramsey Number",
+        "id": "aY0gRagAAAAJ:i2xiXl-TujoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:i2xiXl-TujoC",
+        "authors": [
+            "Stanislaw Radziszowski",
+            "Josh Stinehour",
+            "Kung-Kuen Tse"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "We determine the value of the Ramsey number R (W5, K5) to be 27, where W5= K1+ C4 is the 4-spoked wheel of order 5. This solves one of the four remaining open cases in the tables given in 1989 by George R. T. Hendry, which included the Ramsey numbers R (G, H) for all pairs of graphs G and H having five vertices, except seven entries. In addition, we show that there exists a unique up to isomorphism critical Ramsey graph for W5 versus K5. Our results are based on computer algorithms."
+    },
+    {
+        "title": "RIT Digital Institutional Repositor y",
+        "id": "aY0gRagAAAAJ:e_rmSamDkqQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:e_rmSamDkqQC",
+        "authors": [
+            "James McNamara",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "The graph with vertices in GR; 16), whm. e edges connect points having difference equal to a cube. which was known to be extremal for the Ramsey numbers R (3, 3, J) and R (KJ. K6~), is shown to be extremal for R (I4-e, K~). The r::[y i~ fo; t: i~~ dh~ in~ i~~~:~~ drh~~~~~~~~~ atl6:~ p-fe~~~~ t~ fa\\~ shown that t~ ere is a unique gr'dph, up to graph isomorphism, which is extremal for R (I4~, K7~), viz.. the strongly refular $ chiI'm graph on 27 vertices, which has~(~~}~~ r~~ sr;. group of size 518 O. This follows easily from the result t~ at"
+    },
+    {
+        "title": "RIT Scholar Work s",
+        "id": "aY0gRagAAAAJ:WZBGuue-350C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:WZBGuue-350C",
+        "authors": [
+            "Stanislaw Radziszowski",
+            "Donald Kreher"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "A (3, k, n, e) Ramsey graph is a triangle-free graph on n vertices with e edges and no independent set of size k. Similarly, a (3, k)-,(3, k, n)-or (3, k, n, e)-graph is a (3, k, n, e) Ramsey graph for some nand e. In the first part of the paper we derive an explicit formula for the minimum number of edges in any (3, k, n)-graph for n $3 (kI), ie a partial formula for the function e (3, k, n) investigated in [3, 5, 7). We prove some general properties of minimum (3, k, n)-graphs with e (3, k, n) edges and present a construction of minimum (3, k+ 1, 3k-1, 5k-5)-graphs for k~ 2 and minimum (3, k+ 1, 3k, 5k)-graphs for k~ 4. In the second part of the paper we describe a catalogue of small Ramsey graphs: all (3, k)-graphs for k $6 and some (3, 7)-graphs including all 191 (3, 7, 22)-graphs, produced by a computer. We present for k $7 all minimum (3, k, n)-graphs and all 10 maximum (3, 7, 22)-graphs with 66 edges."
+    },
+    {
+        "title": "RIT Scholar Works",
+        "id": "aY0gRagAAAAJ:k8Z6L05lTy4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:k8Z6L05lTy4C",
+        "authors": [
+            "Konrad Piwakowski",
+            "Stanislaw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "With the help of computer algorithms, we improve the upper bound on the classical three color Ramsey number R (3, 3, 4), and thus we show that the exact value of this number is 30 or 31. We also present computer enumeration of all 3-colorings of edges on at least 14 vertices without monochromatic triangles.1. Introduction and Notation An (r\u00ca, r\u00cb,..., r\u00cd) colori\u03b7g, r\u00d4> 1 for 1< i< k, is an assignment of one of k colors to each edge in a complete graph, such that it does not contain monochromatic complete subgraph \u00da\u00dc\u00dd in color i, for 1< i< k. Similarly, an (r\u00ca, r\u00cb,..., r\u00cd; \u03b7) colori\u03b7g is an (r \u00ca,..., r\u00cd) coloring of \u00da\u00e3. Let Z (r \u00ca,..., r\u00cd) and Z (r \u00ca,..., r\u00cd; \u03b7) denote the set of all (r\u00ca,..., r\u00cd) and (r\u00ca,..., r\u00cd; \u03b7) colorings, respectively. The Ramsey number R (r\u00ca,..., r\u00cd) is defined to be the least \u03b7> 0 such that Z (r\u00ca,..., r\u00cd; \u03b7) is empty. A coloring using k colors will be also called a k-coloring. Clearly, any 2-coloring can be considered as a graph. In this paper we will study k-colorings only for k= 2 or k= 3. In the former case we will also use standard graph theory terminology. A regularly updated survey of the most recent results on the best known bounds on multicolor (k> 2) and graph (k= 2) Ramsey numbers can be found in [Rad]. In 1966 Kalbfleisch [Kalb] constructed a cyclic (3, 3, 4; 29) coloring, which to date gives the best known lower bound R (3, 3, 4)> 30. Recently, Piwakowski [Piw] obtained an upper bound R (3, 3, 4)< 32. In this paper we reduce this bound to 31, and we conjecture that the exact value of this Ramsey number is 30. We note that the only known nontrivial value of a multicolor classical (ie avoiding monochromatic complete subgraphs) Ramsey number is R (3, 3, 3\u00a0\u2026"
+    },
+    {
+        "title": "The Ramsey Numbers R (K4-e, K6-e) and R (Ke, K7-e) James N. McNamara, SUNY College at Brockport Stanis\u0142aw P. Radziszowski, Rochester Institute of Technology Abstract. The graph\u00a0\u2026",
+        "id": "aY0gRagAAAAJ:ipzZ9siozwsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:ipzZ9siozwsC",
+        "authors": [
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "The graph with vertices in GF (16), whose edges connect points having difference equal to a cube, which was known to be extremal for the Ramsey numbers R (3, 3, 3) and R (K, K6-e), is shown to be extremal for R (Ke, K6-e). The roof is obtained by using computer algorithms to analyze the properties of the amily of TZ having no Ka-e and having no KS-e in the complement. It is also shown that there is a unique graph, up to graph isomorphism, which is extremal for R (Ke, K7-e), viz., the strongly regular Schl\u00e5fli graph on 27 vertices, which has an automorphism group of size 51840. This follows easily from the result that R (Ke, K6-e) is 17."
+    },
+    {
+        "title": "On the covering of t-sets with (t+ 1)-sets: C (9, 5, 4) and",
+        "id": "aY0gRagAAAAJ:uc_IGeMz5qoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:uc_IGeMz5qoC",
+        "authors": [
+            "DL Kreher",
+            "SP Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Abstract De Caen, D., DL Kreher, SP Radziszowski and WH Mills, On the covering of t-sets with (t+ 1)-sets: C (9, 5, 4) and C (10, 6, 5), Discrete Mathematics 92 (1991) 65\u201377. A (v, k, t) covering system is a pair (X, 98) where X is a v-set of points and 8 is a family of k-subsets, called blocks, of X such that every t-subset of X is contained in at least one block. The minimum possible number of blocks in a (v, k, t) covering system is denoted by C (u, k, t). It is proven that there are exactly three non-isomorphic systems giving C (9, 5, 4)= 30, and a unique system giving C (10, 6, 5)= 50"
+    },
+    {
+        "title": "Diagonal Conjecture for Classical Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:0KyAp5RtaNEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:0KyAp5RtaNEC",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Diagonal Conjecture for Classical Ramsey Numbers Page 1 Diagonal Conjecture for Classical \nRamsey Numbers Stanis\u0142aw Radziszowski Department of Computer Science Rochester \nInstitute of Technology, NY, USA joint work with Meilian Liang and Xiaodong Xu DisCoMathS 9 \nOctober 2019, Henrietta 1/24 Page 2 Plan of Talk \u25b6 Ramsey numbers: computational \nperspective (16 min) \u25b6 Diagonal Conjecture: origins, consequences and evidence (32 min) \nLRX, On a Diagonal Conjecture for Classical Ramsey Numbers, Discrete Applied Mathematics, \n267 (2019) 195-200. 2/24 Page 3 Ramsey Numbers \u25b6 R(G,H) = n iff minimal n such that in any \n2-coloring of the edges of Kn there is a monochromatic G in the first color or a monochromatic \nH in the second color. \u25b6 2 \u2212 colorings \u223c = graphs, R(m,n) = R(Km,Kn) \u25b6 Generalizes to \nk colors, R(G1,\u00b7\u00b7\u00b7 ,Gk) \u25b6 Theorem (Ramsey 1930): Ramsey numbers exist 3/24 Ramsey \u2026"
+    },
+    {
+        "title": "Some Small Ramsey Numbers",
+        "id": "aY0gRagAAAAJ:VLnqNzywnoUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:VLnqNzywnoUC",
+        "authors": [
+            "Stanis\u0142aw P Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "We present data which, to the best of our knowledge, includes all known nontrivial values and bounds for specific graph, hypergraph and multicolor Ramsey numbers, where the avoided graphs are complete or complete without one edge. Many results pertaining to other more studied cases are also presented. We give references to all cited bounds and values, as well as to previous similar compilations. We do not attempt complete coverage of asymptotic behavior of Ramsey numbers, but rather we concentrate on their specific values."
+    },
+    {
+        "title": "Computers in Ramsey Theory",
+        "id": "aY0gRagAAAAJ:7T2F9Uy0os0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:7T2F9Uy0os0C",
+        "authors": [
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "Testing, Constructions and Nonexistence. Computers in Scientific Discovery",
+        "pub_date": "",
+        "description": "Js= Ks\u2212 e,\u2206 s= R (3, Ks)\u2212 R (3, Ks\u2212 1) s R (3, Js) R (3, Ks)\u2206 s s R (3, Js) R (3, Ks)\u2206 s 3 5 6 3 10 37 40\u201342 4\u20136 4 7 9 3 11 42\u201345 47\u201350 5\u201310 5 11 14 5 12 47\u201353 53\u201359 3\u201312 6 17 18 4 13 55\u201362 60\u201368 3\u201313 7 21 23 5 14 60\u201371 67\u201377 3\u201314 8 25 28 5 15 69\u201380 74\u201387 3\u201315 9 31 36 8 16 74\u201391 82\u201397 3\u201316",
+        "citations": 3
+    },
+    {
+        "title": "Independent Study Proposal",
+        "id": "aY0gRagAAAAJ:LjlpjdlvIbIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:LjlpjdlvIbIC",
+        "authors": [
+            "Stanis law Radziszowski",
+            "Alexander Lange"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Combinatorial computing is a branch of computer science which involves developing and implementing algorithms to generate, enumerate and search through combinatorial structures [1]. These combinatorial structures are found in a variety of both theoretical and applied mathematical fields, but because of their size, pure mathematical analysis becomes impractical. Computers are needed in order to study and understand them further.During this fall quarter at RIT, I have studied under Professor Radziszowski in the course VCSG-801: Combinatorial Computing. In this course, I was introduced to a number of these structures, the interesting problems that are carried with them, and the tools that have been used in order to solve such problems. The area I found most interesting was the search for Ramsey and Folkman numbers. Ramsey and Folkman theory studies the properties combinatorial structures need in order\u00a0\u2026"
+    },
+    {
+        "title": "The Existence of Simple 6-(14, 7, 4) Designs",
+        "id": "aY0gRagAAAAJ:WA5NYHcadZ8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:WA5NYHcadZ8C",
+        "authors": [
+            "DoNALD L KRUtER",
+            "STANISLAW P RADZISZOWSKI"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "A cyclic S\u00b7{I16. 4) design. sconstructed lind iselltended loa simplc6-(14, 1, 4) design via I ltlCorem of Alltop. This de $ ign is the smallest possible nontrivial simple 6-dc $ ign that can exisl. Both han: full automorphism group cyclic of order 13. Cl 1916--'''''''I..."
+    },
+    {
+        "title": "\u201cAre we close?\u201d\u2013Secure Proximity Computation in Geosocial Networks",
+        "id": "aY0gRagAAAAJ:bnK-pcrLprsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:bnK-pcrLprsC",
+        "authors": [
+            "Peizhao Hu",
+            "Tamalika Mukherjee",
+            "Alagu Valliappan",
+            "Stanis\u0142aw Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "With the growing popularity of mobile devices that have sophisticated localization capability, it becomes more convenient and tempting to give away location data in exchange for recognition and status in the social networks. Geosocial networks, as an example, offer the ability to notify a user or trigger a service when a friend is within geographical proximity. To achieve this, users\u2019 devices need to periodically send location updates to the service provider, which then computes the geographical distance in an unencrypted form. Existing privacy preserving mechanisms focus on the storage or release of coordinate data by means of classical encryption and differential privacy. These techniques limit the utility of the encrypted or synthesized data if further computations are needed. In this paper, we present two methods to support secure distance computation on encrypted location data; that is, computing distance functions without knowing the actual coordinates of users. The underlying security is ensured by the homomorphic encryption scheme which supports computation on encrypted data. We demonstrate feasibility of the proposed approaches by conducting various performance evaluations on platforms with different specifications. We argue that the novelty of this work enables a new breed of pervasive and mobile computing concepts, which was previously not possible due to the lack of feasible mechanisms that support computation on encrypted location data."
+    },
+    {
+        "title": "Ramsey Numbers of C4 versus Wheels and Stars",
+        "id": "aY0gRagAAAAJ:vRqMK49ujn8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=aY0gRagAAAAJ:vRqMK49ujn8C",
+        "authors": [
+            "Wu Yali",
+            "Sun Yongqi",
+            "Zhang Rui",
+            "Stanis law Radziszowski"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Let ex (n, C4) denote the maximum size of a C4-free graph of order n. For an even integer or odd prime power q\u2a7e 6, we prove that ex (q2+ q+ 2, C4)<"
+    }
+]

@@ -1,0 +1,176 @@
+"Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs"
+A Rao, NA Krishnan, CR Rivero - Proceedings of the ACM on Web Conference 2024, 2024
+
+"A Method for Assessing Inference Patterns Captured by Embedding Models in Knowledge Graphs"
+NA Krishnan, CR Rivero - Proceedings of the ACM on Web Conference 2024, 2024
+
+"Flexible control flow graph alignment for delivering data-driven feedback to novice programming learners"
+MTA Chowdhury, MR Contractor, CR Rivero - Journal of Systems and Software, 2024
+
+"Flexible Control Flow Graph Alignment for Delivering Data-Driven Feedback to Novice Programming Learners"
+MTA Chowdhury, MR Contractor, CR Rivero - arXiv e-prints, 2024
+
+"A Model-Agnostic Method to Interpret Link Prediction Evaluation of Knowledge Graph Embeddings"
+NA Krishnan, CR Rivero - Proceedings of the 32nd ACM International Conference on Information and Knowledge Management, 2023
+
+"AYNEXT-tools for streamlining the evaluation of link prediction techniques"
+F Sola, D Ayala, R Ayala, I Hernández, CR Rivero, D Ruiz - SoftwareX, 2023
+
+"Improving program matching to automatically repair introductory programs"
+MR Contractor, CR Rivero - International Conference on Intelligent Tutoring Systems, 2022
+
+"CAFE: Knowledge graph completion using neighborhood-aware features"
+A Borrego, D Ayala, I Hernández, CR Rivero, D Ruiz - Engineering Applications of Artificial Intelligence, 2021
+
+"Revisiting the evaluation protocol of knowledge graph completion methods for link prediction"
+S Tiwari, I Bansal, CR Rivero - Proceedings of the Web Conference 2021, 2021
+
+"Learning to recognize semantically similar program statements in introductory programming assignments"
+MS Jawalkar, H Hosseini, CR Rivero - Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 2021
+
+"Flexible program alignment to deliver data-driven feedback to novice programmers"
+VJ Marin, MR Contractor, CR Rivero - Intelligent Tutoring Systems: 17th International Conference, ITS 2021, Virtual Event, June 7–11, 2021, Proceedings 17, 2021
+
+"The impact of negative triple generation strategies and anomalies on knowledge graph completion"
+I Bansal, S Tiwari, CR Rivero - Proceedings of the 29th ACM international conference on information & knowledge management, 2020
+
+"Towards summarizing program statements in source code search"
+VJ Marin, I Bansal, CR Rivero - Proceedings of the 35th Annual ACM Symposium on Applied Computing, 2020
+
+"Selecting suitable configurations for automated link discovery"
+CR Rivero, D Ruiz - Proceedings of the 35th Annual ACM Symposium on Applied Computing, 2020
+
+"Clustering recurrent and semantically cohesive program statements in introductory programming assignments"
+VJ Marin, CR Rivero - Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019
+
+"Generating rules to filter candidate triples for their correctness checking by knowledge graph completion techniques"
+A Borrego, D Ayala, I Hernández, CR Rivero, D Ruiz - Proceedings of the 10th International Conference on Knowledge Capture, 2019
+
+"Deep Web crawling: a survey"
+I Hernández, CR Rivero, D Ruiz - World Wide Web, 2019
+
+"AYNEC: All you need for evaluating completion techniques in knowledge graphs"
+DA Hernández, AB Díaz, ICH Salmerón, CR Rivero, DR Cortés - ESWC 2019: 16th International Conference (2019), p 397-411, 2019
+
+"Deep Web crawling: a survey"
+ICH Salmerón, CR Rivero, DR Cortés - World Wide Web, 22, 1577-1610., 2019
+
+"AYNEC: all you need for evaluating completion techniques in knowledge graphs"
+D Ayala, A Borrego, I Hernández, CR Rivero, D Ruiz - The Semantic Web: 16th International Conference, ESWC 2019, Portorož, Slovenia, June 2–6, 2019, Proceedings 16, 2019
+
+"Towards a framework for generating program dependence graphs from source code"
+VJ Marin, CR Rivero - Proceedings of the 4th ACM SIGSOFT International Workshop on Software Analytics, 2018
+
+"ARCC: Assistant for repetitive code comprehension"
+WZ Nunez, VJ Marin, CR Rivero - Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, 2017
+
+"A novel model for distributed big data service composition using stratified functional graph matching"
+HM Jamil, CR Rivero - Proceedings of the 7th International Conference on Web Intelligence, Mining and Semantics, 2017
+
+"Automated personalized feedback in introductory Java programming MOOCs"
+VJ Marin, T Pereira, S Sridharan, CR Rivero - Data Engineering (ICDE), 2017 IEEE 33rd International Conference on, 2017
+
+"Efficient and scalable labeled subgraph matching using SGMatch"
+CR Rivero, HM Jamil - Knowledge and Information Systems, 2017
+
+"CALA: ClAssifying Links Automatically based on their URL"
+I Hernández, CR Rivero, D Ruiz, R Corchuelo - Journal of Systems and Software, 2016
+
+"PLOMaR: An ontology framework for context modeling and reasoning on crowd-sensing platform"
+Y Jagadeesan, P Hu, CR Rivero - 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), 2016
+
+"Mapping RDF knowledge bases using exchange samples"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - Knowledge-Based Systems, 2016
+
+"Improving Link Specifications using Context-Aware Information"
+AJC Arriaga, CR Rivero, DR Cortés - LDOW 2016: WWW2016 Workshop on Linked Data on the Web (2016),, 2016
+
+"Discovering and analysing ontological models from big RDF data"
+CR Rivero, I Hernández, D Ruiz, R Cochuelo - Journal of Database Management (JDM), 2015
+
+"MostoDEx: A tool to exchange RDF data using exchange samples"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - Journal of Systems and Software, 2015
+
+"Towards a novel model for distributed big data service composition using functional graph matching"
+CR Rivero, HM Jamil - 2014 IEEE International Congress on Big Data, 2014
+
+"On isomorphic matching of large disk-resident graphs using an XQuery engine"
+CR Rivero, HM Jamil - 2014 IEEE 30th International Conference on Data Engineering Workshops, 2014
+
+"CALA: An unsupervised URL-based web page classification system"
+I Hernández, CR Rivero, D Ruiz, R Corchuelo - Knowledge-Based Systems, 2014
+
+"Exchanging data amongst linked data applications"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - Knowledge and information systems, 2013
+
+"Anatomy of Graph Matching based on an XQuery and RDF Implementation"
+CR Rivero, HM Jamil - arXiv preprint arXiv:1311.2342, 2013
+
+"MostoDE: A tool to exchange data amongst semantic-web ontologies"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - Journal of Systems and Software, 2013
+
+"Towards discovering conceptual models behind web sites"
+I Hernández, CR Rivero, D Ruiz, R Corchuelo - International Conference on Conceptual Modeling, 2012
+
+"Benchmarking data exchange among semantic-web ontologies"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - IEEE Transactions on Knowledge and Data Engineering, 2012
+
+"An architecture for efficient web crawling"
+I Hernández, CR Rivero, D Ruiz, R Corchuelo - International Conference on Advanced Information Systems Engineering, 2012
+
+"A statistical approach to URL-based web page clustering"
+I Hernández, CR Rivero, D Ruiz, R Corchuelo - Proceedings of the 21st International Conference on World Wide Web, 2012
+
+"Exchanging data amongst semantic-web ontologies= Intercambio de datos entre web semántica ontologías: On generating mappings and benchmarking data exchange systems= En …"
+CRR Osuna - Universidad de Sevilla, 2012
+
+"Towards discovering ontological models from big RDF data"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - Advances in Conceptual Modeling: ER 2012 Workshops CMS, ECDM-NoCoDA, MoDIC, MORE-BI, RIGiM, SeCoGIS, WISM, Florence, Italy, October 15-18, 2012. Proceedings 31, 2012
+
+"Benchmarking the performance of linked data translation systems"
+CR Rivero, A Schultz, C Bizer, D Ruiz - LDOW (WWW Workshops), 2012
+
+"An experiment to test URL features for web page classification"
+I Hernández, CR Rivero, D Ruiz, JL Arjona - Trends in Practical Applications of Agents and Multiagent Systems: 10th …, 2012
+
+"A tool for link-based web page classification"
+I Hernández, CR Rivero, D Ruiz, R Corchuelo - Conference of the Spanish Association for Artificial Intelligence, 2011
+
+"Generating SPARQL executable mappings to integrate ontologies"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - International Conference on Conceptual Modeling, 2011
+
+"On a proposal to integrate web sources using semantic-web technologies"
+HA Sleiman, CR Rivero, R Corchuelo - 2011 7th International Conference on Next Generation Web Services Practices, 2011
+
+"A reference architecture for building semantic-web mediators"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - International Conference on Advanced Information Systems Engineering, 2011
+
+"Mosto: Generating SPARQL Executable Mappings between Ontologies"
+C Rivero, I Hernández, D Ruiz, R Corchuelo - Conceptual Modeling–ER 2011, 2011
+
+"On using high-level structured queries for integrating deep-web information sources"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - SERP, 2011
+
+"Monitoring Errors in Integration Workflows"
+RZ Frantz, R Corchuelo, CR Rivero, C Molina-Jiménez - SERP, 2011
+
+"On using database techniques for generating ontology mappings"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - SWWS 2011: proceedings of the 2011 international conference on semantic web & web services (Las Vegas NV, July 18-21, 2011), 2011
+
+"On benchmarking data translation systems for semantic-web ontologies"
+CR Rivero, I Hernández, D Ruiz, R Corchuelo - 20th ACM International Conference on Information and Knowledge Management, 2011
+
+"Integrating deep-web information sources"
+IFd Viana, I Hernandez, P Jiménez, CR Rivero, HA Sleiman - Trends in Practical Applications of Agents and Multiagent Systems: 8th …, 2010
+
+"Integrating Deep-Web Information Sources"
+IFd Viana, ICH Salmerón, PJ Aguirre, CR Rivero, HA Sleiman - PAAMS 2010: 8th International Conference on Practical Applications of Agents and Multi-Agent Systems (2010), pp. 311-320., 2010
+
+"On Using Semantic Web Query Languages for Semantic Web Services Provisioning."
+JM García, CR Rivero, D Ruiz, AR Cortés - SWWS, 2009
+
+"From queries to search forms: an implementation"
+C Rivero - International journal of computer applications in technology, 2008
+
+"An advanced query capability description framework implementation"
+C Rivero, D Ruiz - Zoco/JISBD, 2007

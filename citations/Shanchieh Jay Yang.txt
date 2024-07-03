@@ -1,0 +1,356 @@
+"Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation"
+R Fayyazi, R Taghdimi, SJ Yang - arXiv preprint arXiv:2401.00280, 2023
+
+"Unraveling Network-Based Pivoting Maneuvers: Empirical Insights and Challenges"
+M Husák, SJ Yang, J Khoury, Đ Klisura, E Bou-Harb - International Conference on Digital Forensics and Cyber Crime, 2023
+
+"Are Existing Out-Of-Distribution Techniques Suitable for Network Intrusion Detection?"
+A Corsini, SJ Yang - 2023 IEEE Conference on Communications and Network Security (CNS), 2023
+
+"The Road Towards Autonomous Cybersecurity Agents: Remedies for Simulation Environments"
+M Drašar, Á Ruman, P Čeleda, SJ Yang - European Symposium on Research in Computer Security, 2023
+
+"The 3rd Workshop on Artificial Intelligence-enabled Cybersecurity Analytics"
+S Samtani, S Yang, H Chen - Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023
+
+"On the uses of large language models to interpret ambiguous cyberattack descriptions"
+R Fayyazi, SJ Yang - arXiv preprint arXiv:2306.14062, 2023
+
+"Learning about the adversary"
+A Nadeem, S Verwer, SJ Yang - Autonomous Intelligent Cyber Defense Agent (AICA) A Comprehensive Guide, 2023
+
+"Quantifying impact on safety from cyber-attacks on cyber-physical systems"
+E Vlahakis, G Provan, G Werner, S Yang, N Athanasopoulos - IFAC-PapersOnLine, 2023
+
+"HeATed Alert Triage (HeAT): Transferrable Learning to Extract Multistage Attack Campaigns"
+S Moskal, SJ Yang - arXiv preprint arXiv:2212.13941, 2022
+
+"Non-cooperative learning for robust spectrum sharing in connected vehicles with malicious agents"
+H Peng, H Rahbari, SJ Yang, L Wang - GLOBECOM 2022-2022 IEEE Global Communications Conference, 2022
+
+"ACM KDD AI4Cyber/MLHat: Workshop on AI-enabled cybersecurity analytics and deployable defense"
+S Samtani, G Wang, A Ahmadzadeh, A Ciptadi, S Yang, H Chen - Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022
+
+"Discovery of Rare yet Co-occurring Actions with Temporal Characteristics in Episodic Cyberattack Streams"
+G Werner, S Yang - 2022 International Conference on Computer Communications and Networks (ICCCN), 2022
+
+"Enabling visual analytics via alert-driven attack graphs"
+A Nadeem, S Verwer, S Moskal, SJ Yang - Proceedings of the 2021 ACM SIGSAC conference on computer and communications security, 2021
+
+"Sage: Intrusion alert-driven attack graph extractor"
+A Nadeem, S Verwer, SJ Yang - 2021 IEEE symposium on visualization for cyber security (VizSec), 2021
+
+"Translating intrusion alerts to cyberattack stages using pseudo-active transfer learning (PATRL)"
+S Moskal, SJ Yang - 2021 IEEE conference on communications and network security (CNS), 2021
+
+"Alert-driven attack graph generation using s-pdfa"
+A Nadeem, S Verwer, S Moskal, SJ Yang - IEEE transactions on dependable and secure computing, 2021
+
+"On the evaluation of sequential machine learning for network intrusion detection"
+A Corsini, SJ Yang, G Apruzzese - Proceedings of the 16th International Conference on Availability, Reliability and Security, 2021
+
+"ACM KDD AI4Cyber: The 1st Workshop on Artificial Intelligence-enabled Cybersecurity Analytics"
+S Samtani, S Yang, H Chen - Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021
+
+"Towards an efficient detection of pivoting activity"
+M Husák, G Apruzzese, SJ Yang, G Werner - 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM), 2021
+
+"Near real-time intrusion alert aggregation using concept-based learning"
+G Werner, SJ Yang, K McConky - Proceedings of the 18th ACM International Conference on Computing Frontiers, 2021
+
+"Near Real-time Learning and Extraction of Attack Models from Intrusion Alerts"
+SJ Yang, A Okutan, G Werner, S Su, A Goel, ND Cahill - arXiv preprint arXiv:2103.13902, 2021
+
+"Heated Alert Triage (HeAT): Network-agnostic extraction of cyber attack campaigns"
+S Moskal, SJ Yang - Proceedings of the conference on applied machine learning for information security, 2021
+
+"SAGE: Intrusion Alert-driven Attack Graph Extractor (Encore abstract)"
+A Nadeem, S Verwer, S Moskal, SJ Yang - 33rd Benelux Conference on Artificial Intelligence and30th Belgian-Dutch Conference on Machine Learning, 2021
+
+"On the variety and veracity of cyber intrusion alerts synthesized by generative adversarial networks"
+C Sweet, S Moskal, SJ Yang - ACM Transactions on Management Information Systems (TMIS), 2020
+
+"Session-level adversary intent-driven cyberattack simulator"
+M Drašar, S Moskal, S Yang, P Zat'ko - 2020 IEEE/ACM 24th International Symposium on Distributed Simulation and Real Time Applications (DS-RT), 2020
+
+"SoK: Contemporary issues and challenges to enable cyber situational awareness for network security"
+M Husák, T Jirsík, SJ Yang - Proceedings of the 15th International Conference on Availability …, 2020
+
+"Dissecting Cyberadversarial Intrusion Stages via Interdisciplinary Observations"
+A Rege, S Yang, A Mendlein, K Williams, S Su, S Moskal - Proceedings of the Sixth International Workshop on Security and Privacy Analytics, 2020
+
+"Cyberattack action-intent-framework for mapping intrusion observables"
+S Moskal, SJ Yang - arXiv preprint arXiv:2002.07838, 2020
+
+"ASSERT: attack synthesis and separation with entropy redistribution towards predictive cyber defense"
+A Okutan, SJ Yang - Cybersecurity, 2019
+
+"Synthetic intrusion alert generation through generative adversarial networks"
+C Sweet, S Moskal, SJ Yang - MILCOM 2019-2019 IEEE Military Communications Conference (MILCOM), 2019
+
+"Dynamic Generation of Empirical Cyberattack Models with Engineered Alert Features"
+A Okutan, F Cheng, S Su, SJ Yang - MILCOM 2019-2019 IEEE Military Communications Conference (MILCOM), 2019
+
+"On the veracity of cyber intrusion alerts synthesized by generative adversarial networks"
+C Sweet, S Moskal, SJ Yang - arXiv preprint arXiv:1908.01219, 2019
+
+"Capture: cyberattack forecasting using non-stationary features with time lags"
+A Okutan, SJ Yang, K McConky, G Werner - 2019 IEEE Conference on Communications and Network Security (CNS), 2019
+
+"Experimental evaluation of jamming threat in LoRaWAN"
+C Huang, C Lin, R Cheng, SJ Yang, S Sheu - 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), 2019
+
+"A cybersecurity dataset derived from the national collegiate penetration testing competition"
+N Munaiah, J Pelletier, S Su, S Yang, A Meneely - HICSS Symposium on cybersecurity big data analytics, 2019
+
+"Differentiating and predicting cyberattack behaviors using lstm"
+I Perry, L Li, C Sweet, S Su, F Cheng, SJ Yang, A Okutan - 2018 IEEE Conference on Dependable and Secure Computing (DSC), 2018
+
+"Forecasting cyberattacks with incomplete, imbalanced, and insignificant data"
+A Okutan, G Werner, SJ Yang, K McConky - Cybersecurity, 2018
+
+"Extracting and evaluating similar and unique cyber attack strategies from intrusion alerts"
+S Moskal, SJ Yang, ME Kuhl - 2018 IEEE international conference on intelligence and security informatics (ISI), 2018
+
+"Leveraging intra-day temporal variations to predict daily cyberattack activity"
+G Werner, S Yang, K McConky - 2018 IEEE International Conference on Intelligence and Security Informatics (ISI), 2018
+
+"Forecasting cyberattacks as time series with different aggregation granularity"
+G Werner, A Okutan, S Yang, K McConky - 2018 IEEE International Symposium on Technologies for Homeland Security (HST), 2018
+
+"Probabilistic modeling and inference for obfuscated cyber attack sequences"
+H Du, SJ Yang - arXiv preprint arXiv:1809.01562, 2018
+
+"Toward intelligent autonomous agents for cyber defense: Report of the 2017 Workshop by the North Atlantic Treaty Organization (NATO) Research Group IST-152-RTG"
+A Kott, R Thomas, M Drašar, M Kont, A Poylisher, B Blakely, P Theron, N Evans, N Leslie, R Singh, M Rigaki, SJ Yang, B LeBlanc, P Losiewicz, S Hourlier, M Blowers, H Harney, G Wehner, A Guarino, J Komárková, J Rowell - arXiv preprint arXiv:1804.07646, 2018
+
+"Forecasting cyber attacks with imbalanced data sets and different time granularities"
+A Okutan, SJ Yang, K McConky - arXiv preprint arXiv:1803.09560, 2018
+
+"Feature Engineering of Time-Series Data to Extract Discriminative Features"
+D Stolze, K McConky, M Kuhl, SJ Yang - IIE Annual Conference. Proceedings, 2018
+
+"Cyber threat assessment via attack scenario simulation using an integrated adversary and network modeling approach"
+S Moskal, SJ Yang, ME Kuhl - The Journal of Defense Modeling and Simulation, 2018
+
+"POSTER: Cyber attack prediction of threats from unconventional resources (CAPTURE)"
+A Okutan, G Werner, K McConky, SJ Yang - Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, 2017
+
+"Scanner: Sequence clustering of android resource accesses"
+NWH Chan, SJ Yang - 2017 IEEE Conference on Dependable and Secure Computing, 2017
+
+"Predicting cyber attacks with bayesian networks using unconventional signals"
+A Okutan, SJ Yang, K McConky - Proceedings of the 12th Annual Conference on Cyber and Information Security Research, 2017
+
+"Time series forecasting of cyber attack intensity"
+G Werner, S Yang, K McConky - Proceedings of the 12th Annual Conference on cyber and information security research, 2017
+
+"Modeling information sharing behavior on Q&A forums"
+B Cui, SJ Yang, CM Homan - Advances in Knowledge Discovery and Data Mining: 21st Pacific-Asia Conference, PAKDD 2017, Jeju, South Korea, May 23-26, 2017, Proceedings, Part II 21, 2017
+
+"Assessing the likelihood of cyber network infiltration using rare-event simulation"
+AL Krall, ME Kuhl, SF Moskal, SJ Yang - 2016 IEEE Symposium Series on Computational Intelligence (SSCI), 2016
+
+"Issues and challenges of the applications of context to enhance information fusion: panel summary"
+E Blasch, I Kadar, C Chong, A Steinberg, RP Mahler, SJ Yang, LH Fenstermacher, AL Chan, P Tandy - Signal Processing, Sensor/Information Fusion, and Target Recognition XXV …, 2016
+
+"Privacy sensitive resource access monitoring for android systems"
+L Zhao, NWH Chan, SJ Yang, RW Melton - 2015 24th International Conference on Computer Communication and Networks (ICCCN), 2015
+
+"Mission impact assessment for cyber warfare"
+J Holsopple, SJ Yang, M Sudit - Intelligent Methods for Cyber Warfare, 2015
+
+"Cyber insider mission detection for situation awareness"
+H Du, C Wang, T Zhang, SJ Yang, J Choi, P Liu - Intelligent Methods for Cyber Warfare, 2015
+
+"Non-independent cascade formation: Temporal and spatial effects"
+B Cui, SJ Yang, C Homan - Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management, 2014
+
+"NRE: Suppress selective forwarding attacks in wireless sensor networks"
+B Cui, SJ Yang - 2014 IEEE Conference on Communications and Network Security, 2014
+
+"Context model fusion for multistage network attack simulation"
+S Moskal, B Wheeler, D Kreider, ME Kuhl, SJ Yang - 2014 IEEE Military Communications Conference, 2014
+
+"Impact assessment"
+J Holsopple, M Sudit, SJ Yang - Cyber Defense and Situational Awareness, 2014
+
+"Attack projection"
+SJ Yang, H Du, J Holsopple, M Sudit - Cyber Defense and Situational Awareness, 239-261, 2014
+
+"Probabilistic inference for obfuscated network attack sequences"
+H Du, SJ Yang - 2014 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, 2014
+
+"Engaging Computer Engineering Freshmen through a Voluntary Competitive Team Project with Mentoring"
+RW Melton, SJ Yang, A Becker-Gomez - 2014 ASEE Annual Conference & Exposition, 2014
+
+"Segmenting large-scale cyber attacks for online behavior model generation"
+S Strapp, SJ Yang - International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction, 2014
+
+"Who Will Follow a New Topic Tomorrow?"
+B Cui, SJ Yang - Social Computing, Behavioral-Cultural Modeling and Prediction: 7th International Conference, SBP 2014, Washington, DC, USA, April 1-4, 2014. Proceedings 7, 2014
+
+"Social Computing, Behavioral-Cultural Modeling, and Prediction"
+WG Kennedy, N Agarwal, SJ Yang - Springer, 2014
+
+"Design and implementation of a Skype Protocol Analyzer"
+R Cheng, P Tsai, P Lin, C Lian, T Liu, H Chou, S Tsao, S Yang - 2013 IEEE Conference on Communications and Network Security (CNS), 2013
+
+"Simulating attack behaviors in enterprise networks"
+S Moskal, D Kreider, L Hays, B Wheeler, SJ Yang, M Kuhl - 2013 IEEE Conference on Communications and Network Security (CNS), 359-360, 2013
+
+"Sequential modeling for obfuscated network attack action sequences"
+H Du, SJ Yang - 2013 IEEE Conference on Communications and Network Security (CNS), 2013
+
+"Introduction to the special section on social computing, behavioral-cultural modeling, and prediction"
+SJ Yang, D Nau, J Salerno - ACM Transactions on Intelligent Systems and Technology (TIST) 4 (3), 1-2, 2013
+
+"Influence versus intent for predictive analytics in situation awareness"
+B Cui, SJ Yang, I Kadar - Signal Processing, Sensor Fusion, and Target Recognition XXII, 2013
+
+"Summary of human social, cultural, behavioral (HSCB) modeling for information fusion panel discussion"
+E Blasch, J Salerno, I Kadar, SJ Yang, L Fenstermacher, M Endsley, L Grewe - Signal Processing, Sensor Fusion, and Target Recognition XXII, 2013
+
+"Handling temporal and functional changes for mission impact assessment"
+J Holsopple, SJ Yang - 2013 IEEE International Multi-Disciplinary Conference on Cognitive Methods in Situation Awareness and Decision Support (CogSIMA), 2013
+
+"Who shall we follow in twitter for cyber vulnerability?"
+B Cui, S Moskal, H Du, SJ Yang - Social Computing, Behavioral-Cultural Modeling and Prediction: 6th International Conference, SBP 2013, Washington, DC, USA, April 2-5, 2013. Proceedings 6, 2013
+
+"Temporal and spatial analyses for large-scale cyber attacks"
+H Du, SJ Yang - Handbook of Computational Approaches to Counterterrorism, 2012
+
+"Social computing, behavioral-cultural modeling and prediction"
+S Yang, A Greenberg, M Endsley - College Park, MD: Springer, 2012
+
+"Characterizing transition behaviors in internet attack sequences"
+H Du, SJ Yang - 2011 Proceedings of 20th International Conference on Computer Communications and Networks (ICCCN), 2011
+
+"Optimizing collection requirements through analysis of plausible impact"
+K Tong, SJ Yang, M Sudit, J Holsopple - 14th International Conference on Information Fusion, 2011
+
+"Discovering collaborative cyber attack patterns using social network analysis"
+H Du, SJ Yang - Social Computing, Behavioral-Cultural Modeling and Prediction: 4th International Conference, SBP 2011, College Park, MD, USA, March 29-31, 2011. Proceedings 4, 2011
+
+"Toward ensemble characterization and projection of multistage cyber attacks"
+H Du, DF Liu, J Holsopple, SJ Yang - 2010 Proceedings of 19th International Conference on Computer Communications and Networks, 2010
+
+"Issues and challenges in higher level fusion: Threat/impact assessment and intent modeling (a panel summary)"
+JJ Salerno, SJ Yang, I Kadar, M Sudit, GP Tadda, J Holsopple - 2010 13th International Conference on Information Fusion, 1-17, 2010
+
+"Clustering of multistage cyber attacks using significant services"
+CT Murphy, SJ Yang - 2010 13th International Conference on Information Fusion, 2010
+
+"Enhancing situation awareness via automated situation assessment"
+J Holsopple, M Sudit, M Nusinov, DF Liu, H Du, SJ Yang - IEEE Communications Magazine, 2010
+
+"Dynamic creation of social networks for syndromic surveillance using information fusion"
+J Holsopple, S Yang, M Sudit, A Stotz - Advances in Social Computing: Third International Conference on Social Computing, Behavioral Modeling, and Prediction, SBP 2010, Bethesda, MD, USA, March 30-31, 2010. Proceedings 3, 2010
+
+"ViSAw: Visualizing threat and impact assessment for enhanced situation awareness"
+M Nusinov, SJ Yang, J Holsopple, M Sudit - MILCOM 2009-2009 IEEE Military Communications Conference, 2009
+
+"Designing a data fusion system using a top-down approach"
+J Holsopple, SJ Yang - MILCOM 2009-2009 IEEE Military Communications Conference, 2009
+
+"Toward unsupervised classification of non-uniform cyber attack tracks"
+H Du, C Murphy, J Bean, SJ Yang - 2009 12th International Conference on Information Fusion, 2009
+
+"Elements of impact assessment: a case study with cyber attacks"
+SJ Yang, J Holsopple, D Liu - Intelligent Sensing, Situation Management, Impact Assessment, and Cyber-Sensing, 2009
+
+"Cyber integrated MEMS microhand for biological applications"
+A Weissman, A Frazier, M Pepen, Y Lu, SJ Yang - Micro-and Nanotechnology Sensors, Systems, and Applications, 2009
+
+"National Center for Multi-Source Information Fusion"
+J Holsopple, SJ Yang, M Kuhl, D Hall, R Nagi, S Shapiro, M Sudit, B Panulla, M Kandefer, P Seyed, Z Ying, A Gosavi, K Costantini, G Tauer - DTIC Document, 2009
+
+"High level information fusion for tracking and projection of multistage cyber attacks"
+SJ Yang, A Stotz, J Holsopple, M Sudit, M Kuhl - Information Fusion, 2009
+
+"Real-time fusion and projection of network intrusion activity"
+SR Byers, SJ Yang - 2008 11th International Conference on Information Fusion, 2008
+
+"FuSIA: Future situation and impact awareness"
+J Holsopple, SJ Yang - 2008 11th International Conference on Information Fusion, 2008
+
+"Intrusion activity projection for cyber situational awareness"
+SJ Yang, S Byers, J Holsopple, B Argauer, D Fava - 2008 IEEE international conference on intelligence and security informatics, 2008
+
+"Projecting cyberattacks through variable-length markov models"
+DS Fava, SR Byers, SJ Yang - IEEE Transactions on Information Forensics and Security, 2008
+
+"Multi-threat containment with dynamic wireless neighborhood networks"
+NA Ransom, SJ Yang - Intelligent Computing: Theory and Applications VI, 2008
+
+"Virtual terrain: a security-based representation of a computer network"
+J Holsopple, S Yang, B Argauer - Data Mining, Intrusion Detection, Information Assurance, and Data Networks Security 2008, 2008
+
+"VTAC: Virtual terrain assisted impact assessment for cyber attacks"
+BJ Argauer, SJ Yang - Data Mining, Intrusion Detection, Information Assurance, and Data Networks Security 2008, 2008
+
+"Intrusion signature creation via clustering anomalies"
+GR Hendry, SJ Yang - Data Mining, Intrusion Detection, Information Assurance, and Data Networks Security 2008, 2008
+
+"Terrain and behavior modeling for projecting multistage cyber attacks"
+D Fava, J Holsopple, SJ Yang, B Argauer - 2007 10th International Conference on Information Fusion, 2007
+
+"The effect of collision avoidance for autonomous robot team formation"
+MH Seidman, SJ Yang - Unmanned Systems Technology IX, 2007
+
+"Evaluating threat assessment for multi-stage cyber attacks"
+SJ Yang, J Holsopple, M Sudit - MILCOM 2006-2006 IEEE Military Communications conference, 2006
+
+"TANDI: Threat assessment of network data and information"
+J Holsopple, SJ Yang, M Sudit - Multisensor, Multisource Information Fusion: Architectures, Algorithms, and Applications 2006, 2006
+
+"TANDI: threat assessment of network data and information [6242-23]"
+J Holsopple, S Yang, M Sudit - PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 2006
+
+"Field programmable gate array implementation of Reed-Solomon code, RS (255,239)"
+KCC Wai, SJ Yang - Xelic Inc., Pittsford, New York, 2006
+
+"High level fusion in the cyber domain"
+M Sudit, S Yang, M Kuhl, A Stotz, M Holender, J Holsopple, E Bohannon, J Kistner - DTIC Document, Tech. Rep., 2005
+
+"Application of particle swarm techniques in sensor network configuration"
+J Tillett, SJ Yang, R Rao, F Sahin - Unattended Ground Sensor Technologies and Applications VII, 2005
+
+"Energy efficient multi-mode operation for networked wireless sensors"
+SJ Yang, N Krishnamurthi, CD Cress, M Sudit - IEEE VEHICULAR TECHNOLOGY CONFERENCE, 2005
+
+"Optimal topologies for wireless sensor networks"
+JC Tillett, SJ Yang, RM Rao, F Sahin - Unmanned/Unattended Sensors and Sensor Networks, 2004
+
+"Energy efficient data retrieval for networked multi-mode wireless sensors"
+CC Cress, SJ Yang, M Sudit - Proceedings of the 1st ACM international workshop on Performance evaluation of wireless ad hoc, sensor, and ubiquitous networks, 2004
+
+"Enhancing both network and user performance for networks supporting best effort traffic"
+SJ Yang, Gd Veciana - IEEE/ACM Transactions on Networking, 2004
+
+"Modular topology control and energy model for wireless ad hoc sensor networks"
+N Krishnamurthi, SJ Yang, M Seidman - Online Proceedings of OPNETWORK Š04, 0, 2004
+
+"Size-based adaptive bandwidth allocation: Optimizing the average QoS for elastic flows"
+S Yang, GD Veciana - Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and Communications Societies, 2002
+
+"Bandwidth sharing: The role of user impatience"
+S Yang, Gd Veciana - GLOBECOM'01. IEEE Global Telecommunications Conference (Cat. No. 01CH37270), 2001
+
+"Heterogeneity-aware shortest path routing: flow holding time, user demand and network state"
+S Yang, X Su, GD Veciana - 2001 IEEE Workshop on High Performance Switching and Routing (IEEE Cat. No. 01TH8552), 2001
+
+"Flow-size based differentiation to enhance user-perceived performance on networks supporting best-effort traffic"
+S Yang - The University of Texas at Austin, 2001
+
+"Enhancing Both Network and User Performance Metrics for Networks Supporting Best Effort Traffic"
+Gd Veciana, S Yang - PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND COMPUTING, 2001
+
+"Traffic dispersion for bursty traffic on heterogeneous networks"
+S Yang - University of Texas at Austin, 1998
+
+"Reactive bandwidth arbitration for priority and multicasting control in ATM switching"
+S Fang, Y Lin, S Yang, CB Shung - Proceedings of ICC'97-International Conference on Communications, 1997
+
+"VLSI design of a priority arbitrator for shared buffer ATM switches"
+Y Lin, S Yang, S Fang, CB Shung - 1997 IEEE International Symposium on Circuits and Systems (ISCAS), 1997

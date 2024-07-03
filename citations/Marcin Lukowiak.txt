@@ -1,0 +1,191 @@
+"Power Analysis Attacks on the Customizable MK-3 Authenticated Encryption Algorithm"
+P Fabinski, S Farris, M Kurdziel, M Lukowiak, S Radziszowski - 2023 30th International Conference on Mixed Design of Integrated Circuits and System (MIXDES), 2023
+
+"Statistical Analysis of the MK-3 Customizable Authenticated Encryption"
+P Bajorski, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2022-2022 IEEE Military Communications Conference (MILCOM), 2022
+
+"Memory Protection with Dynamic Authentication Trees"
+M Millar, M Łukowiak, S Radziszowski - 2022 29th International Conference on Mixed Design of Integrated Circuits and System (MIXDES), 2022
+
+"Solving the Cross Domain Problem with Functional Encryption"
+A Kaminsky, M Kurdziel, S Farris, M Łukowiak, S Radziszowski - MILCOM 2021-2021 IEEE Military Communications Conference (MILCOM), 2021
+
+"Hardware Obfuscation of the 16-bit S-box in the MK-3 Cipher"
+J Blocklove, S Farris, M Kurdziel, M Łukowiak, S Radziszowski - 2021 28th International Conference on Mixed Design of Integrated Circuits and System, 2021
+
+"Tree-Based Hardware Recursion for Divide-and-Conquer Algorithms"
+B Morrison, M Łukowiak - 2021 28th International Conference on Mixed Design of Integrated Circuits and System, 2021
+
+"Using Reduced Graphs for Efficient HLS Scheduling"
+S Soldavini, SL Alarcón, M Łukowiak - 2020 IEEE International Symposium on Circuits and Systems (ISCAS), 2020
+
+"Design of a flexible Schönhage-Strassen FFT polynomial multiplier with high-level synthesis to accelerate HE in the cloud"
+K Millar, M Łukowiak, S Radziszowski - 2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig), 2019
+
+"Exploring the application of homomorphic encryption to a cross domain solution"
+C Tinker, K Millar, A Kaminsky, M Kurdziel, M Lukowiak, S Radziszowski - MILCOM 2019-2019 IEEE Military Communications Conference (MILCOM), 2019
+
+"Flexible HLS-based implementation of the Karatsuba multiplier targeting homomorphic encryption schemes"
+MJ Foster, M Łukowiak, S Radziszowski - 2019 MIXDES-26th International Conference" Mixed Design of Integrated Circuits and Systems", 2019
+
+"Array-based statistical analysis of the MK-3 authenticated encryption scheme"
+P Bajorski, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM), 2018
+
+"Customization modes for the Harris MK-3 authenticated encryption algorithm"
+P Bajorski, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM), 2018
+
+"Two step power attack on SHA-3 based MAC"
+C Chu, M Lukowiak - 2018 25th International Conference" Mixed Design of Integrated Circuits and System"(MIXDES), 2018
+
+"Overview of round one power attacks on SHA-3 Based MAC"
+K Millar, C Chu, M Łukowiak - International Journal of Microelectronics and Computer Science, 2018
+
+"Power analysis of HLS-designed customized instruction set architectures"
+T Ananthanarayana, S Lopez, M Lukowiak - 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2017
+
+"Effectiveness of variable bit-length power analysis attacks on SHA-3 based MAC"
+XD Tran, M Łukowiak, SP Radziszowski - MILCOM 2016-2016 IEEE Military Communications Conference, 2016
+
+"Implementing authenticated encryption algorithm MK-3 on FPGA"
+G Werner, S Farris, A Kaminsky, M Kurdziel, M Lukowiak, S Radziszowski - MILCOM 2016-2016 IEEE Military Communications Conference, 2016
+
+"Designing customized ISA processors using high level synthesis"
+S Skalicky, T Ananthanarayana, S Lopez, M Lukowiak - 2015 International Conference on ReConFigurable Computing and FPGAs (ReConFig), 2015
+
+"Constructing large S-boxes with area minimized implementations"
+CA Wood, SP Radziszowski, M Lukowiak - MILCOM 2015-2015 IEEE Military Communications Conference, 2015
+
+"Customizable sponge-based authenticated encryption using 16-bit S-boxes"
+M Kelly, A Kaminsky, M Kurdziel, M Łukowiak, S Radziszowski - MILCOM 2015-2015 IEEE Military Communications Conference, 2015
+
+"A parallelizing matlab compiler framework and run time for heterogeneous systems"
+S Skalicky, S Lopez, M Lukowiak, AG Schmidt - 2015 IEEE 17th International Conference on High Performance Computing and Communications, 2015 IEEE 7th International Symposium on Cyberspace Safety and Security, and 2015 IEEE 12th International Conference on Embedded Software and Systems, 2015
+
+"Design and performance analysis of efficient KECCAK tree hashing on GPU architectures"
+J Lowden, M Łukowiak, SL Alarcon - Journal of Computer Security, 2015
+
+"Mission control: A performance metric and analysis of control logic for pipelined architectures on FPGAs"
+S Skalicky, S Lopez, M Lukowiak, C Wood - 2014 International Conference on ReConFigurable Computing and FPGAs (ReConFig14), 2014
+
+"Enabling FPGA support in Matlab based heterogeneous systems"
+S Skalicky, T Kwolek, S Lopez, M Lukowiak - 2014 International Conference on ReConFigurable Computing and FPGAs (ReConFig14), 2014
+
+"Performance modeling of pipelined linear algebra architectures on FPGAs"
+S Skalicky, S Lopez, M Lukowiak - Computers & Electrical Engineering, 2014
+
+"Cybersecurity education: Bridging the gap between hardware and software domains"
+M Lukowiak, S Radziszowski, J Vallino, C Wood - ACM Transactions on Computing Education (TOCE), 2014
+
+"Stochastic Analysis and Modeling of a Tree-Based Group Key Distribution Method in Tactical Wireless Networks"
+P Bajorski, A Kaminsky, M Kurdziel, M Lukowiak, S Radziszowski, C Wood - Journal of Telecommunications System & Management, 2014
+
+"Distributed execution of transmural electrophysiological imaging with cpu, gpu, and fpga"
+S Skalicky, S Lopez, M Lukowiak - 2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig), 2013
+
+"High level synthesis: Where are we? A case study on matrix multiplication"
+S Skalicky, C Wood, M Łukowiak, M Ryan - 2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig), 2013
+
+"Linear algebra computations in heterogeneous systems"
+S Skalicky, S López, M Łukowiak, J Letendre, D Gasser - 2013 IEEE 24th International Conference on Application-Specific Systems, Architectures and Processors, 2013
+
+"Minimizing performance overhead in memory encryption"
+MT Kurdziel, M Lukowiak, MA Sanfilippo - Journal of Cryptographic Engineering, 2013
+
+"Implantable Medical Device Security: From a Machine Learning Perspective"
+F Hu, X Du, X Hei, A Samachisa, M Lukowiak, D Zhang, S Li, J Wu, D Phillips - Telehealthcare Computing and Engineering, 2013
+
+"Performance modeling of pipelined linear algebra architectures on FPGAs"
+S Skalicky, S Lopez, M Łukowiak, J Letendre, M Ryan - Reconfigurable Computing: Architectures, Tools and Applications: 9th International Symposium, ARC 2013, Los Angeles, CA, USA, March 25-27, 2013. Proceedings 9, 2013
+
+"Developing an applied, security-oriented computing curriculum"
+M Lukowiak, A Meneely, SP Radziszowski, JR Vallino, CA Wood - 2012 ASEE Annual Conference & Exposition, 2012
+
+"Versatile FPGA architecture for skein hashing algorithm"
+DM Webster, M Lukowiak - 2011 International Conference on Reconfigurable Computing and FPGAs, 2011
+
+"Effects of GPU and CPU Loads on Performance of CUDA Applications"
+M Bobrov, R Melton, S Radziszowski, M Lukowiak - Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA), 2011
+
+"Implantable medical device communication security: pattern vs. signal encryption"
+F Hu, Q Hao, M Lukowiak - 2nd USENIX Workshop on Health Security and Privacy (HealthSec 11), 2011
+
+"Skein tree hashing on fpga"
+A Schorr, M Lukowiak - 2010 International Conference on Reconfigurable Computing and FPGAs, 2010
+
+"Methodology for simulated power analysis attacks on aes"
+K Smith, M Łukowiak - 2010-MILCOM 2010 MILITARY COMMUNICATIONS CONFERENCE, 2010
+
+"FPGA-based, multi-processor HW-SW system for Single-Chip Crypto applications"
+A Fitzgerald, M Łukowiak, M Kurdziel, C Mackey, K Smith, B Boorman, D Harris, W Skiba - 2010-MILCOM 2010 MILITARY COMMUNICATIONS CONFERENCE, 2010
+
+"Trustworthy data collection from implantable medical devices via high-speed security implementation based on IEEE 1363"
+F Hu, Q Hao, M Lukowiak, Q Sun, K Wilhelm, S Radziszowski, Y Wu - IEEE Transactions on Information Technology in Biomedicine, 2010
+
+"Low-Power Circuit Design for Cardiac Data Mining in Medical Sensor Networks"
+F Hu, A Samachisa, M Lukowiak, D Philips, Y Xiao - Handbook On Sensor Networks, 2010
+
+"NTRU-based confidential data transmission in telemedicine sensor networks"
+F Hu, X Cao, K Wilhelm, M Łukowiak, S Radziszowski - Security in Ad Hoc and Sensor Networks, 2010
+
+"Case study on FPGA performance of parallel hash functions"
+P Zalewski, M Lukowiak, S Radziszowski - Przeglad Elektrotechniczny/Electrical Review, 2010
+
+"Flexible framework for commodity FPGA cluster computing"
+J Espenshade, M Lukowiak, M Shaaban, Gv Laszewski - 2009 International Conference on Field-Programmable Technology, 2009
+
+"Scalable FPGA design and performance analysis of PHASH hashing function"
+P Zalewski, M Lukowiak, S Radziszowski - 2009 MIXDES-16th International Conference Mixed Design of Integrated Circuits & Systems, 2009
+
+"NTRU‐based sensor network security: a low‐power hardware implementation perspective"
+F Hu, K Wilhelm, M Schab, M Lukowiak, S Radziszowski, Y Xiao - Security and Communication Networks, 2009
+
+"Spaceborne Hybrid-FPGA System for Processing FTIR Data"
+D Bekker, JL Blavier, PJ Pingree, M Lukowiak, M Shaaban - NASA Tech Briefs, December 2008, 2008
+
+"FPGA implementation of a lossless to lossy bitonal image compression system"
+A Savakis, M Lukowiak, J Pyle - 2008 15th International Conference on Mixed Design of Integrated Circuits and Systems, 2008
+
+"Methodology and optimizing of multiple frame format buffering within FPGA H. 264/AVC decoder with FRExt"
+M Lukowiak, T Sttots - 2008 15th International Conference on Mixed Design of Integrated Circuits and Systems, 2008
+
+"A hybrid-fpga system for on-board data processing targeting the matmos ftir instrument"
+DL Bekker, M Lukowiak, M Shaaban, JL Blavier, PJ Pingree - 2008 IEEE Aerospace Conference, 2008
+
+"A new architecture for single-event detection & reconfiguration of SRAM-based FPGAs"
+E Kamanu, P Reddy, K Hsu, M Lukowaik - 10th IEEE High Assurance Systems Engineering Symposium (HASE'07), 2007
+
+"FPGA based accelerator for simulated annealing with greedy perturbations"
+M Lukowiak, B Cody - 2007 14th International Conference on Mixed Design of Integrated Circuits and Systems, 2007
+
+"Mixed level and mixed signal simulation using cadence pspice a/d and vhdl"
+S Rajagopalan, M Lukowiak - EMA Design and Automation Inc., Technical report, 2007
+
+"Architecture design of an H. 264/AVC decoder for real-time FPGA implementation"
+T Warsaw, M Lukowiak - Proceedings of the IEEE 17th International Conference on Application-specific Systems, Architectures and Processors, 2006
+
+"Switched-current implementation of two-dimensional DCT for image processing"
+A Handkiewicz, M Lukowiak, M Kropidlowski - 15th Annual IEEE International ASIC/SOC Conference, 2002
+
+"Computer tools for switched-current filter design"
+A Handkiewicz, M Kropidlowski, M Lukowiak - The 2002 45th Midwest Symposium on Circuits and Systems, 2002. MWSCAS-2002., 2002
+
+"Low-voltage switched-current circuits for mixed signal systems"
+A Handkiewicz, M Lukowiak, M Kropidlowski - Proceedings 14th Annual IEEE International ASIC/SOC Conference (IEEE Cat. No. 01TH8558), 2001
+
+"Switched-current filter design for image processing systems"
+A Handkiewicz, M Kropidlowski, M Lukowiak, M Bartkowiak - Proceedings of 13th Annual IEEE International ASIC/SOC Conference (Cat. No. 00TH8541), 2000
+
+"Switched-current technique for video compression and quantization"
+A Handkiewicz, M Kropidlowski, M Lukowiak - Twelfth Annual IEEE International ASIC/SOC Conference (Cat. No. 99TH8454), 1999
+
+"Properties of bilinear SI intergrators composed of a complementary memory cell"
+A Handkiewicz, P Śniatała, M Łukowiak, M Kropidłowski - Electron Technology, 1999
+
+"Low-voltage high-performance switched current memory cell"
+A Handkiewicz, P Sniatala, M Lukowiak - Proceedings. Tenth Annual IEEE International ASIC Conference and Exhibit (Cat. No. 97TH8334), 1997
+
+"High performance switched current memory cell for 2-D signal processing"
+A Handkiewicz, P Sniatala, M Lukowiak - Proc. of the European Conference of Circuit Theory and Design, ECCTD'97, 1997
+
+"SI technique application for colour image processing"
+A Handkiewicz, P Sniatala, M Domanski, M Lukowiak - Proceedings Ninth Annual IEEE International ASIC Conference and Exhibit, 1996

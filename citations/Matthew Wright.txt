@@ -1,0 +1,404 @@
+"A First Look into Targeted Clickbait and its Countermeasures: The Power of Storytelling"
+A Shrestha, A Flood, S Sohrawardi, M Wright, MN Al-Ameen - Proceedings of the CHI Conference on Human Factors in Computing Systems, 2024
+
+"Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video content"
+SJ Sohrawardi, YK Wu, A Hickerson, M Wright - Proceedings of the CHI Conference on Human Factors in Computing Systems, 2024
+
+"SoK: A critical evaluation of efficient website fingerprinting defenses"
+N Mathews, JK Holland, SE Oh, MS Rahman, N Hopper, M Wright - 2023 IEEE Symposium on Security and Privacy (SP), 2023
+
+"Poster: Towards Continual Learning for Malware Classification"
+MS Rahman, SE Coull, M Wright - IEEE Symposium on Security & Privacy, 2023
+
+"On the limitations of continual learning for malware classification"
+MS Rahman, S Coull, M Wright - Conference on Lifelong Learning Agents, 2022
+
+"Evaluating robustness of sequence-based deepfake detector models by adversarial perturbation"
+SA Shahriyar, M Wright - Proceedings of the 1st Workshop on Security Implications of Deepfakes and Cheapfakes, 2022
+
+"DeepCoFFEA: Improved flow correlation attacks on Tor via metric learning and amplification"
+SE Oh, T Yang, N Mathews, JK Holland, MS Rahman, N Hopper, M Wright - 2022 IEEE Symposium on Security and Privacy (SP), 2022
+
+"On improving the memorability of system-assigned recognition-based passwords"
+MN Al-Ameen, ST Marne, K Fatema, M Wright, S Scielzo - Behaviour & Information Technology, 2022
+
+"Gradient Frequency Modulation for Visually Explaining Video Understanding Models"
+X Lin, W Bao, M Wright, Y Kong - Proceedings of the 2021 British Machine Vision Conference (BMVC), 2021
+
+"What a shame: Smart assistant voice command fingerprinting utilizing deep learning"
+J Hyland, C Schneggenburger, N Lim, J Ruud, N Mathews, M Wright - Proceedings of the 20th Workshop on Workshop on Privacy in the Electronic Society, 2021
+
+"A look into user privacy andthird-party applications in Facebook"
+S Seng, MN Al-Ameen, M Wright - Information & Computer Security, 2021
+
+"A first look into users’ perceptions of facial recognition in the physical world"
+S Seng, MN Al-Ameen, M Wright - Computers & Security, 2021
+
+"Locimotion: Towards learning a strong authentication secret in a single session"
+J Doolani, M Wright, R Setty, ST Haque - Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 2021
+
+"GANDaLF: GAN for Data-Limited Fingerprinting."
+SE Oh, N Mathews, MS Rahman, M Wright, N Hopper - Proceedings on Privacy Enhancing Technologies (PoPETs), 2021
+
+"Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces"
+MS Rahman, M Imani, N Mathews, M Wright - IEEE Transactions on Information Forensics and Security, 2020
+
+"Detecting adversarial patches with class conditional reconstruction networks"
+P Deng, MS Rahman, M Wright - arXiv preprint arXiv:2011.05850, 2020
+
+"Weaponizing unicodes with deep learning-identifying homoglyphs with weakly labeled data"
+P Deng, C Linsky, M Wright - 2020 IEEE International Conference on Intelligence and Security Informatics (ISI), 2020
+
+"A Forensically Sound Method of Identifying Downloaders and Uploaders in Freenet"
+BN Levine, M Liberatore, B Lynn, M Wright - Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security, 2020
+
+"They Might NOT Be Giants: Crafting Black-Box Adversarial Examples Using Particle Swarm Optimization"
+R Mosli, M Wright, B Yuan, Y Pan - European Symposium on Research in Computer Security, 2020
+
+"Leveraging edges and optical flow on faces for deepfake detection"
+A Chintha, A Rao, S Sohrawardi, K Bhatt, M Wright, R Ptucha - IEEE International Joint Conference on Biometrics (IJCB), 2020
+
+"Tik-Tok: The utility of packet timing in website fingerprinting attacks"
+MS Rahman, P Sirinam, N Mathews, KG Gangadhara, M Wright - Proceedings on Privacy Enhancing Technologies (PoPETs), 2020
+
+"Recurrent convolutional structures for audio spoof and video deepfake detection"
+A Chintha, B Thai, SJ Sohrawardi, K Bhatt, A Hickerson, M Wright, R Ptucha - IEEE Journal of Selected Topics in Signal Processing, 2020
+
+"DeFaking Deepfakes: Understanding Journalists’ Needs for Deepfake Detection"
+SJ Sohrawardi, S Seng, A Chintha, B Thai, A Hickerson, R Ptucha, M Wright - Proceedings of SOUPS 2020 Poster Session, 2020
+
+"Triplet fingerprinting: More practical and portable website fingerprinting with n-shot learning"
+P Sirinam, N Mathews, MS Rahman, M Wright - Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2019
+
+"Poster: Evaluating security metrics for website fingerprinting"
+N Mathews, MS Rahman, M Wright - Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2019
+
+"Poster: Understanding User's Decision to Interact with Potential Phishing Posts on Facebook using a Vignette Study"
+S Seng, H Kocabas, MN Al-Ameen, M Wright - Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2019
+
+"Poster: Towards robust open-world detection of deepfakes"
+SJ Sohrawardi, A Chintha, B Thai, S Seng, A Hickerson, R Ptucha, M Wright - Proceedings of the 2019 ACM SIGSAC conference on computer and communications security, 2019
+
+"Poster: video fingerprinting in tor"
+MS Rahman, N Matthews, M Wright - Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2019
+
+"Modified relay selection and circuit selection for faster Tor"
+M Imani, M Amirabadi, M Wright - IET Communications, 2019
+
+"Understanding Feature Discovery in Website Fingerprinting Attacks"
+N Mathews, P Sirinam, M Wright - 2018 IEEE Western New York Image and Signal Processing Workshop (WNYISPW), 2018
+
+"Deep fingerprinting: Undermining website fingerprinting defenses with deep learning"
+P Sirinam, M Imani, M Juarez, M Wright - ACM Conference on Computer and Communications Security (CCS 2018), 2018
+
+"Poster: Adversarial Traces for Website Fingerprinting Defense"
+M Imani, MS Rahman, M Wright - Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (CCS '18), 2018
+
+"Understanding users’ decision of clicking on posts in facebook with implications for phishing"
+S Seng, MN Al-Ameen, M Wright - Workshop on Technology and Consumer Protection (ConPro 18), 2018
+
+"Poster: Using Packet Timing in Website Fingerprinting"
+MS Rahman, KG Gangadhara, P Sirinam, M Wright - IEEE Symposium on Security and Privacy (S&P '18), 2018
+
+"Poster: Website Fingerprinting Attacks with Timing-based Features using Capsule Networks"
+P Sirinam, MS Rahman, KG Gangadhara, M Wright - IEEE Symposium on Security and Privacy (S&P '18), 2018
+
+"Towards predicting efficient and anonymous Tor circuits"
+A Barton, M Imani, J Ming, M Wright - 27th USENIX Security Symposium (USENIX Security '18), 2018
+
+"Guard Sets in Tor using AS Relationships."
+M Imani, A Barton, M Wright - Proceedings on Privacy Enhancing Technologies (PoPETs), 2018
+
+"LiLAC: Lightweight low-latency anonymous chat"
+JP Podolanko, R Pobala, H Mucklai, G Danezis, M Wright - 2017 IEEE Symposium on Privacy-Aware Computing (PAC), 2017
+
+"A Wide-Area Testbed for Tor"
+R Dingledine, D Goulet, P Mittal, N Feamster, R Jansen, M Wright - Hot Topics in Privacy Enhancing Technologies (HotPETs), 2017
+
+"Learning System-assigned Passwords: A Preliminary Study on the People with Learning Disabilities"
+ST Marne, MN Al-Ameen, M Wright - Proc. Workshop on Inclusive Privacy and Security (WIPS), 2017
+
+"Exploring the potential of GeoPass: A geographic location-password scheme"
+MN Al-Ameen, M Wright - Interacting with Computers, 2017
+
+"The evaluation of circuit selection methods on Tor"
+M Imani, M Amirabadi, M Wright - arXiv preprint arXiv:1706.06457, 2017
+
+"Poster: Experimental Evaluation of Website Fingerprinting using Deep Learning"
+P Sirinam, M Imani, M Wright - Proc. IEEE Symposium on Security and Privacy (Oakland), 2017
+
+"Poster: Phishing on Facebook"
+S Seng, MN Al-Ameen, M Wright - Proc. IEEE Symposium on Security and Privacy (Oakland), May 2017, 2017
+
+"Poster: Fingerprinting Hidden Service Circuits from a Tor Middle Relay"
+M Juarez, R Jansen, R Gálvez, T Elahi, C Diaz, M Wright - Proc. IEEE Symposium on Security and Privacy (Oakland), 2017
+
+"Poster: Guard Sets in Tor Using AS Relationships"
+M Imani, A Barton, M Wright - Proc. IEEE Symposium on Security and Privacy (Oakland), 2017
+
+"Poster: PredicTor: Predicting Fast Circuits for A Faster User Experience in Tor"
+A Barton, M Imani, J Ming, M Wright - Proc. IEEE Symposium on Security and Privacy (Oakland), 2017
+
+"Countering Double-Spend Attacks on Bitcoin Fast-Pay Transactions"
+JP Podolanko, J Ming, M Wright - Proc. Workshop on Technology and Consumer Protection (ConPro), 2017
+
+"Statistical Detection of Downloaders in Freenet"
+BN Levine, M Liberatore, B Lynn, M Wright - Proc. IEEE International Workshop on Privacy Engineering (IWPE), 2017
+
+"(Work in Progress) An Insight into the Authentication Performance and Security Perception of Older Users"
+S Seng, S Ahmed, MN Al-Ameen, M Wright - Proc. Usable Security Mini-Conference (USEC), 2017
+
+"Distributed detection of sensor worms using sequential analysis and remote software attestations"
+J Ho, M Wright - IEEE Access, 2017
+
+"Learning system-assigned passwords (up to 56 bits) in a single registration session with the methods of cognitive psychology"
+ST Haque, MN Al-Ameen, S Scielzo, M Wright - Usable Security (USEC), 2017
+
+"Split-Pipeline Model for Worm Propagation over IoT"
+M Choi, J Jang, Y Kwon, S Lim, J Ho, M Wright - Proceedings of the 6th International Conference on the Internet of Things, 2016
+
+"Leveraging autobiographical memory for two-factor online authentication"
+MN Al-Ameen, SMT Haque, M Wright - Information & Computer Security, 2016
+
+"WTF-PAD: Toward an Efficient Website Fingerprinting Defense"
+M Juarez, M Imani, M Perry, C Diaz, M Wright - ESORICS, 2016
+
+"iPersea: Towards improving the Sybil-resilience of social DHT"
+MN Al-Ameen, M Wright - Journal of Network and Computer Applications, 2016
+
+"DeNASA: Destination-naive AS-awareness in anonymous communications"
+A Barton, M Wright - Proceedings on Privacy Enhancing Technologies (PoPETs), 2016
+
+"Towards Improving the Memorability of System-assigned Random Passwords"
+MN Al-Ameen, SMK Fatema, S Ahmed, S Seng, M Wright, S Scielzo - Who Are You?! Adventures in Authentication (WAY), 2016
+
+"Exploiting temporal dynamics in sybil defenses"
+C Liu, P Gao, M Wright, P Mittal - Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security (CCS '15), 2015
+
+"Towards Making Random Passwords Memorable: Leveraging Users' Cognitive Ability Through Multiple Cues"
+MN Al-Ameen, S Scielzo, M Wright - ACM Conference on Human Factors in Computing Systems (CHI), 2015
+
+"Leveraging real-life facts to make random passwords more memorable"
+MN Al-Ameen, K Fatema, M Wright, S Scielzo - Computer Security--ESORICS 2015: 20th European Symposium on Research in Computer Security, Vienna, Austria, September 21-25, 2015, Proceedings, Part II 20, 2015
+
+"The impact of cues and user interaction on the memorability of system-assigned recognition-based graphical passwords"
+MN Al-Ameen, K Fatema, M Wright, S Scielzo - Eleventh Symposium On Usable Privacy and Security (SOUPS 2015), 2015
+
+"Multiple-Password Interference in the GeoPass User Authentication Scheme"
+MN Al-Ameen, M Wright - NDSS Workshop on Usable Security (USEC), 2015
+
+"iPersea: The Improved Persea with Sybil Detection Mechanism"
+MN Al-Ameen, M Wright - arXiv e-prints, 2014
+
+"Hierarchy of users׳ web passwords: Perceptions, practices and susceptibilities"
+ST Haque, M Wright, S Scielzo - International Journal of Human-Computer Studies, 2014
+
+"A Comprehensive Study of the GeoPass User Authentication Scheme"
+MN Al-Ameen, M Wright - arXiv e-prints, 2014
+
+"QA: Towards the solution of usability-security tension in user authentication"
+MN Al-Ameen, S Haque, M Wright - arXiv preprint arXiv:1407.7277, 2014
+
+"Dovetail: Stronger anonymity in next-generation Internet routing"
+J Sankey, M Wright - Privacy Enhancing Technologies Symposium (PETS 2014), 2014
+
+"Applying Psychometrics to Measure User Comfort when Constructing a Strong Password"
+ST Haque, S Scielzo, M Wright - Symposium on Usable Privacy and Security (SOUPS 2014), 2014
+
+"QA: Towards the Solution of Usability-Security Tension in User Authentication"
+MN Al-Ameen, ST Haque, M Wright - arXiv e-prints, 2014
+
+"Mobile application security"
+Y Lin, C Huang, M Wright, G Kambourakis - Computer, 2014
+
+"Design and evaluation of Persea, a Sybil-resistant DHT"
+MN Al-Ameen, M Wright - ACM Symposium on Information, Computer and Communications Security (ASIACCS 2014), 2014
+
+"Using Data Mules to Preserve Source Location Privacy in Wireless Sensor Networks"
+M Raj, N Li, D Liu, M Wright, SK Das - Pervasive and Mobile Computing, 2014
+
+"Fast and energy-efficient technique for jammed region mapping in wireless sensor networks"
+N Rahman, M Wright, D Liu - arXiv preprint arXiv:1401.7002, 2014
+
+"Password Construction and Management Strategies of the Online Users of Bangladesh: A Demographic Comparison with the Users of the First-World Countries"
+SMT Haque, T Alam, M Al-Rasheed, M Wright - Workshop on Human and Technology (WHAT), 2013
+
+"Passwords and interfaces: Towards creating stronger passwords by using mobile phone handsets"
+S Haque, M Wright, S Scielzo - ACM Workshop on Security and Privacy in Smartphones & Mobile Devices (SPSM), 2013
+
+"Mitigating jamming attacks in wireless broadcast systems"
+Q Dong, D Liu, M Wright - Wireless Networks, 2013
+
+"ReDS: A Framework for Reputation-Enhanced DHTs"
+R Akavipat, M Al-Ameen, A Kapadia, Z Rahman, R Schlegel, M Wright - IEEE Transactions on Parallel and Distributed Systems (TPDS), 2013
+
+"Pisces: Anonymous Communication Using Social Networks"
+P Mittal, M Wright, N Borisov - ISOC Network and Distributed Systems Security Symposium (NDSS 2013), 2013
+
+"Mimic: An active covert channel that evades regularity-based detection"
+K Kothari, M Wright - Computer Networks, 2013
+
+"Persea: A Sybil-resistant social DHT"
+MN Al-Ameen, M Wright - ACM Conference on Data and Application Security and Privacy (CODASPY 2013), 2013
+
+"A study of user password strategy for multiple accounts"
+SMT Haque, M Wright, S Scielzo - ACM Conference on Data and Application Security and Privacy (CODASPY 2013), 2013
+
+"Poster: Simulation Results"
+N Rahman, M Wright, J Davis, E Manuel - UT Arlington Research Experience for Teachers 600, 1000, 2013
+
+"Distributed Detection of Replica Node Attacks"
+J Ho, D Liu, M Wright, SK Das - Distributed Sensor Networks: Sensor Networking and Applications (2nd Ed.), 2013
+
+"Privacy enhancing technologies"
+ED Cristofaro, M Wright - Springer Berlin Heidelberg, 2013
+
+"SDA-2H: Understanding the Value of Background Cover Against Statistical Disclosure"
+MN Al-Ameen, C Gatz, M Wright - Journal of Networks, 2012
+
+"CRISP: Collusion-resistant incentive-compatible routing and forwarding in opportunistic networks"
+U Sadiq, M Kumar, M Wright - ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM 2012), 2012
+
+"ZoneTrust: Fast zone-based node compromise detection and revocation in wireless sensor networks using sequential hypothesis testing"
+J Ho, M Wright, SK Das - IEEE Transactions on Dependable and Secure Computing (TDSC), 2012
+
+"Privacy Enhancing Technologies: 12th International Symposium, PETS 2012, Vigo, Spain, July 11-13, 2012, Proceedings"
+S Fischer-Hübner, M Wright - Springer, 2012
+
+"Fast jamming detection in sensor networks"
+K Siddhabathula, Q Dong, D Liu, M Wright - 2012 IEEE International Conference on Communications (ICC), 2012
+
+"Selective Grouping Algorithm For Low Latency Anonymous Systems"
+V Gupta, M Wright - University of Texas at Arlington, 2012
+
+"Distributed detection of mobile malicious node attacks in wireless sensor networks"
+J Ho, M Wright, SK Das - Ad Hoc Networks, 2012
+
+"Protecting location privacy in sensor networks against a global eavesdropper"
+K Mehta, D Liu, M Wright - IEEE Transactions on Mobile Computing (TMC), 2012
+
+"Using data mules to preserve source location privacy in wireless sensor networks"
+N Li, M Raj, D Liu, M Wright, SK Das - International Conference on Distributed Computing and Networking (ICDCN 2012), 2012
+
+"EnPassant: Anonymous routing for disruption‐tolerant networks with applications in assistive environments"
+G Vakde, R Bibikar, Z Le, M Wright - Security and Communication Networks, 2011
+
+"An analysis of the statistical disclosure attack and receiver-bound cover"
+N Mallesh, M Wright - Computers & Security, 2011
+
+"Poster: Shaping network topology for privacy and performance"
+N Mallesh, M Wright - ACM Conference on Computer and Communications Security (CCS 2011), 2011
+
+"#h00t: Censorship resistant microblogging"
+D Bachrach, C Nunu, DS Wallach, M Wright - arXiv preprint arXiv:1109.6874, 2011
+
+"Economic incentives for protecting digital rights online"
+NB Margolin, BN Levine, JD Miller, M Wright - Electronic Commerce Research and Applications, 2011
+
+"Fast detection of mobile replica node attacks in wireless sensor networks using sequential hypothesis testing"
+J Ho, M Wright, SK Das - IEEE Transactions on Mobile Computing (TMC), 2011
+
+"Liquid: A detection-resistant covert timing channel based on IPD shaping"
+RJ Walls, K Kothari, M Wright - Computer Networks, 2011
+
+"The dynamics of Salsa: A robust structured P2P system"
+SM Khan, N Mallesh, A Nambiar, M Wright - Network Protocols and Algorithms, 2011
+
+"Empirical tests of anonymous voice over IP"
+M Liberatore, B Gurung, BN Levine, M Wright - Journal of Network and Computer Applications, 2011
+
+"Selective cross correlation in passive timing analysis attacks against low-latency mixes"
+T Abraham, M Wright - IEEE Global Telecommunications Conference (GLOBECOM 2010), 2010
+
+"Privacy protection in location-sharing services"
+F Xu, J He, M Wright, J Xu - 2010 International Conference on Computer Application and System Modeling (ICCASM 2010), 2010
+
+"ReDS: Reputation for directory services in P2P systems"
+R Akavipat, A Dhadphale, A Kapadia, M Wright - ACM Workshop on Insider Threats (WIT 2010), 2010
+
+"Towards modeling the behavior of physical intruders in a region monitored by a wireless sensor network"
+P Krishnamoorthy, M Wright - Proceedings of the 3rd ACM Workshop on Artificial Intelligence and Security (AISec '10), 2010
+
+"Evading stepping-stone detection under the cloak of streaming media with SNEAK"
+JD Padhye, K Kothari, M Venkateshaiah, M Wright - Computer Networks, 2010
+
+"The reverse statistical disclosure attack"
+N Mallesh, M Wright - Information Hiding (IH 2010), 2010
+
+"ReDS: Reputation for directory services in P2P systems"
+M Wright, A Kapadia, M Kumar, A Dhadphale - Workshop on Cyber Security and Information Intelligence Research (CSIIR 2010), 2010
+
+"ReSCo: A middleware component for reliable service composition in pervasive systems"
+B Lagesse, M Kumar, M Wright - IEEE International Conference on Pervasive Computing and Communications (PERCOM 2010 Workshops), 2010
+
+"Distributed detection of replica node attacks with group deployment knowledge in wireless sensor networks"
+J Ho, D Liu, M Wright, SK Das - Ad Hoc Networks, 2009
+
+"ZoneTrust: Fast zone-based node compromise detection and revocation in sensor networks using sequential analysis"
+J Ho, M Wright, SK Das - IEEE International Symposium on Reliable Distributed Systems (SRDS 2009), 2009
+
+"anon.next: A framework for privacy in the next-generation Internet"
+M Wright - Hot Topics in Privacy Enhancing Technologies (HotPETs), 2009
+
+"PEON: Privacy-enhanced opportunistic networks with applications in assistive environments"
+Z Le, G Vakde, M Wright - Workshop on Privacy and Security in Pervasive e-Health and Assistive Environments (PSPAE 2009), 2009
+
+"The design and lessons of the ASCENT security teaching lab"
+J Ho, N Mallesh, M Wright - Proceedings of the 13th Colloquium for Information Systems Security Education, 2009
+
+"Fast detection of replica node attacks in mobile sensor networks using sequential analysis"
+J Ho, M Wright, SK Das - IEEE INFOCOM 2009, 2009
+
+"Distributed detection of replicas with deployment knowledge in wireless sensor networks"
+J Ho, D Liu, M Wright, SK Das - IEEE PerCom Workshop on Sensor Networks and Systems for Pervasive Computing (PerSeNS), 2009
+
+"DTT: A distributed trust toolkit for pervasive systems"
+B Lagesse, M Kumar, JM Paluska, M Wright - IEEE International Conference on Pervasive Computing and Communications (PerCom 2009), 2009
+
+"Fast detection of node replication attacks in mobile sensor networks"
+J Ho, M Wright, SK Das - IEEE ICNP, 2008
+
+"AREX: An adaptive system for secure resource access in mobile P2P systems"
+B Lagesse, M Kumar, M Wright - IEEE International Conference on Peer-to-Peer Computing (P2P 2008), 2008
+
+"Studying timing analysis on the Internet with SubRosa"
+H Daginawala, M Wright - Privacy Enhancing Technologies Symposium (PETS 2008), 2008
+
+"Passive-logging attacks against anonymous communications systems"
+MK Wright, M Adler, BN Levine, C Shields - ACM Transactions on Information and System Security (TISSEC), 2008
+
+"Location privacy in sensor networks against a global eavesdropper"
+K Mehta, D Liu, M Wright - IEEE International Conference on Network Protocols (ICNP 2007), 2007
+
+"Countering statistical disclosure with receiver-bound cover traffic"
+N Mallesh, M Wright - European Symposium on Research in Computer Security (ESORICS 2007), 2007
+
+"Salsa"
+A Nambiar, M Wright - Proceedings of the 13th ACM conference on Computer and communications security, 2006
+
+"Salsa: A structured approach to large-scale anonymity"
+A Nambiar, M Wright - ACM Conference on Computer and Communications Security (CCS 2006), 2006
+
+"Building reliable mix networks with fair exchange"
+MK Reiter, X Wang, M Wright - Applied Cryptography and Network Security: Third International Conference, ACNS 2005, New York, NY, USA, June 7-10, 2005. Proceedings 3, 2005
+
+"The predecessor attack: An analysis of a threat to anonymous communications systems"
+MK Wright, M Adler, BN Levine, C Shields - ACM Transactions on Information and System Security (TISSEC), 2004
+
+"Analysis of an incentives-based secrets protection system"
+NB Margolin, MK Wright, BN Levine - ACM Workshop on Digital Rights Management (DRM 2004), 2004
+
+"SPIES: Secret protection incentive-based escrow system"
+NB Margolin, M Wright, BN Levine - Proc. P2PEcon Workshop, 2004
+
+"Guardian: A framework for privacy control in untrusted environments"
+NB Margolin, M Wright, BN Levine - June 2004. Technical Report 04-37 (University of Massachusetts, Amherst), 2004
+
+"Timing attacks in low-latency mix systems"
+BN Levine, MK Reiter, C Wang, M Wright - Financial Cryptography (FC 2004), 2004
+
+"Defending anonymous communications against passive logging attacks"
+M Wright, M Adler, BN Levine, C Shields - IEEE Symposium on Security and Privacy (S&P 2003), 2003
+
+"An analysis of the degradation of anonymous protocols"
+M Wright, M Adler, BN Levine, C Shields - ISOC Symposium on Network and Distributed Systems Security (NDSS 2002), 2002

@@ -1,0 +1,215 @@
+"Community Needs and Assets: A Computational Analysis of Community Conversations"
+MTA Chowdhury, N Sharma, AR KhudaBukhsh - Proceedings of the International AAAI Conference on Web and Social Media, 2024
+
+"From Bollywood Son Preference to Moral Policing on Women in Iran-A 360° View of Gender Bias"
+AR Khudabukhsh - Companion Proceedings of the ACM on Web Conference 2024, 2024
+
+"Infrastructure ombudsman: Mining future failure concerns from structural disaster response"
+MTA Chowdhury, S Datta, N Sharma, AR KhudaBukhsh - Proceedings of the ACM on Web Conference 2024, 2024
+
+"Quantifying Political Polarization through the Lens of Machine Translation and Vicarious Offense"
+AR KhudaBukhsh - Proceedings of the AAAI Conference on Artificial Intelligence, 2024
+
+"Novax or Novak? Estimating Social Media Stance towards Celebrity Vaccine Hesitancy (Student Abstract)"
+M Hota, A Khorramrouz, AR KhudaBukhsh - Proceedings of the AAAI Conference on Artificial Intelligence, 2024
+
+"Community Needs and Assets: A Computational Analysis of Community Conversations"
+MTA Chowdhury, N Sharma, AR KhudaBukhsh - arXiv e-prints, 2024
+
+"Infrastructure Ombudsman: Mining Future Failure Concerns from Structural Disaster Response"
+MTA Chowdhury, S Datta, N Sharma, AR KhudaBukhsh - arXiv e-prints, 2024
+
+"Quantifying the Transience of Social Web Datasets"
+MA Ansari, J Sidhpura, VK Mandal, AR Khudabukhsh - Proceedings of the International Conference on Advances in Social Networks Analysis and Mining, 2023
+
+"Down the Toxicity Rabbit Hole: A Novel Framework to Bias Audit Large Language Models"
+A Dutta, A Khorramrouz, S Dutta, AR KhudaBukhsh - arXiv e-prints, 2023
+
+"Disentangling societal inequality from model biases: gender inequality in divorce court proceedings"
+S Dutta, P Srivastava, V Solunke, S Nath, AR KhudaBukhsh - arXiv preprint arXiv:2307.10200, 2023
+
+"For women, life, freedom: a participatory AI-based social web analysis of a watershed moment in Iran's gender struggles"
+A Khorramrouz, S Dutta, AR KhudaBukhsh - arXiv preprint arXiv:2307.03764, 2023
+
+"Subjective Crowd Disagreements for Subjective Data: Uncovering Meaningful CrowdOpinion with Population-level Learning"
+TC Weerasooriya, S Luger, S Poddar, AR KhudaBukhsh, CM Homan - arXiv preprint arXiv:2307.10189, 2023
+
+"Subjective Crowd Disagreements for Subjective Data: Uncovering Meaningful CrowdOpinion with Population-level Learning"
+TC Weerasooriya, S Luger, S Poddar, AR KhudaBukhsh, CM Homan - arXiv e-prints, 2023
+
+"Disagreement Matters: Preserving Label Diversity by Jointly Modeling Item and Annotator Label Distributions with DisCo"
+TC Weerasooriya, A Ororbia, R Bhensadadia, A KhudaBukhsh, C Homan - Findings of the Association for Computational Linguistics: ACL 2023, 2023
+
+"[SRW] Gender Stereotyping in Popular Children's Videos"
+TS Roy, M Tupakula, S Kumar, A Khudabukhsh - The 61st Annual Meeting Of The Association For Computational Linguistics, 2023
+
+"Auditing and robustifying COVID-19 misinformation datasets via anticontent sampling"
+CH Yoo, AR KhudaBukhsh - Proceedings of the AAAI Conference on Artificial Intelligence, 2023
+
+"Partisan us news media representations of syrian refugees"
+K Chen, M Babaeianjelodar, Y Shi, K Janmohamed, R Sarkar, I Weber, T Davidson, MD Choudhury, J Huang, S Yadav, A KhudaBukhsh, CT Bauch, P Nakov, O Papakyriakopoulos, K Saha, K Khoshnood, N Kumar - Proceedings of the International AAAI Conference on Web and Social Media, 2023
+
+"Quantifying the Academic Quality of Children's Videos using Machine Comprehension"
+S Kumar, A Khudabukhsh - arXiv preprint arXiv:2303.17201, 2023
+
+"Vicarious offense and noise audit of offensive speech classifiers: unifying human and machine disagreement on what is offensive"
+TC Weerasooriya, S Dutta, T Ranasinghe, M Zampieri, CM Homan, AR KhudaBukhsh - arXiv preprint arXiv:2301.12534, 2023
+
+"Down the Toxicity Rabbit Hole: Investigating PaLM 2 Guardrails"
+A Khorramrouz, S Dutta, A Dutta, AR KhudaBukhsh - arXiv preprint arXiv:2309.06415, 2023
+
+"Vicarious offense and noise audit of offensive speech classifiers"
+TC Weerasooriya, S Dutta, T Ranasinghe, M Zampieri, CM Homan, AR KhudaBukhsh - arXiv preprint arXiv:2301.12534, 2023
+
+"Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive"
+TC Weerasooriya, S Dutta, T Ranasinghe, M Zampieri, CM Homan, AR KhudaBukhsh - arXiv e-prints, 2023
+
+"US news and social media framing around vaping"
+K Chen, M Babaeianjelodar, Y Shi, R Aanegola, LY Cheung, PI Nakov, S Yadav, A Bancroft, AR KhudaBukhsh, MD Choudhury, FL Altice, N Kumar - International Conference on Computational Data and Social Networks, 2022
+
+"Harnessing Unsupervised Word Translation to Address Resource Inequality for Peace and Health"
+AR KhudaBukhsh, S Palakodety, TM Mitchell - International Conference on Social Informatics, 2022
+
+"Linguistic and News-Sharing Polarization During the 2019 South American Protests"
+R Villa-Cox, HS Zeng, AR KhudaBukhsh, KM Carley - International Conference on Social Informatics, 2022
+
+"Linguistic and News-Sharing Polarization During the 2019 South American Protests"
+HS Zeng, AR KhudaBukhsh, KM Carley - Social Informatics: 13th International Conference, SocInfo 2022, Glasgow, UK, October 19–21, 2022, Proceedings, 2022
+
+"How is vaping framed on online knowledge dissemination platforms?"
+K Chen, Y Shi, J Luo, J Jiang, S Yadav, MD Choudhury, AR Khudabukhsh, M Babaeianjelodar, FL Altice, N Kumar - International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation, 2022
+
+"Revisiting queer minorities in lexicons"
+K Ramesh, S Kumar, A Khudabukhsh - Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), 2022
+
+"‘Beach’to ‘Bitch’: Inadvertent Unsafe Transcription of Kids’ Content on YouTube"
+K Ramesh, AR KhudaBukhsh, S Kumar - Proceedings of the AAAI Conference on Artificial Intelligence, 2022
+
+"Fringe news networks: Dynamics of us news viewership following the 2020 presidential election"
+AR KhudaBukhsh, R Sarkar, MS Kamlet, TM Mitchell - Proceedings of the 14th ACM Web Science Conference 2022, 2022
+
+"Gender bias, social bias, and representation: 70 years of BHollywood"
+K Khadilkar, AR KhudaBukhsh, TM Mitchell - Patterns, 2022
+
+"Conversational Inequality Through the Lens of Political Interruption."
+CH Yoo, J Wang, Y Luo, K Khadilkar, AR KhudaBukhsh - IJCAI, 2022
+
+"A Murder and Protests, the Capitol Riot, and the Chauvin Trial: Estimating Disparate News Media Stance."
+S Dutta, B Li, DS Nagin, AR KhudaBukhsh - IJCAI, 2022
+
+"Low Resource Social Media Text Mining"
+S Palakodety, AR KhudaBukhsh, G Jayachandran - Springer, 2021
+
+"Empathy and hope: resource transfer to model inter-country social media dynamics"
+CH Yoo, S Palakodety, R Sarkar, AR KhudaBukhsh - arXiv preprint arXiv:2106.12044, 2021
+
+"Are chess discussions racist? an adversarial hate speech data set (student abstract)"
+R Sarkar, AR KhudaBukhsh - Proceedings of the AAAI Conference on Artificial Intelligence, 2021
+
+"An unfair affinity toward fairness: characterizing 70 years of social biases in BHollywood (student abstract)"
+K Khadilkar, AR KhudaBukhsh - Proceedings of the AAAI Conference on Artificial Intelligence, 2021
+
+"We don't speak the same language: Interpreting polarization through machine translation"
+AR KhudaBukhsh, R Sarkar, MS Kamlet, T Mitchell - Proceedings of the AAAI Conference on Artificial Intelligence, 2021
+
+"Exploring polarization of users behavior on twitter during the 2019 south american protests"
+R Villa-Cox, AR KhudaBukhsh, KM Carley - arXiv preprint arXiv:2104.05611, 2021
+
+"Semantic Sampling"
+S Palakodety, AR KhudaBukhsh, G Jayachandran, S Palakodety, AR KhudaBukhsh, G Jayachandran - Low Resource Social Media Text Mining, 2021
+
+"A Rapid Tour of NLP"
+S Palakodety, AR KhudaBukhsh, G Jayachandran, S Palakodety, AR KhudaBukhsh, G Jayachandran - Low Resource Social Media Text Mining, 2021
+
+"Low Resource Machine Translation"
+S Palakodety, AR KhudaBukhsh, G Jayachandran, S Palakodety, AR KhudaBukhsh, G Jayachandran - Low Resource Social Media Text Mining, 2021
+
+"The Problem Setting"
+S Palakodety, AR KhudaBukhsh, G Jayachandran, S Palakodety, AR KhudaBukhsh, G Jayachandran - Low Resource Social Media Text Mining, 2021
+
+"Language Identification"
+S Palakodety, AR KhudaBukhsh, G Jayachandran, S Palakodety, AR KhudaBukhsh, G Jayachandran - Low Resource Social Media Text Mining, 2021
+
+"The non-native speaker aspect: Indian English in social media"
+R Sarkar, S Mahinder, A KhudaBukhsh - Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020), 2020
+
+"Annotation efficient language identification from weak labels"
+S Palakodety, A Khudabukhsh - Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020), 2020
+
+"Discovering bilingual lexicons in polyglot word embeddings"
+AR KhudaBukhsh, S Palakodety, TM Mitchell - arXiv preprint arXiv:2008.13347, 2020
+
+"Voice for the voiceless: Active sampling to detect comments supporting the rohingyas"
+S Palakodety, AR KhudaBukhsh, JG Carbonell - Proceedings of the AAAI conference on artificial intelligence, 2020
+
+"Social Media Attributions in the Context of Water Crisis"
+R Sarkar, S Mahinder, H Sarkar, A KhudaBukhsh - Empirical Methods in Natural Language Processing (EMNLP), 2020
+
+"Mining insights from large-scale corpora using fine-tuned language models"
+S Palakodety, AR KhudaBukhsh, JG Carbonell - ECAI 2020, 2020
+
+"The refugee experience online: Surfacing positivity amidst hate"
+S Palakodety, AR KhudaBukhsh, JG Carbonell - ECAI 2020, 2020
+
+"On NLP methods robust to noisy Indian social media data"
+AR KhudaBukhsh, S Palakodety, JG Carbonell - AI for Social Good Workshop, 2020
+
+"Hope speech detection: A computational analysis of the voice of peace"
+S Palakodety, AR KhudaBukhsh, JG Carbonell - ECAI 2020, 2020
+
+"Toward Reciprocity-aware Distributed Learning in Referral Networks"
+AR KhudaBukhsh, JG Carbonell - PRICAI 2019: Trends in Artificial Intelligence: 16th Pacific Rim International Conference on Artificial Intelligence, Cuvu, Yanuca Island, Fiji, August 26–30, 2019, Proceedings, Part II 16, 2019
+
+"Endorsement in referral networks"
+AR KhudaBukhsh, JG Carbonell - European Conference on Multi-Agent Systems, 2018
+
+"Market-aware proactive skill posting"
+AR KhudaBukhsh, JW Hong, JG Carbonell - International Symposium on Methodologies for Intelligent Systems, 2018
+
+"Expertise Drift in Referral Networks"
+AR KhudaBukhsh, JG Carbonell - 17th International Conference on Autonomous Agents and MultiAgent Systems, 2018
+
+"Incentive compatible proactive skill posting in referral networks"
+AR KhudaBukhsh, JG Carbonell, PJ Jansen - European conference on multi-agent systems, 2017
+
+"Distributed Learning in Referral Networks"
+AR KhudaBukhsh - University of Massachusetts, Amherst, 2017
+
+"Robust Learning in Expert Networks: A Comparative Analysis"
+A KhudaBukhsh, J Carbonell, P Jansen - Foundations of Intelligent Systems. Lecture Notes in Computer Science., 2017
+
+"Proactive-DIEL in Evolving Referral Networks"
+AR KhudaBukhsh, JG Carbonell, PJ Jansen - European conference on multi-agent systems, 2016
+
+"Distributed learning in expert referral networks"
+AR KhudaBukhsh, PJ Jansen, JG Carbonell - Proceedings of the Twenty-second European Conference on Artificial Intelligence, 2016
+
+"SATenstein: Automatically building local search SAT solvers from components"
+AR KhudaBukhsh, L Xu, HH Hoos, K Leyton-Brown - Artificial Intelligence, 2016
+
+"Quantifying the similarity of algorithm configurations"
+L Xu, AR KhudaBukhsh, HH Hoos, K Leyton-Brown - Learning and Intelligent Optimization: 10th International Conference, LION 10, Ischia, Italy, May 29--June 1, 2016, Revised Selected Papers 10, 2016
+
+"Proactive skill posting in referral networks"
+AR KhudaBukhsh, JG Carbonell, PJ Jansen - AI 2016: Advances in Artificial Intelligence: 29th Australasian Joint Conference, Hobart, TAS, Australia, December 5-8, 2016, Proceedings 29, 2016
+
+"Building effective query classifiers: a case study in self-harm intent detection"
+AR KhudaBukhsh, PN Bennett, RW White - Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, 2015
+
+"Detecting non-adversarial collusion in crowdsourcing"
+A KhudaBukhsh, J Carbonell, P Jansen - Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, 2014
+
+"SATenstein: Automatically building local search SAT solvers from components"
+KA R., X Lin, HH H., L Kevin - International Joint Conference on Artificial Intelligence (IJCAI), 2009
+
+"SATenstein: Automatically building local search SAT solvers from components"
+AR KhudaBukhsh, L Xu, HH Hoos, K Leyton-Brown - International Joint Conference on Artificial Intelligence (IJCAI), 2009
+
+"SATenstein: Automatically building local search SAT solvers from components"
+AR KhudaBukhsh, L Xu, HH Hoos, K Leyton-Brown - International Joint Conference on Artificial Intelligence, 2009
+
+"A Survey on Supermodular Games"
+AR KhudaBukhsh - British Columbia, Canada: University of British Columbia, 2006
+
+"XOR Design at Nanoscale with Quantum-DOT Cellular Automata"
+S Roy, S Mahinder, A Khudabukhsh - Reason-A Technical Journal (Formerly Reason-A Technical Magazine), 2005

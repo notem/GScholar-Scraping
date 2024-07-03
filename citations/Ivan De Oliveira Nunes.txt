@@ -1,0 +1,155 @@
+"Towards Browser Controls to Protect Cookies from Malicious Extensions"
+L Tyler, IDO Nunes - arXiv preprint arXiv:2405.06830, 2024
+
+"Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution"
+N Rattanavipanon, IDO Nunes - arXiv preprint arXiv:2404.06721, 2024
+
+"Towards Remotely Verifiable Software Integrity in Resource-Constrained IoT Devices"
+IDO Nunes, S Jakkamsetti, N Rattanavipanon, G Tsudik - IEEE Communications Magazine, 2024
+
+"UCCA: A Verified Architecture for Compartmentalization of Untrusted Code Sections in Resource-Constrained Devices"
+L Tyler, IDO Nunes - arXiv preprint arXiv:2312.02348, 2023
+
+"DiCA: A Hardware-Software Co-Design for Differential Check-Pointing in Intermittently Powered Devices"
+AJ Neto, A Caulfield, C Alvares, IDO Nunes - ACM/IEEE ICCAD, 2023
+
+"PARseL: Towards a Verified Root-of-Trust over seL4"
+IDO Nunes, S Hwang, S Jakkamsetti, N Rattanavipanon, G Tsudik - ACM/IEEE ICCAD, 2023
+
+"ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control Flow Attestation"
+A Caulfield, N Rattanavipanon, IDO Nunes - USENIX Security, 2023
+
+"ISC-FLAT: On the Conflict Between Control Flow Attestation and Real-Time Operations"
+AJ Neto, IDO Nunes - IEEE RTAS, 2023
+
+"Oblivious Extractors and Improved Security in Biometric-based Authentication Systems"
+IDO Nunes, P Rindal, M Shirvanian - ESORICS, 2023
+
+"ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems"
+A Caulfield, N Rattanavipanon, IDO Nunes - (DAC'22) IEEE/ACM Design and Automation Conference, arXiv:2206.02894, 2022
+
+"CASU: Compromise Avoidance via Secure Update for Low-end Embedded Systems"
+IDO Nunes, S Jakkamsetti, Y Kim, G Tsudik - ACM/IEEE ICCAD, 2022
+
+"GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices)"
+E Aliaj, IDO Nunes, G Tsudik - USENIX Security, 2022
+
+"Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA"
+IDO Nunes, S Hwang, S Jakkamsetti, G Tsudik - (S&P'22) IEEE Symposium on Security and Privacy, 2022
+
+"Dialed: Data integrity attestation for low-end embedded devices"
+IDO Nunes, S Jakkamsetti, G Tsudik - 2021 58th ACM/IEEE Design Automation Conference (DAC), 2021
+
+"On the TOCTOU problem in remote attestation"
+IDO Nunes, S Jakkamsetti, N Rattanavipanon, G Tsudik - Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, 2021
+
+"Tiny-CFA: Minimalistic control-flow attestation using verified proofs of execution"
+IDO Nunes, S Jakkamsetti, G Tsudik - 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021
+
+"Dialed: Data integrity attestation for low-end embedded devices. In 2021 58th ACM/IEEE Design Automation Conference (DAC)"
+IDO Nunes, S Jakkamsetti, G Tsudik - IEEE, 2021
+
+"Verifiable Integrity and Availability for Code and Execution in Simple Embedded Systems"
+IDO Nunes - UC Irvine, 2021
+
+"Delegated Attestation: Scalable Remote Attestation of Commodity CPS by Blending Proofs of Execution with Software Attestation"
+M Ammar, B Crispo, IDO Nunes, G Tsudik - ACM WiSec'21, 2021
+
+"DIALED: Data Integrity Attestation for Low-end Embedded Devices"
+IDO Nunes, S Jakkamsetti, G Tsudik - (DAC'21) Design Automation Conference, 2021
+
+"Tiny-CFA: Minimalistic Control-Flow Attestation Using Verified Proofs of Execution"
+IDO Nunes, S Jakkamsetti, G Tsudik - (DATE'21) Design, Automation and Test in Europe Conference, 2021
+
+"On the Root of Trust Identification Problem"
+IDO Nunes, X Ding, G Tsudik - (IPSN'21) ACM/IEEE Conference on Information Processing in Sensor Networks, 2021
+
+"On the TOCTOU Problem in Remote Attestation"
+IDO Nunes, S Jakkamsetti, N Rattanavipanon, G Tsudik - ACM CCS, 2021
+
+"Tiny-CFA: A minimalistic approach for control-flow attestation using verified proofs of execution"
+IDO Nunes, S Jakkamsetti, G Tsudik - arXiv preprint arXiv:2011.07400, 2020
+
+"APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Full Software Compromise"
+IDO Nunes, K Eldefrawy, N Rattanavipanon, G Tsudik - USENIX Security, 2020
+
+"SNUSE: A secure computation approach for large-scale user re-enrollment in biometric authentication systems"
+IDO Nunes, K Eldefrawy, T Lepoint - Future Generation Computer Systems, 2019
+
+"PURE: Using Verified Remote Attestation to Obtain Proofs of Update, Reset and Erasure in Low-End Embedded Systems"
+IDO Nunes, K Eldefrawy, N Rattanavipanon, G Tsudik - IEEE/ACM ICCAD, 2019
+
+"VRASED: A Verified Hardware/Software Co-Design for Remote Attestation"
+IDO Nunes, K Eldefrawy, N Rattanavipanon, M Steiner, G Tsudik - USENIX Security, 2019
+
+"Towards Systematic Design of Collective Remote Attestation Protocols"
+IDO Nunes, G Dessouky, A Ibrahim, N Rattanavipanon, A Sadeghi, G Tsudik - IEEE ICDCS, 2019
+
+"KRB-CCN: Lightweight Authentication & Access Control for Private Content-Centric Networks"
+IO Nunes, G Tsudik - (ACNS) International Conference on Applied Cryptography and Network Security, 2018
+
+"Secure non-interactive user re-enrollment in biometrics-based identification and authentication systems"
+IDO Nunes, K Eldefrawy, T Lepoint - Cyber Security Cryptography and Machine Learning: Second International Symposium, CSCML 2018, Beer Sheva, Israel, June 21–22, 2018, Proceedings 2, 2018
+
+"Combining Spatial and Social Awareness in D2D Opportunistic Routing"
+IO Nunes, C Celes, I Nunes, POVd Melo, AA Loureiro - IEEE Communications Magazine, 2018
+
+"GROUPS-NET: Group Meetings Aware Routing in Multi-Hop D2D Networks"
+IO Nunes, C Celes, POd Melo, AA Loureiro - Computer Networks, 2017
+
+"GRM: Group Regularity Mobility Model"
+IO Nunes, C Celes, MD Silva, POd Melo, AA Loureiro - ACM MSWIM, 2017
+
+"Namespace Tunnels in Content-Centric Networks"
+IO Nunes, G Tsudik, CA Wood - 42nd IEEE Conference on Local Computer Networks (LCN), 2017
+
+"Big Data Analytics no Projeto de Redes Móveis: Modelos, Protocolos e Aplicações"
+C Celes, IO Nunes, JBB Neto, FA Silva, L Cotta, POd Melo, HSR Filho, RM Andrade, AA Loureiro - SBC, 2017
+
+"ST-Drop: A Novel Buffer Management Strategy for D2D Opportunistic Networks"
+MD Silva, IO Nunes, RA Mini, AA Loureiro - 22nd IEEE Symposium on Computers and Communications, 2017
+
+"ST-Drop: Uma Nova Estratégia de Gerenciamento de Buffer em Redes Oportunistas D2D"
+MD Silva, IO Nunes, RA Mini, AA Loureiro - 35th SBRC, 2017
+
+"Aot: Authentication and access control for the entire iot device life-cycle"
+ALM Neto, AL Souza, I Cunha, M Nogueira, IO Nunes, L Cotta, N Gentille, AA Loureiro, DF Aranha, HK Patil, LB Oliveira - ACM SenSys, 2016
+
+"Leveraging D2D multihop communication through social group meeting awareness"
+IO Nunes, POSVd Melo, AAF Loureiro - IEEE Wireless Communications, 2016
+
+"Understanding Mobility to Improve D2D Communication"
+IO Nunes - Master's Thesis, 2016
+
+"GROUPS-NET: Roteamento Ciente de Encontros de Grupos em Redes Móveis D2D"
+IO Nunes, POVd Melo, AA Loureiro - 34th Brazilian Symposium on Computer Networks and Distributed Systems, 2016
+
+"AdC: um Mecanismo de Controle de Acesso para o Ciclo de Vida das Coisas Inteligentes"
+ALM Neto, AL Fernandes, I Cunha, M Nogueira, IO Nunes, L Cotta, N Gentille, AA Loureiro, DF Aranha, HK Patilº, LB Oliveira - SBSEG, 2016
+
+"Group mobility: Detection, tracking and characterization"
+IO Nunes, POd Melo, AA Loureiro - 2016 IEEE International Conference on Communications (ICC), 2016
+
+"Deployment of a Robotic Soccer Team Using a Multilayered Control Architecture"
+IO Nunes, MV Couto, LS Paulucio, GA Santos, TX Freitas, DF Tavares, TA Hastenreiter, IO Nunes - Team Description Papers - Latin American Robotics Competition 2015, 2015
+
+"Fault Tolerance in Strongly Minimum Energy Topology with MLD: A Distributed, Energy Efficient yet Simple Protocol"
+IO Nunes, LFM Vieira, AA Loureiro - Proceedings of XXXIII Brazilian Symposium on Computer Networks and Distributed Systems - XVI Workshop in Fault Tolerance and Testing, 2015., 2015
+
+"Designing a low cost home wsn for remote energy monitoring and eletronic devices control"
+IO Nunes, M Martinello, AA Loureiro - Proceedings of the Brazilian Symposium on Computer Networks and Distributed Systems-Workshop on Communications of Critical Embedded Systems, 2015
+
+"Monitoramento do Consumo de Energia e Acionamento Remoto de Equipamentos por Meio de Redes de Sensores Sem Fio"
+IO Nunes - Bachelor Thesis, 2014
+
+"Multi-layered control applied to autonomous robot soccer"
+IO Nunes, TX Freitas, IO Nunes, M Couto, JW Brito, LS Paulucio - IEEE Latin American Robotics Competition, 2014
+
+"Introdução à Programação: Uma Nova Abordagem Usando C"
+F Varejão - Elsevier Brasil, 2014
+
+"Remote Energy Measurement and Control of Electronic Devices With Wireless Sensor Networks"
+I Nunes, M Martinello, A Loureiro - Proceedings of the Brazilian Symposium on Computing Systems Engineering' 2014., 2014
+
+"Análise Quantitativa baseada em Medições de Sistemas P2P para Video Streaming"
+JA Macedo, IdO Nunes, ENd Silva, ASdP Floriano, RL Gomes, M Martinello - WP2P - SBRC, 2012

@@ -1,0 +1,170 @@
+"Using Accessibility Awareness Interventions to Improve Computing Education"
+Y Liu, D Mangano, KP Neupane, S Malachowsky, D Krutz - Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training, 2024
+
+"Bridging the Empathy Gap: Hands-On Exploration of Human-Empathy Accessibility Learning (HEAL) Interventions in Computer Science Education …"
+M Frechette, A Fisher, M Shaikh, J LeFrois, D Burshteyn, S Malachowsky, D Krutz, J Cotler - Journal of Computing Sciences in Colleges, 2024
+
+"Using the Accessible Learning Labs for Accessibility and Machine Learning Education---Conference Tutorial"
+C Lopez, K Messerle, S Malachowsky, DE Krutz, J Cotler - Journal of Computing Sciences in Colleges, 2024
+
+"ALL: Supporting Experiential Accessibility Education and Inclusive Software Development"
+W Shi, H Moses, Q Yu, S Malachowsky, DE Krutz - ACM Transactions on Software Engineering and Methodology, 2023
+
+"Do Users Act Equitably? Understanding User Bias Through a Large In-person Study"
+Y Liu, H Moses, M Sternefeld, S Malachowsky, DE Krutz - 2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS), 2023
+
+"Experiential Educational Accessibility Modules"
+H Moses, ST Thazin, S Malachowsky, D Krutz - Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, 2023
+
+"Enhancing Computing Accessibility Education Using Experiential Labs: A Focus on Screen Readers and Dexterity Impairments"
+ST Thazin, K Messerle, H Moses, D Mangano, S Malachowsky, D Krutz - Journal of Computing Sciences in Colleges, 2023
+
+"Experiential learning in undergraduate accessibility education: Instructor observations"
+S Khan, H Moses, S Malachowsky, D Krutz - Journal of Computing Sciences in Colleges, 2023
+
+"Open questions for empathy-building interventions for inclusive software development"
+K L-Messerle, S Malachowsky, DE Krutz - Journal of Computing Sciences in Colleges, 2023
+
+"Online Learning Using Incomplete Execution Data for Self-Adaptive Service-Oriented Systems"
+N Deshpande, N Sharma, Q Yu, DE Krutz - 2022 IEEE International Conference on Web Services (ICWS), 2022
+
+"Addressing tactic volatility in self-adaptive systems using evolved recurrent neural networks and uncertainty reduction tactics"
+AU Haq, N Deshpande, A ElSaid, T Desell, DE Krutz - Proceedings of the Genetic and Evolutionary Computation Conference, 2022
+
+"Uncertainty-Aware Multiple Instance Learning from Large-Scale Long Time Series Data"
+Y Zhu, W Shi, DS Pandey, Y Liu, X Que, DE Krutz, Q Yu - 2021 IEEE International Conference on Big Data (Big Data), 2021
+
+"R-CASS: Using algorithm selection for self-adaptive service oriented systems"
+N Deshpande, N Sharma, Q Yu, DE Krutz - 2021 IEEE International Conference on Web Services (ICWS), 2021
+
+"ALL: accessibility learning labs for computing accessibility education"
+S Khan, H Moses, S Malachowsky, D Krutz - Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 2, 2021
+
+"Supporting computing accessibility education using experiential learning labs: conference tutorial"
+S Khan, S Malachowsky, D Krutz - The Journal of Computing Sciences in Colleges, 2021
+
+"TPM: using experiential learning to support accessibility in computing education"
+S Malachowsky, DE Krutz - 2020 IEEE 32nd Conference on Software Engineering Education and Training (CSEE&T), 2020
+
+"Experiential learning in computing accessibility education"
+W Shi, S Khan, Y El-Glaly, S Malachowsky, Q Yu, DE Krutz - Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Companion Proceedings, 2020
+
+"Presenting and evaluating the impact of experiential learning in computing accessibility education"
+W Shi, S Malachowsky, Y El-Glaly, Q Yu, DE Krutz - Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering Education and Training, 2020
+
+"Improving neuroevolutionary transfer learning of deep recurrent neural networks through network-aware adaptation"
+A ElSaid, J Karns, Z Lyu, D Krutz, A Ororbia, T Desell - Proceedings of the 2020 genetic and evolutionary computation conference, 2020
+
+"Neuroevolutionary Transfer Learning of Deep Recurrent Neural Networks through Network-Aware Adaptation"
+A ElSaid, J Karns, AO II, D Krutz, Z Lyu, T Desell - arXiv preprint arXiv:2006.02655, 2020
+
+"Panel: What and How to Teach Accessibility"
+RE Ladner, A Caspi, L Findlater, P Gabbert, AJ Ko, D Krutz - Proceedings of the 51st ACM Technical Symposium on Computer Science Education, 2020
+
+"Experiential accessibility learning labs for computing education"
+P Tymann, Y El-Glaly, DE Krutz - Proceedings of the 51st ACM Technical Symposium on Computer Science Education, 2020
+
+"Presenting and evaluating the impact of experiential learning in computing accessibility education. In 2020 IEEE/ACM 42nd International Conference on Software Engineering …"
+YN Elglaly, W Shi, S Malachowsky, Q Yu, DE Krutz - IEEE, 2020
+
+"Neuro-evolutionary transfer learning through structural adaptation"
+A ElSaid, J Karnas, Z Lyu, D Krutz, AG Ororbia, T Desell - Applications of Evolutionary Computation: 23rd European Conference, EvoApplications 2020, Held as Part of EvoStar 2020, Seville, Spain, April 15–17, 2020, Proceedings 23, 2020
+
+"Improving the decision-making process of self-adaptive systems by accounting for tactic volatility"
+J Palmerino, Q Yu, T Desell, D Krutz - 2019 34th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019
+
+"Is adaptivity a core property of intelligent systems? it depends"
+A ElSaid, T Desell, D Krutz - 2019 IEEE/ACM 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019
+
+"An empirical history of permission requests and mistakes in open source android apps"
+GL Scoccia, A Peruma, V Pujols, B Christians, D Krutz - 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), 2019
+
+"Permission Issues in Open-Source Android Apps: An Exploratory Study"
+GL Scoccia, A Peruma, V Pujols, I Malavolta, DE Krutz - 2019 19th International Working Conference on Source Code Analysis and Manipulation (SCAM), 2019
+
+"Security: a critical quality attribute in self-adaptive systems"
+A Peruma, DE Krutz - Proceedings of the 13th International Conference on Software Engineering for Adaptive and Self-Managing Systems, 2018
+
+"Providing an experiential cybersecurity learning experience through mobile security labs"
+A Peruma, SA Malachowsky, DE Krutz - Proceedings of the 1st International Workshop on Security Awareness from Design to Deployment, 2018
+
+"Understanding the relationship between quality and security: a large-scale analysis of Android applications"
+A Peruma, DE Krutz - Proceedings of the 1st International Workshop on Security Awareness from Design to Deployment, 2018
+
+"Investigating user perception and comprehension of android permission models"
+A Peruma, J Palmerino, DE Krutz - Proceedings of the 5th International Conference on Mobile Software Engineering and Systems, 2018
+
+"Apps for everyone: mobile accessibility learning modules"
+YN El-Glaly, A Peruma, DE Krutz, JS Hawker - ACM Inroads, 2018
+
+"Cyber security education: why don't we do anything about it?"
+DE Krutz, T Richards - ACM Inroads, 2017
+
+"P-lint: A permission smell detector for android applications"
+C Dennis, DE Krutz, MW Mkaouer - 2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft), 2017
+
+"M-perm: A lightweight detector for android permission gaps"
+P Chester, C Jones, MW Mkaouer, DE Krutz - 2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft), 2017
+
+"Who added that permission to my app? an analysis of developer permission changes in open source android apps"
+DE Krutz, N Munaiah, A Peruma, MW Mkaouer - 2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft), 2017
+
+"Cate: Concolic android testing using java pathfinder for android applications"
+P McAfee, MW Mkaouer, DE Krutz - 2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft), 2017
+
+"Teaching Android security through examples: A publicly available database of vulnerable apps"
+DE Krutz, SA Malachowsky - ACM Inroads, 2016
+
+"Examining the relationship between security metrics and user ratings of mobile apps: A case study"
+DE Krutz, N Munaiah, A Meneely, SA Malachowsky - Proceedings of the International Workshop on App Market Analytics, 2016
+
+"Darwin: A static analysis dataset of malicious and benign android apps"
+N Munaiah, C Klimkowsky, S McRae, A Blaine, SA Malachowsky, C Perez, DE Krutz - Proceedings of the International Workshop on App Market Analytics, 2016
+
+"Architectural clones: toward tactical code reuse"
+DE Krutz, M Mirakhorl - Proceedings of the 31st Annual ACM Symposium on Applied Computing, 2016
+
+"An insider threat activity in a software security course"
+DE Krutz, A Meneely, SA Malachowsky - 2015 IEEE Frontiers in Education Conference (FIE), 2015
+
+"A project component in a web engineering course"
+SA Malachowsky, DE Krutz - 2015 IEEE Frontiers in Education Conference (FIE), 2015
+
+"Enhancing the educational experience for deaf and hard of hearing students in software engineering"
+DE Krutz, SA Malachowsky, SD Jones, JA Kaplan - 2015 IEEE Frontiers in Education Conference (FIE), 2015
+
+"A dataset of open-source android applications"
+DE Krutz, M Mirakhorli, SA Malachowsky, A Ruiz, J Peterson, A Filipski, J Smith - 2015 IEEE/ACM 12th Working Conference on Mining Software Repositories, 2015
+
+"Examining the Effectiveness of Using Concolic Analysis to Detect Code Clones"
+DE Krutz, SA Malachowsky, E Shihab - Symposium on Applied Computing, 2015
+
+"A code clone oracle"
+DE Krutz, W Le - Proceedings of the 11th working conference on mining software repositories, 2014
+
+"Using a real world project in a software testing course"
+DE Krutz, SA Malachowsky, T Reichlmayr - Proceedings of the 45th ACM technical symposium on Computer science education, 2014
+
+"Teaching Web Engineering using a project component"
+DE Krutz, A Meneely - 2013 IEEE Frontiers in Education Conference (FIE), 2013
+
+"Experiencing disruptive behavior in a team using “moles”"
+DE Krutz, JR Vallino - 2013 IEEE Frontiers in Education Conference (FIE), 2013
+
+"Bug of the day: Reinforcing the importance of testing"
+DE Krutz, M Lutz - 2013 IEEE Frontiers in Education Conference (FIE), 2013
+
+"Cccd: Concolic code clone detection"
+DE Krutz, E Shihab - 2013 20th Working Conference on Reverse Engineering (WCRE), 2013
+
+"Code Clone Discovery Based on Concolic Analysis"
+DE Krutz - Nova Southeastern University, 2013
+
+"Instilling a software engineering mindset through freshman seminar"
+MJ Lutz, JR Vallino, K Martinez, DE Krutz - 2012 Frontiers in Education Conference Proceedings, 2012
+
+"Concolic Code Clone Detection"
+D Krutz - PhD thesis, Nova Southeastern University, 2012
+
+"How to Group Crashes Effectively: Comparing Manually and Automatically Grouped Crash Dumps"
+W Le, D Krutz - Technical Report Rochester institute of technology, 2012

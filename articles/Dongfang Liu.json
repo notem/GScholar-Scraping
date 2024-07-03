@@ -1,0 +1,1105 @@
+[
+    {
+        "title": "Prototypical Transformer as Unified Motion Learners",
+        "id": "uICY0vEAAAAJ:u_35RYKgDlwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:u_35RYKgDlwC",
+        "authors": [
+            "Cheng Han",
+            "Yawen Lu",
+            "Guohao Sun",
+            "James C Liang",
+            "Zhiwen Cao",
+            "Qifan Wang",
+            "Qiang Guan",
+            "Sohail A Dianat",
+            "Raghuveer M Rao",
+            "Tong Geng",
+            "Zhiqiang Tao",
+            "Dongfang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:2406.01559",
+        "pub_date": "2024/6/3",
+        "description": "In this work, we introduce the Prototypical Transformer (ProtoFormer), a general and unified framework that approaches various motion tasks from a prototype perspective. ProtoFormer seamlessly integrates prototype learning with Transformer by thoughtfully considering motion dynamics, introducing two innovative designs. First, Cross-Attention Prototyping discovers prototypes based on signature motion patterns, providing transparency in understanding motion scenes. Second, Latent Synchronization guides feature representation learning via prototypes, effectively mitigating the problem of motion uncertainty. Empirical results demonstrate that our approach achieves competitive performance on popular motion tasks such as optical flow and scene depth. Furthermore, it exhibits generality across various downstream tasks, including object tracking and video stabilization."
+    },
+    {
+        "title": "ClusterFomer: Clustering As A Universal Visual Learner",
+        "id": "uICY0vEAAAAJ:ldfaerwXgEUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:ldfaerwXgEUC",
+        "authors": [
+            "James Liang",
+            "Yiming Cui",
+            "Qifan Wang",
+            "Tong Geng",
+            "Wenguan Wang",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Advances in Neural Information Processing Systems",
+        "pub_date": "2024/2/13",
+        "description": "This paper presents ClusterFormer, a universal vision model that is based on the Clustering paradigm with TransFormer. It comprises two novel designs: 1) recurrent cross-attention clustering, which reformulates the cross-attention mechanism in Transformer and enables recursive updates of cluster centers to facilitate strong representation learning; and 2) feature dispatching, which uses the updated cluster centers to redistribute image features through similarity-based metrics, resulting in a transparent pipeline. This elegant design streamlines an explainable and transferable workflow, capable of tackling heterogeneous vision tasks (ie, image classification, object detection, and image segmentation) with varying levels of clustering granularity (ie, image-, box-, and pixel-level). Empirical results demonstrate that ClusterFormer outperforms various well-known specialized architectures, achieving 83.41% top-1 acc. over ImageNet-1K for image classification, 54.2% and 47.0% mAP over MS COCO for object detection and instance segmentation, 52.4% mIoU over ADE20K for semantic segmentation, and 55.8% PQ over COCO Panoptic for panoptic segmentation. This work aims to initiate a paradigm shift in universal visual understanding and to benefit the broader field.",
+        "citations": 14
+    },
+    {
+        "title": "Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?",
+        "id": "uICY0vEAAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Cheng Han",
+            "Qifan Wang",
+            "Yiming Cui",
+            "Wenguan Wang",
+            "Lifu Huang",
+            "Siyuan Qi",
+            "Dongfang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:2401.12902",
+        "pub_date": "2024/1/23",
+        "description": "As the scale of vision models continues to grow, the emergence of Visual Prompt Tuning (VPT) as a parameter-efficient transfer learning technique has gained attention due to its superior performance compared to traditional full-finetuning. However, the conditions favoring VPT (the ``when\") and the underlying rationale (the ``why\") remain unclear. In this paper, we conduct a comprehensive analysis across 19 distinct datasets and tasks. To understand the ``when\" aspect, we identify the scenarios where VPT proves favorable by two dimensions: task objectives and data distributions. We find that VPT is preferrable when there is 1) a substantial disparity between the original and the downstream task objectives (e.g., transitioning from classification to counting), or 2) a similarity in data distributions between the two tasks (e.g., both involve natural images). In exploring the ``why\" dimension, our results indicate VPT's success cannot be attributed solely to overfitting and optimization considerations. The unique way VPT preserves original features and adds parameters appears to be a pivotal factor. Our study provides insights into VPT's mechanisms, and offers guidance for its optimal utilization.",
+        "citations": 4
+    },
+    {
+        "title": "Image Translation as Diffusion Visual Programmers",
+        "id": "uICY0vEAAAAJ:g5m5HwL7SMYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:g5m5HwL7SMYC",
+        "authors": [
+            "Cheng Han",
+            "James C Liang",
+            "Qifan Wang",
+            "Majid Rabbani",
+            "Sohail Dianat",
+            "Raghuveer Rao",
+            "Ying Nian Wu",
+            "Dongfang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:2401.09742",
+        "pub_date": "2024/1/18",
+        "description": "We introduce the novel Diffusion Visual Programmer (DVP), a neuro-symbolic image translation framework. Our proposed DVP seamlessly embeds a condition-flexible diffusion model within the GPT architecture, orchestrating a coherent sequence of visual programs (i.e., computer vision models) for various pro-symbolic steps, which span RoI identification, style transfer, and position manipulation, facilitating transparent and controllable image translation processes. Extensive experiments demonstrate DVP's remarkable performance, surpassing concurrent arts. This success can be attributed to several key features of DVP: First, DVP achieves condition-flexible translation via instance normalization, enabling the model to eliminate sensitivity caused by the manual guidance and optimally focus on textual descriptions for high-quality content generation. Second, the framework enhances in-context reasoning by deciphering intricate high-dimensional concepts in feature spaces into more accessible low-dimensional symbols (e.g., [Prompt], [RoI object]), allowing for localized, context-free editing while maintaining overall coherence. Last but not least, DVP improves systemic controllability and explainability by offering explicit symbolic representations at each programming stage, empowering users to intuitively interpret and modify results. Our research marks a substantial step towards harmonizing artificial image translation processes with cognitive intelligence, promising broader applications.",
+        "citations": 5
+    },
+    {
+        "title": "Promotion: Prototypes as motion learners",
+        "id": "uICY0vEAAAAJ:4OULZ7Gr8RgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:4OULZ7Gr8RgC",
+        "authors": [
+            "Yawen Lu",
+            "Dongfang Liu",
+            "Qifan Wang",
+            "Cheng Han",
+            "Yiming Cui",
+            "Zhiwen Cao",
+            "Xueling Zhang",
+            "Yingjie Victor Chen",
+            "Heng Fan"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pub_date": "2024",
+        "description": "In this work we introduce ProMotion a unified prototypical transformer-based framework engineered to model fundamental motion tasks. ProMotion offers a range of compelling attributes that set it apart from current task-specific paradigms. 1. We adopt a prototypical perspective establishing a unified paradigm that harmonizes disparate motion learning approaches. This novel paradigm streamlines the architectural design enabling the simultaneous assimilation of diverse motion information. 2. We capitalize on a dual mechanism involving the feature denoiser and the prototypical learner to decipher the intricacies of motion. This approach effectively circumvents the pitfalls of ambiguity in pixel-wise feature matching significantly bolstering the robustness of motion representation. We demonstrate a profound degree of transferability across distinct motion patterns. This inherent versatility reverberates robustly across a comprehensive spectrum of both 2D and 3D downstream tasks. Empirical results demonstrate that outperforms various well-known specialized architectures achieving 0.54 and 0.054 Abs Rel error on the Sintel and KITTI depth datasets 1.04 and 2.01 average endpoint error on the clean and final pass of Sintel flow benchmark and 4.30 F1-all error on the KITTI flow benchmark. For its efficacy we hope our work can catalyze a paradigm shift in universal models in computer vision.",
+        "citations": 1
+    },
+    {
+        "title": "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval",
+        "id": "uICY0vEAAAAJ:3s1wT3WcHBgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:3s1wT3WcHBgC",
+        "authors": [
+            "Jiamian Wang",
+            "Guohao Sun",
+            "Pichao Wang",
+            "Dongfang Liu",
+            "Sohail Dianat",
+            "Majid Rabbani",
+            "Raghuveer Rao",
+            "Zhiqiang Tao"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pub_date": "2024",
+        "description": "The increasing prevalence of video clips has sparked growing interest in text-video retrieval. Recent advances focus on establishing a joint embedding space for text and video relying on consistent embedding representations to compute similarity. However the text content in existing datasets is generally short and concise making it hard to fully describe the redundant semantics of a video. Correspondingly a single text embedding may be less expressive to capture the video embedding and empower the retrieval. In this study we propose a new stochastic text modeling method T-MASS ie text is modeled as a stochastic embedding to enrich text embedding with a flexible and resilient semantic range yielding a text mass. To be specific we introduce a similarity-aware radius module to adapt the scale of the text mass upon the given text-video pairs. Plus we design and develop a support text regularization to further control the text mass during the training. The inference pipeline is also tailored to fully exploit the text mass for accurate retrieval. Empirical evidence suggests that T-MASS not only effectively attracts relevant text-video pairs while distancing irrelevant ones but also enables the determination of precise text embeddings for relevant pairs. Our experimental results show a substantial improvement of T-MASS over baseline (3% 6.3% by R@ 1). Also T-MASS achieves state-of-the-art performance on five benchmark datasets including MSRVTT LSMDC DiDeMo VATEX and Charades."
+    },
+    {
+        "title": "Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning",
+        "id": "uICY0vEAAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "Shaohua Dong",
+            "Yunhe Feng",
+            "Qing Yang",
+            "Yan Huang",
+            "Dongfang Liu",
+            "Heng Fan"
+        ],
+        "pub_source": "arXiv preprint arXiv:2312.00360",
+        "pub_date": "2023/12/1",
+        "description": "Multimodal (e.g., RGB-Depth/RGB-Thermal) fusion has shown great potential for improving semantic segmentation in complex scenes (e.g., indoor/low-light conditions). Existing approaches often fully fine-tune a dual-branch encoder-decoder framework with a complicated feature fusion strategy for achieving multimodal semantic segmentation, which is training-costly due to the massive parameter updates in feature extraction and fusion. To address this issue, we propose a surprisingly simple yet effective dual-prompt learning network (dubbed DPLNet) for training-efficient multimodal (e.g., RGB-D/T) semantic segmentation. The core of DPLNet is to directly adapt a frozen pre-trained RGB model to multimodal semantic segmentation, reducing parameter updates. For this purpose, we present two prompt learning modules, comprising multimodal prompt generator (MPG) and multimodal feature adapter (MFA). MPG works to fuse the features from different modalities in a compact manner and is inserted from shadow to deep stages to generate the multi-level multimodal prompts that are injected into the frozen backbone, while MPG adapts prompted multimodal features in the frozen backbone for better multimodal semantic segmentation. Since both the MPG and MFA are lightweight, only a few trainable parameters (3.88M, 4.4% of the pre-trained backbone parameters) are introduced for multimodal feature fusion and learning. Using a simple decoder (3.27M parameters), DPLNet achieves new state-of-the-art performance or is on a par with other complex approaches on four RGB-D/T semantic segmentation datasets while satisfying parameter\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-trained Language Models",
+        "id": "uICY0vEAAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Qifan Wang",
+            "Yuning Mao",
+            "Jingang Wang",
+            "Hanchao Yu",
+            "Shaoliang Nie",
+            "Sinong Wang",
+            "Fuli Feng",
+            "Lifu Huang",
+            "Xiaojun Quan",
+            "Zenglin Xu",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+        "pub_date": "2023/12",
+        "description": "With the continuous growth of large language models, the process of fine-tuning these models for new tasks has become increasingly parameter-intensive. Prompt tuning, a method that involves tuning a small set of soft prompts, has emerged as an effective and efficient approach for adapting large pre-trained language models. However, most existing prompt tuning approaches only introduce prompts at the input layer, limiting their performance and leaving large rooms for improvement. In this work, we propose a novel Attention Prompt tuning method, namely APrompt, for efficient adaptation of pre-trained language models. We first demonstrate that existing prompt tuning can be considered as a special case of attention prompt tuning. We then formally introduce APrompt, which incorporates query, key, and value prompts into the attention layer to guide the attention computation during fine-tuning. Experimental results on the SuperGLUE benchmark consistently demonstrate that our proposed approach outperforms state-of-the-art baselines and full fine-tuning method with pre-trained models at different scales. In addition, a comprehensive set of ablation studies validate the effectiveness of the prompt design, as well as the efficiency of our approach.",
+        "citations": 4
+    },
+    {
+        "title": "Reformulating graph kernels for self-supervised space-time correspondence learning",
+        "id": "uICY0vEAAAAJ:M05iB0D1s5AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:M05iB0D1s5AC",
+        "authors": [
+            "Zheyun Qin",
+            "Xiankai Lu",
+            "Dongfang Liu",
+            "Xiushan Nie",
+            "Yilong Yin",
+            "Jianbing Shen",
+            "Alexander C Loui"
+        ],
+        "pub_source": "IEEE Transactions on Image Processing",
+        "pub_date": "2023/11/3",
+        "description": "Self-supervised space-time correspondence learning utilizing unlabeled videos holds great potential in computer vision. Most existing methods rely on contrastive learning with mining negative samples or adapting reconstruction from the image domain, which requires dense affinity across multiple frames or optical flow constraints. Moreover, video correspondence prediction models need to uncover more inherent properties of the video, such as structural information. In this work, we propose HiGraph+, a sophisticated space-time correspondence framework based on learnable graph kernels. By treating videos as a spatial-temporal graph, the learning objective of HiGraph+ is issued in a self-supervised manner, predicting the unobserved hidden graph via graph kernel methods. First, we learn the structural consistency of sub-graphs in graph-level correspondence learning. Furthermore, we introduce a spatio\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "CML-MOTS: Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation",
+        "id": "uICY0vEAAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Yiming Cui",
+            "Cheng Han",
+            "Dongfang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:2311.00987",
+        "pub_date": "2023/11/2",
+        "description": "The advancement of computer vision has pushed visual analysis tasks from still images to the video domain. In recent years, video instance segmentation, which aims to track and segment multiple objects in video frames, has drawn much attention for its potential applications in various emerging areas such as autonomous driving, intelligent transportation, and smart retail. In this paper, we propose an effective framework for instance-level visual analysis on video frames, which can simultaneously conduct object detection, instance segmentation, and multi-object tracking. The core idea of our method is collaborative multi-task learning which is achieved by a novel structure, named associative connections among detection, segmentation, and tracking task heads in an end-to-end learnable CNN. These additional connections allow information propagation across multiple related tasks, so as to benefit these tasks simultaneously. We evaluate the proposed method extensively on KITTI MOTS and MOTS Challenge datasets and obtain quite encouraging results.",
+        "citations": 2
+    },
+    {
+        "title": "GeneSegNet: a deep learning framework for cell segmentation by integrating gene expression and imaging",
+        "id": "uICY0vEAAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "Yuxing Wang",
+            "Wenguan Wang",
+            "Dongfang Liu",
+            "Wenpin Hou",
+            "Tianfei Zhou",
+            "Zhicheng Ji"
+        ],
+        "pub_source": "Genome Biology",
+        "pub_date": "2023/10/19",
+        "description": "When analyzing data from in situ RNA detection technologies, cell segmentation is an essential step in identifying cell boundaries, assigning RNA reads to cells, and studying the gene expression and morphological features of cells. We developed a deep-learning-based method, GeneSegNet, that integrates both gene expression and imaging information to perform cell segmentation. GeneSegNet also employs a recursive training strategy to deal with noisy training labels. We show that GeneSegNet significantly improves cell segmentation performances over existing methods that either ignore gene expression information or underutilize imaging information.",
+        "citations": 17
+    },
+    {
+        "title": "Fusion is Not Enough: Single Modal Attack on Fusion Models for 3D Object Detection",
+        "id": "uICY0vEAAAAJ:zA6iFVUQeVQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:zA6iFVUQeVQC",
+        "authors": [
+            "Zhiyuan Cheng",
+            "Hongjun Choi",
+            "Shiwei Feng",
+            "James Chenhao Liang",
+            "Guanhong Tao",
+            "Dongfang Liu",
+            "Michael Zuzak",
+            "Xiangyu Zhang"
+        ],
+        "pub_source": "The Twelfth International Conference on Learning Representations",
+        "pub_date": "2023/10/13",
+        "description": "Multi-sensor fusion (MSF) is widely used in autonomous vehicles (AVs) for perception, particularly for 3D object detection with camera and LiDAR sensors. The purpose of fusion is to capitalize on the advantages of each modality while minimizing its weaknesses. Advanced deep neural network (DNN)-based fusion techniques have demonstrated the exceptional and industry-leading performance. Due to the redundant information in multiple modalities, MSF is also recognized as a general defence strategy against adversarial attacks.  In this paper, we attack fusion models from the camera modality that is considered to be of lesser importance in fusion but is more affordable for attackers. We argue that the weakest link of fusion models depends on their most vulnerable modality and propose an attack framework that targets advanced camera-LiDAR fusion-based 3D object detection models through camera-only adversarial attacks.  Our approach employs a two-stage optimization-based strategy that first thoroughly evaluates vulnerable image areas under adversarial attacks, and then applies dedicated attack strategies for different fusion models to generate deployable patches. The evaluations with six advanced camera-LiDAR fusion models and one camera-only model indicate that our attacks successfully compromise all of them. Our approach can either decrease the mean average precision (mAP) of detection performance from 0.824 to 0.353 or degrade the detection score of a target object from 0.728 to 0.156, demonstrating the efficacy of our proposed attack framework. Code is available.",
+        "citations": 2
+    },
+    {
+        "title": "Prompt learns prompt: exploring knowledge-aware generative prompt collaboration for video captioning",
+        "id": "uICY0vEAAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "Liqi Yan",
+            "Cheng Han",
+            "Zenglin Xu",
+            "Dongfang Liu",
+            "Qifan Wang"
+        ],
+        "pub_source": "Proceedings of international joint conference on artificial intelligence (IJCAI)",
+        "pub_date": "2023/8/19",
+        "description": "Fine-tuning large vision-language models is a challenging task. Prompt tuning approaches have been introduced to learn fixed textual or visual prompts while freezing the pre-trained model in downstream tasks. Despite the effectiveness of prompt tuning, what do those learnable prompts learn remains unexplained. In this work, we explore whether prompts in the fine-tuning can learn knowledgeaware prompts from the pre-training, by designing two sets of prompts\u2014one in pre-training and the other in fine-tuning. Specifically, we present a Video-Language Prompt tuning (VL-Prompt) approach for video captioning, which first efficiently pre-train a video-language model to extract key information (eg, actions and objects) with flexibly generated Knowledge-Aware Prompt (KAP). Then, we design a Video-Language Prompt (VLP) to utilize the knowledge from KAP and finetune the model to generate full captions. Experimental results show the superior performance of our approach over several state-of-the-art baselines. We further demonstrate that the video-language prompts are well learned from the knowledgeaware prompts.",
+        "citations": 17
+    },
+    {
+        "title": "E^ 2vpt: An effective and efficient approach for visual prompt tuning",
+        "id": "uICY0vEAAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Cheng Han",
+            "Qifan Wang",
+            "Yiming Cui",
+            "Zhiwen Cao",
+            "Wenguan Wang",
+            "Siyuan Qi",
+            "Dongfang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:2307.13770",
+        "pub_date": "2023/7/25",
+        "description": "As the size of transformer-based models continues to grow, fine-tuning these large-scale pretrained vision models for new tasks has become increasingly parameter-intensive. Parameter-efficient learning has been developed to reduce the number of tunable parameters during fine-tuning. Although these methods show promising results, there is still a significant performance gap compared to full fine-tuning. To address this challenge, we propose an Effective and Efficient Visual Prompt Tuning (E^2VPT) approach for large-scale transformer-based model adaptation. Specifically, we introduce a set of learnable key-value prompts and visual prompts into self-attention and input layers, respectively, to improve the effectiveness of model fine-tuning. Moreover, we design a prompt pruning procedure to systematically prune low importance prompts while preserving model performance, which largely enhances the model's efficiency. Empirical results demonstrate that our approach outperforms several state-of-the-art baselines on two benchmarks, with considerably low parameter usage (e.g., 0.32% of model parameters on VTAB-1k). Our code is available at https://github.com/ChengHan111/E2VPT.",
+        "citations": 23
+    },
+    {
+        "title": "Mixpave: Mix-prompt tuning for few-shot product attribute value extraction",
+        "id": "uICY0vEAAAAJ:35N4QoGY0k4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:35N4QoGY0k4C",
+        "authors": [
+            "Li Yang",
+            "Qifan Wang",
+            "Jingang Wang",
+            "Xiaojun Quan",
+            "Fuli Feng",
+            "Yu Chen",
+            "Madian Khabsa",
+            "Sinong Wang",
+            "Zenglin Xu",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Findings of the Association for Computational Linguistics: ACL 2023",
+        "pub_date": "2023/7",
+        "description": "The task of product attribute value extraction is to identify values of an attribute from product information. Product attributes are important features, which help improve online shopping experience of customers, such as product search, recommendation and comparison. Most existing works only focus on extracting values for a set of known attributes with sufficient training data. However, with the emerging nature of e-commerce, new products with their unique set of new attributes are constantly generated from different retailers and merchants. Collecting a large number of annotations for every new attribute is costly and time consuming. Therefore, it is an important research problem for product attribute value extraction with limited data. In this work, we propose a novel prompt tuning approach with Mixed Prompts for few-shot Attribute Value Extraction, namely MixPAVE. Specifically, MixPAVE introduces only a small amount (< 1%) of trainable parameters, ie, a mixture of two learnable prompts, while keeping the existing extraction model frozen. In this way, MixPAVE not only benefits from parameter-efficient training, but also avoids model overfitting on limited training examples. Experimental results on two product benchmarks demonstrate the superior performance of the proposed approach over several state-of-the-art baselines. A comprehensive set of ablation studies validate the effectiveness of the prompt design, as well as the efficiency of our approach.",
+        "citations": 13
+    },
+    {
+        "title": "MUSTIE: Multimodal structural transformer for web information extraction",
+        "id": "uICY0vEAAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "Qifan Wang",
+            "Jingang Wang",
+            "Xiaojun Quan",
+            "Fuli Feng",
+            "Zenglin Xu",
+            "Shaoliang Nie",
+            "Sinong Wang",
+            "Madian Khabsa",
+            "Hamed Firooz",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pub_date": "2023/7",
+        "description": "The task of web information extraction is to extract target fields of an object from web pages, such as extracting the name, genre and actor from a movie page. Recent sequential modeling approaches have achieved state-of-the-art results on web information extraction. However, most of these methods only focus on extracting information from textual sources while ignoring the rich information from other modalities such as image and web layout. In this work, we propose a novel MUltimodal Structural Transformer (MUST) that incorporates multiple modalities for web information extraction. Concretely, we develop a structural encoder that jointly encodes the multimodal information based on the HTML structure of the web layout, where high-level DOM nodes, and low-level text and image tokens are introduced to represent the entire page. Structural attention patterns are designed to learn effective cross-modal embeddings for all DOM nodes and low-level tokens. An extensive set of experiments are conducted on WebSRC and Common Crawl benchmarks. Experimental results demonstrate the superior performance of MUST over several state-of-the-art baselines.",
+        "citations": 8
+    },
+    {
+        "title": "Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators",
+        "id": "uICY0vEAAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "Hongye Xu",
+            "Dongfang Liu",
+            "Cory Merkel",
+            "Michael Zuzak"
+        ],
+        "pub_source": "Proceedings of the Great Lakes Symposium on VLSI 2023",
+        "pub_date": "2023/6/5",
+        "description": "Logic locking has been proposed to safeguard intellectual property (IP) during chip fabrication. Logic locking techniques protect hardware IP by making a subset of combinational modules in a design dependent on a secret key that is withheld from untrusted parties. If an incorrect secret key is used, a set of deterministic errors is produced in locked modules, restricting unauthorized use. A common target for logic locking is neural accelerators, especially as machine-learning-as-a-service becomes more prevalent. In this work, we explore how logic locking can be used to compromise the security of a neural accelerator it protects. Specifically, we show how the deterministic errors caused by incorrect keys can be harnessed to produce neural-trojan-style backdoors. To do so, we first outline a motivational attack scenario where a carefully chosen incorrect key, which we call a trojan key, produces misclassifications for an\u00a0\u2026"
+    },
+    {
+        "title": "Tripartite feature enhanced pyramid network for dense prediction",
+        "id": "uICY0vEAAAAJ:RYcK_YlVTxYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:RYcK_YlVTxYC",
+        "authors": [
+            "Dongfang Liu",
+            "James Liang",
+            "Tony Geng",
+            "Alexander Loui",
+            "Tianfei Zhou"
+        ],
+        "pub_source": "IEEE Transactions on Image Processing",
+        "pub_date": "2023/5/8",
+        "description": "Learning pyramidal feature representations is important for many dense prediction tasks (e.g., object detection, semantic segmentation) that demand multi-scale visual understanding. Feature Pyramid Network (FPN) is a well-known architecture for multi-scale feature learning, however, intrinsic weaknesses in feature extraction and fusion impede the production of informative features. This work addresses the weaknesses of FPN through a novel tripartite feature enhanced pyramid network (TFPN), with three distinct and effective designs. First, we develop a feature reference module with lateral connections to adaptively extract bottom-up features with richer details for feature pyramid construction. Second, we design a feature calibration module between adjacent layers that calibrates the upsampled features to be spatially aligned, allowing for feature fusion with accurate correspondences. Third, we introduce a\u00a0\u2026",
+        "citations": 41
+    },
+    {
+        "title": "Clustseg: Clustering for universal segmentation",
+        "id": "uICY0vEAAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "James Liang",
+            "Tianfei Zhou",
+            "Dongfang Liu",
+            "Wenguan Wang"
+        ],
+        "pub_source": "arXiv preprint arXiv:2305.02187",
+        "pub_date": "2023/5/3",
+        "description": "We present CLUSTSEG, a general, transformer-based framework that tackles different image segmentation tasks (i.e., superpixel, semantic, instance, and panoptic) through a unified neural clustering scheme. Regarding queries as cluster centers, CLUSTSEG is innovative in two aspects:1) cluster centers are initialized in heterogeneous ways so as to pointedly address task-specific demands (e.g., instance- or category-level distinctiveness), yet without modifying the architecture; and 2) pixel-cluster assignment, formalized in a cross-attention fashion, is alternated with cluster center update, yet without learning additional parameters. These innovations closely link CLUSTSEG to EM clustering and make it a transparent and powerful framework that yields superior results across the above segmentation tasks.",
+        "citations": 61
+    },
+    {
+        "title": "Fusion is not enough: single-modal attacks to compromise fusion models in autonomous driving",
+        "id": "uICY0vEAAAAJ:RGFaLdJalmkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:RGFaLdJalmkC",
+        "authors": [
+            "Zhiyuan Cheng",
+            "Hongjun Choi",
+            "James Liang",
+            "Shiwei Feng",
+            "Guanhong Tao",
+            "Dongfang Liu",
+            "Michael Zuzak",
+            "Xiangyu Zhang"
+        ],
+        "pub_source": "arXiv preprint arXiv:2304.14614",
+        "pub_date": "2023/4/28",
+        "description": "Multi-sensor fusion (MSF) is widely adopted for perception in autonomous vehicles (AVs), particularly for the task of 3D object detection with camera and LiDAR sensors. The rationale behind fusion is to capitalize on the strengths of each modality while mitigating their limitations. The exceptional and leading performance of fusion models has been demonstrated by advanced deep neural network (DNN)-based fusion techniques. Fusion models are also perceived as more robust to attacks compared to single-modal ones due to the redundant information in multiple modalities. In this work, we challenge this perspective with single-modal attacks that targets the camera modality, which is considered less significant in fusion but more affordable for attackers. We argue that the weakest link of fusion models depends on their most vulnerable modality, and propose an attack framework that targets advanced camera-LiDAR fusion models with adversarial patches. Our approach employs a two-stage optimization-based strategy that first comprehensively assesses vulnerable image areas under adversarial attacks, and then applies customized attack strategies to different fusion models, generating deployable patches. Evaluations with five state-of-the-art camera-LiDAR fusion models on a real-world dataset show that our attacks successfully compromise all models. Our approach can either reduce the mean average precision (mAP) of detection performance from 0.824 to 0.353 or degrade the detection score of the target object from 0.727 to 0.151 on average, demonstrating the effectiveness and practicality of our proposed attack framework.",
+        "citations": 8
+    },
+    {
+        "title": "Adversarial training of self-supervised monocular depth estimation against physical-world attacks",
+        "id": "uICY0vEAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Zhiyuan Cheng",
+            "James Liang",
+            "Guanhong Tao",
+            "Dongfang Liu",
+            "Xiangyu Zhang"
+        ],
+        "pub_source": "arXiv preprint arXiv:2301.13487",
+        "pub_date": "2023/1/31",
+        "description": "Monocular Depth Estimation (MDE) is a critical component in applications such as autonomous driving. There are various attacks against MDE networks. These attacks, especially the physical ones, pose a great threat to the security of such systems. Traditional adversarial training method requires ground-truth labels hence cannot be directly applied to self-supervised MDE that does not have ground-truth depth. Some self-supervised model hardening techniques (e.g., contrastive learning) ignore the domain knowledge of MDE and can hardly achieve optimal performance. In this work, we propose a novel adversarial training method for self-supervised MDE models based on view synthesis without using ground-truth depth. We improve adversarial robustness against physical-world attacks using L0-norm-bounded perturbation in training. We compare our method with supervised learning based and contrastive learning based methods that are tailored for MDE. Results on two representative MDE networks show that we achieve better robustness against various adversarial attacks with nearly no benign performance degradation.",
+        "citations": 22
+    },
+    {
+        "title": "Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation",
+        "id": "uICY0vEAAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Yiming Cui",
+            "Cheng Han",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Journal on Autonomous Transportation Systems",
+        "pub_date": "2023",
+        "description": "The advancement of computer vision has pushed visual analysis tasks from still images to the video domain. In recent years, video instance segmentation, which aims to track and segment multiple objects in video frames, has drawn much attention for its potential applications in various emerging areas such as autonomous driving, intelligent transportation, and smart retail. In this paper, we propose an effective framework for instance-level visual analysis on video frames, which can simultaneously conduct object detection, instance segmentation, and multi-object tracking. The core idea of our method is collaborative multi-task learning which is achieved by a novel structure, named associative connections among detection, segmentation, and tracking task heads in an end-to-end learnable CNN. These additional connections allow information propagation across multiple related tasks, so as to benefit these tasks\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Transflow: Transformer as flow learner",
+        "id": "uICY0vEAAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Yawen Lu",
+            "Qifan Wang",
+            "Siqi Ma",
+            "Tong Geng",
+            "Yingjie Victor Chen",
+            "Huaijin Chen",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+        "pub_date": "2023",
+        "description": "Optical flow is an indispensable building block for various important computer vision tasks, including motion estimation, object tracking, and disparity measurement. In this work, we propose TransFlow, a pure transformer architecture for optical flow estimation. Compared to dominant CNN-based methods, TransFlow demonstrates three advantages. First, it provides more accurate correlation and trustworthy matching in flow estimation by utilizing spatial self-attention and cross-attention mechanisms between adjacent frames to effectively capture global dependencies; Second, it recovers more compromised information (eg, occlusion and motion blur) in flow estimation through long-range temporal association in dynamic scenes; Third, it enables a concise self-learning paradigm and effectively eliminate the complex and laborious multi-stage pre-training procedures. We achieve the state-of-the-art results on the Sintel, KITTI-15, as well as several downstream tasks, including video object detection, interpolation and stabilization. For its efficacy, we hope TransFlow could serve as a flexible baseline for optical flow estimation.",
+        "citations": 43
+    },
+    {
+        "title": "Coarse-to-fine video instance segmentation with factorized conditional appearance flows",
+        "id": "uICY0vEAAAAJ:BqipwSGYUEgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:BqipwSGYUEgC",
+        "authors": [
+            "Zheyun Qin",
+            "Xiankai Lu",
+            "Xiushan Nie",
+            "Dongfang Liu",
+            "Yilong Yin",
+            "Wenguan Wang"
+        ],
+        "pub_source": "IEEE/CAA Journal of Automatica Sinica",
+        "pub_date": "2023",
+        "description": "We introduce a novel method using a new generative model that automatically learns effective representations of the target and background appearance to detect, segment and track each instance in a video sequence. Differently from current discriminative tracking-by-detection solutions, our proposed hierarchical structural embedding learning can predict more high-quality masks with accurate boundary details over spatio-temporal space via the normalizing flows. We formulate the instance inference procedure as a hierarchical spatio-temporal embedded learning across time and space. Given the video clip, our method first coarsely locates pixels belonging to a particular instance with Gaussian distribution and then builds a novel mixing distribution to promote the instance boundary by fusing hierarchical appearance embedding information in a coarse-to-fine manner. For the mixing distribution, we utilize a factorization condition normalized flow fashion to estimate the distribution parameters to improve the segmentation performance. Comprehensive qualitative, quantitative, and ablation experiments are performed on three representative video instance segmentation benchmarks (ie, YouTube-VIS 19, YouTube-VIS 21, and OVIS) and the effectiveness of the proposed method is demonstrated. More impressively, the superior performance of our model on an unsupervised video object segmentation dataset (ie, DAVIS 19) proves its generalizability. Our algorithm implementations are publicly available at",
+        "citations": 48
+    },
+    {
+        "title": "HIT-2: Implementing machine learning algorithms to treat bound ions in biomolecules",
+        "id": "uICY0vEAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Shengjie Sun",
+            "Honglun Xu",
+            "Yixin Xie",
+            "Jason E Sanchez",
+            "Wenhan Guo",
+            "Dongfang Liu",
+            "Lin Li"
+        ],
+        "pub_source": "Computational and Structural Biotechnology Journal",
+        "pub_date": "2023/1/1",
+        "description": "Electrostatic features are fundamental to protein functions and protein-protein interactions. Studying highly charged biomolecules is challenging given the heterogeneous distribution of the ionic cloud around such biomolecules. Here we report a new computational method, Hybridizing Ions Treatment-2 (HIT-2), which is used to model biomolecule-bound ions using the implicit solvation model. By modeling ions, HIT-2 allows the user to calculate important electrostatic features of the biomolecules. HIT-2 applies an efficient algorithm to calculate the position of bound ions from molecular dynamics simulations. Modeling parameters were optimized by machine learning methods from thousands of datasets. The optimized parameters produced results with errors lower than 0.2\u00a0\u00c5. The testing results on bound Ca2+ and Zn2+ in NAMD simulations also proved that HIT-2 can effectively identify bound ion types, numbers\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Learning equivariant segmentation with instance-unique querying",
+        "id": "uICY0vEAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Wenguan Wang",
+            "James Liang",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Advances in Neural Information Processing Systems",
+        "pub_date": "2022/12/6",
+        "description": "Prevalent state-of-the-art instance segmentation methods fall into a query-based scheme, in which instance masks are derived by querying the image feature using a set of instance-aware embeddings. In this work, we devise a new training framework that boosts query-based models through discriminative query embedding learning. It explores two essential properties, namely dataset-level uniqueness and transformation equivariance, of the relation between queries and instances. First, our algorithm uses the queries to retrieve the corresponding instances from the whole training dataset, instead of only searching within individual scenes. As querying instances across scenes is more challenging, the segmenters are forced to learn more discriminative queries for effective instance separation. Second, our algorithm encourages both image (instance) representations and queries to be equivariant against geometric transformations, leading to more robust, instance-query matching. On top of four famous, query-based models (ie, CondInst, SOLOv2, SOTR, and Mask2Former), our training algorithm provides significant performance gains (eg,+ 1.6\u20133.2 AP) on COCO dataset. In addition, our algorithm promotes the performance of SOLOv2 by 2.7 AP, on LVISv1 dataset.",
+        "citations": 64
+    },
+    {
+        "title": "Learning to generate question by asking question: A primal-dual approach with uncommon word generation",
+        "id": "uICY0vEAAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Qifan Wang",
+            "Li Yang",
+            "Xiaojun Quan",
+            "Fuli Feng",
+            "Dongfang Liu",
+            "Zenglin Xu",
+            "Sinong Wang",
+            "Hao Ma"
+        ],
+        "pub_source": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+        "pub_date": "2022/12",
+        "description": "Automatic question generation (AQG) is the task of generating a question from a given passage and an answer. Most existing AQG methods aim at encoding the passage and the answer to generate the question. However, limited work has focused on modeling the correlation between the target answer and the generated question. Moreover, unseen or rare word generation has not been studied in previous works. In this paper, we propose a novel approach which incorporates question generation with its dual problem, question answering, into a unified primal-dual framework. Specifically, the question generation component consists of an encoder that jointly encodes the answer with the passage, and a decoder that produces the question. The question answering component then re-asks the generated question on the passage to ensure that the target answer is obtained. We further introduce a knowledge distillation module to improve the model generalization ability. We conduct an extensive set of experiments on SQuAD and HotpotQA benchmarks. Experimental results demonstrate the superior performance of the proposed approach over several state-of-the-art methods.",
+        "citations": 8
+    },
+    {
+        "title": "Towards unbiased label distribution learning for facial pose estimation using anisotropic spherical gaussian",
+        "id": "uICY0vEAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Zhiwen Cao",
+            "Dongfang Liu",
+            "Qifan Wang",
+            "Yingjie Chen"
+        ],
+        "pub_source": "European Conference on Computer Vision",
+        "pub_date": "2022/10/23",
+        "description": "Facial pose estimation refers to the task of predicting face orientation from a single RGB image. It is an important research topic with a wide range of applications in computer vision. Label distribution learning (LDL) based methods have been recently proposed for facial pose estimation, which achieve promising results. However, there are two major issues in existing LDL methods. First, the expectations of label distributions are biased, leading to a biased pose estimation. Second, fixed distribution parameters are applied for all learning samples, severely limiting the model capability. In this paper, we propose an Anisotropic Spherical Gaussian (ASG)-based LDL approach for facial pose estimation. In particular, our approach adopts the spherical Gaussian distribution on a unit sphere which constantly generates unbiased expectation. Meanwhile, we introduce a new loss function that allows the network to learn the\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "Physical attack on monocular depth estimation with optimal adversarial patches",
+        "id": "uICY0vEAAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Zhiyuan Cheng",
+            "James Liang",
+            "Hongjun Choi",
+            "Guanhong Tao",
+            "Zhiwen Cao",
+            "Dongfang Liu",
+            "Xiangyu Zhang"
+        ],
+        "pub_source": "European conference on computer vision",
+        "pub_date": "2022/10/23",
+        "description": "Deep learning has substantially boosted the performance of Monocular Depth Estimation (MDE), a critical component in fully vision-based autonomous driving (AD) systems (e.g., Tesla and Toyota). In this work, we develop an attack against learning-based MDE. In particular, we use an optimization-based method to systematically generate stealthy physical-object-oriented adversarial patches to attack depth estimation. We balance the stealth and effectiveness of our attack with object-oriented adversarial design, sensitive region localization, and natural style camouflage. Using real-world driving scenarios, we evaluate our attack on concurrent MDE models and a representative downstream task for AD (i.e., 3D object detection). Experimental results show that our method can generate stealthy, effective, and robust adversarial patches for different target objects and models and achieves more than 6\u00a0m mean depth\u00a0\u2026",
+        "citations": 76
+    },
+    {
+        "title": "Visual recognition with deep nearest centroids",
+        "id": "uICY0vEAAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:blknAaTinKkC",
+        "authors": [
+            "Wenguan Wang",
+            "Cheng Han",
+            "Tianfei Zhou",
+            "Dongfang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:2209.07383",
+        "pub_date": "2022/9/15",
+        "description": "We devise deep nearest centroids (DNC), a conceptually elegant yet surprisingly effective network for large-scale visual recognition, by revisiting Nearest Centroids, one of the most classic and simple classifiers. Current deep models learn the classifier in a fully parametric manner, ignoring the latent data structure and lacking simplicity and explainability. DNC instead conducts nonparametric, case-based reasoning; it utilizes sub-centroids of training samples to describe class distributions and clearly explains the classification as the proximity of test data and the class sub-centroids in the feature space. Due to the distance-based nature, the network output dimensionality is flexible, and all the learnable parameters are only for data embedding. That means all the knowledge learnt for ImageNet classification can be completely transferred for pixel recognition learning, under the \"pre-training and fine-tuning\" paradigm. Apart from its nested simplicity and intuitive decision-making mechanism, DNC can even possess ad-hoc explainability when the sub-centroids are selected as actual training images that humans can view and inspect. Compared with parametric counterparts, DNC performs better on image classification (CIFAR-10, ImageNet) and greatly boots pixel recognition (ADE20K, Cityscapes), with improved transparency and fewer learnable parameters, using various network architectures (ResNet, Swin) and segmentation models (FCN, DeepLabV3, Swin). We feel this work brings fundamental insights into related fields.",
+        "citations": 97
+    },
+    {
+        "title": "HAVIT: A VR-Based Platform to Support Human-Autonomous Vehicle Interaction Study",
+        "id": "uICY0vEAAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Xiaolei Guo",
+            "Dayu Wan",
+            "Dongfang Liu",
+            "Christos Mousas",
+            "Yingjie Chen"
+        ],
+        "pub_source": "International Conference on Human-Computer Interaction",
+        "pub_date": "2022/6/16",
+        "description": "We propose the Human-Autonomous Vehicle Interaction Testbed (HAVIT), a VR-based platform that enables researchers and designers to quickly configure AV-pedestrian interaction scenarios and evaluate their design concepts during the design process in a holistic and consistent manner. The HAVIT presents an efficient workflow that combines the Scenario Configuration, Experimental Setting, and Batch Configuration. Our workflow enables researchers to quickly and flexibly configure motion behaviors of AVs and external human-machine interfaces (eHMIs) through visual panels and direct manipulation; complete experimental setting through Data Collection component and Testing Instruction component; and immediately enact and immersively experience them to reasonable iterate and generate virtual scenarios for testing. We conducted an usability testing with domain experts and designers to test the\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A triangulation-based visual localization for field robots",
+        "id": "uICY0vEAAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "James Liang",
+            "Yuxing Wang",
+            "Yingjie Chen",
+            "Baijian Yang",
+            "Dongfang Liu"
+        ],
+        "pub_source": "IEEE/CAA Journal of Automatica Sinica",
+        "pub_date": "2022/5/31",
+        "description": "Dear Editor, Visual localization relies on local features and searches a pre-stored GPS-tagged image database to retrieve the reference image with the highest similarity in feature spaces to predict the current location [1]\u2013[3]. For the conventional methods [4]\u2013[6], local features are generally explored by multiple-stage feature extraction which first detects and then describes key-point features [4], [7]. The multiple-stage feature extraction is redundantly implemented, which is not memory and run-time efficient. Its performance degrades with challenging conditions such as poor lighting and weather variations (as shown in Fig. 1(a)) because the multiple-stage design may lose information in the quantization step which produces inadequately key-point features for matching. Another critical issue for existing visual localization is that most of the conventional methods are one-directional-based approaches, which only use\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Video captioning using global-local representation",
+        "id": "uICY0vEAAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Liqi Yan",
+            "Siqi Ma",
+            "Qifan Wang",
+            "Yingjie Chen",
+            "Xiangyu Zhang",
+            "Andreas Savakis",
+            "Dongfang Liu"
+        ],
+        "pub_source": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "pub_date": "2022/5/23",
+        "description": "Video captioning is a challenging task as it needs to accurately transform visual understanding into natural language description. To date, state-of-the-art methods inadequately model global-local vision representation for sentence generation, leaving plenty of room for improvement. In this work, we approach the video captioning task from a new perspective and propose a GLR framework, namely a global-local representation granularity. Our GLR demonstrates three advantages over the prior efforts. First, we propose a simple solution, which exploits extensive vision representations from different video ranges to improve linguistic expression. Second, we devise a novel global-local encoder, which encodes different video representations including long-range, short-range and local-keyframe, to produce rich semantic vocabulary for obtaining a descriptive granularity of video contents across frames. Finally, we\u00a0\u2026",
+        "citations": 50
+    },
+    {
+        "title": "Gl-rg: Global-local representation granularity for video captioning",
+        "id": "uICY0vEAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Liqi Yan",
+            "Qifan Wang",
+            "Yiming Cui",
+            "Fuli Feng",
+            "Xiaojun Quan",
+            "Xiangyu Zhang",
+            "Dongfang Liu"
+        ],
+        "pub_source": "arXiv preprint arXiv:2205.10706",
+        "pub_date": "2022/5/22",
+        "description": "Video captioning is a challenging task as it needs to accurately transform visual understanding into natural language description. To date, state-of-the-art methods inadequately model global-local representation across video frames for caption generation, leaving plenty of room for improvement. In this work, we approach the video captioning task from a new perspective and propose a GL-RG framework for video captioning, namely a \\textbf{G}lobal-\\textbf{L}ocal \\textbf{R}epresentation \\textbf{G}ranularity. Our GL-RG demonstrates three advantages over the prior efforts: 1) we explicitly exploit extensive visual representations from different video ranges to improve linguistic expression; 2) we devise a novel global-local encoder to produce rich semantic vocabulary to obtain a descriptive granularity of video contents across frames; 3) we develop an incremental training strategy which organizes model learning in an incremental fashion to incur an optimal captioning behavior. Experimental results on the challenging MSR-VTT and MSVD datasets show that our DL-RG outperforms recent state-of-the-art methods by a significant margin. Code is available at \\url{https://github.com/ylqi/GL-RG}.",
+        "citations": 46
+    },
+    {
+        "title": "Deep partial multiplex network embedding",
+        "id": "uICY0vEAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Qifan Wang",
+            "Yi Fang",
+            "Anirudh Ravula",
+            "Ruining He",
+            "Bin Shen",
+            "Jingang Wang",
+            "Xiaojun Quan",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Companion Proceedings of the Web Conference 2022",
+        "pub_date": "2022/4/25",
+        "description": "Network embedding is an effective technique to learn the low-dimensional representations of nodes in networks. Real-world networks are usually with multiplex or having multi-view representations from different relations. Recently, there has been increasing interest in network embedding on multiplex data. However, most existing multiplex approaches assume that the data is complete in all views. But in real applications, it is often the case that each view suffers from the missing of some data and therefore results in partial multiplex data.  In this paper, we present a novel Deep Partial Multiplex Network Embedding approach to deal with incomplete data. In particular, the network embeddings are learned by simultaneously minimizing the deep reconstruction loss with the autoencoder neural network, enforcing the data consistency across views via common latent subspace learning, and preserving the data\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Webformer: The web-page transformer for structure information extraction",
+        "id": "uICY0vEAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Qifan Wang",
+            "Yi Fang",
+            "Anirudh Ravula",
+            "Fuli Feng",
+            "Xiaojun Quan",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Proceedings of the ACM Web Conference 2022",
+        "pub_date": "2022/4/25",
+        "description": "Structure information extraction refers to the task of extracting structured text fields from web pages, such as extracting a product offer from a shopping page including product title, description, brand and price. It is an important research topic which has been widely studied in document understanding and web search. Recent natural language models with sequence modeling have demonstrated state-of-the-art performance on web information extraction. However, effectively serializing tokens from unstructured web pages is challenging in practice due to a variety of web layout patterns. Limited work has focused on modeling the web layout for extracting the text fields. In this paper, we introduce WebFormer, a Web-page transFormer model for structure information extraction from web documents. First, we design HTML tokens for each DOM node in the HTML by embedding representations from their neighboring\u00a0\u2026",
+        "citations": 56
+    },
+    {
+        "title": "A virtual reality framework to measure psychological and physiological responses of the self-driving car passengers",
+        "id": "uICY0vEAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Xiaolei Guo",
+            "Dayu Wan",
+            "Dongfang Liu",
+            "Christos Mousas",
+            "Yingjie Chen"
+        ],
+        "pub_source": "",
+        "pub_date": "2022",
+        "description": "The study developed Human-Autonomous Vehicle Interaction Testbed (HAVIT), a VR-based platform that enables researchers and designers to quickly configure AV interaction scenarios and evaluate their design concepts during the design process in a holistic and consistent manner. The HAVIT presents an efficient workflow that combines the tasks of Scenario Configuration, Experimental Setting, and Batch Configuration. The developed workflow enables the user to quickly and flexibly configure motion behaviors of AVs and external human-machine interfaces (eHMIs) through visual panels and direct manipulation, and carry out experimental settings through its Data Collection and Testing Instruction components. It also readily enacts and enables the user to reasonably iterate and generate virtual scenarios for testing in an immersive manner. The study conducted usability testing with domain experts and\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "HIT web server: A hybrid method to improve electrostatic calculations for biomolecules",
+        "id": "uICY0vEAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Shengjie Sun",
+            "Juan A Lopez",
+            "Yixin Xie",
+            "Wenhan Guo",
+            "Dongfang Liu",
+            "Lin Li"
+        ],
+        "pub_source": "Computational and Structural Biotechnology Journal",
+        "pub_date": "2022/1/1",
+        "description": "The electrostatic features of highly charged biomolecules are crucial and challenging tasks in computational biophysics. The electrostatic calculations by traditional implicit solvent methods are efficient but have difficulties on highly charged biomolecules. We have developed a Hybridizing Ion Treatment (HIT) tool, which successfully hybridizes the explicit ions and implicit solvation model to accurately calculate the electrostatic potential for highly charged biomolecules. Here we implemented the HIT tool into a web server. In this study, a training set was prepared to optimize the number of frames for the HIT web server. The results on tubulins, DNAs, and RNAs, reveal the mechanisms for the motor proteins, DNA of HIV, and tRNA. This HIT web server can be widely used to study highly charged biomolecules, including DNAs, RNAs, molecular motors, and other highly charged biomolecules.",
+        "citations": 6
+    },
+    {
+        "title": "Deep robotic grasping prediction with hierarchical rgb-d fusion",
+        "id": "uICY0vEAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Yaoxian Song",
+            "Jun Wen",
+            "Dongfang Liu",
+            "Changbin Yu"
+        ],
+        "pub_source": "International Journal of Control, Automation and Systems",
+        "pub_date": "2022/1",
+        "description": "Vision-based robotic grasping is a fundamental task in robotic control. Dexterous and precise grasp control of the robotic arm is challenging and a critical technique for the manufacturing and emerging robot service industry. Current state-of-art methods adopt RGB-D images or point clouds in an attempt to obtain an accurate, robust, and real-time policy. However, most of these methods only use single modal data or ignore the uncertainty of sampling data especially the depth information. Even they leverage multi-modal data, they seldom fuse the features in different scales. All of these results in unreliable grasp prediction inevitably. In this paper, we propose a novel multi-modal neural network to predict grasps in real-time. The key idea is to fuse RGB and depth information hierarchically and quantify the uncertainty of raw depth data to re-weight the depth features. For higher grasping performance, a background\u00a0\u2026",
+        "citations": 27
+    },
+    {
+        "title": "Dg-labeler and dgl-mots dataset: Boost the autonomous driving perception",
+        "id": "uICY0vEAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Yiming Cui",
+            "Zhiwen Cao",
+            "Yixin Xie",
+            "Xingyu Jiang",
+            "Feng Tao",
+            "Yingjie Victor Chen",
+            "Lin Li",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+        "pub_date": "2022",
+        "description": "Multi-object tracking and segmentation (MOTS) is a critical task for autonomous driving applications. The existing MOTS studies face two critical challenges: 1) the published datasets inadequately capture the real-world complexity for network training to address various driving settings; 2) the working pipeline annotation tool is under-studied in the literature to improve the quality of MOTS learning examples. In this work, we introduce the DG-Labeler and DGL-MOTS dataset to facilitate the training data annotation for the MOST task and accordingly improve network training accuracy and efficiency. To the best of our knowledge, our DG-Labeler is the first tool publicly available for MOTS data annotation. DG-Labeler uses the novel Depth-Granularity Module to depict the instance spatial relations and produce fine-grained instance masks. Annotated by DG-Labeler, our DGL-MOTS dataset exceeds the prior effort (ie, KITTI MOTS and BDD100K) in data diversity, annotation quality, and temporal representations. Results on extensive cross-dataset evaluations indicate significant performance improvements for several state-of-the-art methods trained on our DGL-MOTS dataset. We believe our DGL-MOTS Dataset and DG-Labeler hold valuable potential to boost the visual perception of future transportation. Our dataset and code are available.",
+        "citations": 34
+    },
+    {
+        "title": "Computational study on DNA repair: the roles of electrostatic interactions between uracil-DNA glycosylase (UDG) and DNA",
+        "id": "uICY0vEAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Yixin Xie",
+            "Chitra B Karki",
+            "Jiawei Chen",
+            "Dongfang Liu",
+            "Lin Li"
+        ],
+        "pub_source": "Frontiers in Molecular Biosciences",
+        "pub_date": "2021/8/6",
+        "description": "Uracil-DNA glycosylase (UDG) is one of the most important base excision repair (BER) enzymes involved in the repair of uracil-induced DNA lesion by removing uracil from the damaged DNA. Uracil in DNA may occur due to cytosine deamination or deoxy uridine monophosphate (dUMP) residue misincorporation during DNA synthesis. Medical evidences show that an abnormal expression of UDG is related to different types of cancer, including colorectal cancer, lung cancer, and liver cancer. Therefore, the research of UDG is crucial in cancer treatment and prevention as well as other clinical activities. Here we applied multiple computational methods to study UDG in several perspectives: Understanding the stability of the UDG enzyme in different pH conditions; studying the differences in charge distribution between the pocket side and non-pocket side of UDG; analyzing the field line distribution at the interfacial area between UDG and DNA; and performing electrostatic binding force analyses of the special region of UDG (pocket area) and the target DNA base (uracil) as well as investigating the charged residues on the UDG binding pocket and binding interface. Our results show that the whole UDG binding interface, and not the UDG binding pocket area alone, provides the binding attractive force to the damaged DNA at the uracil base.",
+        "citations": 7
+    },
+    {
+        "title": "Hierarchical attention fusion for geo-localization",
+        "id": "uICY0vEAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Liqi Yan",
+            "Yiming Cui",
+            "Yingjie Chen",
+            "Dongfang Liu"
+        ],
+        "pub_source": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+        "pub_date": "2021/6/6",
+        "description": "Geo-localization is a critical task in computer vision. In this work, we cast the geo-localization as a 2D image retrieval task. Current state-of-the-art methods for 2D geo-localization are not robust to locate a scene with drastic scale variations because they only exploit features from one semantic level for image representations. To address this limitation, we introduce a hierarchical attention fusion network using multi-scale features for geo-localization. We extract the hierarchical feature maps from a convolutional neural network (CNN) and organically fuse the extracted features for image representations. Our training is self-supervised using adaptive weights to control the attention of feature emphasis from each hierarchical level. Evaluation results on the image retrieval and the large-scale geo-localization benchmarks indicate that our method outperforms the existing state-of-the-art methods. Code is available here\u00a0\u2026",
+        "citations": 28
+    },
+    {
+        "title": "Densernet: Weakly supervised visual localization using multi-scale feature aggregation",
+        "id": "uICY0vEAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Dongfang Liu",
+            "Yiming Cui",
+            "Liqi Yan",
+            "Christos Mousas",
+            "Baijian Yang",
+            "Yingjie Chen"
+        ],
+        "pub_source": "Proceedings of the AAAI conference on artificial intelligence",
+        "pub_date": "2021/5/18",
+        "description": "In this work, we introduce a Denser Feature Network (DenserNet) for visual localization. Our work provides three principal contributions. First, we develop a convolutional neural network (CNN) architecture which aggregates feature maps at different semantic levels for image representations. Using denser feature maps, our method can produce more key point features and increase image retrieval accuracy. Second, our model is trained end-to-end without pixel-level an-notation other than positive and negative GPS-tagged image pairs. We use a weakly supervised triplet ranking loss to learn discriminative features and encourage keypoint feature repeatability for image representation. Finally, our method is computationally efficient as our architecture has shared features and parameters during forwarding propagation. Our method is flexible and can be crafted on a light-weighted backbone architecture to achieve appealing efficiency with a small penalty on accuracy. Extensive experiment results indicate that our method sets a new state-of-the-art on four challenging large-scale localization benchmarks and three image retrieval benchmarks with the same level of supervision. The code is available at https://github. com/goodproj13/DenserNet",
+        "citations": 111
+    },
+    {
+        "title": "Multi-object tracking and segmentation for autonomous driving: A flow guided association approach",
+        "id": "uICY0vEAAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Dongfang Liu"
+        ],
+        "pub_source": "Purdue University Graduate School",
+        "pub_date": "2021/4/28",
+        "description": "The progress of computer vision has extended the visual recognition tasks from images to the video domain. In recent years, multi-object tracking and segmentation (MOTS), which instantly performs track and segment multiple objects in video frames, has arrested much research attention as it holds valuable potential for emerging technology like autonomous driving. In this work, I proposed an effective framework for the MOTS task on live-streaming video frames, for simultaneously detecting objects, segmenting instances, and tracking move- ments across frames in an end-to-end learnable fashion. The core idea of the proposed flow- guided association (FGA) method was to leverage flow fields to increase pixel-level feature representation and used associative connections across individual task heads (a.k.a. detec- tion head, segmentation head, and tracking head) to facilitate feature sharing. The novel connection architectures allow upper-level tasks (i.e. segmentation and tracking) can accu- rately fire on the region of interests (RoI) for the final prediction. Extensive evaluations on KITTI MOTS dataset, MOTS-Challenge dataset, and new DGL-MOTS dataset indicated that the proposed method was competitive with the best existing method.In addition, the current MOTS dataset inadequately captures the real-world complexity to train a deep-learning algorithm to address the extensive varieties of driving settings. To address the deficiency, I presented the DGL-MOTS Dataset and DG-Labeler for data an- notation for MOTS work. DGL-MOTS included 106,089 instance masks for 1,632 distinct objects in 40 video recordings. My effort exceeded the state\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Greedy auto-augmentation for n-shot learning using deep neural networks",
+        "id": "uICY0vEAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Alireza Naghizadeh",
+            "Dimitris N Metaxas",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Neural Networks",
+        "pub_date": "2021/3/1",
+        "description": "The goal of n-shot learning is the classification of input data from small datasets. This type of learning is challenging in neural networks, which typically need a high number of data during the training process. Recent advancements in data augmentation allow us to produce an infinite number of target conditions from the primary condition. This process includes two main steps for finding the best augmentations and training the data with the new augmentation techniques. Optimizing these two steps for n-shot learning is still an open problem. In this paper, we propose a new method for auto-augmentation to address both of these problems. The proposed method can potentially extract many possible types of information from a small number of available data points in n-shot learning. The results of our experiments on five prominent n-shot learning datasets show the effectiveness of the proposed method.",
+        "citations": 16
+    },
+    {
+        "title": "Visual localization for autonomous driving: Mapping the accurate location in the city maze",
+        "id": "uICY0vEAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Dongfang Liu",
+            "Yiming Cui",
+            "Xiaolei Guo",
+            "Wei Ding",
+            "Baijian Yang",
+            "Yingjie Chen"
+        ],
+        "pub_source": "2020 25th international conference on pattern recognition (ICPR)",
+        "pub_date": "2021/1/10",
+        "description": "Accurate localization is a foundational capacity, required for autonomous vehicles to accomplish other tasks such as navigation or path planning. It is a common practice for vehicles to use GPS to acquire location information. However, the application of GPS can result in severe challenges when vehicles run within the inner city where different kinds of structures may shadow the GPS signal and lead to inaccurate location results. To address the localization challenges of urban settings, we propose a novel feature voting technique for visual localization. Different from the conventional front-view-based method, our approach employs views from three directions (front, left, and right) and thus significantly improves the robustness of location prediction. In our work, we craft the proposed feature voting method into three state-of-the-art visual localization networks and modify their architectures properly so that they can be\u00a0\u2026",
+        "citations": 34
+    },
+    {
+        "title": "Tf-blender: Temporal feature blender for video object detection",
+        "id": "uICY0vEAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Yiming Cui",
+            "Liqi Yan",
+            "Zhiwen Cao",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF international conference on computer vision",
+        "pub_date": "2021",
+        "description": "Video objection detection is a challenging task because isolated video frames may encounter appearance deterioration, which introduces great confusion for detection. One of the popular solutions is to exploit the temporal information and enhance per-frame representation through aggregating features from neighboring frames. Despite achieving improvements in detection, existing methods focus on the selection of higher-level video frames for aggregation rather than modeling lower-level temporal relations to increase the feature representation. To address this limitation, we propose a novel solution named TF-Blender, which includes three modules: 1) Temporal relation models the relations between the current frame and its neighboring frames to preserve spatial information. 2). Feature adjustment enriches the representation of every neighboring feature map; 3) Feature blender combines outputs from the first two modules and produces stronger features for the later detection tasks. For its simplicity, TF-Blender can be effortlessly plugged into any detection network to improve detection behavior. Extensive evaluations on ImageNet VID and YouTube-VIS benchmarks indicate the performance guarantees of using TF-Blender on recent state-of-the-art methods.",
+        "citations": 135
+    },
+    {
+        "title": "Sg-net: Spatial granularity network for one-stage video instance segmentation",
+        "id": "uICY0vEAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Dongfang Liu",
+            "Yiming Cui",
+            "Wenbo Tan",
+            "Yingjie Chen"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+        "pub_date": "2021",
+        "description": "Video instance segmentation (VIS) is a new and critical task in computer vision. To date, top-performing VIS methods extend the two-stage Mask R-CNN by adding a tracking branch, leaving plenty of room for improvement. In contrast, we approach the VIS task from a new perspective and propose a one-stage spatial granularity network (SG-Net). SG-Net demonstrates four advantages: 1) Our task heads (detection, segmentation, and tracking) are crafted interdependently so they can effectively share features and enjoy the joint optimization; 2) Each of our task predictions avoids using proposal-based RoI features, resulting in much reduced runtime complexity per instance; 3) Our mask prediction is dynamically performed on the sub-regions of each detected instance, leading to high-quality masks of fine granularity; 4) Our tracking head models objects' centerness movements for tracking, which effectively enhances the tracking robustness to different object appearances. In evaluation, we present state-of-the-art comparisons on the YouTube-VIS dataset. Extensive experiments demonstrate that our compact one-stage method can achieve improved performance in both accuracy and inference speed. We hope our SG-Net could serve as a simple yet strong baseline for the VIS task. Code will be available.",
+        "citations": 180
+    },
+    {
+        "title": "A vector-based representation to enhance head pose estimation",
+        "id": "uICY0vEAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Zhiwen Cao",
+            "Zongcheng Chu",
+            "Dongfang Liu",
+            "Yingjie Chen"
+        ],
+        "pub_source": "Proceedings of the IEEE/CVF Winter Conference on applications of computer vision",
+        "pub_date": "2021",
+        "description": "This paper proposes to use the three vectors in a rotation matrix as the representation in head pose estimation and develops a new neural network based on the characteristic of such representation. We address two potential issues existed in current head pose estimation works: 1. Public datasets for head pose estimation use either Euler angles or quaternions to annotate data samples. However, both of these annotations have the issue of discontinuity and thus could result in some performance issues in neural network training. 2. Most research works report Mean Absolute Error (MAE) of Euler angles as the measurement of performance. We show that MAE may not reflect the actual behavior especially for the cases of profile views. To solve these two problems, we propose a new annotation method which uses three vectors to describe head poses and a new measurement Mean Absolute Error of Vectors (MAEV) to assess the performance. We also train a new neural network to predict the three vectors with the constraints of orthogonality. Our proposed method achieves state-of-the-art results on both AFLW2000 and BIWI datasets. Experiments show our vector-based annotation method can effectively reduce prediction errors for large pose angles.",
+        "citations": 96
+    },
+    {
+        "title": "Multimodal aggregation approach for memory vision-voice indoor navigation with meta-learning",
+        "id": "uICY0vEAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Liqi Yan",
+            "Dongfang Liu",
+            "Yaoxian Song",
+            "Changbin Yu"
+        ],
+        "pub_source": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "pub_date": "2020/10/24",
+        "description": "Vision and voice are two vital keys for agents\u2019 interaction and learning. In this paper, we present a novel indoor navigation model called Memory Vision-Voice Indoor Navigation (MVV-IN), which receives voice commands and analyzes multimodal information of visual observation in order to enhance robots\u2019 environment understanding. We make use of single RGB images taken by a rst-view monocular camera. We also apply a self-attention mechanism to keep the agent focusing on key areas. Memory is important for the agent to avoid repeating certain tasks unnecessarily and in order for it to adapt adequately to new scenes, therefore, we make use of meta-learning. We have experimented with various functional features extracted from visual observation. Comparative experiments prove that our methods outperform state-of-the-art baselines.",
+        "citations": 18
+    },
+    {
+        "title": "Video object detection for autonomous driving: Motion-aid feature calibration",
+        "id": "uICY0vEAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Dongfang Liu",
+            "Yiming Cui",
+            "Yingjie Chen",
+            "Jiyong Zhang",
+            "Bin Fan"
+        ],
+        "pub_source": "Neurocomputing",
+        "pub_date": "2020/10/7",
+        "description": "This paper proposes an end-to-end deep learning framework, termed as motion-aid feature calibration network (MFCN), for video object detection. The key idea is to leverage on the temporal coherence of video features while considering their motion patterns as captured by optical flow. To boost detection accuracy, the framework aggregates the calibrated features both at pixel and instance levels across frames to achieve improved robustness despite appearance variations. The aggregation and calibration are efficiently and adaptively conducted based on an integrated optical flow network. Meanwhile, the entire architecture of the proposed method is end-to-end, thus significantly improving its training and inference efficiency when compared to multi-stage methods for video object detection. Evaluations on KITTI and ImageNet VID indicate that MFCN can improve the results of a strong still-image detector by 11.2\u00a0\u2026",
+        "citations": 84
+    },
+    {
+        "title": "VR-PAVIB: The virtual reality pedestrian-autonomous vehicle interaction benchmark",
+        "id": "uICY0vEAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Ana Fiona Dalipi",
+            "Dongfang Liu",
+            "Xiaolei Guo",
+            "Yingjie Chen",
+            "Christos Mousas"
+        ],
+        "pub_source": "12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+        "pub_date": "2020/9/21",
+        "description": "Autonomous vehicles (AVs) are an emerging theme for future transportation. However, research on pedestrian-AV interaction, which promotes pedestrian safety during autonomous driving, is not a well-explored domain. One challenge preventing the development of pedestrian-AV interaction research is that there is no publicly available and standardized benchmark to allow researchers to investigate how different interfaces could help pedestrians communicate with AVs. To resolve this challenge, we introduce the Virtual Reality Pedestrian-Autonomous Vehicle Interaction Benchmark (VR-PAVIB). VR-PAVIB is a standardized platform that can be used to reproduce interaction scenarios and compare results. Our benchmark provides state-of-the-art functionalities that can easily be implemented in any interaction scenario authored by a user. The VR-PAVIB can easily be used in a controlled lab space using low-cost\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Indoor navigation for mobile agents: A multimodal vision fusion model",
+        "id": "uICY0vEAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Dongfang Liu",
+            "Yiming Cui",
+            "Zhiwen Cao",
+            "Yingjie Chen"
+        ],
+        "pub_source": "2020 international joint conference on neural networks (IJCNN)",
+        "pub_date": "2020/7/19",
+        "description": "Indoor navigation is a challenging task for mobile agents. The latest vision-based indoor navigation methods make remarkable progress in this field but do not fully leverage visual information for policy learning and struggle to perform well in unseen scenes. To address the existing limitations, we present a multimodal vision fusion model (MVFM). We implement a joint modality of different image recognition networks for navigation policy learning. The proposed model incorporates object detection for target searching, depth estimation for distance prediction, and semantic segmentation to depict the walkable region. In design, our model provides holistic vision knowledge for navigation. Evaluation on AI2-THOR indicates that MVFM improves on the results of a strong baseline model by 3.49% for Success weighted by Path Length (SPL) and 4% for success rate respectively. In comparison with other state-of-the-art\u00a0\u2026",
+        "citations": 22
+    },
+    {
+        "title": "A large-scale simulation dataset: Boost the detection accuracy for special weather conditions",
+        "id": "uICY0vEAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Dongfang Liu",
+            "Yiming Cui",
+            "Zhiwen Cao",
+            "Yingjie Chen"
+        ],
+        "pub_source": "2020 International joint conference on neural networks (IJCNN)",
+        "pub_date": "2020/7/19",
+        "description": "Object detection is a fundamental task for autonomous driving systems. One bottleneck hindering detection accuracy is a shortage of well-annotated image data. Virtual reality has provided a feasible low-cost way to facilitate computer vision related developments. In autonomous driving area, existing public datasets from real world generally have data biases and cannot represent a wide range of weather conditions, such as rainy or snowy roads. To address this challenge, we introduce a new large-scale simulation dataset which is generated by an automated pipeline from a high realism video game. Our dataset focuses on weather conditions, which can be adopted to train networks to effectively detect objects under such conditions. We use extensive experiments to evaluate our dataset by comparing it with public datasets. The experiment results show that networks trained with our dataset outperform the networks\u00a0\u2026",
+        "citations": 29
+    },
+    {
+        "title": "Chinese university faculty members' visiting experience and professional growth in American universities",
+        "id": "uICY0vEAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Jie Hu",
+            "Kezheng Chen",
+            "Dongfang Liu"
+        ],
+        "pub_source": "Social Behavior and Personality: an international journal",
+        "pub_date": "2020/5/5",
+        "description": "We empirically investigated Chinese university faculty members' visiting experience and professional growth in American universities. The major data source was qualitative semistructured interviews with 30 Chinese faculty members in the arts, engineering, natural sciences, and social sciences disciplines. The results showed that, despite challenges in preparation, language, and different academic cultures, Chinese visiting scholars were capable of navigating their host programs and achieving professional growth as they moved from peripheral to central participation in their academic community. We also critically discussed how Chinese visiting scholars' academic experience in the United States can be improved, and cast light on the globalization of higher education.",
+        "citations": 14
+    },
+    {
+        "title": "Accurate lane detection for self-driving cars: An approach based on color filter adjustment and k-means clustering filter",
+        "id": "uICY0vEAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Dongfang Liu",
+            "Yaqin Wang",
+            "Tian Chen",
+            "Eric T Matson"
+        ],
+        "pub_source": "International Journal of Semantic Computing",
+        "pub_date": "2020/3",
+        "description": "Lane detection is a crucial factor for self-driving cars to achieve a fully autonomous mode. Due to its importance, lane detection has drawn wide attention in recent years for autonomous driving. One challenge for accurate lane detection is to deal with noise appearing in the input image, such as object shadows, brake marks, breaking lane lines. To address this challenge, we propose an effective road detection algorithm. We leverage the strength of color filters to find a rough localization of the lane marks and employ a K-means clustering filter to screen out the embedded noises. We use an extensive experiment to verify the effectiveness of our method. The result indicates that our approach is robust to process noises appearing in input image, which improves the accuracy in lane detection.",
+        "citations": 6
+    },
+    {
+        "title": "Virtual world bridges the real challenge: Automated data generation for autonomous driving",
+        "id": "uICY0vEAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Dongfang Liu",
+            "Yaqin Wang",
+            "Kar Ee Ho",
+            "Zhiwei Chu",
+            "Eric Matson"
+        ],
+        "pub_source": "2019 IEEE Intelligent Vehicles Symposium (IV)",
+        "pub_date": "2019/6/9",
+        "description": "In autonomous driving research, one of the bottlenecks is the shortage of a well-annotated dataset to train deep neural networks for object detection. Specifically, a dataset focusing on harsh weather conditions is insufficient. The purpose of this research is to explore the power of utilizing synthetic data for training object detection deep neural networks under harsh weather conditions. We introduce a state-of-the-art automated pipeline to collect synthetic images from a high realism video game and generate training data which can be used for training an autonomous driving object detection neural network. We use our synthetic dataset, KITTI, and Cityscapes to train three separate object detection neural networks and employ the PASCAL object detection criteria to evaluate each neural networks' performance. The results from the experiment indicate that the neural network trained by our synthetic dataset outperforms\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Application of color filter adjustment and k-means clustering method in lane detection for self-driving cars",
+        "id": "uICY0vEAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Dongfang Liu",
+            "Yaqin Wang",
+            "Tian Chen",
+            "Eric T Matson"
+        ],
+        "pub_source": "2019 Third IEEE international conference on robotic computing (IRC)",
+        "pub_date": "2019/2/25",
+        "description": "The lane detection is a crucial key fact for advanced driving assistance systems. Hence, it is an active filed of research in recent years. The challenges to confront is to deal with various scenarios, such as when shadow interference or inconsistency of the road color and texture occur. This study propose to use a combination of color filters and a K-Means clustering filter to reduce the interfering noise. The result of our experiments show significant improvement in the noise robustness in lane detection.",
+        "citations": 16
+    },
+    {
+        "title": "The condition of poverty: A case study of low socioeconomic status on Chinese students\u2019 National College Entrance Exam and college enrolment",
+        "id": "uICY0vEAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Dongfang Liu",
+            "Heng-Yu Ku",
+            "Thomas Lee Morgan"
+        ],
+        "pub_source": "Asia Pacific Journal of Education",
+        "pub_date": "2019/1/2",
+        "description": "The condition of poverty is pervasive worldwide and is multifaceted in its ability to have a deleterious generational impact. Although China has greatly reduced the proportion of people living in abject poverty over the past three decades, there are still millions of families living in extreme poverty. This study investigated the influences of families\u2019 socioeconomic status on students\u2019 educational achievement in China with regard to the National College Entrance Exam (NCEE) scores and subsequent college enrolment. We interviewed 132 recent high school graduates from schools in six urban cities from low-socio-economic status (SES) homes. The findings revealed that school climate (general school quality, student-teacher interactions, and peer pressure) and home environment (parental support, student-parent relationship, and family size) negatively impacted their educational achievement. Students were cognisant\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "End-to-end Learning Approach for Autonomous Driving: A Convolutional Neural Network Model.",
+        "id": "uICY0vEAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Yaqin Wang",
+            "Dongfang Liu",
+            "Hyewon Jeon",
+            "Zhiwei Chu",
+            "Eric T Matson"
+        ],
+        "pub_source": "ICAART (2)",
+        "pub_date": "2019",
+        "description": "End-to-end approach is one of the frequently used approaches for the autonomous driving system. In this study, we adopt the end-to-end approach because this approach has been approved to lead to a distinguished performance with a simpler system. We build a convolutional neural network (CNN) to map raw pixels from cameras of three different angles and to generate steering commands to drive a car in the Udacity simulator. Our proposed model has a promising result, which is more accurate and has lower loss rate comparing to previous models.",
+        "citations": 27
+    },
+    {
+        "title": "Test anxiety: Perceptions of American community college nursing students",
+        "id": "uICY0vEAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Dongfang Liu",
+            "Bo Xu"
+        ],
+        "pub_source": "Empirical Research in Vocational Education and Training",
+        "pub_date": "2017/12",
+        "description": "Background Nowadays, there are common phenomena among college nursing students who reported increasingly test anxiety. The purpose of this phenomenological study was to increase understanding of American community college nursing students and their experiences using an extended time and other form of supportive accommodation to address test anxiety.  Methods This study utilized focus group interview and carefully selected eight participants to join this research. The authors completed coding, categorizing, and identification of themes based on Moustakes\u2019 (1994, in Phenomenological research methods. Sage, Thousand Oaks) approach to data analysis. A transcription of the focus group recording was read to inform a general impression of the experiences of our participants. A final list of significant statements was developed, and from\u00a0\u2026",
+        "citations": 25
+    },
+    {
+        "title": "An exploration of experiences of low socioeconomic Chinese students who achieved high scores on the national college entrance exam",
+        "id": "uICY0vEAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Dongfang Liu"
+        ],
+        "pub_source": "University of Northern Colorado",
+        "pub_date": "2017",
+        "description": "Although the economy has been developing at a fast pace for the last few decades, there is still a relatively high low SES population within the Chinese society, which constitutes a contextual barrier to educational equity in Chinese education. Meanwhile, the Chinese government has been administering assistance policies in education to promote education equity, such as the milestone policy introduced by the Compulsory Education Law that requires all school-age children to attend grades one through nine for free. This policy has brought immense prosperity to the majority of citizens. However, Chinese education still faces a large array of challenges pertaining to the imbalanced development, funding shortages, lack of qualified educators, household registration system, family mobility, and so forth. These challenges compromise low SES students\u2019 educational attainment and performance on high-stake tests, such\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Strategies to promote Chinese international students\u2019 school performance: Resolving the challenges in American higher education",
+        "id": "uICY0vEAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Dongfang Liu"
+        ],
+        "pub_source": "Asian-Pacific journal of second and foreign language education",
+        "pub_date": "2016/12",
+        "description": "In recent years, there has been an increase in Chinese international students attending American universities. Chinese international students in American higher education represent the largest group of international students from a single country. However, research and media reports have documented that Chinese students in America are now facing a variety of difficulties in their education in America. In this regard, this study aims to track Chinese international student progress and further identify supports that may increase their academic success at American universities and colleges. Informed by the voices and experiences of participants, the findings from the study demonstrate that the Chinese international students who are currently attending American higher education are facing difficulties in language proficiency, emotional issues, and American pedagogy. Based on the findings, the author has\u00a0\u2026",
+        "citations": 45
+    },
+    {
+        "title": "Good Instructional Leadership: Principals' Actions to Increase Composite ACT School Scores.",
+        "id": "uICY0vEAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Bo Xu",
+            "Dongfang Liu"
+        ],
+        "pub_source": "International Education Studies",
+        "pub_date": "2016",
+        "description": "Due to increased college admission requirements and a 20-year flat-lined trend in ACT scores, it is imperative for education leaders across the nation to implement effective strategies to increase ACT composite scores. High school principals, as instructional leaders and decision makers, are the major stakeholders who are vested in the outcomes of the study. Findings based upon questionnaires can provide a description of the actions that principals report taking to increase composite ACT school scores.",
+        "citations": 15
+    },
+    {
+        "title": "Mitigating transitional challenges of Chinese students in US higher education.",
+        "id": "uICY0vEAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Dongfang Liu",
+            "Linda R Vogel"
+        ],
+        "pub_source": "Higher Education Studies",
+        "pub_date": "2016",
+        "description": "The number of Chinese international students enrolled in U.S. higher education has significantly grown over the past two decades. In 2015, Chinese international students accounted for the largest group of international students from any one single country. Previous research acknowledges Chinese students encountering significant difficulties in U.S. education institutions. However, research specifically targeting the Chinese demographic within U.S. higher education institutions has not been extensively explored toward mitigation. This study tracks Chinese international students' transition to the United States, while primarily focusing on student-perspective of their preparation in China, acclimation experience in the U.S., and response to environmental change.",
+        "citations": 27
+    },
+    {
+        "title": "Supplementary Material of \u201cText Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval\u201d",
+        "id": "uICY0vEAAAAJ:fPk4N6BV_jEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:fPk4N6BV_jEC",
+        "authors": [
+            "Jiamian Wang",
+            "Guohao Sun",
+            "Pichao Wang",
+            "Dongfang Liu",
+            "Sohail Dianat",
+            "Majid Rabbani",
+            "Raghuveer Rao",
+            "Zhiqiang Tao"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "We provide more results, visualizations, and in-depth discussions of the proposed T-MASS as follows\u2022 More quantitative performance of T-MASS (Section 1).\u2022 Discussions about stochastic text embedding (Section 2).\u2022 Text length analysis of T-MASS (Section 3)\u2022 More discussions on KL divergence (Section 4)."
+    },
+    {
+        "title": "Learning Equivariant Segmentation with Instance-Unique Querying Supplementary Material",
+        "id": "uICY0vEAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Wenguan Wang",
+            "James Liang",
+            "Dongfang Liu"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "More Base Instance Segmenters. To further demonstrate the power of our methodology, we apply our training algorithm to two additional, concurrent query-based instance segmentation models (ie, SparseInst [2] and SOLQ [3]), with their default hyperparameter settings. The results on the COCO test-dev are reported in Table S1. SparseInst [2] is a fast segmenter that learns a sparse set of instance-aware queries and predicts instances in a one-to-one style without non-maximum suppression. As seen, with the help of our algorithm, the performance is significantly boosted to 36.7 and 37.7 AP with ResNet-50 [4] and ResNet-50-DCN [5] backbones, which are 2.0 and 2.3 higher than the baseline, respectively. SOLQ [3] is a very recent segmenter that learns a unified query representation to directly predict the class, location, and mask of the instance. Similarly, our algorithm greatly promotes the performance by 2.2 AP correspondingly with ResNet-50. On the top of SOLQ, we also test our algorithm on the strong backbone\u2014Swin [6] backbone. Without bells and whistles, our algorithm also yields a consistent 2.0 improvement in AP, a strong indication that the proposed method is also compatible with transformer-based backbone network architecture.\u2217 authors contributed equally\u2020 corresponding author"
+    },
+    {
+        "title": "WebFormer: The Web-page Transformer for Structure Information Extraction",
+        "id": "uICY0vEAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=uICY0vEAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            ""
+        ],
+        "pub_source": "",
+        "pub_date": ""
+    }
+]

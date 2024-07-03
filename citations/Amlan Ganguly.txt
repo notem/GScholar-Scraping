@@ -1,0 +1,422 @@
+"Unlocking human-robot synergy: The power of intent communication in warehouse robotics"
+SS Bhattathiri, A Bogovik, M Abdollahi, C Hochgraf, ME Kuhl, A Ganguly, A Kwasinski, E Rashedi - Applied Ergonomics, 2024
+
+"ReApprox-PIM: Reconfigurable Approximate Look-Up-Table (LUT)-Based Processing-in-Memory (PIM) Machine Learning Accelerator"
+S Bavikadi, PR Sutradhar, M Indovina, A Ganguly, SMP Dinakarrao - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024
+
+"Reconfigurable Processing-in-Memory Architecture for Data Intensive Applications"
+S Bavikadi, PR Sutradhar, A Ganguly, SMP Dinakarrao - 2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), 2024
+
+"Neural network execution using nicked DNA and microfluidics"
+A Solanki, Z Griffin, PR Sutradhar, K Pradhan, C Merritt, A Ganguly, M Riedel - Plos one, 2023
+
+"Evaluation of 60 GHz Wireless Connectivity for an Automated Warehouse Suitable for Industry 4.0"
+R Gulia, A Vashist, A Ganguly, C Hochgraf, ME Kuhl - Information, 2023
+
+"Address Obfuscation to Protect against Hardware Trojans in Network-on-Chips"
+T Mountford, A Dhavlle, A Tevebaugh, N Mansoor, SMP Dinakarrao, A Ganguly - Journal of Low Power Electronics and Applications, 2023
+
+"Guest Editors Introduction: Special Issue on Network-on-Chip Architectures of the Future (NoCArc)"
+A Ganguly, S Monteleone, D Goehringer, C Ababei - ACM Journal on Emerging Technologies in Computing Systems 19 (3), 1-3, 2023
+
+"3DL-PIM: A Look-up Table oriented Programmable Processing in Memory Architecture based on the 3-D Stacked Memory for Data-Intensive Applications"
+PR Sutradhar, S Bavikadi, SMP Dinakarrao, MA Indovina, A Ganguly - IEEE Transactions on Emerging Topics in Computing, 2023
+
+"FlutPIM: A Look-up Table-based Processing in Memory Architecture with Floating-point Computation Support for Deep Learning Applications"
+PR Sutradhar, S Bavikadi, M Indovina, SMP Dinakarrao, A Ganguly - Proceedings of the Great Lakes Symposium on VLSI 2023, 2023
+
+"Defense against on-chip trojans enabling traffic analysis attacks based on machine learning and data augmentation"
+A Dhavlle, MM Ahmed, N Mansoor, K Basu, A Ganguly, SMP Dinakarrao - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023
+
+"Towards Improving the Human-Robot Communication in Intelligent Materials Handling Environments"
+SS Bhattathiri, A Bogovik, M Abdollahi, C Hochgraf, M Kuhl, A Ganguly, A Kwasinski, E Rashedi - IISE Annual Conference and Expo, 2023
+
+"Heterogeneous Multi-Functional Look-Up-Table-based Processing-in-Memory Architecture for Deep Learning Acceleration"
+S Bavikadi, PR Sutradhar, A Ganguly, SMP Dinakarrao - 2023 24th International Symposium on Quality Electronic Design (ISQED), 2023
+
+"Accelerating Adversarial Attack using Process-in-Memory Architecture"
+S Liu, S Bavikadi, T Sen, H Shen, PR Sutradhar, A Ganguly, SMP Dinakarrao, BL Smith - 2022 18th International Conference on Mobility, Sensing and Networking (MSN), 2022
+
+"Implementation and evaluation of deep neural networks in commercially available processing in memory hardware"
+P Das, PR Sutradhar, M Indovina, SMP Dinakarrao, A Ganguly - 2022 IEEE 35th International System-on-Chip Conference (SOCC), 2022
+
+"Polar: Performance-aware on-device learning capable programmable processing-in-memory architecture for low-power ml applications"
+S Bavikadi, PR Sutradhar, MA Indovina, A Ganguly, SMP Dinakarrao - 2022 25th Euromicro Conference on Digital System Design (DSD), 2022
+
+"Guest Editors’ Introduction: Special Issue on Benchmarking Machine Learning Systems and Applications"
+SMP Dinakarrao, A Joseph, A Ganguly, A Haridass, VJ Reddi - IEEE Design & Test, 2022
+
+"A survey on machine learning accelerators and evolutionary hardware platforms"
+S Bavikadi, A Dhavlle, A Ganguly, A Haridass, H Hendy, C Merkel, VJ Reddi, PR Sutradhar, A Joseph, SMP Dinakarrao - IEEE Design & Test, 2022
+
+"Interconnects for DNA, quantum, in-memory, and optical computing: insights from a panel discussion"
+A Ganguly, S Abadal, I Thakkar, NE Jerger, M Riedel, M Babaie, R Balasubramonian, A Sebastian, S Pasricha, B Taskin - IEEE micro, 2022
+
+"DQN Based Exit Selection in Multi-Exit Deep Neural Networks for Applications Targeting Situation Awareness"
+A Vashist, SVV Shanmugham, A Ganguly, SM PD - 2022 IEEE International Conference on Consumer Electronics (ICCE), 2022
+
+"Evaluation of Wireless Connectivity in an Automated Warehouse at 60 GHz"
+RS Gulia, SA Mamun, A Vashist, A Ganguly, C Hochgraf, A Kwasinski, ME Kuhl - 2022 IEEE International Conference on Consumer Electronics (ICCE), 2022
+
+"Flexible instruction set architecture for programmable look-up table based processing-in-memory"
+M Connolly, PR Sutradhar, M Indovina, A Ganguly - 2021 IEEE 39th International Conference on Computer Design (ICCD), 2021
+
+"An ultra-efficient look-up table based programmable processing in memory architecture for data encryption"
+PR Sutradhar, K Basu, SMP Dinakarrao, A Ganguly - 2021 IEEE 39th International Conference on Computer Design (ICCD), 2021
+
+"KF-Loc: A Kalman filter and machine learning integrated localization system using consumer-grade millimeter-wave hardware"
+A Vashist, MP Li, A Ganguly, SM PD, C Hochgraf, R Ptucha, A Kwasinski, ME Kuhl - IEEE Consumer Electronics Magazine, 2021
+
+"upim: Performance-aware online learning capable processing-in-memory"
+S Bavikadi, PR Sutradhar, A Ganguly, SMP Dinakarrao - 2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2021
+
+"What can a remote access hardware trojan do to a network-on-chip?"
+MM Ahmed, A Dhavlle, N Mansoor, SMP Dinakarrao, K Basu, A Ganguly - 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
+
+"Design Space Exploration and Resource Management of Multi/Many-Core Systems"
+AK Singh, A Ganguly - MDPI, 2021
+
+"Look-up-table based processing-in-memory architecture with programmable precision-scaling for deep learning applications"
+PR Sutradhar, S Bavikadi, M Connolly, S Prajapati, MA Indovina, SMP Dinakarrao, A Ganguly - IEEE Transactions on Parallel and Distributed Systems, 2021
+
+"AWARe-Wi: A jamming-aware reconfigurable wireless interconnection using adversarial learning for multichip systems"
+MM Ahmed, A Ganguly, A Vashist, SMP Dinakarrao - Sustainable Computing: Informatics and Systems, 2021
+
+"NASCon: Network-Aware Server Consolidation for server-centric wireless datacenters"
+SA Mamun, A Ganguly, PP Markopoulos, M Kwon, A Kwasinski - Sustainable Computing: Informatics and Systems, 2021
+
+"Security frameworks for intra and inter-chip wireless interconnection networks"
+MM Ahmed, A Vashist, A Keats, A Ganguly, SMP Dinakarrao - Network-on-Chip Security and Privacy, 2021
+
+"Proceedings of the 14th International Workshop on Network on Chip Architectures"
+A Ganguly - Association for Computing Machinery, 2021
+
+"Fundamentals of heat dissipation in 3D IC packaging and thermal-aware design"
+SG Kandlikar, A Ganguly - 3D Microelectronic Packaging: From Architectures to Applications, 2021
+
+"Defense against on-chip trojans enabling traffic analysis attacks"
+MM Ahmed, A Dhavlle, N Mansoor, P Sutradhar, SMP Dinakarrao, K Basu, A Ganguly - 2020 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2020
+
+"Architecting a secure wireless interconnect for multichip communication: An ML approach"
+M Ahmed, A Vashist, SMP Dinakarrao, A Ganguly - 2020 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2020
+
+"Risk-Based A*: Simulation Analysis of a Novel Task Assignment and Path Planning Method"
+MP Li, ME Kuhl, R Ballamajalu, C Hochgraf, R Ptucha, A Ganguly, A Kwasinski - 2020 Winter Simulation Conference (WSC), 2020
+
+"What can ail thee: New and old security vulnerabilities of wireless datacenters"
+SA Mamun, A Ganguly, PP Markopoulos, A Kwasinski, M Kwon - GLOBECOM 2020-2020 IEEE Global Communications Conference, 2020
+
+"PROGRAM COMMITTEE (CASES)"
+PP Pande, U Ogras, A Akoglu, L Bauer, S Bhunia, O Bringmann, L Carloni, J Castrillon, H Charles, M Chaudhuri, A Das, J Doppa, L Duan, C Dubach, W Fornaciari, A Ganguly, P Gupta, Y Hara-Azumi, J Henkel, J Hu, P Ienne, H Jayakumar, T Jones, C Jung, R Karri, R Kim, A Krall, A Kumar, J Lee, C Lee, M Lipasti, Z Lu, S Mahlke, A Malik, M Maniatakos, P Mercati, V Narayanan, R Nasre, S Parameswaran, A Pathania, C Pilato, L Pozzi, U Lugano, SMP Dinakarrao, S Roy, JS Miguel, A Shrivastava, AK Singh, T Strufe, K Swaminathan, H Tomiyama, J Vetter, H Wang, W Wong, S Yin, S Yoo, W Zhang - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020
+
+"Intra-and inter-server smart task scheduling for profit and energy optimization of HPC data centers"
+SA Mamun, A Gilday, AK Singh, A Ganguly, GV Merrett, X Wang, BM Al-Hashimi - Journal of Low Power Electronics and Applications, 2020
+
+"Antenna arrays as millimeter-wave wireless interconnects in multichip systems"
+RS Narde, J Venkataraman, A Ganguly, I Puchades - IEEE Antennas and Wireless Propagation Letters, 2020
+
+"The IANET Hardware Accelerator for Audio and Visual Data Classification"
+RJ Gillela, A Ganguly, D Patru, MA Indovina - 2020 IEEE 33rd International System-on-Chip Conference (SOCC), 2020
+
+"A review of in-memory computing architectures for machine learning applications"
+S Bavikadi, PR Sutradhar, KN Khasawneh, A Ganguly, SMP Dinakarrao - Proceedings of the 2020 on Great Lakes Symposium on VLSI, 89-94, 2020
+
+"An asymmetric, one-to-many traffic-aware mm-wave wireless interconnection architecture for multichip systems"
+MM Ahmed, N Mansoor, A Ganguly - IEEE Transactions on Emerging Topics in Computing, 2020
+
+"pPIM: A programmable processor-in-memory architecture with precision-scaling for deep learning"
+PR Sutradhar, M Connolly, S Bavikadi, SMP Dinakarrao, MA Indovina, A Ganguly - IEEE Computer Architecture Letters, 2020
+
+"Security vulnerabilities of server-centric wireless datacenters"
+SA Mamun, A Ganguly, PP Markopoulos, A Kwasinski, M Kwon - 2020 IEEE Conference on Communications and Network Security (CNS), 2020
+
+"A one-to-many traffic-oriented mm-wave wireless network-in-package interconnection architecture for multichip computing systems"
+MM Ahmed, N Mansoor, A Ganguly - Sustainable Computing: Informatics and Systems, 2020
+
+"Scalable and energy efficient wireless inter chip interconnection fabrics using THz-band antennas"
+S Saxena, DS Manur, N Mansoor, A Ganguly - Journal of Parallel and Distributed Computing, 2020
+
+"Improving Multimodal Localization Through Self-Supervision."
+R Relyea, DR Bhanushali, K Manghi, A Vashist, C Hochgraf, A Ganguly, A Kwasinski, ME Kuhl, RW Ptucha - IRIACV, 2020
+
+"LiDAR-camera fusion for 3D object detection"
+D Bhanushali, R Relyea, K Manghi, A Vashist, C Hochgraf, A Ganguly, A Kwasinski, ME Kuhl, R Ptucha - Electronic Imaging, 2020
+
+"Indoor wireless localization using consumer-grade 60 GHz equipment with machine learning for intelligent material handling"
+A Vashist, DR Bhanushali, R Relyea, C Hochgraf, A Ganguly, PS Manoj, R Ptucha, A Kwasinski, ME Kuhl - 2020 IEEE International Conference on Consumer Electronics (ICCE), 2020
+
+"Task selection by autonomous mobile robots in a warehouse using deep reinforcement learning"
+MP Li, P Sankaran, ME Kuhl, R Ptucha, A Ganguly, A Kwasinski - 2019 Winter Simulation Conference (WSC), 2019
+
+"Unified testing and security framework for wireless network-on-chip enabled multi-core chips"
+A Vashist, A Keats, SMP Dinakarrao, A Ganguly - ACM Transactions on Embedded Computing Systems (TECS), 2019
+
+"Network-aware server consolidation for wireless data centers"
+SA Mamun, A Ganguly, M Kwon, A Kwasinski, PP Markopoulos - 2019 10th International Conference on Networks of the Future (NoF), 2019
+
+"Securing a wireless network-on-chip against jamming-based denial-of-service and eavesdropping attacks"
+A Vashist, A Keats, SMP Dinakarrao, A Ganguly - IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2019
+
+"Intra-and inter-chip transmission of millimeter-wave interconnects in NoC-based multi-chip systems"
+RS Narde, J Venkataraman, A Ganguly, I Puchades - IEEE Access, 2019
+
+"Energy efficient chip-to-chip wireless interconnection for heterogeneous architectures"
+SH Gade, MM Ahmed, S Deb, A Ganguly - ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019
+
+"Securing a wireless network-on-chip against jamming based denial-of-service attacks"
+A Vashist, A Keats, SMP Dinakarrao, A Ganguly - 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2019
+
+"Disc-Loaded, Vertical Top-Hat Monopole Antenna at 225 GHz for On-Chip Wireless Communications"
+RS Narde, J Venkataraman, A Ganguly - 2019 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting, 2019
+
+"Evaluation of wireless network-on-chip architectures with microchannel-based cooling in 3D multicore chips"
+MS Shamim, RS Narde, J Gonzalez-Hernandez, A Ganguly, J Venkatarman, SG Kandlikar - Sustainable Computing: Informatics and Systems, 2019
+
+"Multimodal localization for autonomous agents"
+R Relyea, D Bhanushali, A Vashist, A Ganguly, A Kwasinski, ME Kuhl, R Ptucha - Electronic Imaging, 2019
+
+"Simulation Analysis of a Highway DNN for Autonomous Forklift Dispatching"
+P Sankaran, MP Li, ME Kuhl, R Ptucha, A Ganguly, A Kwasinski - IIE Annual Conference. Proceedings, 2019
+
+"VLSI Circuits and Systems Letter"
+A Sengupta, VK Mishra, D Pan, Y Jin, T Theocharides, P Ghosal, M Sarkar, A Ganguly, N Mansoor, MS Shamim, C Zhuo - IEEE 5 (1), 2019
+
+"Simulation analysis of a deep reinforcement learning approach for task selection by autonomous material handling vehicles"
+MP Li, P Sankaran, ME Kuhl, A Ganguly, A Kwasinski, R Ptucha - 2018 Winter simulation conference (WSC), 2018
+
+"An Asymmetric, Energy Efficient One-to-Many Traffic-Aware Wireless Network-in-Package Interconnection Architecture for Multichip Systems"
+MM Ahmed, N Mansoor, A Ganguly - 2018 Ninth International Green and Sustainable Computing Conference (IGSC), 2018
+
+"Making Cables Disappear: Can Wireless Datacenter be a Reality?"
+SA Mamun, A Ganguly - 2018 Ninth International Green and Sustainable Computing Conference (IGSC), 2018
+
+"Testing winoc-enabled multicore chips with bist for wireless interconnects"
+A Vashist, A Ganguly, M Indovina - 2018 Twelfth IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 2018
+
+"A one-to-many traffic aware wireless network-in-package for multi-chip computing platforms"
+MM Ahmed, A Ganguly, SM Shahriat, H Pruswani, N Mansoor - 2018 31st IEEE International System-on-Chip Conference (SOCC), 2018
+
+"A traffic-aware medium access control mechanism for energy-efficient wireless network-on-chip architectures"
+N Mansoor, A Vashist, MM Ahmed, MS Shamim, SA Mamun, A Ganguly - arXiv preprint arXiv:1809.07862, 2018
+
+"Enhancement of Intra-chip Transmission between Wireless Interconnects using Artificial Magnetic Conductors"
+RS Narde, J Venkataraman, A Ganguly - 2018 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, 2018
+
+"A 0.24 pJ/bit, 16Gbps OOK transmitter circuit in 45-nm CMOS for inter and intra-chip wireless interconnects"
+T Shinde, S Subramaniam, P Deshmukh, MM Ahmed, M Indovina, A Ganguly - Proceedings of the 2018 on Great Lakes Symposium on VLSI, 2018
+
+"Performance evaluation of a power-efficient and robust 60 GHz wireless server-to-server datacenter network"
+SA Mamun, SG Umamaheswaran, A Ganguly, M Kwon, A Kwasinski - IEEE Transactions on Green Communications and Networking, 2018
+
+"The advances, challenges and future possibilities of millimeter-wave chip-to-chip interconnections for multi-chip systems"
+A Ganguly, MM Ahmed, RS Narde, A Vashist, MS Shamim, N Mansoor, T Shinde, S Subramaniam, S Saxena, J Venkataraman, M Indovina - Journal of Low Power Electronics and Applications, 2018
+
+"On-chip antennas for inter-chip wireless interconnections: Challenges and opportunities"
+RS Narde, N Mansoor, A Ganguly, J Venkataraman - IET Digital Library, 2018
+
+"Reducing power consumption of datacenter networks with 60ghz wireless server-to-server links"
+SG Umamaheswaran, SA Mamun, A Ganguly, M Kwon, A Kwasinski - GLOBECOM 2017-2017 IEEE Global Communications Conference, 2017
+
+"PaSE: A parallel speedup estimation framework for Network-on-Chip based multicore systems"
+G Dharb, N Mansoor, S Shahriat, A Ganguly - 2017 Eighth International Green and Sustainable Computing Conference (IGSC), 2017
+
+"Increasing interposer utilization: A scalable, energy efficient and high bandwidth multicore-multichip integration solution"
+MM Ahmed, MS Shamim, N Mansoor, SA Mamun, A Ganguly - 2017 Eighth International Green and Sustainable Computing Conference (IGSC), 2017
+
+"Intra-chip wireless interconnect: The road ahead"
+A Ganguly, N Mansoor, MS Shamim, MM Ahmed, RS Narde, A Vashist, J Venkataraman - Proceedings of the 10th International Workshop on Network on Chip Architectures, 2017
+
+"A folded wireless network-on-chip using graphene based THz-band antennas"
+S Saxena, DS Manur, MS Shamim, A Ganguly - Proceedings of the 4th acm international conference on nanoscale computing and communication, 2017
+
+"A 0.36 pJ/bit, 17Gbps OOK receiver in 45-nm CMOS for inter and intra-chip wireless interconnects"
+S Subramaniam, T Shinde, P Deshmukh, MS Shamim, M Indovina, A Ganguly - 2017 30th IEEE International System-on-Chip Conference (SOCC), 2017
+
+"W1B: Application specific designs"
+A Ganguly - 2017 30th IEEE International System-on-Chip Conference (SOCC), 2017
+
+"Energy-efficient wireless interconnection framework for multichip systems with in-package memory stacks"
+MS Shamim, MM Ahmed, N Mansoor, A Ganguly - 2017 30th IEEE International System-on-Chip Conference (SOCC), 2017
+
+"Energy-Efficient Wireless Interconnection Framework for Multichip Systems with In-package Memory Stacks"
+MS Shamim, MM Ahmed, N Mansoor, A Ganguly - arXiv e-prints, 2017
+
+"Feasibility study of transmission between wireless interconnects in multichip multicore systems"
+RS Narde, J Venkataraman, A Ganguly - 2017 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, 2017
+
+"An energy-efficient, wireless top-of-rack to top-of-rack datacenter network using 60GHz links"
+SA Mamun, SG Umamaheswaran, SS Chandrasekaran, MS Shamim, A Ganguly, M Kwon - 2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), 2017
+
+"Fundamentals of heat dissipation in 3D IC packaging"
+SG Kandlikar, A Ganguly - 3D Microelectronic Packaging: From Fundamentals to Applications, 2017
+
+"A wireless interconnection framework for seamless inter and intra-chip communication in multichip systems"
+MS Shamim, N Mansoor, RS Narde, V Kothandapani, A Ganguly, J Venkataraman - IEEE Transactions on Computers, 2016
+
+"Interference-aware wireless network-on-chip architecture using directional antennas"
+HK Mondal, SH Gade, MS Shamim, S Deb, A Ganguly - IEEE Transactions on Multi-Scale Computing Systems, 2016
+
+"Design of antennas for 3D wireless Network-on-Chip with micro-fluidic cooling layers"
+CK Munuswamy, J Venkataraman, A Ganguly - 2016 IEEE International Symposium on Antennas and Propagation (APSURSI), 2016
+
+"A demand-aware predictive dynamic bandwidth allocation mechanism for wireless network-on-chip"
+N Mansoor, MS Shamim, A Ganguly - Proceedings of the 18th System Level Interconnect Prediction Workshop, 2016
+
+"Co-design of 3D wireless network-on-chip architectures with microchannel-based cooling"
+MS Shamim, A Ganguly, C Munuswamy, J Venkatarman, J Hernandez, S Kandlikar - 2015 Sixth International Green and Sustainable Computing Conference (IGSC), 2015
+
+"Reconfigurable wireless network-on-chip with a dynamic medium access mechanism"
+N Mansoor, A Ganguly - Proceedings of the 9th International Symposium on Networks-on-Chip, 2015
+
+"An interconnection architecture for seamless inter and intra-chip communication using wireless links"
+MS Shamim, J Muralidharan, A Ganguly - Proceedings of the 9th International Symposium on Networks-on-Chip, 2015
+
+"Design methodology for a robust and energy-efficient millimeter-wave wireless network-on-chip"
+N Mansoor, PJS Iruthayaraj, A Ganguly - IEEE Transactions on Multi-Scale Computing Systems, 2015
+
+"Temperature-aware wireless network-on-chip architecture"
+MS Shamim, A Mhatre, N Mansoor, A Ganguly, G Tsouri - International Green Computing Conference, 2014
+
+"Design space exploration for wireless NoCs incorporating irregular network routing"
+P Wettin, R Kim, J Murray, X Yu, PP Pande, A Ganguly, D Heoamlan - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2014
+
+"Heterogeneous photonic network-on-chip with dynamic bandwidth allocation"
+A Shah, N Mansoor, B Johnstone, A Ganguly, SL Alarcon - 2014 27th IEEE International System-on-Chip Conference (SOCC), 2014
+
+"CDMA enabled wireless network-on-chip"
+V Vijayakumaran, MP Yuvaraj, N Mansoor, N Nerurkar, A Ganguly, A Kwasinski - ACM Journal on Emerging Technologies in Computing Systems (JETC), 2014
+
+"Energy-efficient wireless network-on-chip architecture with log-periodic on-chip antennas"
+MS Shamim, N Mansoor, A Samaiyar, A Ganguly, S Deb, SS Ram - Proceedings of the 24th edition of the great lakes symposium on VLSI, 2014
+
+"Complex network-enabled robust wireless network-on-chip architectures"
+P Wettin, A Vidapalapati, A Gangul, PP Pande - ACM Journal on Emerging Technologies in Computing Systems (JETC), 2013
+
+"An energy-efficient and robust millimeter-wave wireless network-on-chip architecture"
+N Mansoor, A Ganguly, MP Yuvaraj - 2013 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS), 2013
+
+"A robust medium access mechanism for millimeter-wave wireless network-on-chip architecture"
+N Mansoor, MP Yuvaraj, A Ganguly - 2013 IEEE International SOC Conference, 2013
+
+"Design Technologies for Green and Sustainable Computing Systems"
+PP Pande, A Ganguly, K Chakrabarty - Springer, 2013
+
+"Evaluating effects of thermal management in wireless NoC-enabled multicore architectures"
+J Murray, P Wettin, P Pande, B Shirazi, N Nerurkar, A Ganguly - 2013 International Green Computing Conference Proceedings, 2013
+
+"Design space exploration for reliable mm-wave wireless NoC architectures"
+P Wettin, PP Pande, D Heo, B Belzer, S Deb, A Ganguly - 2013 IEEE 24th International Conference on Application-Specific Systems, Architectures and Processors, 2013
+
+"Energy-efficient multicore chip design through cross-layer approach"
+P Wettin, J Murray, P Pande, B Shirazi, A Ganguly - 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2013
+
+"Sustainable and Reliable On-Chip Wireless Communication Infrastructure for Massive Multi-core Systems"
+A Ganguly, P Pande, B Belzer, A Nojeh - Evolutionary Based Solutions for Green Computing, 2013
+
+"Introduction to the special issue on sustainable and green computing systems"
+PP Pande, A Ganguly - ACM Journal on Emerging Technologies in Computing Systems (JETC) 8 (4), 1-3, 2012
+
+"Design of an energy-efficient CMOS-compatible NoC architecture with millimeter-wave wireless interconnects"
+S Deb, K Chang, X Yu, SP Sah, M Cosic, A Ganguly, PP Pande, B Belzer, D Heo - IEEE Transactions on Computers, 2012
+
+"Performance evaluation and design trade-offs for wireless network-on-chip architectures"
+K Chang, S Deb, A Ganguly, X Yu, SP Sah, PP Pande, B Belzer, D Heo - ACM Journal on Emerging Technologies in Computing Systems (JETC), 2012
+
+"Performance evaluation of reliability aware photonic network-on-chip architectures"
+PK Kaliraj, P Sieber, A Ganguly, I Datta, D Datta - 2012 International Green Computing Conference (IGCC), 2012
+
+"NoC architectures with adaptive code division multiple access based wireless links"
+A Vidapalapati, V Vijayakumaran, A Ganguly, A Kwasinski - 2012 IEEE International Symposium on Circuits and Systems (ISCAS), 2012
+
+"Wireless NoC as interconnection backbone for multicore chips: Promises and challenges"
+S Deb, A Ganguly, PP Pande, B Belzer, D Heo - IEEE Journal on emerging and selected topics in circuits and systems, 2012
+
+"Cmos compatible many-core noc architectures with multi-channel millimeter-wave wireless links"
+S Deb, K Chang, M Cosic, A Ganguly, PP Pande, D Heo, B Belzer - Proceedings of the great lakes symposium on VLSI, 2012
+
+"A denial-of-service resilient wireless NoC architecture"
+A Ganguly, MY Ahmed, A Vidapalapati - Proceedings of the great lakes symposium on VLSI, 2012
+
+"Design of an efficient NoC architecture using millimeter-wave wireless links"
+S Deb, K Chang, A Ganguly, X Yu, C Teuscher, P Pande, D Heo, B Belzer - Thirteenth International Symposium on Quality Electronic Design (ISQED), 2012
+
+"Energy-Eﬃcient Network-on-Chip Architectures for Multi-Core Systems"
+P Pande, A Ganguly, S Deb, K Chang - Handbook of Energy-Aware and Green Computing, Volume 1, 2012
+
+"Energy-Efficient Network-on-Chip Architectures for Multi-Core Systems."
+PP Pande, A Ganguly, S Deb, K Chang - Handbook of Energy-Aware and Green Computing, 2012
+
+"Application of Massive Transfusion Protocol is Associated with Low Incidence of Coagulopathy and Mortality Rate"
+A Khalafallah, A Albarzan, A Ganguly, G Bates, F Gavin - J Blood Disord Transfus, 2012
+
+"A unified error control coding scheme to enhance the reliability of a hybrid wireless network-on-chip"
+A Ganguly, P Pande, B Belzer, A Nojeh - 2011 IEEE international symposium on defect and fault tolerance in VLSI and nanotechnology systems, 2011
+
+"Curbing energy cravings in networks: A cross-sectional view across the micro-macro boundary"
+A Ganguly, P Kundu, P Bose - Proceedings of the Fifth ACM/IEEE International Symposium on Networks-on-Chip, 2011
+
+"Complex network inspired fault-tolerant NoC architectures with wireless links"
+A Ganguly, P Wettin, K Chang, P Pande - Proceedings of the fifth ACM/IEEE International Symposium on Networks-on-Chip, 2011
+
+"Sustainability through massively integrated computing: Are we ready to break the energy efficiency wall for single-chip platforms?"
+P Pande, F Clermidy, D Puschini, I Mansouri, P Bogdan, R Marculescu, A Ganguly - 2011 Design, Automation & Test in Europe, 2011
+
+"Comparative performance evaluation of wireless and optical NoC architectures"
+S Deb, K Chang, A Ganguly, P Pande - 23rd IEEE international SOC conference, 2010
+
+"Scalable hybrid wireless network-on-chip architectures for multicore systems"
+A Ganguly, K Chang, S Deb, PP Pande, B Belzer, C Teuscher - IEEE Transactions on Computers, 2010
+
+"Enhancing performance of network-on-chip architectures with millimeter-wave wireless interconnects"
+S Deb, A Ganguly, K Chang, P Pande, B Beizer, D Heo - ASAP 2010-21st IEEE International Conference on Application-specific Systems, Architectures and Processors, 2010
+
+"Towards a scalable and reliable wireless network-on-chip"
+A Ganguly - Washington State University, 2010
+
+"Hybrid wireless network on chip: A new paradigm in multi-core design"
+PP Pande, A Ganguly, K Chang, C Teuscher - Proceedings of the 2nd international Workshop on Network on Chip Architectures, 2009
+
+"Performance evaluation of wireless networks on chip architectures"
+A Ganguly, K Chang, PP Pande, B Belzer, A Nojeh - 2009 10th International Symposium on Quality Electronic Design, 2009
+
+"Crosstalk-aware channel coding schemes for energy efficient and reliable NOC interconnects"
+A Ganguly, PP Pande, B Belzer - IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2009
+
+"Test and fault tolerance for networks-on-chip infrastructures"
+PP Pande, C Grecu, A Ganguly, A Ivanov, R Saleh - NETWORKS-ON-CHIPS, 2009
+
+"Reliability of wireless on-chip interconnects based on carbon nanotube antennas"
+A Nojeh, P Pande, A Ganguly, S Sheikhaei, B Belzer, A Ivanov - 2008 IEEE 14th International Mixed-Signals, Sensors, and Systems Test Workshop, 2008
+
+"Design of low power & reliable networks on chip through joint crosstalk avoidance and multiple error correction coding"
+A Ganguly, PP Pande, B Belzer, C Grecu - Journal of electronic testing, 2008
+
+"Novel interconnect infrastructures for massive multicore chips—an overview"
+PP Pande, A Ganguly, B Belzer, A Nojeh, A Ivanov - 2008 IEEE International Symposium on Circuits and Systems (ISCAS), 2777-2780, 2008
+
+"Energy reduction through crosstalk avoidance coding in networks on chip"
+PP Pande, A Ganguly, H Zhu, C Grecu - Journal of Systems Architecture, 2008
+
+"Applicability of energy efficient coding methodology to address signal integrity in 3D NoC fabrics"
+PP Pande, A Gangul, B Feero, C Grecu - 13th IEEE International On-Line Testing Symposium (IOLTS 2007), 2007
+
+"Addressing signal integrity in networks on chip interconnects through crosstalk-aware double error correction coding"
+A Ganguly, PP Pande, B Belzer, C Grecu - IEEE Computer Society Annual Symposium on VLSI (ISVLSI'07), 2007
+
+"Transient error resilience in network-on-chip communication fabrics"
+A Ganguly - Washington State University, 2007
+
+"Design of low power & reliable networks on chip through joint crosstalk avoidance and forward error correction coding"
+PP Pande, A Ganguly, B Feero, B Belzer, C Grecu - 2006 21st IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems, 2006
+
+"Crosstalk-aware energy reduction in NOC communication fabrics"
+PP Pande, H Zhu, A Ganguly, C Grecu - 2006 IEEE International SOC Conference, 2006
+
+"Energy reduction through crosstalk avoidance coding in NoC paradigm"
+PP Pande, H Zhu, A Ganguly, C Grecu - 9th EUROMICRO Conference on Digital System Design (DSD'06), 2006
+
+"An embedded system for pollution control in automobiles by using a MEMS accelerometer signal"
+S Kal, A Ganguly, A Boni - 2005 IEEE Conference on Emerging Technologies and Factory Automation, 2005
+
+"An embedded system for pollution control in automobiles by Using a MEMS accelerometer Signal"
+A Ganguly, A Boni, S Kal - 10th IEEE International Conference on Emerging Technologies and Factory Automation, 2005

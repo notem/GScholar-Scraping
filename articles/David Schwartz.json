@@ -1,0 +1,678 @@
+[
+    {
+        "title": "Spatial Computing: Defining the Vision for the Future",
+        "id": "ZDaDoysAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Jiangnan Xu",
+            "Konstantinos Papangelis",
+            "Garreth W Tigwell",
+            "Nicolas Lalone",
+            "Pengyuan Zhou",
+            "Michael Saker",
+            "Alan Chamberlain",
+            "John Dunham",
+            "Sanzida Mojib Luna",
+            "David Schwartz"
+        ],
+        "pub_source": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2024/5/11",
+        "description": "Spatial Computing integrates technologies like Mixed Reality, Artificial Intelligence, and the Global Positioning System, enabling immersive, natural, and intelligent multi-modal interactions in physical and virtual spaces. With the huge potential to benefit users in multiple scenarios (e.g., gaming, education, design, and healthcare), Spatial Computing is growing at an incredible rate, with different attempts to define and capitalize on the growth in both industry and academia. Beyond the location, shape, and relationship of geographic objects, Spatial Computing delves into the social, emotional, and cognitive dimensions of shared spaces. However, the human-computer interaction research on Spatial Computing faces a notable gap, particularly in user experience areas like collaboration, trust, ethics, and accessibility. Addressing this gap, this Special Interest Group (SIG) seeks to unite experts from academia and\u00a0\u2026"
+    },
+    {
+        "title": "Pok\u00e9mon GO as an Advertising Platform: The Case for Locative Advertising in Location-Based Games",
+        "id": "ZDaDoysAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "John Dunham",
+            "Jiangnan Xu",
+            "Konstantinos Papangelis",
+            "Nicolas LaLone",
+            "Michael Saker",
+            "David Schwartz"
+        ],
+        "pub_source": "ACM Games: Research and Practice",
+        "pub_date": "2024",
+        "description": "Traditional location-based advertising (LBA), such as billboards and signage, has long been a staple of direct-to-consumer advertising. In recent years, however, the prominence and popularity of location-based games have made digital LBA even more appealing. This paper draws on an original research project devised to explore a notable gap in the literature on locative media: the impacts of LBA on small businesses in the location-based game Pok\u00e9mon GO. The project was conducted between August and October 2021, employing semi-structured interviews with thirty-five (35) businesses leveraging Niantic\u2019s sponsored location LBA. Our findings indicate that (1) participant businesses found location-based game advertising to be rewarding, (2) LGA can act as an amenity offered by the business, and (3) local community is an essential factor for success in location-based game advertising. In sum, this research\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "An educational virtual reality game for learning historical events",
+        "id": "ZDaDoysAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Huadong Zhang",
+            "Lizhou Cao",
+            "Gel Howell",
+            "David Schwartz",
+            "Chao Peng"
+        ],
+        "pub_source": "Virtual Reality",
+        "pub_date": "2023/12",
+        "description": "This work presents the design, development, and evaluation of an exploration-based educational VR game for learning about historical Apollo lunar roving missions. The design and development are conducted with a three-phase progressive methodology that covers Modeling & Simulation, Gamification & Edufication, and VRization. The immersive experience presents the gamified content in an engaging way and enables learning activities through exploratory play. Players are given the choices of active and passive learning modes to explore the virtual lunar environment and learn spatial, factual, and operating knowledge. We run a user study to understand the learning effectiveness and engagement with this VR game and the influence of different learning modes on the learning outcomes. We discuss the findings and pedagogical implications that can be applied to the development of educational VR games for\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Multi-user VR Experience for Creating and Trading Non-fungible Tokens",
+        "id": "ZDaDoysAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Lizhou Cao",
+            "Jackson Shuminski",
+            "Huadong Zhang",
+            "Pruthviraj Solanki",
+            "David Long",
+            "David Schwartz",
+            "Ihab Mardini",
+            "Chao Peng"
+        ],
+        "pub_source": "International Conference on Human-Computer Interaction",
+        "pub_date": "2023/7/9",
+        "description": "Non-fungible tokens (NFTs) have shown a great potential in creating, identifying, and trading digital ownership, and can be used to build the economics in the future metaverse. It is important for the users to understand the basic concepts of NFTs before they engage in a virtual society or application that uses NFTs to represent digital assets. Traditional learning methods like reading articles are inefficient to support active learning of a new concept. In this work, we designed and developed a multi-user VR-based learning method that provides a learner-oriented experience for users to create their own digital assets, witness the process of minting the assets into NFTs, and trade the NFTs. We conduct a study with participants to understand the learning efficiency of the VR-based method in comparing to the traditional reading-based method. The evaluation result shows that the multi-user experience was more engaging\u00a0\u2026"
+    },
+    {
+        "title": "Building positively affective location-based advertising: A study of Pok\u00e9mon GO players",
+        "id": "ZDaDoysAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "John Dunham",
+            "Konstantinos Papangelis",
+            "Cati Boulanger",
+            "Nicolas Lalone",
+            "Evangelia [Lina Nika",
+            "Michael Saker",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+        "pub_date": "2023/4/19",
+        "description": "With the expanding popularity of Location-Based Games and the rise of advertising therein, there exists a need to comprehend the impact of Location-Based Game Advertising (LGA). This paper seeks to identify what makes positively affective LGA, leveraging Pok\u00e9mon GO as a probe. Researchers conducted twenty-seven (n=27) semi-structured interviews with Pok\u00e9mon GO players to reveal lived experiences regarding LGA. Our findings highlight the following direct implications for LGA: (1) LGA act as a digital billboard, conveying qualitative alongside locative information, and (2) well-received LGA enhances the player\u2019s agency. We additionally identify findings that have auxiliary implications to LGA: (3) positive memorability occurs when points of interest match physical reality, and (4) ludic engagement is a mediating factor in the memorability of locations. This research demonstrates that LGA in Location-Based\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Metaverse: The vision for the future",
+        "id": "ZDaDoysAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Jiangnan Xu",
+            "Konstantinos Papangelis",
+            "John Dunham",
+            "Jorge Goncalves",
+            "Nicolas James LaLone",
+            "Alan Chamberlain",
+            "Ioanna Lykourentzou",
+            "Federica L Vinella",
+            "David I Schwartz"
+        ],
+        "pub_source": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+        "pub_date": "2022/4/27",
+        "description": "In recent years, the notion of the Metaverse has become the focus of a growing body of work in the industry. However, there is no consensus on the conceptualization in academia. To date, much of this attention has revolved around technological challenges. However, what is notably missing from these discussions is a consideration of the human factors and social aspects that are considered more critical challenges within HCI. The aims of this SIG are as follows: Firstly, to provide a platform for researchers and practitioners to engage with the various definitions and the ways in which the Metaverse is developing. Secondly, to discuss the opportunities, challenges, and future possibilities in the context of HCI. This will lay the foundations to build a network for academics interested in the field for future multidisciplinary research relating to the Metaverse.",
+        "citations": 30
+    },
+    {
+        "title": "Advertising in location-based games: An exploration in pok\u00e9mon go",
+        "id": "ZDaDoysAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "John Dunham",
+            "Jiangnan Xu",
+            "Konstantinos Papangelis",
+            "David I Schwartz"
+        ],
+        "pub_source": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+        "pub_date": "2022/4/27",
+        "description": "Location-based advertising (LBA), such as billboards and signage, has long been a direct-to-consumer advertising staple. As locative media such as Location-Based Games (LBG) begins to rise in prominence, digital LDA becomes increasingly appealing. In this paper, we explore the impacts of LBA on small businesses in the LBG Pok\u00e9mon GO, a lacuna in the literature. We gather participant experience through a collection of 35 semi-structured interviews with businesses leveraging Niantic\u2019s sponsored location LBA. These testimonies indicate (1) participant businesses found LBG advertising to be satisfactory, (2) LBG advertising improves brand recognizability for local commerce, and (3) local community is an important factor for success in LBG advertising. These findings indicate future patterns for integrating local businesses into LBG like Pok\u00e9mon GO, suggesting potential for LBG advertising to assist local\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Making games to teach physics and mechanics",
+        "id": "ZDaDoysAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "Middle Atlantic ASEE Section Spring 2021 Conference",
+        "pub_date": "2021/4/9",
+        "description": "This survey paper introduces engineering educators to a subfield of computer graphics called physically-based animation (PBA) to advocate for collaboration in creating courses to improve student learning in STEM fields, especially in engineering. Engineering students may not realize the degree to which they can leverage their education to enter the entertainment and simulation industries. The central hypothesis of the paper is that introductory physics can be taught via PBA. The paper provides case studies that demonstrate early promise. The paper gives an overview of how \u201cgame engineers\u201d leverage theoretical physics and mathematical concepts merged with design aesthetics to portray realistic and fun experiences, manifesting as game physics. As computing power has increased, the convergence of real and fake physics presents an opportunity to teach physics to non-game students. The field of PBA shows\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Visualization for spectators in cybersecurity competitions",
+        "id": "ZDaDoysAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Chao Peng",
+            "David Schwartz",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Chad Weeden",
+            "Jacob Marcovecchio",
+            "Drake Richards",
+            "Chris Fogle",
+            "Christopher Brown",
+            "Victoria Walrond"
+        ],
+        "pub_source": "2020 IEEE Symposium on Visualization for Cyber Security (VizSec)",
+        "pub_date": "2020/10/28",
+        "description": "The goal is to raise awareness and encourage learning cybersecurity principles by making competitions appealing to a wider audience. In an effort to make events compelling, attractive, and watchable, the researchers will develop systems to support visualizations and make the transactions between teams in different cybersecurity competitions easy to comprehend. In informing and educating the audience on the intricacies of the competition through engaging visualizations, cybersecurity competitions will be opened up to a world beyond just participants. In doing so, we can potentially attract new talent into the field. Our team seeks to make prototype visualizations for key actions in various student cybersecurity competitions and assess spectator understanding of key principles of the competition.",
+        "citations": 2
+    },
+    {
+        "title": "Supporting disaster resilience spatial thinking with serious geogames: project Lily Pad",
+        "id": "ZDaDoysAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Brian Tomaszewski",
+            "Amy Walker",
+            "Emily Gawlik",
+            "Casey Lane",
+            "Scott Williams",
+            "Deborah Orieta",
+            "Claudia McDaniel",
+            "Matthew Plummer",
+            "Anushka Nair",
+            "Nicolas San Jose",
+            "Nathan Terrell",
+            "Kyle Pecsok",
+            "Emma Thomley",
+            "Erin Mahoney",
+            "Emily Haberlack",
+            "David Schwartz"
+        ],
+        "pub_source": "ISPRS International Journal of Geo-Information",
+        "pub_date": "2020/6/22",
+        "description": "The need for improvement of societal disaster resilience and response efforts was evident after the destruction caused by the 2017 Atlantic hurricane season. We present a novel conceptual framework for improving disaster resilience through the combination of serious games, geographic information systems (GIS), spatial thinking, and disaster resilience. Our framework is implemented via Project Lily Pad, a serious geogame based on our conceptual framework, serious game case studies, interviews and real-life experiences from 2017 Hurricane Harvey survivors in Dickinson, TX, and an immersive hurricane-induced flooding scenario. The game teaches a four-fold set of skills relevant to spatial thinking and disaster resilience, including reading a map, navigating an environment, coding verbal instructions, and determining best practices in a disaster situation. Results of evaluation of the four skills via Project Lily Pad through a \u201cthink aloud\u201d study conducted by both emergency management novices and professionals revealed that the game encouraged players to think spatially, can help build awareness for disaster response scenarios, and has potential for real-life use by emergency management professionals. It can be concluded from our results that the combination of serious games, geographic information systems (GIS), spatial thinking, and disaster resilience, as implemented via Project Lily Pad and our evaluation results, demonstrated the wide range of possibilities for using serious geogames to improve disaster resilience spatial thinking and potentially save lives when disasters occur.",
+        "citations": 21
+    },
+    {
+        "title": "GIS and serious games",
+        "id": "ZDaDoysAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Brian Tomaszewski",
+            "Angelina Konovitz-Davern",
+            "David Schwartz",
+            "Joerg Szarzynski",
+            "Lena Siedentopp",
+            "Ashely Miller",
+            "Jacob Hartz"
+        ],
+        "pub_source": "Elsevier",
+        "pub_date": "2018/1/1",
+        "description": "This article presents the interdisciplinary idea of combining geographic information systems (GIS) and serious games. We argue that further integration of GIS and serious game can have large ranging impact on learning and advancement of spatial knowledge and expertise in numerous application domains. In this regard, we draw heavily, although not exclusively, upon disaster management as an exemplar case study of the integration of GIS and serious games for education, spatial thinking skill development, and problem solving. We provide context for GIS and serious games through definitions of games, serious games, the difference between serious games and simulations, the idea of gamification, spatial representations, and serious games. GIS and serious game case studies are drawn from the research experiences of the authors that include (1) capacity development via emergency response exercises that\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "GIS and Serious Games",
+        "id": "ZDaDoysAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Brian Tomaszewski",
+            "Angelica Konovitz-Davern",
+            "David Schwartz",
+            "Joerg Szarzynski",
+            "Lena Siedentopp",
+            "Ashley Miller",
+            "Jacob Hartz"
+        ],
+        "pub_source": "Elsevier",
+        "pub_date": "2017/9/1",
+        "description": "This article presents the interdisciplinary idea of combining geographic information systems (GIS) and serious games. We argue that further integration of GIS and serious game can have large ranging impact on learning and advancement of spatial knowledge and expertise in numerous application domains. In this regard, we draw heavily, although not exclusively, upon disaster management as an exemplar case study of the integration of GIS and serious games for education, spatial thinking skill development, and problem solving. We provide context for GIS and serious games through definitions of games, serious games, the difference between serious games and simulations, the idea of gamification, spatial representations, and serious games. GIS and serious game case studies are drawn from the research experiences of the authors that include (1) capacity development via emergency response exercises that\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Board# 133: Gamifying Cybersecurity Course Content for Entry Level Students",
+        "id": "ZDaDoysAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "David I Schwartz"
+        ],
+        "pub_source": "2017 ASEE Annual Conference & Exposition",
+        "pub_date": "2017/6/24",
+        "description": "The growing shortage of skilled professionals in cybersecurity and forensics has increased global demand for information systems professionals. In an effort to identify and attract more students to cybersecurity and forensics programs, the authors developed a game engine along with a GUI-based game creator to generate a sequence of entertaining, engaging, and educational games, suitable for forensics and cybersecurity courses. This multi-partner project is funded in part by the National Science Foundation under Award DUE-1400567.",
+        "citations": 2
+    },
+    {
+        "title": "Critical Spatial Thinking and Serious Geogames: A Position",
+        "id": "ZDaDoysAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Brian Tomaszewski",
+            "David I Schwartz"
+        ],
+        "pub_source": "Proceedings of the AGILE 2017 Workshop on Geogames and Geoplay, Wageningen, the Netherlands",
+        "pub_date": "2017/5/9",
+        "description": "Serious geogames are games with a spatial focus for non-entertainment purposes. Critical Spatial Thinking is the idea of applying concepts of critical thinking such as reflection, reasoning, and scepticism to challenging assumptions about spatial data, representations, methods, and analytical outcomes. In this position paper, we argue for a closer research and design connection between serious geogames and critical spatial thinking. Our position is based on our past work of developing serious geogames for general spatial thinking.",
+        "citations": 5
+    },
+    {
+        "title": "Gamifying course modules for entry level students",
+        "id": "ZDaDoysAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education",
+        "pub_date": "2017/3/8",
+        "description": "The growing shortage of skilled professionals in cybersecurity and forensics has increased global demand for information systems professionals. To identify and attract more students to cybersecurity and forensics programs, the authors developed a game engine along with a sequence of entertaining, engaging, and educational games, suitable for forensics and cybersecurity courses. This paper focuses on the design and development of a modular educational game framework composed of a game engine and a GUI-based game creator. Following narrative and storylines of the game via interactive dialogs and visualized abstract concepts, students are motivated and engaged to obtain the necessary knowledge. Students will also develop their problem solving skills by using real tools and technologies while playing the game. The GUI-based game creator allows educators to create and develop new educational\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Crisis Response Serious Spatial Thinking Games: Spatial Think Aloud Study Results.",
+        "id": "ZDaDoysAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Brian M Tomaszewski",
+            "David Schwartz",
+            "Joerg Szarzynski"
+        ],
+        "pub_source": "ISCRAM",
+        "pub_date": "2016/5/1",
+        "description": "We present work on developing and evaluating a serious GIS spatial thinking game called SerGIS. We conducted a spatial think-aloud study with ten participants new to crisis response who used SerGIS with a coastal city hurricane scenario. Four themes emerged from participant responses: processes of reasoning, tools of representation, overlay and dissolve operation, and geographic information concept learning and knowledge gaps. The first three themes match directly with the spatial thinking theory and evaluation underlying SerGIS. The fourth theme identified addresses GIS and spatial thinking crisis response educational issues. Furthermore, statistical evidence indicates there is likely a relationship between participants from spatially-oriented backgrounds (but with no GIS experience) performing better with SerGIS than participants from non-spatial backgrounds. Finally, we found that with a game scenario based on established disaster management practitioner literature, participants could focus on spatial thinking tasks and not be limited by understanding the game scenario itself.",
+        "citations": 5
+    },
+    {
+        "title": "Gamified digital forensics course modules for undergraduates",
+        "id": "ZDaDoysAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Yin Pan",
+            "David Schwartz",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2015 IEEE Integrated STEM Education Conference",
+        "pub_date": "2015/3/7",
+        "description": "Cyber security and forensics are among the most critical areas of national importance with a rising demand for knowledgeable professionals. In response to the increasing need for advanced studies in forensics, we propose game-based modules using the game-based learning approach that enable first-year students to learn basic digital forensics concepts without pre-requisite knowledge. This paper focuses on the design and development of an interactive game framework and the educational digital forensics modules that will be plugged into the game framework in a real computing environment. In contrast to the traditional teaching approaches, this modular approach will use game-based learning and visualization techniques to engage students to learn abstract concepts and to explore forensics investigation technologies and procedures through interactive games. The general design of the game framework\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Serious games for disaster risk reduction spatial thinking",
+        "id": "ZDaDoysAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Brian Tomaszewski",
+            "Joerg Szarzynski",
+            "David I Schwartz"
+        ],
+        "pub_source": "Proceedings of the 11th International Conference of the International Association For The Study Of Information Systems For Crisis Response And Management (ISCRAM)",
+        "pub_date": "2014/9/23",
+        "description": "Spatial thinking is a learnable skill for structuring and solving spatial problems and decision making support, such as using a map to support navigation or structuring time using spatial metaphors (ie \u201cthe event is far off in the future\u201d). The National Research Council (2006) defined spatial thinking as an amalgam of three items\u2014concepts of space, tools of representation, and processes of reasoning (National Research Council 2006). Serious games target non-entertainment purposes using gaming concepts, such as a score based on actions taken for measuring game player learning and progress (Michael and Chen 2005).",
+        "citations": 8
+    },
+    {
+        "title": "Game-based forensics course for first year students",
+        "id": "ZDaDoysAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "Bo Yuan",
+            "Bill Stackpole",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 13th annual conference on Information technology education",
+        "pub_date": "2012/10/11",
+        "description": "This paper focuses on the design and development of a game-based forensics course. This course uses the game-based learning (GBL) approach that builds the game in a real computing environment that has direct access to actual forensics tools from a forensics machine and the evidence from a suspect machine. Interactive visualizations will be used to help students to understand the intangible and inaccessible abstract concepts such as deleted/hidden/encrypted/over-written digital evidence.",
+        "citations": 17
+    },
+    {
+        "title": "Serious social games: Designing a business simulation game",
+        "id": "ZDaDoysAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Matt Critelli",
+            "David I Schwartz",
+            "Steven Gold"
+        ],
+        "pub_source": "2012 IEEE International Games Innovation Conference",
+        "pub_date": "2012/9/7",
+        "description": "This paper describes a newly released educational game called StoreWorld(TM) that introduces students to fundamental business concepts. Although many educational games introduce business concepts, they were founded many years ago and lack modern innovations. The core innovation that StoreWorld attempts to address is how social interaction can enhance simulation in the field of business gaming. After giving some background about related games, the authors provide an overview of the design and implementation of StoreWorld in regard to business modeling, education, and social interaction. The paper gives preliminary results and concludes with future directions of design.",
+        "citations": 15
+    },
+    {
+        "title": "Top 5 Junior Member abstracts announced at CAP'11",
+        "id": "ZDaDoysAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Alain Borczuk",
+            "Kim Collins",
+            "S David Hudnall",
+            "Maria Picken",
+            "Jae Ro",
+            "David Schwartz",
+            "Rhonda Yantiss",
+            "David Yawn"
+        ],
+        "pub_source": "Archives of Pathology & Laboratory Medicine",
+        "pub_date": "2011/10/1",
+        "description": "The top 5 abstracts submitted by Junior Members of the College of American Pathologists (CAP) to the CAP 11 meeting were recognized during ceremonies held at the meeting. CAP President Stanley J. Robboy, MD, and Archives of Pathology & Laboratory Medkine Editor in Chief Philip T. Cagle, MD, personally congratulated the winners on Sunday, September 11. That day, the winners were also recognized during the CAP'11 Spotlight Event and Reception and were presented with their award checks.All abstracts accepted for presentation at the CAP'11 meeting and for publication in the Archives that were submitted by CAP Junior Members were eligible for selection as one of the top 5 abstracts. The winning abstracts were reviewed and selected by a group of experts within various anatomic and clinical pathology disciplines who were blinded to the authors' identities."
+    },
+    {
+        "title": "Teaching Students to Make Alternative Game Controllers",
+        "id": "ZDaDoysAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "Journal of Game Design and Development Education",
+        "pub_date": "2011",
+        "description": "This paper describes a preliminary approach to teaching students about game design and development by making a custom game controller in a single course. RIT\u2019s first seminar in alternative game controller design introduced students to game input mechanisms and encouraged innovation. By working with hardware, students explored physical design issues to improve their overall game design skills. The course demonstrated early success, as evidenced by the 2009 Game Developers Conference in which a banjo controller and game created by the students garnered accolades. To help other instructors develop a similar course, this paper addresses the motivation for, and components, of the course design. By combining elements of reverse engineering, interfaces, and game design, students can indeed design and successfully make custom game controllers. The paper contains a summary of one of the two final student projects: a deformable surface. The postmortem notes that despite the course success, future versions will need more time for projects. The paper concludes with a discussion of future directions",
+        "citations": 4
+    },
+    {
+        "title": "Unifying instructional and game design",
+        "id": "ZDaDoysAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "David I Schwartz",
+            "Jessica D Bayliss"
+        ],
+        "pub_source": "Handbook of research on improving learning and motivation through educational games: multidisciplinary approaches",
+        "pub_date": "2011",
+        "description": "Games have impacted education, research, and industry in multiple ways, altering notions of interaction. Traditionally, instructional design and educational research have dominated academic studies of pedagogy, teaching, and training. There are many parallels between the fields of game design and education, as both draw inspiration from the study of engagement, interaction, and motivation. State-of-the-art research and trends show great potential to cross-pollinate and uplift each area. This chapter synthesizes instructional and game design concepts based on current research, comparing and contrasting key elements. Towards the goal of providing a road map for readers, the chapter demonstrates three active case studies that illustrate how both fields greatly influence each other, leading to positive outcomes. These cases demonstrate that many concepts in both fields have direct parallels. The chapter\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "The ethics of reverse engineering for game technology",
+        "id": "ZDaDoysAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "David I Schwartz",
+            "Jessica D Bayliss"
+        ],
+        "pub_source": "Designing Games for Ethics: Models, Techniques and Frameworks",
+        "pub_date": "2011",
+        "description": "This chapter demonstrates how legal concepts, accepted practices, and research in reverse engineering (a process of disassembling a system to understand how it works) can provide ethical and legal outlets for end-users. The game industry has influenced reverse engineering law and practice, challenging ethical practices in industry, academia, and with end-users. Although these communities supposedly rely on legal precedents, actual laws are often misunderstood, ignored, or just unknown. The communities continually struggle to balance the protection of intellectual property with consumer freedom, and reverse engineering demonstrates this conflict. We demonstrate how a variety of communities embrace reverse engineering through a series of case studies involving current commercial games and technology. The case studies include the modding community, massively-multiplayer online game community\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "\" Oh-No! Banjo\" a case study in alternative game controllers",
+        "id": "ZDaDoysAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Mike Ey",
+            "Joe Pietruch",
+            "David I Schwartz"
+        ],
+        "pub_source": "Proceedings of the International Academic Conference on the Future of Game Design and Technology",
+        "pub_date": "2010/5/6",
+        "description": "Alternative video game control devices have played a role in the success of music/rhythm games, as well as the success of video gaming consoles like the Nintendo Wii. This paper provides a brief background of alternative game controllers with respect to education and describes the process of creating \"Oh-No! Banjo\"---a banjo videogame controller and accompanying game created for Rochester Institute of Technology's experimental seminar course in Alternate Game Interfaces. The experimental controller and game received accolades in the press and offers a \"roadmap\" for others seeking pursue similar innovations.",
+        "citations": 4
+    },
+    {
+        "title": "Instructional design as game design",
+        "id": "ZDaDoysAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Jessica D Bayliss",
+            "David I Schwartz"
+        ],
+        "pub_source": "Proceedings of the 4th International Conference on Foundations of Digital Games",
+        "pub_date": "2009/4/26",
+        "description": "Games have made their way into the classroom in a multitude of ways to attract and retain students. The academic community has made great strides incorporating games into academic study. Although some have suggested formal links, little work has been done on formalizing how game design can inform instructional design. We explore this avenue by showing existing overlaps between the disciplines and areas where game design and instructional design can inform each other. Examples from a series of introductory programming courses will demonstrate the connections and suggest future development.",
+        "citations": 22
+    },
+    {
+        "title": "Motivating Engineering Mathematics Education with Game Analysis Metrics",
+        "id": "ZDaDoysAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "Proceedings of the ASEE Zone I Conference, West Point, NY",
+        "pub_date": "2008/3",
+        "description": "In this paper, I develop a system for computational analysis of games that uses scoring functions to motivate engineering mathematics education. Although many modern videogames have abandoned points as an archaic form of representing victory (or defeat) conditions, scoring can help represent a game as a dynamic simulation. The paper derives a functional mathematical relationship between temporal game state and score, which provides a foundation for addressing computational issues of games. Scoring functions can provide analytical tools for game analysis by measuring continuous and discrete game state. These tools may assist with game design, analysis, and balancing. Linking game creation with computational analysis could provide an excellent context to integrate mathematics at early stages of education. Moreover, the addition of theory might attract more engineering educators to provide rigor to\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Introduction to UNIX",
+        "id": "ZDaDoysAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "Pearson Education India",
+        "pub_date": "2008",
+        "description": "In this chapter, I will demonstrate a variety of commands that help you work with files, most of which will be text files. If you use GUIs, you already have done many of the operations herein. Even Microsoft Windows users who haven't accessed a DOS window might be surprised. Just enter HELP at the DOS prompt to see a wealth of commands. Although some of these commands might seem archaic, the idea is that Unix provides a tool set, commands from which you can create programs called shell scripts. Moreover, sometimes it is simply faster to type a short command.",
+        "citations": 3
+    },
+    {
+        "title": "Outreach with game design education",
+        "id": "ZDaDoysAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "David Schwartz",
+            "Catherine Norton",
+            "Sue Schwartz"
+        ],
+        "pub_source": "2007 Annual Conference & Exposition",
+        "pub_date": "2007/6/24",
+        "description": "Many universities and colleges are currently developing game design and development courses in response to student demand. Whereas some programs explore outreach opportunities via summer programs, the integration of service learning and K-12 outreach with college game courses is rare. We started a pilot program in Fall 2003 to research how educators can involve local youth (middle-to high-school level ages) directly within college game courses and thus offer a low-cost (and possibly, free) outreach program. In this paper, we explain our program structure and present our findings. The data shows that apprentices were positive about their experiences, though they requested additional hands-on instruction. We close the paper with recommendations and plans that attempt to combine the ideas of in-class mentoring along with traditional instruction.",
+        "citations": 4
+    },
+    {
+        "title": "Designing Shape-shifting Collaborative Laboratory Spaces to Facilitate Game-Design Education",
+        "id": "ZDaDoysAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "David I Schwartz",
+            "Tony Cosgrave",
+            "Steve Weidner"
+        ],
+        "pub_source": "Proceedings of the 2nd Annual Microsoft Academic Days on Game Development in Computer Science Education",
+        "pub_date": "2007",
+        "description": "In this paper, we describe a novel approach to computer laboratory design for multidisciplinary education, including game design. The Cornell Library Collaborative Learning Computer Laboratory (CL3) is a shape-shifting workspace in which students and instructors can move semi-circular, dual-workspace computer tables to fit a wide-variety of group needs and sizes. We demonstrate that this concept facilitates game-design and development education. Early studies indicate that CL3 does indeed work, though the concept needs a few refinements with respect to training and demonstration.",
+        "citations": 1
+    },
+    {
+        "title": "GameX: a platform for incremental instruction in computer graphics and game design",
+        "id": "ZDaDoysAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Rama C Hoetzlein",
+            "David I Schwartz"
+        ],
+        "pub_source": "ACM SIGGRAPH 2005 Educators program",
+        "pub_date": "2005/7/31",
+        "description": "Recent trends have resulted in an increased focus on game design as a topic for teaching in higher education [Deutsch 2002]. Although many game engines currently exist, few of these were designed with educational goals in mind. We distinguish between industry-oriented engines and instructional game engines designed to teach a range of concepts. The features needed to teach game development to college undergraduates in engineering and the humanities are explored. Specifically, we develop a platform that supports incremental education in game design. GameX, an open source instructional game engine, was developed with this approach in mind and was used to initiate the Game Design Initiative at Cornell University (GDIAC).",
+        "citations": 11
+    },
+    {
+        "title": "Game design and game-development education",
+        "id": "ZDaDoysAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Mohan Rajagopalan",
+            "David I Schwartz"
+        ],
+        "pub_source": "Phi Kappa Phi Forum",
+        "pub_date": "2005/6/22",
+        "description": "Not so long ago the idea of learning to create video games in college classes was outrageous. If you were a student then, thinking about following your passion for creating games, even if you managed not to be laughed at, ridiculed, or otherwise disparaged, you were unlikely to receive much guidance. Other than vague notions that you should probably learn how to program, no one really had much advice to offer.Now, it takes only a quick look at the\" Schools\" section of Gamasutra. com to see that the situation has changed dramatically. Gamasutra, a popular site featuring game-industry news and articles on all aspects of game development, now lists more than three hundred schools that provide game-development courses. Academia now takes seriously what students have been demanding for years: instruction in the creation of video games.",
+        "citations": 12
+    },
+    {
+        "title": "Interdisciplinary management of nutritional risk in critical care.(Research Oral Presentations).",
+        "id": "ZDaDoysAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "E Killough",
+            "N Whittier",
+            "A Chamberlain",
+            "S Deslauriers",
+            "I Madden",
+            "A Metters",
+            "D Schwartz"
+        ],
+        "pub_source": "American Journal of Critical Care",
+        "pub_date": "2003/5/1",
+        "description": "Purpose This study was conducted to assess nutrition management strategies for critically ill patients, with an objective of improving outcomes through the implementation of a data-based protocol to optimize nutrition support. Background/Significance Protein-calorie malnutrition has been identified as a significant problem in critical care and is frequently associated with complications that can contribute to increased morbidity and mortality. Methods A pilot study (n= 60) was conducted to identify and evaluate current nutrition management practices. An interdisciplinary protocol was then developed that included standardization of risk assessment, baseline prealbumin testing for all ICU admissions> 24 hours, and a management algorithm. Biweekly prealbumin levels and daily progress toward meeting protein/calorie needs were assessed for patients at risk. The intervention sample (n= 98) was then compared to the\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Introduction to Maple 8",
+        "id": "ZDaDoysAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "Prentice Hall",
+        "pub_date": "2003/1",
+        "description": "PostScript is a registered trademark of Adobe Systems, Inc. UNIX is a registered trademark exclusively licensed through X/OPEN Company Ltd. Windows and Windows NT are registered trademarks of Microsoft, Inc. Other product and company names mentioned herein may be the trademarks of their respective owners.",
+        "citations": 15
+    },
+    {
+        "title": "Cooperative Learning Computer Lab Proposal",
+        "id": "ZDaDoysAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "Faculty Innovation in Teaching Grants Program",
+        "pub_date": "2001/9/15",
+        "description": "As an introductory course where students first experience computer science and engineering, CS100 offers a great opportunity for students to explore their career options. But, due to fear that arises from perceived competition with more experienced students, less experienced students either drop out or leave technical fields altogether which hampers diversity. So, CS100 has begun to incorporate non-competitive, cooperative-learning labs from the Academic Excellence Workshop program in Engineering. Because of the large course enrollment and need for specialized computer labs, the College of Engineering and Computer Science Department are requesting space from Campus Life to build a cooperative learning computer laboratory in the North Campus at Cornell. This laboratory will do the following:\u2022 provide laboratory space for COM S 100 Academic Excellence Workshops\u2022 foster skill development in the computational sciences with workshops in other courses\u2022 provide general lab space for students and university efforts such as high-school programs, distance learning, and staff/faculty/student teaching development\u2022 serve as a model to test cooperative-learning concepts with computers The lab\u2019s space, structure, and resources will support sixteen students split into cooperative learning groups of two to four students with two facilitators. The lab will ideally contain nine computers, eight for the students and one for the instructors. The types and arrangement of furniture will provide a flexible environment for groups to form and \u201croam\u201d around to discuss and develop concepts on the computers."
+    },
+    {
+        "title": "Deterministic interval uncertainty methods of structural analysis",
+        "id": "ZDaDoysAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "David Ira Schwartz"
+        ],
+        "pub_source": "State University of New York at Buffalo",
+        "pub_date": "1999",
+        "description": "Science and engineering attempt to model uncertainties embedded in physical systems. Methods, like statistics, typically model uncertain quantities as nondeterministic. Techniques concerned with deterministic uncertainty offer alternatives to more traditional approaches. To model deterministic uncertainty in Structural Engineering models, this dissertation applies a form of mathematics called Interval Analysis (IA) to the displacement method of matrix structural analysis.",
+        "citations": 3
+    },
+    {
+        "title": "A constraint-based approach for qualitative matrix structural analysis",
+        "id": "ZDaDoysAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "David I Schwartz",
+            "Stuart S Chen"
+        ],
+        "pub_source": "AI EDAM",
+        "pub_date": "1995/1",
+        "description": "Qualitative physics, a subfield of artificial intelligence, adapts intuitive and non-numerical reasoning for descriptive analysis of physical systems. The application of a set-based qualitative algebra to matrix analysis (QMA) allows for the development of a qualitative matrix stiffness methodology for linear elastic structural analysis. The unavoidable introduction of arithmetic ambiguity requires the reinforcement of physical constraints complementary to standard matrix operations. The overall analysis technique incorporates such constraints within the set-based framework with logic programming. Truss, beam, and frame structures demonstrate constraint relationships, which prune spurious solutions resulting from qualitative arithmetic relations. Though QMA is not a panacea for all structural applications, it provides greater insight into new notions of physical analysis.",
+        "citations": 6
+    },
+    {
+        "title": "Towards a unified framework for interval based qualitative computational matrix structural analysis",
+        "id": "ZDaDoysAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "David I Schwartz",
+            "Stuart S Chen"
+        ],
+        "pub_source": "Computing Systems in Engineering",
+        "pub_date": "1994/4/1",
+        "description": "Qualitative reasoning about physical system behavior is one of the things engineers do to assess the \u201creasonableness\u201d of the outputs from their numerical simulations, but such reasoning is typically assumed to be an exclusively human activity under the rubric of \u201cengineering judgement\u201d. It is the authors' contention that such reasoning can be rendered in a computational manner and that Interval Analysis (IA) provides the mathematical foundations to do so.Using Interval Analysis, the notion of operations with numbers is replaced with operations on sets of numbers. Representation of structural parameters with sets of known values permits a simultaneous parametric study. Using concepts from Qualitative and Order of Magnitude Reasoning, interval methods are augmented to perform levels of both qualitative and quantitative mechanical reasoning. Whereby interval techniques employ tight numerical intervals, it is\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Qualitative reasoning for matrix structural analysis",
+        "id": "ZDaDoysAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "David Ira Schwartz"
+        ],
+        "pub_source": "State University of New York at Buffalo",
+        "pub_date": "1994",
+        "citations": 2
+    },
+    {
+        "title": "Order of magnitude reasoning for qualitative matrix structural analysis",
+        "id": "ZDaDoysAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "David I Schwartz",
+            "Stuart S Chen"
+        ],
+        "pub_source": "Computing in Civil and Building Engineering",
+        "pub_date": "1993",
+        "description": "Several computational schemes have recently been proposed to adapt Qualitative Reasoning for Structural Engineering applications. One current methodology. Qualitative Matrix Analysis (QMA), shows promise for accommodating a variety of structural models within a uniform mathematical framework:. QMA currently leads to combinatorial ambiguities when applied to, structures of realistic complexity. To curtail ambiguity and provide a sense of magnitude to solutions, an interval based Order of Magnitude Reasoning approach is proposed. This paper describes the theory and prototype implementation of an interval-based matrix structural analysis scheme for Order of Magnitude Reasoning.",
+        "citations": 9
+    },
+    {
+        "title": "Spatial and temporal aspects of qualitative structural reasoning",
+        "id": "ZDaDoysAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "David I Schwartz",
+            "Stuart S Chen"
+        ],
+        "pub_source": "Computing in Civil Engineering and Geographic Information Systems Symposium",
+        "pub_date": "1992",
+        "citations": 8
+    },
+    {
+        "title": "Updated Cooperative Learning Computer Lab Proposal",
+        "id": "ZDaDoysAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:mB3voiENLucC",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "This proposal is modified from the version that I submitted to the Faculty Innovation in Teaching Grants Program, which accepted the proposal. Since September 15, a team composed of representatives from Campus Life, Academic Technology Services, the College of Engineering, and the Computer Science Department have been working towards clarifying the goals and issues associated with developing a cooperative computer lab. In particular, based on the recommendations of the design team, I have included portions in the modified proposal to show that the focus of the lab reaches beyond the introductory programming courses from which the idea was initially proposed. Pages 4\u20139 contain a majority of the updates, which consist of a discussion of current limitations, design modifications, and an extensive list of proposed uses for the lab. The current plan for the lab is shown on page 8."
+    },
+    {
+        "title": "Multi-user VR Experience for Creating and Trading Non-fungible Tokens",
+        "id": "ZDaDoysAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Pruthviraj Solanki",
+            "David Long",
+            "David Schwartz",
+            "Ihab Mardini",
+            "Chao Peng"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Non-fungible tokens (NFTs) have shown a great potential in creating, identifying, and trading digital ownership, and can be used to build the economics in the future metaverse. It is important for the users to understand the basic concepts of NFTs before they engage in a virtual society or application that uses NFTs to represent digital assets. Traditional learning methods like reading articles are inefficient to support active learning of a new concept. In this work, we designed and developed a multi-user VR-based learning method that provides a learneroriented experience for users to create their own digital assets, witness the process of minting the assets into NFTs, and trade the NFTs. We conduct a study with participants to understand the learning efficiency of the VR-based method in comparing to the traditional reading-based method. The evaluation result shows that the multi-user experience was more engaging than a solo reading-based experience, and the participants became more motivated to learn about NFT topics in the VR experience."
+    },
+    {
+        "title": "Journal of Game Design and Development Education",
+        "id": "ZDaDoysAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Ian Parberry",
+            "David I Schwartz",
+            "Holliie Bourdreaux",
+            "Jim Etheridge",
+            "Ashok Kumar",
+            "Ufuk Onen",
+            "Richard Stevens",
+            "Karen Collins",
+            "Katrin Becker"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Game programming classes have been offered at the university of North Texas continuously since 1993. The classes are project based, and feature collaborative coursework with art majors in uNT\u2019s College of Visual Arts and Design. We discuss the design that enables them to provide training for students intending employment in the game industry without sacrificing academic educational depth or the educational needs of mainstream computer science students."
+    },
+    {
+        "title": "Spatial and Temporal Variations of Precipitation Effects on Storm Hydrographs",
+        "id": "ZDaDoysAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "DI Schwartz",
+            "SS Chen"
+        ],
+        "pub_source": "Hydraulic Engineering",
+        "pub_date": ""
+    },
+    {
+        "title": "CS100 B Fall 1999 Professor David I. Schwartz Programming Assignment 4 Due: Thursday, November 4",
+        "id": "ZDaDoysAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=ZDaDoysAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "David I Schwartz"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "3. BackgroundThis section presents material for those who wish to know the underlying concepts. If you don\u2019t understand some of the biological details but understand enough to do the assignment, that\u2019s OK"
+    }
+]

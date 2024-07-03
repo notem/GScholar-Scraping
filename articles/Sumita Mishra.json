@@ -1,0 +1,967 @@
+[
+    {
+        "title": "Code red: A nuclear nightmare-navigating ransomware response at an Eastern European power plant",
+        "id": "Lbqf_Y0AAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Namita Madhira",
+            "Justin M Pelletier",
+            "Daryl Johnson",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Journal of Information Technology Teaching Cases",
+        "pub_date": "2024/5/3",
+        "description": "Over the past decade, the number and scale of ransomware attacks has grown. These attacks have stretched across multiple industries globally and caused billions of dollars of damages. Recent attacks have disrupted critical infrastructure and have served as prelude to war. Studies have shown that there is a lack of awareness among industry practitioners surrounding appropriate responses to ransomware. This failure during a career-defining moment is largely due to the gap between cyber security academic knowledge and industry practice. We therefore provide a learning resource for ransomware response education that is academically adequate, practically viable, and ultimately illustrates a process for proper employment of technology. This case, exposes students to technical requirements for a ransomware response and explores ransomware best practices. Discussion questions and a wargaming-style\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Enhancing Computing Curricular Outcomes and Student Accomplishments Through Collegiate Competitions",
+        "id": "Lbqf_Y0AAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Vijay Anand",
+            "Natalie A Bolton",
+            "Prasad Calyam",
+            "Rohit Chadha",
+            "Rajendra K Raj",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Proceedings of the ACM Conference on Global Computing Education Vol 1",
+        "pub_date": "2023/12/5",
+        "description": "Games and competitions enhance student engagement and help improve hands-on learning of computing concepts. Focusing on targeted goals, competitions provide a sense of community and accomplishment among students, fostering peer-learning opportunities. Despite these benefits of motivating and enhancing student learning, the impact of competitions on curricular learning outcomes has not been sufficiently studied. For institutional or program accreditation, understanding the extent to which students achieve course or program learning outcomes is essential, and helps in establishing continuous improvement processes for the program curriculum. Utilizing the Collegiate Cyber Defense Competition (CCDC), a curricular assessment was conducted for an undergraduate cybersecurity program at a US institution. This archetypal competition was selected as it provides an effective platform for broader\u00a0\u2026"
+    },
+    {
+        "title": "A distributed approach to privacy-preservation and integrity assurance of smart metering data",
+        "id": "Lbqf_Y0AAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Gaurav Wagh",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Proceedings of the 14th ACM International Conference on Future Energy Systems",
+        "pub_date": "2023/6/20",
+        "description": "Smart grid service providers collect metering data at frequent intervals for providing grid and billing functionalities. Studies have shown that access to the granular metering data can lead to breaches in customers\u2019 privacy. Several aggregation-based privacy-preserving frameworks for smart metering data have been proposed in the literature. However, these frameworks have either a high computational overhead on resource-constrained smart meters and/or are prone to single points of compromise due to centralized designs. Distributed frameworks with outsourced aggregation can provide the desired functionalities while keeping the framework lightweight for the smart meters. However, these distributed frameworks assume an honest-but-curious adversary, which is not a realistic assumption for outsourced aggregation. This work-in-progress paper proposes a distributed aggregation-based privacy-preserving\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Sm-div: A smart metering distributed privacy framework with integrity verification",
+        "id": "Lbqf_Y0AAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Gaurav Wagh",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2023 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)",
+        "pub_date": "2023/1/16",
+        "description": "Smart grid functionalities, such as real-time monitoring, load balancing, and accurate billing, require the granular collection of smart metering data at frequent time intervals. However, customers' privacy can be breached by deriving behavioral patterns from the granular metering data. Aggregation-based distributed privacy-preserving frameworks can provide the desired functionalities while keeping the framework lightweight for the smart meters that are typically resource-constrained. There are several limitations in the existing distributed frameworks. Some of these designs are susceptible to privacy-threatening collusion attacks by the entities that perform aggregation. In addition, most of these frameworks assume a semi-honest threat model, which is not a realistic assumption, given that third parties in these distributed frameworks often collect the metering data. In order to address these limitations, we propose a\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "A Privacy Safeguarding Framework for the Smart Grid",
+        "id": "Lbqf_Y0AAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Gaurav Shivaji Wagh"
+        ],
+        "pub_source": "Rochester Institute of Technology",
+        "pub_date": "2023",
+        "description": "The smart grid is an outcome of integrating communication technologies with traditional electrical systems. This enables the collection of granular metering data from the customer domain for providing grid and billing functionalities. However, the data collection process exposes the grid to various cyberattacks, posing a significant threat to customer privacy. This is a critical concern for the smart grid community and has hindered the global adoption of the smart grid technology. Although aggregation-based frameworks show promise for sharing metering data with the Electrical Service Provider while maintaining customer privacy, existing aggregation-based frameworks have several limitations. Some of these limitations include a high computational overhead on resource-constrained smart meters, susceptibility to single points of compromise due to dependency on a centralized entity, lack of support for dynamic billing\u00a0\u2026"
+    },
+    {
+        "title": "A Distributed Privacy-Preserving Integrity Verification Framework for the Smart Grid",
+        "id": "Lbqf_Y0AAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "Gaurav S Wagh",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2022 IEEE International Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2022/11/14",
+        "description": "Smart grid functionalities, such as real-time monitoring and load balancing, require smart metering data collection at frequent time intervals. There are several threats to this data collection process, including passive threats to customers' privacy and active threats to metering data integrity. Customer privacy can be breached with the fine grained metering data collection, and without appropriate measures for integrity verification, the metering data can be exploited to hamper the smart grid functionalities. Distributed privacy-preserving frameworks are more robust than centralized frameworks against privacy threats. Several distributed privacy-preserving frameworks for smart metering data exist in the literature. However, these frameworks assume a semi-honest threat model that does not consider threats to data integrity. This paper introduces a distributed framework under a malicious adversarial model. The proposed\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Internet of Healthcare Things (IoHT): Towards a Digital Chain of Custody",
+        "id": "Lbqf_Y0AAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Lalitha Donga",
+            "Rajendra K Raj",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2022 IEEE 10th International Conference on Healthcare Informatics (ICHI)",
+        "pub_date": "2022/6/11",
+        "description": "Smart Internet of Healthcare Things (IoHT) have the potential to transform patient care dramatically at reduced cost. The reality, however, is that there are serious security and privacy concerns that prevent this goal from being accomplished. The vast amounts of data being generated need to be kept secure to prevent harm to patients' health and privacy. For example, a cyberattack on heart rates data could cause patients to be over- or under-prescribed, causing severe consequences, including death. In this new environment, not ensuring a proper digital chain of custody leads to digital forensics challenges that could impact a criminal or malpractice investigation. This project explores enhancements needed to ensure security and privacy when IoHT are to be used in healthcare. A model is proposed to ensure a secure digital chain of custody for IoHT using database auditing techniques. The current status of the\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Interactive range queries for healthcare data under differential privacy",
+        "id": "Lbqf_Y0AAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "Asma Alnemari",
+            "Rajendra K Raj",
+            "Carol J Romanowski",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2021 IEEE 9th International Conference on Healthcare Informatics (ICHI)",
+        "pub_date": "2021/8/9",
+        "description": "Analyses of fine-grained healthcare data by medical researchers can have many societal benefits, including helping to track the spread of COVID-19 and treatment successes. As healthcare data includes personally identifying information (PII), privacy loss needs to be prevented. Differential privacy permits data analysis without loss of individual privacy via a curator who guards the data and determines its appropriate release. An  parameter measures the noise applied to the query results to control exposure of sensitive data: a low  value corresponds to more privacy protection, while a higher  value releases more accurate results with less privacy. Range queries, which count the number of values in a dataset within a user-defined range, pose privacy challenges that are especially concerning in healthcare applications. For example, an adversary can make sequential and overlapping range queries over a\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Divide & conquer: A privacy safeguarding framework for the smart grid",
+        "id": "Lbqf_Y0AAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Gaurav S Wagh",
+            "Sumita Mishra"
+        ],
+        "pub_source": "ICC 2021-IEEE International Conference on Communications",
+        "pub_date": "2021/6/14",
+        "description": "Smart grid requires granular smart metering data collection at frequent time intervals. However, this introduces unique risks to consumer privacy. To address this challenge, several privacy-preserving data collection frameworks have been proposed. Data aggregation-based frameworks show promise in terms of privacy preservation. However, the related frameworks in the literature either have a high computational overhead on the smart meters or rely on architectures that may lead to single points of compromise. Also, most studies focus on solving the privacy problem and do not consider the integration of accurate billing in the framework. In this paper, we study a multiple aggregator based distributed privacy-preserving framework to address these challenges. The aggregators carry out the bulk of the computational load, thus making the framework lightweight for the smart meters. Our proposed framework and two\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Targeted discreditation attack against trust management in connected vehicles",
+        "id": "Lbqf_Y0AAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Geoff Twardokus",
+            "Jaime Ponicki",
+            "Samantha Baker",
+            "Peter Carenzo",
+            "Hanif Rahbari",
+            "Sumita Mishra"
+        ],
+        "pub_source": "ICC 2021-IEEE International Conference on Communications",
+        "pub_date": "2021/6/14",
+        "description": "Vehicle-to-vehicle (V2V) communication systems in the U.S. rely on IEEE 1609.2 security protocols for message authentication using digital signatures. A key requirement for trust management in such systems is the ability to detect misbehaving vehicles, e.g., when vehicles are repeatedly forging signatures. However, this creates a new attack surface where receivers cannot determine whether the causes of signature verification failures are indeed malicious attacks. In this paper, we present our novel, open-source, USRP-based testbed and utilize it to demonstrate how a stealthy reactive jammer can exploit this vulnerability. Our novel, targeted attack is highly efficient (even given the short validity period for vehicle pseudonyms) and difficult to detect. Our experimental results show that our attack can successfully discredit a victim in prominent misbehavior detection schemes with just two minutes of jamming. Finally\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "A cyber-resilient privacy framework for the smart grid with dynamic billing capabilities",
+        "id": "Lbqf_Y0AAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Gaurav S Wagh",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)",
+        "pub_date": "2020/11/11",
+        "description": "The desired features for the smart grid include dynamic billing capabilities along with consumer privacy protection. Existing aggregation-based privacy frameworks have limitations such as centralized designs prone to single points of failure and/or a high computational overload on the smart meters due to in-network aggregation or complex algorithmic operations. Additionally, these existing schemes do not consider how dynamic billing can be implemented while consumer privacy is preserved. In this paper, a cyber-resilient framework that enables dynamic billing while focusing on consumer privacy preservation is proposed. The distributed design provides a framework for spatio-temporal aggregation and keeps the process lightweight for the smart meters. The comparative analysis of our proposed work with existing work shows a significant improvement in terms of the spatial aggregation overhead, overhead on\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "A distributed privacy preserving framework for the smart grid",
+        "id": "Lbqf_Y0AAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Gaurav S Wagh",
+            "Sahil Gupta",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)",
+        "pub_date": "2020/2/17",
+        "description": "Smart grid is envisioned to be deployed on cyberinfrastructure, which makes it vulnerable to cyberattacks. Studies have shown that by accessing the metering data, behavioral patterns of the customers can be derived by analysis. Therefore, to protect the privacy of the customers, it is important to develop privacy-preserving protocols and frameworks. Various studies in the smart grid domain address the privacy issue, but the techniques either have a high computational overhead or they are dependent on a single dedicated aggregator, making them prone to single points of failure. In this paper, a framework based on Shamir's secret sharing is proposed to address the above-mentioned issues. The framework is designed to prevent dedicated aggregators and the electrical utility from linking the aggregated reading to a specific smart meter. The security of the proposed framework is analyzed with respect to different\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Protecting personally identifiable information (PII) in critical infrastructure data using differential privacy",
+        "id": "Lbqf_Y0AAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Asma Alnemari",
+            "Rajendra K Raj",
+            "Carol J Romanowski",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2019 IEEE International Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2019/11/5",
+        "description": "In critical infrastructure (CI) sectors such as emergency management or healthcare, researchers can analyze and detect useful patterns in data and help emergency management personnel efficaciously allocate limited resources or detect epidemiology spread patterns. However, all of this data contains personally identifiable information (PII) that needs to be safeguarded for legal and ethical reasons. Traditional techniques for safeguarding, such as anonymization, have shown to be ineffective. Differential privacy is a technique that supports individual privacy while allowing the analysis of datasets for societal benefit. This paper motivates the use of differential privacy to answer a wide range of queries about CI data containing PII with better privacy guarantees than is possible with traditional techniques. Moreover, it introduces a new technique based on Multiple-attribute Workload Partitioning, which does not depend\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Quantifying the costs of data breaches",
+        "id": "Lbqf_Y0AAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Siddharth Dongre",
+            "Sumita Mishra",
+            "Carol Romanowski",
+            "Manan Buddhadev"
+        ],
+        "pub_source": "Critical Infrastructure Protection XIII: 13th IFIP WG 11.10 International Conference, ICCIP 2019, Arlington, VA, USA, March 11\u201312, 2019, Revised Selected Papers 13",
+        "pub_date": "2019",
+        "description": "Recent years have seen increases in the number of data breaches. This chapter attempts to quantify the impacts of data breaches in terms of the monetary costs incurred by providers and consumers. This is important because data breaches are a major factor when allocating funds for security controls. Case studies involving the Equifax incident in 2017 and the Target incident in 2013 are employed to demonstrate that the cost impacts of data breaches are significant for providers as well as consumers. The cost components in the overall cost function for providers and consumers are presented. Guided by open-source data, the cost components in the provider portion of the cost function are expressed as best-fit functions of time since the data breach. An important point in the cost quantification is that equal weights are assigned to the costs incurred by the provider and the consumers.",
+        "citations": 9
+    },
+    {
+        "title": "Building robust risk management as a method of situational awareness at the local level",
+        "id": "Lbqf_Y0AAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Jennifer Schneider",
+            "Carol Romanowski",
+            "Sumita Mishra",
+            "Rajendra K Raj",
+            "Sarah Dobie"
+        ],
+        "pub_source": "2018 IEEE International Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2018/10/23",
+        "description": "Management of risk at the community level continues to be challenging despite the creation of frameworks to support the management of various typologies of risk. As the scope and form of emergent risk evolves, our situational awareness tools and methodologies must also change to identify risks and possible impacts, events, and opportunities for mitigation. This paper examines the major risk frameworks applicable to community systems, and how they may be combined with historical and real-time data to provide a richer awareness of the existing operational environment during potential and actual calamities. The paper concludes with an examination of our opportunities to advance holistic risk management through the application of systems standards.",
+        "citations": 1
+    },
+    {
+        "title": "Protecting infrastructure data via enhanced access control, blockchain and differential privacy",
+        "id": "Lbqf_Y0AAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Asma Alnemari",
+            "Suchith Arodi",
+            "Valentina Rodriguez Sosa",
+            "Soni Pandey",
+            "Carol Romanowski",
+            "Rajendra Raj",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Critical Infrastructure Protection XII: 12th IFIP WG 11.10 International Conference, ICCIP 2018, Arlington, VA, USA, March 12-14, 2018, Revised Selected Papers 12",
+        "pub_date": "2018",
+        "description": "Protecting critical infrastructure data is challenging because it typically includes sensitive information that is often needed by analysts to answer crucial questions about the critical infrastructure. For example, in the healthcare sector, epidemiologists need to analyze personally identifiable information to track the spread of diseases or regional emergency services managers may need to view details of all 911 calls made during a hurricane or terrorist incident. In other situations where personally identifying information is not needed to perform analyses, studies have shown that anonymization approaches such as k-anonymity or l-diversity cannot safeguard the information from inadvertent or malicious exposure. Additionally, recent data breaches involving critical infrastructure information demonstrate that current access control mechanisms, including role-based access control, are neither sufficient to secure the\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "CyberCSP: Integrating cybersecurity into the computer science principles course",
+        "id": "Lbqf_Y0AAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Sumita Mishra",
+            "Rajendra K Raj",
+            "Paul Tymann",
+            "Jamie Fagan",
+            "Sage Miller"
+        ],
+        "pub_source": "2017 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2017/10/18",
+        "description": "The demand for cybersecurity professionals is projected to grow substantially, with the US Bureau of Labor Statistics reporting that employment in cybersecurity within the US will grow by 18% from 2014 to 2024, much faster than the average for all occupations. As creating a cyberspace workforce has become a matter of national security for every country, cybersecurity needs to be taught at all levels, to all students, in the educational system. The good news is that cybersecurity is also a topic that students from a wide variety of backgrounds find interesting, and as a result, it motivates them to study computing too. Over the past two decades, there has been an increased effort worldwide to incorporate computer science and computational thinking into the middle and high school curriculum. The CS10K initiative in the US has led to projects to introduce computer science at the K-12 educational level. One of these\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Board# 133: Gamifying Cybersecurity Course Content for Entry Level Students",
+        "id": "Lbqf_Y0AAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "David I Schwartz"
+        ],
+        "pub_source": "2017 ASEE Annual Conference & Exposition",
+        "pub_date": "2017/6/24",
+        "description": "The growing shortage of skilled professionals in cybersecurity and forensics has increased global demand for information systems professionals. In an effort to identify and attract more students to cybersecurity and forensics programs, the authors developed a game engine along with a GUI-based game creator to generate a sequence of entertaining, engaging, and educational games, suitable for forensics and cybersecurity courses. This multi-partner project is funded in part by the National Science Foundation under Award DUE-1400567.",
+        "citations": 2
+    },
+    {
+        "title": "How do faculty partner while teaching interdisciplinary CS+ X courses: Models and experiences",
+        "id": "Lbqf_Y0AAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Darakhshan Mir",
+            "Sumita Mishra",
+            "Paul Ruvolo",
+            "Lori Pollock",
+            "Sam Engen"
+        ],
+        "pub_source": "Journal of computing sciences in colleges",
+        "pub_date": "2017/6",
+        "description": "As Computer science (CS) plays an increasingly significant role in many other disciplines, it is crucial for us as CS educators to create authentic interdisciplinary learning experiences for students. To better inform the design of such learning experiences, we sought to catalogue how faculty from both CS and other disciplines are currently collaborating to create such experiences. Specifically, this paper describes knowledge-seeking activities carried out through designing and implementing a workshop program that brought together twenty-four faculty with experience in partnered teaching of CS+X courses. The goal is to take the initial steps towards preparing and supporting CS faculty to create interdisciplinary CS+X courses through partnerships with faculty in other disciplines, in order to spur interdisciplinary thinking in students.",
+        "citations": 9
+    },
+    {
+        "title": "On the analysis of collaborative anonymity set formation (CASF) method for privacy in the smart grid",
+        "id": "Lbqf_Y0AAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Sabrina Afrin",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2017 IEEE International Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2017/4/25",
+        "description": "The collection of high frequency metering data in the emerging smart grid gives rise to the concern of consumer privacy. Anonymization of metering data is one of the proposed approaches in the literature, which enables transmission of unmasked data while preserving the privacy of the sender. Distributed anonymization methods can reduce the dependency on service providers, thus promising more privacy for the consumers. However, the distributed communication among the end-users introduces overhead and requires methods to prevent external attacks. In this paper, we propose four variants of a distributed anonymization method for smart metering data privacy, referred to as the Collaborative Anonymity Set Formation (CASF) method. The performance overhead analysis and security analysis of the variants are done using NS-3 simulator and the Scyther tool, respectively. It is shown that the proposed scheme\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Building forward: strategic community resilience",
+        "id": "Lbqf_Y0AAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Jennifer Schneider",
+            "Carol Romanowski",
+            "Sumita Mishra",
+            "Rajendra K Raj",
+            "Michael McGuiness",
+            "Brandon Swartz"
+        ],
+        "pub_source": "2017 IEEE International Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2017/4/25",
+        "description": "The need for community resilience continues to gain prominence, and is reflected in a broad array of supporting efforts including measurement methodologies, system standards, governance and policy, and significant private efforts. However, communities continue to experience gaps and struggle to foster a strategic path for the long-term sustainable community resilience. Creating resilience at the community level requires a systematic effort, which can be accomplished via the design of a cohesive and opportunity-focused toolkit for cities and regions. Application of this toolkit can then drive measurable gains in community level resilience. This paper describes how notable available community level applications can be strategically combined to implement community resilience.",
+        "citations": 4
+    },
+    {
+        "title": "Gamifying course modules for entry level students",
+        "id": "Lbqf_Y0AAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education",
+        "pub_date": "2017/3/8",
+        "description": "The growing shortage of skilled professionals in cybersecurity and forensics has increased global demand for information systems professionals. To identify and attract more students to cybersecurity and forensics programs, the authors developed a game engine along with a sequence of entertaining, engaging, and educational games, suitable for forensics and cybersecurity courses. This paper focuses on the design and development of a modular educational game framework composed of a game engine and a GUI-based game creator. Following narrative and storylines of the game via interactive dialogs and visualized abstract concepts, students are motivated and engaged to obtain the necessary knowledge. Students will also develop their problem solving skills by using real tools and technologies while playing the game. The GUI-based game creator allows educators to create and develop new educational\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Using access control to mitigate insider threats to healthcare systems",
+        "id": "Lbqf_Y0AAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Suhair Alshehri",
+            "Sumita Mishra",
+            "Rajendra K Raj"
+        ],
+        "pub_source": "2016 IEEE international conference on healthcare informatics (ICHI)",
+        "pub_date": "2016/10/4",
+        "description": "Rapid and reliable sharing of patient information across healthcare systems is a major technological factor in improving healthcare. Although such sharing would lower costs, applicable laws and regulations, e.g., HIPAA in the United States, impose security and privacy guarantees that necessitate appropriate access control mechanisms to protect healthcare data. Many currently used access control models in healthcare systems are inadequate, as demonstrated by the constant successful attacks on these systems. As protecting healthcare information and systems from malicious or inadvertent attacks by authorized insiders is crucial, this paper investigates insider threats and develops an approach to protect such information from unauthorized or improper use, disclosure, alteration, and destruction by healthcare personnel. A threat model is designed and constructed for access control in healthcare systems, and\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "An anonymized authentication framework for smart metering data privacy",
+        "id": "Lbqf_Y0AAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Sabrina Afrin",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2016 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)",
+        "pub_date": "2016/9/6",
+        "description": "Emergence of the smart grid necessitates data collection from various entities connected to the power grid. By collecting fine-grained smart metering data from consumer household, smart grid is envisioned to offer innovative features, such as load-demand balance, dynamic pricing and demand-response. However, the advent of sophisticated data analysis tools makes it possible to extract detailed electricity usage patterns, which can reveal personal information of consumer household. The privacy concern is one of the reasons jeopardizing general deployment of smart meters, despite their effectiveness in cost savings for both electricity suppliers and consumers. Anonymous transmission of smart metering data is a potential solution but it requires mechanisms to authenticate anonymous data. Moreover, enabling the service provider's access to consumer information for grid functionality while preserving consumer\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Formalizing anonymity-delay tradeoffs in smart grid networks",
+        "id": "Lbqf_Y0AAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Benjamin Lipton",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2016 IEEE Smart Energy Grid Engineering (SEGE)",
+        "pub_date": "2016/8/21",
+        "description": "Privacy concerns about smart metering have proven to be a significant roadblock to adoption of the smart grid. In the smart grid, electricity usage data are collected in near real time, exposing users to attacks that reveal their habits, location, and preferences. Other research in this area has demonstrated the possibility of using pseudonyms to decouple low-frequency billing data from high-frequency grid maintenance data. Such schemes must provide a way to authenticate the pseudonym as belonging to a real customer, to defend against the submission of false data. However, this authentication process exposes the system to timing attacks that can correlate the authentication of a particular customer with the appearance of a new pseudonym on the network. These timing attacks have been addressed informally in the literature with techniques such as adding a random delay to transmission. The anonymity thus\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Mapping a community resilience management system: building operational knowledge",
+        "id": "Lbqf_Y0AAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Jennifer Schneider",
+            "Carol Romanowski",
+            "Rajendra Raj",
+            "Sumita Mishra",
+            "Jonathan Aleckna",
+            "Kaiyue Wang"
+        ],
+        "pub_source": "2016 IEEE Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2016/5/10",
+        "description": "System standards have been implemented in many contexts over the last few decades. Using closely aligned standards such as the emerging ISO 37120 typology for sustainable and resilient communities, and by drawing from various recognized capability models and indices, this paper develops a structure for operationalization of a community resilience management system, and then maps the system against the key attributes of a resilient community. This effort is a first step toward the management of long term resilience in our communities.",
+        "citations": 7
+    },
+    {
+        "title": "Response and recovery: A quantitative approach to emergency management",
+        "id": "Lbqf_Y0AAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Carol Romanowski",
+            "Jennifer Schneider",
+            "Sumita Mishra",
+            "Rajendra Raj",
+            "Rossi Rosario",
+            "Kent Stein",
+            "Bhargav Solanki"
+        ],
+        "pub_source": "2016 IEEE Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2016/5/10",
+        "description": "The last decade has shown a compelling need for a model to measure effectively how communities fare in overcoming unexpected hazards. Many entities, including the UN, have made relevant contributions in this area. However, a majority of these organizations have proposed and implemented mechanisms that only assess qualitative aspects (such as the presence and completeness of emergency plans) of the community in question, thus making assessment highly subjective and difficult to standardize. This paper presents a resiliency score framework that reflects the Federal Emergency Management Agency (FEMA) recovery continuum phases and aligns with current Emergency Management Accreditation Program (EMAP) standards. The developed model includes operational and quantifiable metrics that will support the assessment of a community's recovery process by emergency management and\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "A multidisciplinary predictive model for managing critical infrastructure disruptions",
+        "id": "Lbqf_Y0AAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Carol Romanowski",
+            "Rajendra Raj",
+            "Jennifer Schneider",
+            "Sumita Mishra",
+            "Bernard Brooks",
+            "Jessica Pardee",
+            "Bharat Bhole",
+            "Nikolaus Robalino"
+        ],
+        "pub_source": "Critical Infrastructure Protection X: 10th IFIP WG 11.10 International Conference, ICCIP 2016, Arlington, VA, USA, March 14-16, 2016, Revised Selected Papers 10",
+        "pub_date": "2016",
+        "description": "When communities are subjected to disruptive events, their response structure is composed of two interconnected systems: (i) a formal professional system that includes emergency services and auxiliary services professionals; and (ii) an ad hoc system formed by community members when the professional response is delayed or is inadequate. The community system typically persists until the professional system is able to take over completely. As the role of the community as responder is not well understood, community systems are often underutilized or even discouraged; this reduces the overall response efficacy. Improved understanding of the interplay between these systems could help ensure an effective overall response to disruptions. This chapter describes an integrated, multidisciplinary model of the interactions between the two systems during disruptive events and their influence on\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Regional response to large-scale emergency events: Building on historical data",
+        "id": "Lbqf_Y0AAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Carol Romanowski",
+            "Rajendra Raj",
+            "Jennifer Schneider",
+            "Sumita Mishra",
+            "Vinay Shivshankar",
+            "Srikant Ayengar",
+            "Fernando Cueva"
+        ],
+        "pub_source": "International Journal of Critical Infrastructure Protection",
+        "pub_date": "2015/12/1",
+        "description": "A widespread emergency event in the United States triggers the activation of a regional emergency operations center that manages a coordinated response to the disaster. Historically, the time-critical decisions made by emergency managers in the face of incomplete information and inadequate historical emergency event data have been guided primarily by their experience. The learning curve for emergency managers, especially novice managers, is steep, and is exacerbated by the complexity and scope of emergency events. This paper proposes a methodology designed to provide emergency managers with locality-specific information and resource allocation recommendations for large-scale event response, creating the foundation for a decision support system that draws on emergency event data. This work is the first to use locally-specific data for an emergency management decision support system. Two\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "A new covert channel over cellular voice channel in smartphones",
+        "id": "Lbqf_Y0AAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Bushra Aloraini",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sumita Mishra"
+        ],
+        "pub_source": "arXiv preprint arXiv:1504.05647",
+        "pub_date": "2015/4/22",
+        "description": "Investigating network covert channels in smartphones has become increasingly important as smartphones have recently replaced the role of traditional computers. Smartphones are subject to traditional computer network covert channel techniques. Smartphones also introduce new sets of covert channel techniques as they add more capabilities and multiple network connections. This work presents a new network covert channel in smartphones. The research studies the ability to leak information from the smartphones applications by reaching the cellular voice stream, and it examines the ability to employ the cellular voice channel to be a potential medium of information leakage through carrying modulated speech-like data covertly. To validate the theory, an Android software audio modem has been developed and it was able to leak data successfully through the cellular voice channel stream by carrying modulated data with a throughput of 13 bps with 0.018% BER. Moreover, Android security policies are investigated and broken in order to implement a user-mode rootkit that opens the voice channels by stealthily answering an incoming voice call. Multiple scenarios are conducted to verify the effectiveness of the proposed covert channel. This study identifies a new potential smartphone covert channel, and discusses some security vulnerabilities in Android OS that allow the use of this channel demonstrating the need to set countermeasures against this kind of breach.",
+        "citations": 10
+    },
+    {
+        "title": "On building cybersecurity expertise in critical infrastructure protection",
+        "id": "Lbqf_Y0AAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Sumita Mishra",
+            "Rajendra K Raj",
+            "Carol J Romanowski",
+            "Jennifer Schneider",
+            "Anthony Critelli"
+        ],
+        "pub_source": "2015 IEEE International Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2015/4/14",
+        "description": "Cybersecurity professionals need training in critical infrastructure protection (CIP) to prepare them for solving problems in design, implementation, and maintenance of infrastructure assets. However, two major roadblocks exist: (1) the lack of necessary skills sets and (2) the frequent need for updates due to rapid changes in computing disciplines. To address these issues and build the needed expertise, this paper proposes a flexible training framework for integrating CIP into cybersecurity training. The foundation of this framework is a set of self-contained training modules; each module is a distinct unit for use by an instructor. Modules are meant to be integrated at different levels, with subsequent modules building on those presented earlier. As these modules are designed for frequent updating and/or replacement, the proposed approach is flexible. This paper develops the generalized CIP module-based training\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Measurement of locality specific resilience",
+        "id": "Lbqf_Y0AAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Jennifer Schneider",
+            "Carol Romanowski",
+            "Rajendra K Raj",
+            "Sumita Mishra",
+            "Kent Stein"
+        ],
+        "pub_source": "2015 IEEE International Symposium on Technologies for Homeland Security (HST\u00a0\u2026",
+        "pub_date": "2015/4/14",
+        "description": "Resilience has been defined at the local, state, and national levels, and subsequent attempts to refine the definition have added clarity. Quantitative measurements, however, are crucial to a shared understanding of resilience. This paper reviews the evolution of resiliency indicators and metrics and suggests extensions to current indicators to measure functional resilience at a jurisdictional or community level. Using a management systems approach, an input/output model may be developed to demonstrate abilities, actions, and activities needed to support a desired outcome. Applying systematic gap analysis and an improvement cycle with defined metrics, the paper proposes a model to evaluate a community's operational capability to respond to stressors. As each locality is different-with unique risks, strengths, and weaknesses-the model incorporates these characteristics and calculates a relative measure of\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Gamified digital forensics course modules for undergraduates",
+        "id": "Lbqf_Y0AAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Yin Pan",
+            "David Schwartz",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2015 IEEE Integrated STEM Education Conference",
+        "pub_date": "2015/3/7",
+        "description": "Cyber security and forensics are among the most critical areas of national importance with a rising demand for knowledgeable professionals. In response to the increasing need for advanced studies in forensics, we propose game-based modules using the game-based learning approach that enable first-year students to learn basic digital forensics concepts without pre-requisite knowledge. This paper focuses on the design and development of an interactive game framework and the educational digital forensics modules that will be plugged into the game framework in a real computing environment. In contrast to the traditional teaching approaches, this modular approach will use game-based learning and visualization techniques to engage students to learn abstract concepts and to explore forensics investigation technologies and procedures through interactive games. The general design of the game framework\u00a0\u2026",
+        "citations": 22
+    },
+    {
+        "title": "Information management and decision support in critical infrastructure emergencies at the local level",
+        "id": "Lbqf_Y0AAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Carol J Romanowski",
+            "Sumita Mishra",
+            "Rajendra K Raj",
+            "Trudy Howles",
+            "Jennifer Schneider"
+        ],
+        "pub_source": "2013 IEEE International Conference on Technologies for Homeland Security (HST)",
+        "pub_date": "2013/11/12",
+        "description": "In a critical infrastructure disaster incident, emergency managers are often compelled to make time-critical decisions based on incomplete information streaming in at disparate times from multiple data sources. As the incident progresses, the ability to predict where additional resources will be needed is crucial to both response and recovery. Decision making and prediction in this context requires combining (fusing) incoming data streams; presenting relevant information from these streams in a form appropriate for each user; and using data from similar historical events to predict resource needs and incident evolution. This paper discusses the role of data fusion, data integration, and data mining in decision making for municipal or regional emergency managers. It also explores the implementation of web-based decision support tools. Finally, the paper makes recommendations for improving information management\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "Towards a web tracking profiling algorithm",
+        "id": "Lbqf_Y0AAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "William Huba",
+            "Bo Yuan",
+            "Yin Pan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "2013 IEEE International Conference on Technologies for Homeland Security (HST)",
+        "pub_date": "2013/11/12",
+        "description": "Accurate tracking of web attackers can be used to identify and monitor repeat offenders, and to allow defenders to deter and/or retaliate against the attackers. Tracking of web clients has been difficult since HTTP is a stateless protocol. Existing methods are limited to the current session and are not designed to track a client long-term or through different environments. This paper evaluates and rates the most popular methods of tracking web users in terms of the uniqueness of the information provided by them, and how well they preserve information when a client attempts to remove them. The tracking methods are then combined using a profiling algorithm to correlate all of the available information into a single profile. The algorithm is designed with different weights for each method. Test results demonstrate that this approach accurately determines the correct profile for a client in situations where the individual\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "A curricular framework for critical infrastructure protection education for engineering, technology and computing majors",
+        "id": "Lbqf_Y0AAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Sumita Mishra",
+            "Carol J Romanowski",
+            "Rajendra K Raj",
+            "Trudy Howles",
+            "Jennifer Schneider"
+        ],
+        "pub_source": "2013 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2013/10/23",
+        "description": "The 16 critical infrastructure sectors identified by the US Department of Homeland Security employ many engineering, technology and computing graduates who increasingly face critical infrastructure protection (CIP) issues. However, most undergraduate curricula in these disciplines do not incorporate CIP in any meaningful way. This paper proposes a flexible curricular framework for integrating CIP into undergraduate education via self-contained inter-disciplinary CIP course modules; a course module is a distinct curricular unit such as a lab or teaching component for use by an instructor in existing courses without requiring any course or program modifications. The proposed course modules cover physical, human, and cyber aspects of CIP. The framework is designed for use in multiple disciplines, and the modules are designed for presentation at different levels of the undergraduate experience, with subsequent\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "Advanced Forensics Labs to Meet Computer Forensics Challenges Due to Technological Advancements",
+        "id": "Lbqf_Y0AAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Journal of The Colloquium for Information Systems Security Education",
+        "pub_date": "2013/6/1",
+        "description": "Computer forensics is a continually evolving field, filled with challenges when existing hardware and software technologies progress and new devices and technologies are added to the mix. It is important for forensics investigators responsible for acquiring, preserving and analyzing digital evidence, to be aware of the challenges facing the forensics field and to apply latest technologies in forensics investigation. This paper discusses the challenges to the traditional forensics procedures and technologies due to evolving hardware and software. The authors present the latest forensics technologies and procedures as well as research ideas to address the challenges, especially in mobile device forensics, Solid State Drive (SSD) evidence recovery and analysis, and Windows memory forensics. Corresponding labs are designed and presented to assist computer forensic students and practitioners in getting acquainted with and practicing the new knowledge and tools.",
+        "citations": 1
+    },
+    {
+        "title": "Insider threat mitigation and access control in healthcare systems",
+        "id": "Lbqf_Y0AAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Suhair Alshehri",
+            "Sumita Mishra",
+            "Rajendra Raj"
+        ],
+        "pub_source": "Technical Report, Dochester Institute of Technology",
+        "pub_date": "2013/5",
+        "description": "Rapid and reliable information sharing of patient healthcare information has become critical for achieving better care with lower costs. However, such healthcare information sharing requires to be done securely with privacy guarantees, as required by law. Among its other requirements, the Health Insurance Portability and Accountability Act (HIPAA) requires the use of appropriate access control mechanisms to protect healthcare information. Despite these legal requirements, currently implemented access control models in the healthcare domain are typically inadequate as demonstrated by the large and increasing numbers of successful attacks on healthcare systems. In particular, current access control models do not provide sufficient protection for healthcare systems from attacks by insiders, ie, authorized healthcare personnel. This paper examines how healthcare information can be protected from unauthorized or improper use, disclosure, alteration, and destruction by healthcare providers. Using a holistic approach toward modeling access control, the authors construct a threat model for access control in healthcare systems. The constructed model is then used to assess the effectiveness of current access control mechanisms such as Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC), as well as the BiLayer Access Control (BLAC) model, which was proposed as a flexible, higher-performance replacement for both RBAC and ABAC.",
+        "citations": 10
+    },
+    {
+        "title": "A survey of identity and handoff management approaches for the future Internet",
+        "id": "Lbqf_Y0AAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Hasan Tuncer",
+            "Sumita Mishra",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "Computer communications 36 (1), 63-79",
+        "pub_date": "2012/12/1",
+        "description": "Since its inception almost 40years ago, the Internet has evolved and changed immensely. New technology solutions are desired to keep up with this unprecedented growth. Besides the traditional computing devices, different types of mobile devices need to be supported by the future Internet architecture. In this work, a survey of identity and handoff management solutions proposed in future Internet architectures is presented. Mobility protocols developed by the Internet Engineering Task Force initiatives are discussed to give the background on the user mobility support challenges with the current architecture. The next generation network architectures supported by global initiatives are presented and analyzed in terms of their support for seamless user and device mobility. Furthermore, this survey is extended to include the architectures proposed for wireless mesh networks, which are envisioned to be a part of the\u00a0\u2026",
+        "citations": 37
+    },
+    {
+        "title": "Game-based forensics course for first year students",
+        "id": "Lbqf_Y0AAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Yin Pan",
+            "Sumita Mishra",
+            "Bo Yuan",
+            "Bill Stackpole",
+            "David Schwartz"
+        ],
+        "pub_source": "Proceedings of the 13th annual conference on Information technology education",
+        "pub_date": "2012/10/11",
+        "description": "This paper focuses on the design and development of a game-based forensics course. This course uses the game-based learning (GBL) approach that builds the game in a real computing environment that has direct access to actual forensics tools from a forensics machine and the evidence from a suspect machine. Interactive visualizations will be used to help students to understand the intangible and inaccessible abstract concepts such as deleted/hidden/encrypted/over-written digital evidence.",
+        "citations": 18
+    },
+    {
+        "title": "E-mail Behavior Profiling based on Attachment Type and Language",
+        "id": "Lbqf_Y0AAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Onur Polatcan",
+            "Sumita Mishra",
+            "Yin Pan"
+        ],
+        "pub_source": "6th Annual Symposium on Information Assurance (ASIA\u201911)",
+        "pub_date": "2011/6/7",
+        "description": "Protection of confidential information from insider threat is crucial for any organization. In particular, compromise of information via email is relatively easy and can go undetected. We have developed the Invisible Witness tool for prevention and detection of information compromise via email. Invisible Witness can automatically detect certain patterns across user accounts that indicate covert or malicious activities. Furthermore, this application assists the network administrator with targeted investigation. Many existing applications look for specific text or attachments, but to the best of our knowledge, Invisible Witness is the only application that is capable of creating user profiling. Our preliminary results indicate that this application works with over 95% accuracy. Hence, this tool can be used to minimize business risk by helping protect sensitive information from compromise.",
+        "citations": 1
+    },
+    {
+        "title": "A holistic, modular approach to infuse cybersecurity into undergraduate computing degree programs",
+        "id": "Lbqf_Y0AAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Trudy Howles",
+            "Carol Romanowski",
+            "Sumita Mishra",
+            "Rajendra K Raj"
+        ],
+        "pub_source": "Annual Symposium On Information Assurance (ASIA), Albany, NY",
+        "pub_date": "2011/6/7",
+        "description": "In response to societal change and national educational objectives, a holistic, modular approach to Cybersecurity education is presented in this paper. This approach is characterized by a set of reusable, self-contained modules that can be embedded in existing classes in several computing disciplines. The intent is to introduce these modules across computing disciplines, and throughout the undergraduate years to ensure a greater understanding of security issues among diverse computing majors. The ultimate goal is to address the societal need for computing professionals who are educated and experienced in diverse aspects of computing security and information assurance.",
+        "citations": 14
+    },
+    {
+        "title": "Improving reliability of jamming attack detection in ad hoc networks",
+        "id": "Lbqf_Y0AAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Geethapriya Thamilarasu",
+            "Sumita Mishra",
+            "Ramalingam Sridhar"
+        ],
+        "pub_source": "International Journal of Communication Networks and Information Security",
+        "pub_date": "2011/4/1",
+        "description": "Defense against denial of service (DoS) attacks is a critical component of any security system as these attacks can affect the availability of a node or an entire network. In this work, we focus on jamming type DoS attacks at the physical and MAC layers in 802.11 based ad hoc networks. Collisions in wireless networks occur due to varying factors such as jamming attacks, hidden terminal interferences and network congestion. We present a probabilistic analysis to show that collision occurrence alone cannot be used to conclusively determine jamming attacks in wireless channel. To increase the reliability of attack detection, it is necessary to provide enhanced detection mechanisms that can determine the actual cause of channel collisions. To address this, we first investigate the problem of diagnosing the presence of jamming in ad hoc networks. We then evaluate the detection mechanism using cross-layer information obtained from physical and link layers to differentiate between jamming and congested network scenarios. By correlating the cross-layer data with collision detection metrics, we can distinguish attack scenarios from the impact of traffic load on network behavior. Through simulation results we demonstrate the effectiveness of our scheme in detecting jamming with improved precision.",
+        "citations": 32
+    },
+    {
+        "title": "Network Security Auditing",
+        "id": "Lbqf_Y0AAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Yin Pan",
+            "Bo Yuan",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Network Security, Administration and Management: Advancing Technology and Practice",
+        "pub_date": "2011",
+        "description": "As people increasingly rely on computer systems and networks for services such as online banking, online shopping, and socialization, information security for identity protection and privacy has become more important today than ever. Businesses and organizations are also obligated to provide such security to comply with state and federal laws and regulations. Managing security risks and ensuring compliance with information security regulations and industry standards have become important for businesses and organizations. Security auditing is an effective process to assess policies, procedures, and controls in identifying risks associated with networks and various operating systems. This chapter emphasizes network security audits and discusses various auditing procedures and technologies to identify and examine threats and vulnerabilities in computer networks, and to determine how to assess and manage\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "On the effects of deployment imprecision on underwater sensor connectivity",
+        "id": "Lbqf_Y0AAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Erik F Golen",
+            "Sumita Mishra",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "Proceedings of the 5th International Workshop on Underwater Networks",
+        "pub_date": "2010/9/30",
+        "description": "In designing an underwater acoustic sensor network, the main bottleneck a field designer faces is the acoustic communications range of the sensors. Since communications is done at relatively high frequencies, as compared with frequencies emitted by underwater vehicles, these higher frequencies are attenuated more rapidly by the medium. Therefore, at a minimum, sensors must be deployed within communications range of each other. Unfortunately, human or mechanical error and physical aspects of the medium may lead to sensors being deployed imprecisely, causing a lack of connectivity between sensors. To mitigate such situations, this paper proposes a stochastic approach, the Effective Communications Range Calculator, for determining an effective communications range with which to design underwater sensor fields to meet the connectivity specifications of the field designer.",
+        "citations": 2
+    },
+    {
+        "title": "An underwater sensor allocation scheme for a range dependent environment",
+        "id": "Lbqf_Y0AAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Erik F Golen",
+            "Sumita Mishra",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "Computer Networks",
+        "pub_date": "2010/2/26",
+        "description": "A series of assumptions is typically made when designing a field of passive underwater sensors. One of the more glaring is range independence throughout an operational area. It is unlikely that a large water space will have uniform acoustic characteristics throughout, i.e., the performance of a sensor will vary based upon its physical location. In an area clearance scenario, where there is no apparent target for an adversary to gravitate towards, such as a ship or a port, it is difficult to determine where the field designer should allocate sensors so that their deployment locations can be planned efficiently. To intelligently allocate sensors, a field designer could first divide an area into sectors of relatively uniform acoustics, based upon variations in acoustic characteristics throughout the area. A prediction of how often a threat submarine will visit each sector can then be made in order to increase the field\u2019s detection\u00a0\u2026",
+        "citations": 36
+    },
+    {
+        "title": "Teaching high-assurance internet protocol encryption (haipe) using opnet modeler simulation tool",
+        "id": "Lbqf_Y0AAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Tae H Oh",
+            "Sumita Mishra",
+            "Yin Pan"
+        ],
+        "pub_source": "Proceedings of the 10th ACM conference on SIG-information technology education",
+        "pub_date": "2009/10/22",
+        "description": "HAIPE is a primary encryption technology in the Department of Defense (DoD) Networks and has been a critical architecture component of net-centric operation. It is a fairly new encryption technology similar to Internet Protocol Security (IPSec), and it is not easy to teach different components of HAIPE in a traditional classroom environment. However, Optimum Network (OPNET) Modeler tool with extensive features of HAIPE offers practical experience of the encryption technology to students. A combination of theoretical teaching and practical experience provide easier and in-depth understanding of the technology. This paper discusses how the OPNET Modeler tool can benefit students in the understanding of HAIPE technology and discusses the features in the tool offers that can be used for effective teaching. Lastly, this paper discusses how this tool can be used to meet configuration, visual, and trade-off learning\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Vertical handoff and mobility management for seamless integration of heterogeneouswireless access technologies",
+        "id": "Lbqf_Y0AAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:mB3voiENLucC",
+        "authors": [
+            "Nirmala Shenoy",
+            "Sumita Mishra"
+        ],
+        "pub_source": "Heterogeneous Wireless Access Networks: Architectures and Protocols",
+        "pub_date": "2008/8/25",
+        "description": "Communications networks today are a combination of different wireless and wired networks, that are based on an enriched set of technologies. Wired networks are preferred when the \u2018communicating\u2019user\u2019s mobility or freedom to roam is not a prime concern. However, given the busy schedules of humans today and the tremendous growth rate in travelling professionals, wireless networks are gaining popularity and are becoming an integral part of our lives. Research in innovative wireless technologies continues in the academia and industry as we seek to provide enriched wireless services to cater to the requirements of the variety of roaming users. Restricting the movement of a roaming user to a certain zone or service provider or interrupting a service because the user moved out of the administrative domain of a wireless network will no more be attractive, especially since wireless networks today span the globe\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "A cross-layer approach to detect jamming attacks in wireless ad hoc networks",
+        "id": "Lbqf_Y0AAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Geethapriya Thamilarasu",
+            "Sumita Mishra",
+            "Ramalingam Sridhar"
+        ],
+        "pub_source": "MILCOM 2006-2006 IEEE Military Communications conference",
+        "pub_date": "2006/10/23",
+        "description": "Building an efficient intrusion detection system (IDS) is a challenging task in wireless ad hoc networks due to the resource constraints and lack of a centralized control. In this work, we present a decentralized monitor-based IDS for detecting jamming type denial of service (DoS) attacks at the lower layers of the protocol stack. The varying channel and network dynamics in ad hoc networks can impair service similar to a jamming scenario, resulting in false positives on intrusion detections. To this end, we incorporate a cross-layer design in our IDS to differentiate the malicious jamming behavior from genuine network failures. We validate our design through simulation, and establish the effectiveness of the model. From the simulation results, we observe a significant improvement in the accuracy of detection and lower false positives",
+        "citations": 70
+    },
+    {
+        "title": "A cross-layer based intrusion detection approach for wireless ad hoc networks",
+        "id": "Lbqf_Y0AAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Geethapriya Thamilarasu",
+            "Aruna Balasubramanian",
+            "Sumita Mishra",
+            "Ramalingam Sridhar"
+        ],
+        "pub_source": "IEEE International Conference on Mobile Adhoc and Sensor Systems Conference, 2005.",
+        "pub_date": "2005/11/7",
+        "description": "Wireless ad-hoc networks are vulnerable to various kinds of security threats and attacks due to relative ease of access to wireless medium and lack of a centralized infrastructure. In this paper, we seek to detect and mitigate the denial of service (DoS) attacks that prevent authorized users from gaining access to the networks. These attacks affect the service availability and connectivity of the wireless networks and hence reduce the network performance. To this end, we propose a novel cross-layer based intrusion detection system (CIDS) to identify the malicious node(s). Exploiting the information available across different layers of the protocol stack by triggering multiple levels of detection, enhances the accuracy of detection. We validate our design through simulations and also demonstrate lower occurrence of false positives",
+        "citations": 84
+    },
+    {
+        "title": "Security for energy constrained RFID system",
+        "id": "Lbqf_Y0AAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "V Natarajan",
+            "Aruna Balasubramanian",
+            "Sumita Mishra",
+            "Ramalingam Sridhar"
+        ],
+        "pub_source": "Fourth IEEE Workshop on Automatic Identification Advanced Technologies (AutoID'05)",
+        "pub_date": "2005/10/17",
+        "description": "The information exchange between RFID tags and the reader is not secure due to much inherent vulnerabilities of RF links. Moreover, these tags are typically energy constrained thus limiting the implementation of complex security algorithms. Energy depleted RFID tags are source of potential attacks from intruders with malicious intent. In this paper, we present a solution that helps securing both RFID tags and the information exchange. To this end, we have developed a communication strategy where a tag periodically communicates its security status to the reader and is authenticated. The information exchange between the tags and the reader is secured using AES encryption. Also, we use PUF circuit and a power sensing circuit to identify malicious readers and tags. In addition, we introduce a concept of semi-active tags, whereby an RFID tag whose energy is depleted can use neighboring tags to communicate its\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "Wireless security protocol using a low cost pseudo random number generator",
+        "id": "Lbqf_Y0AAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Karthik Ramakrishnan",
+            "Aruna Balasubramanian",
+            "Sumita Mishra",
+            "Ramalingam Sridhar"
+        ],
+        "pub_source": "MILCOM 2005-2005 IEEE Military Communications Conference",
+        "pub_date": "2005/10/17",
+        "description": "In this work, we present a security solution for wireless networks using a novel low cost pseudo random number generator (PRNG). The PRNG is developed by superimposing a certain number or periodic waves such that the same pseudo random number is generated at two different devices that share a secret key. The generated pseudo random numbers are used for securing messages between the two devices. It is shown that this PRNG is capable of self synchronization, secure against most attacks and can be implemented both in hardware and software. In addition, the solution is lightweight and is ideal for wireless communication where the devices may be resource constrained. Analysis and extensive testing using the DIEHARD tests indicate that the developed PRNG exhibits high statistical randomness. The generated pseudo random numbers are also cryptographically secure and are thus suitable for\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Secure key management for NASA space communication",
+        "id": "Lbqf_Y0AAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Aruna Balasubramanian",
+            "Sumita Mishra",
+            "Ramalingam Sridhar"
+        ],
+        "pub_source": "ICNS conference",
+        "pub_date": "2005/5",
+        "description": "NASA envisions advanced technologies and protocols for their missions using space-based networks. The space-based network technology considers the ground stations and the spacecrafts to be a part of one large network, where a spacecraft can potentially connect to a large number of ground stations during its orbit. However, the technology introduces easy access to the spacecraft from the ground, in turn increasing the security risks. Additionally, space-based networks are formed among heterogeneous network entities. Thus, a generic security solution for all communication components may not be well suited. In this work, we study the architecture of space-based networks, and provide a classification for the network entities based on their characteristics. Based on the requirements and limitations of the classification, we provide suitable key management solution for enhanced security and strong authentication.",
+        "citations": 8
+    },
+    {
+        "title": "Analysis of a hybrid key management solution for ad hoc networks",
+        "id": "Lbqf_Y0AAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Aruna Balasubramanian",
+            "Sumita Mishra",
+            "Ramalingam Sridhar"
+        ],
+        "pub_source": "IEEE Wireless Communications and Networking Conference, 2005",
+        "pub_date": "2005/3/13",
+        "description": "Designing a key management system is both important and challenging for wireless ad hoc networks. We have developed a secure, scalable, decentralized and robust key management solution using a hybrid (symmetric/asymmetric) key based methodology that is well suited for ad hoc networks. The nodes are grouped into clusters, and keys are distributed such that intra-cluster communication is secured using a symmetric cryptosystem and inter-cluster communication is secured using an asymmetric cryptosystem. We present a detailed analysis of the solution and simulation results. We observe that the hybrid solution provides a significant improvement in the performance of the key management solution in a highly hostile environment, and scales well to large networks.",
+        "citations": 26
+    },
+    {
+        "title": "A robust header compression technique for wireless ad hoc networks",
+        "id": "Lbqf_Y0AAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Ranjani Sridharan",
+            "Ramalingam Sridhar",
+            "Sumita Mishra"
+        ],
+        "pub_source": "ACM SIGMOBILE Mobile Computing and Communications Review",
+        "pub_date": "2003/7/1",
+        "description": "Due to the limited bandwidth of the wireless links in ad hoc networks, compressing the packet headers is an attractive method for efficient usage of the frequency spectrum and for performance enhancement. The objective of this work is to demonstrate the use of a novel end-to-end header compression technique for multi-hop wireless ad hoc networks. Our preliminary analysis shows a significant performance improvement when the proposed Routing-Assisted Header Compression (RAHC) technique is implemented in conjunction with conventional on-demand routing techniques for ad hoc networks.",
+        "citations": 31
+    },
+    {
+        "title": "Efficient dynamic load balancing algorithms using iCAR systems: a generalized framework",
+        "id": "Lbqf_Y0AAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Evsen Yanmaz",
+            "Ozan K Tonguz",
+            "Sumita Mishra",
+            "Hongyi Wu",
+            "Chunming Qiao"
+        ],
+        "pub_source": "Proceedings IEEE 56th Vehicular Technology Conference",
+        "pub_date": "2002/9/24",
+        "description": "Coping with congestion or hot spots is one of the common problems currently faced by wireless service providers. To handle this hot spot or congestion problem in a cellular network, several dynamic load balancing schemes based on channel borrowing have previously been proposed. A recent approach to dynamic load balancing is the integrated cellular and ad hoc relay (iCAR) system (see Wu, H. et al., 2001; De, S. et al., 2002; Qiao, C. et al., 2000). iCAR employs ad hoc relay stations (ARS) in the cellular network to balance traffic loads efficiently and to share channels between cells via primary and secondary relaying. We provide a general framework for dynamic load balancing in iCAR systems, where the number of hot cells, the location of these hot cells and the traffic distribution in the system is arbitrary. Results show that the call blocking probabilities of the hot cells can be decreased substantially. Moreover\u00a0\u2026",
+        "citations": 28
+    },
+    {
+        "title": "Impact of the Number of ISM-band Ad hoc Relay Channels on the Performance of iCAR Systems",
+        "id": "Lbqf_Y0AAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Evsen Yanmaz",
+            "Ozan K Tonguz",
+            "Sumita Mishra",
+            "Hongyi Wu",
+            "Chunming Qiao"
+        ],
+        "pub_source": "Vehicular Technology Conference. IEEE 55th Vehicular Technology Conference. VTC Spring 2002 (Cat. No. 02CH37367)",
+        "pub_date": "2002/5/6",
+        "description": "One of the common problems faced by the wireless service providers worldwide is coping with congestion or hot spots. To handle this hot spot problem, methods that combine the existing cellular networks with ad hoc networks have been proposed. Integrated Cellular and Ad Hoc Relay (iCAR) system employs ad hoc relay stations (ARSs) within the cellular network to balance traffic loads efficiently and to share channels between cells via primary and secondary relaying. These ARSs operate in the ISM band, and therefore, do not cause interference to the cellular band. When analyzing the performance of WAR systems, there are several factors that should be taken into account These factors include the coverage area of the ARSs, the number of ARS channels, the placement of ARSs, etc. In this paper, the impact of the number of ARS channels on the performance of WAR systems is studied. To this end, a multi\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Paging communication for locating mobile users",
+        "id": "Lbqf_Y0AAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Sumita Mishra",
+            "Ozan K Tonguz"
+        ],
+        "pub_source": "Wiley Encyclopedia of Electrical and Electronics Engineering",
+        "pub_date": "2001/8/21",
+        "description": "The sections in this article are",
+        "citations": 4
+    },
+    {
+        "title": "New metric for analyzing multi-step paging schemes in mobile networks",
+        "id": "Lbqf_Y0AAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Sumita Mishra",
+            "OK Tonguz"
+        ],
+        "pub_source": "IEEE VTS 53rd Vehicular Technology Conference, Spring 2001. Proceedings (Cat. No. 01CH37202)",
+        "pub_date": "2001/5/6",
+        "description": "Efficient paging techniques are needed to reduce the cost of location management in mobile networks. Currently, all the cells of a location area (LA) are paged at the same time to locate the mobile user (MU). Efforts have been made to reduce the overhead paging bandwidth cost by using multi-step paging methods. However, in the case of multi-step paging schemes, such as sequential paging and intelligent paging, additional paging delay is introduced. It is shown that if the paging cost computation is based on the number of paged cells only, then, in certain cases, one may obtain misleading results. To resolve this dilemma, a new cost function, in terms of the number of cells paged and the paging delay, is introduced. Thus, this new metric provides a powerful tool that can be used to analyze all multi-step paging procedures with constrained or unconstrained delay.",
+        "citations": 13
+    },
+    {
+        "title": "Intelligent paging in wireless networks: random mobility models and grouping algorithms for locating subscribers",
+        "id": "Lbqf_Y0AAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Ozan K Tonguz",
+            "Sumita Mishra",
+            "Ravikant Josyula"
+        ],
+        "pub_source": "1999 IEEE 49th Vehicular Technology Conference (Cat. No. 99CH36363)",
+        "pub_date": "1999/5/16",
+        "description": "The impact of random user motion on intelligent paging schemes is examined and quantified. To this end, a straight-line motion pattern and two Markov chains are presented to model the random movement of mobile users (MUs) within the location area (LA). Results show that the cost of intelligent paging in the two cases of Markovian motion is more expensive than that of a simple straight-line motion. Also, two kinds of algorithms for grouping the paging areas (PAs) are considered. It is shown that grouping based on geographical location of PAs (rhombus grouping) is the most obvious one, whereas grouping based on probability of locating MUs (high-probability grouping) is more cost-effective.",
+        "citations": 12
+    },
+    {
+        "title": "Impact of random user motion on locating subscribers in mobile networks",
+        "id": "Lbqf_Y0AAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Ozan K Tonguz",
+            "S Mishra",
+            "R Josyula"
+        ],
+        "pub_source": "1999 IEEE International Conference on Personal Wireless Communications (Cat. No. 99TH8366)",
+        "pub_date": "1999/2/17",
+        "description": "The impact of random user motion on intelligent paging schemes is examined and quantified. It is shown that, depending on the size of the location area (LA), the random user motion can increase the cost of locating subscribers in mobile networks substantially.",
+        "citations": 9
+    },
+    {
+        "title": "A simple analytical framework for location management in personal communication systems",
+        "id": "Lbqf_Y0AAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Ozan K Tonguz",
+            "Sumita Mishra",
+            "Hanwook Jung"
+        ],
+        "pub_source": "IEEE transactions on vehicular technology",
+        "pub_date": "1998/5",
+        "description": "Efficient mobility management for portable stations (PS's)-handoff, channel assignment and locating-will play an important role in future personal communication systems (PCS's). Among these tasks, location management plays a critical role for wide-area roaming. The key elements of locating are location registration/updating and paging. Due to the smaller cell size in PCS, the high boundary crossing rate of PS will result in more frequent location area (LA) updating. This, in turn, will result in more interrogations with location registers, which will generate a higher volume of access and signaling traffic (SS7 traffic). One solution to this problem is to increase the size of LA, which, unfortunately, also increases paging traffic. Efficient paging algorithms may generate relatively less paging traffic such that larger LA's may become plausible. Depending on the call-arrival rate to the cell, boundary crossing rate, optimum size\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "Analysis of intelligent paging in personal communication systems",
+        "id": "Lbqf_Y0AAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "S Mishra",
+            "OK Tonguz"
+        ],
+        "pub_source": "Electronics Letters",
+        "pub_date": "1998/1/8",
+        "description": "The authors quantify the paging cost for a specific form of intelligent paging in terms of the probability of a successful first paging step. When compared with the simultaneous and sequential paging schemes, the benefit of the intelligent scheme is found to be much more profound in pedestrian-dominated PCS environments.",
+        "citations": 12
+    },
+    {
+        "title": "Most recent interaction area and speed-based intelligent paging in PCS",
+        "id": "Lbqf_Y0AAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "S Mishra",
+            "OK Tonguz"
+        ],
+        "pub_source": "1997 IEEE 47th Vehicular Technology Conference. Technology in Motion",
+        "pub_date": "1997/5/4",
+        "description": "Due to the anticipated increase in user demand and limited radio resources, efficient location management techniques are desired in future personal communication systems (PCS). The key elements of location management are paging and location registration/updating. This work shows that if intelligence is added to the sequential paging scheme in the form of speed and the most recent interaction area of a portable station (PS), then the cost of location management can be reduced substantially. It is shown that if the PS receives a call within a certain time after reporting its speed to the system, this simple intelligent scheme, which simply classifies subscribers as pedestrians and cars, is indeed better than simultaneous and sequential paging schemes. The schemes are also analysed under a two paging area constraint.",
+        "citations": 33
+    },
+    {
+        "title": "Efficient location management in PCS",
+        "id": "Lbqf_Y0AAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Hanwook Jung",
+            "S Mishra",
+            "Ozan K Tonguz"
+        ],
+        "pub_source": "Proceedings of 6th International Symposium on Personal, Indoor and Mobile Radio Communications",
+        "pub_date": "1995/9/27",
+        "description": "Efficient mobility management for mobile (MS) or portable stations (PS-hand-off, channel assignment, and location management-will play an important role in future personal communication systems (PCS). Among these tasks, location management plays a critical role for wide area roaming. The key elements of location management are location registration/updating, and paging. Efficient paging algorithms may generate relatively less paging traffic such that larger location areas may become plausible to reduce location updating and signalling traffic. Deciding optimum location area size is also affected by the call arrival rate to the cell, cell boundary crossing rate of portable stations, cell size, and the allocated number of voice channels per cell. In this paper, different paging techniques are compared to find the optimum location management method for future PCS environment. To this end, a new technique called\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Insider threats and access control in e-health systems",
+        "id": "Lbqf_Y0AAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=Lbqf_Y0AAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Suhair Alshehri",
+            "Sumita Mishra",
+            "R Raj"
+        ],
+        "pub_source": "IEEE 16th International Conference on e-Health Networking, Applications and Services",
+        "pub_date": "",
+        "description": "A technological issue in improving healthcare while lowering costs is the rapid and reliable sharing of patient and other medical information across e-Health systems. Such sharing must be done securely and meet the privacy guarantees imposed by applicable laws and regulations; for instance, the Health Insurance Portability and Accountability Act (HIPAA) in the United States requires the use of appropriate access control mechanisms to protect healthcare information. Despite such legal requirements, currently implemented access control models in e-Health systems are often inadequate as demonstrated by the large and increasing numbers of successful attacks on healthcare systems. In particular, current access control models do not provide sufficient protection for healthcare systems from attacks by insiders, ie, authorized personnel. This paper examines insider threats and presents an approach to protect healthcare information from unauthorized or improper use, disclosure, alteration, and destruction by healthcare personnel. Using a holistic approach toward modeling access control, a threat model for access control in healthcare systems is first designed and constructed, and then used to assess the effectiveness of common access control models that are used in or have been proposed for healthcare systems including Role-Based Access Control and Attribute-Based Access Control, as well as a new access control model, BiLayer Access Control, which was proposed to provide the advantages of both Role-Based and Attribute-Based models without their disadvantages.",
+        "citations": 1
+    }
+]

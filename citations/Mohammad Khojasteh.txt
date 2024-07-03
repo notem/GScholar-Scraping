@@ -1,0 +1,77 @@
+"ISR: Invertible Symbolic Regression"
+T Tohme*, MJ Khojasteh*, M Sadr, F Meyer, K Youcef-Toumi - arXiv preprint arXiv:2405.06848, 2024
+
+"The Many Facets of Information in Networked Estimation and Control"
+M Franceschetti, MJ Khojasteh, MZ Win - Annual Review of Control, Robotics, and Autonomous Systems, 2023
+
+"Information Flow in Event-Based Stabilization of Cyber-Physical Systems"
+M Franceschetti, MJ Khojasteh, MZ Win - Computation-Aware Algorithmic Design for Cyber-Physical Systems, 2023
+
+"Model-Predictive Quantum Control via Hamiltonian Learning"
+M Clouatre, MJ Khojasteh, MZ Win - IEEE Transactions on Quantum Engineering, 2022
+
+"Location Secrecy Enhancement in Adversarial Networks via Trajectory Control"
+MJ Khojasteh, AA Saucan, Z Liu, A Conti, MZ Win - IEEE Control Systems Letters, 2022
+
+"Node Deployment under Position Uncertainty for Network Localization"
+MJ Khojasteh, AA Saucan, Z Liu, A Conti, MZ Win - IEEE International Conference on Communications, 2022
+
+"Control barriers in bayesian learning of system dynamics"
+V Dhiman*, MJ Khojasteh*, M Franceschetti, N Atanasov - IEEE Transactions on Automatic Control, 2021
+
+"Uncertain-aware safe exploratory planning using Gaussian process and neural control contraction metric"
+D Sun, MJ Khojasteh, S Shekhar, C Fan - Learning for Dynamics and Control, 2021
+
+"Learning-based attacks in Cyber-Physical Systems: Exploration, Detection, and Control Cost trade-offs"
+A Rangi, MJ Khojasteh, M Franceschetti - Learning for Dynamics and Control, 2021
+
+"Safe Multi-Agent Interaction through Robust Control Barrier Functions with Learned Uncertainties"
+R Cheng, MJ Khojasteh, AD Ames, JW Burdick - 2020 IEEE 59th Annual Conference on Decision and Control (CDC), 2020
+
+"Exploiting timing information in event-triggered stabilization of linear systems with disturbances"
+MJ Khojasteh, M Hedayatpour, J Cortés, M Franceschetti - IEEE Transactions on Control of Network Systems, 2020
+
+"Learning-based attacks in cyber-physical systems"
+MJ Khojasteh, A Khina, M Franceschetti, T Javidi - IEEE Transactions on Control of Network Systems, 2020
+
+"Probabilistic Safety Constraints for Learned High Relative Degree System Dynamics"
+MJ Khojasteh, V Dhiman, M Franceschetti, N Atanasov - Learning for Dynamics and Control, 2020
+
+"The Value of Timing Information in Event-Triggered Control"
+MJ Khojasteh, P Tallapragada, J Cortes, M Franceschetti - IEEE Transactions on Automatic Control, 2020
+
+"Stabilizing a linear system using phone calls"
+MJ Khojasteh, M Franceschetti, G Ranade - 2019 18th European Control Conference (ECC), 2019
+
+"Communication and security in cyber-physical systems"
+MJ Khojasteh - University of California, San Diego, 2019
+
+"Theory and implementation of event-triggered stabilization over digital channels"
+MJ Khojasteh, M Hedayatpour, M Franceschetti - 2019 IEEE 58th Annual Conference on Decision and Control (CDC), 2019
+
+"Authentication of cyber-physical systems under learning-based attacks"
+MJ Khojasteh, A Khina, M Franceschetti, T Javidi - IFAC-PapersOnLine, 2019
+
+"Stabilizing a linear system using phone calls: when time is information"
+MJ Khojasteh, M Franceschetti, G Ranade - arXiv preprint arXiv:1804.00351, 2018
+
+"Estimating a linear process using phone calls"
+MJ Khojasteh, M Franceschetti, G Ranade - 2018 IEEE 57th Annual Conference on Decision and Control (CDC), 2018
+
+"Event-triggering stabilization of complex linear systems with disturbances over digital channels"
+MJ Khojasteh, M Hedayatpour, J Cortés, M Franceschetti - 2018 IEEE 57th Annual Conference on Decision and Control (CDC), 2018
+
+"Event-triggered stabilization of disturbed linear systems over digital channels"
+MJ Khojasteh, M Hedayatpour, J Cortes, M Franceschetti - 2018 52nd Annual Conference on Information Sciences and Systems (CISS), 2018
+
+"Time-triggering versus event-triggering control over communication channels"
+MJ Khojasteh, P Tallapragada, J Cortés, M Franceschetti - 2017 IEEE 56th Annual Conference on Decision and Control (CDC), 2017
+
+"The value of timing information in event-triggered control: The scalar case"
+MJ Khojasteh, P Tallapragada, J Cortés, M Franceschetti - 2016 54th Annual Allerton Conference on Communication, Control, and Computing (Allerton), 2016
+
+"Circulant matrix representation of PN-sequences with ideal autocorrelation property"
+MJ Khojasteh, MH Shoreh, JA Salehi - 2015 Iran Workshop on Communication and Information Theory (IWCIT), 2015
+
+"Cognitive-engined spectrum-fragmented synchronous MC-CDMA based on generalized hadamard codes"
+MH Shoreh, MJ Khojasteh, O Poursaeed, JA Salehi - 2015 IEEE Wireless Communications and Networking Conference Workshops (WCNCW), 2015

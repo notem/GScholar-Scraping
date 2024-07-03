@@ -1,0 +1,958 @@
+[
+    {
+        "title": "DRONESCAPE: Distributed Rapid On-site NEtwork Self-deploying Cellular Advanced Phone Environment",
+        "id": "RFV02_UAAAAJ:mlAyqtXpCwEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:mlAyqtXpCwEC",
+        "authors": [
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2019 International Conference on Computational Science and Computational Intelligence (CSCI)",
+        "pub_date": "2019/12/5",
+        "description": "When disasters happen, the speed with which first responders and emergency personnel can contact and be contacted by the people affected by the disaster during the first minutes or hours is critical. Early communications can make the difference between life and death. During a disaster communications infrastructure of the affected area is likely to be compromised. This project proposes an inexpensive, rapidly deployable cloud of autonomous drones, each coupled with a micro-cellular base station that deploys from a transportable deployment module. The goal is to temporarily restore communications for both first responders to communicate amongst themselves as well as for the rest of the impacted population."
+    },
+    {
+        "title": "CPTC-A Security Competition Unlike Any Other",
+        "id": "RFV02_UAAAAJ:IUKN3-7HHlwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:IUKN3-7HHlwC",
+        "authors": [
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2019",
+        "description": "Participating in cybersecurity competitions has become increasing popular for students in higher education programs that have a focus on computing or cyber security. The Collegiate Penetration Testing Competition was developed to address the industry skills gap and assist in identifying ethically minded security personnel with experience identifying, exercising, and mitigating vulnerabilities.",
+        "citations": 2
+    },
+    {
+        "title": "Robert's Rules of Order-How the Agenda Gets Established (PPt) 11-16-2017",
+        "id": "RFV02_UAAAAJ:OTTXONDVkokC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:OTTXONDVkokC",
+        "authors": [
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2017/11/20"
+    },
+    {
+        "title": "Covert Channel over Network Time Protocol",
+        "id": "RFV02_UAAAAJ:0izLItjtcgwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:0izLItjtcgwC",
+        "authors": [
+            "Aidin Ameri",
+            "Daryl Johnson"
+        ],
+        "pub_source": "International Conference on Cryptography, Security, and Privacy Proceedings(ICCSP'17)",
+        "pub_date": "2017",
+        "description": "In this paper, we scrutinize a way through which covert messages are sent and received using the Network Time Protocol (NTP), which is not easily detected since NTP should be present in most environment to synchronize the clock between clients and servers using at least one time server. We also present a proof of concept and investigate the throughput and robustness of this covert channel. This channel will use the 32 bits of fraction of seconds in timestamp to send the covert message. It also uses \"Peer Clock Precision\" field to track the messages between sender and receiver.",
+        "citations": 21
+    },
+    {
+        "title": "Covert Channel using Man-In-The-Middle over HTTPS",
+        "id": "RFV02_UAAAAJ:HtEfBTGE9r8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:HtEfBTGE9r8C",
+        "authors": [
+            "Matthew Johnson",
+            "Peter Lutz",
+            "Daryl Johnson"
+        ],
+        "pub_source": "The 2016 International Conference on Computational Science and Computational Intelligence(CSCI\u201916)",
+        "pub_date": "2016/12",
+        "description": "The goal of this covert channel is to prove the feasibility of using encrypted HTTPS traffic to carry a covert channel. The encryption key is not needed because the original HTTPS payload is not decrypted. The covert message will be appended to the HTTPS data field. The receiver will extract the covert channel and restore the original HTTPS traffic for forwarding. Only legitimate HTTPS connections will be used as the overt channel. A Man-in-the-Middle (MITM) attack at the sending and receiving ends will give access to modify the traffic streams. The HTTPS return traffic from the server can carry a covert channel. Without the original HTTPS traffic for comparison or the original encryption keys, this covert channel is undetectable.",
+        "citations": 8
+    },
+    {
+        "title": "Producing and evaluating crowdsourced computer security attack trees",
+        "id": "RFV02_UAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Dan Bogaard",
+            "Sanjay Goel",
+            "Shreshth Kandari",
+            "Daryl Johnson",
+            "George Markowsky",
+            "Bill Stackpole"
+        ],
+        "pub_source": "2016 IEEE Symposium on Technologies for Homeland Security (HST)",
+        "pub_date": "2016/5/10",
+        "description": "We describe the recent developments of an open-source project called RATCHET that can be used by groups of users to collectively construct attack trees. We present the RATCHET framework as well as a model for testing and evaluation of the produced attack trees. RATCHET has been tested in classroom settings with positive results and this paper presents the plans for expanding its outreach to the community at large and building attack trees through crowdsourcing. This paper gives an overview of RATCHET and an introduction to its use.",
+        "citations": 3
+    },
+    {
+        "title": "Client-initiated HTTP covert channels using relays",
+        "id": "RFV02_UAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Gregory Daneault",
+            "Daryl Johnson"
+        ],
+        "pub_source": "2016 4th International Symposium on Digital Forensic and Security (ISDFS)",
+        "pub_date": "2016/4/25",
+        "description": "This paper proposes a new covert channel utilizing open web relays. While the channel described is very straightforward, the addition of a trusted relay dramatically increases the anonymity and efficacy of this channel. Indirect, relayed communications disguise the actual endpoints of the communication making analysis, detection, and prevention more difficult.",
+        "citations": 8
+    },
+    {
+        "title": "A Hands-On Approach to Computing Security Education: Metasploit Module Development",
+        "id": "RFV02_UAAAAJ:_5tno0g5mFcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:_5tno0g5mFcC",
+        "authors": [
+            "Jonathan Waggoner",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2016",
+        "citations": 1
+    },
+    {
+        "title": "An Extended Discussion on a High-Capacity Covert Channel for the Android Operating System",
+        "id": "RFV02_UAAAAJ:NXb4pA-qfm4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:NXb4pA-qfm4C",
+        "authors": [
+            "Timpthy Heard",
+            "Daryl Johnson"
+        ],
+        "pub_source": "International Journal of Computing",
+        "pub_date": "2016",
+        "description": "In \u201cExploring a High-Capacity Covert Channel for the Android Operating System\u201d[1], a covert channel for communicating between different applications on the Android operating system was introduced and evaluated. This covert channel proved to be capable of a much higher throughput than any other comparable channels which had been explored previously. This article will expand on the work which was started in [1]. Specifically, further improvements on the initial covert channel concept will be detailed and their impact with regards to channel throughput will be evaluated. In addition, a new protocol for managing connections and communications between collaborating applications purely using this channel will be defined and explored. A number of different potential mechanisms and techniques for detecting the presence and use of this covert channel will also be described and discussed, including possible counter-measures which could be implemented. Copyright\u00a9 Research Institute for Intelligent Computer",
+        "citations": 2
+    },
+    {
+        "title": "Exploring a high-capacity covert channel on the Android operating system",
+        "id": "RFV02_UAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Timothy Heard",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS), 2015 IEEE 8th International Conference on",
+        "pub_date": "2015/9/24",
+        "description": "As the use and prevalence of mobile technology increases so too does the importance of effective security for these devices. In particular, sensitive user information must be protected, which includes protecting against any covert channels that would allow such information to be compromised. This paper will examine a new covert channel capable of circumventing existing application-level protections on the Android operating system (OS). The authors will also show that this channel is capable of achieving significantly higher throughput than similar, previously discovered channels, which necessitates the implementation of additional security protections and controls at the operating system level.",
+        "citations": 6
+    },
+    {
+        "title": "A Covert Channel in the Worldwide Public Switched Telephone Network Dial Plan",
+        "id": "RFV02_UAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Bryan Harmat",
+            "Jared Stroud",
+            "Daryl Johnson"
+        ],
+        "pub_source": "10th Annual Symposium on Information Assurance (ASIA\u201915)",
+        "pub_date": "2015/6/2",
+        "description": "The worldwide dial plan proposed by the International Telecommunication Union recommendation E. 164 reserves multiple country codes for future use. These unused codes present an opportunity for a potential covert channel over the public switched telephone network utilizing a spoofed source phone number of a call to send information to a mobile device. The reserved country codes can act as a delimiter indicating that a secret message is being sent. By spoofing a call using a reserved country code number, the application listening on the mobile device will be able to intercept the call and extract information from the remaining digits based on ASCII encoding in a decimal format. The purpose of using a reserved country code number is so that there will be no denied service to the user with a call from a legitimate phone number."
+    },
+    {
+        "title": "Crowdsourcing Computer Security Attack Trees",
+        "id": "RFV02_UAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Matthew Tentilucci",
+            "Nick Roberts",
+            "Shreshth Kandari",
+            "Daryl Johnson",
+            "Dan Bogaard",
+            "Bill Stackpole",
+            "George Markowsky"
+        ],
+        "pub_source": "10th Annual Symposium on Information Assurance (ASIA\u201915)",
+        "pub_date": "2015/6/2",
+        "description": "This paper describes an open-source project called RATCHET whose goal is to create software that can be used by large groups of people to construct attack trees. The value of an attack tree increases when the attack tree explores more scenarios. Crowdsourcing an attack tree reduces the possibility that some options might be overlooked. RATCHET has been tested in classroom settings with positive results. This paper gives an overview of RATCHET and describes some of the features that we plan to add.",
+        "citations": 9
+    },
+    {
+        "title": "A New Covert Channel over Cellular Voice Channel in Smartphones",
+        "id": "RFV02_UAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Bushra Aloraini",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sumita Mishra"
+        ],
+        "pub_source": "arXiv preprint arXiv:1504.05647",
+        "pub_date": "2015/4/22",
+        "description": "Investigating network covert channels in smartphones has become increasingly important as smartphones have recently replaced the role of traditional computers. Smartphones are subject to traditional computer network covert channel techniques. Smartphones also introduce new sets of covert channel techniques as they add more capabilities and multiple network connections. This work presents a new network covert channel in smartphones. The research studies the ability to leak information from the smartphones applications by reaching the cellular voice stream, and it examines the ability to employ the cellular voice channel to be a potential medium of information leakage through carrying modulated speech-like data covertly. To validate the theory, an Android software audio modem has been developed and it was able to leak data successfully through the cellular voice channel stream by carrying modulated data with a throughput of 13 bps with 0.018% BER. Moreover, Android security policies are investigated and broken in order to implement a user-mode rootkit that opens the voice channels by stealthily answering an incoming voice call. Multiple scenarios are conducted to verify the effectiveness of the proposed covert channel. This study identifies a new potential smartphone covert channel, and discusses some security vulnerabilities in Android OS that allow the use of this channel demonstrating the need to set countermeasures against this kind of breach.",
+        "citations": 10
+    },
+    {
+        "title": "The Benefits of Hosting the NECCDC at Your Institution",
+        "id": "RFV02_UAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "George Markowsky",
+            "Peter Lutz",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "The Northeast Collegiate Cyber Defense Competition (NECCDC)[2] is a regional competition that feeds the National Collegiate Cyber Defense Competition (CCDC)[1]. Since RIT organized the first NECCDC in 2008, the NECCDC has selected a representative to compete in the CCDC. It has been relatively successful and has produced the national champion twice and the runner up three times during its eight years of existence. The NECCDC has been hosted on a rotating basis by one of the universities in the northeast and has become a popular event for both the hosting schools and for the students. We feel that the NECCDC has continued to be an exciting event in part because it has been hosted by different universities which have all made important contributions to the event. This paper describes some of the benefits that come from hosting. Our hope is to convince other universities to host the NECCDC and similar competitions."
+    },
+    {
+        "title": "The Security Implications of IMSI Catchers",
+        "id": "RFV02_UAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Bryan Harmat",
+            "Jared Stroud",
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sylvia Perez-Hardy"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2015/1/1",
+        "description": "According to various news sources, rogue cellular towers referred to as \u201cIMSI catchers\u201d have been deployed across the nation. An academic interest has been taken in determining what information can be acquired when a mobile device associates with one of these towers. These towers focus on manipulating authentication methods to pose as a legitimate GSM tower. Through the use of software defined radios, and open source software an inexpensive GSM protocol-based cell tower was deployed to determine what, if any, security vulnerabilities exist in the current mobile network infrastructure.",
+        "citations": 3
+    },
+    {
+        "title": "Covert Channel over Apple iBeacon",
+        "id": "RFV02_UAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "Joseph Priest",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2015/1/1",
+        "description": "Opportunities for covert channels exist using Apple iBeacon technology. Apple iBeacons are an emerging technology designed to provide additional proximity based information to iOS devices. iBeacons are implemented using Bluetooth Low Energy advertisements. As such, a manipulated iBeacon advertisement can be issued with Bluetooth 4 compatible hardware. There are fields within this iBeacon advertisement that can be modified without adversely affecting the transmission of the iBeacon, and as such, provides an opportunity for covert messages. Despite reliability concerns, the technology is continuing to be adopted, and as such, the opportunity for using covert channels over iBeacon is growing as well.",
+        "citations": 4
+    },
+    {
+        "title": "Covert Channel Using ICMPv6 and IPv6 Addressing",
+        "id": "RFV02_UAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Geoffrey Ackerman",
+            "Daryl Johnson",
+            "Bill Stackpole"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2015/1/1",
+        "description": "Internet Protocol version 6, the latest revision of the Internet Protocol (IP), is rising in popularity. Along with it has come ample opportunity for the discovery and utilization of fresh, new covert channels. This paper proposes a covert channel using this\" IP Next Generation Protocol\", widely referred to as IPv6, as well as its associated protocol ICMPv6. As a proof-of-concept, two hosts running respective sender and receiver python scripts will take advantage of ICMPv6 Echo messages and the IPv6 addressing scheme to send and receive data unbeknownst to any host, person, or other entity that may be monitoring or watching over the network.",
+        "citations": 4
+    },
+    {
+        "title": "Covert Channels in SSL Session Negotiation Headers",
+        "id": "RFV02_UAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Justin Merrill",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2015/1/1",
+        "description": "The handshake headers of the SSL/TLS protocol contain several multi-byte random data fields used in the generation of the encryption keys used during the session. This random data can be replaced with covert messages that can be intercepted on the wire using packet capture techniques. By encoding data into these fields, a modified SSL client can send messages to a legitimate destination, with legitimate application payload data and still leak covert messages to a receiver listening on the wire.",
+        "citations": 9
+    },
+    {
+        "title": "Covert Channel using the IP Timestamp Option of an IPv4 Packet",
+        "id": "RFV02_UAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Hassan Alsaffar",
+            "Daryl Johnson"
+        ],
+        "pub_source": "The International Conference on Electrical and Bio-medical Engineering, Clean Energy and Green Computing",
+        "pub_date": "2015",
+        "citations": 7
+    },
+    {
+        "title": "A Channel for Exchanging Information Covertly using Game Save File in Prison Architect",
+        "id": "RFV02_UAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Hashem Assayari",
+            "Daryl Johnson"
+        ],
+        "pub_source": "9th Annual Symposium on Information Assurance (ASIA\u201914)",
+        "pub_date": "2014/6/3",
+        "description": "This paper explores a hidden communication channel using a game save file that is created by the game Prison Architect. The file gets modified by a proof of concept tool developed to encode/decode messages within the file. The characteristics (such as throughput, detection, mechanism, robustness, etc.) of this channel are outlined. A discussion of whether to call this channel a covert channel or a type of steganography follows by outlining some definitions in other publications and proposing a different definition."
+    },
+    {
+        "title": "Google Maps KML Covert Channel",
+        "id": "RFV02_UAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Allen Sabernick",
+            "Daryl Johnson"
+        ],
+        "pub_source": "IEEE Annual Symposium on Information Assurance (ASIA)",
+        "pub_date": "2014/6",
+        "description": "This electronic document is a \u201clive\u201d template and already defines the components of your paper [title, text, heads, etc.] in its style sheet. Google Maps is one of several online mapping services available to users around the world. The use of unprocessed KML nodes in the Google Maps application makes covert channels possible through the process of shared maps with placemarks. This paper finds that when a KML map file is uploaded to Google Maps, many of the fields, which are used for 3D rendering, are left ignored when only 2D rendering, such as in Google Maps, is possible. In turn, these ignored fields provide the means for a covert channel to exist which can be used to transmit hidden messages between one party and another across the internet.",
+        "citations": 1
+    },
+    {
+        "title": "Leveraging public posts and comments as covert channels",
+        "id": "RFV02_UAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Steven Dearstyne",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Systems, Signals and Image Processing (IWSSIP), 2014 International Conference on",
+        "pub_date": "2014/5/12",
+        "description": "Many Internet-facing websites allow for account creation and the subsequent posting of comments from that account. If comments are crafted according to a known encoding scheme, they can covertly indicate to an observer a piece of data present in the URL of the page where the comment resides. If these comments are similar enough to the typical comments being posted, they will give no indication that a transmission of data is occurring.",
+        "citations": 2
+    },
+    {
+        "title": "Passwords in Public: Dictionary Attacks, Password Selection and Password Meters",
+        "id": "RFV02_UAAAAJ:a9-T7VOCCH8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:a9-T7VOCCH8C",
+        "authors": [
+            "Tarun Madiraju",
+            "William Stackpole",
+            "Daryl Johnson",
+            "Yin Pan"
+        ],
+        "pub_source": "International Joint Conference on Computer, Information, and Systems Sciences and Engineering (CISSE 14)",
+        "pub_date": "2014"
+    },
+    {
+        "title": "Performance of Meshed Tree Protocols for Loop Avoidance in Switched Networks",
+        "id": "RFV02_UAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Kuhu Sharma",
+            "Bill Stackpole",
+            "Daryl Johnson",
+            "Nirmala Shenoy",
+            "Bruce Hartpence"
+        ],
+        "pub_source": "International Journal on Advances in Networks and Services Volume 7, Number 3 & 4, 2014",
+        "pub_date": "2014",
+        "description": "Loop free frame forwarding in layer 2 switched networks that use meshed topologies to provision for link and path redundancy is a continuing challenge. The challenge is addressed through special protocols at layer 2 that build logical trees over the physically meshed topologies, along which frames can be forwarded. The first such protocol was based on the spanning tree. The spanning tree protocol (STP) had high convergence times subsequent to topology changes. Rapid STP and IETF RFC 5556 Transparent Interconnection of Lots of Links (TRILL) on Router Bridges (RBridges) were then developed to reduce the convergence times. RSTP continued to use the spanning tree while TRILL adopted link state routing to support a tree from every switch. TRILL introduces high processing complexity into layer 2 networks. In this article a new meshed tree algorithm (MTA) and a loop avoidance protocol based on the MTA, namely the meshed tree protocol (MTP) are discussed. The MTA allows constructing several overlapping trees from a single root switch. This speeds up convergence to link failures. The MTP proposes a simple numbering scheme to implement meshed trees\u2013thus, the processing complexity is low. The specification for the MTP is currently an ongoing IEEE standard Project 1910.1. In this article the operational details of MTP are presented and its performance evaluated and compared with RSTP."
+    },
+    {
+        "title": "MODBUS Covert channel",
+        "id": "RFV02_UAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Carlos Leonardo",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2014/1/1",
+        "description": "The security community already has seen some examples of actual attacks against real SCADA installations, like the Stuxnet case in 2010 [3]. MODBUS is one of the most used communication protocols in industrial control systems. Even though the protocol itself is known to lack basic security features; there is not much detail available about real world cases where MODBUS has been used as an attack vector. Covert channels have been mentioned several times as part of the security vulnerabilities of SCADA systems [1],[2] and [4]. This research targets the MODBUS protocol characteristics to introduce a covert channel. This covert channel allows information leakage from one device called covert Master to another one called covert Slave. The covert Master is supposed to be on the internal LAN, while the covert Slave is expected to be on a separate subnet. The Slaves subnet could be based on either Ethernet and TCP/IP or a serial BUS (RS485) using a media converter to reach the LAN.",
+        "citations": 12
+    },
+    {
+        "title": "A Behavior-Based Covert Channel in a MMO",
+        "id": "RFV02_UAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Brian Rowe",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2014/1/1",
+        "description": "This article proposes a behavior-based covert communication channel in World of Warcraft (WoW), a popular Massively Multiplayer Online Role Playing Game (MMORPG), to transfer data between 2 clients. This is done by modulating binary information onto the senders cast routine and capturing this routine on the receiver. This routine, while demonstrated in WoW, could also be applicable to any other MMORPG in existence. WoW has the advantage of a large user base, so common actions will draw very little attention."
+    },
+    {
+        "title": "Audio Steganography Using Stereo Wav Channels",
+        "id": "RFV02_UAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Douglas C Farmer",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2014/1/1",
+        "description": "This paper presents a new and novel method of audio steganography that allows for the encoding of a textual data within the audio channels of a wav file. This method differs from the more typical forms of audio steganography as it involves the modeling of existing audio channels in order to build a dictionary and then the addition of one or more channels containing encoded data in a form closely related to that of the carrier\u2019s wav forms. This method presents a fairly robust, high-bandwidth channel through which to communicate.",
+        "citations": 1
+    },
+    {
+        "title": "Natural Selection in Virtualization Environments: A Decade of Lessons from Academia",
+        "id": "RFV02_UAAAAJ:WJVC3Jt7v1AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:WJVC3Jt7v1AC",
+        "authors": [
+            "Stackpole B. Hartpence B.",
+            "Johnson D.",
+            "Mason S."
+        ],
+        "pub_source": "EISTA\u201913: The 11th International Conference on Education and Information Systems, Technologies and Applications",
+        "pub_date": "2013/7"
+    },
+    {
+        "title": "Natural Selection in Virtualization Environments: A Decade of Lessons from Academia",
+        "id": "RFV02_UAAAAJ:4hFrxpcac9AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:4hFrxpcac9AC",
+        "authors": [
+            "Bruce Hartpence",
+            "Daryl Johnson",
+            "Sharon Mason",
+            "Bill Stackpole"
+        ],
+        "pub_source": "The 11th International Conference on Education and Information Systems, Technologies and Applications (EISTA\u201913)",
+        "pub_date": "2013"
+    },
+    {
+        "title": "XSS Cookie Injection Covert Channel",
+        "id": "RFV02_UAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Kyle Feeney",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2013/1/1",
+        "description": "This paper describes a method of covert communication by way of HTTP Cookie injection using Cross-site scripting into vulnerable website\u2019s. Website\u2019s susceptible to Cross-site scripting can be used as a medium for covert communication using Cookies as the message carrier between two or more nodes. Due to the necessity of Cookies in Web development and the format options of a Cookie, this covert channel offers a variation of implementation techniques which can achieve reasonably high data rates.",
+        "citations": 1
+    },
+    {
+        "title": "SSDP Covert Channel",
+        "id": "RFV02_UAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Wesly Delva",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2013/1/1",
+        "description": "A network covert channel provides a means of confidentiality with the intent to allow two nodes to communicate on a network with stealth. Simple Service Discovery Protocol is an Internet Protocol Suite that is capable of both discovering and advertising network services. This paper describes a method of using this discovery protocol as a means of sending covert messages between two nodes through steganography.",
+        "citations": 1
+    },
+    {
+        "title": "Composite Covert Channels through EVE Online",
+        "id": "RFV02_UAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Ross Radford",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2013/1/1",
+        "description": "Online gaming has frequently been analyzed as a potential medium for covert communications. However, massivelymultiplayer online role-playing games offer considerable advantages over other multiplayer game systems, allowing them to be manipulated for the purpose of leaking information with greater security and efficiency. This paper discusses the use of EVE Online for the construction of a covert channel combining aspects of both behavior channels and storage channels to hide the transmission of encoded data to another user."
+    },
+    {
+        "title": "The 2013 NECCDC-Lessons Learned",
+        "id": "RFV02_UAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "G Markowsky",
+            "D Johnson",
+            "A Moody",
+            "R Soucy",
+            "W Stackpole"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2013/1/1",
+        "description": "After having run the 2010 NECCDC at the University of Maine, we had an opportunity to run the 2013 NECCDC at the University of Maine. In the process, we rediscovered some lessons we had learned the first time along with a number of new lessons. We feel that the NECCDC and similar cyber defense competitions are very important for motivating students and for bringing the academic cyber defense community together. We are committed to making sure that the competitions are well supported and continue to improve. We also realized that our past system of basically having each hosting institution essentially build the competition from scratch does not contribute to keeping the competition of high quality and improving. This article serves as a how-to for staging the NECCDC or a similar competition.",
+        "citations": 2
+    },
+    {
+        "title": "A practical study of the problems of current Internet routing tables",
+        "id": "RFV02_UAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Arnav Ghosh",
+            "Bruce Hartpence",
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2012/11/1",
+        "description": "The phenomenal growth of the Internet seems to amaze even the creators of this worldwide network. Apart from the constantly changing data protocols and services which the Internet has to adapt to; the sheer volume of users has been one of the biggest challenges which the Internet is coping with. This thesis is directed towards the study of Internet scale routing tables in a lab environment to understand the dynamics of route processing by routers and the effect of increasing number of routing table entries on the overall performance of the network. This study is an effort to simulate an Internet scale network in the lab to shed light on some of the practical problems of the Internet routing table size and its performance and security implication."
+    },
+    {
+        "title": "NAT Denial of Service: An Analysis of Translation Table Behavior on Multiple Platforms",
+        "id": "RFV02_UAAAAJ:2VqYfGB8ITEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:2VqYfGB8ITEC",
+        "authors": [
+            "and Mishra S Winemiller N.",
+            "Hartpence B.",
+            "Johnson D."
+        ],
+        "pub_source": "SAM'12 - The 2012 International Conference on Security and Management",
+        "pub_date": "2012/7"
+    },
+    {
+        "title": "Employing Entropy in the Detection and Monitoring of Network Covert Channels",
+        "id": "RFV02_UAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Chaim Sanders",
+            "Jacob Valletta",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012/7/1",
+        "description": "The detection of covert channels has quickly become a vital need due to their pervasive nature and the increasing popularity of the Internet. In recent years, new and innovative methods have been proposed to aid in the detection of covert channels. Existing detection schemes are often too specific and are ineffective against new covert channels. In this paper, we expound upon previous work done with timing channels and apply it to detecting covert storage channels. Our approach is based on the assumption that the entropy of covert channels will vary from that of previously observed, legitimate, communications. This change in the entropy of a process provides us with a method for identifying storage channels. Using this assumption we created proof of concept code capable of detecting various covert storage channels. The results of our experiments demonstrate that we can successfully detect existing and\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Browser Web Storage Vulnerability Investigation: HTML5 localStorage Object",
+        "id": "RFV02_UAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Daniel Bogaard",
+            "Daryl Johnson",
+            "Robert Parody"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012/7/1",
+        "description": "Along with the introduction of HTML5 a new data storage technique, Web Storage, has been added to browsers. This technique stores larger amounts of data for an extended period of time on a client system. This technology does not (as of this writing) have a fully implemented interface to support end user control.The authors interest is modeling the use of Web Storage to store illicit data. The authors built a web application that would take a file, encrypt it, split it into multiple parts and distribute it to as many clients as possible. At a later time, the system could then watch for return visits and retrieve data parts as clients interact with a host website. The recidivism rate of clients returning to the host website and the number of copies of each distributed part needed to achieve a reliable recovery rate of the entire file are under study.",
+        "citations": 5
+    },
+    {
+        "title": "A Physical Channel in a Digital World",
+        "id": "RFV02_UAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Michael Deffenbaugh",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012/7/1",
+        "description": "Gaming has always been a very prevalent part of our society. There is a long history of using various board games as methods of covert communication, from what we could call \u201cdifferential\u201d communication (ie the movement of pieces constitutes the \u201clanguage\u201d) to the idea of \u201cgame state\u201d communication (where the current state of all the manipulatable objects in the game world represents a message). For many years we have seen covert channels in games like chess, checkers and other simple board games and even evolution to more \u201ccomplex\u201d computer games like magnetron. Enter the 21st century and the advent of the high performance personal computer.",
+        "citations": 6
+    },
+    {
+        "title": "NAT Denial of Service: An Analysis of Translation Table Behavior on Multiple Platforms",
+        "id": "RFV02_UAAAAJ:umqufdRvDiIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:umqufdRvDiIC",
+        "authors": [
+            "Nathan Winemiller",
+            "Bruce Hartpence",
+            "Daryl Johnson",
+            "Sumita Mishra"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management (SAM'12)",
+        "pub_date": "2012",
+        "description": "Network Address Translation or NAT, is a technology that is used to translate internal addresses to globally routable addresses on the internet. It is used extensively in almost every network requiring global connectivity due to the current lack of IPv4 addresses. The primary mechanism used to facilitate the translation of internal addresses to external addresses and vice versa is the translation table. This study takes an in-depth look at how five different vendors: Cisco, Extreme, Linksys, VMWare, and Vyatta, implement the translation table during active NAT sessions. Additionally, this study analyzes the methodology required to fill a translation table and the Denial of Service that is a result of the attack. We consider the relative difficulty of accomplishing this task between the different platforms and protocols (TCP vs UDP vs ICMP). We conclude this study with steps that can be taken to prevent or mitigate the NAT DOS\u00a0\u2026"
+    },
+    {
+        "title": "Covert Channel in the BitTorrent Tracker Protocol",
+        "id": "RFV02_UAAAAJ:XvxMoLDsR5gC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:XvxMoLDsR5gC",
+        "authors": [
+            "Joseph Desimone",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management (SAM'12)",
+        "pub_date": "2012",
+        "description": "Covert channels have the unique quality of masking evidence that a communication has ever occurred between two parties. For spies and terrorist cells, this quality can be the difference between life and death. However, even the detection of communications in a botnet could be troublesome for its creators. To evade detection and prevent insights into the size and members of a botnet, covert channels can be used. A botnet should rely on covert channels built on ubiquitous protocols to blend in with legitimate traffic. In this paper, we propose a covert channel built on the BitTorrent peer-to-peer protocol. In a simple application, this covert channel can be used to discretely and covertly send messages between two parties. However, this covert channel can also be used to stealthily distribute commands or the location of a command and control server for use in a botnet.",
+        "citations": 11
+    },
+    {
+        "title": "UPnP Port Manipulation as a Covert Channel",
+        "id": "RFV02_UAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Steven Monette",
+            "Daryl Johnson",
+            "Peter Lutz",
+            "Bo Yuan"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2012/1/1",
+        "description": "Port knocking traditionally has been a technique used from external connections to convey information to or request services from an internal private network [1]. UPnP as a standard allows for devices and services to open ports on network devices in order to enable functionality [2]. By combining these two techniques it is possible to port knock internally, opening ports for an intended viewer on an external network device. This paper proposes a covert channel using this technique to exfiltrate data or broadcast messages from a system behind a UPnP device to any Internet connected system.",
+        "citations": 1
+    },
+    {
+        "title": "A Covert Channel in TTL Field of DNS Packets",
+        "id": "RFV02_UAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Christopher Hoffman",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "Covert channels are used as a means of secretly transferring information when there is a need to hide the fact that communication is taking place. With the vast amount of traffic on the internet, network protocols have become a common vehicle for covert channels, typically hiding information in the header fields of packets. Domain name service (DNS) packets contain a 32-bit time to live (TTL) fields for each response record. This is the number of seconds the entry is valid for before caching servers remove the entry. There is no prescribed value for this field making it an ideal covert carrier.",
+        "citations": 7
+    },
+    {
+        "title": "Forensic Acquisition and Analysis of VMware Virtual Hard Disks",
+        "id": "RFV02_UAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Manish Hirwani",
+            "Yin Pan",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "With the advancement in virtualization technology, virtual machines (VMs) are becoming a common and integral part of datacenters. As the popularity and the use of VMs increases, incidents involving them are also on the rise. There is substantial research on using VMs and virtual appliances to aid forensic investigation, but research on the appropriate forensics procedures for collecting and analyzing evidence within a VM following is lacking.",
+        "citations": 28
+    },
+    {
+        "title": "Audio Steganography Using High Frequency Noise Introduction",
+        "id": "RFV02_UAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "David Wheeler",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "This paper presents a new method of audio steganography that allows character data to be encoded into audio in a way that is indiscernible to prying third-parties. Unlike typical methods of audio steganography that propose storage by modifying the least significant bits or the phase of the audio data, this approach makes use of frequency ranges that are undetectable to the human ear. The method proposed in this paper provides for a reasonably high-bandwidth and is resistant to common detection and prevention techniques.",
+        "citations": 7
+    },
+    {
+        "title": "A Covert Channel Over Transport Layer Source Ports",
+        "id": "RFV02_UAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "James Gimbi",
+            "Daryl Johnson",
+            "Peter Lutz",
+            "Bo Yuan"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "Covert communication is a rapidly expanding field of research with significant impact on the security theater. These communication methods, or \u201ccovert channels\u201d, can be applied in a number of ways, including as a mechanism for an attacker to leak data from a monitored system or network. This paper sets out to contribute to this field by introducing a new covert channel which operates over transport layer protocols. The mechanism is flexible, covert, and has the potential to operate at relatively high bandwidth. In addition, this paper proposes a number of encoding schemes which can be used in conjunction with this channel to improve its bandwidth and covertness.",
+        "citations": 4
+    },
+    {
+        "title": "A Behavior Based Covert Channel within Anti-Virus Updates",
+        "id": "RFV02_UAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "D Anthony",
+            "D Johnson",
+            "P Lutz",
+            "B Yuan"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "This paper presents a new behavior based covert channel utilizing the database update mechanism of anti-virus software. It is highly covert due to unattended, frequent, automatic signature database update operations performed by the software. The design of the covert channel is described; its properties are discussed and demonstrated by a reference implementation. This paper uses these points to strengthen the inclusion of behavior-based covert channels within standard covert channel taxonomy.",
+        "citations": 4
+    },
+    {
+        "title": "Webpage Source Based Covert Channel",
+        "id": "RFV02_UAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Tarun Madiraju",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "Covert Channels can be used for enabling hidden communication mechanisms that can facilitate secret message transfer. This paper presents a new covert channel based on the HTML source of a webpage. The new covert channel while featuring high bandwidth also demonstrates high imperceptibility as it doesn\u2019t involve any modifications to the source or the visibility of the webpage and is independent of timing of page requests. The availability of page source for a webpage on the Internet makes this covert channel easy to implement and effective.",
+        "citations": 1
+    },
+    {
+        "title": "Covert Channel in the BitTorrent Tracker Protocol",
+        "id": "RFV02_UAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Joseph Desimone",
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz"
+        ],
+        "pub_source": "The 2012 International Conference on Security and Management",
+        "pub_date": "2012",
+        "description": "Covert channels have the unique quality of masking evidence that a communication has ever occurred between two parties. For spies and terrorist cells, this quality can be the difference between life and death. However, even the detection of communications in a botnet could be troublesome for its creators. To evade detection and prevent insights into the size and members of a botnet, covert channels can be used. A botnet should rely on covert channels built on ubiquitous protocols to blend in with legitimate traffic. In this paper, we propose a covert channel built on the BitTorrent peer-to-peer protocol. In a simple application, this covert channel can be used to discretely and covertly send messages between two parties. However, this covert channel can also be used to stealthily distribute commands or the location of a command and control server for use in a botnet.",
+        "citations": 11
+    },
+    {
+        "title": "Developing Small Team-based Cyber Security Exercises",
+        "id": "RFV02_UAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Brandon Mauer",
+            "William Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Proceedings of the International Conference on Security and Management (SAM)",
+        "pub_date": "2012/1/1",
+        "description": "The growth of the security industry is sparking a significant interest in well-rounded security professionals. Regional and national competitions in the academic community have been developed to help identify qualified candidates to support this industry. A course has been built to allow students to improve their skills in this area. This paper describes the process used to administer events in the support of such a competitive environment, and the process by which appropriate infrastructures are developed.",
+        "citations": 20
+    },
+    {
+        "title": "Third Party Application Forensics on Apple Mobile Devices",
+        "id": "RFV02_UAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Alex Levinson",
+            "Bill Stackpole",
+            "Daryl Johnson"
+        ],
+        "pub_source": "System Sciences (HICSS), 2011 44th Hawaii International Conference on",
+        "pub_date": "2011/1/4",
+        "description": "Forensics on mobile devices is not new. Law enforcement and academia have been performing forensics on mobile devices for the past several years. Forensics on mobile third party applications is new. There have been third party applications on mobile devices before today, but none that provided the number of applications available in the iTunes app store. Mobile forensic software tools predominantly addresses \"typical\" mobile telephony data - contact information, SMS, and voicemail messages. These tools overlook analysis of information saved in third-party apps. Many third-party applications installed in Apple mobile devices leave forensically relevant artifacts available for inspection. This includes information about user accounts, timestamps, geolocational references, additional contact information, native files, and various media files. This information can be made readily available to law enforcement\u00a0\u2026",
+        "citations": 59
+    },
+    {
+        "title": "A HTTP cookie covert channel",
+        "id": "RFV02_UAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "William Huba",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Proceedings of the 4th international conference on Security of information and networks",
+        "pub_date": "2011",
+        "description": "This paper presents a new covert channel based on Google Analytic web cookies in HTTP protocol. The new covert channel is difficult to disrupt and is capable of reasonably high bandwidths. The Google Analytic framework is used by over half of the most popular web sites currently on the Internet; its ubiquitousness across the web implies a great impact of this covert.",
+        "citations": 11
+    },
+    {
+        "title": "Browser web storage vulnerability investigation: HTML5 localStorage object",
+        "id": "RFV02_UAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2011",
+        "description": "With the introduction of HTML5, the latest browser language, a new data storage technique, called localStorage, has been added to allow websites to store larger amounts of data for a long period of time on the user\u2019s local system. This new technology does not (as of this writing) have a fully implemented independent interface to support end user control. Unlike cookies, there is not yet an interface for the user to block, alter or delete localStorage in web browsers. Nefarious users have files of data they utilize in their illegal activities that they need to preserve (stolen user information, credit card numbers, etc.). These users do not want to have a copy of this data on their personal machines in case of an investigation. Therefore, nefarious users are constantly looking for a new method to preserve and store this data, concealing it in such a way that it won\u2019t be associated with them but available when needed. Our project is to model this process by building a web application that would take a file, encrypt it, slice it up into 26 parts and distribute it to as many client systems as possible. At a later time, a second web application would watch for return visits by the holders of the parts of the original file and retrieve the parts as clients interact with the website. We would be studying the recidivism rate of clients returning to the website and the number of copies of each part distributed necessary to achieve a reliable recovery rate of the whole file. We will first test this prototype in a controlled laboratory setting to ensure that it works as intended. Next we have chosen two websites, the XXXX (http://XXX. XXX. edu/) and XXX (http://XXX. XXX. edu/) departmental\u00a0\u2026"
+    },
+    {
+        "title": "Third party application forensics on apple mobile devices",
+        "id": "RFV02_UAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Alex Levinson"
+        ],
+        "pub_source": "",
+        "pub_date": "2011",
+        "description": "Forensics on mobile devices is not new. Law enforcement and academia have been performing forensics on mobile devices for the past several years. Forensics on mobile third party applications is new. There have been third party applications on mobile devices before today, but none that provided the number of applications available in the iTunes app store. Mobile forensic software tools predominantly addresses\" typical\" mobile telephony data-contact information, SMS, and voicemail messages. These tools overlook analysis of information saved in third-party apps. Many third-party applications installed in Apple mobile devices leave forensically relevant artifacts available for inspection. This includes information about user accounts, timestamps, geolocational references, additional contact information, native files, and various media files. This information can be made readily available to law enforcement through\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "The Assembly and provisioning of a red team",
+        "id": "RFV02_UAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "2011",
+        "description": "As the value and merit of red team exercises in both academic and corporate settings continues to grow, the need to share experiences with staffing, organizing and supporting the red team becomes increasingly important. This paper documents the Northeast Collegiate Cyber Defense Competition\u2019s (NECCDC) Red Team captain\u2019s experiences and lessons learned over the past four years. The paper will begin by identifying the skills and attributes needed for a Red Team and a process for selecting and recruiting members. The methods employed to form a cohesive working group from the members in the time available prior to the event will be discussed. The resources necessary for the Red Team to be effective and how they were provided is examined. We will look at how to promote planning and organization within the team focused on specific strategic goals and objectives of the Red Team. There are several duties during the event for a Red Team captain that will be examined and cautions that will be explained. At the end of the competition, the style and delivery of the after-action-report can have a profound effect on the Blue Teams. Experience with different approaches over the years will be examined. Recommendations for Red Team/Blue Team exchanges that can maximize the learning outcome for the students will be provided. Finally this paper will provide a summary of the experiences for others seeking to form and organize a Red Team either for a competition or an internal educational event.",
+        "citations": 4
+    },
+    {
+        "title": "A Re-examination of Network Address Translation Security.",
+        "id": "RFV02_UAAAAJ:DUooU5lO8OsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:DUooU5lO8OsC",
+        "authors": [
+            "Bruce Hartpence",
+            "Daryl Johnson"
+        ],
+        "pub_source": "Security and Management",
+        "pub_date": "2010",
+        "description": "The use of Network Address Translation (NAT) has greatly expanded in recent years. While originally an address management technique it has often been used for security. However, there are many implementations of NAT that are inherently insecure. Recently investigation into some of these has shown increased potential for security holes in NAT deployments. An understanding of the risks associated with NAT and the basic networking topics supporting a research in this area are critical to an information assurance student. This paper describes the basic operation of NAT, outlines one such security problem and its\u2019 mitigation, develops a testing methodology for use in information security curricula and suggests topics to be covered for student success.",
+        "citations": 2
+    },
+    {
+        "title": "A Covert channel in RTP protocol",
+        "id": "RFV02_UAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Christopher Forbes",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Computational Intelligence: Proceedings of the 9th International FLINS Conference",
+        "pub_date": "2010",
+        "description": "A new covert channel over the RTP protocol is designed and implemented by modifying the timestamp value in the RTP header. Due to the high frequency of RTP packets, the covert channel has a high bit-rate, theoretically up to 350 bps. The broad use of RTP for multimedia applications such as VoIP, provides abundant opportunities to such a covert channel to exist. By using the RTP header, many of the challenges present for covert channels using the RTP payload are avoided. A reference implementation of this covert channel is presented. Bit-rates of up to 325 bps were observed. The channel is very difficult to detect due to expected variations in the timestamp field and the flexible nature of RTP.",
+        "citations": 2
+    },
+    {
+        "title": "A Re-examination of network address translation security",
+        "id": "RFV02_UAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Daryl Johnson",
+            "Bruce Hartpence"
+        ],
+        "pub_source": "",
+        "pub_date": "2010",
+        "description": "The use of Network Address Translation (NAT) has greatly expanded in recent years. While originally an address management technique it has often been used for security. However, there are many implementations of NAT that are inherently insecure. Recently investigation into some of these has shown increased potential for security holes in NAT deployments. An understanding of the risks associated with NAT and the basic networking topics supporting a research in this area are critical to an information assurance student. This paper describes the basic operation of NAT, outlines one such security problem and its\u2019 mitigation, develops a testing methodology for use in information security curricula and suggests topics to be covered for student success.",
+        "citations": 2
+    },
+    {
+        "title": "Covert channels in the HTTP network protocol: Channel characterization and detecting man-in-the-middle attacks",
+        "id": "RFV02_UAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Daryl Johnson",
+            "Bo Yuan",
+            "Peter Lutz",
+            "Erik Brown"
+        ],
+        "pub_source": "",
+        "pub_date": "2010",
+        "citations": 59
+    },
+    {
+        "title": "ICMP covert channel resiliency",
+        "id": "RFV02_UAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Kristian Stokes",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "Technological Developments in Networking, Education and Automation",
+        "pub_date": "2010/1/1",
+        "description": "The ICMP protocol has been widely used and accepted as a covert channel. While the ICMP protocol is very simple to use, modern security approaches such as Firewalls, deep-packet inspection and intrusion detection systems threaten the use of ICMP for a reliable means for a covert channel. This study explores the modern usefulness of ICMP with typical security measures in place. Existing ICMP covert channel solutions are examined for compliance with standard RFCs and resiliency with modern security approaches.",
+        "citations": 10
+    },
+    {
+        "title": "Covert channels in the HTTP network protocol: Channel characterization and detecting Man-in-the-Middle attacks",
+        "id": "RFV02_UAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Erik Brown",
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Peter Lutz"
+        ],
+        "pub_source": "The Proceedings of the 5th International Conference on Information Warfare and Security: The Air Force Institute of Technology, Wright-Patterson AFB, Ohio, USA, 8-9 April 2010",
+        "pub_date": "2010",
+        "description": "Network covert channels allow two entities to communicate stealthily. Hypertext Transfer Protocol (HTTP), accounting for approximately half of all traffic on the Internet (Burke, 2007), has become the de facto standard for hiding network covert channels. Proliferation of covert channels throughout the World Wide Web has brought both challenges and enhancements to the area of Information Warfare. This paper defines a set of common characteristics, then classifies and analyzes several known and new covert channels in HTTP with respect to these characteristics. Lastly, this paper proposes that there are beneficial applications of network covert channels, such as detecting Man-in-the-Middle attacks.",
+        "citations": 46
+    },
+    {
+        "title": "Behavior-based covert channel in cyberspace",
+        "id": "RFV02_UAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Daryl Johnson",
+            "Peter Lutz",
+            "Bo Yuan"
+        ],
+        "pub_source": "Intelligent decision making systems",
+        "pub_date": "2010",
+        "description": "Many covert channels take advantages of weaknesses, flaws, or unused data fields in network protocols. In this paper, a behavior-based covert channel, that takes advantages of behavior of an application, is presented along with a formal definition in the framework of finite state machines. The behavior-based covert channel is application specific and lies at the application layer of the network OSI model, which makes the detection of this type of covert channel much more difficult. A detailed sample implementation demonstrates an example of this type of covert channel in the form of a simple online two-person game.The potential of this type of covert channel is also discussed.",
+        "citations": 23
+    },
+    {
+        "title": "ICMP convert channel resiliency",
+        "id": "RFV02_UAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Bo Yuan",
+            "Daryl Johnson",
+            "Kristian Stokes"
+        ],
+        "pub_source": "",
+        "pub_date": "2009"
+    },
+    {
+        "title": "ICMP covert channel resiliency",
+        "id": "RFV02_UAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Daryl Johnson",
+            "Peter Lutz",
+            "Bo Yuan",
+            "Kristian Stokes"
+        ],
+        "pub_source": "",
+        "pub_date": "2009"
+    },
+    {
+        "title": "NSSA faculty involvement in IT security auditing at RIT",
+        "id": "RFV02_UAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Daryl Johnson",
+            "Yin Pan"
+        ],
+        "pub_source": "",
+        "pub_date": "2008",
+        "description": "\"NSSA Faculty Involvement in IT Security Auditing at RIT\" by Daryl Johnson and Yin Pan Home \nSearch Browse Colleges and Departments My Account About DC Network Digital Commons \nNetwork\u2122 Skip to main content RIT Scholar Works RIT Scholar Works Home About User FAQ \nMy Account < Previous Next > Home FACSTAFF presentations 775 Presentations and other \nscholarship Title NSSA Faculty Involvement in IT Security Auditing at RIT Authors Daryl Johnson, \nRochester Institute of TechnologyFollow Yin Pan, Rochester Institute of TechnologyFollow \nDate of creation, presentation, or exhibit 2008 Comments These are slides for a presentation \nat the 2008 Secure IT Conference for Information Technology and Network Security, San \nDiego, CA, 2008. Note: imported from RIT\u2019s Digital Media Library running on DSpace to RIT \nScholar Works in February 2014. Document Type Presentation Department, Program, or \u2026"
+    },
+    {
+        "title": "Network and systems security, a collaborative approach",
+        "id": "RFV02_UAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Sharon Mason",
+            "Daryl Johnson",
+            "Luther Troell"
+        ],
+        "pub_source": "Proceedings of the 5th conference on Information technology education",
+        "pub_date": "2004/10/28",
+        "description": "In recent years, computer and network security education has become a priority among employers, the government, colleges and universities. Another emerging priority among these institutions is collaborative working environments. Rochester Institute of Technology (RIT) is among the many universities and colleges developing and offering Computer and Network Security curriculum. However, we believe that our innovative approach to this new curriculum is unique because of the collaborative nature of the \"ABC Defense Lab Project\" recently implemented across course boundaries. The Information Technology Department offers a Bachelor of Science Degree in Applied Networking and Systems Administration (ANSA). Within this degree, the curricula is distinctly segmented between the two areas. The networking curriculum studies the infrastructure that ties all the systems together. Students learn about the\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "An image storage system using a relational database management system to facilitate picture data handling",
+        "id": "RFV02_UAAAAJ:6ZxmRoH8BuwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:6ZxmRoH8BuwC",
+        "authors": [
+            "Daryl G Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "1987",
+        "description": "The Image Storage System (ISS) is a general purpose graphics facility for the storage and retrieval of pictures. ISS utilizes the capabilities of the Mistress Relational Database Management System, the Relation Interpreter Package and the CORE Graphics Package. The system was developed to illustrate that by utilizing a database system for the storage of the actual picture description, users can incorporate graphics into their applications very simply without becoming a graphics or programming expert. Through the database, image data can be shared between applications and changes or additions to the image will not require program modification. As a consequence of using a data base management system, graphical as well as nongraphical information may be stored together. An important out come of this is that the graphical data may be accessible for non-graphical purposes as well. The database schema is illustrated and its flexibility and user adaptability is demonstrated. The graphics image interpreter is described as well as the underlying Relation Interpreter Package on which it is built."
+    },
+    {
+        "title": "Covert Channel using the IP Timestamp Option of an IPv4 Packet",
+        "id": "RFV02_UAAAAJ:IRz6iEL74y4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:IRz6iEL74y4C",
+        "authors": [
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "The TCP/IP protocol suite is known to be lacking security in many aspects, which may allow an attacker to leverage them using some techniques in the form of covert communications. Secret messages could be embedded into one of the TCP/IP header fields and possibly not get detected by various firewalls or intrusion detection systems (IDS\u2019s). This paper proposes a novel covert channel utilizing the IP timestamp option inside an IPv4 packet header to exchange a secret message with another party."
+    },
+    {
+        "title": "Covert Channel in HTTP User-Agents",
+        "id": "RFV02_UAAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Susan Heilman",
+            "Jonathan Williams",
+            "Daryl Johnson"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "citations": 3
+    },
+    {
+        "title": "Meshed Tree Protocol for Faster Convergence in Switched Networks",
+        "id": "RFV02_UAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Kuhu Sharma",
+            "Bruce Hartpence",
+            "Bill Stackpole",
+            "Daryl Johnson",
+            "Nirmala Shenoy"
+        ],
+        "pub_source": "IARIA Sponsored Tenth International Conference on Networking and Services, April",
+        "pub_date": "",
+        "citations": 5
+    },
+    {
+        "title": "Designing, Constructing and Implementing a Low-Cost Virtualization Cluster for Education",
+        "id": "RFV02_UAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=RFV02_UAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Daryl Johnson",
+            "Bill Stackpole",
+            "Sharon Mason",
+            "Bruce Hartpence"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "citations": 5
+    }
+]

@@ -1,0 +1,453 @@
+[
+    {
+        "title": "Area-Efficient Iterative Logarithmic Approximate Multipliers for IEEE 754 and Posit Numbers",
+        "id": "_eNP3hUAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Sunwoong Kim",
+            "Cameron J Norris",
+            "James I Oelund",
+            "Rob A Rutenbar"
+        ],
+        "pub_source": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+        "pub_date": "2024/1/25",
+        "description": "The IEEE 754 standard for floating-point (FP) arithmetic is widely used for real numbers. Recently, a variant called posit was proposed to improve the precision around 1 and   . Since FP multiplication requires high computational complexity, various algorithmic approaches and hardware accelerator solutions have been explored. In this context, this article proposes a novel area-efficient logarithmic multiplier architecture for different real number formats, which also provides a significant and useful accuracy/latency tradeoff at runtime. To reduce the logic area in field-programmable gate arrays (FPGAs), this article offers two innovations: applying logarithm to only a single operand and mitigating the accuracy drop caused by this modification with advanced error converging and operand selection schemes. Our multiplier design for single-precision FP (SPFP) numbers uses 58% fewer hardware resources than the\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Accelerating Homomorphic Comparison Operations for Thresholding Using an Asymmetric Input Range and Input Scaling",
+        "id": "_eNP3hUAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Sunwoong Kim",
+            "Wonhee Cho"
+        ],
+        "pub_source": "Proceedings of the Great Lakes Symposium on VLSI 2024",
+        "pub_date": "2024",
+        "description": "In a cyber-physical system (CPS), the interconnection of cyber and physical components occurs through a network. This structure, particularly cyber components and networks, makes it susceptible to malicious attacks. One of the solutions to this CPS security issue is to employ end-to-end homomorphic encryption (HE) that allows direct computations on encrypted data. Despite its promise, HE only supports basic operations, such as addition and multiplication, which limits its application areas. Numerical methods have been presented to perform a comparison operation in the HE domain. However, they suffer from a slow processing speed due to an inherently high number of iterations. To accelerate a homomorphic comparison operation, this paper introduces a novel approach that scales inputs using an asymmetric input range in thresholding. Additionally, parallelism in HE-based multilevel thresholding is explored\u00a0\u2026"
+    },
+    {
+        "title": "ILAFD: Accuracy-Configurable Floating-Point Divider Using an Approximate Reciprocal and an Iterative Logarithmic Multiplier",
+        "id": "_eNP3hUAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "James Oelund",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "Proceedings of the Great Lakes Symposium on VLSI 2023",
+        "pub_date": "2023/6/5",
+        "description": "Approximate computing provides benefits in the logic area, latency, and/or power without significantly affecting the outputs of some applications. Various approximate computing techniques have been applied for floating-point (FP) dividers that are expensive compared to other FP operators. Since the accuracy requirement varies depending on the application, this paper proposes an accuracy-configurable approximate FP divider design. This design computes the reciprocal of a divisor in a hardware-friendly way. To correct approximation errors, multiple error biases are calculated based on error analysis and stored in a lookup table. The calculated reciprocal is multiplied by a dividend. For accuracy-configurability, an iterative logarithmic FP multiplier is adopted. Compared to previous approximate designs, our proposed design achieves a significantly higher level of accuracy by increasing the number of iterations, at\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "HEBGS: Homomorphic Encryption-based Background Subtraction Using a Fast-Converging Numerical Method",
+        "id": "_eNP3hUAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Justin Shyi",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "2023 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2023/5/21",
+        "description": "Recent advances in cloud services provide greater computing ability to edge devices on cyber-physical systems (CPS) and internet of things (IoT) but cause security issues in cloud servers and networks. This paper applies homomorphic encryption (HE) to background subtraction (BGS) in CPS/IoT. Cheon et al. 's numerical methods are adopted to implement the non-linear functions of BGS in the HE domain. In particular, square- and square root-based HE-based BGS (HEBGS) designs are proposed for the input condition of the numerical comparison operation. In addition, a fast-converging method is proposed so that the numerical comparison operation outputs more accurate results with lower iterations. Although the outer loop of the numerical comparison operation is removed, the proposed square-based HEBGS with the fast-converging method shows an average peak signal-to-noise ratio value of 20dB and an\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A Use Case of Iterative Logarithmic Floating-Point Multipliers: Accelerating Histogram Stretching on Programmable SoC",
+        "id": "_eNP3hUAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Cameron James Norris",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "2023 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2023/5/21",
+        "description": "Programmable system-on-chip (SoC) platforms often have a hard-core processor and programmable logic for heterogeneous computing. A custom hardware design implemented with programmable logic accelerates specific operations in an application. This paper applies an area-efficient iterative logarithmic floating-point multiplier to histogram stretching on a programmable SoC platform. Specifically, the floating-point multiplier is implemented with programmable logic, and the hard-core processor on the same platform determines the accuracy and latency of the multiplier by changing the number of iterations used for error correction at runtime. To deploy many multiplier cores working in parallel and have the iterative architecture process streaming data, a higher-level pipelined architecture is proposed. The number of multipliers in this architecture is configurable by changing the maximum number of iterations. For\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Virtual keyboards with real-time and robust deep learning-based gesture recognition",
+        "id": "_eNP3hUAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Tae-Ho Lee",
+            "Sunwoong Kim",
+            "Taehyun Kim",
+            "Jin-Sung Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "IEEE Transactions on Human-Machine Systems",
+        "pub_date": "2022/4/28",
+        "description": "In head-mounted display devices for augmented reality and virtual reality, external signals are often entered using a virtual keyboard (VKB). Among various user interfaces for VKBs, hand gestures are widely used because they are fast and intuitive. This work proposes a gesture-recognition (GR)-based VKB algorithm that is accurate in any environment and operates in real time. Specifically, the proposed ambidextrous VKB layouts reduce the total finger travel distance on one-hand VKB layouts. Additionally, a fast typing action is proposed to use characteristics when previous and current keys are adjacent. To be robust in any environment, we utilize a deep learning (DL)-based GR method in the proposed VKB algorithm. To train DL networks, seven classes are defined and an automated dataset generation method is proposed to reduce the necessary time and effort. The proposed one-hand VKB layout with the fast\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "HEKWS: Privacy-Preserving Convolutional Neural Network-based Keyword Spotting with a Ciphertext Packing Technique",
+        "id": "_eNP3hUAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Daniel Elworth",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)",
+        "pub_date": "2022",
+        "description": "Keyword spotting (KWS) is a key technology in smart devices. However, privacy issues in these devices have been constantly raised. To solve this problem, this paper applies homomorphic encryption (HE) to a previous small-footprint convolutional neural network (CNN)-based KWS algorithm. This allows for a trustless system in which a command word can be securely identified by a remote cloud server without exposing client data. To alleviate the burden on an edge device of a client, a novel packing technique is proposed that reduces the number of ciphertexts for an input keyword to one. Our HE-based KWS shows a prediction accuracy of 72% for Google's Speech Commands Dataset with 12 labels. This is almost identical to the accuracy of the non-HE-based implementation that has the same CNN layers and approximates a rectified linear unit in the same manner. On a workstation, it takes 19 seconds to\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "HEMTH: Small Depth Multilevel Thresholding for a Homomorphically Encrypted Image",
+        "id": "_eNP3hUAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Paul Nam",
+            "Justin Shyi",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)",
+        "pub_date": "2022",
+        "description": "One of the image segmentation techniques, multilevel thresholding, is widely used in many computer vision applications because of its low computational complexity and efficient data representation. When it is used in cyber-physical systems and internet-of-things, a special technique is required to protect the sensitive information in an image. This paper proposes a novel homomorphic encryption (HE)-based multilevel thresholding method. To implement a comparison operation in the HE domain, which is not a basic homomorphic operation, a numerical method is adopted. Our proposed method executes comparison operations in parallel to perform more iterations and increase accuracy. When the number of iterations in the numerical comparison operation is (5, 3), the proposed three-level thresholding method shows an average peak signal-to-noise ratio of 28 dB compared to a conventional non-HE-based\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "HELPSE: Homomorphic Encryption-based Lightweight Password Strength Estimation in a Virtual Keyboard System",
+        "id": "_eNP3hUAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Michael Cho",
+            "Keewoo Lee",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "Proceedings of the Great Lakes Symposium on VLSI 2022",
+        "pub_date": "2022",
+        "description": "Recently, cyber-physical systems are actively using cloud servers to overcome the limitations of power and processing speed of edge devices. When passwords generated on a client device are evaluated on a server, the information is exposed not only on networks but also on the server-side. To solve this problem, we move the previous lightweight password strength estimation (LPSE) algorithm to a homomorphic encryption (HE) domain. Our proposed method adopts numerical methods to perform the operations of the LPSE algorithm, which is not provided in HE schemes. In addition, the LPSE algorithm is modified to increase the number of iterations of the numerical methods given depth constraints. Our proposed HE-based LPSE (HELPSE) method is implemented as a client-server model. As a client-side, a virtual keyboard system is implemented on an embedded development board with a camera sensor. A\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "A Homomorphic Encryption-based Adaptive Image Filter Using Division Over Encrypted Data",
+        "id": "_eNP3hUAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Sharmila Devi Kannivelu",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "2021 IEEE 27th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+        "pub_date": "2021/8/18",
+        "description": "Homomorphic encryption (HE) is an important cryptographic technique that allows one to directly perform computation on encrypted data without decryption. In HE-based applications using digital images, a user often encrypts a private image captured on a local device. This image can contain noise that negatively affects the results of HE-based applications. To solve this problem, this paper proposes an HE-based adaptive image filter. For small-sized encrypted input data, pixels that have no dependency when sliding a window are encoded into the same ciphertext. For division in the adaptive filter, which is not supported by conventional HE schemes, a numerical approach is adopted. To the best of the authors\u2019 knowledge, this paper is the first work that applies division over encrypted data to an image processing algorithm. We implemented the proposed HE-based adaptive filter as a proof-of-concept client-server\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "An approximate and iterative posit multiplier architecture for FPGAs",
+        "id": "_eNP3hUAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Cameron James Norris",
+            "Sunwoong Kim"
+        ],
+        "pub_source": "2021 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2021/5/22",
+        "description": "Recently, many applications have demanded cheaper and faster arithmetic while providing a wider dynamic range than the popular IEEE 754 floating-point (FP) arithmetic. As a result, a new number format called posit was proposed. As in a variety of number systems, multiplication in posit arithmetic is one of the most frequently used but expensive operations. To reduce the number of hardware resources in a posit multiplier, this paper applies an iterative approach to posit multiplication. To exploit the features of the posit format, the number of truncated bits in the fraction component is dynamically changed depending on the number of regime bits. In addition, architectures for fast parser and packer are proposed. Thanks to the posit format, the proposed design supports about 60 decades wider dynamic range than a single-precision FP multiplier design. Using the iterative approach, the proposed design also reduces\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Introduction to Homomorphic Encryption and Schemes",
+        "id": "_eNP3hUAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Jung Hee Cheon",
+            "Anamaria Costache",
+            "Radames Cruz Moreno",
+            "Wei Dai",
+            "Nicolas Gama",
+            "Mariya Georgieva",
+            "Shai Halevi",
+            "Miran Kim",
+            "Sunwoong Kim",
+            "Kim Laine"
+        ],
+        "pub_source": "Protecting Privacy through Homomorphic Encryption",
+        "pub_date": "2021",
+        "description": "Homomorphic encryption (HE) enables processing encrypted data without decrypting it. This technology can be used, for example, to allow a public cloud to operate on secret data without the cloud learning anything about the data. Simply encrypt the secret data with homomorphic encryption before sending it to the cloud, have the cloud process the encrypted data and return the encrypted result, and finally decrypt the encrypted result. Here is a simplistic \u201chello world\u201d example using homomorphic encryption:                                 # Every encryption needs a secret key. Let's get one of those. myEncryptionKey = generateEncryptionKey() # Now we can encrypt some very secret data. encrypted5 = encrypt(myEncryptionKey, 5) encrypted12 = encrypt(myEncryptionKey, 12) excrypted2 = encrypt(myEncryptionKey, 2) # We have three\u00a0\u2026",
+        "citations": 22
+    },
+    {
+        "title": "SEMICONDUCTOR DEVICE FOR MANAGING COLD ADDRESSES OF NONVOLATILE MEMORY DEVICE",
+        "id": "_eNP3hUAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "HJ Lee",
+            "S Kim",
+            "H Jung",
+            "W Shin",
+            "H Lee"
+        ],
+        "pub_source": "US Patent 10,877,698",
+        "pub_date": "2020/12",
+        "description": "Primary Examiner Charles Rones Assistant Examiner\u2014Hewy H Li (57) ABSTRACT A semiconductor device may include a media controller configured to output a write requested address when a write request to a nonvolatile memory device is provided from a host; and a cold address manager. The cold address manager may include a stack storing meta data for the write requested address, region information storage configured to manage addresses of the nonvolatile memory device with regions such that length of a region of the regions may vary after a predetermined period, a cold address detector configured to update the stack and the region information storage after the predetermined period and to detect whether an address of the nonvolatile memory device is a cold address, the cold address having write requests performed at less than a predetermined level.",
+        "citations": 1
+    },
+    {
+        "title": "SEMICONDUCTOR DEVICE FOR MANAGING WEAR LEVELING OPERATION OF NONVOLATILE MEMORY DEVICE",
+        "id": "_eNP3hUAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "HJ Lee",
+            "S Kim",
+            "H Jung",
+            "H Lee",
+            "W Shin"
+        ],
+        "pub_source": "US Patent 10,713,159",
+        "pub_date": "2020/7",
+        "description": "A semiconductor device may include a media controller configured to output an address in response to receiving a write request for writing to a nonvolatile memory. The semiconductor device may also include a hot address detector. The hot address detector is configured to store a list including the address output from the media controller and including meta data related to the address, to update the meta data according to the address output from the media controller, to determine whether the address output from the media controller is a hot address, and to adjust a length of the list.",
+        "citations": 2
+    },
+    {
+        "title": "Hardware architecture of a number theoretic transform for a bootstrappable RNS-based homomorphic encryption scheme",
+        "id": "_eNP3hUAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Sunwoong Kim",
+            "Keewoo Lee",
+            "Wonhee Cho",
+            "Yujin Nam",
+            "Jung Hee Cheon",
+            "Rob A Rutenbar"
+        ],
+        "pub_source": "2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)",
+        "pub_date": "2020/5/3",
+        "description": "Homomorphic encryption (HE) is one of the most promising solutions to secure cloud computing. The number theoretic transform (NTT) that is widely used for convolution operations in HE requires a large amount of computation and has high parallelism, and therefore it has been a good candidate for hardware acceleration. Nevertheless, prior NTT hardware solutions for HE-based applications are impractical in most applications because they do not seriously consider the critical bootstrapping procedure that allows unlimited homomorphic operations on encrypted data. In this paper, we suggest practical bootstrappable parameters, specifically for an established residue number system (RNS)based HE scheme, and apply them to our NTT hardware design. In addition, to limit the size of internal memory for roots of unity increased by the bootstrappable parameters, only a few roots of unity are stored and others are\u00a0\u2026",
+        "citations": 54
+    },
+    {
+        "title": "FPGA-based accelerators of fully pipelined modular multipliers for homomorphic encryption",
+        "id": "_eNP3hUAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Sunwoong Kim",
+            "Keewoo Lee",
+            "Wonhee Cho",
+            "Jung Hee Cheon",
+            "Rob A Rutenbar"
+        ],
+        "pub_source": "2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig)",
+        "pub_date": "2019/12/9",
+        "description": "Homomorphic encryption (HE) is an important cryptographic primitive which allows privacy preserving computations. Current HE schemes are all based on modular arithmetic. Modular multiplication (ModMult) is one of the most frequently used modular operations, but in practice it is often prohibitively slow due to a reduction operation with high computational complexity. To address this speed problem, we demonstrate a set of novel FPGA-based accelerators for fully pipelined ModMults in this paper. For a high-throughput integer multiplier (IntMult) in the ModMult designs, digital signal processing (DSP) slices on FPGAs are efficiently exploited with optimized IntMult designs. For the full RNS-HEAAN scheme, which is our target HE scheme, our proposed Barrett ModMult design is optimized using specific moduli and extended to the Shoup ModMult algorithm. Our proposed Barrett and Shoup ModMult designs\u00a0\u2026",
+        "citations": 45
+    },
+    {
+        "title": "HAD-TWL: Hot address detection-based wear leveling for phase-change memory systems with low latency",
+        "id": "_eNP3hUAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Sunwoong Kim",
+            "Hyunmin Jung",
+            "Woojae Shin",
+            "Hyokeun Lee",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "IEEE Computer Architecture Letters",
+        "pub_date": "2019/7/19",
+        "description": "Phase-change memory (PCM) is an emerging non-volatile memory device that offers faster access than flash memory does. However, PCM suffers from a critical problem where the number of write operations is limited. The previous practical attack detector (PAD) that uses a small memory space called stack adopts an algebraic mapping-based wear leveling (AWL) algorithm. Thanks to successful detection of malicious attacks, the PAD-AWL dramatically improves the lifetime of PCM. To enhance system factors such as write latency, the proposed method replaces the AWL algorithm with a table-based wear leveling (TWL) algorithm. Since the fixed stack size of the previous PAD is inefficient in detection of attack-like hot addresses, a stack size modulation scheme that enables a hot address detector (HAD) to efficiently counteract various memory write streams is proposed. Compared with the previous AWL-based\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "An Area-Efficient Iterative Single-Precision Floating-Point Multiplier Architecture for FPGA",
+        "id": "_eNP3hUAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Sunwoong Kim",
+            "Rob A Rutenbar"
+        ],
+        "pub_source": "Proceedings of the 2019 on Great Lakes Symposium on VLSI",
+        "pub_date": "2019",
+        "description": "Approximate multipliers have been widely used in critical applications, such as machine learning and multimedia, which are tolerant to approximation errors. This paper proposes a novel single-precision floating-point (SPFP) multiplication algorithm and its architecture. The proposed work approximates only one of the operands to reduce the number of logic blocks and iteratively compensates the approximation error to achieve acceptable error ranges in applications. To reduce the accuracy degradation by the single operand approximation, a rounding scheme and an operand selection scheme are additionally introduced. Compared with the widely-known previous iterative Mitchell design, our proposed SPFP multiplier design decreases the numbers of look up tables (LUTs) and flip flops (FFs) by 55% and 59% respectively, and shows two cycles shorter latency. The accuracy of our design becomes close to that of\u00a0\u2026",
+        "citations": 11
+    },
+    {
+        "title": "Accelerator Design with Effective Resource Utilization for Binary Convolutional Neural Networks on an FPGA",
+        "id": "_eNP3hUAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Sunwoong Kim",
+            "Rob A. Rutenbar"
+        ],
+        "pub_source": "2018 IEEE 26th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)",
+        "pub_date": "2018",
+        "description": "In binary convolutional neural networks (BCNN), arithmetic operations are replaced by bitwise operations and the required memory size is greatly reduced, which is a good opportunity to accelerate training or inference on FPGAs. This paper proposes a BCNN architecture with a single engine that achieves high resource utilization. The proposed design deploys a large number of processing elements in parallel to increase throughput, and a forwarding scheme to increase resource utilization on the existing engine. In addition, we demonstrate a novel reuse scheme to make fully-connected layers exploit the same engine. The proposed design is combined with an inference environment for comparison and implemented on a Xilinx XCVU190 FPGA. The implemented design uses 61k look-up tables (LUTs), 45k flip-flops (FFs), and 13.9Mbit block RAM (BRAM). In addition, it achieves 61.6 GOPS/kLUT at 240MHz\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Optimized Interpolation and Cached Data Access in LUT-Based RGB-to-RGBW Conversion",
+        "id": "_eNP3hUAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Sunwoong Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+        "pub_date": "2018",
+        "description": "In recent display panels, the RGBW color domain becomes popular because it improves the brightness of the display panel compared to the conventional RGB domain. An RGBW display system, in general, uses a look-up table (LUT) for fast RGB-to-RGBW conversion. However, a large-sized LUT is implemented in external memory, which slows down system speed and increases power consumption. For robust LUT-based RGB-to-RGBW conversion, this brief proposes two schemes. First, the data mapping of the LUT is sub-sampled. For fast conversion, the sub-sampled data are approximately interpolated. Moreover, the interpolation performance is improved by using a refinement scheme. Second, a small internal buffer that caches the information from the LUT is used for the conversion. When the information stored in the buffer is used for conversion, the access to the LUT of the external memory is skipped\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "A Bus-aware Interface Design of One-dimensional Frame Memory Compression for a Video Encoder",
+        "id": "_eNP3hUAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Ji Hun Jang",
+            "Sunwoong Kim",
+            "Chae Eun Rhee"
+        ],
+        "pub_source": "Journal of Semiconductor Technology and Science",
+        "pub_date": "2017/12",
+        "description": "Currently, frame memory compression (FMC) is widely adopted in video codecs. To store high-resolution video frames in external memory, the bus access time and the memory space are significant overheads for real-time video processing. There are many previous works which focus on data compression rates. However, in an actual system, several modules, including the video codec and the external memory, are connected via a system bus. In this environment, the gain in compression and the gain in transfer are very different. For a practical FMC design, not only the compression rate but also the transfer efficiency should be carefully considered. In this paper, a bus-aware interface design for one dimensional (1D) lossless FMC is proposed to reduce the amount of bus transfers. The proposed bitstream merging and tailed burst length schemes increase the transfer gain such that it is close to the gain in\u00a0\u2026"
+    },
+    {
+        "title": "Fine-scalable SPIHT hardware design for frame memory compression in video codec",
+        "id": "_eNP3hUAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Sunwoong Kim",
+            "Ji Hun Jang",
+            "Hyuk-Jae Lee",
+            "Chae Eun Rhee"
+        ],
+        "pub_source": "JSTS: Journal of Semiconductor Technology and Science",
+        "pub_date": "2017",
+        "description": "In order to reduce the size of frame memory or bus bandwidth, frame memory compression (FMC) recompresses reconstructed or reference frames of video codecs. This paper proposes a novel FMC design based on discrete wavelet transform (DWT)-set partitioning in hierarchical trees (SPIHT), which supports fine-scalable throughput and is area-efficient. In the proposed design, multi-cores with small block sizes are used in parallel instead of a single core with a large block size. In addition, an appropriate pipelining schedule is proposed. Compared to the previous design, the proposed design achieves the processing speed which is closer to the target system speed, and therefore it is more efficient in hardware utilization. In addition, a scheme in which two passes of SPIHT are merged into one pass called merged refinement pass (MRP) is proposed. As the number of shifters decreases and the bit-width of remained shifters is reduced, the size of SPIHT hardware significantly decreases. The proposed FMC encoder and decoder designs achieve the throughputs of 4,448 and 4,000 Mpixels/s, respectively, and their gate counts are 76.5 K and 107.8 K. When the proposed design is applied to high efficiency video codec (HEVC), it achieves 1.96% lower average BDBR and 0.05 dB higher average BDPSNR than the previous FMC design.",
+        "citations": 1
+    },
+    {
+        "title": "RGBW image compression by low-complexity adaptive multi-level block truncation coding",
+        "id": "_eNP3hUAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Sunwoong Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "IEEE Transactions on Consumer Electronics",
+        "pub_date": "2016/11",
+        "description": "Frame memory compression is a widely used image compression technique that aims to reduce the size of the frame memory in display panels such as those containing LCD and OLED technologies. Recent LCD panels use the RGBW color domain to replace the traditional RGB domain in order to enhance the brightness of LCD panels with the addition of a white component. The additional component increases the size of the frame memory but necessitates an aggressive compression algorithm. This paper proposes a novel compression algorithm for RGBW components that improves the efficiency of block truncation coding (BTC), which is widely used for LCD overdrive. The proposed low-complexity adaptive multi-level block truncation coding (LAM-BTC) algorithm codes RGBW color data with a width of ten bits. It adaptively selects two-level BTC or four-level BTC to enhance the quality of the images, for which a\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "A design of a cost-effective look-up table for RGB-to-RGBW conversion",
+        "id": "_eNP3hUAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Sunwoong Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "2016 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)",
+        "pub_date": "2016/10/25",
+        "description": "RGBW domain is widely used to improve the brightness of display panels without their increasing power consumption. RGBW display systems use a look-up table (LUT) for fast RGB-to-RGBW conversion. However, the LUT is implemented by a large size memory and thereby incurring high hardware cost. To reduce the size of the LUT, data mapping in the LUT are sub-sampled, which results in large errors in data conversion. Based on the piecewise-linear characteristic in color change, the sub-sampled data are linearly interpolated. In addition, the interpolation performance is improved by utilizing distribution patterns of color components. Experimental results show that the average of the mean square errors by the proposed method is 21.72 when the size of the LUT decreases to 1/2 15  of the original LUT size.",
+        "citations": 2
+    },
+    {
+        "title": "Fixed-ratio compression of an RGBW image and its hardware implementation",
+        "id": "_eNP3hUAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Sunwoong Kim",
+            "Moonsoo Kim",
+            "Jin-Sung Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems",
+        "pub_date": "2016/9/29",
+        "description": "In the latest large-screen TVs, an RGBW color domain is widely used to enhance the brightness of liquid crystal display (LCD) panels. As the correlations among RGBW color components are different from those among conventional RGB components, a compression algorithm developed for an RGB image may not be efficient for RGBW compression. For high-fidelity RGBW image coding, a novel prediction-based coding algorithm is proposed in this paper. The proposed algorithm is composed of two prediction steps that take advantage of spatial correlation and inter-color correlations, respectively. For residual coding, this paper proposes a fixed-ratio coding method based on Golomb-Rice coding. The proposed encoder is composed of two sub-coders: pre-coder and post-coder. The pre-coder estimates the length of the bitstream for various quantization levels. Based on that estimation, the appropriate quantization\u00a0\u2026",
+        "citations": 14
+    },
+    {
+        "title": "Fixed-length Golomb-Rice coding by quantization level estimation",
+        "id": "_eNP3hUAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Moonsoo Kim",
+            "Sunwoong Kim",
+            "Jin-Sung Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "2016 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "pub_date": "2016/5/22",
+        "description": "Golomb-Rice coding is one of the popular variable-length codings which require quantization of input data to meet the target compression ratio. In order to obtain the optimal quantization level, a conventional iterative approach increases the quantization level one by one until the target ratio is achieved. This iterative approach makes it difficult to implement in hard ware because the number of iterations cannot be estimated at hardware design time. This paper proposes a non-iterative algorithm for Golomb-Rice coding to estimate a near-optimal quantization level. To this end, the algorithm performs Golomb-Rice coding without any quantization of input data and then uses this coding result to estimate the codeword length with quantization. Based on the estimation, a near-optimal quantization level that meets the target length is selected. For the case when the selected level is not optimal, the algorithm performs\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "A block truncation coding algorithm and hardware implementation targeting 1/12 compression for LCD overdrive",
+        "id": "_eNP3hUAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Sunwoong Kim",
+            "Donghyeon Lee",
+            "Jin-Sung Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "Journal of Display Technology",
+        "pub_date": "2016/4/1",
+        "description": "Block truncation coding (BTC) is commonly used to compress a video to be stored in frame memory for display devices such as LCDs. The original BTC algorithm partitions an input image into 44 blocks and compresses each block to reduce the data size down to 1/4 of the original size of the data. As the size of a video displayed on an LCD increases, the frame memory size also increases. Therefore, it is necessary to reduce the frame memory size further. The previous BTC suffers from a severe quality degradation when its compression ratio exceeds 6 to the original data. This paper proposes a novel BTC-based compression algorithm of which the target compression ratio is 12. To improve the compression efficiency, the proposed algorithm adopts a bit-saving scheme that utilizes the spatial correlation between vertically adjacent blocks. Furthermore, the blocks with low image complexity are coded using one 216\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Anomalous trajectory detection in surveillance systems using pedestrian and surrounding information",
+        "id": "_eNP3hUAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Trung Nghia Doan",
+            "Sunwoong Kim",
+            "Le Cuong Vo",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "IEIE Transactions on Smart Processing and Computing",
+        "pub_date": "2016",
+        "description": "Concurrently detected and annotated abnormal events can have a significant impact on surveillance systems. By considering the specific domain of pedestrian trajectories, this paper presents two main contributions. First, as introduced in much of the work on trajectory-based anomaly detection in the literature, only information about pedestrian paths, such as direction and speed, is considered. Differing from previous work, this paper proposes a framework that deals with additional types of trajectory-based anomalies. These abnormal events take places when a person enters prohibited areas. Those restricted regions are constructed by an online learning algorithm that uses surrounding information, including detected pedestrians and background scenes. Second, a simple data-boosting technique is introduced to overcome a lack of training data; such a problem particularly challenges all previous work, owing to the significantly low frequency of abnormal events. This technique only requires normal trajectories and fundamental information about scenes to increase the amount of training data for both normal and abnormal trajectories. With the increased amount of training data, the conventional abnormal trajectory classifier is able to achieve better prediction accuracy without falling into the over-fitting problem caused by complex learning models. Finally, the proposed framework (which annotates tracks that enter prohibited areas) and a conventional abnormal trajectory detector (using the data-boosting technique) are integrated to form a united detector. Such a detector deals with different types of anomalous trajectories in a hierarchical order. The\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "A high-throughput hardware design of a one-dimensional SPIHT algorithm",
+        "id": "_eNP3hUAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Sunwoong Kim",
+            "Donghyeon Lee",
+            "Jin-Sung Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "IEEE Transactions on Multimedia",
+        "pub_date": "2016/1/1",
+        "description": "Video display systems include frame memory, which stores video data for display. To reduce system cost, video data are often compressed for storage in frame memory. A desirable characteristic for display memory compression is support for the raster-scan processing order and the fixed target compression ratio. Set partitioning in hierarchical trees (SPIHT) is an efficient two-dimensional compression algorithm that guarantees a fixed target compression ratio, but its one-dimensional (1D) variation has received little attention, even though its 1D nature supports the raster-scan processing order. This paper proposes a novel hardware design for 1D SPIHT. The algorithm is modified to exploit parallelism for effective hardware implementation. For the encoder, dependences that prohibit parallel execution are resolved and a pipelined schedule is proposed. For the parallel execution of the decoder, the algorithm is\u00a0\u2026",
+        "citations": 33
+    },
+    {
+        "title": "An enhanced one-dimensional SPIHT algorithm and its implementation for TV systems",
+        "id": "_eNP3hUAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Sunwoong Kim",
+            "Donghyeon Lee",
+            "Hyun Kim",
+            "Nguyen Xuan Truong",
+            "Jin-Sung Kim"
+        ],
+        "pub_source": "Displays",
+        "pub_date": "2015/12/1",
+        "description": "In general, to achieve high compression efficiency, a 2D image or a 2D block is used as the compression unit. However, 2D compression requires a large memory size and long latency when input data are received in a raster scan order that is common in existing TV systems. To address this problem, a 1D compression algorithm that uses a 1D block as the compression unit is proposed. 1D set partitioning in hierarchical trees (SPIHT) is an effective compression algorithm that fits the encoded bit length to the target bit length precisely. However, the 1D SPIHT can have low compression efficiency because 1D discrete wavelet transform (DWT) cannot make use of the redundancy in the vertical direction. This paper proposes two schemes for improving compression efficiency in the 1D SPIHT. First, a hybrid coding scheme that uses different coding algorithms for the low and high frequency bands is proposed. For the low\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Power-aware design with various low-power algorithms for an H. 264/AVC encoder",
+        "id": "_eNP3hUAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=_eNP3hUAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Hyun Kim",
+            "Chae Eun Rhee",
+            "Jin-Sung Kim",
+            "Sunwoong Kim",
+            "Hyuk-Jae Lee"
+        ],
+        "pub_source": "2011 IEEE International Symposium of Circuits and Systems (ISCAS)",
+        "pub_date": "2011/5/15",
+        "description": "H.264/AVC video compression standard provides high coding efficiency, but requires a considerable amount of complexity and power consumption. This paper presents advanced low-power algorithms for an H.264/AVC encoder and a power-aware design composed of low-power algorithms. Power reduction algorithms with frame memory compression and early skip mode decision are presented, and the search range for motion estimation is reduced for further power reduction. The proposed power aware design controls the power consumption depending on the remaining energy by controlling the operation condition of the proposed low-power algorithms. In order to estimate the power reduction by the proposed algorithms, the power consumed by external memory as well as the bus between an H.264 encoder and an external DRAM is considered. Simulation results show that up to 49.9% of the power\u00a0\u2026",
+        "citations": 12
+    }
+]

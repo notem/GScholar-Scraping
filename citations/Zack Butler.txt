@@ -1,0 +1,248 @@
+"CONVERSATIONS: Conversation with a Prominent Propagator: Joanna Goode"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2024
+
+"Analyzing Student and Instructor Comments using NLP"
+Z Butler, I Bezáková, S Xu, A Brilliantova - Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2, 2024
+
+"CONVERSATIONS: Conversation with a Prominent Propagator: Carl Haynes-Magyar"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2023
+
+"CONVERSATIONS: Conversation with a Prominent Propagator: Frank Vahid"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2023
+
+"Putting a Context in Context: Investigating the Context of Pencil Puzzles in Multiple Academic Environments"
+Z Butler, I Bezáková, A Brilliantova - Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1, 2023
+
+"How Do I Get People to Use My Ideas? Lessons from Successful Innovators in CS Education"
+CL Hovey, DP Bunde, Z Butler, C Taylor - Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1, 2023
+
+"CONVERSATIONS: Conversations with a prominent propagator: Barbara Ericson"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2023
+
+"CONVERSATIONS: Conversations with a prominent propagator: Beth Simon"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2022
+
+"Conversation with a prominent propagator: Helen Hu"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2022
+
+"Conversation with a prominent propagator: Helen Hu"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2022
+
+"CONVERSATIONS: Conversation with a prominent propagator: Monica McGill"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2022
+
+"Pencil Puzzles as a Context for Introductory Computing Assignments in Diverse Settings"
+Z Butler, I Bezáková, A Brilliantova, H Miller, K Fluet - Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2, 2022
+
+"CONVERSATIONS: Conversation with a prominent propagator: Mark Guzdial"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2022
+
+"CONVERSATIONS: Conversation with a prominent propagator: Mark Guzdial"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2022
+
+"CONVERSATIONS: Conversation with a prominent propagator: Beth Quinn and Stephanie Weber, EngageCSEdu"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2021
+
+"CONVERSATIONS: Conversation with a prominent propagator: Paul Tymann"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2021
+
+"Puzzles in Many Places: Closing the Loop on Propagation"
+Z Butler, I Bezáková, K Fluet - Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 2021
+
+"CONVERSATIONS: Conversation with a prominent propagator: Colleen Lewis"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2021
+
+"CONVERSATIONS Conversation with a prominent propagator: Michael Kölling"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2020
+
+"CONVERSATIONS: Conversation with a prominent propagator: Sushil Prasad"
+DP Bunde, Z Butler, CL Hovey, C Taylor - ACM Inroads, 2020
+
+"To Dissemination... And Beyond! Building Better Propagation Plans for Computer Science Education Innovations"
+CL Hovey, C Taylor, H Bort, DP Bunde, Z Butler - Proceedings of the 50th ACM Technical Symposium on Computer Science Education, 2019
+
+"Propagating educational innovations"
+H Bort, DP Bunde, Z Butler, CL Hovey, C Taylor - Proceedings of the 50th ACM Technical Symposium on Computer Science Education, 2019
+
+"Propagating the adoption of CS educational innovations"
+C Taylor, J Spacco, DP Bunde, Z Butler, H Bort, CL Hovey, F Maiorana, T Zeume - Proceedings companion of the 23rd annual ACM conference on Innovation and Technology in Computer Science Education, 2018
+
+"Promoting the adoption of educational innovations"
+C Taylor, J Spacco, DP Bunde, T Zeume, Z Butler, M Barnas, H Bort, F Maiorana, CL Hovey - Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education, 2018
+
+"Analyzing rich qualitative data to study pencil-puzzle-based assignments in CS1 and CS2"
+Z Butler, I Bezáková, K Fluet - Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education, 2018
+
+"Qualitative Analysis of Open-ended Comments in Introductory CS Courses"
+Z Butler, I Bezakova, K Fluet - Proceedings of the 49th ACM Technical Symposium on Computer Science Education, 2018
+
+"CS puzzle contest"
+Z Butler, J Barr - ACM Inroads, 2018
+
+"Pencil puzzles for introductory computer science: An experience-and gender-neutral context"
+Z Butler, I Bezáková, K Fluet - Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education, 2017
+
+"Mazes: not just for kids"
+Z Butler - ACM Inroads, 2016
+
+"Task allocation for reconfigurable teams"
+Z Butler, J Hays - Robotics and Autonomous Systems, 2015
+
+"On Beyond Sudoku: Pencil Puzzles for Introductory Computer Science"
+Z Butler, I Bezakova - Proceedings of the 46th ACM Technical Symposium on Computer Science Education, 2015
+
+"Easily-programmable corobots for student use"
+Z Butler, M Bogue, R Johar, B Iyer - 2013 16th International Conference on Advanced Robotics (ICAR), 2013
+
+"Integrating highly-capable corobots into a computing curriculum"
+Z Butler, RK Raj, M Kwon - 2013 IEEE Frontiers in Education Conference (FIE), 2013
+
+"On beyond Sudoku: pencil puzzles across CS"
+Z Butler - Journal of Computing Sciences in Colleges, 2013
+
+"Hierarchical distributed task allocation for multi-robot exploration"
+J Hawley, Z Butler - Distributed Autonomous Robotic Systems: The 10th International Symposium, 2013
+
+"Auction-based task allocation for teams of self-reconfigurable robots"
+Z Butler - 2012 IEEE International Symposium on Intelligent Control, 2012
+
+"Behavior-based control of self-reconfigurable robot teams for sensor placement"
+J Hays, Z Butler - Intelligent Autonomous Systems 11, 2010
+
+"Corridors for robot team navigation"
+Z Butler, C Bribiescas - Distributed Autonomous Robotic Systems 8, 2009
+
+"Adaptive expert systems for indirect coverage control"
+Gv Pless, Z Butler - 2009 IEEE International Conference on Robotics and Automation, 2009
+
+"Reconfigurable teams: cooperative goal seeking with self-reconfigurable robots"
+Z Butler, E Fabricant - Distributed Autonomous Robotic Systems 8, 2009
+
+"Work in progress-using a mobile robots laboratory to teach advanced computing concepts"
+Z Butler, M Kwon, RK Raj - 2008 38th Annual Frontiers in Education Conference, 2008
+
+"Million module march: Scalable locomotion for large self-reconfiguring robots"
+R Fitch, Z Butler - The International Journal of Robotics Research, 2008
+
+"Distributed and Cellular Robots."
+ZJ Butler, AA Rizzi, B Siciliano, O Khatib - Springer Handbook of Robotics, 2008
+
+"Scalable locomotion for large self-reconfiguring robots"
+R Fitch, Z Butler - Proceedings 2007 IEEE International Conference on Robotics and Automation, 2007
+
+"Robust classification of animal tracking data"
+M Schwager, DM Anderson, Z Butler, D Rus - Computers and Electronics in Agriculture, 2007
+
+"In-place distributed heterogeneous reconfiguration planning"
+R Fitch, Z Butler, D Rus - Distributed Autonomous Robotic Systems 6, 2007
+
+"Corridor planning for natural agents"
+Z Butler - Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006., 2006
+
+"From robots to animals: Virtual fences for controlling cattle"
+Z Butler, P Corke, R Peterson, D Rus - The International Journal of Robotics Research, 2006
+
+"Dynamic virtual fences for controlling cows"
+Z Butler, P Corke, R Peterson, D Rus - Experimental Robotics IX: The 9th International Symposium on Experimental Robotics, 2006
+
+"Motion-constrained mobile sensor networks"
+Z Butler - ICAR'05. Proceedings., 12th International Conference on Advanced Robotics, 2005., 2005
+
+"Reconfiguration planning among obstacles for heterogeneous self-reconfiguring robots"
+R Fitch, Z Butler, D Rus - Proceedings of the 2005 IEEE International Conference on Robotics and Automation, 2005
+
+"Tracking a moving object with binary sensors"
+J Aslam, Z Butler, F Constantin, V Crespi, G Cybenko, D Rus - Proc. of ACM SenSys, 2005
+
+"Generic decentralized control for lattice-based self-reconfigurable robots"
+Z Butler, K Kotay, D Rus, K Tomita - The International Journal of Robotics Research, 2004
+
+"Controlling mobile sensors for monitoring events with coverage constraints"
+Z Butler, D Rus - IEEE International Conference on Robotics and Automation, 2004. Proceedings. ICRA'04. 2004, 2004
+
+"Virtual fences for controlling cows"
+Z Butler, P Corke, R Peterson, D Rus - IEEE International Conference on Robotics and Automation, 2004. Proceedings. ICRA'04. 2004, 2004
+
+"Distributed motion planning for 3D modular robots with unit-compressible modules"
+Z Butler, D Rus - Algorithmic Foundations of Robotics V, 2004
+
+"Event-based motion control for mobile-sensor networks"
+Z Butler, D Rus - IEEE Pervasive Computing, 2003
+
+"Tracking a moving object with a binary sensor network"
+J Aslam, Z Butler, F Constantin, V Crespi, G Cybenko, D Rus - Proceedings of the 1st international conference on Embedded networked sensor systems, 2003
+
+"Reconfiguration planning for heterogeneous self-reconfiguring robots"
+R Fitch, Z Butler, D Rus - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003)(Cat. No. 03CH37453), 2003
+
+"Distributed planning and control for modular robots with unit-compressible modules"
+Z Butler, D Rus - The International Journal of Robotics Research, 2003
+
+"Distributed locomotion algorithms for self-reconfigurable robots operating on rough terrain"
+Z Butler, D Rus - Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No. 03EX694), 2003
+
+"Toward a second-generation minifactory for precision assembly"
+R Hollis, A Rizzi, H Brown, A Quaid, Z Butler - International advances robotics program workshop on microrobots, micromachines and microsystems, Moscow, Russia, 2003
+
+"Experiments in distributed control for modular robots"
+Z Butler, R Fitch, D Rus - Experimental Robotics VIII, 2003
+
+"Distributed control for unit-compressible robots: goal-recognition, locomotion, and splitting"
+Z Butler, R Fitch, D Rus - IEEE/ASME transactions on mechatronics, 2002
+
+"Experiments in distributed locomotion with a unit-compressible modular robot"
+Z Butler, R Fitch, D Rus - IEEE/RSJ International Conference on Intelligent Robots and Systems, 2002
+
+"Distributed systems of self-reconfiguring robots"
+Z Butler, R Fitch, K Kotay, D Rus - ACM SIGGRAPH 2002 conference abstracts and applications, 2002
+
+"Distributed goal recognition algorithms for modular robots"
+Z Butler, R Fitch, D Rus, Y Wang - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No. 02CH37292), 2002
+
+"Generic decentralized control for a class of self-reconfigurable robots"
+Z Butler, K Kotay, D Rus, K Tomita - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No. 02CH37292), 2002
+
+"Self-reconfiguring robots"
+D Rus, Z Butler, K Kotay, M Vona - Communications of the ACM, 2002
+
+"The Crystal Robot: Implementation and Demonstration."
+R Fitch, ZJ Butler, D Rus - AAAI Mobile Robot Competition, 2002
+
+"Distributed replication algorithms for self-reconfiguring modular robots"
+Z Butler, S Murata, D Rus - Distributed Autonomous Robotic Systems 5, 2002
+
+"3D rectilinear motion planning with minimum bend paths"
+R Fitch, Z Butler, D Rus - Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No. 01CH37180), 2001
+
+"Cellular automata for decentralized control of self-reconfigurable robots"
+Z Butler, K Kotay, D Rus, K Tomita - Proc. of the ICRA 2001 workshop on modular robots, 2001
+
+"Complete Distributed Coverage of Rectilinear Environments: Zack J. Butler, Carnegie Mellon University, Pittsburgh, PA Alfred A. Rizzi, Carnegie Mellon University, Pittsburgh …"
+ZJ Butler, AA Rizzi, RL Hollis - Algorithmic and Computational Robotics, 2001
+
+"Simulation and experimental evaluation of complete sensor-based coverage in rectilinear environments"
+ZJ Butler, AA Rizzi, RL Hollis - Experimental Robotics VII, 2001
+
+"Cooperative coverage of rectilinear environments"
+ZJ Butler, AA Rizzi, RL Hollis - Proceedings 2000 ICRA. Millennium Conference. IEEE International Conference on Robotics and Automation. Symposia Proceedings (Cat. No. 00CH37065), 2000
+
+"Distributed coverage of rectilinear environments"
+ZJ Butler - Carnegie Mellon University, 2000
+
+"Contact sensor-based coverage of rectilinear environments"
+ZJ Butler, AA Rizzi, RL Hollis - Proceedings of the 1999 IEEE international symposium on intelligent control intelligent systems and semiotics (Cat. No. 99CH37014), 1999
+
+"An integrated interface tool for the architecture for agile assembly"
+J Gowdy, ZJ Butler - Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No. 99CH36288C), 1999
+
+"ccR: A complete algorithm for contact-sensor based coverage of rectilinear environments"
+ZJ Butler - Carnegie Mellon University, The Robotics Institute, 1998
+
+"Integrated precision 3-DOF position sensor for planar linear motors"
+ZJ Butler, AA Rizzi, RL Hollis - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No. 98CH36146), 1998
+
+"Design of a hemispherical magnetic levitation haptic interface device"
+P Berkelman, ZJ Butler, R Hollis - Carnegie Mellon University, Engineering Design Research Center, 1997
+
+"Design of a hemispherical magnetic levitation haptic interface device"
+PJ Berkelman, ZJ Butler, RL Hollis - ASME international mechanical engineering congress and exposition, 1996

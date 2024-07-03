@@ -1,0 +1,881 @@
+[
+    {
+        "title": "Towards Browser Controls to Protect Cookies from Malicious Extensions",
+        "id": "2ITEX20AAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "Liam Tyler",
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "arXiv preprint arXiv:2405.06830",
+        "pub_date": "2024/5/10",
+        "description": "Cookies provide a state management mechanism for the web and are often used for authentication, storing a user's session ID, and replacing their credentials in subsequent requests. These ``session cookies'' are valuable targets of attacks such as Session Hijacking and Fixation that attempt to steal them and gain unauthorized access to user accounts. Multiple controls such as the Secure and HttpOnly cookie attributes restrict cookie accessibility, effectively mitigating attacks from the network or malicious websites, but often ignoring untrusted extensions within the user's browser. Extensions are third-party HTML/JavaScript add-ons with access to several privileged APIs and can run on multiple websites at once. Unfortunately, this can provide malicious/compromised extensions with unrestricted access to session cookies. In this work, we first conduct a study assessing the prevalence of extensions with these ``risky'' APIs (i.e., those enabling cookie modification and theft) and find that they are currently used by hundreds of millions of users. Motivated by this, we propose browser controls based on two new cookie attributes that protect cookies from malicious extensions: BrowserOnly and Tracked. The BrowserOnly attribute prevents accessing cookies from extensions altogether. While effective, not all cookies can be inaccessible. Cookies with the Tracked attribute remain accessible, are tied to a single browser, and record any modifications made by extensions. Thus, stolen Tracked cookies become unusable outside their original browser and servers can verify any modifications. To demonstrate these features' practicality, we implement CREAM\u00a0\u2026"
+    },
+    {
+        "title": "Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution",
+        "id": "2ITEX20AAAAJ:a0OBvERweLwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:a0OBvERweLwC",
+        "authors": [
+            "Norrathep Rattanavipanon",
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "arXiv preprint arXiv:2404.06721",
+        "pub_date": "2024/4/10",
+        "description": "The rise in IoT-driven distributed data analytics, coupled with increasing privacy concerns, has led to a demand for effective privacy-preserving and federated data collection/model training mechanisms. In response, approaches such as Federated Learning (FL) and Local Differential Privacy (LDP) have been proposed and attracted much attention over the past few years. However, they still share the common limitation of being vulnerable to poisoning attacks wherein adversaries compromising edge devices feed forged (a.k.a. poisoned) data to aggregation back-ends, undermining the integrity of FL/LDP results. In this work, we propose a system-level approach to remedy this issue based on a novel security notion of Proofs of Stateful Execution (PoSX) for IoT/embedded devices' software. To realize the PoSX concept, we design SLAPP: a System-Level Approach for Poisoning Prevention. SLAPP leverages commodity security features of embedded devices - in particular ARM TrustZoneM security extensions - to verifiably bind raw sensed data to their correct usage as part of FL/LDP edge device routines. As a consequence, it offers robust security guarantees against poisoning. Our evaluation, based on real-world prototypes featuring multiple cryptographic primitives and data collection schemes, showcases SLAPP's security and low overhead."
+    },
+    {
+        "title": "Towards Remotely Verifiable Software Integrity in Resource-Constrained IoT Devices",
+        "id": "2ITEX20AAAAJ:fPk4N6BV_jEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:fPk4N6BV_jEC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Norrathep Rattanavipanon",
+            "Gene Tsudik"
+        ],
+        "pub_source": "IEEE Communications Magazine",
+        "pub_date": "2024/1/9",
+        "description": "Lower-end IoT devices typically have strict cost constraints that rule out usual security mechanisms available in general-purpose computers or higher-end devices. To secure low-end devices, various low-cost security architectures have been proposed for remote verification of their software state via integrity proofs. These proofs vary in terms of expressiveness, with simpler ones confirming correct binary presence, while more expressive ones support verification of arbitrary code execution. This article provides a holistic and systematic treatment of this family of architectures. It also compares (qualitatively and quantitatively) the types of software integrity proofs, respective architectural support, and associated costs. Finally, we outline some research directions and emerging challenges.",
+        "citations": 2
+    },
+    {
+        "title": "UCCA: A Verified Architecture for Compartmentalization of Untrusted Code Sections in Resource-Constrained Devices",
+        "id": "2ITEX20AAAAJ:rO6llkc54NcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:rO6llkc54NcC",
+        "authors": [
+            "Liam Tyler",
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "arXiv preprint arXiv:2312.02348",
+        "pub_date": "2023/12/4",
+        "description": "Micro-controller units (MCUs) implement the de facto interface between the physical and digital worlds. As a consequence, they appear in a variety of sensing/actuation applications, from smart personal spaces to complex industrial control systems and safety-critical medical equipment. While many of these devices perform safety- and time-critical tasks, they often lack support for security features compatible with their importance to overall system functions. This lack of architectural support leaves them vulnerable to run-time attacks that can remotely alter their intended behavior, with potentially catastrophic consequences. In particular, we note that MCU software often includes untrusted third-party libraries (some of them closed-source) that are blindly used within MCU programs, without proper isolation from the rest of the system. In turn, a single vulnerability (or intentional backdoor) in one such third-party software can often compromise the entire MCU software state. In this paper, we tackle this problem by proposing, demonstrating security, and formally verifying the implementation of UCCA: an Untrusted Code Compartment Architecture. UCCA provides flexible hardware-enforced isolation of untrusted code sections (e.g., third-party software modules) in resource-constrained and time-critical MCUs. To demonstrate UCCA's practicality, we implement an open-source version of the design on a real resource-constrained MCU: the well-known TI MSP430. Our evaluation shows that UCCA incurs little overhead and is affordable even to lowest-end MCUs, requiring significantly less overhead and assumptions than prior related work."
+    },
+    {
+        "title": "Method, system, and computer program product for authentication",
+        "id": "2ITEX20AAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "M Shirvanian",
+            "M Christodorescu",
+            "DSW Masny",
+            "IDO Nunes",
+            "PB Rindal"
+        ],
+        "pub_source": "US Patent App. 17/798,693",
+        "pub_date": "2023/4/27",
+        "description": "Provided is a method for authentication. The method may include receiving first password data, first biometric input data, and first secret key data. A second secret key may be generated based on the first secret key and the first password. Fuzzy extractor helper data may be generated based on the first biometric input and the second secret key. The fuzzy extractor helper data and the first secret key may be stored. The user may be authenticated based on an attempted password and/or a second biometric input. A system and computer program product are also disclosed.",
+        "citations": 1
+    },
+    {
+        "title": "DiCA: A Hardware-Software Co-Design for Differential Check-Pointing in Intermittently Powered Devices",
+        "id": "2ITEX20AAAAJ:ZHo1McVdvXMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:ZHo1McVdvXMC",
+        "authors": [
+            "Antonio Joia Neto",
+            "Adam Caulfield",
+            "Chistabelle Alvares",
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "ACM/IEEE ICCAD",
+        "pub_date": "2023",
+        "description": "Intermittently powered devices rely on opportunistic energy-harvesting to function, leading to recurrent power interruptions. This paper introduces DiCA, a proposal for a hardware/software co-design to create differential check-points in intermittent devices. DiCA leverages an affordable hardware module that simplifies the check-pointing process, reducing the check-point generation time and energy consumption. This hardware module continuously monitors volatile memory, efficiently tracking modifications and determining optimal check-point times. To minimize energy waste, the module dynamically estimates the energy required to create and store the check-point based on tracked memory modifications, triggering the check-pointing routine optimally via a nonmaskable interrupt. Experimental results show the cost-effectiveness and energy efficiency of DiCA, enabling extended application activity cycles in\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "PARseL: Towards a Verified Root-of-Trust over seL4",
+        "id": "2ITEX20AAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Seoyeon Hwang",
+            "Sashidhar Jakkamsetti",
+            "Norrathep Rattanavipanon",
+            "Gene Tsudik"
+        ],
+        "pub_source": "ACM/IEEE ICCAD",
+        "pub_date": "2023",
+        "description": "Widespread adoption and growing popularity of embedded/IoT/CPS devices make them attractive attack targets. On low-to-mid-range devices, security features are typically few or none due to various constraints. Such devices are thus subject to malware-based compromise. One popular defensive measure is Remote Attestation (RA) which allows a trusted entity to determine the current software integrity of an untrusted remote device. For higher-end devices, RA is achievable via secure hardware components. For low-end (bare metal) devices, minimalistic hybrid (hardware/software) RA is effective, which incurs some hardware modifications. That leaves certain mid-range devices (eg, ARM Cortex-A family) equipped with standard hardware components, eg, a memory management unit (MMU) and perhaps a secure boot facility. In this space, seL4 (a verified microkernel with guaranteed process isolation) is a\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control Flow Attestation",
+        "id": "2ITEX20AAAAJ:g5m5HwL7SMYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:g5m5HwL7SMYC",
+        "authors": [
+            "Adam Caulfield",
+            "Norrathep Rattanavipanon",
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "USENIX Security",
+        "pub_date": "2023",
+        "description": "Embedded devices are increasingly used in a wide range of \u201csmart\u201d applications and spaces. At the lower-end of the scale, they are implemented under strict cost and energy budgets, using microcontroller units (MCUs) that lack security features akin to those available in general-purpose processors. In this context, Remote Attestation (RA) was proposed as an inexpensive security service that enables a verifier (Vrf) to remotely detect illegal modifications to the software binary installed on a prover MCU (Prv). Despite its effectiveness to validate Prv's binary integrity, attacks that hijack the software's control flow (potentially leading to privilege escalation or code reuse attacks) cannot be detected by classic RA.",
+        "citations": 1
+    },
+    {
+        "title": "ISC-FLAT: On the Conflict Between Control Flow Attestation and Real-Time Operations",
+        "id": "2ITEX20AAAAJ:ldfaerwXgEUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:ldfaerwXgEUC",
+        "authors": [
+            "Antonio Joia Neto",
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "IEEE RTAS",
+        "pub_date": "2023",
+        "description": "The wide adoption of IoT gadgets and CyberPhysical Systems (CPS) makes embedded devices increasingly important. While some of these devices perform mission-critical tasks, they are usually implemented using Micro-Controller Units (MCUs) that lack security mechanisms on par with those available to general-purpose computers, making them more susceptible to remote exploits that could corrupt their software integrity. Motivated by this problem, prior work has proposed techniques to remotely assess the trustworthiness of embedded MCU software. Among them, Control Flow Attestation (CFA) enables remote detection of runtime abuses that illegally modify the program\u2019s control flow during execution (e.g., control flow hijacking and code reuse attacks). Despite these advances, current CFA methods share a fundamental limitation: they preclude interrupts during the execution of the software operation being\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Oblivious Extractors and Improved Security in Biometric-based Authentication Systems",
+        "id": "2ITEX20AAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Peter Rindal",
+            "Maliheh Shirvanian"
+        ],
+        "pub_source": "ESORICS",
+        "pub_date": "2023",
+        "description": "We study the problem of biometric-based authentication with template privacy. Typical schemes addressing this problem, such as Fuzzy Vaults () and Fuzzy Extractors (), allow a server, aka, to store \u201crandom looking\u201d Helper Data () instead of biometric templates in clear. hides information about the corresponding biometric while still enabling secure biometric-based authentication. Even though these schemes reduce the risk of storing biometric data, their correspondent authentication procedures typically require sending the  (stored by the ) to a client who claims a given identity. The premise here is that only the identity owner \u2013 i.e., the person whose biometric was sampled to originally generate the \u2013 is able to provide the same biometric to reconstruct the proper cryptographic key from . As a side effect, the ability to freely retrieve , by simply claiming a given identity, allows invested adversaries to\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems",
+        "id": "2ITEX20AAAAJ:RYcK_YlVTxYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:RYcK_YlVTxYC",
+        "authors": [
+            "Adam Caulfield",
+            "Norrathep Rattanavipanon",
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "(DAC'22) IEEE/ACM Design and Automation Conference, arXiv:2206.02894",
+        "pub_date": "2022/6/6",
+        "description": "Embedded devices are increasingly ubiquitous and their importance is hard to overestimate. While they often support safety-critical functions (e.g., in medical devices and sensor-alarm combinations), they are usually implemented under strict cost/energy budgets, using low-end microcontroller units (MCUs) that lack sophisticated security mechanisms. Motivated by this issue, recent work developed architectures capable of generating Proofs of Execution (PoX) for the correct/expected software in potentially compromised low-end MCUs. In practice, this capability can be leveraged to provide \"integrity from birth\" to sensor data, by binding the sensed results/outputs to an unforgeable cryptographic proof of execution of the expected sensing process. Despite this significant progress, current PoX schemes for low-end MCUs ignore the real-time needs of many applications. In particular, security of current PoX schemes\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Biometric authentication with template privacy and non-interactive re-enrollment",
+        "id": "2ITEX20AAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "K Eldefrawy",
+            "IDO Nunes",
+            "T Tanguy"
+        ],
+        "pub_source": "US Patent 11,223,478",
+        "pub_date": "2022/1/11",
+        "description": "An example system can include a reference biometric tem plate (RBT) reader, an authenticator, and an auxiliary sys tem. In some examples, during an initial enrollment process, the RBT reader obtains a biometric from a user, transforms the biometric into an RBT, and provides different shares of the RBT to the authenticator and the auxiliary system. The authenticator and the auxiliary system create respective shares of helper data. In some examples, the authenticator and the auxiliary system use a non-commutative transfor mation function to embed a secret key in their respective shares of the helper data. The auxiliary system provides its share of the helper data to the authenticator. The authenti cator combines its share of the helper data with the share provided by the auxiliary system to create a full version of the helper data. The helper data can be used in a subsequent authentication process between the RBT\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "CASU: Compromise Avoidance via Secure Update for Low-end Embedded Systems",
+        "id": "2ITEX20AAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Youngil Kim",
+            "Gene Tsudik"
+        ],
+        "pub_source": "ACM/IEEE ICCAD",
+        "pub_date": "2022",
+        "description": "Guaranteeing runtime integrity of embedded system software is an open problem. Trade-offs between security and other priorities (e.g., cost or performance) are inherent, and resolving them is both challenging and important. The proliferation of runtime attacks that introduce malicious code (e.g., by injection) into embedded devices has prompted a range of mitigation techniques. One popular approach is Remote Attestation (RA), whereby a trusted entity (verifier) checks the current software state of an untrusted remote device (prover). RA yields a timely authenticated snapshot of prover state that verifier uses to decide whether an attack occurred. Current RA schemes require verifier to explicitly initiate RA, based on some unclear criteria. Thus, in case of prover's compromise, verifier only learns about it late, upon the next RA instance. While sufficient for compromise detection, some applications would benefit from a\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices)",
+        "id": "2ITEX20AAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "Esmerald Aliaj",
+            "Ivan De Oliveira Nunes",
+            "Gene Tsudik"
+        ],
+        "pub_source": "USENIX Security",
+        "pub_date": "2022",
+        "description": "Embedded (aka smart or IoT) devices are increasingly popular and becoming ubiquitous. Unsurprisingly, they are also attractive attack targets for exploits and malware. Low-end embedded devices, designed with strict cost, size, and energy limitations, are especially challenging to secure, given their lack of resources to implement sophisticated security services, available on higher-end computing devices. To this end, several tiny Roots-of-Trust (RoTs) were proposed to enable services, such as remote verification of device's software state and run-time integrity. Such RoTs operate reactively: they can prove whether a desired action (eg, software update or program execution) was performed on a specific device. However, they can not guarantee that a desired action will be performed, since malware controlling the device can trivially block access to the RoT by ignoring/discarding received commands and other trigger events. This is an important problem because it allows malware to effectively\" brick\" or incapacitate a potentially huge number of (possibly mission-critical) devices.",
+        "citations": 11
+    },
+    {
+        "title": "Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA",
+        "id": "2ITEX20AAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Seoyeon Hwang",
+            "Sashidhar Jakkamsetti",
+            "Gene Tsudik"
+        ],
+        "pub_source": "(S&P'22) IEEE Symposium on Security and Privacy",
+        "pub_date": "2022",
+        "description": "With the growing popularity of the Internet-of-Things (IoT), massive numbers of specialized devices are deployed worldwide, in many everyday settings, including homes, offices, vehicles, public spaces, and factories. Such devices usually perform sensing and/or actuation. Many of them handle sensitive and personal data. If left unprotected, ambient sensing (e.g., of temperature, motion, audio, or video) can leak very private information. At the same time, some IoT devices use low-end computing platforms with few (or no) security features.There are many well-known techniques to secure sensed data, e.g., by authenticating communication end-points, encrypting data before transmission, and obfuscating traffic patterns. Such techniques protect sensed data from external adversaries, while assuming that the sensing device itself is secure. Meanwhile, both the scale and frequency of IoT-focused attacks are growing\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Dialed: Data integrity attestation for low-end embedded devices",
+        "id": "2ITEX20AAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Gene Tsudik"
+        ],
+        "pub_source": "2021 58th ACM/IEEE Design Automation Conference (DAC)",
+        "pub_date": "2021/12/5",
+        "description": "Verifying integrity of software execution in low-end microcontroller units (MCUs) is a well-known open problem. The central challenge is how to securely detect software exploits with minimal overhead, since these MCUs are designed for low cost, low energy and small size. Some recent work yielded inexpensive hardware/software co-designs for remotely verifying code and execution integrity. In particular, a means of detecting unauthorized code modifications and control-flow attacks were proposed, referred to as Remote Attestation (\u211bA) and Control-Flow Attestation (CFA), respectively. Despite this progress, detection of data-only attacks remains elusive. Such attacks exploit software vulnerabilities to corrupt intermediate computation results stored in data memory, changing neither the program code nor its control flow. Motivated by lack of any current techniques (for low-end MCUs) that detect these attacks, in this\u00a0\u2026",
+        "citations": 23
+    },
+    {
+        "title": "On the TOCTOU problem in remote attestation",
+        "id": "2ITEX20AAAAJ:4OULZ7Gr8RgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:4OULZ7Gr8RgC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Norrathep Rattanavipanon",
+            "Gene Tsudik"
+        ],
+        "pub_source": "Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2021/11/12",
+        "description": "Much attention has been devoted to verifying software integrity of remote embedded (IoT) devices. Many techniques, with different assumptions and security guarantees, have been proposed under the common umbrella of so-called Remote Attestation (RA). Aside from executable's integrity verification, RA serves as a foundation for many security services, such as proofs of memory erasure, system reset, software update, and verification of runtime properties. Prior RA techniques verify the remote device's binary at the time when RA functionality is executed, thus providing no information about the device's binary before current RA execution or between consecutive RA executions. This implies that presence of transient malware (in the form of modified binary) may be undetected. In other words, if transient malware infects a device (by modifying its binary), performs its nefarious tasks, and erases itself before the next\u00a0\u2026",
+        "citations": 42
+    },
+    {
+        "title": "Tiny-CFA: Minimalistic control-flow attestation using verified proofs of execution",
+        "id": "2ITEX20AAAAJ:D03iK_w7-QYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:D03iK_w7-QYC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Gene Tsudik"
+        ],
+        "pub_source": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+        "pub_date": "2021/2/1",
+        "description": "The design of tiny trust anchors attracted much attention over the past decade, to secure low-end MCU-s that cannot afford more expensive security mechanisms. In particular, hardware/software (hybrid) co-designs offer low hardware cost, while retaining similar security guarantees as (more expensive) hardware-based techniques. Hybrid trust anchors support security services (such as remote attestation, proofs of software update/erasure/reset, and proofs of remote software execution) in resource-constrained MCU-s, e.g., MSP430 and AVR AtMega32. Despite these advances, detection of control-flow attacks in low-end MCU-s remains a challenge, since hardware requirements for the cheapest mitigation techniques are often more expensive than the MCU-s themselves. In this work, we tackle this challenge by designing Tiny-CFA - a Control-Flow Attestation (CFA) technique with a single hardware requirement - the\u00a0\u2026",
+        "citations": 24
+    },
+    {
+        "title": "Dialed: Data integrity attestation for low-end embedded devices. In 2021 58th ACM/IEEE Design Automation Conference (DAC)",
+        "id": "2ITEX20AAAAJ:f2IySw72cVMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:f2IySw72cVMC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Gene Tsudik"
+        ],
+        "pub_source": "IEEE",
+        "pub_date": "2021",
+        "citations": 5
+    },
+    {
+        "title": "Verifiable Integrity and Availability for Code and Execution in Simple Embedded Systems",
+        "id": "2ITEX20AAAAJ:BqipwSGYUEgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:BqipwSGYUEgC",
+        "authors": [
+            "Ivan De Oliveira Nunes"
+        ],
+        "pub_source": "UC Irvine",
+        "pub_date": "2021",
+        "description": "Modern society is increasingly surrounded by, and is growing accustomed to, a wide range of Cyber-Physical Systems (CPS), Internet-of-Things (IoT), and smart devices. They often perform safety-critical functions, e.g., personal medical devices, automotive CPS as well as industrial and residential automation (such as sensor-alarm combinations). On the lower end of the scale, these devices are small, cheap, and specialized sensors and/or actuators. They tend to host small CPUs, have small amounts of memory, and run simple software. If such devices are left unprotected, consequences of forged sensor readings or ignored actuation commands can be catastrophic, particularly, in safety-critical settings. This prompts the following questions: (1) How to trust data produced, or guarantee that actions will be performed, by a simple remote embedded device?, (2) How to bind actions and results to the execution of expected software? and, (3) Can (1) and (2) be attained even if all software on a device can be modified and/or compromised (e.g., by malware) at any given time?This dissertation presents a set of hardware/software co-designs for obtaining several security services \u2013 namely remote attestation, TOCTOU-avoidance, proofs of execution, and root of trust availability \u2013 which can be used to assure the integrity and availability of software and its execution, even on some of the most resource-constrained micro-controllers. We realize these services with four formally verified and publicly available architectures (VRASED, RATA, APEX, and TAROT) and show how they have been securely implemented atop the TI MSP430 micro-controller at a\u00a0\u2026"
+    },
+    {
+        "title": "Delegated Attestation: Scalable Remote Attestation of Commodity CPS by Blending Proofs of Execution with Software Attestation",
+        "id": "2ITEX20AAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Mahmoud Ammar",
+            "Bruno Crispo",
+            "Ivan De Oliveira Nunes",
+            "Gene Tsudik"
+        ],
+        "pub_source": "ACM WiSec'21",
+        "pub_date": "2021",
+        "description": "Remote Attestation (RA) is an interaction between a trusted verifier (Vrf) and one or more remote and potentially compromised devices (provers or Prv-s) that allow the former to measure the software state of the latter. RA is particularly relevant to safety-critical cyber-physical systems (CPS) where a set of low-end micro-controllers (MCUs), operate under the control of a remote and more powerful controller. In such cases, RA is an effective and relatively efficient means to detect software compromise, e.g., malware infections, on these low-end MCUs that cannot support expensive security mechanisms. Unfortunately, current RA techniques have a major practical limitation by requiring one or more of: (i) customized hardware support on every Prv; or (ii) physical presence of Vrf, which must be directly connected to all Prv-s, or (iii) secure pre-loading of trusted software. To overcome this limitation, we construct, implement\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "DIALED: Data Integrity Attestation for Low-end Embedded Devices",
+        "id": "2ITEX20AAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:blknAaTinKkC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Gene Tsudik"
+        ],
+        "pub_source": "(DAC'21) Design Automation Conference",
+        "pub_date": "2021"
+    },
+    {
+        "title": "Tiny-CFA: Minimalistic Control-Flow Attestation Using Verified Proofs of Execution",
+        "id": "2ITEX20AAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Gene Tsudik"
+        ],
+        "pub_source": "(DATE'21) Design, Automation and Test in Europe Conference",
+        "pub_date": "2021"
+    },
+    {
+        "title": "On the Root of Trust Identification Problem",
+        "id": "2ITEX20AAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Xuhua Ding",
+            "Gene Tsudik"
+        ],
+        "pub_source": "(IPSN'21) ACM/IEEE Conference on Information Processing in Sensor Networks",
+        "pub_date": "2021",
+        "description": "Trusted Execution Environments (TEEs) are becoming ubiquitous and are currently used in many security applications: from personal IoT gadgets to banking and databases. Prominent examples of such architectures are Intel SGX, ARM TrustZone, and Trusted Platform Modules (TPMs). A typical TEE relies on a dynamic Root of Trust (RoT) to provide security services such as code/data confidentiality and integrity, isolated secure software execution, remote attestation, and sensor auditing. Despite their usefulness, there is currently no secure means to determine whether a given security service or task is being performed by the particular RoT within a specific physical device. We refer to this as the Root of Trust Identification (RTI) problem and discuss how it inhibits security for applications such as sensing and actuation. We formalize the RTI problem and argue that security of RTI protocols is especially challenging\u00a0\u2026",
+        "citations": 9
+    },
+    {
+        "title": "On the TOCTOU Problem in Remote Attestation",
+        "id": "2ITEX20AAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Norrathep Rattanavipanon",
+            "Gene Tsudik"
+        ],
+        "pub_source": "ACM CCS",
+        "pub_date": "2021",
+        "citations": 15
+    },
+    {
+        "title": "Tiny-CFA: A minimalistic approach for control-flow attestation using verified proofs of execution",
+        "id": "2ITEX20AAAAJ:pyW8ca7W8N0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:pyW8ca7W8N0C",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Sashidhar Jakkamsetti",
+            "Gene Tsudik"
+        ],
+        "pub_source": "arXiv preprint arXiv:2011.07400",
+        "pub_date": "2020/11/14",
+        "description": "The design of tiny trust anchors has received significant attention over the past decade, to secure low-end MCU-s that cannot afford expensive security mechanisms. In particular, hardware/software (hybrid) co-designs offer low hardware cost, while retaining similar security guarantees as (more expensive) hardware-based techniques. Hybrid trust anchors support security services, such as remote attestation, proofs of software update/erasure/reset, proofs of remote software execution, in resource-constrained MCU-s, e.g., MSP430 and AVR AtMega32. Despite these advances, detection of control-flow attacks in low-end MCU-s remains a challenge, since hardware requirements of the cheapest related architectures are often more expensive than the MCU-s themselves. In this work, we tackle this challenge by designing Tiny-CFA - a control-flow attestation (CFA) technique with a single hardware requirement - the ability to generate proofs of remote software execution (PoX). In turn, PoX can be implemented very efficiently and securely in low-end MCU-s. Consequently, our design achieves the lowest hardware overhead of any CFA architecture (i.e., two orders of magnitude cheaper), while relying on a formally verified PoX architecture as its sole hardware requirement. With respect to runtime overhead, Tiny-CFA also achieves better performance than prior CFA techniques based on code instrumentation. We implement and evaluate Tiny-CFA, analyze its security, and demonstrate its practicality using real-world publicly available applications.",
+        "citations": 15
+    },
+    {
+        "title": "APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Full Software Compromise",
+        "id": "2ITEX20AAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Karim Eldefrawy",
+            "Norrathep Rattanavipanon",
+            "Gene Tsudik"
+        ],
+        "pub_source": "USENIX Security",
+        "pub_date": "2020",
+        "citations": 55
+    },
+    {
+        "title": "System and method for authentication of things",
+        "id": "2ITEX20AAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "LBE OLIVEIRA",
+            "AAF LOUREIRO",
+            "ALM NETO",
+            "HK PATIL",
+            "MN LIMA",
+            "..."
+        ],
+        "pub_source": "US Patent 10,523,437",
+        "pub_date": "2019/12/31",
+        "description": "An Authentication Of Things (AOT) system includes a cloud server configured to control a cloud domain connected with a plurality of devices, a home server configured to control a home server connected with a plurality of devices, a first device corresponding to a new device, and a second device of a root user connected with the home domain while authentication is completed in the home server. In this case, the first device loads cryptographic material of the cloud server from the cloud server in a pre-deployment stage, the cryptographic material includes at least one selected from the group consisting of an identifier of the first device in the cloud server, a first private key of an ID-based cryptography",
+        "citations": 8
+    },
+    {
+        "title": "SNUSE: A secure computation approach for large-scale user re-enrollment in biometric authentication systems",
+        "id": "2ITEX20AAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Karim Eldefrawy",
+            "Tancrede Lepoint"
+        ],
+        "pub_source": "Future Generation Computer Systems",
+        "pub_date": "2019/9/1",
+        "description": "Recent years have witnessed an increasing demand for biometrics based identification, authentication and access control (BIA) systems, which offer convenience, ease of use, and (in some cases) improved security. In contrast to other methods, such as passwords or pins, BIA systems face new unique challenges; chiefly among them is ensuring long-term confidentiality of biometric data stored in backends, as such data has to be secured for the lifetime of an individual. Cryptographic approaches such as Fuzzy Extractors (FE) and Fuzzy Vaults (FV) have been developed to address this challenge. FE/FV do not require storing any biometric data in backends, and instead generate and store helper data that enables BIA when a new biometric reading is supplied. Security of FE/FV ensures that an adversary obtaining such helper data cannot (efficiently) learn the biometric. Relying on such cryptographic approaches\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "PURE: Using Verified Remote Attestation to Obtain Proofs of Update, Reset and Erasure in Low-End Embedded Systems",
+        "id": "2ITEX20AAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Karim Eldefrawy",
+            "Norrathep Rattanavipanon",
+            "Gene Tsudik"
+        ],
+        "pub_source": "IEEE/ACM ICCAD",
+        "pub_date": "2019",
+        "citations": 20
+    },
+    {
+        "title": "VRASED: A Verified Hardware/Software Co-Design for Remote Attestation",
+        "id": "2ITEX20AAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Karim Eldefrawy",
+            "Norrathep Rattanavipanon",
+            "Michael Steiner",
+            "Gene Tsudik"
+        ],
+        "pub_source": "USENIX Security",
+        "pub_date": "2019",
+        "citations": 154
+    },
+    {
+        "title": "Towards Systematic Design of Collective Remote Attestation Protocols",
+        "id": "2ITEX20AAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Ghada Dessouky",
+            "Ahmad Ibrahim",
+            "Norrathep Rattanavipanon",
+            "Ahmad-Reza Sadeghi",
+            "Gene Tsudik"
+        ],
+        "pub_source": "IEEE ICDCS",
+        "pub_date": "2019",
+        "description": "Networks of and embedded (IoT) devices are becoming increasingly popular, particularly, in settings such as smart homes, factories and vehicles. These networks can include numerous (potentially diverse) devices that collectively perform certain tasks. In order to guarantee overall safety and privacy, especially in the face of remote exploits, software integrity of each device must be continuously assured. This can be achieved by Remote Attestation (RA) - a security service for reporting current software state of a remote and untrusted device. While RA of a single device is well understood, collective RA of large numbers of networked embedded devices poses new research challenges. In particular, unlike single-device RA, collective RA has not benefited from any systematic treatment. Thus, unsurprisingly, prior collective RA schemes are designed in an ad hoc fashion. Our work takes the first step toward systematic\u00a0\u2026",
+        "citations": 27
+    },
+    {
+        "title": "KRB-CCN: Lightweight Authentication & Access Control for Private Content-Centric Networks",
+        "id": "2ITEX20AAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Ivan O Nunes",
+            "Gene Tsudik"
+        ],
+        "pub_source": "(ACNS) International Conference on Applied Cryptography and Network Security",
+        "pub_date": "2018/4/11",
+        "description": "Content-Centric Networking (CCN) is an internetworking paradigm that offers an alternative to today\u2019s IP-based Internet Architecture. Instead of focusing on hosts and their locations, CCN emphasizes addressable named content. By decoupling content from its location, CCN allows opportunistic in-network content caching, thus enabling better network utilization, at least for scalable content distribution. However, in order to be considered seriously, CCN must support basic security services, including content authenticity, integrity, confidentiality, authorization and access control. Current approaches rely on content producers to perform authorization and access control, which is typically attained via public key encryption. This general approach has several disadvantages. First, consumer privacy vis-a-vis producers is not preserved. Second, identity management and access control impose high computational\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Secure non-interactive user re-enrollment in biometrics-based identification and authentication systems",
+        "id": "2ITEX20AAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Ivan De Oliveira Nunes",
+            "Karim Eldefrawy",
+            "Tancrede Lepoint"
+        ],
+        "pub_source": "Cyber Security Cryptography and Machine Learning: Second International Symposium, CSCML 2018, Beer Sheva, Israel, June 21\u201322, 2018, Proceedings 2",
+        "pub_date": "2018",
+        "description": "Recent years have witnessed an increase in demand for biometrics based identification, authentication and access control (BIA) systems, which offer convenience, ease of use, and (in some cases) improved security. In contrast to other methods, such as passwords or pins, BIA systems face new unique challenges; chiefly among them is ensuring long-term confidentiality of biometric data stored in backends, as such data has to be secured for the lifetime of an individual. Cryptographic approaches such as Fuzzy Extractors (FE) and Fuzzy Vaults (FV) have been developed to address this challenge. FE/FV do not require storing any biometric data in backends, and instead generate and store helper data that enables BIA when a new biometric reading is supplied. Security of FE/FV ensures that an adversary obtaining such helper data cannot (efficiently) learn the biometric. Relying on such cryptographic\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Combining Spatial and Social Awareness in D2D Opportunistic Routing",
+        "id": "2ITEX20AAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Ivan O Nunes",
+            "Clayson Celes",
+            "Igor Nunes",
+            "Pedro OS Vaz de Melo",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "IEEE Communications Magazine",
+        "pub_date": "2018/1",
+        "description": "Social-aware algorithms have marked themselves as the most successful strategies for cost-effective content delivery in mobile opportunistic networks. However, these strategies do not consider the importance of users' geographical locations or the spatial properties of human mobility. Given this fact, in this work we propose to combine spatial and social properties to improve the cost effectiveness of content delivery in opportunistic device-to-device networks. We leverage and describe four spatial and social properties and characterize them in a real-world dataset. As a proof of concept of employing those properties, we propose SAMPLER, a forwarding algorithm that combines social awareness, points of interest within a region, and users' individual mobility patterns to cost-effectively deliver messages in opportunistic device-to-device networks. We compare SAMPLER to the state-of-the-art social-aware algorithm\u00a0\u2026",
+        "citations": 31
+    },
+    {
+        "title": "GROUPS-NET: Group Meetings Aware Routing in Multi-Hop D2D Networks",
+        "id": "2ITEX20AAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Ivan O Nunes",
+            "Clayson Celes",
+            "Pedro OS de Melo",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "Computer Networks",
+        "pub_date": "2017/11",
+        "description": "Device-to-device (D2D) communication will allow direct transmission between nearby mobile devices in the next generation cellular networks. A fundamental problem in multi-hop D2D networks is the design of forwarding algorithms that achieve, at the same time, high delivery ratio and low network overhead. In this work, we study group meetings\u2019 properties by looking at their structure and regularity with the goal of applying such knowledge in the design of a forwarding algorithm for D2D multi-hop networks. We introduce a forwarding protocol, namely GROUPS-NET, which is aware of social group meetings and their evolution over time. Our algorithm is parameter-calibration free and does not require any knowledge about the social network structure of the system. In particular, different from the state of the art algorithms, GROUPS-NET does not need communities\u2019 detection, which is a complex and expensive task\u00a0\u2026",
+        "citations": 17
+    },
+    {
+        "title": "GRM: Group Regularity Mobility Model",
+        "id": "2ITEX20AAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Ivan O Nunes",
+            "Clayson Celes",
+            "Michael D Silva",
+            "Pedro OS de Melo",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "ACM MSWIM",
+        "pub_date": "2017/6/24",
+        "description": "In this work we propose, implement, and evaluate Group Regularity Model (GRM), a novel mobility model that accounts for the role of group meetings regularity in human mobility. We show that existing mobility models for humans do not capture the regularity of human group meetings present in real mobility traces. We characterize the statistical properties of such group meetings in real mobility traces and design GRM accordingly. We show that GRM maintains the typical pairwise contact properties of real traces, such as contact duration and inter-contact time distributions. In addition, GRM accounts for the role of group mobility, presenting group meetings regularity and social communities' structure. Finally, we evaluate state-of-art social-aware protocols for opportunistic routing and show that their performance in synthetic traces generated by GRM is similar to their performance in real-world traces.",
+        "citations": 23
+    },
+    {
+        "title": "Namespace Tunnels in Content-Centric Networks",
+        "id": "2ITEX20AAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Ivan O Nunes",
+            "Gene Tsudik",
+            "Christopher A Wood"
+        ],
+        "pub_source": "42nd IEEE Conference on Local Computer Networks (LCN)",
+        "pub_date": "2017",
+        "description": "Content-Centric Networking (CCN) is a candidate next-generation Internet architecture that offers an alternative to the current IP-based model. CCN emphasizes scalable and efficient content distribution by making content explicitly named and addressable. It also offers some appealing privacy features, such as lack of source and destination addresses in packets. However, to be considered a fully viable Internet architecture, CCN must support private and anonymous communication that is at least on par with IP. Within this space, a VPN is an important and popular tool that enables users to communicate across insecure public networks as if they were connected over a private network. At present, VPN support is also absent from the repertoire of CCN research. To fill this void, we design, implement and evaluate CCVPN - a content-centric analog to IP-based VPNs of the current Internet architecture. To the best of our\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Big Data Analytics no Projeto de Redes M\u00f3veis: Modelos, Protocolos e Aplica\u00e7\u00f5es",
+        "id": "2ITEX20AAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Clayson Celes",
+            "Ivan O Nunes",
+            "Joao B Borges Neto",
+            "Fabr\u00edcio A Silva",
+            "Leonardo Cotta",
+            "Pedro O de Melo",
+            "Heitor S Ramos Filho",
+            "Rossana MC Andrade",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "SBC",
+        "pub_date": "2017",
+        "citations": 3
+    },
+    {
+        "title": "ST-Drop: A Novel Buffer Management Strategy for D2D Opportunistic Networks",
+        "id": "2ITEX20AAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Michael D Silva",
+            "Ivan O Nunes",
+            "Raquel AF Mini",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "22nd IEEE Symposium on Computers and Communications",
+        "pub_date": "2017",
+        "description": "In D2D opportunistic networks, nodes need to cooperate acting as relays for transmitting messages to other nodes according to an opportunistic routing algorithm. To store these messages until they are propagated, each node uses a buffer with limited capacity. However, when multiple messages are forwarded in the network, the number of incoming messages may exceed the nodes' capacity, causing a buffer overflow. In this scenario, message dropping policies are very important to this problem, because when a message is dropped, there is a chance that other copies of this message still exist in the network. In this work, we propose a new buffer management algorithm for opportunistic routing in D2D networks named ST-Drop (Space-Time-Drop). We have evaluated our solution in three different types of opportunistic routing algorithms: epidemic-based, probabilistic, and social-aware. We have conducted\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "ST-Drop: Uma Nova Estrat\u00e9gia de Gerenciamento de Buffer em Redes Oportunistas D2D",
+        "id": "2ITEX20AAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Michael D Silva",
+            "Ivan O Nunes",
+            "Raquel AF Mini",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "35th SBRC",
+        "pub_date": "2017",
+        "description": "In D2D opportunistic networks, nodes act as relays for transmitting messages to other nodes according to an opportunistic routing algorithm. In this scenario, each node uses a buffer with limited capacity to store these messages temporarily until they are propagated to a neighbor node according to an opportunistic routing protocol. However, when multiple messages are forwarded in the network, the number of incoming messages may exceed the nodes\u2019 capacity, causing a buffer overflow. Therefore, message dropping policies are very important to this problem, because when a message is dropped, there is a chance that other copies of this message still exist in the network. This work proposes a new buffer management algorithm for opportunistic routing in D2D networks named ST-Drop (Space-Time-Drop). We evaluate our solution in three different types of opportunistic routing algorithms: epidemic-based, probabilistic, and social-aware. We conduct simulations using two different publicly available data sources and consider different network traffic loads. Compared to other message drop policies, ST-Drop obtained the highest message delivery ratio in all considered scenarios and the lowest overhead when applied to the state-of-art social-aware and probabilistic routing algorithms, namely, Bubble Rap and Prophet.Resumo. Em redes oportunistas D2D, os n\u00f3s funcionam como intermediadores na transmissao de mensagens. Nesse cen\u00e1rio, cada n\u00f3 da rede usa um buffer de mem\u00f3ria limitada para armazenar mensagens temporariamente at\u00e9 serem encaminhadas para um n\u00f3 vizinho de acordo com um algoritmo de roteamento oportun\u0131stico\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Aot: Authentication and access control for the entire iot device life-cycle",
+        "id": "2ITEX20AAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Antonio L Maia Neto",
+            "Artur LF Souza",
+            "Italo Cunha",
+            "Michele Nogueira",
+            "Ivan Oliveira Nunes",
+            "Leonardo Cotta",
+            "Nicolas Gentille",
+            "Antonio AF Loureiro",
+            "Diego F Aranha",
+            "Harsh Kupwade Patil",
+            "Leonardo B Oliveira"
+        ],
+        "pub_source": "ACM SenSys",
+        "pub_date": "2016/11/14",
+        "description": "The consumer electronics industry is witnessing a surge in Internet of Things (IoT) devices, ranging from mundane artifacts to complex biosensors connected across disparate networks. As the demand for IoT devices grows, the need for stronger authentication and access control mechanisms is greater than ever. Legacy authentication and access control mechanisms do not meet the growing needs of IoT. In particular, there is a dire need for a holistic authentication mechanism throughout the IoT device life-cycle, namely from the manufacturing to the retirement of the device. As a plausible solution, we present Authentication of Things (AoT), a suite of protocols that incorporate authentication and access control during the entire IoT device life span. Primarily, AoT relies on Identity- and Attribute-Based Cryptography to cryptographically enforce Attribute-Based Access Control (ABAC). Additionally, AoT facilitates secure\u00a0\u2026",
+        "citations": 119
+    },
+    {
+        "title": "Leveraging D2D multihop communication through social group meeting awareness",
+        "id": "2ITEX20AAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Ivan O. Nunes",
+            "Pedro O. S. Vaz de Melo",
+            "Antonio A. F. Loureiro"
+        ],
+        "pub_source": "IEEE Wireless Communications",
+        "pub_date": "2016/8/26",
+        "description": "The increasing ubiquity of mobile devices with inter-connection capability has leveraged the possibility of device-to-device communication. In the next generation cellular networks, device-to-device communication is already considered a fundamental feature. A problem in multihop D2D networks is how to define forwarding algorithms that simultaneously achieve high delivery ratio and low network overhead. In the past decade, several algorithms were proposed to achieve those goals in the context of delay-tolerant networks. Among them, probabilistic and socially aware approaches have become the most successful strategies. However, existent socially aware algorithms do not account for the underlying dynamics and evolving nature of social groups, and require the ability to detect communities, which is a complex and expensive task. In this work, we introduce an opportunistic routing protocol that is aware of\u00a0\u2026",
+        "citations": 34
+    },
+    {
+        "title": "Understanding Mobility to Improve D2D Communication",
+        "id": "2ITEX20AAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Ivan Oliveira Nunes"
+        ],
+        "pub_source": "Master's Thesis",
+        "pub_date": "2016/8"
+    },
+    {
+        "title": "GROUPS-NET: Roteamento Ciente de Encontros de Grupos em Redes M\u00f3veis D2D",
+        "id": "2ITEX20AAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "Ivan Oliveira Nunes",
+            "Pedro OS Vaz de Melo",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "34th Brazilian Symposium on Computer Networks and Distributed Systems",
+        "pub_date": "2016",
+        "description": "The increasing ubiquity of mobile devices with inter-connection capability leveraged the possibility of device-to-device communication. In the next generation celular networks, device-to-device communication is already considered a fundamental feature. Outside celular communication context, such kind of mobile Ad-hoc networks are also refered as Delay Tolerant Networks (DTNs). A fundamental problem of DTNs is on how to define forwarding algorithms that achieve, at the same time, high delivery ratio and low network overhead. In the past decade, several algorithms were proposed to achieve those goals. Among them, probabilistic and social aware approaches have remarked themselves as the most succesful strategies. However, existent social aware algorithms do not account for the underneath dynamics and evolving nature of social groups. In this work, we propose a probabilistic opportunistic routing protocol which is aware of group meetings and how these meeting properties evolve over time. In large scale scenarios, our algorithm achieve approximately the same delivery ratio of state-of-art solution with up to 40% less network overhead.Resumo. A crescente ubiquidade de dispositivos m\u00f3veis com capacidade de interconexao alavancou a possibilidade de comunica\u00e7ao dispositivo-dispositivo. Na pr\u00f3xima gera\u00e7ao de comunica\u00e7ao celular, a comunica\u00e7ao dispositivodispositivo j\u00e1 \u00e9 considerada uma funcionalidade fundamental. Fora do contexto de redes celulares, esse tipo de rede Ad-hoc tamb\u00e9m \u00e9 referida como rede tolerante a atrasos (do ingl\u00eas, DTN). Um problema fundamental em DTNs est\u00e1 em como definir algoritmos de\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "AdC: um Mecanismo de Controle de Acesso para o Ciclo de Vida das Coisas Inteligentes",
+        "id": "2ITEX20AAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Antonio L Maia Neto",
+            "Artur Luis Fernandes",
+            "Italo Cunha",
+            "Michele Nogueira",
+            "Ivan Oliveira Nunes",
+            "Leonardo Cotta",
+            "Nicolas Gentille",
+            "Antonio AF Loureiro",
+            "Diego F Aranha",
+            "Harsh Kupwade Patil\u00ba",
+            "Leonardo B Oliveira"
+        ],
+        "pub_source": "SBSEG",
+        "pub_date": "2016",
+        "description": "Nesse artigo, apresentamos Autentica\u00e7\u00e3o das Coisas (AdC), um conjunto de protocolos para incorporar autentica\u00e7\u00e3o e controle de acesso para dispositivos na Internet das Coisas (IdC). O AdC emprega primitivas criptogr\u00e1ficas do estado da arte para implementar um esquema de controle de acesso adequado \u00e0 IdC. O AdC possibilita que novos dispositivos sejam adicionados \u00e0 dom\u00ednios Dom\u00e9sticos de maneira sem fio e autenticada e, al\u00e9m disso, permite que dispositivos de diferentes dom\u00ednios estabele\u00e7am uma rela\u00e7\u00e3o de confian\u00e7a, possibilitando a interopera\u00e7\u00e3o deles. Para validar nossa solu\u00e7\u00e3o, n\u00f3s desenvolvemos um prot\u00f3tipo do AdC para smartphones Android e avaliamos a execu\u00e7\u00e3o dos esquemas criptogr\u00e1ficos computacionalmente mais caros em dispositivos mais restritos.",
+        "citations": 1
+    },
+    {
+        "title": "Group mobility: Detection, tracking and characterization",
+        "id": "2ITEX20AAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Ivan Oliveira Nunes",
+            "Pedro OS de Melo",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "2016 IEEE International Conference on Communications (ICC)",
+        "pub_date": "2016",
+        "description": "In the era of mobile computing, understanding human mobility patterns is crucial in order to better design protocols and applications. Many studies focus on different aspects of human mobility such as people's points of interests, routes, traffic, individual mobility patterns, among others. In this work, we propose to look at human mobility through a social perspective, i.e., analyze the impact of social groups in mobility patterns. We use the MIT Reality Mining proximity trace to detect, track and investigate group's evolution throughout time. Our results show that group meetings happen in a periodical fashion and present daily and weekly periodicity. We analyze how groups' dynamics change over day hours and find that group meetings lasting longer are those with less changes in members composition and with members having stronger social bonds with each other. Our findings can be used to propose meeting\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Deployment of a Robotic Soccer Team Using a Multilayered Control Architecture",
+        "id": "2ITEX20AAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Igor O Nunes",
+            "Marcos VC Couto",
+            "Leonardo S Paulucio",
+            "Guilherme A Santos",
+            "Thaylo X Freitas",
+            "Douglas F Tavares",
+            "Tadeu A Hastenreiter",
+            "Ivan O Nunes"
+        ],
+        "pub_source": "Team Description Papers - Latin American Robotics Competition 2015",
+        "pub_date": "2015/7",
+        "description": "Very Small Size Soccer is an important category of Latin American Robotics Competion (LARC) due to the wide range of challenges within mobile autonomous robotics technologies that it comprizes. In this paper, we decribe the recent advancements of ERUS VSSS team towards our second participaion in LARC. In our previous work, we proposed a multi-layered control strategy for the robot soccer team deployment. In the initial version we had three layers. The highest layer corresponded to the decisor of the soccer strategies (eg, dribble, pass, shoot). The middle control layer used a video camera, as feedback, to capture positions and angles and Lyapunov multi-variable control to set robots trajectories. The lowest level of control implemented a PID controller to set the robot wheels velocity, using Arduino prototyping platform to control and optical encoders as feedback. In the present work we deeply describe the implementation of architectural elements proposed in our last work as well as new improvements proposed in the current year. The final goal of this project is to build a team to compete in the Latin American Robotics Competition 2015, IEEE Very Small Soccer Size category",
+        "citations": 4
+    },
+    {
+        "title": "Fault Tolerance in Strongly Minimum Energy Topology with MLD: A Distributed, Energy Efficient yet Simple Protocol",
+        "id": "2ITEX20AAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Ivan Oliveira Nunes",
+            "Luiz Filipe M Vieira",
+            "Antonio AF Loureiro"
+        ],
+        "pub_source": "Proceedings of XXXIII Brazilian Symposium on Computer Networks and Distributed Systems - XVI Workshop in Fault Tolerance and Testing, 2015.",
+        "pub_date": "2015",
+        "description": "Wireless Sensor Networks (WSN) have been the subject of extensive research due to their wide range of applications. A sensor node should have the longest lifetime possible, since we need to build a system that performs its functions effectively and, at the same time, spends the least amount of energy, allowing the battery to last longer. One of the functions that consumes more energy in a WSN is the wireless data transmission. In this context, it becomes interesting to determine a setting of transmission powers for the network sensor nodes so the network remains connected while nodes\u2019 transmission powers remain minimum. The problem of minimizing the total energy consumption in a network is known in the literature as Strongly Minimum Energy Topology (SMET) and its decision version is known to be an NP-Complete problem. In this work, we evaluate the cost of adding fault tolerance through redundant paths to the SMET Minimum Spanning Tree (MST) topology, creating a redundant MST, a non-practical fault tolerant baseline algorithm. Next, we propose a practical redundant algorithm, Minimum Link Degree (MLD), which does not need any localization information and can be implemented in a distributed fashion. Our results show that the MLD topology is a promising approach, performing better than the redundant MST with respect to number of survived nodes\u2019 faults.",
+        "citations": 2
+    },
+    {
+        "title": "Designing a low cost home wsn for remote energy monitoring and eletronic devices control",
+        "id": "2ITEX20AAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Ivan Oliveira Nunes",
+            "Magnos Martinello",
+            "Ant\u00f4nio AF Loureiro"
+        ],
+        "pub_source": "Proceedings of the Brazilian Symposium on Computer Networks and Distributed Systems-Workshop on Communications of Critical Embedded Systems",
+        "pub_date": "2015",
+        "description": "This paper presents the design of a prototype embedded wireless sensor network (WSN) for monitoring and controlling electronic devices in a household. This sensor network is used to measure the devices\u2019 electrical energy consumption and turn them on or off. In this specific case the goal is to reduce the energy consumption, but the proposed design methodology can be used to build low cost WSNs to perform other kinds of tasks. The system provides a web user interface and a mobile phone application that allows the user to access energy consumption readings and control the devices from anywhere in the world through the Internet. The proposed architecture consists of two types of nodes: central and sensors. The central node has two roles: master controller of the WSN and web server to answer user requests about energy consumption or change the state in a given electronic device. The sensor nodes measure the energy consumption of power outlets and turn them on or off as commanded by the user.",
+        "citations": 1
+    },
+    {
+        "title": "Monitoramento do Consumo de Energia e Acionamento Remoto de Equipamentos por Meio de Redes de Sensores Sem Fio",
+        "id": "2ITEX20AAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Ivan Oliveira Nunes"
+        ],
+        "pub_source": "Bachelor Thesis",
+        "pub_date": "2014/7"
+    },
+    {
+        "title": "Multi-layered control applied to autonomous robot soccer",
+        "id": "2ITEX20AAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Ivan O Nunes",
+            "Thaylo X Freitas",
+            "Igor O Nunes",
+            "MV Couto",
+            "Jackson W Brito",
+            "Leonardo S Paulucio"
+        ],
+        "pub_source": "IEEE Latin American Robotics Competition",
+        "pub_date": "2014",
+        "description": "This paper proposes a multi-layered control strategy for deployment of an autonomous robot soccer team. The highest level of control corresponds to the decider of the soccer strategies (Ig, dribble, pass, shoot), to be defined with artificial intelligence algorithms and based on the state of the soccer game. Middle level controller uses a video camera, as feedback, to capture positions and angles and Lyapunov multivariable control technique calculate necessary wheels\u2019 speed in order to get the agents to desired positions, angles and speeds. The lowest level of control implements a PID (Propotional, Integral, Derivative) controller, using Arduino microcontroller platform and optical encoder sets, to output motors\u2019 voltage according to the wheels\u2019 speed determined in the middle level control. The hardware contruction and software implementation are also described. The final goal of this project is to build a team to compete in the Latin American Robotics Competition 2014, IEEE Very Small Soccer Size category.",
+        "citations": 5
+    },
+    {
+        "title": "Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o: Uma Nova Abordagem Usando C",
+        "id": "2ITEX20AAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Fl\u00e1vio Varej\u00e3o"
+        ],
+        "pub_source": "Elsevier Brasil",
+        "pub_date": "2014",
+        "description": "Computa\u00e7\u00e3o \u00e9 um mecanismo essencial para as mais diversas atividades do nosso cotidiano. Programa\u00e7\u00e3o \u00e9 a base fundamental para a constru\u00e7\u00e3o das ferramentas da computa\u00e7\u00e3o. O objetivo deste livro \u00e9 ensinar os conceitos b\u00e1sicos de programa\u00e7\u00e3o utilizando como ferramenta de programa\u00e7\u00e3o a linguagem C, uma das mais usadas e importantes linguagens de programa\u00e7\u00e3o. O livro foca, desde o seu princ\u00edpio nas t\u00e9cnicas de modulariza\u00e7\u00e3o por fun\u00e7\u00f5es e por tipos abstratos de dados e minimiza a necessidade de conhecimento da arquitetura interna de computadores. Mais importante, o livro procura passar a mensagem ao leitor de que ele deve pensar e projetar uma solu\u00e7\u00e3o para a problema de programa\u00e7\u00e3o antes de efetivamente come\u00e7ar a programar sua solu\u00e7\u00e3o na linguagem de programa\u00e7\u00e3o.",
+        "citations": 4
+    },
+    {
+        "title": "Remote Energy Measurement and Control of Electronic Devices With Wireless Sensor Networks",
+        "id": "2ITEX20AAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "IO Nunes",
+            "M Martinello",
+            "AAF Loureiro"
+        ],
+        "pub_source": "Proceedings of the Brazilian Symposium on Computing Systems Engineering' 2014.",
+        "pub_date": "2014"
+    },
+    {
+        "title": "An\u00e1lise Quantitativa baseada em Medi\u00e7\u00f5es de Sistemas P2P para Video Streaming",
+        "id": "2ITEX20AAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Jos\u00e9 Alexandre Macedo",
+            "Ivan de Oliveira Nunes",
+            "Ebenezer Nogueira da Silva",
+            "Alan Silva da Paz Floriano",
+            "Roberta Lima Gomes",
+            "Magnos Martinello"
+        ],
+        "pub_source": "WP2P - SBRC",
+        "pub_date": "2012",
+        "description": "O uso de sistemas P2P Video Streaming tem se tornado cada vez mais popular na Internet. Esta popularidade decorre de diversas vantagens apresentadas por estes sistemas como economia na banda de transmiss\u00e3o nos servidores e ganhos em escalabilidade. Entretanto, comprovar efetivamente os ganhos em sistemas reais \u00e9 um desafio importante e que poucos trabalhos t\u00eam dado aten\u00e7\u00e3o na literatura. A proposta desse artigo \u00e9 analisar dois sistemas de P2P Video Streaming baseado em medi\u00e7\u00f5es efetuadas experimentalmente de modo a quantificar i) a economia de banda no servidor e ii) a qualidade de experi\u00eancia percebida pelos usu\u00e1rios. Com este prop\u00f3sito, os sistemas SopCast e Goalbit foram escolhidos, implantados e avaliados no ambiente configurado. Os resultados obtidos mostram economia de banda elevada nos dois sistemas, sendo que o Goalbit obteve o melhor resultado para poucos clientes, enquanto o SopCast foi superior com um n\u00famero elevado de clientes. A qualidade de experi\u00eancia foi sutilmente superior no Goalbit, por\u00e9m em uma rede congestionada o SopCast obteve melhor desempenho.Abstract. The use of P2P Video Streaming systems has increasingly becoming popular. This popularity stems from several advantages presented by this systems as economies in servers transmission bandwidth and improvements in scalability. However, effectively demonstrate the gains, in real systems, is a major challenge that few studies have given attention in the literature. The objective of this paper is to analyze two P2P Video Streaming systems based on experimental measurements performed in order to quantify i\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "2023 IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS)| 979-8-3503-2176-0/23/$31.00\u00a9 2023 IEEE| DOI: 10.1109/RTAS58335. 2023.00041",
+        "id": "2ITEX20AAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=2ITEX20AAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Yasmina Abdeddaim",
+            "Sunandan Adhikary",
+            "James H Anderson",
+            "Afia Anjum",
+            "Mohsen Ansari",
+            "Abdullah Al Arafat",
+            "Joshua Bakita",
+            "Andrea Bastoni",
+            "Michael Bechtel",
+            "Matthias Becker",
+            "Alessandro Biasci",
+            "Alessandro Biondi",
+            "Gedare Bloom",
+            "Marc Boyer",
+            "Bj\u00f6rn B Brandenburg",
+            "Alan Burns",
+            "Marco Caccamo",
+            "Daniel Casini",
+            "Wanli Chang",
+            "Jian-Jia Chen",
+            "Jiyang Chen",
+            "Kuan-Hsun Chen",
+            "Nan Chen",
+            "Weifan Chen",
+            "Xin Chen",
+            "Albert Mo Kim Cheng",
+            "Hyunjong Choi",
+            "Ivan Cibrario Bertolotti",
+            "Cedric Courtaud",
+            "Liliana Cucu-Grosjean",
+            "Jeremy Daily",
+            "Chiara Daini",
+            "Dakshina Dasari",
+            "Qingxu Deng",
+            "Ivan De Oliveira Nunes",
+            "Mourad Dridi",
+            "Kailu Duan",
+            "Alireza Ejlali",
+            "Mohammed Elbtity",
+            "Gerion Entrup",
+            "Bj\u00f6rn Fiedler",
+            "Anna Friebe",
+            "Adriana Gogonel",
+            "Pourya Gohari-Nazari",
+            "Ian Gray",
+            "Nan Guan",
+            "Mario G\u00fcnzel",
+            "Zhishan Guo",
+            "Taeho Han",
+            "J\u00f6rg Henkel",
+            "Sena Hounsinou",
+            "Tao Hu",
+            "Tingting Hu",
+            "Omolade Ikumapayi",
+            "Siyuan Ji",
+            "Xu Jiang",
+            "Antonio Joia Neto",
+            "Anirudh Kaushik",
+            "Heba Khdr",
+            "Hyoseung Kim",
+            "Kanghee Kim",
+            "Tomasz Kloda",
+            "Ipsita Koley",
+            "Fanxin Kong",
+            "Kossivi Kougblenou",
+            "Jean-Yves Le Boudec",
+            "Insup Lee",
+            "Laiwen Li",
+            "Ruoxiang Li",
+            "Xisheng Li",
+            "Ching-Chi Lin"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Author Index Toggle navigation IEEE Computer Society Digital Library Jobs Tech News \nResource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE \nComputer Society Digital Library My Subscriptions Magazines Journals Conference Proceedings \nInstitutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News Resource Center \nPress Room Advertising About Us Cart All Advanced Search Conference Cover Image \nDownload 1.Home 2.Proceedings 3.rtas 2023 Author Index 2023, pp. 359-360, DOI Bookmark: \n10.1109/RTAS58335.2023.00041 Keywords Authors Author IndexAbdeddaim, Yasmina \n337Adhikary, Sunandan 345Anderson, James H. 54Anjum, Afia 353Ansari, Mohsen 223Arafat, \nAbdullah Al 67Bakita, Joshua 54Bastoni, Andrea 235Bechtel, Michael 198Becker, Matthias \n289Ben Amor, Slim 333Biasci, Alessandro 316Biondi, Alessandro 316Bloom, Gedare 349Boyer, \u2026"
+    }
+]

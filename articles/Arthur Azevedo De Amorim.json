@@ -1,0 +1,574 @@
+[
+    {
+        "title": "Domain Reasoning in TopKAT",
+        "id": "dZYdFBgAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Cheng Zhang",
+            "Arthur Azevedo de Amorim",
+            "Marco Gaboardi"
+        ],
+        "pub_source": "arXiv preprint arXiv:2404.18417",
+        "pub_date": "2024/4/29",
+        "description": "TopKAT is the algebraic theory of Kleene algebra with tests (KAT) extended with a top element. Compared to KAT, one pleasant feature of TopKAT is that, in relational models, the top element allows us to express the domain and codomain of a relation. This enables several applications in program logics, such as proving under-approximate specifications or reachability properties of imperative programs. However, while TopKAT inherits many pleasant features of KATs, such as having a decidable equational theory, it is incomplete with respect to relational models. In other words, there are properties that hold true of all relational TopKATs but cannot be proved with the axioms of TopKAT. This issue is potentially worrisome for program-logic applications, in which relational models play a key role. In this paper, we further investigate the completeness properties of TopKAT with respect to relational models. We show that TopKAT is complete with respect to (co)domain comparison of KAT terms, but incomplete when comparing the (co)domain of arbitrary TopKAT terms. Since the encoding of under-approximate specifications in TopKAT hinges on this type of formula, the aforementioned incompleteness results have a limited impact when using TopKAT to reason about such specifications."
+    },
+    {
+        "title": "Kleene algebra with commutativity conditions is undecidable",
+        "id": "dZYdFBgAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "Marco Gaboardi",
+            "Cheng Zhang"
+        ],
+        "pub_source": "",
+        "pub_date": "2024/4/5",
+        "description": "We prove that the equational theory of Kleene algebra with commutativity   conditions on atomic terms is undecidable, thereby settling a longstanding   open question in the theory of Kleene algebra.  In fact, we show that this   undecidability result holds even if we drop the induction and    right unfolding axioms of Kleene algebra, which leads to    a simpler equational theory.  This complements a recent result of    Kuznetsov, who independently established a   similar undecidability result, but relying on the full power of induction."
+    },
+    {
+        "title": "SECOMP: Formally Secure Compilation of Compartmentalized C Programs",
+        "id": "dZYdFBgAAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "J\u00e9r\u00e9my Thibault",
+            "Roberto Blanco",
+            "Dongjae Lee",
+            "Sven Argo",
+            "Arthur Azevedo de Amorim",
+            "A\u00efna Linn Georges",
+            "Catalin Hritcu",
+            "Andrew Tolmach"
+        ],
+        "pub_source": "arXiv preprint arXiv:2401.16277",
+        "pub_date": "2024/1/29",
+        "description": "Undefined behavior in C often causes devastating security vulnerabilities. One practical mitigation is compartmentalization, which allows developers to structure large programs into mutually distrustful compartments with clearly specified privileges and interactions. In this paper we introduce SECOMP, a compiler for compartmentalized C code that comes with machine-checked proofs guaranteeing that the scope of undefined behavior is restricted to the compartments that encounter it and become dynamically compromised. These guarantees are formalized as the preservation of safety properties against adversarial contexts, a secure compilation criterion similar to full abstraction, and this is the first time such a strong criterion is proven for a mainstream programming language. To achieve this we extend the languages of the CompCert verified C compiler with isolated compartments that can only interact via procedure calls and returns, as specified by cross-compartment interfaces. We adapt the passes and optimizations of CompCert as well as their correctness proofs to this compartment-aware setting. We then use compiler correctness as an ingredient in a larger secure compilation proof that involves several proof engineering novelties, needed to scale formally secure compilation up to a C compiler."
+    },
+    {
+        "title": "Pipelines and Beyond: Graph Types for ADTs with Futures",
+        "id": "dZYdFBgAAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Francis Rinaldi",
+            "june wunder",
+            "Arthur Azevedo de Amorim",
+            "Stefan K Muller"
+        ],
+        "pub_source": "Proceedings of the ACM on Programming Languages",
+        "pub_date": "2024/1/5",
+        "description": "Parallel programs are frequently modeled as dependency or cost graphs, which can be used to detect various bugs, or simply to visualize the parallel structure of the code. However, such graphs reflect just one particular execution and are typically constructed in a post-hoc manner. Graph types, which were introduced recently to mitigate this problem, can be assigned statically to a program by a type system and compactly represent the family of all graphs that could result from the program. Unfortunately, prior work is restricted in its treatment of futures, an increasingly common and especially dynamic form of parallelism. In short, each instance of a future must be statically paired with a vertex name. Previously, this led to the restriction that futures could not be placed in collections or be used to construct data structures. Doing so is not a niche exercise: such structures form the basis of numerous algorithms that use\u00a0\u2026"
+    },
+    {
+        "title": "Bunched Fuzz: Sensitivity for Vector Metrics",
+        "id": "dZYdFBgAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "June Wunder",
+            "Arthur Azevedo de Amorim",
+            "Patrick Baillot",
+            "Marco Gaboardi"
+        ],
+        "pub_source": "European Symposium on Programming",
+        "pub_date": "2023/4/17",
+        "description": "Program sensitivity measures the distance between the outputs of a program when run on two related inputs. This notion, which plays a key role in areas such as data privacy and optimization, has been the focus of several program analysis techniques introduced in recent years. Among the most successful ones, we can highlight type systems inspired by linear logic, as pioneered by Reed and Pierce in the Fuzz programming language. In Fuzz, each type is equipped with its own distance, and sensitivity analysis boils down to type checking. In particular, Fuzz features two product types, corresponding to two different notions of distance: the tensor product combines the distances of each component by adding them, while the with product takes their maximum. In this work, we show that these products can be generalized to arbitrary Lp distances, metrics that are often used in privacy and optimization. The original Fuzz products, tensor and with, correspond to the special cases L1 and L\u221e. To ease the handling of such products, we extend the Fuzz type system with bunches\u2014as in the logic of bunched implications\u2014where the distances of different groups of variables can be combined using different Lp distances. We show that our extension can be used to reason about quantitative properties of probabilistic programs.",
+        "citations": 1
+    },
+    {
+        "title": "Bunched Fuzz: Sensitivity for Vector Metrics",
+        "id": "dZYdFBgAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "Patrick Baillot",
+            "Marco Gaboardi"
+        ],
+        "pub_source": "Lecture notes in computer science",
+        "pub_date": "2023/4",
+        "description": "Program sensitivity measures the distance between the outputs of a program when run on two related inputs. This notion, which plays a key role in areas such as data privacy and optimization, has been the focus of several program analysis techniques introduced in recent years. Among the most successful ones, we can highlight type systems inspired by linear logic, as pioneered by Reed and Pierce in the Fuzz programming language. In Fuzz, each type is equipped with its own distance, and sensitivity analysis boils down to type checking. In particular, Fuzz features two product types, corresponding to two different notions of distance: the tensor product combines the distances of each component by adding them, while the with product takes their maximum. In this work, we show that these products can be generalized to arbitrary Lp distances, metrics that are often used in privacy and optimization. The original Fuzz products, tensor and with, correspond to the special cases L1 and L\u221e. To ease the handling of such products, we extend the Fuzz type system with bunches\u2014as in the logic of bunched implications\u2014where the distances of different groups of variables can be combined using different Lp distances. We show that our extension can be used to reason about quantitative properties of probabilistic programs."
+    },
+    {
+        "title": "On Pitts' Relational Properties of Domains",
+        "id": "dZYdFBgAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Arthur Azevedo de Amorim"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2022/7",
+        "description": "Andrew Pitts' framework of relational properties of domains is a powerful method for defining predicates or relations on domains, with applications ranging from reasoning principles for program equivalence to proofs of adequacy connecting denotational and operational semantics. Its main appeal is handling recursive definitions that are not obviously well-founded: as long as the corresponding domain is also defined recursively, and its recursion pattern lines up appropriately with the definition of the relations, the framework can guarantee their existence. Pitts' original development used the Knaster-Tarski fixed-point theorem as a key ingredient. In these notes, I show how his construction can be seen as an instance of other key fixed-point theorems: the inverse limit construction, the Banach fixed-point theorem and the Kleene fixed-point theorem. The connection underscores how Pitts' construction is intimately tied to\u00a0\u2026"
+    },
+    {
+        "title": "On incorrectness logic and Kleene algebra with top and tests",
+        "id": "dZYdFBgAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Cheng Zhang",
+            "Arthur Azevedo de Amorim",
+            "Marco Gaboardi"
+        ],
+        "pub_source": "Proceedings of the ACM on Programming Languages",
+        "pub_date": "2022/1/11",
+        "description": "Kleene algebra with tests (KAT) is a foundational equational framework for reasoning about programs, which has found applications in program transformations, networking and compiler optimizations, among many other areas. In his seminal work, Kozen proved that KAT subsumes propositional Hoare logic, showing that one can reason about the (partial) correctness of while programs by means of the equational theory of KAT.   In this work, we investigate the support that KAT provides for reasoning about incorrectness, instead, as embodied by O'Hearn's recently proposed incorrectness logic. We show that KAT cannot directly express incorrectness logic. The main reason for this limitation can be traced to the fact that KAT cannot express explicitly the notion of codomain, which is essential to express incorrectness triples. To address this issue, we study Kleene Algebra with Top and Tests (TopKAT), an extension of\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Learning Assumptions for Verifying Cryptographic Protocols Compositionally",
+        "id": "dZYdFBgAAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Zichao Zhang",
+            "Arthur Azevedo de Amorim",
+            "Limin Jia",
+            "Corina P\u0103s\u0103reanu"
+        ],
+        "pub_source": "Formal Aspects of Component Software: 17th International Conference, FACS 2021, Virtual Event, October 28\u201329, 2021, Proceedings 17",
+        "pub_date": "2021",
+        "description": "Automated analysis tools for cryptographic protocols can verify sophisticated designs, but lack compositionality. To address this limitation, we investigate the use of automata learning for verifying authentication protocols in an automatic and compositional way. We present Taglierino, a tool for synthesizing specifications for protocol components and checking them in isolation. The specifications can aid the design of protocol variants and speed up verification. Taglierino includes a domain-specific language for protocols, which are compiled to automata and analyzed with the LTSA model checker extended with automata learning. We demonstrate the tool on a series of case studies, including the Needham-Schroeder, Woo-Lam, and Kerberos protocols."
+    },
+    {
+        "title": "Netter: Probabilistic, stateful network models",
+        "id": "dZYdFBgAAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Han Zhang",
+            "Chi Zhang",
+            "Arthur Azevedo de Amorim",
+            "Yuvraj Agarwal",
+            "Matt Fredrikson",
+            "Limin Jia"
+        ],
+        "pub_source": "Verification, Model Checking, and Abstract Interpretation: 22nd International Conference, VMCAI 2021, Copenhagen, Denmark, January 17\u201319, 2021, Proceedings 22",
+        "pub_date": "2021",
+        "description": "We study the problem of using probabilistic network models to formally analyze their quantitative properties, such as the effect of different load-balancing strategies on the long-term traffic on a server farm. Compared to prior work, we explore a different design space in terms of tradeoffs between model expressiveness and analysis scalability, which we realize in a language we call Netter. Netter code is compiled to probabilistic automata, undergoing optimization passes to reduce the state space of the generated models, thus helping verification scale. We evaluate Netter on several case studies, including a probabilistic load balancer, a routing scheme reminiscent of MPLS, and a network defense mechanism against link-flooding attacks. Our results show that Netter can analyze quantitative properties of interesting routing schemes that prior work hadn\u2019t addressed, for networks of small size (4\u20139 nodes and\u00a0\u2026",
+        "citations": 2
+    },
+    {
+        "title": "Reconciling noninterference and gradual typing",
+        "id": "dZYdFBgAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "Matt Fredrikson",
+            "Limin Jia"
+        ],
+        "pub_source": "Proceedings of the 35th Annual ACM/IEEE Symposium on Logic in Computer Science",
+        "pub_date": "2020/7/8",
+        "description": "One of the standard correctness criteria for gradual typing is the dynamic gradual guarantee, which ensures that loosening type annotations in a program does not affect its behavior in arbitrary ways. Though natural, prior work has pointed out that the guarantee does not hold of any gradual type system for information-flow control. Toro et al.'s GSLRef language, for example, had to abandon it to validate noninterference. We show that we can solve this conflict by avoiding a feature of prior proposals: type-guided classification, or the use of type ascription to classify data. Gradual languages require run-time secrecy labels to enforce security dynamically; if type ascription merely checks these labels without modifying them (that is, without classifying data), it cannot violate the dynamic gradual guarantee. We demonstrate this idea with GLIO, a gradual type system based on the LIO library that enforces both the gradual\u00a0\u2026",
+        "citations": 16
+    },
+    {
+        "title": "Automating compositional analysis of authentication protocols",
+        "id": "dZYdFBgAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Zichao Zhang",
+            "Arthur Azevedo de Amorim",
+            "Limin Jia",
+            "Corina S Pasareanu"
+        ],
+        "pub_source": "# PLACEHOLDER_PARENT_METADATA_VALUE#",
+        "pub_date": "2020",
+        "description": "Modern verifiers for cryptographic protocols can analyze sophisticated designs automatically, but require the entire code of the protocol to operate. Compositional techniques, by contrast, allow us to verify each system component separately, against its own guarantees and assumptions about other components and the environment. Compositionality helps protocol design because it explains how the design can evolve and when it can run safely along other protocols and programs. For example, it might say that it is safe to add some functionality to a server without having to patch the client. Unfortunately, while compositional frameworks for protocol verification do exist, they require non-trivial human effort to identify specifications for the components of the system, thus hindering their adoption. To address these shortcomings, we investigate techniques for automated, compositional analysis of authentication protocols, using automata-learning techniques to synthesize assumptions for protocol components. We report preliminary results on the Needham-Schroeder-Lowe protocol, where our synthesized assumption was capable of lowering verification time while also allowing us to verify protocol variants compositionally.",
+        "citations": 4
+    },
+    {
+        "title": "Probabilistic relational reasoning via metrics",
+        "id": "dZYdFBgAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "Marco Gaboardi",
+            "Justin Hsu",
+            "Shin-ya Katsumata"
+        ],
+        "pub_source": "2019 34th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)",
+        "pub_date": "2019/6/24",
+        "description": "The Fuzz programming language by Reed and Pierce uses an elegant linear type system combined with a monad-like type to express and reason about probabilistic sensitivity properties, most notably \u03b5 -differential privacy. We show how to extend Fuzz to capture more general relational properties of probabilistic programs, with approximate, or (\u03b5, \u03b4) differential privacy serving as a leading example. Our technical contributions are threefold. First, we introduce the categorical notion of comonadic lifting of a monad to model composition properties of probabilistic divergences. Then, we show how to express relational properties in terms of sensitivity properties via an adjunction we call the path construction. Finally, we instantiate our semantics to model the terminating fragment of Fuzz extended with types carrying information about other divergences between distributions.",
+        "citations": 35
+    },
+    {
+        "title": "When good components go bad: Formally secure compilation despite dynamic compromise",
+        "id": "dZYdFBgAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Carmine Abate",
+            "Arthur Azevedo de Amorim",
+            "Roberto Blanco",
+            "Ana Nora Evans",
+            "Guglielmo Fachini",
+            "Catalin Hritcu",
+            "Th\u00e9o Laurent",
+            "Benjamin C Pierce",
+            "Marco Stronati",
+            "Andrew Tolmach"
+        ],
+        "pub_source": "Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security",
+        "pub_date": "2018/10/15",
+        "description": "We propose a new formal criterion for evaluating secure compilation schemes for unsafe languages, expressing end-to-end security guarantees for software components that may become compromised after encountering undefined behavior---for example, by accessing an array out of bounds. Our criterion is the first to model dynamic compromise in a system of mutually distrustful components with clearly specified privileges. It articulates how each component should be protected from all the others---in particular, from components that have encountered undefined behavior and become compromised. Each component receives secure compilation guarantees---in particular, its internal invariants are protected from compromised components---up to the point when this component itself becomes compromised, after which we assume an attacker can take complete control and use this component's privileges to attack\u00a0\u2026",
+        "citations": 43
+    },
+    {
+        "title": "Software Foundations Volume 1: Logical Foundations",
+        "id": "dZYdFBgAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Benjamin C Pierce",
+            "Arthur Azevedo de Amorim",
+            "C Casinghino",
+            "M Gaboardi",
+            "M Greenberg",
+            "C Hri\u0163cu",
+            "V Sj\u00f6berg",
+            "B Yorgey"
+        ],
+        "pub_source": "University of Pennsylvania",
+        "pub_date": "2018",
+        "citations": 31
+    },
+    {
+        "title": "Programming language foundations",
+        "id": "dZYdFBgAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Benjamin C Pierce",
+            "Arthur Azevedo de Amorim",
+            "Chris Casinghino",
+            "Marco Gaboardi",
+            "Michael Greenberg",
+            "Catalin Hri\u0163cu",
+            "Vilhelm Sj\u00f6berg",
+            "Andrew Tolmach",
+            "Brent Yorgey"
+        ],
+        "pub_source": "Software Foundations series",
+        "pub_date": "2018",
+        "citations": 87
+    },
+    {
+        "title": "The meaning of memory safety",
+        "id": "dZYdFBgAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "C\u0103t\u0103lin Hri\u0163cu",
+            "Benjamin C Pierce"
+        ],
+        "pub_source": "Principles of Security and Trust: 7th International Conference, POST 2018, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018, Thessaloniki, Greece, April 14-20, 2018, Proceedings 7",
+        "pub_date": "2018",
+        "description": "We give a rigorous characterization of what it means for a programming language to be memory safe, capturing the intuition that memory safety supports local reasoning about state. We formalize this principle in two ways. First, we show how a small memory-safe language validates a noninterference property: a program can neither affect nor be affected by unreachable parts of the state. Second, we extend separation logic, a proof system for heap-manipulating programs, with a \u201cmemory-safe variant\u201d of its frame rule. The new rule is stronger because it applies even when parts of the program are buggy or malicious, but also weaker because it demands a stricter form of separation between parts of the program state. We also consider a number of pragmatically motivated variations on memory safety and the reasoning principles they support. As an application of our characterization, we evaluate the security\u00a0\u2026",
+        "citations": 38
+    },
+    {
+        "title": "Formally secure compilation of unsafe low-level components",
+        "id": "dZYdFBgAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Guglielmo Fachini",
+            "Catalin Hritcu",
+            "Marco Stronati",
+            "Ana Nora Evans",
+            "Theo Laurent",
+            "Arthur Azevedo de Amorim",
+            "Benjamin C Pierce",
+            "Andrew Tolmach"
+        ],
+        "pub_source": "arXiv preprint arXiv:1710.07308",
+        "pub_date": "2017/10/19",
+        "description": "We propose a new formal criterion for secure compilation, providing strong security guarantees for components written in unsafe, low-level languages with C-style undefined behavior. Our criterion goes beyond recent proposals, which protect the trace properties of a single component against an adversarial context, to model dynamic compromise in a system of mutually distrustful components. Each component is protected from all the others until it receives an input that triggers an undefined behavior, causing it to become compromised and attack the remaining uncompromised components. To illustrate this model, we demonstrate a secure compilation chain for an unsafe language with buffers, procedures, and components, compiled to a simple RISC abstract machine with built-in compartmentalization. The protection guarantees offered by this abstract machine can be achieved at the machine-code level using either software fault isolation or tag-based reference monitoring. We are working on machine-checked proofs showing that this compiler satisfies our secure compilation criterion.",
+        "citations": 2
+    },
+    {
+        "title": "Software Foundations. Version 5.0",
+        "id": "dZYdFBgAAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "Benjamin C Pierce",
+            "Arthur Azevedo de Amorim",
+            "Chris Casinghino",
+            "Marco Gaboardi",
+            "Michael Greenberg",
+            "Catalin Hri\u0163cu",
+            "Vilhelm Sj\u00f6berg",
+            "Brent Yorgey"
+        ],
+        "pub_source": "",
+        "pub_date": "2017",
+        "citations": 16
+    },
+    {
+        "title": "A methodology for micro-policies",
+        "id": "dZYdFBgAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Arthur Azevedo De Amorim"
+        ],
+        "pub_source": "University of Pennsylvania",
+        "pub_date": "2017",
+        "description": "This thesis proposes a formal methodology for defining, specifying, and reasoning about micro-policies\u2014security policies based on fine-grained tagging that include forms of access control, memory safety, compartmentalization, and information-flow control. Our methodology is based on a symbolic machine that extends a conventional RISC-like architecture with tags. Tags express security properties of parts of the program state (\" this is an instruction,\"\" this is secret,\" etc.), and are checked and propagated on every instruction according to flexible user-supplied rules. We apply this methodology to two widely studied policies, information-flow control and heap memory safety, implementing them with the symbolic machine and formally characterizing their security guarantees: for information-flow control, we prove a classic notion of termination-insensitive noninterference; for memory safety, a novel property that protects\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "A semantic account of metric preservation",
+        "id": "dZYdFBgAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "Marco Gaboardi",
+            "Justin Hsu",
+            "Shin-ya Katsumata",
+            "Ikram Cherigui"
+        ],
+        "pub_source": "ACM SIGPLAN Notices",
+        "pub_date": "2017/1/1",
+        "description": "Program sensitivity measures how robust a program is to small changes in its input, and is a fundamental notion in domains ranging from differential privacy to cyber-physical systems. A natural way to formalize program sensitivity is in terms of metrics on the input and output spaces, requiring that an r-sensitive function map inputs that are at distance d to outputs that are at distance at most r \u00b7 d. Program sensitivity is thus an analogue of Lipschitz continuity for programs.  Reed and Pierce introduced Fuzz, a functional language with a linear type system that can express program sensitivity. They show soundness operationally, in the form of a metric preservation property. Inspired by their work, we study program sensitivity and metric preservation from a denotational point of view. In particular, we introduce metric CPOs, a novel semantic structure for reasoning about computation on metric spaces, by endowing CPOs\u00a0\u2026",
+        "citations": 60
+    },
+    {
+        "title": "Binding operators for nominal sets",
+        "id": "dZYdFBgAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Arthur Azevedo de Amorim"
+        ],
+        "pub_source": "Electronic Notes in Theoretical Computer Science",
+        "pub_date": "2016/10/5",
+        "description": "The theory of nominal sets is a rich mathematical framework for studying syntax and variable binding. Within it, we can describe several binding disciplines and derive convenient reasoning principles that respect \u03b1-equivalence. In this article, we introduce the notion of binding operator, a novel construction on nominal sets that unifies and generalizes many forms of binding proposed in the literature. We present general results about these operators, including sufficient conditions for validly using them in inductive definitions of nominal sets.",
+        "citations": 8
+    },
+    {
+        "title": "Beyond good and evil: Formalizing the security guarantees of compartmentalizing compilation",
+        "id": "dZYdFBgAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Yannis Juglaret",
+            "Catalin Hritcu",
+            "Arthur Azevedo De Amorim",
+            "Boris Eng",
+            "Benjamin C Pierce"
+        ],
+        "pub_source": "2016 IEEE 29th Computer Security Foundations Symposium (CSF)",
+        "pub_date": "2016/6/27",
+        "description": "Compartmentalization is good security-engineering practice. By breaking a large software system into mutually distrustful components that run with minimal privileges, restricting their interactions to conform to well-defined interfaces, we can limit the damage caused by low-level attacks such as control-flow hijacking. When used to defend against such attacks, compartmentalization is often implemented cooperatively by a compiler and a low-level compartmentalization mechanism. However, the formal guarantees provided by such compartmentalizing compilation have seen surprisingly little investigation. We propose a new security property, secure compartmentalizing compilation (SCC), that formally characterizes the guarantees provided by compartmentalizing compilation and clarifies its attacker model. We reconstruct our property by starting from the well-established notion of fully abstract compilation, then\u00a0\u2026",
+        "citations": 53
+    },
+    {
+        "title": "Towards a fully abstract compiler using micro-policies: Secure compilation for mutually distrustful components",
+        "id": "dZYdFBgAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Yannis Juglaret",
+            "Catalin Hritcu",
+            "Arthur Azevedo de Amorim",
+            "Benjamin C Pierce",
+            "Antal Spector-Zabusky",
+            "Andrew Tolmach"
+        ],
+        "pub_source": "arXiv preprint arXiv:1510.00697",
+        "pub_date": "2015/10/2",
+        "description": "Secure compilation prevents all low-level attacks on compiled code and allows for sound reasoning about security in the source language. In this work we propose a new attacker model for secure compilation that extends the well-known notion of full abstraction to ensure protection for mutually distrustful components. We devise a compiler chain (compiler, linker, and loader) and a novel security monitor that together defend against this strong attacker model. The monitor is implemented using a recently proposed, generic tag-based protection framework called micro-policies, which comes with hardware support for efficient caching and with a formal verification methodology. Our monitor protects the abstractions of a simple object-oriented language---class isolation, the method call discipline, and type safety---against arbitrary low-level attackers.",
+        "citations": 15
+    },
+    {
+        "title": "Micro-policies: Formally verified, tag-based security monitors",
+        "id": "dZYdFBgAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Arthur Azevedo De Amorim",
+            "Maxime D\u00e9n\u00e8s",
+            "Nick Giannarakis",
+            "Catalin Hritcu",
+            "Benjamin C Pierce",
+            "Antal Spector-Zabusky",
+            "Andrew Tolmach"
+        ],
+        "pub_source": "2015 IEEE Symposium on Security and Privacy",
+        "pub_date": "2015/5/17",
+        "description": "Recent advances in hardware design have demonstrated mechanisms allowing a wide range of low-level security policies (or micro-policies) to be expressed using rules on metadata tags. We propose a methodology for defining and reasoning about such tag-based reference monitors in terms of a high-level \"symbolic machine\" and we use this methodology to define and formally verify micro-policies for dynamic sealing, compartmentalization, control-flow integrity, and memory safety, in addition, we show how to use the tagging mechanism to protect its own integrity. For each micro-policy, we prove by refinement that the symbolic machine instantiated with the policy's rules embodies a high-level specification characterizing a useful security property. Last, we show how the symbolic machine itself can be implemented in terms of a hardware rule cache and a software controller.",
+        "citations": 83
+    },
+    {
+        "title": "Towards a fully abstract compiler using micro-policies: Secure compilation for mutually distrustful components. CoRR abs/1510.00697 (2015)",
+        "id": "dZYdFBgAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Yannis Juglaret",
+            "Catalin Hritcu",
+            "Arthur Azevedo de Amorim",
+            "Benjamin C Pierce",
+            "Antal Spector-Zabusky",
+            "Andrew Tolmach"
+        ],
+        "pub_source": "arxiv. org/abs/1510.00697",
+        "pub_date": "2015",
+        "citations": 5
+    },
+    {
+        "title": "Really natural linear indexed type checking",
+        "id": "dZYdFBgAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Arthur Azevedo De Amorim",
+            "Marco Gaboardi",
+            "Emilio Jes\u00fas Gallego Arias",
+            "Justin Hsu"
+        ],
+        "pub_source": "Proceedings of the 26nd 2014 International Symposium on Implementation and Application of Functional Languages",
+        "pub_date": "2014/10/1",
+        "description": "Recent works have shown the power of linear indexed type systems for enforcing complex program properties. These systems combine linear types with a language of type-level indices, allowing more fine-grained analyses. Such systems have been fruitfully applied in diverse domains, including implicit complexity and differential privacy. A natural way to enhance the expressiveness of this approach is by allowing the indices to depend on runtime information, in the spirit of dependent types. This approach is used in DFuzz, a language for differential privacy. The DFuzz type system relies on an index language supporting real and natural number arithmetic over constants and variables. Moreover, DFuzz uses a subtyping mechanism to make types more flexible. By themselves, linearity, dependency, and subtyping each require delicate handling when performing type checking or type inference; their combination\u00a0\u2026",
+        "citations": 30
+    },
+    {
+        "title": "A verified information-flow architecture",
+        "id": "dZYdFBgAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "Nathan Collins",
+            "Andr\u00e9 DeHon",
+            "Delphine Demange",
+            "C\u0103t\u0103lin Hri\u0163cu",
+            "David Pichardie",
+            "Benjamin C Pierce",
+            "Randy Pollack",
+            "Andrew Tolmach"
+        ],
+        "pub_source": "Proceedings of the 41st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+        "pub_date": "2014/1/8",
+        "description": "SAFE is a clean-slate design for a highly secure computer system, with pervasive mechanisms for tracking and limiting information flows. At the lowest level, the SAFE hardware supports fine-grained programmable tags, with efficient and flexible propagation and combination of tags as instructions are executed. The operating system virtualizes these generic facilities to present an information-flow abstract machine that allows user programs to label sensitive data with rich confidentiality policies. We present a formal, machine-checked model of the key hardware and software mechanisms used to control information flow in SAFE and an end-to-end proof of noninterference for this model.",
+        "citations": 121
+    },
+    {
+        "title": "Testing noninterference, quickly",
+        "id": "dZYdFBgAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Catalin Hritcu",
+            "John Hughes",
+            "Benjamin C Pierce",
+            "Antal Spector-Zabusky",
+            "Dimitrios Vytiniotis",
+            "Arthur Azevedo de Amorim",
+            "Leonidas Lampropoulos"
+        ],
+        "pub_source": "ACM SIGPLAN Notices",
+        "pub_date": "2013/9/25",
+        "description": "Information-flow control mechanisms are difficult to design and labor intensive to prove correct. To reduce the time wasted on proof attempts doomed to fail due to broken definitions, we advocate modern random testing techniques for finding counterexamples during the design process. We show how to use QuickCheck, a property-based random-testing tool, to guide the design of a simple information-flow abstract machine. We find that both sophisticated strategies for generating well-distributed random programs and readily falsifiable formulations of noninterference properties are critically important. We propose several approaches and evaluate their effectiveness on a collection of injected bugs of varying subtlety. We also present an effective technique for shrinking large counterexamples to minimal, easily comprehensible ones. Taken together, our best methods enable us to quickly and automatically generate\u00a0\u2026",
+        "citations": 79
+    },
+    {
+        "title": "Verified Differential Privacy for Finite Computers",
+        "id": "dZYdFBgAAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Arthur Azevedo de Amorim",
+            "Marco Gaboardi",
+            "Vivien Rindisbacher"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Differential Privacy not only ensures the anonymity of data, but provides a way of rigorously quantifying and proving how private released information is. A drawback of Differential Privacy is that most suggested implementations are formalized using real numbers. This makes Differentially Private algorithms unimplementable on finite machines. A common way to get around this issue is to implement these algorithms using floating point numbers. However, as shown by Ilya Morinov, these naive implementations lead to privacy breaches using an attack on the least significant bits of the floating point numbers. Therefore, finding ways to verify implementations of Differential Privacy is of significant interest to many. Using Coq, we have formalized a version of the Geometric Truncated Mechanism (GTM), first suggest by Arpita Ghosh, Tim Roughgarden, and Mukund Sundararajan using fixed precision arithmetic, and verified that the GTM is in fact Differentially Private."
+    },
+    {
+        "title": "SECOMP2CHERI: Securely Compiling Compartments from CompCert C to a Capability Machine",
+        "id": "dZYdFBgAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "J\u00e9r\u00e9my Thibault",
+            "Arthur Azevedo de Amorim",
+            "Roberto Blanco"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Undefined behavior is endemic in the C programming language: buffer overflows, use after frees, double frees, invalid type casts, various concurrency bugs, etc., cause mainstream C compilers to produce code that can behave completely arbitrarily. This leads to devastating security vulnerabilities that are often remotely exploitable, and both Microsoft and Chrome report that around 70% of their high severity security bugs are caused by memory safety issues alone [6, 15, 18]. We study how compartmentalization can mitigate this problem by restricting the scope of undefined behavior both (a) spatially to just the compartments that encounter undefined behavior [12], and (b) temporally by still providing protection to each compartment up to the point in time when it encounters undefined behavior [1]. While our past work has focused on formally secure compilation of compartmentalized code for toy languages with buffers and procedures [1, 12], in this talk we report on our ongoing work on scaling up these ideas to a realistic C compiler, based on CompCert [14]. While in prior work [1] we used softwarefault isolation (SFI) or a tagged architecture [4] to enforce compartmentalization at the lowest level, in this talk we will focus on a new secure compilation backend for CompCert targeting a variant of the CHERI capability machine [21]. When completed, our work will show that compartmentalized code in a mainstream programming language can be compiled by a realistic compiler with machine-checked security guarantees. This will be a milestone for secure compilation. Proving secure compilation even for toy compilers can be a daunting task, with careful\u00a0\u2026"
+    },
+    {
+        "title": "List of External Reviewers CSF 2021 (all submission cycles)",
+        "id": "dZYdFBgAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Carmine Abate",
+            "Arthur Azevedo de Amorim",
+            "Timos Antonopoulos",
+            "Christian Badertscher",
+            "Guido Battiston",
+            "Iulia Bastys",
+            "Yohan Beugin",
+            "Jeppe Blaabjerg",
+            "Eduardo Bonelli",
+            "Jacqueline Brendel",
+            "Quinn Burke",
+            "Ignacio Cascudo",
+            "Pyrros Chaidos",
+            "Manuel Chakravarty",
+            "Vincent Cheval",
+            "Jianfeng Chi",
+            "Hao Chung",
+            "Alexander Dax",
+            "Barbara Fila",
+            "Dario Fiore",
+            "Matthias Fitzi",
+            "Joshua Gancher",
+            "Simon Gregersen",
+            "Benjamin Gr\u00e9goire",
+            "Blaine Hoak",
+            "Thang Minh Hoang",
+            "Charlie Jacomme",
+            "Alptekin K\u00fcp\u00e7\u00fc",
+            "Vincent Laporte",
+            "Tu Le",
+            "Wei-Kai Lin",
+            "Giovanni Livraga",
+            "Boris K\u00f6pf",
+            "Philip Lukert",
+            "Scott Moore",
+            "Priyanka Mondal",
+            "Kevin Morio",
+            "Andrew Myers",
+            "Faezeh Nasrabadi",
+            "Olga Ohrimenko",
+            "Karl Palmskog",
+            "Sunoo Park",
+            "Marco Patrignani",
+            "Eric Pauley",
+            "Gerardo Pelosi",
+            "Pablo Picazo-Sanchez",
+            "Benjamin Pierce",
+            "Tamjid Al Rahat",
+            "Exequiel Rivas",
+            "Pascal Reisert",
+            "Marc Rivinius",
+            "Peter YA Ryan",
+            "Ryan Sheatsley",
+            "Faysal Hossain Shezan",
+            "Alexander Sj\u00f6sten",
+            "Zachary Smith",
+            "Patrick Speicher",
+            "Sandro Stucki",
+            "Nikhil Swamy",
+            "Eric Tanter",
+            "Sri Aravinda Krishnan Thyagarajan",
+            "Yiannis Tselekounis",
+            "Alexandra Weber",
+            "Maverick Woo",
+            "Pengbo Yan",
+            "Quentin Yang",
+            "Mang Zhao",
+            "Haofan Zheng"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "List of External Reviewers CSF 2021 (all submission cycles) Toggle navigation IEEE Computer \nSociety Digital Library Jobs Tech News Resource Center Press Room Advertising About Us \nIEEE IEEE Computer Society IEEE Computer Society Digital Library My Subscriptions \nMagazines Journals Conference Proceedings Institutional Subscriptions IEEE IEEE Computer \nSociety More Jobs Tech News Resource Center Press Room Advertising About Us Cart All \nAdvanced Search Conference Cover Image Download 1.Home 2.Proceedings 3.csf 2021 List of \nExternal Reviewers CSF 2021 (all submission cycles) 2021, pp. xv-xv, DOI Bookmark: \n10.1109/CSF51468.2021.9535673 Keywords Authors Abstract The conference offers a note of \nthanks and lists its reviewers. List of External Reviewers CSF 2021 (ALL SUBMISSION CYCLES) \nCarmine Abate Arthur Azevedo de Amorim Timos Antonopoulos Christian Badertscher \u2026"
+    },
+    {
+        "title": "Cryptis: Composition and Separation for Tagged Protocols",
+        "id": "dZYdFBgAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=dZYdFBgAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "ARTHUR AZEVEDO DE AMORIM",
+            "AMAL AHMED",
+            "MARCO GABOARDI"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "AMAL AHMED, Northeastern University, USA MARCO GABOARDI, Boston University, USA Compositionality is recognized as a major challenge for the verification of cryptographic protocols. Modern verification tools can analyze sophisticated designs in isolation, but provide few guarantees when a protocol is part of a larger system, interacting with components that were not included in the analysis. Prior work demonstrated that reasoning about composite protocols is simpler when their messages are tagged, which prevents them from being misused by other protocols running concurrently in the system. Unfortunately, tools that support this style of reasoning are confined to special-purpose type systems, and it is not clear they could be extended to handle more programming features or security properties. We propose to fill in this gap with Cryptis, a new logic for verifying the correctness of cryptographic protocols. Cryptis provides first-class support for tagged composition through tag invariants. A tag invariant is an assertion that guarantees that every message tagged in a certain way satisfies some property. To prove a protocol correct, a user just needs to specify all the tag invariants that are needed for its proof. If different protocols use disjoint tags, they can safely execute in parallel, even if they share private keys or other secrets. In this sense, tag invariants are akin to the point-to assertions of separation logic: if two processes use disjoint parts of the heap, they can safely run together.We have implemented Cryptis in Coq with the Iris framework, and used it to verify a variety of case studies. The case studies demonstrate that Cryptis is well-suited for\u00a0\u2026"
+    }
+]

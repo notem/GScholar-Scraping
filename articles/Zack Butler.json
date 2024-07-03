@@ -1,0 +1,1563 @@
+[
+    {
+        "title": "CONVERSATIONS: Conversation with a Prominent Propagator: Joanna Goode",
+        "id": "cERQGLoAAAAJ:LPZeul_q3PIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:LPZeul_q3PIC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2024/5/10",
+        "description": "Encouraging faculty to adopt new, high-impact teaching practices, tools, and curriculum in computer science (CS) undergraduate education requires intentional planning and sustained effort. This article is the next installment in the series of interviews with prominent propagators: members of the CS education community who have successfully spread pedagogical or curricular innovations [1\u20133]. The goal is to capture knowledge and experiences that others can use to propagate their own teaching projects. In this article, we interviewed Joanna Goode, the Sommerville Knight Professor and Department Head in the College of Education at the University of Oregon. Joanna co-authored Stuck in the Shallow End: Education, Race, and Computing, which explores inequality in K-12 computer science education in the Los Angeles Unified School District [11]. This line of research led her to develop and propagate the\u00a0\u2026"
+    },
+    {
+        "title": "Analyzing Student and Instructor Comments using NLP",
+        "id": "cERQGLoAAAAJ:8AbLer7MMksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:8AbLer7MMksC",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bez\u00e1kov\u00e1",
+            "Shaoxuan Xu",
+            "Angelina Brilliantova"
+        ],
+        "pub_source": "Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+        "pub_date": "2024/3/14",
+        "description": "We report on our experience using common natural language processing (NLP) tools to analyze two vastly different data sets of free-form responses collected during a study of assignments in introductory computing courses. Our first data set consists of typically short comments left by hundreds of students on assignment surveys. Our second data set is comprised of semi-structured individual interviews of eight instructors of up to an hour long each. We collected the data across several years as part of our investigation of the use of pencil puzzles as a context for introductory computer science. In an earlier work, we manually analyzed a fraction of the student comments (all data collected until that point), using grounded theory. The results were illuminating, but the process was very time consuming, consisting of manual assignment of a small number of codes to each comment. In this work, we investigate the usability of\u00a0\u2026"
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a Prominent Propagator: Carl Haynes-Magyar",
+        "id": "cERQGLoAAAAJ:sSrBHYA8nusC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:sSrBHYA8nusC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2023/11/27",
+        "description": "1 This acronym broadly refers to diverse gender-, sex-, and sexuality-based identities including Lesbian, Gay, Transgender, Bisexual, Queer, Questioning, Intersex, Asexual, Aromantic, Two-Spirit, Gender Fluid, etc. acm Inroads\u2022 inroads. acm. org 13 of Illinois Urbana-Champaign, the University of Michigan, the University of Washington, and Carnegie Mellon University. I almost recruited students from a university in Chile but didn\u2019t because I couldn\u2019t find a Spanish-speaking research assistant. Little tangent\u2014another thing Codespec will offer is the ability to switch between programming languages and spoken languages for each problem. For example, a programming problem in Python and Java in both English and Spanish. We know that non-English speaking programmers may experience barriers when reading and writing code [8]. I was talking to somebody not too long ago about the beauty of other lanments [17\u00a0\u2026"
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a Prominent Propagator: Frank Vahid",
+        "id": "cERQGLoAAAAJ:tS2w5q8j5-wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:tS2w5q8j5-wC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2023/5/19",
+        "description": "In this article, we interviewed Frank Vahid, Co-Founder and Chief Learning Officer of zyBooks. com and Professor of Computer Science and Engineering at University of California Riverside (UCR). zyBooks [13] uses web-based, interactive learning content to replace traditional college textbooks and homework. Frank\u2019s research centers on learning methods to improve lower-division education in CS and STEM [1, 5\u20139], and embedded systems software and hardware [10\u201312]. Below are highlights of the interview, which ran approximately an hour. The transcript has been edited for clarity and style.",
+        "citations": 3
+    },
+    {
+        "title": "Putting a Context in Context: Investigating the Context of Pencil Puzzles in Multiple Academic Environments",
+        "id": "cERQGLoAAAAJ:vRqMK49ujn8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:vRqMK49ujn8C",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bez\u00e1kov\u00e1",
+            "Angelina Brilliantova"
+        ],
+        "pub_source": "Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1",
+        "pub_date": "2023/3/2",
+        "description": "The use of a well-chosen context for course assignments is widely regarded as motivating for students. However, it is challenging to study the utility of bringing a particular context to computing courses across different types of institutions and student demo- graphics. This is especially true in introductory computing since courses vary widely, for example, in topic order and depth of coverage. In this experience report, we present our approach to, and lessons learned from, studying the efficacy of a specific context for introductory computing assignments across a variety of environments. We focus on the context of pencil puzzles (puzzles like Sudoku or crosswords, designed to be solved on paper using a pencil) and the deployment and fit of pencil-puzzle-based assignments across different institutions' introductory curricula. We describe our overall process, including recruitment of instructors from a variety of institutions\u00a0\u2026"
+    },
+    {
+        "title": "How Do I Get People to Use My Ideas? Lessons from Successful Innovators in CS Education",
+        "id": "cERQGLoAAAAJ:08ZZubdj9fEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:08ZZubdj9fEC",
+        "authors": [
+            "Christopher Lynnly Hovey",
+            "David P Bunde",
+            "Zack Butler",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1",
+        "pub_date": "2023/3/2",
+        "description": "Improving Computer Science (CS) education requires increasing the meaningful usage of research-supported pedagogy and curriculum. Studies on propagation have largely looked at dissemination and adoption from the perspective of adopters: what motivates them to discover, experiment with, and continue using innovative teaching. This study adds to a growing body of research on approaches to encourage adoption by examining the perspectives and advice of successful propagators-education researchers who have had their innovations widely adopted. Drawing on interviews with fourteen CS education researchers, this paper identifies both points of convergence and unique insights across several broad areas: barriers to adoption, the structure of academia, relevant principles of design and techniques for deployment, and strategies for propagation. Notable findings include: the structure of academia has\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "CONVERSATIONS: Conversations with a prominent propagator: Barbara Ericson",
+        "id": "cERQGLoAAAAJ:tOudhMTPpwUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:tOudhMTPpwUC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2023/2/21",
+        "description": "Q: HOW DO YOU FIND OUT WHAT\u2019S USEFUL FOR PEOPLE? BE: When I first started working with high school teachers I went and talked to a bunch of them. I asked,\u201cWhat do you need for Advanced Placement Computer Science?\u201d They told me they needed more multiple choice questions because the AP Computer Science A exam was half multiple choice questions and half free response. And they could buy the Barron\u2019s Book (a study guide) that would just say why the right answer was right, but not why the wrong answer was wrong. They told me that\u2019s one of the things they needed.So, one of the first things I built for teachers was a website where I had multiple choice questions. I tried to make it so that other people could author them too, anonymously. You could say,\u201cI want a test of 40 questions\u201d and it would pull them in randomly from the database of questions. That was one of the first things I did that really got\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "CONVERSATIONS: Conversations with a prominent propagator: Beth Simon",
+        "id": "cERQGLoAAAAJ:K3LRdlH-MEoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:K3LRdlH-MEoC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2022/11/18",
+        "description": "Q: WHAT DOES \u201cHOMEGROWN PROPAGATION\u201d MEAN TO YOU? BS: It\u2019s better to convince people in-house: the people that you\u2019re hanging in the hallway with. Faculty, even at large places like UCSD, have students who took another person\u2019s class who go on to take their class and say,\u201cYour lectures would be a lot better if you did this thing.\u201d That usually doesn\u2019t go anywhere in one quarter, but it builds up over time.But what really leveraged the propagation was the fact that we had a program to let graduate students teach in the summer session. They had the time and the incentive to create a collection of Peer Instruction materials, which started making its way into their advisors\u2019 classes. That became a game changer. I think that was by far the most important thing in terms of propagation: all those people graduating and taking Peer Instruction to a whole range of institutions was really what made things happen\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Conversation with a prominent propagator: Helen Hu",
+        "id": "cERQGLoAAAAJ:bnK-pcrLprsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:bnK-pcrLprsC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2022/9",
+        "description": "C omp ut er S ci ence (CS) und er gr ad uat eeduc ati onreq uir es s ust ai ned, i nt e nti on al pl an ni ngande ff ort. T his arti cl e is the ne xt i nst all me nt inthes eri es of i nt er vi e ws wit h pr o mi ne nt pr opag at ors: memb ers of the CS educ ati oncommu nit ywhohave su cc essf ull ys pr eadpedago gi c al or c urri c ul ar innov ati o ns [1\u20133]. T hego al is toca pt ur e kno wl edgeandexp eri enc es th at ot h ers can us eto pr opag at eth eir ownteac hi ng pr oj e cts.I nt his arti cl e, wei nt er vi ewed H el en H u, Pr of ess or and C h air of C omp ut er S ci ence at West mi nst er C oll eg e. H el en is b est known f or h er w or k pr om oti nganddev el o pi ng Pr oc ess Ori e nt ed G ui ded I nq uir y L e ar ni ng (PO GI L) f or C omp ut er S ci ence wit h Clif K uss ma ul, C hris M ay fi el d, Ta mmy Pir mann, and ot h ers [4, 6\u20139]. PO GI L is ani nstr ucti on al str at egyinw hi ch st ude nts w or kin sm all, s elf-managedtea ms wit hspe ci fi c r ol es. PO GI L a cti viti es ar ed esi gnedto g ui de st ude nts t hr ough dis cov eri ngkey conce pts, w hil edev el o pi ngs kills such as criti c al t hi n ki ng, pr o bl ems ol vi ng, communi c ati on, andw or ki ngintea ms. R at h er than le ct uri ng, i nstr u ct ors a ct as g ui d es t hr ough the pr oc ess [5]. M or eabo ut H el e n\u2019sw or k on PO GI L in CS canbefound at [5]. B el ow ar e hi g hli g hts of thei nt er vi ew, w hi chranap pr oxi m at el yanho ur. T he tr a ns cri pt h as beene dit edf or cl arit yand st yl e."
+    },
+    {
+        "title": "Conversation with a prominent propagator: Helen Hu",
+        "id": "cERQGLoAAAAJ:738O_yMBCRsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:738O_yMBCRsC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2022/8/23",
+        "description": "Computer Science (CS) undergraduate education requires sustained, intentional planning and effort. This article is the next installment in the series of interviews with prominent propagators: members of the CS education community who have successfully spread pedagogical or curricular innovations [1\u20133]. The goal is to capture knowledge and experiences that others can use to propagate their own teaching projects.In this article, we interviewed Helen Hu, Professor and Chair of Computer Science at Westminster College. Helen is best known for her work promoting and developing Process Oriented Guided Inquiry Learning (POGIL) for Computer Science with Clif Kussmaul, Chris Mayfield, Tammy Pirmann, and others [4, 6\u20139]. POGIL is an instructional strategy in which students work in small, self-managed teams with specific roles. POGIL activities are designed to guide students through discovering key concepts\u00a0\u2026"
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a prominent propagator: Monica McGill",
+        "id": "cERQGLoAAAAJ:UxriW0iASnsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:UxriW0iASnsC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2022/5/17",
+        "description": "Improving computer science education requires that transformative innovations in teaching become everyday practices within the larger community of CS educators. Increasing usage requires substantial time and energy, intentional planning, and evidence-based practices for propagation. To that end, this column presents another installment of ongoing efforts to capture knowledge by interviewing prominent propagators [1\u20133], individuals who have successfully spread educational innovations within the CS education community. In this column, we interview Dr. Monica McGill, who founded the new non-profit CSEdResearch. org, which grew out of her work co-leading the K-12 Computer Science Education Research Resource Center available at csedresearch. org. Funded by the NSF over the last five years, the Center provides over 900 article summaries, 150 highquality survey instruments specific to computing\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Pencil Puzzles as a Context for Introductory Computing Assignments in Diverse Settings",
+        "id": "cERQGLoAAAAJ:KxtntwgDAa4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:KxtntwgDAa4C",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bez\u00e1kov\u00e1",
+            "Angelina Brilliantova",
+            "Hannah Miller",
+            "Kimberly Fluet"
+        ],
+        "pub_source": "Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2",
+        "pub_date": "2022/3/3",
+        "description": "Assignments based on meaningful real-world contexts have been shown to be valuable in introductory computing education. However, it can be difficult to distinguish the value of a broad context from the value of a particular instantiation of that context. In this work in progress, we report on our initial findings gathered from deployments of different pencil-puzzle-based assignments. Specifically, we have investigated the use of pencil puzzles as a contextual domain, working with instructors at eight institutions to deliver assignments appropriate to their situation and aligning with their existing materials. We then evaluate the assignments using student grades and survey responses regarding student perceptions of the assignments including self-assessed learning, given a wide array of demographic variables. Our initial results show that while there was some dependency of student responses on their prior programming\u00a0\u2026"
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a prominent propagator: Mark Guzdial",
+        "id": "cERQGLoAAAAJ:dshw04ExmUIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:dshw04ExmUIC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2022/3",
+        "description": "Advancing Computer Science (CS) undergraduate education requires increasing the adoption and influential use of innovative teaching practices. This article presents the next in our series of interviews with prominent propagators, educators, and researchers who have successfully increased the user base of pedagogical and/or curricular innovations [1\u20133]. Our intent is to capture and share their knowledge and experiences, so that others can plan and sustain successful ways to spread their own ideas. In this episode, we present an interview with Mark Guzdial, Professor of Electrical Engineering & Computer Science at the University of Michigan. Mark Guzdial is best known for developing Media Computation (MediaComp)[6], in which students learn Python or Java while working on a series of media-focused projects including image processing and sound manipulation. He has also worked on the Runestone free ebooks platform [9], which provides Computer Science textbooks that include educational best practices. He is currently working on building computational supports for mathematics, English, language arts, and history."
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a prominent propagator: Mark Guzdial",
+        "id": "cERQGLoAAAAJ:P5F9QuxV20EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:P5F9QuxV20EC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2022/2/14",
+        "description": "Advancing Computer Science (CS) undergraduate education requires increasing the adoption and influential use of innovative teaching practices. This article presents the next in our series of interviews with prominent propagators, educators, and researchers who have successfully increased the user base of pedagogical and/or curricular innovations [1\u20133]. Our intent is to capture and share their knowledge and experiences, so that others can plan and sustain successful ways to spread their own ideas. In this episode, we present an interview with Mark Guzdial, Professor of Electrical Engineering & Computer Science at the University of Michigan. Mark Guzdial is best known for developing Media Computation (MediaComp)[6], in which students learn Python or Java while working on a series of media-focused projects including image processing and sound manipulation. He has also worked on the Runestone free\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Conversations with a Prominent Propagator: Beth Simon",
+        "id": "cERQGLoAAAAJ:4fKUyHm3Qg0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:4fKUyHm3Qg0C",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "2022",
+        "description": "Spreading the meaningful usage of transformative teaching practices in Computer Science (CS) undergraduate education requires intentional planning and sustained effort. This article presents another installment in the series of interviews with prominent propagators: developers who have successfully disseminated their pedagogical or curricular projects within the CS education community [1-3]. The goal is to capture experiences and insights that others can use to propagate their own educational innovations.In this article, we interview Beth Simon, Teaching Professor in the Department of Education Studies at the University of California San Diego, who is best known for her work on Peer Instruction in Computer Science [4, 6\u20138]. Beth began her career with research in computer architecture and gradually shifted her focus to computer science education, officially transitioning to the Education Studies Department in 2016. She now teaches courses for people who want to teach K-12 Computer Science."
+    },
+    {
+        "title": "Conversation with a Prominent Propagator: Monica McGill",
+        "id": "cERQGLoAAAAJ:WbkHhVStYXYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:WbkHhVStYXYC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "2022",
+        "description": "Improving computer science education requires that transformative innovations in teaching become everyday practices within the larger community of CS educators. Increasing usage requires substantial time and energy, intentional planning, and evidence-based practices for propagation. To that end, this column presents another installment of ongoing efforts to capture knowledge by interviewing prominent propagators [1\u20133], individuals who have successfully spread educational innovations within the CS education community.In this column, we interview Dr. Monica McGill, who founded the new non-profit CSEdResearch. org, which grew out of her work co-leading the K-12 Computer Science Education Research Resource Center available at csedresearch. org. Funded by the NSF over the last five years, the Center provides over 900 article summaries, 150 high-quality survey instruments specific to computing education and research tips for K-12 CS education, including surveys, questionnaires, and interview protocols [7]. Dr. McGill has co-authored several research studies on the state of CS education research [6, 8, 9, 11, 12]. She has also worked on broadening participation in computing [10] and game design curricula [4, 5]. She serves as an Associate Editor for ACM Transactions on Computing Education (ToCE) and chaired the inaugural ACMW North America committee."
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a prominent propagator: Beth Quinn and Stephanie Weber, EngageCSEdu",
+        "id": "cERQGLoAAAAJ:b0M2c_1WBrUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:b0M2c_1WBrUC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2021/11/15",
+        "description": "aged a lot of potential authors to review first, so they could see the whole process and how we evaluated if they did submit. So, there were a ton of emails sent asking people to review things. We eventually built a system that looked pretty similar to a journal review process: where we could assign people from within the EngageCSEdu platform to do reviews. So, something would be submitted and we would assign reviews to people with that area of expertise. They were used to that system of accepting or declining the review and having a certain amount of time to complete it. But it was a tremendous amount of effort to get that up and running. BQ: The other thing you should know is that the platform has been rebuilt at least twice from that initial launch. Google was very generous in providing funding for us to do those redesigns as we rolled it out and realized,\u201cOh, that doesn\u2019t work.\u201d Managing the review process was\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a prominent propagator: Paul Tymann",
+        "id": "cERQGLoAAAAJ:_xSYboBqXhAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:_xSYboBqXhAC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2021/5/10",
+        "description": "ConclusionThis column does not claim to provide precise legal details, and the issues raised here should not be considered to be complete or precise legal statements. Rather the purpose of this column is to raise issues of student privacy in the context of legal requirements.",
+        "citations": 4
+    },
+    {
+        "title": "Puzzles in Many Places: Closing the Loop on Propagation",
+        "id": "cERQGLoAAAAJ:bFI3QPDXJZMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:bFI3QPDXJZMC",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bez\u00e1kov\u00e1",
+            "Kimberly Fluet"
+        ],
+        "pub_source": "Proceedings of the 52nd ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2021/3/3",
+        "description": "As one develops instructional innovations, it is important not only to propagate them into new and different environments, but also to study their efficacy in these new locations with different demographics of students. Previously, we showed that introductory CS assignments based on various pencil-and-paper puzzles are valuable, but this study was done at a single university. In this poster, we report on propagation of puzzle-based assignments to many universities and collection of the resulting data from these different contexts. This allows us to study the efficacy of the assignments in these disparate environments. In order to ease adoption at other universities, we are also interested in the experience of the instructors in implementing the assignments in their courses. Our overall goal is to \"close the feedback loop\" by collecting and analyzing all of this data to improve both their effectiveness and adoptability. This\u00a0\u2026"
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a prominent propagator: Colleen Lewis",
+        "id": "cERQGLoAAAAJ:f2IySw72cVMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:f2IySw72cVMC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2021/2/10",
+        "description": "Improving education in computer science requires that pedagogical innovations propagate beyond the original creators, so that transformative practices become a part of everyday teaching within the larger community of CS educators. However, propagation requires substantial time and energy, as well as intentional planning. The CS education community needs to engage in sustained efforts to explore and implement evidence-based strategies for increasing adoption and sustaining impactful use of transformative practices. To that end, this column represents another installment of our ongoing efforts to capture knowledge within the CS education community by interviewing prominent propagators, individuals who have successfully spread educational innovations [1\u20133]. In this column, we interview Dr. Colleen Lewis. Colleen recently moved from Harvey Mudd College to become a faculty member at the University of\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Conversation with a Prominent Propagator: Colleen Lewis",
+        "id": "cERQGLoAAAAJ:xtRiw3GOFMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:xtRiw3GOFMkC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "2021",
+        "description": "Improving education in computer science requires that pedagogical innovations propagate beyond the original creators, so that transformative practices become a part of everyday teaching within the larger community of CS educators. However, propagation requires substantial time and energy, as well as intentional planning. The CS education community needs to engage in sustained efforts to explore and implement evidence-based strategies for increasing adoption and sustaining impactful use of transformative practices. To that end, this column represents another installment of our ongoing efforts to capture knowledge within the CS education community by interviewing prominent propagators, individuals who have successfully spread educational innovations [1\u20133].In this column, we interview Dr. Colleen Lewis. Colleen recently moved from Harvey Mudd College to become a faculty member at the University of Illinois at Urbana-Champaign. Among other projects, she is well-known for her work with CS Teaching Tips [4], an NSF-sponsored project for disseminating effective computer science teaching practices that is highly regarded within the CS education community. Her research seeks to identify effective teaching practices for creating equitable spaces where all students have the opportunity to learn [5\u20139]. Colleen has received the NCWIT. org Undergraduate Mentoring Award and the AnitaB. org Emerging Leader Award in Honor of Denice Denton."
+    },
+    {
+        "title": "Conversation with a Prominent Propagator: Tim Bell",
+        "id": "cERQGLoAAAAJ:NhqRSupF_l8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:NhqRSupF_l8C",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "2021",
+        "description": "Improving computer science (CS) undergraduate education requires sustained, intentional efforts to increase the adoption and meaningful use of innovative teaching practices. This article is part of a series of interviews [4\u20136] with prominent propagators, people who have successfully spread innovations in CS pedagogy or curricula. Our goal is to capture their experiences so that others can learn successful techniques and insights for spreading their own ideas.In this installment, we interview Tim Bell, Professor of Computer Science at the University of Canterbury. Tim is best known for developing CSUnplugged [7], a collection of free resources for teaching CS concepts that do not require a computer. Initially developed for pre-college students, the materials are now widely used for a variety of audiences, including CS majors, non-majors, and community outreach in many countries [1\u20133]."
+    },
+    {
+        "title": "CONVERSATIONS Conversation with a prominent propagator: Michael K\u00f6lling",
+        "id": "cERQGLoAAAAJ:D03iK_w7-QYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:D03iK_w7-QYC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2020/11/12",
+        "description": "To improve teaching in computer sci-ence, pedagogical innovations must be propagated beyond the original creators to the larger community of CS educators. Accomplishing this requires time, energy, and planning. We believe that the CS education community must engage in a sustained effort to learn more about evidence-based strategies for increasing the adoption of educational practices. This column is part of our continuing efforts [3, 5] to capture the knowledge within our community through interviews with prominent propagators, those who have been successful spreading educational innovations to other instructors. In this column, we interview Michael K\u00f6lling, Vice Dean for Education of the Faculty of Natural and Mathematical Sciences at King\u2019s College London. Michael has started and now leads several high-profile projects in Computer Science Education. The first and probably best known is BlueJ [2, 9\u00a0\u2026",
+        "citations": 6
+    },
+    {
+        "title": "CONVERSATIONS: Conversation with a prominent propagator: Sushil Prasad",
+        "id": "cERQGLoAAAAJ:yD5IFk8b50cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:yD5IFk8b50cC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2020/8/18",
+        "description": "Developing new materials for, or approaches to, education is only part of improving CS instruction. In order to have an impact on students beyond those of the developer, educational innovations must be propagated to other instructors. Doing so has been shown to require significant time and resources on the part of developers [7]. We believe that the CS education community must embark on a sustained effort to learn more about evidence-based strategies for propagating educational innovations and to use them in our own projects. To support this discussion, we have recently written a review on research on propagation [8], much of it in other STEM disciplines. This column is our effort to turn the focus back to Computer Science and capture the knowledge within our own community through interviews with prominent propagators, those who have been successful spreading educational innovations to other\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "To Dissemination... And Beyond! Building Better Propagation Plans for Computer Science Education Innovations",
+        "id": "cERQGLoAAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Christopher Lynnly Hovey",
+            "Cynthia Taylor",
+            "Heather Bort",
+            "David P Bunde",
+            "Zack Butler"
+        ],
+        "pub_source": "Proceedings of the 50th ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2019/2/22",
+        "description": "In computer science, educational innovation is constant, but many great ideas never achieve the type of widespread adoption necessary to make lasting and effective change to the way we teach and learn. Research across STEM education has shown that propagation planning is often an overlooked or undervalued part of educational innovation. Whether promoting our own projects or an outside innovation, barriers to success are more difficult to overcome when encountered without sufficient preparation. Plans for adoption and scaling of innovations are not one-size-fits-all, but there are lessons we can learn from both successful and unsuccessful previous projects. We will present a summary of these lessons based on our recent ITiCSE working group research experience on the topic. This writing workshop will focus on building propagation plans informed by best practices, within the context of individual project\u00a0\u2026"
+    },
+    {
+        "title": "Propagating educational innovations",
+        "id": "cERQGLoAAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Heather Bort",
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher Lynnly Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "Proceedings of the 50th ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2019/2/22",
+        "description": "Many great teaching techniques are presented every year at SIGCSE and other CS education conferences. Unfortunately, most of them achieve very limited adoption, with few instructors incorporating these ideas into their classrooms. There is significant literature on how to encourage instructors to adopt educational innovations in other STEM fields, but the CS education community has made only limited strides in this area. This session will feature an interactive discussion of some of the barriers that prevent the adoption of good ideas, what solutions are available, and a brief presentation of the results of an ITiCSE working group on this topic. Attendees will leave the session better equipped to promote the adoption of educational innovations, either their own or ones that they have decided to champion.",
+        "citations": 4
+    },
+    {
+        "title": "GETF proposal and PPt (2-21-2019)",
+        "id": "cERQGLoAAAAJ:1qzjygNMrQYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:1qzjygNMrQYC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2019",
+        "description": "\"GETF proposal and PPt (2-21-2019)\" by Zack Butler Home Search Browse Colleges and \nDepartments My Account About DC Network Digital Commons Network\u2122 Skip to main \ncontent Home About FAQ My Account RIT Digital Institutional Repository Rochester Institute of \nTechnology < Previous Next > Home RIT Digital Archives FACSENATE 811 Faculty Senate \nGETF proposal and PPt (2-21-2019) Author Zack Butler Keywords Global Education \nCommittee (GLEC) Date of Original 2-15-2019 Date of Digitization February 2019 Broad Type \nText Specific Type Presentation Original Item Location 1850/17500 Specific Collection Faculty \nSenate Committee Reports Notes Note: imported from RIT\u2019s Digital Media Library running on \nDSpace to the RIT Digital Institutional Repository in May, 2024; Some links embedded into the \nPDF may not work Additional Files 1850_21110_GETFProposalPPt_02-21-2019.pdf (78 kB) \u2026"
+    },
+    {
+        "title": "GETF Final Report AY2018-19",
+        "id": "cERQGLoAAAAJ:mvPsJ3kp5DgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:mvPsJ3kp5DgC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2019",
+        "description": "\"GETF Final Report AY2018-19\" by Zack Butler Home Search Browse Colleges and \nDepartments My Account About DC Network Digital Commons Network\u2122 Skip to main content \nHome About FAQ My Account RIT Digital Institutional Repository Rochester Institute of \nTechnology < Previous Next > Home RIT Digital Archives FACSENATE 812 Faculty Senate \nGETF Final Report AY2018-19 Author Zack Butler Keywords Global Education Committee \n(GLEC) Date of Original 4-30-2019 Date of Digitization May 2019 Broad Type Text Specific Type \nFinal Paper Original Item Location 1850/17500 Specific Collection Faculty Senate Committee \nReports Notes Note: imported from RIT\u2019s Digital Media Library running on DSpace to the RIT \nDigital Institutional Repository in May, 2024; Some links embedded into the PDF may not work \nDownload Share COinS Search Enter search terms: Select context to search: Advanced Search \u2026"
+    },
+    {
+        "title": "Propagating the adoption of CS educational innovations",
+        "id": "cERQGLoAAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Cynthia Taylor",
+            "Jaime Spacco",
+            "David P Bunde",
+            "Zack Butler",
+            "Heather Bort",
+            "Christopher Lynnly Hovey",
+            "Francesco Maiorana",
+            "Thomas Zeume"
+        ],
+        "pub_source": "Proceedings companion of the 23rd annual ACM conference on Innovation and Technology in Computer Science Education",
+        "pub_date": "2018/7/2",
+        "description": "In this report, we survey the existing scholarship in STEM higher education regarding what motivates, encourages, and inhibits educators' decisions to adopt teaching innovations. After reviewing common theoretical foundations and considerations for adoption and dissemination studies, we identify challenges for encouraging adoption among educators in higher education. When possible, we provide evidence-based recommendations from the literature on how to overcome these challenges. We then consider the relevance of scholarship from general higher education and other STEM disciplines to the context of computer science in particular, discussing similarities and areas of divergence that would affect dissemination efforts. In order to better guide change agents in propagating beneficial teaching practices, tools, and resources, we conclude by summarizing best practices for promoting the adoption of\u00a0\u2026",
+        "citations": 36
+    },
+    {
+        "title": "Promoting the adoption of educational innovations",
+        "id": "cERQGLoAAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Cynthia Taylor",
+            "Jaime Spacco",
+            "David P Bunde",
+            "Thomas Zeume",
+            "Zack Butler",
+            "Martina Barnas",
+            "Heather Bort",
+            "Francesco Maiorana",
+            "Christopher Lynnly Hovey"
+        ],
+        "pub_source": "Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education",
+        "pub_date": "2018/7/2",
+        "description": "Most projects that create innovations in Computer Science education, whether they be changes to content or pedagogy, focus on first developing materials and then proving effectiveness. For educational innovations to have impact, however, they must be adopted by other instructors. Getting instructors to use new educational strategies is a significant challenge, with most new techniques never obtaining widespread adoption. Researchers who do consider dissemination of their research frequently use techniques such as publications and workshops, which are known to be insufficient.   While there is a significant body of research on how to successfully propagate educational innovations, many CS education researchers are unfamiliar with it. Additionally, the majority of this work is from science education rather than CS education, and it is unclear how it will apply to CS. We bridge this gap by summarizing existing\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Analyzing rich qualitative data to study pencil-puzzle-based assignments in CS1 and CS2",
+        "id": "cERQGLoAAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bez\u00e1kov\u00e1",
+            "Kimberly Fluet"
+        ],
+        "pub_source": "Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education",
+        "pub_date": "2018/7/2",
+        "description": "Pencil puzzles (puzzles such as sudoku and many others that are designed to be solved by humans, promoting computational thinking) provide a natural context for CS1/2 assignments. In a prior work we analyzed Likert-scaled student responses and assignment/course grades to show that not only are such assignments effective but are also largely independent of gender and prior computing experience. This paper focuses on open-ended student comments, both to see if they provide additional insights about the assignments and student perceptions not apparent from the Likert-scaled responses, and to see if these comments are consistent with the results from the prior work. We surveyed over 1000 students who had used pencil-puzzle-based assignments and invited them to make open-ended comments in their survey responses. We used grounded theory to develop codes for the large volume of student survey\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "Qualitative Analysis of Open-ended Comments in Introductory CS Courses",
+        "id": "cERQGLoAAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bezakova",
+            "Kimberly Fluet"
+        ],
+        "pub_source": "Proceedings of the 49th ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2018/2/21",
+        "description": "End-of-course evaluations and other student surveys typically include the opportunity for students to provide free-form comments. These are rich sources of data but are often only subjectively taken into account to further improve course delivery or analyze the effectiveness of assignments. We designed several puzzle-based assignments for typical CS1/2 topics and surveyed students as part of our efforts to analyze the assignments' efficacy and improve them over time. The surveys included traditional measures such as demographic data, Likert-scaled questions about assignment perceptions, and open-ended comments. With thousands of survey responses, we wanted to see if the open-ended comments yield additional, statistically significant, insights on either the assignments or students' learning. We developed a coding scheme for the comments using grounded theory analysis to represent patterns among the\u00a0\u2026"
+    },
+    {
+        "title": "CS puzzle contest",
+        "id": "cERQGLoAAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "Zack Butler",
+            "John Barr"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2018/1/30",
+        "description": "Method. Put Red Bull into mixing bowl. Add Tabasco. Put Mountain Dew into mixing bowl. Melt the ice cream. Add salt. Stir the ice cream until melted. Add pepper. Pour contents of the mixing bowl into the baking dish."
+    },
+    {
+        "title": "GETF Report (PPT)-Includes amended approved motion 4-5-2018",
+        "id": "cERQGLoAAAAJ:5ugPr518TE4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:5ugPr518TE4C",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2018",
+        "description": "\"GETF Report (PPT) - Includes amended approved motion 4-5-2018\" by Zack Butler Home \nSearch Browse Colleges and Departments My Account About DC Network Digital \nCommons Network\u2122 Skip to main content Home About FAQ My Account RIT Digital \nInstitutional Repository Rochester Institute of Technology < Previous Next > Home RIT \nDigital Archives FACSENATE 809 Faculty Senate GETF Report (PPT) - Includes amended \napproved motion 4-5-2018 Author Zack Butler Keywords Global Education Committee (GLEC) \nDate of Original 4-9-2018 Date of Digitization April 2018 Broad Type Text Specific Type \nPresentation Original Item Location 1850/17500 Specific Collection Faculty Senate \nCommittee Reports Notes Note: imported from RIT\u2019s Digital Media Library running on \nDSpace to the RIT Digital Institutional Repository in May, 2024; Some links embedded into \nthe PDF may not work Download Share COinS \u2026"
+    },
+    {
+        "title": "Global Education Task Force Report (PPT) March 29, 2018",
+        "id": "cERQGLoAAAAJ:BrmTIyaxlBUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:BrmTIyaxlBUC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2018",
+        "description": "\"Global Education Task Force Report (PPT) March 29, 2018\" by Zack Butler Home Search \nBrowse Colleges and Departments My Account About DC Network Digital Commons Network\u2122 \nSkip to main content Home About FAQ My Account RIT Digital Institutional Repository \nRochester Institute of Technology < Previous Next > Home RIT Digital Archives FACSENATE \n808 Faculty Senate Global Education Task Force Report (PPT) March 29, 2018 Author Zack \nButler Keywords Global Education Committee (GLEC) Date of Original 4-2-2018 Date of \nDigitization April 2018 Broad Type Text Specific Type Report Original Item Location 1850/17500 \nSpecific Collection Faculty Senate Committee Reports Notes Note: imported from RIT\u2019s Digital \nMedia Library running on DSpace to the RIT Digital Institutional Repository in May, 2024; Some \nlinks embedded into the PDF may not work Download Share COinS Search Enter search \u2026"
+    },
+    {
+        "title": "GETF AY2017 Final Report",
+        "id": "cERQGLoAAAAJ:eflP2zaiRacC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:eflP2zaiRacC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2018",
+        "description": "\"GETF AY2017 Final Report\" by Zack Butler Home Search Browse Colleges and \nDepartments My Account About DC Network Digital Commons Network\u2122 Skip to main \ncontent Home About FAQ My Account RIT Digital Institutional Repository Rochester Institute \nof Technology < Previous Next > Home RIT Digital Archives FACSENATE 810 Faculty \nSenate GETF AY2017 Final Report Author Zack Butler Keywords Global Education \nCommittee (GLEC) Date of Original 5-22-2018 Date of Digitization May 2018 Broad Type \nText Specific Type Report Original Item Location 1850/17500 Specific Collection Faculty \nSenate Committee Reports Notes Note: imported from RIT\u2019s Digital Media Library running \non DSpace to the RIT Digital Institutional Repository in May, 2024; Some links embedded \ninto the PDF may not work Download Share COinS Search Enter search terms: Select \ncontext to search: Advanced Search Notify me via \u2026"
+    },
+    {
+        "title": "Pencil puzzles for introductory computer science: An experience-and gender-neutral context",
+        "id": "cERQGLoAAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bez\u00e1kov\u00e1",
+            "Kimberly Fluet"
+        ],
+        "pub_source": "Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education",
+        "pub_date": "2017/3/8",
+        "description": "The teaching of introductory computer science can benefit from the use of real-world context to ground the abstract programming concepts. We present the domain of pencil puzzles as a context for a variety of introductory CS topics. Pencil puzzles are puzzles typically found in newspapers and magazines, intended to be solved by the reader through the means of deduction, using only a pencil. A well-known example of a pencil puzzle is Sudoku, which has been widely used as a typical backtracking assignment. However, there are dozens of other well-tried and liked pencil puzzles available that naturally induce computational thinking and can be used as context for many CS topics such as arrays, loops, recursion, GUIs, inheritance and graph traversal. Our contributions in this paper are two-fold. First, we present a few pencil puzzles and map them to introductory CS concepts that the puzzles can target in an\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "Global Education Task Force (GETF) Report AY2016-17",
+        "id": "cERQGLoAAAAJ:D_sINldO8mEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:D_sINldO8mEC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2017",
+        "description": "\"Global Education Task Force (GETF) Report AY2016-17\" by Zack Butler Home Search Browse \nColleges and Departments My Account About DC Network Digital Commons Network\u2122 Skip \nto main content Home About FAQ My Account RIT Digital Institutional Repository Rochester \nInstitute of Technology < Previous Next > Home RIT Digital Archives FACSENATE 806 Faculty \nSenate Global Education Task Force (GETF) Report AY2016-17 Author Zack Butler Keywords \nGlobal Education Committee (GLEC) Date of Original 4-14-2017 Date of Digitization April \n2017 Broad Type Text Specific Type Report Original Item Location 1850/17500 Specific \nCollection Faculty Senate Committee Reports Notes Note: imported from RIT\u2019s Digital Media \nLibrary running on DSpace to the RIT Digital Institutional Repository in May, 2024; Some links \nembedded into the PDF may not work Download Share COinS Search Enter search terms: \u2026"
+    },
+    {
+        "title": "Global Education Task Force (GETF) Final Report AY2016",
+        "id": "cERQGLoAAAAJ:fQNAKQ3IYiAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:fQNAKQ3IYiAC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2017",
+        "description": "\"Global Education Task Force (GETF) Final Report AY2016\" by Zack Butler Home Search \nBrowse Colleges and Departments My Account About DC Network Digital Commons Network\u2122 \nSkip to main content Home About FAQ My Account RIT Digital Institutional Repository Rochester \nInstitute of Technology < Previous Next > Home RIT Digital Archives FACSENATE 807 \nFaculty Senate Global Education Task Force (GETF) Final Report AY2016 Author Zack Butler \nKeywords Global Education Committee (GLEC) Date of Original 5-1-2017 Date of Digitization \nJune 2017 Broad Type Text Specific Type Report Original Item Location 1850/17500 Specific \nCollection Faculty Senate Committee Reports Notes Note: imported from RIT\u2019s Digital Media \nLibrary running on DSpace to the RIT Digital Institutional Repository in May, 2024; Some \nlinks embedded into the PDF may not work Download Share COinS Search Enter search \u2026"
+    },
+    {
+        "title": "Mazes: not just for kids",
+        "id": "cERQGLoAAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "ACM Inroads",
+        "pub_date": "2016/8/17",
+        "description": "When you solved these mazes, what algorithm were you running? The algorithms that you used are probably not the same ones that a computer would use. Most people use a form of depth-first search, since it has a low (short-term) memory requirement, however, you can easily lose track of which paths you have already tried. Computers don\u2019t have this problem, of course, so a breadth-first search is the usual approach. Of course, humans might use other strategies, such as finding bottlenecks, searching from the end back to the start, or even searching from both directions at once, and we can program these algorithms as well! In all cases, with state-based mazes, the challenge is to make sure you represent your state correctly-a state of the search is not just a vertex of the graph, and the mazes that are easy for people to solve might not be the ones that are easy to program! We\u2019ve posted sample code solutions at\u00a0\u2026"
+    },
+    {
+        "title": "GETF Preliminary Final Report AY2015 (PPt)",
+        "id": "cERQGLoAAAAJ:VOx2b1Wkg3QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:VOx2b1Wkg3QC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2016",
+        "description": "\"GETF Preliminary Final Report AY2015 (PPt)\" by Zack Butler Home Search Browse \nColleges and Departments My Account About DC Network Digital Commons Network\u2122 \nSkip to main content Home About FAQ My Account RIT Digital Institutional Repository \nRochester Institute of Technology < Previous Next > Home RIT Digital Archives \nFACSENATE 805 Faculty Senate GETF Preliminary Final Report AY2015 (PPt) Author Zack \nButler Keywords Global Education Committee (GLEC) Date of Original 4-19-2016 Date of \nDigitization April 2016 Broad Type Text Specific Type Presentation Original Item Location \n1850/17500 Specific Collection Faculty Senate Committee Reports Notes Note: imported \nfrom RIT\u2019s Digital Media Library running on DSpace to the RIT Digital Institutional \nRepository in May, 2024; Some links embedded into the PDF may not work Additional Files \n1850_18558_GETFFinalReport_05-18-2016.pdf (68 \u2026"
+    },
+    {
+        "title": "Task allocation for reconfigurable teams",
+        "id": "cERQGLoAAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:9ZlFYXVOiuMC",
+        "authors": [
+            "Zack Butler",
+            "Jacob Hays"
+        ],
+        "pub_source": "Robotics and Autonomous Systems",
+        "pub_date": "2015/6/1",
+        "description": "Self-reconfigurable robots are systems built from a collection of modules that have the ability to form themselves into many different topologies. This includes forming robots of different shapes, but also includes dividing and merging to form different numbers of physically independent robots during the course of the mission. We call systems of this type reconfigurable teams. The challenge with such systems is to utilize these capabilities in an effective fashion to complete the given mission. In this work, we describe a behavior-based algorithm and an auction-based algorithm, each inspired by previous work in mobile robot task allocation, to control reconfigurable teams. For each technique, we extend the traditional methods by giving them the ability to utilize the dividing and merging operations to improve efficiency of the overall mission. We then apply these algorithms to missions of exploration and placement of\u00a0\u2026",
+        "citations": 12
+    },
+    {
+        "title": "On Beyond Sudoku: Pencil Puzzles for Introductory Computer Science",
+        "id": "cERQGLoAAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Zack Butler",
+            "Ivona Bezakova"
+        ],
+        "pub_source": "Proceedings of the 46th ACM Technical Symposium on Computer Science Education",
+        "pub_date": "2015/2/24",
+        "description": "Problem solving is a powerful teaching methodology for computer science -- giving students a real problem to solve instead of simply discussing abstract concepts can motivate them and give them a path to better understanding. However, it is challenging to create novel example problems that are meaningful and engaging yet can be easily understood by all students. In this workshop, we will introduce participants to the vibrant world of pencil puzzles and show how many different types of puzzles can be used for a variety of topics throughout the introductory CS curriculum. Pencil puzzles are those designed to be solved by hand with pencil and paper (such as Sudoku, but including dozens of new types!) that have clear rules and are made to be solved deductively. As such, they are explicitly designed to be easy to understand and intriguing and naturally inspire algorithmic thought. We will explore a variety of on-line\u00a0\u2026"
+    },
+    {
+        "title": "GETF Report AY2014 (PPt)",
+        "id": "cERQGLoAAAAJ:wbdj-CoPYUoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:wbdj-CoPYUoC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "\"GETF Report AY2014 (PPt)\" by Zack Butler Home Search Browse Colleges and \nDepartments My Account About DC Network Digital Commons Network\u2122 Skip to main \ncontent Home About FAQ My Account RIT Digital Institutional Repository Rochester Institute \nof Technology < Previous Next > Home RIT Digital Archives FACSENATE 804 Faculty \nSenate GETF Report AY2014 (PPt) Author Zack Butler Keywords Global Education \nCommittee (GLEC) Date of Original 10-6-2015 Date of Digitization October 2015 Broad \nType Text Specific Type Final Paper Original Item Location 1850/17500 Specific Collection \nFaculty Senate Committee Reports Notes Note: imported from RIT\u2019s Digital Media Library \nrunning on DSpace to the RIT Digital Institutional Repository in May, 2024; Some links \nembedded into the PDF may not work Download Share COinS Search Enter search terms: \nSelect context to search: Advanced Search Notify \u2026"
+    },
+    {
+        "title": "GETF Presentation (PPt) 5/1/2014",
+        "id": "cERQGLoAAAAJ:J-pR_7NvFogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:J-pR_7NvFogC",
+        "authors": [
+            "Zack Butler",
+            "Jim Myers"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "\"GETF Presentation (PPt) 5/1/2014\" by Zack Butler and Jim Myers Home Search Browse \nColleges and Departments My Account About DC Network Digital Commons Network\u2122 \nSkip to main content Home About FAQ My Account RIT Digital Institutional Repository \nRochester Institute of Technology < Previous Next > Home RIT Digital Archives \nFACSENATE 803 Faculty Senate GETF Presentation (PPt) 5/1/2014 Author Zack Butler Jim \nMyers Keywords Global Education Committee (GLEC) Date of Original 8-12-2015 Date of \nDigitization August 2015 Broad Type Text Specific Type Presentation Original Item Location \n1850/17500 Specific Collection Faculty Senate Committee Reports Notes Note: imported \nfrom RIT\u2019s Digital Media Library running on DSpace to the RIT Digital Institutional \nRepository in May, 2024; Some links embedded into the PDF may not work Download \nShare COinS Search Enter search terms: Select \u2026"
+    },
+    {
+        "title": "Global Education Task Force-Final Report AY2014",
+        "id": "cERQGLoAAAAJ:V3AGJWp-ZtQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:V3AGJWp-ZtQC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2015",
+        "description": "\"Global Education Task Force - Final Report AY2014\" by Zack Butler Home Search Browse \nColleges and Departments My Account About DC Network Digital Commons Network\u2122 Skip \nto main content Home About FAQ My Account RIT Digital Institutional Repository Rochester \nInstitute of Technology < Previous Next > Home RIT Digital Archives FACSENATE 799 Faculty \nSenate Global Education Task Force - Final Report AY2014 Author Zack Butler Keywords \nGlobal Education Committee (GLEC) Date of Original 6-1-2015 Date of Digitization June \n2015 Broad Type Text Specific Type Final Paper Original Item Location 1850/17500 Specific \nCollection Faculty Senate Committee Reports Notes Note: imported from RIT\u2019s Digital Media \nLibrary running on DSpace to the RIT Digital Institutional Repository in May, 2024; Some links \nembedded into the PDF may not work Download Share COinS Search Enter search terms: \u2026"
+    },
+    {
+        "title": "International Education Task Force Report (PPt) and Document of Statement and Principles (April 3 2014)",
+        "id": "cERQGLoAAAAJ:kRWSkSYxWN8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:kRWSkSYxWN8C",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2014",
+        "description": "\"International Education Task Force Report (PPt) and Document of Statem\" by Zack Butler \nHome Search Browse Colleges and Departments My Account About DC Network Digital \nCommons Network\u2122 Skip to main content Home About FAQ My Account RIT Digital \nInstitutional Repository Rochester Institute of Technology < Previous Next > Home RIT \nDigital Archives FACSENATE 798 Faculty Senate International Education Task Force \nReport (PPt) and Document of Statement and Principles (April 3 2014) Author Zack Butler \nKeywords Global Education Committee (GLEC) Date of Original 4-2-2014 Date of \nDigitization April 2014 Broad Type Text Specific Type Presentation Original Item Location \n1850/17500 Specific Collection Faculty Senate Committee Reports Notes Note: imported \nfrom RIT\u2019s Digital Media Library running on DSpace to the RIT Digital Institutional \nRepository in May, 2024; Some links embedded into the \u2026"
+    },
+    {
+        "title": "GETF Report (4/3/2014)",
+        "id": "cERQGLoAAAAJ:q3oQSFYPqjQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:q3oQSFYPqjQC",
+        "authors": [
+            "Jim Myers",
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2014",
+        "description": "\"GETF Report (4/3/2014)\" by Jim Myers and Zack Butler Home Search Browse Colleges and \nDepartments My Account About DC Network Digital Commons Network\u2122 Skip to main \ncontent Home About FAQ My Account RIT Digital Institutional Repository Rochester Institute of \nTechnology < Previous Next > Home RIT Digital Archives FACSENATE 802 Faculty Senate \nGETF Report (4/3/2014) Author Jim Myers Zack Butler Keywords Global Education Committee \n(GLEC) Date of Original 4-3-2014 Date of Digitization August 2015 Broad Type Text Specific \nType Report Original Item Location 1850/17500 Specific Collection Faculty Senate Committee \nReports Notes Note: imported from RIT\u2019s Digital Media Library running on DSpace to the RIT \nDigital Institutional Repository in May, 2024; Some links embedded into the PDF may not \nwork Download Share COinS Search Enter search terms: Select context to search: Advanced \u2026"
+    },
+    {
+        "title": "Easily-programmable corobots for student use",
+        "id": "cERQGLoAAAAJ:QIV2ME_5wuYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:QIV2ME_5wuYC",
+        "authors": [
+            "Zack Butler",
+            "Max Bogue",
+            "Ravdeep Johar",
+            "Balaji Iyer"
+        ],
+        "pub_source": "2013 16th International Conference on Advanced Robotics (ICAR)",
+        "pub_date": "2013/11/25",
+        "description": "As mobile robots become more prevalent in our society, there are numerous potential applications for them. However, current educational opportunities tend to focus on the robotics aspects rather than higher-level applications. In this project, we are developing a system that takes care of the robotics aspects and provides a fully-capable yet fully programmable platform to allow students with interests in areas outside robotics can learn the traditional computing concepts within the robot context. These interactive robots, or \u201ccorobots\u201d, will operate within the department alongside people while performing tasks as programmed by the students. Here we present the overall system architecture, in which we solve fairly traditional problems but in a robust way that will allow for general use, and a student API which can control the robots at a high level while integrated with arbitrary other code.",
+        "citations": 1
+    },
+    {
+        "title": "Integrating highly-capable corobots into a computing curriculum",
+        "id": "cERQGLoAAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Zack Butler",
+            "Rajendra K Raj",
+            "Minseok Kwon"
+        ],
+        "pub_source": "2013 IEEE Frontiers in Education Conference (FIE)",
+        "pub_date": "2013/10/23",
+        "description": "Robots are typically used at the college level either as a pedagogic platform for introductory programming or for more advanced courses in robotics. With robots becoming cheaper and more plentiful, personal interactions with them will become more commonplace. This project therefore takes the position that undergraduate computing students need the opportunity to explore core computing concepts in a robotics context. Specifically, we will give students the ability to work alongside teams of highly capable and easily programmable corobots, a term used to identify robots that work side by side with humans, rather than being completely autonomous and isolated. A modular approach is used to incorporate corobotics into various computer science (CS) courses such as first-year computing, networking, and data management, thus permitting the students to see these corobots in multiple contexts. This work-in\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "On beyond Sudoku: pencil puzzles across CS",
+        "id": "cERQGLoAAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "Journal of Computing Sciences in Colleges",
+        "pub_date": "2013/1/1",
+        "description": "As the puzzle known as Sudoku became widespread in the US, it became a popular way to teach backtracking search since it requires little explanation to most students. However, there are many other types of pencil puzzles that can be used as domains for this problem as well as others. By using different puzzle types, the level of difficulty can be varied, the novelty factor can be maintained over time, and a wider variety of assignments in different courses can be created. This paper describes several puzzle-based assignments that have been given in different courses as well as possibilities for even more. Beyond simply suggesting that these particular puzzles can be used for these topics, we propose that investigating the wide variety of puzzle types in existence can be a fruitful and customizable platform for teaching many different topics."
+    },
+    {
+        "title": "Hierarchical distributed task allocation for multi-robot exploration",
+        "id": "cERQGLoAAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "John Hawley",
+            "Zack Butler"
+        ],
+        "pub_source": "Distributed Autonomous Robotic Systems: The 10th International Symposium",
+        "pub_date": "2013",
+        "description": "In order to more effectively explore a large unknown area, multiple robots may be employed to work cooperatively. When properly done, the group allocates specific portions of the overall exploration task to different robots such that the entire environment is explored with minimal excess effort. In this work, we present a new hierarchical market-based approach to this allocation problem. Our approach builds on standard auction approaches to provide agents with a mechanism to independently form coalitions and to divide a coalition into smaller coalitions in response to the progress of their cooperative exploration process. These coalitions allow a subset of the team to move together efficiently, especially in constrained environments when there are few avenues for exploration. We also present implementation and simulated experiments which show how this natural hierarchy forms and can lead to more\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Auction-based task allocation for teams of self-reconfigurable robots",
+        "id": "cERQGLoAAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "2012 IEEE International Symposium on Intelligent Control",
+        "pub_date": "2012/10/3",
+        "description": "Self-reconfigurable robots are versatile machines composed of many small, computationally independent modules. If a large number of modules is available, they can divide into multiple smaller robots instead of remaining as one large group. In such a case, they must decide based on their mission whether and when such a division is appropriate, and if so, how to divide the mission objectives amongst the smaller robots. Likewise, after division, a later task may be more effectively handled by merging two groups of modules to obtain a single robot with greater capability. For traditional teams of mobile robots, auction-based methods have been used for task allocation with good success. Here we develop an auction approach with new types of bids that incorporate splitting and merging of these robots. This allows the overall system to exploit its ability to vary the number of robots and their capabilities alongside\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "GETF Interim Report-2/9/2012",
+        "id": "cERQGLoAAAAJ:eJXPG6dFmWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:eJXPG6dFmWUC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "2012",
+        "description": "\"GETF Interim Report - 2/9/2012\" by Zack Butler Home Search Browse Colleges and \nDepartments My Account About DC Network Digital Commons Network\u2122 Skip to main content \nHome About FAQ My Account RIT Digital Institutional Repository Rochester Institute of \nTechnology < Previous Next > Home RIT Digital Archives FACSENATE 801 Faculty Senate GETF \nInterim Report - 2/9/2012 Author Zack Butler Keywords Global Education Committee (GLEC) \nDate of Original 2-9-2012 Date of Digitization 2015-08-12 Broad Type Text Specific Type Report \nOriginal Item Location 1850/17500 Specific Collection Faculty Senate Committee Reports Notes \nNote: imported from RIT\u2019s Digital Media Library running on DSpace to the RIT Digital Institutional \nRepository in May, 2024; Some links embedded into the PDF may not work Download \nShare COinS Search Enter search terms: Select context to search: Advanced Search Notify \u2026"
+    },
+    {
+        "title": "Behavior-based control of self-reconfigurable robot teams for sensor placement",
+        "id": "cERQGLoAAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "Jacob Hays",
+            "Zack Butler"
+        ],
+        "pub_source": "Intelligent Autonomous Systems 11",
+        "pub_date": "2010",
+        "description": "Self-reconfiguring robots are composed of modules with independent computation and actuation that can rearrange themselves to complete different tasks and navigate challenging terrain. Critically for this work, they can also completely divide into separate groups to accomplish mission goals in parallel, and merge those groups back together if necessary to achieve greater navigation capability. In this work, we propose a behavior-based architecture for sensor placement in unknown environments that explicitly makes use of this dynamic parallelism. A set of behaviors, or tasks, are used to control the exploration and sensor placement as well as when and how the groups of modules should merge together or split apart to more efficiently achieve their goals. A series of simulations shows that the use of reconfiguration for dynamic parallelism in this architecture does lower the time and energy required while\u00a0\u2026"
+    },
+    {
+        "title": "Corridors for robot team navigation",
+        "id": "cERQGLoAAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:mB3voiENLucC",
+        "authors": [
+            "Zack Butler",
+            "Carlos Bribiescas"
+        ],
+        "pub_source": "Distributed Autonomous Robotic Systems 8",
+        "pub_date": "2009/5/15",
+        "description": "In previous work, we proposed the use of virtual corridors to move a group of agents (animals) from one location to another. Using virtual fence technology, we can create a corridor froma set of fences to generate the desired gross motion of the herd without overspecifying paths for the animals. This allows us to reduce the amount of stimulus given to the animals while allowing them to naturally avoid obstacles (or other agents) without having to consider them during planning. In addition, a single corridor can be used by the entire group, simplifying planning and requiring only limited communication. In this work, we have implemented virtual corridors for robot team navigation, both in simulation and on two Pioneer mobile robots, and performed a number of experiments with two aims in mind. First, we wish to determine if, and under what circumstances, corridors are a practical solution to navigation by a team of\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Adaptive expert systems for indirect coverage control",
+        "id": "cERQGLoAAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Greg von Pless",
+            "Zack Butler"
+        ],
+        "pub_source": "2009 IEEE International Conference on Robotics and Automation",
+        "pub_date": "2009/5/12",
+        "description": "Herds of livestock, when left to their own devices, will forage for food in predictable patterns, and will often overgraze preferred areas while leaving other areas untouched. The field of grazing management looks to improve the efficiency of land use by moving the animals through different pastures at regular intervals, akin to coverage algorithms used in robotics but with non-uniform coverage and additional constraints due to the animals' natural behaviors. The knowledge of the field of grazing management is largely in the hands of ranchers and other domain experts, and as such has not been the subject of much computational study. In this work, we have created novel learning techniques for expert systems that use both off-line and online learning to generate efficient performance. The rules of the expert systems are initially developed using an evolutionary algorithm, and after deployment, an adaptive algorithm\u00a0\u2026"
+    },
+    {
+        "title": "Reconfigurable teams: cooperative goal seeking with self-reconfigurable robots",
+        "id": "cERQGLoAAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Zack Butler",
+            "Eric Fabricant"
+        ],
+        "pub_source": "Distributed Autonomous Robotic Systems 8",
+        "pub_date": "2009",
+        "description": "Self-reconfigurable (SR) robots have been developed with the promise of enabling a wide range of abilities within a single hardware system. Particularly in the context of locomotion, SR robots may be able to traverse a wider range of environments than traditional legged or wheeled robots. Additionally, with a large number of modules, the system may be able to divide to explore areas in parallel and recombine to make larger, more capable groups. However, the choice of how to divide and merge these \u201creconfigurable teams\u201d to most effectively solve tasks such as exploration of unknown terrain remains unanswered. This exploration problem can be seen as a superset of traditional multi-robot exploration, as robots must not only choose places to visit but also may coordinate to dynamically adjust the number of entities in the team. In this paper, we present a state-based distributed control algorithm for entities\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Work in progress-using a mobile robots laboratory to teach advanced computing concepts",
+        "id": "cERQGLoAAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Zack Butler",
+            "Minseok Kwon",
+            "Rajendra K Raj"
+        ],
+        "pub_source": "2008 38th Annual Frontiers in Education Conference",
+        "pub_date": "2008/10/22",
+        "description": "It is widely believed that one reason that the current generation of college students are not majoring in computing because such majors are viewed as uninteresting and not relevant. This WIP paper describes a curricular proof-of-concept project that attempts to integrate diverse computing concepts to increase and retain student interest in computing. We are developing a flexible mobile robots laboratory, not to teach introductory computing concepts but instead to teach intermediate and advanced computing topics such as networking, database management and distributed security. The essence of our approach is twofold: to provide exciting and physically-grounded projects in required intermediate-level courses, and to integrate the teaching of advanced computing topics into single courses, for example, networking with database management, and not merely defer such topics to capstone courses or projects. Such\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Million module march: Scalable locomotion for large self-reconfiguring robots",
+        "id": "cERQGLoAAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Robert Fitch",
+            "Zack Butler"
+        ],
+        "pub_source": "The International Journal of Robotics Research",
+        "pub_date": "2008/3",
+        "description": "Self-reconfiguring robots have the potential to explore highly variable terrain, operating as parallel groups or combining to surmount large obstacles. If the modules are at a smaller scale, they may also be able to physically render arbitrary shapes in an interactive way. In order to realize these capabilities, groups with large numbers of modules must be used, and algorithms to control such large groups must be extremely scalable in order to be executed on simple modules. In this work, we present an algorithm for locomotion of lattice-based self-reconfiguring robots that uses constant memory per module with execution times that are sublinear in the number of modules. The algorithm is inspired by reinforcement learning and uses dynamic programming to plan module paths in parallel. We have also developed a novel localized cooperation scheme that allows the modules to move both without disconnecting the\u00a0\u2026",
+        "citations": 116
+    },
+    {
+        "title": "Distributed and Cellular Robots.",
+        "id": "cERQGLoAAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Zack J Butler",
+            "Alfred A Rizzi",
+            "B Siciliano",
+            "O Khatib"
+        ],
+        "pub_source": "Springer Handbook of Robotics",
+        "pub_date": "2008",
+        "citations": 21
+    },
+    {
+        "title": "Scalable locomotion for large self-reconfiguring robots",
+        "id": "cERQGLoAAAAJ:4TOpqqG69KYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:4TOpqqG69KYC",
+        "authors": [
+            "Robert Fitch",
+            "Zack Butler"
+        ],
+        "pub_source": "Proceedings 2007 IEEE International Conference on Robotics and Automation",
+        "pub_date": "2007/4/10",
+        "description": "For large self-reconfiguring robots, any algorithm that requires linear amounts of memory per module (with respect to the number of modules) or linear time for computation or communication per actuation is undesirable. While shape-forming may require linear amounts of memory, locomotion can be performed with simpler shape specifications, and therefore sublinear algorithms are possible. In this paper, we present a locomotion technique that performs both planning and actuation control in sublinear time and memory. The algorithm is inspired by reinforcement learning and uses dynamic programming to plan module paths in parallel. To ensure the physical integrity of the overall robot during motion, we have developed a novel localized cooperation scheme which may also be used with other self-reconfiguration algorithms. Our overall algorithm is able to direct locomotion over arbitrary obstacles, and the\u00a0\u2026",
+        "citations": 15
+    },
+    {
+        "title": "Robust classification of animal tracking data",
+        "id": "cERQGLoAAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Mac Schwager",
+            "Dean M Anderson",
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "Computers and Electronics in Agriculture",
+        "pub_date": "2007/3/1",
+        "description": "This paper describes an application of the K-means classification algorithm to categorize animal tracking data into various classes of behavior. It was found that, even without explicit consideration of biological factors, the clustering algorithm repeatably resolved tracking data from cows into two groups corresponding to active and inactive periods. Furthermore, it is shown that this classification is robust to a large range of data sampling intervals. An adaptive data sampling algorithm is suggested for improving the efficiency of both energy and memory usage in animal tracking equipment.",
+        "citations": 143
+    },
+    {
+        "title": "In-place distributed heterogeneous reconfiguration planning",
+        "id": "cERQGLoAAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Robert Fitch",
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "Distributed Autonomous Robotic Systems 6",
+        "pub_date": "2007",
+        "description": "This paper describes a distributed planner that allows a self-reconfiguring robot consisting of heterogeneous modules to change configuration without using extra space. This work builds on previous work on reconfiguration planning for homogeneous robots and our recent work on heterogeneous reconfiguration planning that requires temporary working space to execute. Motivated by a specific algorithm for the distributed Crystal robot, we describe and analyze an O(n 2)-time reconfiguration algorithm for systems of modules with assigned types that uses a constrained amount of free space.",
+        "citations": 10
+    },
+    {
+        "title": "Corridor planning for natural agents",
+        "id": "cERQGLoAAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006.",
+        "pub_date": "2006/5/15",
+        "description": "Certain agents and systems of agents, such as animals, possess innate path-planning capability, both locally and globally. If we wish to influence their motion, we may be able to take advantage of their local navigation ability and provide only some simple imposed constraints rather than computing and enforcing a detailed path. In this work, we consider the problem of generating a set of constraints, or \"corridor\", under which such an agent (or group of agents) produce an appropriate trajectory. The set of constraints should be both small in number and efficient in terms of length. When producing the corridor, we explicitly consider two different types of obstacles - those which the agents themselves would naturally avoid, such as dense vegetation, and those which they must be forced to avoid, such as sensitive stream environments. This allows both for simplification of the corridor and more natural use of the\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "From robots to animals: Virtual fences for controlling cattle",
+        "id": "cERQGLoAAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Zack Butler",
+            "Peter Corke",
+            "Ron Peterson",
+            "Daniela Rus"
+        ],
+        "pub_source": "The International Journal of Robotics Research",
+        "pub_date": "2006/5",
+        "description": "We consider the problem of monitoring and controlling the position of herd                     animals, and view animals as networked agents with natural mobility but not                     strictly controllable. By exploiting knowledge of individual and herd behavior                     we would like to apply a vast body of theory in robotics and motion planning to                     achieving the constrained motion of a herd.In this paper we describe the concept of a virtual fence which applies a                     stimulus to an animal as a function of its pose with respect to the fenceline.                     Multiple fence lines can define a region, and the fences can be static or                     dynamic. The fence algorithm is implemented by a small position-aware computer                     device worn by the animal, which we refer to as a Smart Collar. We describe a                     herd-animal simulator, the Smart Collar hardware and algorithms for tracking and\u00a0\u2026",
+        "citations": 129
+    },
+    {
+        "title": "Dynamic virtual fences for controlling cows",
+        "id": "cERQGLoAAAAJ:0EnyYjriUFMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:0EnyYjriUFMC",
+        "authors": [
+            "Zack Butler",
+            "Peter Corke",
+            "Ronald Peterson",
+            "Daniela Rus"
+        ],
+        "pub_source": "Experimental Robotics IX: The 9th International Symposium on Experimental Robotics",
+        "pub_date": "2006",
+        "description": "Abstract A virtual fence is created by applying an aversive stimulus to an animal when it approaches a predefined boundary. It is implemented by a small animal-borne computer system with a GPS receiver. This approach allows the implementation of virtual paddocks inside a normal physically-fenced paddock. Since the fence lines are virtual they can be moved by programming to meet the needs of animal or land management. This approach enables us to consider animals as agents with natural mobility that are controllable and to apply a vast body of theory in motion planning. In this paper we describe a herd-animal simulator and physical experiments conducted on a small herd of 10 animals using a Smart Collar. The Smart Collar consists of a GPS, PDA, wireless networking and a sound amplifier. We describe a motion planning algorithm that can move a virtual paddock subject to landscape constraints\u00a0\u2026",
+        "citations": 30
+    },
+    {
+        "title": "Motion-constrained mobile sensor networks",
+        "id": "cERQGLoAAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "ICAR'05. Proceedings., 12th International Conference on Advanced Robotics, 2005.",
+        "pub_date": "2005/7/18",
+        "description": "The addition of mobility to sensor networks gives users the ability to efficiently monitor environments about which little is known ahead of time. For example, if there is a suspected path through the forest that should be monitored, but its exact location is not known, sensors can be scattered through the area and converge on the path as people or animals are detected on it. In this work, we present several distributed algorithms for sensors to produce this convergence. The first is a robust positioning technique for open rectangular spaces. We also build on this to produce an algorithm for arbitrary connected spaces. In addition, we consider sensors that are inherently constrained in their motion, such as tethered sensors fixed to a single line of motion. We present both analytical and empirical results for a variety of cases and discuss extensions that will provide greater effectiveness"
+    },
+    {
+        "title": "Reconfiguration planning among obstacles for heterogeneous self-reconfiguring robots",
+        "id": "cERQGLoAAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Robert Fitch",
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "Proceedings of the 2005 IEEE International Conference on Robotics and Automation",
+        "pub_date": "2005/4/18",
+        "description": "Most reconfiguration planners for self-reconfiguring robots do not consider the placement of specific modules within the configuration. Recently, we have begun to investigate heterogeneous reconfiguration planning in lattice-based systems, in which there are various classes of modules. The start and goal configurations specify the class of each module, in addition to placement. Our previous work presents solutions for this problem with unrestricted free space available to the robot during reconfiguration, and also free space limited to a thin connected region over the entire surface of the configuration. In this paper, we further this restriction and define free space by an arbitrarily-shaped bounding region. This addresses the important problem of reconfiguration among obstacles, and reconfiguration over a rigid surface. Our algorithm plans module trajectories through the volume of the structure, and is divided into two\u00a0\u2026",
+        "citations": 31
+    },
+    {
+        "title": "Tracking a moving object with binary sensors",
+        "id": "cERQGLoAAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "Javed Aslam",
+            "Zack Butler",
+            "Florin Constantin",
+            "Valentino Crespi",
+            "George Cybenko",
+            "Daniela Rus"
+        ],
+        "pub_source": "Proc. of ACM SenSys",
+        "pub_date": "2005",
+        "description": "In this paper we examine the role of very simple and noisy sensors for the tracking problem. We propose a binary sensor model, where each sensor\u2019s value is converted reliably to one bit of information only: whether the object is moving toward the sensor or away from the sensor. We show that a network of binary sensors has geometric properties that can be used to develop a solution for tracking with binary sensors and present resulting algorithms and simulation experiments. We develop a particle ltering style algorithm for target tracking using such minimalist sensors. Our extensive simulations show low error that decreases with sensor density.",
+        "citations": 7
+    },
+    {
+        "title": "Generic decentralized control for lattice-based self-reconfigurable robots",
+        "id": "cERQGLoAAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Zack Butler",
+            "Keith Kotay",
+            "Daniela Rus",
+            "Kohji Tomita"
+        ],
+        "pub_source": "The International Journal of Robotics Research",
+        "pub_date": "2004/9",
+        "description": "Previous work on self-reconfiguring modular robots has concentrated primarily on                 designing hardware and developing reconfiguration algorithms tied to specific                 hardware systems. In this paper, we introduce a generic model for lattice-based                 self-reconfigurable robots and present several generic locomotion algorithms that                 use this model. The algorithms presented here are inspired by cellular automata,                 using geometric rules to control module actions. The actuation model used is a                 general one, assuming only that modules can generally move over the surface of a                 group of modules. These algorithms can then be instantiated onto a variety of                 particular systems. Correctness proofs of many of the rule sets are also given for                 the generic geometry; this analysis can carry over to the instantiated algorithms to                 provide different systems\u00a0\u2026",
+        "citations": 169
+    },
+    {
+        "title": "Controlling mobile sensors for monitoring events with coverage constraints",
+        "id": "cERQGLoAAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "IEEE International Conference on Robotics and Automation, 2004. Proceedings. ICRA'04. 2004",
+        "pub_date": "2004/4/26",
+        "description": "Sensor networks are systems of many small units that work together to monitor a given environment. Endowing such sensor units with mobility can allow them to reactively converge on more interesting portions of their environment. This enables the concentration of sensing resources where they are most useful and provides robustness by delivering redundancy at the point of interest. However, when converging, in general the sensors should not leave any portion of the environment unsensed. In this paper, we review distributed methods for controlling the sensors and describe a family of distributed methods for retaining coverage while allowing the convergence to proceed where possible. The coverage methods are based on the Voronoi diagram of the sensors' positions, and can use different amounts of communication and computation to produce complete coverage of the environment. We also describe\u00a0\u2026",
+        "citations": 66
+    },
+    {
+        "title": "Virtual fences for controlling cows",
+        "id": "cERQGLoAAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Zack Butler",
+            "Peter Corke",
+            "Ron Peterson",
+            "Daniela Rus"
+        ],
+        "pub_source": "IEEE International Conference on Robotics and Automation, 2004. Proceedings. ICRA'04. 2004",
+        "pub_date": "2004/4/26",
+        "description": "We describe a moving virtual fence algorithm for herding cows. Each animal in the herd is given a smart collar consisting of a GPS, PDA, wireless networking and a sound amplifier. Using the GPS, the animal's location can be verified relative to the fence boundary. When approaching the perimeter, the animal is presented with a sound stimulus whose effect is to move away. We have developed the virtual fence control algorithm for moving a herd. We present simulation results and data from experiments with 8 cows equipped with smart collars.",
+        "citations": 223
+    },
+    {
+        "title": "Distributed motion planning for 3D modular robots with unit-compressible modules",
+        "id": "cERQGLoAAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "Algorithmic Foundations of Robotics V",
+        "pub_date": "2004",
+        "description": "Self-reconfigurable robots are versatile systems consisting of large numbers of independent modules. Effective use of these systems requires parallel actuation and planning, both for efficiency and independence from a central controller. This paper presents the PacMan algorithm, a technique for distributed actuation and planning. This algorithm works on systems with two- or three-dimensional unit-compressible modules. We give a simplified version of the algorithm along with extensions that handle a larger class of parallel actuation. For both algorithms, we present correctness analysis that show the classes of reconfigurations that can be guaranteed to be achieved. For the extensions, we give proofs of parallel actuation capability that describe how several modules can move simultaneously without synchronization while retaining correctness. We have successfully instantiated the basic algorithm onto the\u00a0\u2026",
+        "citations": 86
+    },
+    {
+        "title": "Event-based motion control for mobile-sensor networks",
+        "id": "cERQGLoAAAAJ:u-x6o8ySG0sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:u-x6o8ySG0sC",
+        "authors": [
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "IEEE Pervasive Computing",
+        "pub_date": "2003/12/8",
+        "description": "In many sensor networks, considerably more units are available than necessary for simple coverage of the space. Augmenting sensor networks with motion can exploit this surplus to enhance sensing while also improving the network's lifetime and reliability. Sensor mobility allows better coverage in areas where events occur frequently. Another use of mobility comes about if the specific area of interest (within a larger area) is unknown during deployment. We've developed distributed algorithms for mobile-sensor networks to physically react to changes or events in their environment or in the network itself. Distribution supports scalability and robustness during sensing and communication failures. We present two classes of motion-control algorithms that let sensors converge on arbitrary event distributions. These algorithms trade off the amount of required computation and memory with the accuracy of the sensor\u00a0\u2026",
+        "citations": 206
+    },
+    {
+        "title": "Tracking a moving object with a binary sensor network",
+        "id": "cERQGLoAAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Javed Aslam",
+            "Zack Butler",
+            "Florin Constantin",
+            "Valentino Crespi",
+            "George Cybenko",
+            "Daniela Rus"
+        ],
+        "pub_source": "Proceedings of the 1st international conference on Embedded networked sensor systems",
+        "pub_date": "2003/11/5",
+        "description": "In this paper we examine the role of very simple and noisy sensors for the tracking problem. We propose a binary sensor model, where each sensor's value is converted reliably to one bit of information only: whether the object is moving toward the sensor or away from the sensor. We show that a network of binary sensors has geometric properties that can be used to develop a solution for tracking with binary sensors and present resulting algorithms and simulation experiments. We develop a particle filtering style algorithm for target tracking using such minimalist sensors. We present an analysis of fundamental tracking limitation under this sensor model, and show how this limitation can be overcome through the use of a single bit of proximity information at each sensor node. Our extensive simulations show low error that decreases with sensor density.",
+        "citations": 556
+    },
+    {
+        "title": "Reconfiguration planning for heterogeneous self-reconfiguring robots",
+        "id": "cERQGLoAAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Robert Fitch",
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003)(Cat. No. 03CH37453)",
+        "pub_date": "2003/10/27",
+        "description": "Current research in self-reconfiguring robots focuses predominantly on systems of identical modules. However, allowing modules of varying types, with different sensors, for example, is of practical interest. In this paper, we propose the development of an algorithmic basis for heterogeneous self-reconfiguring systems. We demonstrate algorithmic feasibility by presenting O(n/sup 2/) time centralized and O(n/sup 3/) time decentralized solutions to the reconfiguration problem for n non-identical modules. As our centralized time bound is equal to the best published homogeneous solution, we argue that space, as opposed to time, is the critical resource in the reconfiguration problem. Our results encourage the development both of applications that use heterogeneous self-reconfiguration, and also heterogeneous hardware systems.",
+        "citations": 98
+    },
+    {
+        "title": "Distributed planning and control for modular robots with unit-compressible modules",
+        "id": "cERQGLoAAAAJ:Tyk-4Ss8FVUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:Tyk-4Ss8FVUC",
+        "authors": [
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "The International Journal of Robotics Research",
+        "pub_date": "2003/9",
+        "description": "Self-reconfigurable robots are versatile systems consisting of large numbers of                    independent modules. Effective use of these systems requires parallel actuation                    and planning, both for efficiency and independence from a central controller. In                    this paper we present the PacMan algorithm, a technique for distributed                    actuation and planning for systems with two- or three-dimensional                    unit-compressible modules. We give two versions of the algorithm along with                    correctness analysis. We also analyze the parallel actuation capability of the                    algorithm, showing that it will not deadlock and will avoid disconnecting the                    robot. We have implemented PacMan on the Crystal robot, a hardware system                    developed in our lab, and we present experiments and discuss the feasibility of                    large-scale implementation.",
+        "citations": 97
+    },
+    {
+        "title": "Distributed locomotion algorithms for self-reconfigurable robots operating on rough terrain",
+        "id": "cERQGLoAAAAJ:MXK_kJrjxJIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:MXK_kJrjxJIC",
+        "authors": [
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No. 03EX694)",
+        "pub_date": "2003/7/16",
+        "description": "In this paper, we describe a set of distributed algorithms for self-reconfiguring modular robots that allow them to explore an area in parallel. The algorithms are based on geometric rules that each module evaluates independently relative to its local neighborhood. This paper concentrates on developing algorithms within this framework to enable travel over the widest variety of terrain. In particular, we show how to perform straight-line motion, turning while on obstacles, climbing over tall obstacles, and tunneling under overhangs, all of which work for groups of arbitrary size. This last feature is important, as it also allows a large system of self-reconfiguring modules to divide up into several groups of various sizes, each of which is equally capable of motion and participation in the overall group task. We also discuss implementations and ways to improve efficiency and switching between tasks.",
+        "citations": 20
+    },
+    {
+        "title": "Toward a second-generation minifactory for precision assembly",
+        "id": "cERQGLoAAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "R Hollis",
+            "A Rizzi",
+            "H Brown",
+            "AE Quaid",
+            "ZJ Butler"
+        ],
+        "pub_source": "International advances robotics program workshop on microrobots, micromachines and microsystems, Moscow, Russia",
+        "pub_date": "2003/4/24",
+        "description": "Manufacturers are facing increasing pressure to decrease development and deployment times for automated assembly systems for a variety of precision mechatronic products. The time and costs of integrating these systems must be significantly reduced to meet new and changing market pressures. We have previously developed an automation framework called an Architecture for Agile Assembly (AAA), and a prototype instantiation in the form of a modular tabletop precision assembly system termed \u201cminifactory.\u201d In this paper, we describe components of a new second generation minifactory which embodies many of the principles developed in our research.",
+        "citations": 14
+    },
+    {
+        "title": "Experiments in distributed control for modular robots",
+        "id": "cERQGLoAAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Zack Butler",
+            "Robert Fitch",
+            "Daniela Rus"
+        ],
+        "pub_source": "Experimental Robotics VIII",
+        "pub_date": "2003",
+        "description": "Effective algorithms for modular self-reconfiguring robots should be distributed and parallel. In previous work, we explored general algorithms for locomotion and self-replication and explained their instantiations to systems in which modules move over the surface of the robot. In this work, we present several algorithms and implementations applied to the Crystal robot: distributed locomotion algorithms designed specifically for unit-compressible actuation, as well as adaptation of a generic division algorithm to the Crystal robot. We also present the integration of a locomotion algorithm with a distributed goal recognition algorithm developed previously.",
+        "citations": 18
+    },
+    {
+        "title": "Distributed control for unit-compressible robots: goal-recognition, locomotion, and splitting",
+        "id": "cERQGLoAAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Zack Butler",
+            "Robert Fitch",
+            "Daniela Rus"
+        ],
+        "pub_source": "IEEE/ASME transactions on mechatronics",
+        "pub_date": "2002/12",
+        "description": "We present a distributed self-reconfiguring robot system with unit-compressible modules called the Crystal robot. A new design for the Crystal is presented that decouples the x axis and y axis actuation, has on-board sensing and has neighbor-to-neighbor communication. We also describe a suite of distributed control algorithms for this type of robot and associated experiments for each algorithm. Several of the algorithms presented are instantiations of generic distributed algorithms for self-reconfiguring robots. Specifically, we present an algorithm for distributed goal recognition, two new distributed locomotion algorithms designed for unit-compressible actuation and a new generic-division algorithm. We also present the integration of a locomotion algorithm with distributed goal recognition, allowing the robot to reconfigure and recognize the achievement of its goal, all without the use of a central controller. For all of\u00a0\u2026",
+        "citations": 94
+    },
+    {
+        "title": "Experiments in distributed locomotion with a unit-compressible modular robot",
+        "id": "cERQGLoAAAAJ:YOwf2qJgpHMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:YOwf2qJgpHMC",
+        "authors": [
+            "Zack Butler",
+            "Robert Fitch",
+            "Daniela Rus"
+        ],
+        "pub_source": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "pub_date": "2002/9/30",
+        "description": "Effective algorithms for modular self-reconfiguring robots should be distributed and parallel. In previous work, we explored general algorithms for locomotion and self-replication and their instantiations to systems in which modules move over the surface of the robot. In this work, we present several algorithms applied to the Crystal robot-two new distributed locomotion algorithms designed specifically for unit-compressible actuation, as well as the adaptation of a generic division algorithm to the Crystal. We also present the integration of a locomotion algorithm with a distributed goal recognition algorithm developed previously. This allows the robot to reconfigure and recognize the achievement of its goal, all without the use of a central controller. We have instantiated all of these algorithms on the Crystal hardware, and we present results of our experiments. These experiments empirically verify the utility of our distributed\u00a0\u2026",
+        "citations": 13
+    },
+    {
+        "title": "Distributed systems of self-reconfiguring robots",
+        "id": "cERQGLoAAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Zack Butler",
+            "Robert Fitch",
+            "Keith Kotay",
+            "Daniela Rus"
+        ],
+        "pub_source": "ACM SIGGRAPH 2002 conference abstracts and applications",
+        "pub_date": "2002/7/21",
+        "description": "A robot designed for a single purpose can perform a specific task very well, but it may perform poorly on a different task, or in a different environment. This is acceptable if the environment is structured; however, if the task is in an unknown environment, then a robot with the ability to change shape to suit the environment and the required functionality will be more likely to succeed. We wish to create more versatile robots by using self-reconfiguration: hundreds of small modules will autonomously organize and reorganize as geometric structures to best fit the terrain on which the robot has to move, the shape of the object the robot has to manipulate, or the sensing needs for the given task. For example, a robot could synthesize a snake shape to travel through a narrow tunnel, and then morph into a six-legged insect to navigate on rough terrain upon exit.",
+        "citations": 1
+    },
+    {
+        "title": "Distributed goal recognition algorithms for modular robots",
+        "id": "cERQGLoAAAAJ:hqOjcs7Dif8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:hqOjcs7Dif8C",
+        "authors": [
+            "Zack Butler",
+            "Robert Fitch",
+            "Daniela Rus",
+            "Yuhang Wang"
+        ],
+        "pub_source": "Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No. 02CH37292)",
+        "pub_date": "2002/5/11",
+        "description": "Modular robots are systems composed of a number of independent units that can be reconfigured to fit the task at hand. When the modules are computationally independent, they form a large distributed system with no central controller. We are concerned with the ability of such modular robots to easily recognize the achievement (or lack thereof) of a given goal configuration. We present algorithms for a class of 2D and 3D modular robots, along with correctness and running time analysis. We have successfully implemented the 2D algorithm on the second-generation Crystalline Atomic robot, a self-reconfigurable modular robot under development in our laboratory and we present implementation details and experimental results.",
+        "citations": 37
+    },
+    {
+        "title": "Generic decentralized control for a class of self-reconfigurable robots",
+        "id": "cERQGLoAAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Zack Butler",
+            "Keith Kotay",
+            "Daniela Rus",
+            "Kohji Tomita"
+        ],
+        "pub_source": "Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No. 02CH37292)",
+        "pub_date": "2002/5/11",
+        "description": "Previous work on self-reconfiguring modular robots has concentrated primarily on hardware and reconfiguration algorithms for particular systems. We introduce a type of generic locomotion algorithm for self-reconfigurable robots. The algorithms presented are inspired by cellular automata, using geometric rules to control module actions. The actuation model used is a general one, presuming that modules can generally move over the surface of a group of modules. These algorithms can then be instantiated on to a variety of particular systems. Correctness proofs of the rule sets are also given for the generic geometry, with the intent that this analysis can carry over to the instantiated algorithms to provide different systems with correct locomotion algorithms.",
+        "citations": 153
+    },
+    {
+        "title": "Self-reconfiguring robots",
+        "id": "cERQGLoAAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Daniela Rus",
+            "Zack Butler",
+            "Keith Kotay",
+            "Marsette Vona"
+        ],
+        "pub_source": "Communications of the ACM",
+        "pub_date": "2002/3/1",
+        "description": "Mimicking the adaptability of living biological cells, robot modules will reconfigure themselves toward a common purpose within the limits imposed by the local environment.",
+        "citations": 137
+    },
+    {
+        "title": "The Crystal Robot: Implementation and Demonstration.",
+        "id": "cERQGLoAAAAJ:mVmsd5A6BfQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:mVmsd5A6BfQC",
+        "authors": [
+            "Robert Fitch",
+            "Zack J Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "AAAI Mobile Robot Competition",
+        "pub_date": "2002",
+        "description": "Effective algorithms for modular self-reconfiguring robots should be distributed and parallel. In previous work, we explored general algorithms for locomotion and self-replication and explained their instantiations to systems in which modules move over the surface of the robot. In this paper, we describe the instantiation of one such locomotion algorithm to the Crystal robot: a distributed locomotion algorithm designed specifically for unit-compressible actuation. We also present the integration of this algorithm with obstacle avoidance for a demonstration at the 2002 AAAI conference.",
+        "citations": 3
+    },
+    {
+        "title": "Distributed replication algorithms for self-reconfiguring modular robots",
+        "id": "cERQGLoAAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Zack Butler",
+            "Satoshi Murata",
+            "Daniela Rus"
+        ],
+        "pub_source": "Distributed Autonomous Robotic Systems 5",
+        "pub_date": "2002",
+        "description": "Self-reconfiguring modular robots have the ability to reform themselves into a wide variety of different shapes to accomplish their tasks. In addition, a group of self-reconfiguring modules can divide up into several smaller groups to perform operations (such as exploration) in parallel. In either instance, due to the large number of independent modules in the system, distributed algorithms are highly desirable. In this paper, we describe a set of homogeneous distributed algorithms for self-reconfiguring modular robots that allow division and locomotion in two and three dimensional systems as well as recombination in two dimensions. The algorithms are written in a rule-based style inspired by cellular automata, and allow for the development of correctness analyses, which are also presented here.",
+        "citations": 58
+    },
+    {
+        "title": "3D rectilinear motion planning with minimum bend paths",
+        "id": "cERQGLoAAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Robert Fitch",
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No. 01CH37180)",
+        "pub_date": "2001/10/29",
+        "description": "Computing rectilinear shortest paths in two dimensions has been solved optimally using a number of different techniques. A variety of related problems have been solved, including minimizing the number of bends in the path, the total rectilinear distance, or some combination of both. However, solutions to the 3D versions of these problems are less common. We propose a solution to the 3D minimum-bend path problem, which has theoretical as well as practical interest. Applications include motion planning problems where straight line motion is preferred over taking arbitrary turns. We employ our results in motion planning for self-repair in self-reconfigurable robots.",
+        "citations": 26
+    },
+    {
+        "title": "Cellular automata for decentralized control of self-reconfigurable robots",
+        "id": "cERQGLoAAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Zack Butler",
+            "Keith Kotay",
+            "Daniela Rus",
+            "Kohji Tomita"
+        ],
+        "pub_source": "Proc. of the ICRA 2001 workshop on modular robots",
+        "pub_date": "2001/5",
+        "description": "Introduction The key research questions in self-reconfiguring robotics are how to design and engineer robot systems capable of self-reconfiguration, and how to plan for such systems. Several interesting robot designs have been proposed [RV01, KR99, MKY+98, TMK+99, FK90, PCSC96, YDR00, SWC99, UK00]. For each of these systems, architecture-dependent algorithms that couple planning to the specific actuation have been proposed. This includes real breakthroughs in both centralized planning [KR99, YMK+00] and decentralized planning [BBR, MYK+01, TMK+99]. This body of work has brought some real insight into planning and control. We believe we are at a point where we can step back and examine more general questions about self-reconfiguration planning in an architecture-independent way. It is important to examine architecture-independent algorithms that can be instantiated to many different systems because they have the potential of providing a more general sciencebase for the field. By outlining general principles for reconfiguration planning, we hope to learn how to better design hardware and control algorithms.In most existing self-reconfiguring robot systems, an individual module can move in general ways relative to a structure of modules, by traveling on the surface of the structure. By composing such movements, it is possible to generate a planner for shape transformation or for locomotion. The details for how to accomplish these goals are architecture-dependent. Automating this process, which is necessary to manage the individual degrees of freedom in robots made of many modules, has been the theme of the\u00a0\u2026",
+        "citations": 89
+    },
+    {
+        "title": "Complete Distributed Coverage of Rectilinear Environments: Zack J. Butler, Carnegie Mellon University, Pittsburgh, PA Alfred A. Rizzi, Carnegie Mellon University, Pittsburgh\u00a0\u2026",
+        "id": "cERQGLoAAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Zack J Butler",
+            "Alfred A Rizzi",
+            "Ralph L Hollis"
+        ],
+        "pub_source": "Algorithmic and Computational Robotics",
+        "pub_date": "2001/4/21",
+        "description": "Complete coverage of an unknown environment is a  valuable skill for a variety of robot tasks such as floor  cleaning and mine detection. Additionally, for a team  of robots, the ability to cooperatively perform such a  task can significantly improve their efficiency. This  paper presents a complete algorithm DC r (distributed  coverage of rectilinear environments) which gives ro bots this ability. DCr is applicable to teams of square  robots operating in finite rectilinear environments and  executes independently on each robot in the team, di recting the individual robots so as to cooperatively cover  their shared environment relying only on intrinsic con tact sensing to detect boundaries. DCr exploits the  structure of this environment along with reliable posi tion sensing to become the first algorithm capable of  generating cooperative coverage without the use of ei ther a central controller or knowledge of the robots\u2019  initial\u00a0\u2026",
+        "citations": 53
+    },
+    {
+        "title": "Simulation and experimental evaluation of complete sensor-based coverage in rectilinear environments",
+        "id": "cERQGLoAAAAJ:4DMP91E08xMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:4DMP91E08xMC",
+        "authors": [
+            "Zack J Butler",
+            "Alfred A Rizzi",
+            "Ralph L Hollis"
+        ],
+        "pub_source": "Experimental Robotics VII",
+        "pub_date": "2001",
+        "description": "Although sensor-based coverage is a skill which is applicable to a variety of robot tasks, its implementation has so far been limited, mostly by the physical limitations of traditional mobile robots. This paper presents sensor-based coverage algorithms both for a single robot and for a team of independent robots which have been designed to allow for easy integration on to real robots. The specific robots in question are planar robots called couriers, components of the minifactory, an automated assembly system. The couriers have excellent position sensing, which enables them to perform coverage, but have no explicit range or contact sensors to detect boundaries, which adds to the complexity of the coverage algorithm. A set of experiments from simulation is presented to show the overall efficiency of the single-robot and cooperative coverage processes in a variety of environments. A second set of experiments\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Cooperative coverage of rectilinear environments",
+        "id": "cERQGLoAAAAJ:Se3iqnhoufwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:Se3iqnhoufwC",
+        "authors": [
+            "Zack J Butler",
+            "Alfred A Rizzi",
+            "Ralph L Hollis"
+        ],
+        "pub_source": "Proceedings 2000 ICRA. Millennium Conference. IEEE International Conference on Robotics and Automation. Symposia Proceedings (Cat. No. 00CH37065)",
+        "pub_date": "2000/4/24",
+        "description": "A distributed cooperative coverage algorithm DC/sub R/ is presented, which is derived from an earlier complete single-robot algorithm, CC/sub R/. DC/sub R/ executes independently on each robot in a team where the individual robots do not know the initial locations of their peers and applies to systems of robots operating in a rectilinear environment that use only intrinsic contact sensing to determine the boundaries of the environment. Due to the reactive nature of CC/sub R/, the natural extension to DC/sub R/ preserves the completeness properties of the single-robot algorithm, and the outline of a completeness proof of DC/sub R/ is also presented. DC/sub R/ has been implemented in simulation, and directions for future work are presented which will make the algorithm more suited to physical robot systems.",
+        "citations": 53
+    },
+    {
+        "title": "Distributed coverage of rectilinear environments",
+        "id": "cERQGLoAAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Zack J Butler"
+        ],
+        "pub_source": "Carnegie Mellon University",
+        "pub_date": "2000",
+        "description": "This thesis addresses a specific problem of distributed robotics\u2014namely, the problem of using a team of identical robots to autonomously and cooperatively generate a map of their shared workspace without the use of a central controller. The problem is posed as one of sensor-based coverage, in which a complete exploration of the environment is produced without any initial information. The system that inspired this work, the minifactory, is an automated assembly system that requires the ability for complete self-calibration, a task that can be posed as sensor-based coverage. The problem addressed here is therefore specified for a class of robots similar to the minifactory's couriers\u2014rectangular robots with intrinsic contact sensing operating in a shared rectilinear environment.",
+        "citations": 56
+    },
+    {
+        "title": "Contact sensor-based coverage of rectilinear environments",
+        "id": "cERQGLoAAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Zack J Butler",
+            "Alfred A Rizzi",
+            "Ralph L Hollis"
+        ],
+        "pub_source": "Proceedings of the 1999 IEEE international symposium on intelligent control intelligent systems and semiotics (Cat. No. 99CH37014)",
+        "pub_date": "1999/9/17",
+        "description": "A variety of mobile robot tasks require complete coverage of an initially unknown environment, either as the entire task or as a way to generate a complete map for use during further missions. This is a problem known as sensor-based coverage, in which the robot's sensing is used to plan a path that reaches every point in the environment. A new algorithm, CC/sub R/, is presented here which works for robots with only contact sensing that operate in environments with rectilinear boundaries and obstacles. This algorithm uses a high-level rule-based feedback structure to direct coverage rather than a script in order to facilitate future extensions to a team of independent robots. The outline of a completeness proof of CC/sub R/ is also presented, which shows that it produces coverage of any of a large class of rectilinear environments. Implementation of CC/sub R/ in simulation is discussed, as well as the results of testing\u00a0\u2026",
+        "citations": 113
+    },
+    {
+        "title": "An integrated interface tool for the architecture for agile assembly",
+        "id": "cERQGLoAAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Jay Gowdy",
+            "Zack J Butler"
+        ],
+        "pub_source": "Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No. 99CH36288C)",
+        "pub_date": "1999/5/10",
+        "description": "Developing automated assembly systems normally happens in two distinct stages: first an \"off-line\" stage in which the system is designed and programmed in simulated and then an \"online\" stage in which the simulation results are used to minimize the deployment and integration time of the physical machines. The distinction is so great that usually completely different software environments are used in the design phase than are used in the deployment and operation phase. We present the architecture for agile assembly (AAA), a comprehensive integrated framework that is designed to blur these stages together and ease the transitions between them. We have used the protocols of AAA to create an integrated interface tool which can be used throughout the life-cycle of a developing AAA factory, from its design to its operation. We have tested the integrated interface tool both in simulation and with our prototype\u00a0\u2026",
+        "citations": 18
+    },
+    {
+        "title": "ccR: A complete algorithm for contact-sensor based coverage of rectilinear environments",
+        "id": "cERQGLoAAAAJ:_kc_bZDykSQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:_kc_bZDykSQC",
+        "authors": [
+            "Zack J Butler"
+        ],
+        "pub_source": "Carnegie Mellon University, The Robotics Institute",
+        "pub_date": "1998/10",
+        "description": "Sensor-based coverage is a powerful tool for robots to use to discover their environment, especially in cases when complete knowledge of the environment is required. Current methods have demonstrated the ability to cover virtually arbitrary planar areas but require a remote sensor of nite range, such as sonar. The work presented here handles the case of robots that use only contact sensing to determine the boundaries of their environment. An algorithm CCR is presented that works in a wide range of rectilinear geometries. A proof of completeness is presented for CCR which shows that it always causes the robot executing it to cover its environment. Also, possible extensions of CCR to incorporate a wider variety of environments are discussed. i",
+        "citations": 10
+    },
+    {
+        "title": "Integrated precision 3-DOF position sensor for planar linear motors",
+        "id": "cERQGLoAAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Zack J Butler",
+            "Alfred A Rizzi",
+            "Ralph L Hollis"
+        ],
+        "pub_source": "Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No. 98CH36146)",
+        "pub_date": "1998/5/20",
+        "description": "Planar linear motors have been shown to be capable of fast accurate 2-DOF motions, making them useful for assembly tasks. However, the lack of sensing capability has limited their applications. Previous planar motor sensors were precise but bulky and sensed only a single direction of motion. We present a small integrated 3-DOF sensor capable of 0.2 /spl mu/m position resolution (1/spl sigma/) which has been integrated with an existing planar linear motor without changing its overall size. Physical design of the sensor is presented as well as the custom electronics used to produce a low-noise DC output from the small signal levels of the sensor. Finally, we present results that demonstrate the resolution and accuracy of the complete sensor system.",
+        "citations": 45
+    },
+    {
+        "title": "Design of a hemispherical magnetic levitation haptic interface device",
+        "id": "cERQGLoAAAAJ:WF5omc3nYNoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:WF5omc3nYNoC",
+        "authors": [
+            "Peter Berkelman",
+            "Zack J Butler",
+            "RL Hollis"
+        ],
+        "pub_source": "Carnegie Mellon University, Engineering Design Research Center",
+        "pub_date": "1997",
+        "citations": 2
+    },
+    {
+        "title": "Design of a hemispherical magnetic levitation haptic interface device",
+        "id": "cERQGLoAAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Peter J Berkelman",
+            "Zack J Butler",
+            "Ralph L Hollis"
+        ],
+        "pub_source": "ASME international mechanical engineering congress and exposition",
+        "pub_date": "1996/11/17",
+        "description": "We are currently fabricating a haptic interface device to enable direct physical interaction with dynamic simulated three-dimensional environments by exerting and reacting to forces and motions between the user\u2019s hand and a magnetically levitated object. Our device uses magnetic levitation rather than a motorized linkage so that the dynamics are simple and actuator nonlinearities such as hysteresis, backlash and static friction are eliminated. Magnetic levitation haptic interaction was previously demonstrated using a fine motion robot wrist. A new magnetic levitation device was then designed specifically to address the requirements of realistic tool-based haptic interaction. A hemispherical device shape was adopted to maximize the ranges of translation and rotation and the ratio of actuator surface area to the levitated mass while enabling the user to grip a tool handle at the hemisphere center, near the center of\u00a0\u2026",
+        "citations": 87
+    },
+    {
+        "title": "Conversations with a Prominent Propagator: Frank Vahid",
+        "id": "cERQGLoAAAAJ:5Ul4iDaHHb8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:5Ul4iDaHHb8C",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Encouraging faculty to adopt transformative teaching practices in computer science (CS) undergraduate education requires sustained, intentional planning and effort. This article is the next installment in our series of interviews with prominent propagators: members of the CS education community who have successfully spread pedagogical or curricular innovations [2\u20134]. The goal is to capture knowledge and experiences that others can use to propagate their own teaching projects.In this article, we interviewed Frank Vahid, Co-Founder and Chief Learning Officer of zyBooks. com and Professor of Computer Science and Engineering at University of California Riverside (UCR). zyBooks [13] uses web-based, interactive learning content to replace traditional college textbooks and homework. Frank\u2019s research centers on learning methods to improve lower-division education in CS and STEM [1, 5\u20139], and embedded systems software and hardware [10\u201312]."
+    },
+    {
+        "title": "Conversations with a Prominent Propagator: Carl Haynes-Magyar",
+        "id": "cERQGLoAAAAJ:geHnlv5EZngC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:geHnlv5EZngC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Encouraging faculty to adopt new, high-impact teaching practices, tools, and curriculum in Computer Science (CS) undergraduate education requires intentional planning and sustained effort. This article is the next installment in the series of interviews with prominent propagators: members of the CS education community who have successfully spread pedagogical or curricular innovations [2\u20134]. The goal is to capture knowledge and experiences that others can use to propagate their own teaching projects.In this article, we interviewed Carl Haynes-Magyar, Presidential Postdoctoral Fellow at Carnegie Mellon University's School of Computer Science in the Human-Computer Interaction Institute. Carl is the creator of the Codespec [5], online programming tool, which is designed for self-guided programming practice in a variety of modalities, including scaffolded programming tasks such as block-based languages and Parsons Problems, as well as free-form coding. Codespec is built on IDEAS+: inclusion, diversity, equity, accessibility, sexual orientation and gender identity awareness, and justice [15]. Codespec scaffolds learners\u2019 programming skills development through a range of research-based problem types and learning support features. Carl also conducts research on tools and processes that support learners' development of self-regulated learning skills [10\u201313]."
+    },
+    {
+        "title": "Conversations with a Prominent Propagator: Barbara Ericson",
+        "id": "cERQGLoAAAAJ:B3FOqHPlNUQC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:B3FOqHPlNUQC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Increasing the meaningful usage of transformative teaching practices throughout Computer Science (CS) undergraduate education requires intentional planning and sustained effort. This article presents another installment in the series of interviews with prominent propagators: developers who have successfully disseminated their pedagogical or curricular projects within the CS education community. The goal is to capture experiences and insights that others can use to propagate their own educational innovations.In this installment, we interview Barbara Ericson: winner of the 2022 SIGCSE Award for Outstanding Contribution to Computer Science Education; Assistant Professor of Information, School of Information; and Assistant Professor of Electrical Engineering and Computer Science, College of Engineering at the University of Michigan. Barbara\u2019s work focuses on embedding dynamic learning activities informed by educational psychology into the design of open-source, interactive eBooks on the Runestone Academy platform for introductory computing courses [2, 5, 6]. Barbara mines the data to close the feedback loop and improve the instructional materials, as well as to generate knowledge [4]."
+    },
+    {
+        "title": "Conversation with a Prominent Propagator: Beth Quinn and Stephanie Weber, EngageCSEdu",
+        "id": "cERQGLoAAAAJ:SP6oXDckpogC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:SP6oXDckpogC",
+        "authors": [
+            "David P Bunde",
+            "Zack Butler",
+            "Christopher L Hovey",
+            "Cynthia Taylor"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Increasing the widespread use of transformative teaching practices in computer science (CS) undergraduate education requires sustained, intentional planning and effort. This article is the next installment in our series of interviews with prominent propagators: members of the CS education community who have successfully spread pedagogical or curricular innovations. Our goal is to capture knowledge and experiences that others can apply to successfully increase the adoption of their teaching projects.In this installment, we interview Beth Quinn and Stephanie Weber, the core team at the National Center for Women & Information Technology (NCWIT) in the US responsible for the development of EngageCSEdu. EngageCSEdu is a peer-reviewed collection of computer science course materials that also broaden diversity, equity, and inclusion. Assignments are peer-reviewed for quality, and must feature research-based techniques for engaging all students [9], particularly students from groups underrepresented in computing. In recognition of its importance, EngageCSEdu is now being managed by the ACM as a special project of the ACM Education Board."
+    },
+    {
+        "title": "Publication Submission Form",
+        "id": "cERQGLoAAAAJ:1sJd4Hv_s6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:1sJd4Hv_s6UC",
+        "authors": [
+            "Zack Butler",
+            "Alfred Rizzi",
+            "Ralph Hollis",
+            "Jay Gowdy",
+            "Peter Berkelman"
+        ],
+        "pub_source": "",
+        "pub_date": ""
+    },
+    {
+        "title": "Robot Localization with Particle Filters",
+        "id": "cERQGLoAAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "\u2022 The Particle filter is more accurate when the Corobot has to traverse one of the shorter hallways.\u2022 The laser on the Kinect measures the distance from the Corobot to an object. Unfortunately, it goes not detect the glass so we get an incorrect distance.\u2022 The accuracy of the odometry decreases the longer the robot moves because it does not factor in the weight of the robot and or how carpet and tile affects the distances traveled and changes in orientation."
+    },
+    {
+        "title": "Integrated Obstacle Detection and Avoidance for the Corobot System",
+        "id": "cERQGLoAAAAJ:RGFaLdJalmkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:RGFaLdJalmkC",
+        "authors": [
+            "Binit Shah",
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Corobots have a potential for numerous applications that are available for educational purposes in the robotics lab for students use. Easily programmable corobots generates opportunities for students to learn robotics and discover their potential. Being inexpensive, the hardware of these corobots limits the detection of obstacles. The challenge is to find a good obstacle avoidance algorithm which would help to fully deploy these corobots. This project proposes and implements an algorithm to find Feasible Motion Directions (FMD) to avoid obstacles which is different from Artificial Potential Field approach. FMD is implemented in static and dynamic environments taking into considerations the issues present in APF. FMD shows improvement over APF by getting out of local minima and passing through narrow passage between nearby obstacles. FMD also tries to solve the oscillation problem of APF."
+    },
+    {
+        "title": "Cricket: An Unfairly Random Game",
+        "id": "cERQGLoAAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Hitesh Mohite",
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Conclusion\u2022 The team prediction model could have performed better using more data instead of overfitting or underfitting."
+    },
+    {
+        "title": "BACKPAGE BACKPAGE",
+        "id": "cERQGLoAAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Zack Butler"
+        ],
+        "pub_source": "FRANKLIN, BEEDLE",
+        "pub_date": "",
+        "description": "When you solved these mazes, what algorithm were you running? The algorithms that you used are probably not the same ones that a computer would use. Most people use a form of depth-first search, since it has a low (short-term) memory requirement, however, you can easily lose track of which paths you have already tried. Computers don\u2019t have this problem, of course, so a breadth-first search is the usual approach. Of course, humans might use other strategies, such as finding bottlenecks, searching from the end back to the start, or even searching from both directions at once, and we can program these algorithms as well! In all cases, with state-based mazes, the challenge is to make sure you represent your state correctly-a state of the search is not just a vertex of the graph, and the mazes that are easy for people to solve might not be the ones that are easy to program! We\u2019ve posted sample code solutions at\u00a0\u2026"
+    },
+    {
+        "title": "Self-replicating Robots for Monitoring and Surveillance",
+        "id": "cERQGLoAAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Zack Butler",
+            "Daniela Rus"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "Self-reconfigurable robots are modular robots that can morph into different shapes without outside assistance. The ability to change shape allows these robots to adaptively execute a variety of different tasks, such as locomotion through small passages, climbing tall obstacles, and moving while supporting large payloads, that a single fixed-architecture robot would be incapable of. Self-reconfiguring robots can also function as parallel distributed machines. We consider the self-replication ability in which a large robot can divide itself in several independent smaller robots with the same basic functionality (but not identical size). For example, a system consisting of 100 modules could function as one large robot or 10 smaller robots each consisting of 10 modules, or any number of other configurations. Self-replicating robots are useful in tasks where the overall effectiveness and task completion time is improved by\u00a0\u2026"
+    },
+    {
+        "title": "deglpq su w He lg He l wL wpqeTl Le lTwTlsq Hw Tl lqTe uw e de le",
+        "id": "cERQGLoAAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Peter J Berkelman",
+            "Zack J Butler",
+            "Ralph L Hollis"
+        ],
+        "pub_source": "",
+        "pub_date": ""
+    },
+    {
+        "title": "Precision Motion Sensing for Planar Linear Motors",
+        "id": "cERQGLoAAAAJ:TQgYirikUcIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:TQgYirikUcIC",
+        "authors": [
+            "Z Butler",
+            "AA Rizzi",
+            "G Fries",
+            "RL Hollis"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "This project focuses on the development of new sensing and control techniques for planar linear motors. These types of motors have a promising future in several areas of precision manufacturing\u2014if problems associated with their use can be solved. Currently, these motors operate in an open-loop stepping manner, a mode of operation that makes them i) susceptible to loss of steps, ii) unable to reject external disturbances, iii) unable to provide controlled forces, and iv) unable to provide high stiffness. These limitations, in turn, restrict their usefulness in a wide range of manufacturing applications. In this paper, we report recent progress in developing appropriate motion sensing technology to eliminate these problems.Introduction:"
+    },
+    {
+        "title": "Closed-Loop Planar Linear Motors",
+        "id": "cERQGLoAAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "A Quaid",
+            "Z Butler",
+            "G Fries",
+            "AA Rizzi",
+            "RL Hollis"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "This project focuses on the development of new sensing and control techniques for planar linear motors. These types of motors have a promising future in several areas of precision manufacturing\u2014if problems associated with their use can be solved. Currently, these motors operate in an open-loop stepping manner, a mode of operation that makes them i) susceptible to loss of steps, ii) unable to reject external disturbances, iii) unable to provide controlled forces, and iv) unable to provide high stiffness. These limitations, in turn, restrict their usefulness in a wide range of manufacturing applications. In this paper, we report recent progress in developing appropriate motion sensing and control technologies to provide closed-loop operation of planar linear motors, leading to greatly enhanced operating capabilities.Introduction:"
+    },
+    {
+        "title": "Developing Multidisciplinary Laboratories with the Cypress PSoC Masters Project Report",
+        "id": "cERQGLoAAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=cERQGLoAAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Stephen Hammack",
+            "Jim Vallino",
+            "James Heliotis",
+            "Zack Butler"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "3. BackgroundThe goal of this project is to create a set of laboratory exercises to teach Computer Science students about computer hardware and how to use software to interface with it. Learning about computer hardware and interacting with it from software would be a focus of a course using any of the labs that this project will develop. The labs need to be approachable to Computer Science students. Allowing software to interface with the hardware, rather than having everything done in hardware, provides a familiar ground for Computer Science. A Computer Science student will also likely find algorithms easier to write in software than hardware.There are many published papers with Computer Science courses that utilize computer hardware. One example paper focuses on hardware design with FPGAs [1]. Because of the high configurability of FPGAs, they are good tools for teaching a wide range of computer\u00a0\u2026"
+    }
+]

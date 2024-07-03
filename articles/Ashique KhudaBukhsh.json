@@ -1,0 +1,1166 @@
+[
+    {
+        "title": "Community Needs and Assets: A Computational Analysis of Community Conversations",
+        "id": "mWyMp38AAAAJ:vV6vV6tmYwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:vV6vV6tmYwMC",
+        "authors": [
+            "Md Towhidul Absar Chowdhury",
+            "Naveen Sharma",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the International AAAI Conference on Web and Social Media",
+        "pub_date": "2024/5/28",
+        "description": "A community needs assessment is a tool used by non-profits and government agencies to quantify the strengths and issues of a community, allowing them to allocate their resources better. Such approaches are transitioning towards leveraging social media conversations to analyze the needs of communities and the assets already present within them. However, manual analysis of exponentially increasing social media conversations is challenging. There is a gap in the present literature in computationally analyzing how community members discuss the strengths and needs of the community. To address this gap, we introduce the task of identifying, extracting, and categorizing community needs and assets from conversational data using sophisticated natural language processing methods. To facilitate this task, we introduce the first dataset about community needs and assets consisting of 3,511 conversations from Reddit, annotated using crowdsourced workers. Using this dataset, we evaluate an utterance-level classification model compared to sentiment classification and a popular large language model (in a zero-shot setting), where we find that our model outperforms both baselines at an F1 score of 94% compared to 49% and 61% respectively. Furthermore, we observe through our study that conversations about needs have negative sentiments and emotions, while conversations about assets focus on location and entities."
+    },
+    {
+        "title": "From Bollywood Son Preference to Moral Policing on Women in Iran-A 360\u00b0 View of Gender Bias",
+        "id": "mWyMp38AAAAJ:SeFeTyx0c_EC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:SeFeTyx0c_EC",
+        "authors": [
+            "Ashiqur R Khudabukhsh"
+        ],
+        "pub_source": "Companion Proceedings of the ACM on Web Conference 2024",
+        "pub_date": "2024/5/13",
+        "description": "Do longitudinal studies reveal a skewed gender distribution among newborn babies depicted in Bollywood movies? Who dominates the speaking time in political conversations on 24x7 news networks in the United States-men or women? How does Twitter discourse on gender equality evolve when a woman dies in police custody in Iran after being arrested (reportedly) due to improper headscarf-wearing? What is the representation of women in divorce court proceedings in India? This broad talk, where cutting-edge AI intersects with social science research questions, encompasses a diverse array of studies that unveil gender bias in various forms. In this presentation, I will describe the substantive findings, social impact, methodological challenges, scope for multimodal investigations, and the novelties entailed in this research. I will conclude the talk with our findings on worrisome gender bias in several large\u00a0\u2026"
+    },
+    {
+        "title": "Infrastructure ombudsman: Mining future failure concerns from structural disaster response",
+        "id": "mWyMp38AAAAJ:ldfaerwXgEUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:ldfaerwXgEUC",
+        "authors": [
+            "Md Towhidul Absar Chowdhury",
+            "Soumyajit Datta",
+            "Naveen Sharma",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the ACM on Web Conference 2024",
+        "pub_date": "2024/5/13",
+        "description": "Current research concentrates on studying discussions on social media related to structural failures to improve disaster response strategies. However, detecting social web posts discussing concerns about anticipatory failures is under-explored. If such concerns are channeled to the appropriate authorities, it can aid in the prevention and mitigation of potential infrastructural failures. In this paper, we develop an infrastructure ombudsman -- that automatically detects specific infrastructure concerns. Our work considers several recent structural failures in the US. We present a first-of-its-kind dataset of 2,662 social web instances for this novel task mined from Reddit and YouTube.",
+        "citations": 1
+    },
+    {
+        "title": "Quantifying Political Polarization through the Lens of Machine Translation and Vicarious Offense",
+        "id": "mWyMp38AAAAJ:HoB7MX3m0LUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:HoB7MX3m0LUC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2024/3/24",
+        "description": "This talk surveys three related research contributions that shed light on the current US political divide: 1. a novel machine-translation-based framework to quantify political polarization; 2. an analysis of disparate media portrayal of US policing in major cable news outlets; and 3. a novel perspective of vicarious offense that examines a timely and important question--how well do Democratic-leaning users perceive what content would be deemed as offensive by their Republican-leaning counterparts or vice-versa?"
+    },
+    {
+        "title": "Novax or Novak? Estimating Social Media Stance towards Celebrity Vaccine Hesitancy (Student Abstract)",
+        "id": "mWyMp38AAAAJ:pqnbT2bcN3wC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:pqnbT2bcN3wC",
+        "authors": [
+            "Madhav Hota",
+            "Adel Khorramrouz",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2024/3/24",
+        "description": "On 15 January 2022, noted tennis player Novak Djokovic was deported from Australia due to his unvaccinated status for the COVID-19 vaccine. This paper presents a stance classifier and evaluates public reaction to this episode and the impact of this behavior on social media discourse on YouTube. We observed a significant spike of individuals who supported and opposed his behavior at the time of the episode. Supporters outnumbered those who opposed this behavior by over 4x. Our study reports a disturbing trend that following every major Djokovic win, even now, vaccine skeptics often conflate his tennis success as a fitting reply to vaccine mandates."
+    },
+    {
+        "title": "Community Needs and Assets: A Computational Analysis of Community Conversations",
+        "id": "mWyMp38AAAAJ:2P1L_qKh6hAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:2P1L_qKh6hAC",
+        "authors": [
+            "Md Towhidul Absar Chowdhury",
+            "Naveen Sharma",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2024/3",
+        "description": "A community needs assessment is a tool used by non-profits and government agencies to quantify the strengths and issues of a community, allowing them to allocate their resources better. Such approaches are transitioning towards leveraging social media conversations to analyze the needs of communities and the assets already present within them. However, manual analysis of exponentially increasing social media conversations is challenging. There is a gap in the present literature in computationally analyzing how community members discuss the strengths and needs of the community. To address this gap, we introduce the task of identifying, extracting, and categorizing community needs and assets from conversational data using sophisticated natural language processing methods. To facilitate this task, we introduce the first dataset about community needs and assets consisting of 3,511 conversations from\u00a0\u2026"
+    },
+    {
+        "title": "Infrastructure Ombudsman: Mining Future Failure Concerns from Structural Disaster Response",
+        "id": "mWyMp38AAAAJ:35N4QoGY0k4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:35N4QoGY0k4C",
+        "authors": [
+            "Md Towhidul Absar Chowdhury",
+            "Soumyajit Datta",
+            "Naveen Sharma",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2024/2",
+        "description": "Current research concentrates on studying discussions on social media related to structural failures to improve disaster response strategies. However, detecting social web posts discussing concerns about anticipatory failures is under-explored. If such concerns are channeled to the appropriate authorities, it can aid in the prevention and mitigation of potential infrastructural failures. In this paper, we develop an infrastructure ombudsman--that automatically detects specific infrastructure concerns. Our work considers several recent structural failures in the US. We present a first-of-its-kind dataset of 2,662 social web instances for this novel task mined from Reddit and YouTube."
+    },
+    {
+        "title": "Quantifying the Transience of Social Web Datasets",
+        "id": "mWyMp38AAAAJ:M05iB0D1s5AC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:M05iB0D1s5AC",
+        "authors": [
+            "Mohammed Afaan Ansari",
+            "Jiten Sidhpura",
+            "Vivek Kumar Mandal",
+            "Ashiqur R Khudabukhsh"
+        ],
+        "pub_source": "Proceedings of the International Conference on Advances in Social Networks Analysis and Mining",
+        "pub_date": "2023/11/6",
+        "description": "The social web presents a modern-day instrument to analyze a wide range of behavioral research questions. Of these platforms, Twitter has played a key role in social science research for more than a decade. This paper looks into an underexplored aspect - transience of Twitter datasets and makes the following three contributions. First, via a comprehensive investigation of more than 40 Twitter datasets, we identify that many of these datasets suffer from severe retrieval loss. Second, we demonstrate that the retrieval loss across labels is often imbalanced with inappropriate labels (e.g., misinformation, hate speech) suffering from more retrieval loss. Finally, we demonstrate that imbalanced retrieval loss may impact machine learning models differently than balanced retrieval loss."
+    },
+    {
+        "title": "Down the Toxicity Rabbit Hole: A Novel Framework to Bias Audit Large Language Models",
+        "id": "mWyMp38AAAAJ:g5m5HwL7SMYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:g5m5HwL7SMYC",
+        "authors": [
+            "Arka Dutta",
+            "Adel Khorramrouz",
+            "Sujan Dutta",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2023/9",
+        "description": "This paper makes three contributions. First, it presents a generalizable, novel framework dubbed\\textit {toxicity rabbit hole} that iteratively elicits toxic content from a wide suite of large language models. Spanning a set of 1,266 identity groups, we first conduct a bias audit of\\texttt {PaLM 2} guardrails presenting key insights. Next, we report generalizability across several other models. Through the elicited toxic content, we present a broad analysis with a key emphasis on racism, antisemitism, misogyny, Islamophobia, homophobia, and transphobia. Finally, driven by concrete examples, we discuss potential ramifications."
+    },
+    {
+        "title": "Disentangling societal inequality from model biases: gender inequality in divorce court proceedings",
+        "id": "mWyMp38AAAAJ:RYcK_YlVTxYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:RYcK_YlVTxYC",
+        "authors": [
+            "Sujan Dutta",
+            "Parth Srivastava",
+            "Vaishnavi Solunke",
+            "Swaprava Nath",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv preprint arXiv:2307.10200",
+        "pub_date": "2023/7/9",
+        "description": "Divorce is the legal dissolution of a marriage by a court. Since this is usually an unpleasant outcome of a marital union, each party may have reasons to call the decision to quit which is generally documented in detail in the court proceedings. Via a substantial corpus of 17,306 court proceedings, this paper investigates gender inequality through the lens of divorce court proceedings. While emerging data sources (e.g., public court records) on sensitive societal issues hold promise in aiding social science research, biases present in cutting-edge natural language processing (NLP) methods may interfere with or affect such studies. We thus require a thorough analysis of potential gaps and limitations present in extant NLP resources. In this paper, on the methodological side, we demonstrate that existing NLP resources required several non-trivial modifications to quantify societal inequalities. On the substantive side, we find that while a large number of court cases perhaps suggest changing norms in India where women are increasingly challenging patriarchy, AI-powered analyses of these court proceedings indicate striking gender inequality with women often subjected to domestic violence.",
+        "citations": 1
+    },
+    {
+        "title": "For women, life, freedom: a participatory AI-based social web analysis of a watershed moment in Iran's gender struggles",
+        "id": "mWyMp38AAAAJ:O3NaXMp0MMsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:O3NaXMp0MMsC",
+        "authors": [
+            "Adel Khorramrouz",
+            "Sujan Dutta",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv preprint arXiv:2307.03764",
+        "pub_date": "2023/7/7",
+        "description": "In this paper, we present a computational analysis of the Persian language Twitter discourse with the aim to estimate the shift in stance toward gender equality following the death of Mahsa Amini in police custody. We present an ensemble active learning pipeline to train a stance classifier. Our novelty lies in the involvement of Iranian women in an active role as annotators in building this AI system. Our annotators not only provide labels, but they also suggest valuable keywords for more meaningful corpus creation as well as provide short example documents for a guided sampling step. Our analyses indicate that Mahsa Amini's death triggered polarized Persian language discourse where both fractions of negative and positive tweets toward gender equality increased. The increase in positive tweets was slightly greater than the increase in negative tweets. We also observe that with respect to account creation time, between the state-aligned Twitter accounts and pro-protest Twitter accounts, pro-protest accounts are more similar to baseline Persian Twitter activity.",
+        "citations": 2
+    },
+    {
+        "title": "Subjective Crowd Disagreements for Subjective Data: Uncovering Meaningful CrowdOpinion with Population-level Learning",
+        "id": "mWyMp38AAAAJ:GnPB-g6toBAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:GnPB-g6toBAC",
+        "authors": [
+            "Tharindu Cyril Weerasooriya",
+            "Sarah Luger",
+            "Saloni Poddar",
+            "Ashiqur R KhudaBukhsh",
+            "Christopher M Homan"
+        ],
+        "pub_source": "arXiv preprint arXiv:2307.10189",
+        "pub_date": "2023/7/7",
+        "description": "Human-annotated data plays a critical role in the fairness of AI systems, including those that deal with life-altering decisions or moderating human-created web/social media content. Conventionally, annotator disagreements are resolved before any learning takes place. However, researchers are increasingly identifying annotator disagreement as pervasive and meaningful. They also question the performance of a system when annotators disagree. Particularly when minority views are disregarded, especially among groups that may already be underrepresented in the annotator population. In this paper, we introduce \\emph{CrowdOpinion}\\footnote{Accepted for publication at ACL 2023}, an unsupervised learning based approach that uses language features and label distributions to pool similar items into larger samples of label distributions. We experiment with four generative and one density-based clustering method, applied to five linear combinations of label distributions and features. We use five publicly available benchmark datasets (with varying levels of annotator disagreements) from social media (Twitter, Gab, and Reddit). We also experiment in the wild using a dataset from Facebook, where annotations come from the platform itself by users reacting to posts. We evaluate \\emph{CrowdOpinion} as a label distribution prediction task using KL-divergence and a single-label problem using accuracy measures.",
+        "citations": 3
+    },
+    {
+        "title": "Subjective Crowd Disagreements for Subjective Data: Uncovering Meaningful CrowdOpinion with Population-level Learning",
+        "id": "mWyMp38AAAAJ:lSLTfruPkqcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:lSLTfruPkqcC",
+        "authors": [
+            "Tharindu Cyril Weerasooriya",
+            "Sarah Luger",
+            "Saloni Poddar",
+            "Ashiqur R KhudaBukhsh",
+            "Christopher M Homan"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2023/7",
+        "description": "Human-annotated data plays a critical role in the fairness of AI systems, including those that deal with life-altering decisions or moderating human-created web/social media content. Conventionally, annotator disagreements are resolved before any learning takes place. However, researchers are increasingly identifying annotator disagreement as pervasive and meaningful. They also question the performance of a system when annotators disagree. Particularly when minority views are disregarded, especially among groups that may already be underrepresented in the annotator population. In this paper, we introduce\\emph {CrowdOpinion}\\footnote {Accepted for publication at ACL 2023}, an unsupervised learning based approach that uses language features and label distributions to pool similar items into larger samples of label distributions. We experiment with four generative and one density-based clustering\u00a0\u2026"
+    },
+    {
+        "title": "Disagreement Matters: Preserving Label Diversity by Jointly Modeling Item and Annotator Label Distributions with DisCo",
+        "id": "mWyMp38AAAAJ:BqipwSGYUEgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:BqipwSGYUEgC",
+        "authors": [
+            "Tharindu Cyril Weerasooriya",
+            "Alexander Ororbia",
+            "Raj Bhensadadia",
+            "Ashiqur KhudaBukhsh",
+            "Christopher Homan"
+        ],
+        "pub_source": "Findings of the Association for Computational Linguistics: ACL 2023",
+        "pub_date": "2023/7",
+        "description": "Annotator disagreement is common whenever human judgment is needed for supervised learning. It is conventional to assume that one label per item represents ground truth. However, this obscures minority opinions, if present. We regard \u201cground truth\u201d as the distribution of all labels that a population of annotators could produce, if asked (and of which we only have a small sample). We next introduce DisCo (Distribution from Context), a simple neural model that learns to predict this distribution. The model takes annotator-item pairs, rather than items alone, as input, and performs inference by aggregating over all annotators. Despite its simplicity, our experiments show that, on six benchmark datasets, our model is competitive with, and frequently outperforms, other, more complex models that either do not model specific annotators or were not designed for label distribution learning.",
+        "citations": 2
+    },
+    {
+        "title": "[SRW] Gender Stereotyping in Popular Children's Videos",
+        "id": "mWyMp38AAAAJ:YFjsv_pBGBYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:YFjsv_pBGBYC",
+        "authors": [
+            "Tiasa Singha Roy",
+            "Mallikarjuna Tupakula",
+            "Sumeet Kumar",
+            "Ashiqur Khudabukhsh"
+        ],
+        "pub_source": "The 61st Annual Meeting Of The Association For Computational Linguistics",
+        "pub_date": "2023/7",
+        "description": "The internet provides a platform to build a world for children that is free of harmful social biases. However, it also presents an opportunity to generate and distribute unregulated content with minimal guidance from platforms, leading to the perpetuation or amplification of the very same biases we aim to mitigate. This study investigates the prevalence of social biases in children's videos on the top 100 YouTube Kids (YTK) channels having over 80,000 videos. Using video transcripts and picture frames, we examine gender and occupational stereotypes. Results from the Word Embedding Association Test and similar bias assessments reveal clear gender biases in many occupations, STEM-related fields, etc. We also find that video frames display more significant gender biases than video transcripts, suggesting that women are underrepresented in occupational discussions. The study's findings are important for content creators, video platform providers, and policymakers, highlighting a need for more vigilance in creating and recommending kids' content. We further propose a multi-modal bias metric that combines language and visual biases."
+    },
+    {
+        "title": "Auditing and robustifying COVID-19 misinformation datasets via anticontent sampling",
+        "id": "mWyMp38AAAAJ:hMod-77fHWUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:hMod-77fHWUC",
+        "authors": [
+            "Clay H Yoo",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2023/6/26",
+        "description": "This paper makes two key contributions. First, it argues that highly specialized rare content classifiers trained on small data typically have limited exposure to the richness and topical diversity of the negative class (dubbed anticontent) as observed in the wild. As a result, these classifiers' strong performance observed on the test set may not translate into real-world settings. In the context of COVID-19 misinformation detection, we conduct an in-the-wild audit of multiple datasets and demonstrate that models trained with several prominently cited recent datasets are vulnerable to anticontent when evaluated in the wild. Second, we present a novel active learning pipeline that requires zero manual annotation and iteratively augments the training data with challenging anticontent, robustifying these classifiers.",
+        "citations": 2
+    },
+    {
+        "title": "Partisan us news media representations of syrian refugees",
+        "id": "mWyMp38AAAAJ:TFP_iSt0sucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:TFP_iSt0sucC",
+        "authors": [
+            "Keyu Chen",
+            "Marzieh Babaeianjelodar",
+            "Yiwen Shi",
+            "Kamila Janmohamed",
+            "Rupak Sarkar",
+            "Ingmar Weber",
+            "Thomas Davidson",
+            "Munmun De Choudhury",
+            "Jonathan Huang",
+            "Shweta Yadav",
+            "Ashiqur KhudaBukhsh",
+            "Chris T Bauch",
+            "Preslav Nakov",
+            "Orestis Papakyriakopoulos",
+            "Koustuv Saha",
+            "Kaveh Khoshnood",
+            "Navin Kumar"
+        ],
+        "pub_source": "Proceedings of the International AAAI Conference on Web and Social Media",
+        "pub_date": "2023/6/2",
+        "description": "We investigate how representations of Syrian refugees (2011-2021) differ across US partisan news outlets. We analyze 47,388 articles from the online US media about Syrian refugees to detail differences in reporting between left-and right-leaning media. We use various NLP techniques to understand these differences. Our polarization and question answering results indicated that left-leaning media tended to represent refugees as child victims, welcome in the US, and right-leaning media cast refugees as Islamic terrorists. We noted similar results with our sentiment and offensive speech scores over time, which detail possibly unfavorable representations of refugees in right-leaning media. A strength of our work is how the different techniques we have applied validate each other. Based on our results, we provide several recommendations. Stakeholders may utilize our findings to intervene around refugee representations, and design communications campaigns that improve the way society sees refugees and possibly aid refugee outcomes.",
+        "citations": 14
+    },
+    {
+        "title": "Quantifying the Academic Quality of Children's Videos using Machine Comprehension",
+        "id": "mWyMp38AAAAJ:blknAaTinKkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:blknAaTinKkC",
+        "authors": [
+            "Sumeet Kumar",
+            "Ashiqur Khudabukhsh"
+        ],
+        "pub_source": "arXiv preprint arXiv:2303.17201",
+        "pub_date": "2023/3/30",
+        "description": "YouTube Kids (YTK) is one of the most popular kids' applications used by millions of kids daily. However, various studies have highlighted concerns about the videos on the platform, like the over-presence of entertaining and commercial content. YouTube recently proposed high-quality guidelines that include `promoting learning' and proposed to use it in ranking channels. However, the concept of learning is multi-faceted, and it can be difficult to define and measure in the context of online videos. This research focuses on learning in terms of what's taught in schools and proposes a way to measure the academic quality of children's videos. Using a new dataset of questions and answers from children's videos, we first show that a Reading Comprehension (RC) model can estimate academic learning. Then, using a large dataset of middle school textbook questions on diverse topics, we quantify the academic quality of top channels as the number of children's textbook questions that an RC model can correctly answer. By analyzing over 80,000 videos posted on the top 100 channels, we present the first thorough analysis of the academic quality of channels on YTK."
+    },
+    {
+        "title": "Vicarious offense and noise audit of offensive speech classifiers: unifying human and machine disagreement on what is offensive",
+        "id": "mWyMp38AAAAJ:70eg2SAEIzsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:70eg2SAEIzsC",
+        "authors": [
+            "Tharindu Cyril Weerasooriya",
+            "Sujan Dutta",
+            "Tharindu Ranasinghe",
+            "Marcos Zampieri",
+            "Christopher M Homan",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv preprint arXiv:2301.12534",
+        "pub_date": "2023/1/29",
+        "description": "Offensive speech detection is a key component of content moderation. However, what is offensive can be highly subjective. This paper investigates how machine and human moderators disagree on what is offensive when it comes to real-world social web political discourse. We show that (1) there is extensive disagreement among the moderators (humans and machines); and (2) human and large-language-model classifiers are unable to predict how other human raters will respond, based on their political leanings. For (1), we conduct a noise audit at an unprecedented scale that combines both machine and human responses. For (2), we introduce a first-of-its-kind dataset of vicarious offense. Our noise audit reveals that moderation outcomes vary wildly across different machine moderators. Our experiments with human moderators suggest that political leanings combined with sensitive issues affect both first-person and vicarious offense. The dataset is available through https://github.com/Homan-Lab/voiced.",
+        "citations": 6
+    },
+    {
+        "title": "Down the Toxicity Rabbit Hole: Investigating PaLM 2 Guardrails",
+        "id": "mWyMp38AAAAJ:J_g5lzvAfSwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:J_g5lzvAfSwC",
+        "authors": [
+            "Adel Khorramrouz",
+            "Sujan Dutta",
+            "Arka Dutta",
+            "Ashiqur R. KhudaBukhsh"
+        ],
+        "pub_source": "arXiv preprint arXiv:2309.06415",
+        "pub_date": "2023",
+        "description": "This paper conducts a robustness audit of the safety feedback of PaLM 2 through a novel toxicity rabbit hole framework introduced here. Starting with a stereotype, the framework instructs PaLM 2 to generate more toxic content than the stereotype. Every subsequent iteration it continues instructing PaLM 2 to generate more toxic content than the previous iteration until PaLM 2 safety guardrails throw a safety violation. Our experiments uncover highly disturbing antisemitic, Islamophobic, racist, homophobic, and misogynistic (to list a few) generated content that PaLM 2 safety guardrails do not evaluate as highly unsafe.",
+        "citations": 2
+    },
+    {
+        "title": "Vicarious offense and noise audit of offensive speech classifiers",
+        "id": "mWyMp38AAAAJ:JV2RwH3_ST0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:JV2RwH3_ST0C",
+        "authors": [
+            "Tharindu Cyril Weerasooriya",
+            "Sujan Dutta",
+            "Tharindu Ranasinghe",
+            "Marcos Zampieri",
+            "Christopher M Homan",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv preprint arXiv:2301.12534",
+        "pub_date": "2023",
+        "citations": 1
+    },
+    {
+        "title": "Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive",
+        "id": "mWyMp38AAAAJ:M3NEmzRMIkIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:M3NEmzRMIkIC",
+        "authors": [
+            "Tharindu Cyril Weerasooriya",
+            "Sujan Dutta",
+            "Tharindu Ranasinghe",
+            "Marcos Zampieri",
+            "Christopher M Homan",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv e-prints",
+        "pub_date": "2023/1",
+        "description": "Offensive speech detection is a key component of content moderation. However, what is offensive can be highly subjective. This paper investigates how machine and human moderators disagree on what is offensive when it comes to real-world social web political discourse. We show that (1) there is extensive disagreement among the moderators (humans and machines); and (2) human and large-language-model classifiers are unable to predict how other human raters will respond, based on their political leanings. For (1), we conduct a noise audit at an unprecedented scale that combines both machine and human responses. For (2), we introduce a first-of-its-kind dataset of vicarious offense. Our noise audit reveals that moderation outcomes vary wildly across different machine moderators. Our experiments with human moderators suggest that political leanings combined with sensitive issues affect both first\u00a0\u2026"
+    },
+    {
+        "title": "US news and social media framing around vaping",
+        "id": "mWyMp38AAAAJ:isC4tDSrTZIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:isC4tDSrTZIC",
+        "authors": [
+            "Keyu Chen",
+            "Marzieh Babaeianjelodar",
+            "Yiwen Shi",
+            "Rohan Aanegola",
+            "Lam Yin Cheung",
+            "Preslav Ivanov Nakov",
+            "Shweta Yadav",
+            "Angus Bancroft",
+            "Ashiqur R KhudaBukhsh",
+            "Munmun De Choudhury",
+            "Frederick L Altice",
+            "Navin Kumar"
+        ],
+        "pub_source": "International Conference on Computational Data and Social Networks",
+        "pub_date": "2022/12/5",
+        "description": "In this paper, we investigate how vaping is framed differently (2008\u20132021) between US news and social media. We analyze 15,711 news articles and 1,231,379 Facebook posts about vaping to study the differences in framing between media varieties. We use word embeddings to provide two-dimensional visualizations of the semantic changes around vaping for news and for social media. We detail that news media framing of vaping shifted over time in line with emergent regulatory trends, such as; flavored vaping bans, with little discussion around vaping as a smoking cessation tool. We found that social media discussions were far more varied, with transitions toward vaping both as a public health harm and as a smoking cessation tool. Our cloze test, dynamic topic models, and question answering showed similar patterns, where social media, but not news media, characterizes vaping as combustible cigarette\u00a0\u2026",
+        "citations": 7
+    },
+    {
+        "title": "Harnessing Unsupervised Word Translation to Address Resource Inequality for Peace and Health",
+        "id": "mWyMp38AAAAJ:maZDTaKrznsC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:maZDTaKrznsC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Shriphani Palakodety",
+            "Tom M Mitchell"
+        ],
+        "pub_source": "International Conference on Social Informatics",
+        "pub_date": "2022/10/12",
+        "description": "Research geared toward human well-being in developing nations often concentrates on web content written in a world language (e.g., English) and ignores a significant chunk of content written in a poorly resourced yet highly prevalent first language of the region in concern (e.g., Hindi). Such omissions are common due to the sheer mismatch between linguistic resources offered in a world language and its low-resource counterpart. However, during a global pandemic or an imminent war, demand for linguistic resources might get recalibrated. In this work, we focus on the high-resource and low-resource language pair  (English, and Romanized Hindi) and present a cross-lingual sampling method that takes example documents in English, and retrieves similar content written in Romanized Hindi, the most popular form of Hindi observed in social media. At the core of our technique is a novel finding that a\u00a0\u2026"
+    },
+    {
+        "title": "Linguistic and News-Sharing Polarization During the 2019 South American Protests",
+        "id": "mWyMp38AAAAJ:k_IJM867U9cC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:k_IJM867U9cC",
+        "authors": [
+            "Ramon Villa-Cox",
+            "Helen Shuxuan Zeng",
+            "Ashiqur R KhudaBukhsh",
+            "Kathleen M Carley"
+        ],
+        "pub_source": "International Conference on Social Informatics",
+        "pub_date": "2022/10/12",
+        "description": "In computational social science, two parallel research directions exploring \u2013 news consumption patterns and linguistic regularities \u2013 have made significant inroads into better understanding complex political polarization in the era of ubiquitous internet. However, little or no literature exists that presented a unified treatment combining both these research directions. When working on social events from countries that do not speak English as a first language, computational linguistic resource availability is often a barrier to sophisticated linguistic analyses. In this work, we analyze an important sociopolitical event, the 2019 South American protests, and demonstrate that (1) a combined treatment offers a more comprehensive understanding of the event; and (2) these cross-cutting methods can be applied in a synergistic way. The insights gained by the combination of these methods include that polarization in users\u2019 news\u00a0\u2026"
+    },
+    {
+        "title": "Linguistic and News-Sharing Polarization During the 2019 South American Protests",
+        "id": "mWyMp38AAAAJ:NMxIlDl6LWMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:NMxIlDl6LWMC",
+        "authors": [
+            "Helen Shuxuan Zeng",
+            "Ashiqur R KhudaBukhsh",
+            "Kathleen M Carley"
+        ],
+        "pub_source": "Social Informatics: 13th International Conference, SocInfo 2022, Glasgow, UK, October 19\u201321, 2022, Proceedings",
+        "pub_date": "2022/10/11",
+        "description": "In computational social science, two parallel research directions exploring\u2013news consumption patterns and linguistic regularities\u2013have made significant inroads into better understanding complex political polarization in the era of ubiquitous internet. However, little or no literature exists that presented a unified treatment combining both these research directions. When working on social events from countries that do not speak English as a first language, computational linguistic resource availability is often a barrier to sophisticated linguistic analyses. In this work, we analyze an important sociopolitical event, the 2019 South American protests, and demonstrate that (1) a combined treatment offers a more comprehensive understanding of the event; and (2) these cross-cutting methods can be applied in a synergistic way. The insights gained by the combination of these methods include that polarization in users\u2019 news sharing patterns was consistent with their stances towards the government and that polarization in their language mainly manifested along ideological, political, or protest-related lines. In addition, we release a massive dataset of 15 million tweets relevant to this crisis."
+    },
+    {
+        "title": "How is vaping framed on online knowledge dissemination platforms?",
+        "id": "mWyMp38AAAAJ:j3f4tGmQtD8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:j3f4tGmQtD8C",
+        "authors": [
+            "Keyu Chen",
+            "Yiwen Shi",
+            "Jun Luo",
+            "Joyce Jiang",
+            "Shweta Yadav",
+            "Munmun De Choudhury",
+            "Ashique R Khudabukhsh",
+            "Marzieh Babaeianjelodar",
+            "Frederick L Altice",
+            "Navin Kumar"
+        ],
+        "pub_source": "International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation",
+        "pub_date": "2022/9/18",
+        "description": "Studying how vaping is framed on various knowledge dissemination platforms (e.g., Quora, Reddit, Wikipedia) is central to understanding the process of knowledge dissemination around vaping. Such understanding can help us craft tools specific to each platform, to dispel vaping misperceptions and reinforce evidence-based information. We analyze 1,888 articles and 1,119,453 vaping posts to study how vaping is framed across multiple knowledge dissemination platforms (Wikipedia, Quora, Medium, Reddit, Stack Exchange, wikiHow). We use NLP techniques to understand these differences. As an example, regarding question answering results, for the question What is vaping for?, we note answers framing vaping as a smoking cessation tool in Quora, Medium, and Stack Exchange. Reddit tended to frame vaping as a hobby. Wikipedia had a mix of answers, some centered on EVALI, and others on vaping as\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Revisiting queer minorities in lexicons",
+        "id": "mWyMp38AAAAJ:r0BpntZqJG4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:r0BpntZqJG4C",
+        "authors": [
+            "Krithika Ramesh",
+            "Sumeet Kumar",
+            "Ashiqur Khudabukhsh"
+        ],
+        "pub_source": "Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)",
+        "pub_date": "2022/7",
+        "description": "Lexicons play an important role in content moderation often being the first line of defense. However, little or no literature exists in analyzing the representation of queer-related words in them. In this paper, we consider twelve well-known lexicons containing inappropriate words and analyze how gender and sexual minorities are represented in these lexicons. Our analyses reveal that several of these lexicons barely make any distinction between pejorative and non-pejorative queer-related words. We express concern that such unfettered usage of non-pejorative queer-related words may impact queer presence in mainstream discourse. Our analyses further reveal that the lexicons have poor overlap in queer-related words. We finally present a quantifiable measure of consistency and show that several of these lexicons are not consistent in how they include (or omit) queer-related words.",
+        "citations": 4
+    },
+    {
+        "title": "\u2018Beach\u2019to \u2018Bitch\u2019: Inadvertent Unsafe Transcription of Kids\u2019 Content on YouTube",
+        "id": "mWyMp38AAAAJ:RHpTSmoSYBkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:RHpTSmoSYBkC",
+        "authors": [
+            "Krithika Ramesh",
+            "Ashiqur R KhudaBukhsh",
+            "Sumeet Kumar"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2022/6/28",
+        "description": "Over the last few years, YouTube Kids has emerged as one of the highly competitive alternatives to television for children's entertainment. Consequently, YouTube Kids' content should receive an additional level of scrutiny to ensure children's safety. While research on detecting offensive or inappropriate content for kids is gaining momentum, little or no current work exists that investigates to what extent AI applications can (accidentally) introduce content that is inappropriate for kids. In this paper, we present a novel (and troubling) finding that well-known automatic speech recognition (ASR) systems may produce text content highly inappropriate for kids while transcribing YouTube Kids' videos. We dub this phenomenon as inappropriate content hallucination. Our analyses suggest that such hallucinations are far from occasional, and the ASR systems often produce them with high confidence. We release a first-of-its-kind data set of audios for which the existing state-of-the-art ASR systems hallucinate inappropriate content for kids. In addition, we demonstrate that some of these errors can be fixed using language models.",
+        "citations": 5
+    },
+    {
+        "title": "Fringe news networks: Dynamics of us news viewership following the 2020 presidential election",
+        "id": "mWyMp38AAAAJ:qxL8FJ1GzNcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:qxL8FJ1GzNcC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Rupak Sarkar",
+            "Mark S Kamlet",
+            "Tom M Mitchell"
+        ],
+        "pub_source": "Proceedings of the 14th ACM Web Science Conference 2022",
+        "pub_date": "2022/6/26",
+        "description": "The growing political polarization of the American electorate over the last several decades has been widely studied and documented. During the administration of President Donald Trump, charges of \u201cfake news\u201d made social and news media not only the means but, to an unprecedented extent, the topic of political communication. This extreme political polarization continued through the election and all through the period up to the attempted takeover of the Capitol on January 6, 2021. In this paper, we analyze this tumultuous phase in American history through the lens of news viewership. We consider the official YouTube channels of six US cable news networks across a wide political spectrum with a specific focus on three conservative fringe news networks. We analyze how the viewers reacted to the different ways the election outcome was covered by these news outlets. This paper makes two distinct types of\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Gender bias, social bias, and representation: 70 years of BHollywood",
+        "id": "mWyMp38AAAAJ:4JMBOYKVnBMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:4JMBOYKVnBMC",
+        "authors": [
+            "Kunal Khadilkar",
+            "Ashiqur R KhudaBukhsh",
+            "Tom M Mitchell"
+        ],
+        "pub_source": "Patterns",
+        "pub_date": "2022/2/2",
+        "description": "We use a suite of cutting-edge natural language processing methods to quantify and characterize societal and gender biases in popular movie content. Our data set consists of English subtitles of popular movies from Bollywood\u2013the Mumbai film industry\u2014spanning 7 decades (700 movies). In addition, we include movies from Hollywood and movies nominated for the Academy Awards for contrastive purposes. Our findings indicate that while the overall portrayal of women has improved over time in popular movie dialogues from both Bollywood and Hollywood, modern films still exhibit considerable gender bias and are yet to achieve equal representation among genders. We also observe a strong bias favoring fair skin color in Bollywood content that occurred consistently across all time periods we considered. While our geographic representation analysis indicates improved inclusion over time for several Indian\u00a0\u2026",
+        "citations": 21
+    },
+    {
+        "title": "Conversational Inequality Through the Lens of Political Interruption.",
+        "id": "mWyMp38AAAAJ:bEWYMUwI8FkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:bEWYMUwI8FkC",
+        "authors": [
+            "Clay H Yoo",
+            "Jiachen Wang",
+            "Yuxi Luo",
+            "Kunal Khadilkar",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "IJCAI",
+        "pub_date": "2022",
+        "description": "We present a novel dataset of dialogues containing interruption with an aim to conduct a largescale analysis of interruption patterns of people from diverse backgrounds in terms of gender, race/ethnicity, occupation, and political orientation. Our dataset includes 625,409 dialogues containing interruptions found in 275,420 transcripts from CNN, Fox News, and MSNBC spanning between January 2000 and July 2021. From this large, unlabeled pool of interruptions, we release an annotated dataset consisting of 2,000 dialogues with fine-grained interruption labels. We use this dataset to train an interruption classifier and predict the interruption type of a given dialogue. Our results reveal that male speakers (in our collected samples) tend to talk more than female speakers, while female speakers interrupt more. Moreover, people tend to use less intrusive interruptions when talking to others sharing the same political belief. This pattern becomes more pronounced among news media with stronger political bias.",
+        "citations": 1
+    },
+    {
+        "title": "A Murder and Protests, the Capitol Riot, and the Chauvin Trial: Estimating Disparate News Media Stance.",
+        "id": "mWyMp38AAAAJ:iH-uZ7U-co4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:iH-uZ7U-co4C",
+        "authors": [
+            "Sujan Dutta",
+            "Beibei Li",
+            "Daniel S Nagin",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "IJCAI",
+        "pub_date": "2022",
+        "description": "In this paper, we analyze the responses of three major US cable news networks to three seminal policing events in the US spanning a thirteen month period\u2013the murder of George Floyd by police officer Derek Chauvin, the Capitol riot, Chauvin\u2019s conviction, and his sentencing. We cast the problem of aggregate stance mining as a natural language inference task and construct an active learning pipeline for robust textual entailment prediction. Via a substantial corpus of 34,710 news transcripts, our analyses reveal that the partisan divide in viewership of these three outlets reflects on the network\u2019s news coverage of these momentous events. In addition, we release a sentence-level, domain-specific text entailment data set on policing consisting of 2,276 annotated instances.",
+        "citations": 12
+    },
+    {
+        "title": "Low Resource Social Media Text Mining",
+        "id": "mWyMp38AAAAJ:HDshCWvjkbEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:HDshCWvjkbEC",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran"
+        ],
+        "pub_source": "Springer",
+        "pub_date": "2021/10/1",
+        "description": "Most natural language processing work has been on world languages like English, but most people in the world speak other languages that are comparatively poorly resourced in terms of training data and research attention. Significant strides have been made recently in low-resource NLP research. Powerful unsupervised methods, large-scale multilingual language models, and other innovations have enabled rapid progress in a variety of areas for low-resource NLP. However, real world text analyses are rarely standalone tasks and practitioners often combine several methods. This book describes important advances in low-resource NLP and contains real world examples explaining how to assemble them to perform robust, sophisticated text analyses. Low-resource NLP is an important component of many text mining tasks including socially conscious applications of AI. This book will provide the insights and\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Empathy and hope: resource transfer to model inter-country social media dynamics",
+        "id": "mWyMp38AAAAJ:ZeXyd9-uunAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:ZeXyd9-uunAC",
+        "authors": [
+            "Clay H Yoo",
+            "Shriphani Palakodety",
+            "Rupak Sarkar",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "arXiv preprint arXiv:2106.12044",
+        "pub_date": "2021/6/17",
+        "description": "The ongoing COVID-19 pandemic resulted in significant ramifications for international relations ranging from travel restrictions, global ceasefires, and international vaccine production and sharing agreements. Amidst a wave of infections in India that resulted in a systemic breakdown of healthcare infrastructure, a social welfare organization based in Pakistan offered to procure medical-grade oxygen to assist India -- a nation which was involved in four wars with Pakistan in the past few decades. In this paper, we focus on Pakistani Twitter users' response to the ongoing healthcare crisis in India. While #IndiaNeedsOxygen and #PakistanStandsWithIndia featured among the top-trending hashtags in Pakistan, divisive hashtags such as #EndiaSaySorryToKashmir simultaneously started trending. Against the backdrop of a contentious history including four wars, divisive content of this nature, especially when a country is facing an unprecedented healthcare crisis, fuels further deterioration of relations. In this paper, we define a new task of detecting \\emph{supportive} content and demonstrate that existing \\emph{NLP for social impact} tools can be effectively harnessed for such tasks within a quick turnaround time. We also release the first publicly available data set at the intersection of geopolitical relations and a raging pandemic in the context of India and Pakistan.",
+        "citations": 6
+    },
+    {
+        "title": "Are chess discussions racist? an adversarial hate speech data set (student abstract)",
+        "id": "mWyMp38AAAAJ:L8Ckcad2t8MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:L8Ckcad2t8MC",
+        "authors": [
+            "Rupak Sarkar",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2021/5/18",
+        "description": "On June 28, 2020, while presenting a chess podcast on Grandmaster Hikaru Nakamura, Antonio Radic's YouTube handle got blocked because it contained``harmful and dangerous''content. YouTube did not give further specific reason, and the channel got reinstated within 24 hours. However, Radic speculated that given the current political situation, a referral to``black against white'', albeit in the context of chess, earned him this temporary ban. In this paper, via a substantial corpus of 681,995 comments, on 8,818 YouTube videos hosted by five highly popular chess-focused YouTube channels, we ask the following research question:\\emph {how robust are off-the-shelf hate-speech classifiers to out-of-domain adversarial examples?} We release a data set of 1,000 annotated comments where existing hate speech classifiers misclassified benign chess discussions as hate speech. We conclude with an intriguing analogy result on racial bias with our findings pointing out to the broader challenge of color polysemy.",
+        "citations": 11
+    },
+    {
+        "title": "An unfair affinity toward fairness: characterizing 70 years of social biases in BHollywood (student abstract)",
+        "id": "mWyMp38AAAAJ:7PzlFSSx8tAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:7PzlFSSx8tAC",
+        "authors": [
+            "Kunal Khadilkar",
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2021/5/18",
+        "description": "Bollywood, aka the Mumbai film industry, is one of the biggest movie industries in the world with a current movie market share of worth 2.1 billion dollars and a target audience base of 1.2 billion people. While the entertainment impact in terms of lives that Bollywood can potentially touch is mammoth, no NLP study on social biases in Bollywood content exists. We thus seek to understand social biases in a developing country through the lens of popular movies. Our argument is simple--popular movie content reflects social norms and beliefs in some form or shape. We present our preliminary findings on a longitudinal corpus of English subtitles of popular Bollywood movies focusing on (1) social bias toward a fair skin color (2) gender biases, and (3) gender representation. We contrast our findings with a similar corpus of Hollywood movies. Surprisingly, we observe that much of the biases we report in our preliminary experiments on the Bollywood corpus, also gets reflected in the Hollywood corpus.",
+        "citations": 8
+    },
+    {
+        "title": "We don't speak the same language: Interpreting polarization through machine translation",
+        "id": "mWyMp38AAAAJ:KlAtU1dfN6UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:KlAtU1dfN6UC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Rupak Sarkar",
+            "Mark S Kamlet",
+            "Tom Mitchell"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "pub_date": "2021/5/18",
+        "description": "Polarization among US political parties, media and elites is a widely studied topic. Prominent lines of prior research across multiple disciplines have observed and analyzed growing polarization in social media. In this paper, we present a new methodology that offers a fresh perspective on interpreting polarization through the lens of machine translation. With a novel proposition that two sub-communities are speaking in two different\" languages\", we demonstrate that modern machine translation methods can provide a simple yet powerful and interpretable framework to understand the differences between two (or more) large-scale social media discussion data sets at the granularity of words. Via a substantial corpus of 86.6 million comments by 6.5 million users on over 200,000 news videos hosted by YouTube channels of four prominent US news networks, we demonstrate that simple word-level and phrase-level translation pairs can reveal deep insights into the current political divide--what is\" black lives matter\" to one can be\" all lives matter\" to the other.",
+        "citations": 42
+    },
+    {
+        "title": "Exploring polarization of users behavior on twitter during the 2019 south american protests",
+        "id": "mWyMp38AAAAJ:dhFuZR0502QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:dhFuZR0502QC",
+        "authors": [
+            "Ramon Villa-Cox",
+            "Ashiqur R KhudaBukhsh",
+            "Kathleen M Carley"
+        ],
+        "pub_source": "arXiv preprint arXiv:2104.05611",
+        "pub_date": "2021/4/5",
+        "description": "Research across different disciplines has documented the expanding polarization in social media. However, much of it focused on the US political system or its culturally controversial topics. In this work, we explore polarization on Twitter in a different context, namely the protest that paralyzed several countries in the South American region in 2019. By leveraging users' endorsement of politicians' tweets and hashtag campaigns with defined stances towards the protest (for or against), we construct a weakly labeled stance dataset with millions of users. We explore polarization in two related dimensions: language and news consumption patterns. In terms of linguistic polarization, we apply recent insights that leveraged machine translation methods, showing that the two communities speak consistently \"different\" languages, mainly along ideological lines (e.g., fascist translates to communist). Our results indicate that this recently-proposed methodology is also informative in different languages and contexts than originally applied. In terms of news consumption patterns, we cluster news agencies based on homogeneity of their user bases and quantify the observed polarization in its consumption. We find empirical evidence of the \"filter bubble\" phenomenon during the event, as we not only show that the user bases are homogeneous in terms of stance, but the probability that a user transitions from media of different clusters is low.",
+        "citations": 9
+    },
+    {
+        "title": "Semantic Sampling",
+        "id": "mWyMp38AAAAJ:mB3voiENLucC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:mB3voiENLucC",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran",
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran"
+        ],
+        "pub_source": "Low Resource Social Media Text Mining",
+        "pub_date": "2021",
+        "description": "A variety of tasks involving social media text require mining rare samples. In text classification, information retrieval, and other NLP tasks, working with very skewed or imbalanced data sets poses many challenges. In such settings, training data sets can be rapidly bootstrapped using highly targeted sampling strategies. This chapter draws on work in active learning, semantic similarity, and sampling strategies to address a variety of social media text mining tasks. The topics involved are particularly well suited for social media analysis. Most tasks surrounding user generated social media text such as content moderation, and recommendations often involve rapid model construction in response to real world events in real time. The methods discussed allow task-specific data sets and models to be constructed rapidly often using just a handful of initial samples. We then explore extensions to sample across\u00a0\u2026"
+    },
+    {
+        "title": "A Rapid Tour of NLP",
+        "id": "mWyMp38AAAAJ:hFOr9nPyWt4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:hFOr9nPyWt4C",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran",
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran"
+        ],
+        "pub_source": "Low Resource Social Media Text Mining",
+        "pub_date": "2021",
+        "description": "In this chapter, we briefly review the NLP methods utilized in this book. Should the readers desire, a number of highly regarded texts have been authored recently (Eisenstein in Adaptive computation and machine learning series. MIT Press (2019)\u00a0[9], Goldberg in Synth Lect Human Lang Technol 10(1):1-309 (2017)\u00a0[11]) which provide a thorough and rigorous grounding of NLP. We discuss static and contextual word and document embeddings, and their applications. We then look at polyglot training in static and contextual embeddings.",
+        "citations": 1
+    },
+    {
+        "title": "Low Resource Machine Translation",
+        "id": "mWyMp38AAAAJ:-f6ydRqryjwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:-f6ydRqryjwC",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran",
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran"
+        ],
+        "pub_source": "Low Resource Social Media Text Mining",
+        "pub_date": "2021",
+        "description": "We discuss the burgeoning field of unsupervised machine translation, where words and phrases are translated between languages without any parallel corpora. We discuss popular methods, and applications to low-resource settings. We further investigate the application of polyglot training to this field and present new promising directions for unsupervised machine translation."
+    },
+    {
+        "title": "The Problem Setting",
+        "id": "mWyMp38AAAAJ:hC7cP41nSMkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:hC7cP41nSMkC",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran",
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran"
+        ],
+        "pub_source": "Low Resource Social Media Text Mining",
+        "pub_date": "2021",
+        "description": "We first introduce the domain of this book: low resource social media text. The domain encompasses some of the most used languages in the world and a wide variety of tasks and applications. We explore the socio-technical conditions that lead to such text, and how it influences expression online. Examples and statistics are provided from various social media data sets and recent research. We then cover attempts to bridge the resource gap between world languages like English and low-resource languages. Special attention is given to the various data acquisition strategies employed by researchers. This chapter will help NLP practitioners understand the importance of analyzing the low-resource components of corpora from various societies and how ignoring them can skew results, how to go about addressing these, and a broad set of examples and statistics to reinforce the importance of low-resource\u00a0\u2026"
+    },
+    {
+        "title": "Language Identification",
+        "id": "mWyMp38AAAAJ:qUcmZB5y_30C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:qUcmZB5y_30C",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran",
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Guha Jayachandran"
+        ],
+        "pub_source": "Low Resource Social Media Text Mining",
+        "pub_date": "2021",
+        "description": "We introduce the language identification problem\u2014a vital component in a multilingual text analysis pipeline. We discuss the document and word level formulations of the language identification task, briefly discuss supervised solutions, and then present low-supervision methods based on polyglot training that are highly applicable in low-resource settings. We then discuss code mixing, a linguistic phenomenon common in bilingual and multilingual speakers. We extend our language identification methods to model code mixing and measure the extent of English-Hindi code mixing in various social media data sets."
+    },
+    {
+        "title": "The non-native speaker aspect: Indian English in social media",
+        "id": "mWyMp38AAAAJ:ULOm3_A8WrAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:ULOm3_A8WrAC",
+        "authors": [
+            "Rupak Sarkar",
+            "Sayantan Mahinder",
+            "Ashiqur KhudaBukhsh"
+        ],
+        "pub_source": "Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020)",
+        "pub_date": "2020/11",
+        "description": "As the largest institutionalized second language variety of English, Indian English has received a sustained focus from linguists for decades. However, to the best of our knowledge, no prior study has contrasted web-expressions of Indian English in noisy social media with English generated by a social media user base that are predominantly native speakers. In this paper, we address this gap in the literature through conducting a comprehensive analysis considering multiple structural and semantic aspects. In addition, we propose a novel application of language models to perform automatic linguistic quality assessment.",
+        "citations": 11
+    },
+    {
+        "title": "Annotation efficient language identification from weak labels",
+        "id": "mWyMp38AAAAJ:Zph67rFs4hoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:Zph67rFs4hoC",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur Khudabukhsh"
+        ],
+        "pub_source": "Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020)",
+        "pub_date": "2020/11",
+        "description": "India is home to several languages with more than 30m speakers. These languages exhibit significant presence on social media platforms. However, several of these widely-used languages are under-addressed by current Natural Language Processing (NLP) models and resources. User generated social media content in these languages is also typically authored in the Roman script as opposed to the traditional native script further contributing to resource scarcity. In this paper, we leverage a minimally supervised NLP technique to obtain weak language labels from a large-scale Indian social media corpus leading to a robust and annotation-efficient language-identification technique spanning nine Romanized Indian languages. In fast-spreading pandemic situations such as the current COVID-19 situation, information processing objectives might be heavily tilted towards under-served languages in densely populated regions. We release our models to facilitate downstream analyses in these low-resource languages. Experiments across multiple social media corpora demonstrate the model\u2019s robustness and provide several interesting insights on Indian language usage patterns on social media. We release an annotated data set of 1,000 comments in ten Romanized languages as a social media evaluation benchmark.",
+        "citations": 4
+    },
+    {
+        "title": "Discovering bilingual lexicons in polyglot word embeddings",
+        "id": "mWyMp38AAAAJ:kNdYIx-mwKoC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:kNdYIx-mwKoC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Shriphani Palakodety",
+            "Tom M Mitchell"
+        ],
+        "pub_source": "arXiv preprint arXiv:2008.13347",
+        "pub_date": "2020/8/31",
+        "description": "Bilingual lexicons and phrase tables are critical resources for modern Machine Translation systems. Although recent results show that without any seed lexicon or parallel data, highly accurate bilingual lexicons can be learned using unsupervised methods, such methods rely on the existence of large, clean monolingual corpora. In this work, we utilize a single Skip-gram model trained on a multilingual corpus yielding polyglot word embeddings, and present a novel finding that a surprisingly simple constrained nearest-neighbor sampling technique in this embedding space can retrieve bilingual lexicons, even in harsh social media data sets predominantly written in English and Romanized Hindi and often exhibiting code switching. Our method does not require monolingual corpora, seed lexicons, or any other such resources. Additionally, across three European language pairs, we observe that polyglot word embeddings indeed learn a rich semantic representation of words and substantial bilingual lexicons can be retrieved using our constrained nearest neighbor sampling. We investigate potential reasons and downstream applications in settings spanning both clean texts and noisy social media data sets, and in both resource-rich and under-resourced language pairs.",
+        "citations": 1
+    },
+    {
+        "title": "Voice for the voiceless: Active sampling to detect comments supporting the rohingyas",
+        "id": "mWyMp38AAAAJ:UebtZRa9Y70C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:UebtZRa9Y70C",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "Proceedings of the AAAI conference on artificial intelligence",
+        "pub_date": "2020/4/3",
+        "description": "The Rohingya refugee crisis is one of the biggest humanitarian crises of modern times with more than 700,000 Rohingyas rendered homeless according to the United Nations High Commissioner for Refugees. While it has received sustained press attention globally, no comprehensive research has been performed on social media pertaining to this large evolving crisis. In this work, we construct a substantial corpus of YouTube video comments (263,482 comments from 113,250 users in 5,153 relevant videos) with an aim to analyze the possible role of AI in helping a marginalized community. Using a novel combination of multiple Active Learning strategies and a novel active sampling strategy based on nearest-neighbors in the comment-embedding space, we construct a classifier that can detect comments defending the Rohingyas among larger numbers of disparaging and neutral ones. We advocate that beyond the burgeoning field of hate speech detection, automatic detection of help speech can lend voice to the voiceless people and make the internet safer for marginalized communities.",
+        "citations": 38
+    },
+    {
+        "title": "Social Media Attributions in the Context of Water Crisis",
+        "id": "mWyMp38AAAAJ:RGFaLdJalmkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:RGFaLdJalmkC",
+        "authors": [
+            "Rupak Sarkar",
+            "Sayantan Mahinder",
+            "Hirak Sarkar",
+            "Ashiqur KhudaBukhsh"
+        ],
+        "pub_source": "Empirical Methods in Natural Language Processing (EMNLP)",
+        "pub_date": "2020",
+        "description": "Attribution of natural disasters/collective misfortune is a widely-studied political science problem. However, such studies are typically survey-centric or rely on a handful of experts to weigh in on the matter. In this paper, we explore how can we use social media data and an AI-driven approach to complement traditional surveys and automatically extract attribution factors. We focus on the most-recent Chennai water crisis which started off as a regional issue but rapidly escalated into a discussion topic with global importance following alarming water-crisis statistics. Specifically, we present a novel prediction task of attribution tie detection which identifies the factors held responsible for the crisis (e.g., poor city planning, exploding population etc.). On a challenging data set constructed from YouTube comments (72,098 comments posted by 43,859 users on 623 relevant videos to the crisis), we present a neural classifier to extract attribution ties that achieved a reasonable performance (Accuracy: 81.34\\% on attribution detection and 71.19\\% on attribution resolution).",
+        "citations": 10
+    },
+    {
+        "title": "Mining insights from large-scale corpora using fine-tuned language models",
+        "id": "mWyMp38AAAAJ:aqlVkmm33-oC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:aqlVkmm33-oC",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "ECAI 2020",
+        "pub_date": "2020",
+        "description": "Mining insights from large volume of social media texts with minimal supervision is a highly challenging Natural Language Processing (NLP) task. While Language Models\u2019(LMs) efficacy in several downstream tasks is well-studied, assessing their applicability in answering relational questions, tracking perception or mining deeper insights is under-explored. Few recent lines of work have scratched the surface by studying pre-trained LMs\u2019(eg, BERT) capability in answering relational questions through \u201cfill-in-the-blank\u201d cloze statements (eg,[Dante was born in MASK]). BERT predicts the MASK-ed word with a list of words ranked by probability (in this case, BERT successfully predicts Florence with the highest probability). In this paper, we conduct a feasibility study of fine-tuned LMs with a different focus on tracking polls, tracking community perception and mining deeper insights typically obtained through costly\u00a0\u2026",
+        "citations": 28
+    },
+    {
+        "title": "The refugee experience online: Surfacing positivity amidst hate",
+        "id": "mWyMp38AAAAJ:M3ejUd6NZC8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:M3ejUd6NZC8C",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "ECAI 2020",
+        "pub_date": "2020",
+        "description": "How can Artificial Intelligence help a stateless minority from online abuse? Research efforts in hate speech detection thus far have largely focused on identifying and subsequently filtering out negative content that specifically targets them. In this paper, we highlight a recent work [8] which tackles a different aspect of web-vulnerability of marginalized communities: sparsity of prominority voices championing their cause. The highlighted paper advocates that blocking hate alone may not be sufficient in these cases as the internet shapes community perception to a great extent in modern times and supportive comments to a vulnerable community serve a different purpose. Using an Active Sampling approach, the paper constructs a nuanced voice-for-the-voiceless classifier that automatically discovers comments supporting a (allegedly) persecuted minority. In the context of the Rohingya refugee crisis, one of the biggest\u00a0\u2026",
+        "citations": 3
+    },
+    {
+        "title": "On NLP methods robust to noisy Indian social media data",
+        "id": "mWyMp38AAAAJ:3fE2CSJIrl8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:3fE2CSJIrl8C",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Shriphani Palakodety",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "AI for Social Good Workshop",
+        "pub_date": "2020",
+        "description": "Much of the computational social science research focusing on issues faced in developing nations concentrates on web content written in a world language often ignoring a significant chunk of a corpus written in a poorly resourced yet highly prevalent first language of the region in concern. Such omissions are common and convenient due to the sheer mismatch between linguistic resources offered in a world language and its low-resource counterpart. However, the path to analyze English content generated in linguistically diverse regions, such as the Indian subcontinent, is not straight-forward either. Social science/AI for social good research focusing on Indian sub-continental issues faces two major Natural Language Processing (NLP) challenges:(1) how to extract a (reasonably clean) monolingual English corpus?(2) How to extend resources and analyses to its low-resource counterpart? In this paper 1, we share NLP methods, lessons learnt from our multiple projects, and outline future focus areas that could be useful in tackling these two challenges. The discussed results are critical to two important domains:(1) detecting peace-seeking, hostility-diffusing hope speech in the context of the 2019 India-Pakistan conflict (2) detecting user generated web-content encouraging COVID-19 health compliance.",
+        "citations": 1
+    },
+    {
+        "title": "Hope speech detection: A computational analysis of the voice of peace",
+        "id": "mWyMp38AAAAJ:8k81kl-MbHgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:8k81kl-MbHgC",
+        "authors": [
+            "Shriphani Palakodety",
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "ECAI 2020",
+        "pub_date": "2020",
+        "description": "The recent Pulwama terror attack (February 14, 2019, Pulwama, Kashmir) triggered a chain of escalating events between India and Pakistan adding another episode to their 70-year-old dispute over Kashmir. The present era of ubiquitious social media has never seen nuclear powers closer to war. In this paper, we analyze this evolving international crisis via a substantial corpus constructed using comments on YouTube videos (921,235 English comments posted by 392,460 users out of 2.04 million overall comments by 791,289 users on 2,890 videos). Our main contributions in the paper are three-fold. First, we present an observation that polyglot word-embeddings reveal precise and accurate language clusters, and subsequently construct a document language identification technique with negligible annotation requirements. We demonstrate the viability and utility across a variety of data sets involving several low\u00a0\u2026",
+        "citations": 62
+    },
+    {
+        "title": "Toward Reciprocity-aware Distributed Learning in Referral Networks",
+        "id": "mWyMp38AAAAJ:roLk4NBRz8UC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:roLk4NBRz8UC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "PRICAI 2019: Trends in Artificial Intelligence: 16th Pacific Rim International Conference on Artificial Intelligence, Cuvu, Yanuca Island, Fiji, August 26\u201330, 2019, Proceedings, Part II 16",
+        "pub_date": "2019",
+        "description": "Distributed learning in expert referral networks is an emerging challenge in the intersection of Active Learning and Multi-Agent Reinforcement Learning, where experts\u2014humans or automated agents\u2014have varying skills across different topics and can redirect difficult problem instances to connected colleagues with more appropriate expertise. The learning-to-refer challenge involves estimating colleagues\u2019 topic-conditioned skills for appropriate referrals. Prior research has investigated different reinforcement learning algorithms both with uninformative priors and partially available (potentially noisy) priors. However, most human experts expect mutually-rewarding referrals, with return referrals on their expertise areas so that both (or all) parties benefit from networking, rather than one-sided referral flow. This paper analyzes the extent of referral reciprocity imbalance present in high-performance referral\u00a0\u2026"
+    },
+    {
+        "title": "Endorsement in referral networks",
+        "id": "mWyMp38AAAAJ:LkGwnXOMwfcC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:LkGwnXOMwfcC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "European Conference on Multi-Agent Systems",
+        "pub_date": "2018/12/6",
+        "description": "Referral networks is an emerging research area in the intersection of Active Learning and Multi-Agent Systems where experts\u2014humans or automated agents\u2014can redirect difficult instances (tasks or queries) to appropriate colleagues. Learning-to-refer involves estimating topic-conditioned skills of colleagues connected through a referral network for effective referrals. Proactive skill posting is a learning setting where experts are allowed a one-time local network advertisement of a subset of their top skills. The learning challenge is exploiting partially available (potentially noisy) self-skill estimates, including adversarial strategic lying to attract unwarranted referrals. In this paper, we introduce the notion of endorsement typically found in professional networks where one colleague endorses another on particular topic(s). We first augment proactive skill posting with endorsements and propose modifications to\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Market-aware proactive skill posting",
+        "id": "mWyMp38AAAAJ:_FxGoFyzp5QC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:_FxGoFyzp5QC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Jong Woo Hong",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "International Symposium on Methodologies for Intelligent Systems",
+        "pub_date": "2018/10/7",
+        "description": "Referral networks consist of a network of experts, human or automated agent, with differential expertise across topics and can redirect tasks to appropriate colleagues based on their topic-conditioned skills. Proactive skill posting is a setting in referral networks, where agents are allowed a one-time local-network-advertisement of a subset of their skills. Heretofore, while advertising expertise, experts only considered their own skills and reported their strongest skills. However, in practice, tasks can have varying difficulty levels and reporting skills that are uncommon or rare may give an expert relative advantage over others, and the network as a whole better ability to solve problems. This work introduces market-aware proactive skill posting where experts report a subset of their skills that give them competitive advantages over their peers. Our proposed algorithm in this new setting, proactive-DIEL, outperforms\u00a0\u2026",
+        "citations": 1
+    },
+    {
+        "title": "Expertise Drift in Referral Networks",
+        "id": "mWyMp38AAAAJ:5nxA0vEk-isC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:5nxA0vEk-isC",
+        "authors": [
+            "Ashiqur R. KhudaBukhsh",
+            "Jaime G. Carbonell"
+        ],
+        "pub_source": "17th International Conference on Autonomous Agents and MultiAgent Systems",
+        "pub_date": "2018",
+        "description": "Learning-to-refer is a challenge in expert referral networks, wherein Active Learning helps experts (agents) estimate the topic-conditioned skills of other connected experts for problems that the initial expert cannot solve and therefore must seek referral to experts with more appropriate expertise. Recent research has investigated different reinforcement action selection algorithms to assess viability of the learning setting both with uninformative priors and with partially available noisy priors, where experts are allowed to advertise a subset of their skills to their colleagues. Prior to this work, time-varying expertise drift (e.g., experts learning with experience) had not been considered, though it is an aspect that may often arise in practice. This paper addresses the challenge of referral learning with time-varying expertise, proposing Hybrid, a novel combination of Thompson Sampling and Distributed Interval Estimation\u00a0\u2026",
+        "citations": 4
+    },
+    {
+        "title": "Incentive compatible proactive skill posting in referral networks",
+        "id": "mWyMp38AAAAJ:eQOLeE2rZwMC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:eQOLeE2rZwMC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell",
+            "Peter J Jansen"
+        ],
+        "pub_source": "European conference on multi-agent systems",
+        "pub_date": "2017/12/14",
+        "description": "Learning to refer in a network of experts (agents) consists of distributed estimation of other experts\u2019 topic-conditioned skills so as to refer problem instances too difficult for the referring agent to solve. This paper focuses on the cold-start case, where experts post a subset of their top skills to connected agents, and as the results show, improve overall network performance and, in particular, early-learning-phase behavior. The method surpasses state-of-the-art, i.e., proactive-DIEL, by proposing a new mechanism to penalize experts who misreport their skills, and extends the technique to other distributed learning algorithms: proactive--Greedy, and proactive-Q-Learning. Our proposed new technique exhibits stronger discouragement of strategic lying, both in the limit and finite-horizon empirical analysis. The method is shown robust to noisy self-skill estimates and in evolving networks.",
+        "citations": 6
+    },
+    {
+        "title": "Distributed Learning in Referral Networks",
+        "id": "mWyMp38AAAAJ:Y0pCki6q_DkC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:Y0pCki6q_DkC",
+        "authors": [
+            "Ashiqur Rahman KhudaBukhsh"
+        ],
+        "pub_source": "University of Massachusetts, Amherst",
+        "pub_date": "2017/2/22",
+        "description": "Human experts as autonomous agents in a referral network must decide whether to accept a task or refer to a more appropriate expert, and if so to whom. In order for the referral network to improve over time, the experts must learn to estimate the topical expertise of other experts. This thesis extends concepts from Multi-agent Reinforcement Learning and Active Learning to referral networks. Among a wide array of algorithms evaluated, Distributed Interval Estimation Learning (DIEL), based on Interval Estimation Learning, was found to be promising for learning appropriate referral choices, compared to Greedy, Q-learning, Thompson Sampling and Upper Confidence Bound (UCB) methods. DIEL\u2019s rapid performance gain in the early phase of learning makes it a practically viable algorithm, including when multiple referral hops are allowed. In addition to a synthetic data set, we compare the performance of several top-performing referral algorithms on a referral network of high-performance Stochastic Local Search (SLS) solvers for the propositional satisfiability problem (SAT). Our experimental results demonstrate that the referral learning algorithms can learn appropriate referral choices in the real task of solving satisfiability problems where expertise does not obey any known parameterized distribution. Apart from evaluating overall network performance, we conduct a robustness analysis across the learning algorithms, with an emphasis on capacity constraints (limits on number of tasks per time period), evolving networks (changes in connectivity or agents joining or leaving the referral network) and expertise drift (skills improving over time or\u00a0\u2026"
+    },
+    {
+        "title": "Robust Learning in Expert Networks: A Comparative Analysis",
+        "id": "mWyMp38AAAAJ:Wp0gIr-vW9MC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:Wp0gIr-vW9MC",
+        "authors": [
+            "Ashiqur KhudaBukhsh",
+            "Jaime Carbonell",
+            "Peter Jansen"
+        ],
+        "pub_source": "Foundations of Intelligent Systems. Lecture Notes in Computer Science.",
+        "pub_date": "2017",
+        "description": "Human experts as well as autonomous agents in a referral network must decide whether to accept a task or refer to a more appropriate expert, and if so to whom. In order for the referral network to improve over time, the experts must learn to estimate the topical expertise of other experts. This article extends concepts from Multi-agent Reinforcement Learning and Active Learning to referral networks for distributed learning in referral networks. Among a wide array of algorithms evaluated, Distributed Interval Estimation Learning (DIEL), based on Interval Estimation Learning, was found to be superior for learning appropriate referral choices, compared to \ud835\udf16-Greedy, Q-learning, Thompson Sampling and Upper Confidence Bound (UCB) methods. In addition to a synthetic data set, we compare the performance of the stronger learning-to-refer algorithms on a referral network of high-performance Stochastic Local Search\u00a0\u2026",
+        "citations": 10
+    },
+    {
+        "title": "Proactive-DIEL in Evolving Referral Networks",
+        "id": "mWyMp38AAAAJ:IjCSPb-OGe4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:IjCSPb-OGe4C",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell",
+            "Peter J Jansen"
+        ],
+        "pub_source": "European conference on multi-agent systems",
+        "pub_date": "2016/12/15",
+        "description": "Distributed learning in expert referral networks is a new Active Learning paradigm where experts\u2014humans or automated agents\u2014solve problems if they can or refer said problems to others with more appropriate expertise. Recent work augmented the basic learning-to-refer method with proactive skill posting, where experts may report their top skills to their colleagues, and proposed a modified algorithm, proactive-DIEL (Distributed Interval Estimation Learning), that takes advantage of such one-time posting instead of using an uninformed prior. This work extends the method in three main directions: (1) Proactive-DIEL is shown to work on a referral network of automated agents, namely SAT solvers, (2) Proactive-DIEL\u2019s reward mechanism is extended to another referral-learning algorithm, -Greedy, with some appropriate modifications. (3) The method is shown robust with respect to evolving networks\u00a0\u2026",
+        "citations": 5
+    },
+    {
+        "title": "Distributed learning in expert referral networks",
+        "id": "mWyMp38AAAAJ:9yKSN-GCB0IC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:9yKSN-GCB0IC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Peter J Jansen",
+            "Jaime G Carbonell"
+        ],
+        "pub_source": "Proceedings of the Twenty-second European Conference on Artificial Intelligence",
+        "pub_date": "2016/8/29",
+        "description": "Human experts or autonomous agents in a referral network must decide whether to accept a task or refer to a more appropriate expert, and if so to whom. In order for the referral network to improve over time, the experts must learn to estimate the topical expertise of other experts. This paper extends concepts from Reinforcement Learning and Active Learning to referral networks, to learn how to refer at the network level, based on the proposed distributed interval estimation learning (DIEL) algorithm. Diverse Monte Carlo simulations reveal that DIEL improves network performance significantly over both greedy and Q-learning baselines [3], approaching optimal given enough data.",
+        "citations": 7
+    },
+    {
+        "title": "SATenstein: Automatically building local search SAT solvers from components",
+        "id": "mWyMp38AAAAJ:NaGl4SEjCO4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:NaGl4SEjCO4C",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Lin Xu",
+            "Holger H Hoos",
+            "Kevin Leyton-Brown"
+        ],
+        "pub_source": "Artificial Intelligence",
+        "pub_date": "2016/3/1",
+        "description": "Designing high-performance solvers for computationally hard problems is a difficult and often time-consuming task. Although such design problems are traditionally solved by the application of human expertise, we argue instead for the use of automatic methods. In this work, we consider the design of stochastic local search (SLS) solvers for the propositional satisfiability problem (SAT). We first introduce a generalized, highly parameterized solver framework, dubbed SATenstein, that includes components drawn from or inspired by existing high-performance SLS algorithms for SAT. The parameters of SATenstein determine which components are selected and how these components behave; they allow SATenstein to instantiate many high-performance solvers previously proposed in the literature, along with trillions of novel solver strategies. We used an automated algorithm configuration procedure to find\u00a0\u2026",
+        "citations": 233
+    },
+    {
+        "title": "Quantifying the similarity of algorithm configurations",
+        "id": "mWyMp38AAAAJ:zYLM7Y9cAGgC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:zYLM7Y9cAGgC",
+        "authors": [
+            "Lin Xu",
+            "Ashiqur R KhudaBukhsh",
+            "Holger H Hoos",
+            "Kevin Leyton-Brown"
+        ],
+        "pub_source": "Learning and Intelligent Optimization: 10th International Conference, LION 10, Ischia, Italy, May 29--June 1, 2016, Revised Selected Papers 10",
+        "pub_date": "2016",
+        "description": "A natural way of attacking a new, computationally challenging problem is to find a novel way of combining design elements introduced in existing algorithms. For example, this approach was made systematic in SATenstein\u00a0[15], a highly parameterized stochastic local search (SLS) framework for SAT that unifies techniques across a wide range of well-known SLS solvers. The focus of such work so far has been on building frameworks and identifying high-performing configurations. Here, we focus on analyzing such frameworks, a problem that currently requires considerable manual effort and domain expertise. We propose a quantitative alternative: a new metric that measures the similarity between a new configuration and previously known algorithm designs. We first introduce concept DAGs, a data structure that preserves the hierarchical structure of configurations induced by conditional parameter\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Proactive skill posting in referral networks",
+        "id": "mWyMp38AAAAJ:2osOgNQ5qMEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:2osOgNQ5qMEC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Jaime G Carbonell",
+            "Peter J Jansen"
+        ],
+        "pub_source": "AI 2016: Advances in Artificial Intelligence: 29th Australasian Joint Conference, Hobart, TAS, Australia, December 5-8, 2016, Proceedings 29",
+        "pub_date": "2016",
+        "description": "Distributed learning in expert referral networks is an emerging challenge in the intersection of Active Learning and Multi-Agent Reinforcement Learning, where experts\u2014humans or automated agents\u2014can either solve problems themselves or refer said problems to others with more appropriate expertise. Recent work demonstrated methods that can substantially improve the overall performance of a network and proposed a distributed referral-learning algorithm, DIEL (Distributed Interval Estimation Learning), for learning appropriate referral choices. This paper augments the learning setting with a proactive skill posting step where experts can report some of their top skills to their colleagues. We found that in this new learning setting with meaningful priors, a modified algorithm, proactive-DIEL, performed initially much better and reached its maximum performance sooner than DIEL on the same data set used\u00a0\u2026",
+        "citations": 8
+    },
+    {
+        "title": "Building effective query classifiers: a case study in self-harm intent detection",
+        "id": "mWyMp38AAAAJ:qjMakFHDy7sC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:qjMakFHDy7sC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Paul N Bennett",
+            "Ryen W White"
+        ],
+        "pub_source": "Proceedings of the 24th ACM International on Conference on Information and Knowledge Management",
+        "pub_date": "2015/10/17",
+        "description": "Query-based triggers play a crucial role in modern search systems, e.g., in deciding when to display direct answers on result pages. We address a common scenario in designing such triggers for real-world settings where positives are rare and search providers possess only a small seed set of positive examples to learn query classification models. We choose the critical domain of self-harm intent detection to demonstrate how such small seed sets can be expanded to create meaningful training data with a sizable fraction of positive examples. Our results show that with our method, substantially more positive queries can be found compared to plain random sampling. Additionally, we explored the effectiveness of traditional active learning approaches on classification performance and found that maximum uncertainty performs the best among several other techniques that we considered.",
+        "citations": 16
+    },
+    {
+        "title": "Detecting non-adversarial collusion in crowdsourcing",
+        "id": "mWyMp38AAAAJ:d1gkVwhDpl0C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:d1gkVwhDpl0C",
+        "authors": [
+            "Ashiqur KhudaBukhsh",
+            "Jaime Carbonell",
+            "Peter Jansen"
+        ],
+        "pub_source": "Proceedings of the AAAI Conference on Human Computation and Crowdsourcing",
+        "pub_date": "2014/9/5",
+        "description": "A group of agents are said to collude if they share information or make joint decisions in a manner contrary to explicit or implicit social rules that results in an unfair advantage over non-colluding agents or other interested parties. For instance, collusion manifests as sharing answers in exams, as colluding bidders in auctions, or as colluding participants (eg, Turkers) in crowd sourcing. This paper studies the latter, where the goal of the colluding participants is to\" earn\" money without doing the actual work, for instance by copying product ratings of another colluding participant, adding limited noise as attempted obfuscation. Such collusion not only yields fewer independent ratings, but may also introduce strong biases in aggregate results if undetected. Our proposed unsupervised collusion detection algorithm identifies colluding groups in crowd sourcing with fairly high accuracy both in synthetic and real data, and results in significant bias reduction, such as minimizing shifts from the true mean in rating tasks and recovering the true variance among raters.",
+        "citations": 27
+    },
+    {
+        "title": "Quick start guide for SATenstein-LS",
+        "id": "mWyMp38AAAAJ:W7OEmFMy1HYC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:W7OEmFMy1HYC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "",
+        "pub_date": "2009/2/26",
+        "description": "SATenstein-LSis a highly-parameterized (41 parameters in total) generalized local search algorithm that is built by combining components from existing high-performance SLS (Stochastic Local Search) algorithm. SATenstein-LScan be configured to instantiate a broad range of existing high-performance SLS-based SAT solvers, and also billions of novel algorithms. SATenstein-LSis built on top of UBCSAT [Tompkins and Hoos, 2004] framework and it is highly recommended to go through the quick start guide http://www. satlib. org/ubcsat/quickstart. html of UBCSAT to gain more familiarity with SATenstein-LS."
+    },
+    {
+        "title": "SATenstein: Automatically building local search SAT solvers from components",
+        "id": "mWyMp38AAAAJ:_Qo2XoVZTnwC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:_Qo2XoVZTnwC",
+        "authors": [
+            "KhudaBukhsh Ashiqur R.",
+            "Xu Lin",
+            "Hoos Holger H.",
+            "Leyton-Brown Kevin"
+        ],
+        "pub_source": "International Joint Conference on Artificial Intelligence (IJCAI)",
+        "pub_date": "2009"
+    },
+    {
+        "title": "SATenstein: Automatically building local search SAT solvers from components",
+        "id": "mWyMp38AAAAJ:R3hNpaxXUhUC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:R3hNpaxXUhUC",
+        "authors": [
+            "Ashiqur R. KhudaBukhsh",
+            "Lin Xu",
+            "Holger H. Hoos",
+            "Kevin Leyton-Brown"
+        ],
+        "pub_source": "International Joint Conference on Artificial Intelligence (IJCAI)",
+        "pub_date": "2009"
+    },
+    {
+        "title": "SATenstein: Automatically building local search SAT solvers from components",
+        "id": "mWyMp38AAAAJ:u5HHmVD_uO8C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:u5HHmVD_uO8C",
+        "authors": [
+            "Ashiqur R KhudaBukhsh",
+            "Lin Xu",
+            "Holger H Hoos",
+            "Kevin Leyton-Brown"
+        ],
+        "pub_source": "International Joint Conference on Artificial Intelligence",
+        "pub_date": "2009"
+    },
+    {
+        "title": "A Survey on Supermodular Games",
+        "id": "mWyMp38AAAAJ:UeHWp8X0CEIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:UeHWp8X0CEIC",
+        "authors": [
+            "Ashiqur R KhudaBukhsh"
+        ],
+        "pub_source": "British Columbia, Canada: University of British Columbia",
+        "pub_date": "2006/12/27",
+        "description": "Supermodular games are an interesting class of games that exhibits strategic complementarity. There are several compelling reasons like existence of pure strategy nash equilibrium, dominance solvability, identical bounds on joint strategy space etc. that make them a strong candidate for game theoretic modeling of economics. Supermodular games give a sound framework for analysis as it is based on a rich mathematical foundation of lattice theory and comparative statics. Supermodular games are also important for mechanism designers as it is observed that supermodularity has a strong connection with convergence to the nash equilibrium.",
+        "citations": 2
+    },
+    {
+        "title": "XOR Design at Nanoscale with Quantum-DOT Cellular Automata",
+        "id": "mWyMp38AAAAJ:IWHjjKOFINEC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:IWHjjKOFINEC",
+        "authors": [
+            "S Roy",
+            "S Mahinder",
+            "AR Khudabukhsh"
+        ],
+        "pub_source": "Reason-A Technical Journal (Formerly Reason-A Technical Magazine)",
+        "pub_date": "2005",
+        "description": "The CIVIOS technology of VLSI design is fast approaching its fundamental limit. It is anticipated that further reduction in size of the devices will prompt quantum mechanical effects to come iPto play and thereby hinder proper functioning of the fabricated devices. In this scenario, research^'\u2022 s are looking for an appropriate nanotechnology for future generation ICs."
+    },
+    {
+        "title": "Harnessing Code Switching to Transcend the Linguistic Barrier",
+        "id": "mWyMp38AAAAJ:ns9cj8rnVeAC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:ns9cj8rnVeAC",
+        "authors": [
+            "Ashiqur KhudaBukhsh",
+            "Shriphani Palakodety",
+            "Jaime Carbonell"
+        ],
+        "pub_source": "Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence Special track on AI for CompSust and Human well-being.",
+        "pub_date": "",
+        "citations": 25
+    },
+    {
+        "title": "SATenstein: Automatically building local search SAT solvers from components",
+        "id": "mWyMp38AAAAJ:e5wmG9Sq2KIC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:e5wmG9Sq2KIC",
+        "authors": [
+            "KhudaBukhsh Ashiqur R.",
+            "Xu Lin",
+            "Hoos Holger H.",
+            "Leyton-Brown Kevin"
+        ],
+        "pub_source": "International Joint Conference on Artificial Intelligence (IJCAI)",
+        "pub_date": ""
+    },
+    {
+        "title": "ACAR, Umut A. CMU-CS-17-107 ANDERSEN, David G. CMU-CS-17-125 ARA\u00daJO, Miguel CMU-CS-17-110 BALZER, Stephanie CMU-CS-17-106, CMU-CS-17-106R",
+        "id": "mWyMp38AAAAJ:ufrVoPGSRksC",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:ufrVoPGSRksC",
+        "authors": [
+            "Sol BOUCHER",
+            "Stephen CHEN",
+            "Guillermo Andres CIDRE",
+            "Kristen GARDNER",
+            "Mor HARCHOL-BALTER",
+            "Robert HARPER",
+            "Kuen-Bang Favonia HOU",
+            "Esa HYYTI\u00c4",
+            "Siddhartha JAIN",
+            "Junchen JIANG",
+            "Michael KAMINSKY",
+            "Thomas KIM",
+            "Ashiqur Rahman KHUDABUKHSH",
+            "David KUROKAWA",
+            "Euiwoong LEE",
+            "Mu LI",
+            "Hyeontaek LIM",
+            "Roger LIU",
+            "Stefan MITSCH",
+            "Andreas M\u00dcLLER",
+            "Stefan K MULLER",
+            "David NAYLOR",
+            "Ligia Nicoleta NISTOR",
+            "Cyrus OMAR",
+            "Frank PFENNING",
+            "Andr\u00e9 PLATZER",
+            "Kai REN",
+            "Werner RETSCHITZEGGER",
+            "Rhonda RIGHTER",
+            "Wieland SCHWINGER",
+            "Neil SHAH",
+            "Shuang SU",
+            "Michael J SULLIVAN",
+            "Yong Kiam TAN",
+            "Bruno VAVALA",
+            "David WITMER",
+            "Shen Chen XU",
+            "Danny ZHU",
+            "Timothy ZHU"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "COMPUTER SCIENCE TECHNICAL REPORTS 2017 Technical Reports by Author Computer \nScience Department School of Computer Science, Carnegie Mellon University ACAR, Umut A. \nCMU-CS-17-107 ANDERSEN, David G. CMU-CS-17-125 ARA\u00daJO, Miguel CMU-CS-17-110 \nBALZER, Stephanie CMU-CS-17-106, CMU-CS-17-106R BOUCHER, Sol CMU-CS-17-125 \nCHEN, Stephen CMU-CS-17-130 CIDRE, Guillermo Andres CMU-CS-17-103 GARDNER, \nKristen CMU-CS-17-109, CMU-CS-17-112 HARCHOL-BALTER, Mor CMU-CS-17-109 \nHARPER, Robert CMU-CS-17-107 HOU, Kuen-Bang (Favonia) CMU-CS-17-101 HYYTI\u00c4, Esa \nCMU-CS-17-109 JAIN, Siddhartha CMU-CS-17-124 JIANG, Junchen CMU-CS-17-119 \nKAMINSKY, Michael CMU-CS-17-125 KIM, Thomas CMU-CS-17-125 KHUDABUKHSH, Ashiqur \nRahman CMU-CS-17-131 KUROKAWA, David CMU-CS-17-122 LEE, Euiwoong CMU-CS-17-\u2026"
+    },
+    {
+        "title": "2017 Theses by Author",
+        "id": "mWyMp38AAAAJ:YsMSGLbcyi4C",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=mWyMp38AAAAJ:YsMSGLbcyi4C",
+        "authors": [
+            "Miguel ARA\u00daJO",
+            "Stephen CHEN",
+            "Guillermo Andres CIDRE",
+            "Kristen GARDNER",
+            "Kuen-Bang Favonia HOU",
+            "Siddhartha JAIN",
+            "Junchen JIANG",
+            "Ashiqur Rahman KHUDABUKHSH",
+            "David KUROKAWA",
+            "Euiwoong LEE",
+            "Mu LI",
+            "Roger LIU",
+            "David NAYLOR",
+            "Ligia Nicoleta NISTOR",
+            "Cyrus OMAR",
+            "Kai REN",
+            "Neil SHAH",
+            "Shuang SU",
+            "Michael J SULLIVAN",
+            "Bruno VAVALA",
+            "David WITMER",
+            "Shen Chen XU",
+            "Danny ZHU",
+            "Timothy ZHU"
+        ],
+        "pub_source": "",
+        "pub_date": "",
+        "description": "COMPUTER SCIENCE TECHNICAL REPORTS 2017 Theses by Author Computer Science \nDepartment School of Computer Science, Carnegie Mellon University Please see abstracts \nfor all citations/formats related to each thesis. ARA\u00daJO, Miguel CMU-CS-17-110 CHEN, \nStephen CMU-CS-17-130 (MS) CIDRE, Guillermo Andres CMU-CS-17-103.pdf (MS) \nGARDNER, Kristen CMU-CS-17-112 HOU, Kuen-Bang (Favonia) CMU-CS-17-101 JAIN, \nSiddhartha CMU-CS-17-124 JIANG, Junchen CMU-CS-17-119 KHUDABUKHSH, Ashiqur \nRahman CMU-CS-17-131 KUROKAWA, David CMU-CS-17-122 LEE, Euiwoong CMU-CS-17-115 \nLI, Mu CMU-CS-17-102 LIU, Roger CMU-CS-17-128 (MS) NAYLOR, David CMU-CS-17-116 \nNISTOR, Ligia Nicoleta CMU-CS-17-132 OMAR, Cyrus CMU-CS-17-113 REN, Kai CMU-CS-17-121 \nSHAH, Neil CMU-CS-17-123 SU, Shuang CMU-CS-17-111 (MS) SULLIVAN, Michael J. CMU-\u2026"
+    }
+]
